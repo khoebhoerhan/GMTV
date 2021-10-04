@@ -823,8 +823,16 @@ https://rtmlive02tv.secureswiftcontent.com/rtmchannel/03-manifest.mpd
 http://50.7.161.82:8278/streams/d/Bernama/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/11xpNSu.jpg" group-title="NON-ENGLISH NEWS",TeleRadyo
 https://abscbn-ono.akamaized.net/midroll/amagi_hls_data_abscbnAAA-abscbn-teleradyo-oando/CDN/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KrpIbzA.png" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="NON-ENGLISH NEWS",CCTV-13 新闻
-http://183.207.248.71:80/cntv/live1/cctv-13/cctv-13
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KrpIbzA.png" group-title="MANDARIN NEWS",CCTV-13 新闻
+http://39.135.138.60:18890/PLTV/88888910/224/3221225638/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eSNdW3n.png" group-title="MANDARIN NEWS",Phoenix InfoNews Channel 鳳凰衛視資訊台
+https://playtv-live.ifeng.com/live/06OLEEWQKN4_tv1.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Aw2dGfj.png" group-title="MANDARIN NEWS",Phoenix Chinese Channel 鳳凰衛視中文台
+https://playtv-live.ifeng.com/live/06OLEGEGM4G_tv1.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Now_News_logo.svg/1920px-Now_News_logo.svg.png" group-title="MANDARIN NEWS",now 新聞台
+http://livetv.dnsfor.me:80/channel.4.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/RTHK_TV_31.svg/1280px-RTHK_TV_31.svg.png" group-title="MANDARIN NEWS",RTHK 31
+https://cdn.hkdtmb.com/hls/31/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kI7pHMn.jpg" group-title="NON-ENGLISH NEWS",YTN
 https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Th%E1%BB%9Di%20s%E1%BB%B1%20HD.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fd/AlArabiya2020.png" group-title="ARABIC NEWS",Al Arabiya
@@ -985,7 +993,7 @@ http://stream.tvtap.live:8081/live/bt220.stream/chunks.m3u8
 http://stream.tvtap.live:8081/live/bt33.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YcrrywD.png" group-title="BRITISH SPORTS",BT Sport ESPN
 http://stream.tvtap.live:8081/live/espnuk.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KX16Y9Y.png" group-title="BRITISH SPORTS",Free Sports
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LwYHFLx.png" group-title="BRITISH SPORTS",Free Sports
 https://csm-e-stv.tls1.yospace.com/csm/live/203444271.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tPxIkmd.png" group-title="BRITISH SPORTS",Premier Sports 1
 http://stream.tvtap.live:8081/live/prem.stream/playlist.m3u8
@@ -1025,7 +1033,7 @@ http://stream.tvtap.live:8081/live/foxsports2.stream/playlist.m3u8
 http://stream.tvtap.live:8081/live/nbcsn.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zeywLXs.png" group-title="WORLD SPORTS",Fox Sports News
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/3e/RACING.COM_logo_2016.svg/1920px-RACING.COM_logo_2016.svg.png" group-title="WORLD SPORTS",Racing.com
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IMAeAVz.jpg" group-title="WORLD SPORTS",Racing.com
 https://racingvic-i.akamaized.net/hls/live/598695/racingvic/1500.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/s2wciz8.png" group-title="WORLD SPORTS",Sky Racing 1
 https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/sky1_extreme@569780.m3u8
@@ -1071,7 +1079,7 @@ https://skyanywhere3-i.akamaihd.net/hls/live/510697/interactive/playlist.m3u8
 http://stream.tvtap.live:8081/live/it-skysportserieA.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Sky_Sport_Football_-_Logo_2020.svg/1920px-Sky_Sport_Football_-_Logo_2020.svg.png" group-title="ITALIAN SPORTS",Sky Sport Football
 http://stream.tvtap.live:8081/live/it-skysport-football.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/LqsZP2p.png" group-title="ITALIAN SPORTS",Super Tennis
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Sky_Sport_Tennis.svg/1920px-Sky_Sport_Tennis.svg.png" group-title="ITALIAN SPORTS",Sky Sport Tennis
 http://stream.tvtap.live:8081/live/it-supertennis.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CSBS4Ff.png" group-title="GERMAN SPORTS",DAZN 1
 http://stream.tvtap.live:8081/live/de-dazn1.stream/playlist.m3u8
