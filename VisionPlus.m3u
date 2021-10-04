@@ -55,7 +55,7 @@ https://liveanevia.mncnow.id/live/eds/PemersatuBangsa/sa_dash_vmx/PemersatuBangs
 http://118.97.50.107/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(04)/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RIwYxS9.png" group-title="NASIONAL",TVRI Kanal 3
 http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI3)/Stream(03)/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/48/RRI_NET.png" group-title="NASIONAL",RRI Net
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/48/RRI_NET.png" group-title="VISUAL RADIO",RRI Net
 https://cdnrrinet.rri.co.id/rrinet/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/23/Mayapada_TV.png" group-title="NASIONAL",myTV
 http://210.210.155.35/x6bnqe/s/s88/S4/mnf.m3u8
@@ -185,7 +185,7 @@ https://v10.siar.us/rctv/live/playlist.m3u8
 https://v2.siar.us/saktitv/livestream/playlist.m3u8#t=0.1
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/3/3c/Cakra-semarang-tv.png" group-title="LOKAL",Semarang TV
 http://116.254.112.74:80/hls/cakralive.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/f/f8/Suara_Surabaya.svg/938px-Suara_Surabaya.svg.png" group-title="LOKAL",Suara Surabaya
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/f/f8/Suara_Surabaya.svg/938px-Suara_Surabaya.svg.png" group-title="VISUAL RADIO",Suara Surabaya
 https://ssfm.siar.us/ssfm/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/a/af/TATV_logo.svg/400px-TATV_logo.svg.png" group-title="LOKAL",TATV
 http://video2.onlivestreaming.net/tatv/live.sdp/playlist.m3u8
@@ -771,8 +771,12 @@ https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/
 https://timesnow-lh.akamaihd.net/i/TNHD_1@129288/index_480_av-b.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/biAMqAi.jpg" group-title="INDIAN NEWS",Mirror Now
 http://mbnowweb-lh.akamaihd.net/i/MRN_1@346545/index_576_av-p.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/a4AAPZm.png" group-title="INDIAN NEWS",Republic TV
-https://weblive.republicworld.com/liveorigin/republictv/master_hdlive_360p.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Atn4Ppt.png" group-title="INDIAN NEWS",India Ahead
+https://d3a9l0u5hgmgjl.cloudfront.net/01.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/83CZGrB.png" group-title="INDIAN NEWS",NewsX
+https://itvoign.multitvsolution.com/hls/newsx_720p/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nK04jlH.png" group-title="ARABIC NEWS",Al Alam News Network
+https://live2.alalam.ir/live/Alalam/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wWHiR9B.png" group-title="NON-ENGLISH NEWS",LN24
 https://live.cdn.ln24.be/out/v1/b191621c8b9a436cad37bb36a82d2e1c/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b6/Logo_BFM_TV_%282019%29.png" group-title="FRENCH NEWS",BFM TV
@@ -815,7 +819,7 @@ https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
 https://rtmlive02tv.secureswiftcontent.com/rtmchannel/03-manifest.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZIsWGuK.png" group-title="MALAY NEWS",Bernama
 http://50.7.161.82:8278/streams/d/Bernama/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/11xpNSu.jpg" group-title="NON-ENGLISH NEWS",TeleRadyo
+#EXTINF:-1 tvg-logo="https://i.imgur.com/11xpNSu.jpg" group-title="VISUAL RADIO",TeleRadyo
 https://abscbn-ono.akamaized.net/midroll/amagi_hls_data_abscbnAAA-abscbn-teleradyo-oando/CDN/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KrpIbzA.png" group-title="MANDARIN NEWS",CCTV-13 新闻
 http://39.135.138.60:18890/PLTV/88888910/224/3221225638/index.m3u8
@@ -841,6 +845,8 @@ https://abp-i.akamaihd.net/hls/live/765529/abphindi/master.m3u8
 https://nicls1-lh.akamaihd.net/i/ddnews_1@409133/master.m3u8?checkedby:hlscat.com
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dLoKNoF.png" group-title="HINDI NEWS",Good News Today
 https://tezlive-amd.akamaized.net/hls/live/2016145/tez/tezlive/tez_5/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mgkIqLN.png" group-title="HINDI NEWS",India News
+https://itvoign.multitvsolution.com/hls/inkhabar_480p/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.indiatvnews.com/ins-web/images/IndiaTV_500x500.png" group-title="HINDI NEWS",India TV
 https://live-indiatvnews.akamaized.net/indiatv-origin/liveabr/indiatv-origin/live2/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/13hqQkh.png" group-title="HINDI NEWS",NDTV India
@@ -849,8 +855,6 @@ https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/ndtvindiam
 https://news18india-lh.akamaihd.net/i/news18india_1@174951/index_5_av-p.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/News24_Logo.jpg" group-title="HINDI NEWS",News24
 https://vidcdn.vidgyor.com/news24-origin/liveabr/news24-origin/live1/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0fFuH3n.png" group-title="HINDI NEWS",Republic Bharat
-https://republic.pc.cdn.bitgravity.com/live/bharat_hls/masterlive_360p.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hMGFK9v.jpg" group-title="HINDI NEWS",Times Now Navbharat
 https://pubads.g.doubleclick.net/ssai/event/nRWQsGoJSzmcErJFgAy67g/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aUfDyOT.png" group-title="HINDI NEWS",TV9 Bharatvarsh
@@ -883,6 +887,8 @@ https://streamcdnb10-859c1818ed614cc5b0047439470927b0.msvdn.net/live/S76890577/t
 https://yahoo-samsung.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vPAwWou.png" group-title="BUSINESS NEWS",ET Now
 http://etnowweblive-lh.akamaihd.net/i/ETN_1@348070/index_576_av-b.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/59kbGww.jpg" group-title="BUSINESS NEWS",ET Now Swadesh
+https://timesnowhindi-i.akamaihd.net/hls/live/1023684-b/swadeshtemp/chunklist_0.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/i1qQWS1.png" group-title="BUSINESS NEWS",Zee Business
 http://208.115.215.42:80/ZEE_Business_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/6/62/Logo_Business_2020.png" group-title="BUSINESS NEWS",BFM Business
@@ -927,8 +933,6 @@ http://210.210.155.35:80/uq2663/h/h22/01.m3u8
 http://stream.tvtap.live:8081/live/nba.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JApkfiF.png" group-title="WORLD SPORTS",Tennis Channel International
 https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/JApkfiF.png" group-title="AMERICAN SPORTS",Tennis Channel
-https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f/g.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MRULdc8.png" group-title="BEIN SPORTS",beIN Sports 1 MENA
 http://31.220.41.88:8081/live/bein1.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NDp6TlM.png" group-title="BEIN SPORTS",beIN Sports 2 MENA
