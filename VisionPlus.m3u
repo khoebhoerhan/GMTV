@@ -129,7 +129,7 @@ https://liveanevia.mncnow.id/live/eds/BaliTV_Timeshift/sa_dash_timeshift/BaliTV_
 https://liveanevia.mncnow.id/live/eds/BandungTV/sa_dash_vmx/BandungTV.mpd
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/Logo_bdg_tv_2016.png" group-title="LOKAL",Bandung TV HD
 http://202.150.153.254/bandungtv720p.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/SQBUnfQ.png" group-title="LOKAL",Banjar TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/u1nCcBb.png" group-title="LOKAL",Banjar TV
 https://v2.siar.us/banjartv/livestream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/w59D0Bk.jpeg" group-title="LOKAL",Banten TV
 https://v2.siar.us/barayatv/live/playlist.m3u8
@@ -323,6 +323,8 @@ http://45.126.83.51/dr9445/h/h15/index.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=N2NlNGIzZDgtMDIzYi0zZjU4LTg3ZDMtZjVjNDJlMzQwNjJh
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nlzcTuZ.png" group-title="GENERAL ENTERTAINMENT",FMN
 https://liveanevia.mncnow.id/live/eds/FMN/sa_dash_vmx/FMN.mpd
+#EXTINF:-1 tvg-logo="https://i.imgur.com/71d2wEk.png" group-title="GENERAL ENTERTAINMENT",Paramount Network
+https://home-tv.web.id/RHS/111111111111111111111111111111111111111mpd.m3u8?channel=paramount
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ApK5dBk.png" group-title="GENERAL ENTERTAINMENT",Sky Atlantic
 http://stream.tvtap.live:8081/live/skyatlantic.stream/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -344,7 +346,7 @@ https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/ch
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=N2NlNGIzZDgtMDIzYi0zZjU4LTg3ZDMtZjVjNDJlMzQwNjJh
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YBKMgbV.png" group-title="JAPANESE ENTERTAINMENT",WakuWaku Japan
-https://liveanevia.mncnow.id/live/eds/WakuWakuJapan/sa_dash_vmx/WakuWakuJapan.mpd
+https://home-tv.web.id/RHS/111111111111111111111111111111111111111mpd.m3u8?channel=wakuwaku
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=N2NlNGIzZDgtMDIzYi0zZjU4LTg3ZDMtZjVjNDJlMzQwNjJh
 #EXTINF:-1 tvg-logo="https://nhkworldpremium.com/img/provider/logo.png" group-title="JAPANESE ENTERTAINMENT",NHK World Premium
@@ -383,6 +385,8 @@ https://liveanevia.mncnow.id/live/eds/MusicChannel/sa_dash_vmx/MusicChannel.mpd
 http://iptv.prosto.tv:7000/ch128/video.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/X7VxlBN.png" group-title="MUSIC",MTV
 https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/324745775
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XD4fyZS.png" group-title="MUSIC",Prambors 
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=d2ddea18f00665ce8623e36bd4e3c7c5f93fb3c9879684db94f7af38b446022a
 #EXTINF:-1 tvg-logo="https://i.imgur.com/29bJSZf.png" group-title="MUSIC",Zing
 https://f8e7y4c6.ssl.hwcdn.net/zing/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iKYRgAD.png" group-title="MUSIC",TRT Müzik
@@ -433,6 +437,8 @@ https://liveanevia.mncnow.id/live/eds/HitsMovies/sa_dash_vmx/HitsMovies.mpd
 https://liveanevia.mncnow.id/live/eds/CinemaWorld/sa_dash_vmx/CinemaWorld.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AJbFTSr.png" group-title="MOVIES",Star Movies
 http://221.120.204.4/STAR-MOVIEAS-LOCKLE/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uS1ys1s.png" group-title="MOVIES",MyFamily
+https://home-tv.web.id/RHS/111111111111111111111111111111111111111mpd.m3u8?channel=myfamily
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/12/%26flix_logo.png" group-title="MOVIES",&flix
 https://f8e7y4c6.ssl.hwcdn.net/andflixhd/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/h9W2I7O.png" group-title="MOVIES",&privé
@@ -499,6 +505,14 @@ http://stream.tvtap.live:8081/live/mpremiere.stream/chunks.m3u8
 http://stream.tvtap.live:8081/live/mscifi.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rzBurDo.png" group-title="BRITISH MOVIES",Sky Cinema Select
 http://stream.tvtap.live:8081/live/mselect.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5bAuGTZ.png" group-title="BEIN MOVIES",beIN Movies 1 Premiere
+http://grets.co21.net:2082/Medelectro_603328/ggO8T18n/18
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bP9ukOD.png" group-title="BEIN MOVIES",beIN Movies 2 Action
+http://grets.co21.net:2082/Medelectro_603328/ggO8T18n/21
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gP9dNGz.png" group-title="BEIN MOVIES",beIN Movies 3 Drama
+http://grets.co21.net:2082/Medelectro_603328/ggO8T18n/19
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8u4iYTA.png" group-title="BEIN MOVIES",beIN Movies 4 Family
+http://grets.co21.net:2082/Medelectro_603328/ggO8T18n/20
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=N2NlNGIzZDgtMDIzYi0zZjU4LTg3ZDMtZjVjNDJlMzQwNjJh
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/7/7f/Kids_TV_%282020%29.png" group-title="KIDS",Kids TV
@@ -611,7 +625,7 @@ https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist_1280x720_30
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_2_1964000.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/CNN_Philippines_Logo.svg/800px-CNN_Philippines_Logo.svg.png" group-title="NON-ENGLISH NEWS",CNN Philippines
 https://streaming.cnnphilippines.com/live/myStream/chunklist_w1199238897.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1ul15KO.png" group-title="TURKISH NEWS",CNN Türk
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hi0D9Ut.png" group-title="TURKISH NEWS",CNN Türk
 http://163.172.39.215:25461/line/C4@!a3a1@!w72A/129
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=N2NlNGIzZDgtMDIzYi0zZjU4LTg3ZDMtZjVjNDJlMzQwNjJh
@@ -947,6 +961,8 @@ http://stream.tvtap.live:8081/live/tr-bein1.stream/playlist.m3u8
 http://stream.tvtap.live:8081/live/tr-bein2.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/j8VC6nB.png" group-title="BEIN SPORTS",beIN Sports 3 Turkey
 http://stream.tvtap.live:8081/live/tr-bein3.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/39bwyGI.png" group-title="BEIN SPORTS",beIN Sports Malaysia
+https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/324745747
 #EXTINF:-1 tvg-logo="https://i.imgur.com/upoN7mZ.png" group-title="BEIN SPORTS",beIN Sports Max Malaysia
 https://nonton.site:8443/Athayamanja/SHFTZRKFrF/37433
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LfzLKei.png" group-title="BEIN SPORTS",beIN Sports en Español
@@ -1168,7 +1184,7 @@ http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chun
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Fnh70hI.png" group-title="RELIGION",Life
 https://liveanevia.mncnow.id/live/eds/Life/sa_dash_vmx/Life.mpd
 #EXTINF:-1 tvg-logo="https://u-channel.tv/wp-content/uploads/2017/07/Logo-UChannel-400-72dpi-300x125.png" group-title="RELIGION",U Channel
-https://5e396e0211d7a.streamlock.net/uchannel/live/chunklist_w1757708360.m3u8
+http://210.210.155.35/qwr9ew/s/s41/01.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=N2NlNGIzZDgtMDIzYi0zZjU4LTg3ZDMtZjVjNDJlMzQwNjJh
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yytNSjM.png" group-title="RELIGION",EWTN
