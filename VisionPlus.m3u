@@ -837,6 +837,10 @@ https://cdn.hkdtmb.com/hls/31/index.m3u8
 http://cdn.hkdtmb.com/hls/83/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kI7pHMn.jpg" group-title="NON-ENGLISH NEWS",YTN
 https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Th%E1%BB%9Di%20s%E1%BB%B1%20HD.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sqcfD3Q.jpg" group-title="NON-ENGLISH NEWS",TNN 16
+https://tnnthailand-8zdgwf.cdn.byteark.com/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RQTi6Nm.jpg" group-title="NON-ENGLISH NEWS",Top News
+https://live.topnews.co.th/hls/topnews.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fd/AlArabiya2020.png" group-title="ARABIC NEWS",Al Arabiya
 https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/o3rBa0e.png" group-title="HINDI NEWS",Aaj Tak
@@ -959,12 +963,6 @@ http://31.220.41.90:8081/live/fr-beinsport1.stream/chunks.m3u8
 http://31.220.41.90:8081/live/fr-beinsport2.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/j8VC6nB.png" group-title="BEIN SPORTS",beIN Sports 3 France
 http://31.220.41.90:8081/live/fr-beinsport3.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GUQXFn9.png" group-title="BEIN SPORTS",beIN Sports 1 Premium
-http://xcwsnl28.mrnova.online/live/60080_.m3u8?token=7a86c74fb7dd4a7e9c78498451b8df79
-#EXTINF:-1 tvg-logo="https://i.imgur.com/i3I3ngh.png" group-title="BEIN SPORTS",beIN Sports 2 Premium
-http://xcwsnl28.mrnova.online/live/60081_.m3u8?token=7a86c74fb7dd4a7e9c78498451b8df79
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WlvzNJf.png" group-title="BEIN SPORTS",beIN Sports 3 Premium
-http://xcwsnl28.mrnova.online/live/60082_.m3u8?token=7a86c74fb7dd4a7e9c78498451b8df79
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MRULdc8.png" group-title="BEIN SPORTS",beIN Sports 1 Turkey
 http://stream.tvtap.live:8081/live/tr-bein1.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NDp6TlM.png" group-title="BEIN SPORTS",beIN Sports 2 Turkey
@@ -1441,6 +1439,18 @@ http://91.126.141.13:1935/live/21/playlist.m3u8
 http://stream.tvtap.live:8081/live/es-mega.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Telecinco_2012_Large.svg/800px-Telecinco_2012_Large.svg.png" group-title="SPAIN",Telecinco
 http://91.126.141.13:1935/live/61/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f3/BBTV_Channel_7.png" group-title="THAILAND",BBTV 7
+https://bcovlive-a.akamaihd.net/efdfa4b2dfc54cb38fdb120d52973e95/ap-southeast-1/5282994675001/profile_5/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c6/Logo_tv5.png" group-title="THAILAND",Channel 5
+https://tc-live1.sanook.com/live/22302_ch5.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Mono_29_Logo.png" group-title="THAILAND",Mono 29
+https://edge2-bkk.3bb.co.th:9443/MONO29_HLS_1080P/mono29hls_1080TH.stream/chunklist_w1021782105.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/NBT_2009.png" group-title="THAILAND",NBT 2
+http://122.155.92.8:1935/live/ch1_L.sdp/chunklist_w1503718698.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5a/Thai_PBS_logo.png" group-title="THAILAND",Thai PBS
+http://thaipbs-live.cdn.byteark.com/live/playlist_480p/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/50/Thairath_TV_Logo.svg/1920px-Thairath_TV_Logo.svg.png" group-title="THAILAND",Thairath TV
+https://live.thairath.co.th/trtv2/playlist_720p/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c3/360_tv.png" group-title="TURKEY",360
 https://tv.ensonhaber.com/tv/tr/360tv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/c3RgcaI.png" group-title="TURKEY",a2
