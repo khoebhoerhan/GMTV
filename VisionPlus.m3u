@@ -1126,15 +1126,15 @@ http://stream.tvtap.live:8081/live/bein-laliga.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Teledeporte.svg/1280px-Teledeporte.svg.png" group-title="SPANISH SPORTS",Teledeporte
 http://91.126.141.13:1935/live/91/1800-def.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pcAhRs8.png" group-title="PORTUGAL SPORTS",Sport TV 1
-http://31.220.41.88:8081/live/pt-sporttv1.stream/chunks.m3u8
+http://51.15.0.141:88/PT_SPORT_TV_1_HD/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CPt6Fsg.png" group-title="PORTUGAL SPORTS",Sport TV 2
-http://31.220.41.88:8081/live/pt-sporttv2.stream/chunks.m3u8
+http://51.15.0.141:88/PT_SPORT_TV_2_HD/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wbhOsK2.png" group-title="PORTUGAL SPORTS",Sport TV 3
-http://31.220.41.88:8081/live/pt-sporttv3.stream/chunks.m3u8
+http://51.15.0.141:88/PT_SPORT_TV_3_HD/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/itYiAnd.png" group-title="PORTUGAL SPORTS",Sport TV 4
-http://31.220.41.88:8081/live/pt-sporttv4.stream/chunks.m3u8
+http://51.15.0.141:88/PT_SPORT_TV_4_HD/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LblSggR.png" group-title="PORTUGAL SPORTS",Sport TV 5
-http://31.220.41.88:8081/live/pt-sporttv5.stream/chunks.m3u8
+http://51.15.0.141:88/PT_SPORT_TV_5_HD/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Km9HrEA.png" group-title="PORTUGAL SPORTS",Sport TV +
 http://185.236.229.21:9981/play/a03c
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7bPCw4Q.png" group-title="MALAY SPORTS",Astro Arena
