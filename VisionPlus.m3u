@@ -353,10 +353,20 @@ http://50.7.161.82:8277/streams/d/ria_pye/playlist.m3u8
 http://50.7.161.82:8277/streams/d/prima_pye/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JCn7Yd0.png" group-title="MALAY ENTERTAINMENT",Astro Warna
 http://50.7.161.82:8277/streams/d/warnahd_pye/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/c8JQQ82.png" group-title="WORLD ENTERTAINMENT",CCTV 4 中文国际
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iNhSs8x.png" group-title="CHINESE ENTERTAINMENT",CCTV 1 综合
+http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv1/HD-8000k-1080P-cctv1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BQoyBoS.png" group-title="CHINESE ENTERTAINMENT",CCTV 4 中文国际
 http://183.207.248.71:80/cntv/live1/cctv-4/cctv-4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DZaD1Lf.png" group-title="WORLD ENTERTAINMENT",TVB 星河频道
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DZaD1Lf.png" group-title="CHINESE ENTERTAINMENT",TVB 星河频道
 http://50.7.161.82:8278/streams/d/Xinhe/./playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bL6rOV4.png" group-title="CHINESE ENTERTAINMENT",TVB 翡翠台
+http://198.16.106.62:8278/streams/d/Wlt/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/J0waOhK.png" group-title="CHINESE ENTERTAINMENT",TVB J2
+https://cdn.hkdtmb.com/hls/82/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EPl3Ico.png" group-title="CHINESE ENTERTAINMENT",TVB Pearl
+http://cdn.hkdtmb.com/hls/84/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/ViuTV_logo.svg/640px-ViuTV_logo.svg.png" group-title="CHINESE ENTERTAINMENT",Viu TV
+https://cdn.hkdtmb.com/hls/99/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Rai_Italia_-_Logo_2017.svg/1920px-Rai_Italia_-_Logo_2017.svg.png" group-title="WORLD ENTERTAINMENT",Rai Italia
 http://rr3.dens.tv/s/s63/index2.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/H4NjQUJ.png" group-title="WORLD ENTERTAINMENT",RTP Internacional
@@ -1449,7 +1459,7 @@ https://edge2-bkk.3bb.co.th:9443/MONO29_HLS_1080P/mono29hls_1080TH.stream/chunkl
 http://122.155.92.8:1935/live/ch1_L.sdp/chunklist_w1503718698.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5a/Thai_PBS_logo.png" group-title="THAILAND",Thai PBS
 http://thaipbs-live.cdn.byteark.com/live/playlist_480p/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/50/Thairath_TV_Logo.svg/1920px-Thairath_TV_Logo.svg.png" group-title="THAILAND",Thairath TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ougQaDE.png" group-title="THAILAND",Thairath TV
 https://live.thairath.co.th/trtv2/playlist_720p/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c3/360_tv.png" group-title="TURKEY",360
 https://tv.ensonhaber.com/tv/tr/360tv/index.m3u8
