@@ -403,6 +403,8 @@ https://f8e7y4c6.ssl.hwcdn.net/zing/tracks-v1a1/index.m3u8
 https://home-tv.web.id/RHS/111111111111111111111111111111111111111mpd.m3u8?channel=ikonser
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iKYRgAD.png" group-title="MUSIC",TRT Müzik
 https://tv-trtmuzik.medya.trt.com.tr/master_720.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6R8N3z2.png" group-title="MUSIC",SBS MTV
+https://www.navchina.cf/IPTV/sbs.php?id=S09
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=N2NlNGIzZDgtMDIzYi0zZjU4LTg3ZDMtZjVjNDJlMzQwNjJh
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9v0WUqt.png" group-title="MOVIES",HBO
@@ -527,6 +529,12 @@ http://grets.co21.net:2082/Medelectro_603328/ggO8T18n/21
 http://grets.co21.net:2082/Medelectro_603328/ggO8T18n/19
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8u4iYTA.png" group-title="BEIN MOVIES",beIN Movies 4 Family
 http://grets.co21.net:2082/Medelectro_603328/ggO8T18n/20
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Movistar_Acci%C3%B3n.svg/1920px-Movistar_Acci%C3%B3n.svg.png" group-title="SPANISH MOVIES",Movistar Acción
+http://stream.tvtap.live:8081/live/es-movistar-accion.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Movistar_Cine_Espa%C3%B1ol.svg/1920px-Movistar_Cine_Espa%C3%B1ol.svg.png" group-title="SPANISH MOVIES",Movistar Cine Ñ 
+http://stream.tvtap.live:8081/live/es-moviestarcinen.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Movistar_Comedia.svg/1920px-Movistar_Comedia.svg.png" group-title="SPANISH MOVIES",Movistar Comedia
+http://stream.tvtap.live:8081/live/es-movistar-comedie.stream/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=N2NlNGIzZDgtMDIzYi0zZjU4LTg3ZDMtZjVjNDJlMzQwNjJh
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/7/7f/Kids_TV_%282020%29.png" group-title="KIDS",Kids TV
@@ -775,7 +783,7 @@ http://1111296894.rsc.cdn77.org/LS-ATL-54548-8/mono.m3u8
 https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master_2500.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Jai0CTx.png" group-title="SPANISH NEWS",CNN Chile
 https://unlimited1-cl-movistar.dps.live/cnn/cnn.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9f/Al_Jazeera_Balkans.png" group-title="NON-ENGLISH NEWS",Al Jazeera Balkans
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2D9tAmC.png" group-title="NON-ENGLISH NEWS",Al Jazeera Balkans
 https://live-hls-web-ajb.getaj.net/AJB/01.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/35/GB_News_Logo.svg/1920px-GB_News_Logo.svg.png" group-title="BRITISH NEWS",GB News
 https://live-gbnews.simplestreamcdn.com/gbnews/gbnews/bitrate1.isml/bitrate1-audio_0=192000-video=4499968.m3u8
@@ -871,6 +879,8 @@ https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Th%E1%BB%9Di%20
 https://tnnthailand-8zdgwf.cdn.byteark.com/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RQTi6Nm.jpg" group-title="NON-ENGLISH NEWS",Top News
 https://live.topnews.co.th/hls/topnews.m3u8
+#EXTINF:-1 tvg-logo="https://www.shockya.com/news/wp-content/uploads/rossiya_24.png" group-title="NON-ENGLISH NEWS",России 24
+http://cdnmg.secure.live.rtr-vesti.ru/live/smil:r24.smil/chunklist_b1200000.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fd/AlArabiya2020.png" group-title="ARABIC NEWS",Al Arabiya
 https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/o3rBa0e.png" group-title="HINDI NEWS",Aaj Tak
@@ -983,13 +993,13 @@ http://sos.moukrasa.xyz/live/69854211/index.m3u8
 http://31.220.41.88:8081/live/bein3.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/j8VC6nB.png" group-title="BEIN SPORTS",beIN Sports HD 3 MENA
 http://sos.moukrasa.xyz/live/645587700/index.m3u8?
-#EXTINF:-1 tvg-logo="https://i.imgur.com/iGp9LYd.png" group-title="BEIN SPORTS",beIN Sports 4 MENA
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Lu26Yho.png" group-title="BEIN SPORTS",beIN Sports 4 MENA
 http://stream.tvtap.live:8081/live/bein4.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/iGp9LYd.png" group-title="BEIN SPORTS",beIN Sports HD 4 MENA
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Lu26Yho.png" group-title="BEIN SPORTS",beIN Sports HD 4 MENA
 http://sos.moukrasa.xyz/live/9787488847/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7lrrVWt.png" group-title="BEIN SPORTS",beIN Sports 5 MENA
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pA5by2y.png" group-title="BEIN SPORTS",beIN Sports 5 MENA
 http://stream.tvtap.live:8081/live/bein5.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7lrrVWt.png" group-title="BEIN SPORTS",beIN Sports HD 5 MENA
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pA5by2y.png" group-title="BEIN SPORTS",beIN Sports HD 5 MENA
 http://sos.moukrasa.xyz/live/610303030/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mbFoSUX.png" group-title="BEIN SPORTS",beIN Sports 6 MENA
 http://stream.tvtap.live:8081/live/bein6.stream/chunks.m3u8
