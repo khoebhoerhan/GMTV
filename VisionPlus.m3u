@@ -1149,6 +1149,8 @@ http://iptv.tvmalaysia.cc:80/jalan8/jalan8/6710
 http://iptv.tvmalaysia.cc:80/jalan8/jalan8/6711
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PlwrDwx.png" group-title="MALAY SPORTS",Astro Supersport 4
 http://iptv.tvmalaysia.cc:80/jalan8/jalan8/6712
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FieopQP.png" group-title="MALAY SPORTS",Astro Supersport 5
+https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/324745744
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8NC0zoQ.png" tvg-url="https://raw.githubusercontent.com/samleong123/rtm-live/main/rtmklik.xml" group-title="MALAY SPORTS",Sukan RTM
 http://50.7.161.82:8278/streams/d/rtm_pye/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36
@@ -1166,7 +1168,9 @@ https://feed.play.mv/live/10005200/RG2fKR6d9p/master.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e9/A_Spor_logosu.png" group-title="WORLD SPORTS",A Spor
 http://ozel.canlitvplayer.com:9000/TR_-_A_SPOR_HD_PLUS/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Bj0MyZQ.png" group-title="WORLD SPORTS",SPOTV
-https://go.chambers.my.id/Spotv2
+https://cloudserver.server-cdn-streaming.com/live-player/11/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WbPfNOb.png" group-title="WORLD SPORTS",SPOTV 2
+https://cloudserver.server-cdn-streaming.com/live-player/13/live.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1920px-ESPN_wordmark.svg.png" group-title="DUTCH SPORTS",ESPN
 http://31.220.41.88:8081/live/nl-foxsports1.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/1280px-ESPN2_logo.svg.png" group-title="DUTCH SPORTS",ESPN 2
