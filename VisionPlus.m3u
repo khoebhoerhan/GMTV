@@ -110,7 +110,7 @@ https://b1world.beritasatumedia.com/Beritasatu/B1World_1280x720.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VMokxOy.png" group-title="NATIONAL NEWS",Jakarta Globe News Channel
 https://b1english.beritasatumedia.com/Beritasatu/B1English_1280x720.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/X7S2Lk1.png" group-title="NATIONAL NEWS",TVR Parlemen
-http://103.16.220.69:1935/golive/livestream/playlist.m3u8
+http://103.18.181.69:1935/golive/livestream/chunklist_w1350607412.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=N2NlNGIzZDgtMDIzYi0zZjU4LTg3ZDMtZjVjNDJlMzQwNjJh
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/2/20/TvOne_logo_2012.svg/1280px-TvOne_logo_2012.svg.png" group-title="NATIONAL NEWS",tvOne
@@ -129,7 +129,7 @@ https://liveanevia.mncnow.id/live/eds/BandungTV/sa_dash_vmx/BandungTV.mpd
 http://202.150.153.254/bandungtv720p.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/u1nCcBb.png" group-title="LOKAL",Banjar TV
 https://v2.siar.us/banjartv/livestream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/w59D0Bk.jpeg" group-title="LOKAL",Banten TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MQWDIh0.png" group-title="LOKAL",Banten TV
 https://v2.siar.us/barayatv/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/4/4f/Batu_TV.png" group-title="LOKAL",Batu TV
 http://117.103.69.219:8080/live/streaming/index.m3u8
@@ -139,6 +139,8 @@ http://wms.klikhost.com/bayutv/live/chunklist.m3u8
 http://103.119.54.246:8080/hls/bbstv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ixY9LmM.png" group-title="LOKAL",BETV
 https://h1.intechmedia.net/intech/ch58.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NXQvFTv.png" group-title="LOKAL",BMS TV
+http://bmstv.onlivestreaming.net/bmstv/livestream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/3/3f/CTV_Banten.png/1200px-CTV_Banten.png" group-title="LOKAL",CTV Banten
 http://103.23.201.170:1935/live/livestream/chunklist_w1352763317.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/U5jiuuM.png" group-title="LOKAL",Dayak TV
@@ -161,7 +163,7 @@ https://liveanevia.mncnow.id/live/eds/JakTV/sa_dash_vmx/JakTV.mpd
 http://wowza58.indostreamserver.com:1935/jambitv/live/chunklist_w1308495282.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4eGZB6u.png" group-title="LOKAL",Jawa Pos TV
 http://103.236.151.43:1935/jawapostv/live/chunklist_w1312856686.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Hp4EdoV.png" group-title="LOKAL",JITV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rMdwtbu.png" group-title="LOKAL",JITV
 https://mam.jogjaprov.go.id:1937/tv/jitv/chunklist_w163357330.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/5/58/Jogjatv3d.png/1200px-Jogjatv3d.png" group-title="LOKAL",Jogja TV
 https://stream.jogjatv.co.id/jtvlive/stream/index.m3u8
@@ -171,7 +173,11 @@ https://stream.jogjatv.co.id/jtvlive/stream/index.m3u8
 https://akamai.mncnow.id/live/eds/JTV/sa_dash_vmx/JTV.mpd
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/8/8e/JTV_%282012%29.svg/1094px-JTV_%282012%29.svg.png" group-title="LOKAL",JTV HD
 https://cdn02.mola.tv/Content/HLS/Live/channel(f2cd666d-f350-1140-7ce5-3d7f39f84727)/08.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/9/94/PalTV_Palembang.png" group-title="LOKAL",Pal TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/X5YoCdN.png" group-title="LOKAL",Lombok TV
+http://103.23.201.170:1935/live/lbtv/chunklist_w1995349508.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/53OjK6n.png" group-title="LOKAL",MGS TV
+https://cdn.gunadarma.ac.id/streams/mgstv/ingestmgstv_high.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/R8eg7kU.png" group-title="LOKAL",Pal TV
 https://v3.siar.us/paltv/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/leO6MG8.png" group-title="LOKAL",PKTV
 rtmp://wowza60.indostreamserver.com:1935/pktv/live
@@ -835,6 +841,14 @@ https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
 https://rtmlive02tv.secureswiftcontent.com/rtmchannel/03-manifest.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZIsWGuK.png" group-title="MALAY NEWS",Bernama
 http://50.7.161.82:8278/streams/d/Bernama/playlist.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36
+#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mzfSx2B.png" group-title="MALAY NEWS",RTM Parlimen (Dewan Negara)
+https://rtmlive08tv.secureswiftcontent.com/rtmchannel/08-manifest.mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36
+#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mzfSx2B.png" group-title="MALAY NEWS",RTM Parlimen (Dewan Rakyat)
+https://rtmlive04tv.secureswiftcontent.com/rtmchannel/04-manifest.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/11xpNSu.jpg" group-title="VISUAL RADIO",TeleRadyo
 https://abscbn-ono.akamaized.net/midroll/amagi_hls_data_abscbnAAA-abscbn-teleradyo-oando/CDN/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KrpIbzA.png" group-title="MANDARIN NEWS",CCTV-13 新闻
@@ -1413,7 +1427,7 @@ http://208.115.215.42/ZEE_Tv_HD_02/tracks-v1a1/mono.m3u8
 http://stream.tvtap.live:8081/live/rte1.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/11/RT%C3%892_logo.svg/1920px-RT%C3%892_logo.svg.png" group-title="IRELAND",RTÉ 2
 http://stream.tvtap.live:8081/live/rte2.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Canale_5_-_2018_logo.svg/1024px-Canale_5_-_2018_logo.svg.png" group-title="ITALY",Canale 5
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yPrJ4wh.png" group-title="ITALY",Canale 5
 http://stream.tvtap.live:8081/live/it-canale5.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e2/Italia_1.svg/800px-Italia_1.svg.png" group-title="ITALY",Italia 1
 http://stream.tvtap.live:8081/live/it-italia1.stream/playlist.m3u8
