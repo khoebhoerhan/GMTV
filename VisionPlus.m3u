@@ -399,10 +399,6 @@ https://liveanevia.mncnow.id/live/eds/MusicChannel/sa_dash_vmx/MusicChannel.mpd
 http://iptv.prosto.tv:7000/ch128/video.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/X7VxlBN.png" group-title="MUSIC",MTV
 https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/324745738
-#EXTINF:-1 tvg-logo="https://i.imgur.com/29bJSZf.png" group-title="MUSIC",Zing
-https://f8e7y4c6.ssl.hwcdn.net/zing/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XD4fyZS.png" group-title="MUSIC",Prambors
-https://home-tv.web.id/RHS/111111111111111111111111111111111111111mpd.m3u8?channel=pramborstv
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sclnoXl.png" group-title="MUSIC",iKonser
 https://home-tv.web.id/RHS/111111111111111111111111111111111111111mpd.m3u8?channel=ikonser
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iKYRgAD.png" group-title="MUSIC",TRT Müzik
@@ -1495,6 +1491,8 @@ http://221.120.204.4/SONY-HD-LOCKLE/tracks-v1a1/mono.m3u8
 http://208.115.215.42/Utsav_Plus_HD/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DcG1oo6.png" group-title="INDIA",Zee TV
 http://208.115.215.42/ZEE_Tv_HD_02/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/29bJSZf.png" group-title="INDIA",Zing
+https://f8e7y4c6.ssl.hwcdn.net/zing/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e4/RT%C3%89_One_2014.svg/1920px-RT%C3%89_One_2014.svg.png" group-title="IRELAND",RTÉ One
 http://stream.tvtap.live:8081/live/rte1.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/11/RT%C3%892_logo.svg/1920px-RT%C3%892_logo.svg.png" group-title="IRELAND",RTÉ 2
