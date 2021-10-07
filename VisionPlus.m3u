@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/mncvision.id.guide.xml,http://rtm.samsam123.tk/rtmklik.xml,https://iptv-org.github.io/epg/guides/astro.com.my.guide.xml"
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=N2NlNGIzZDgtMDIzYi0zZjU4LTg3ZDMtZjVjNDJlMzQwNjJh
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/dd/RCTI_logo_2015.svg/1280px-RCTI_logo_2015.svg.png" group-title="NASIONAL",RCTI
@@ -401,6 +401,8 @@ http://iptv.prosto.tv:7000/ch128/video.m3u8
 https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/324745738
 #EXTINF:-1 tvg-logo="https://i.imgur.com/29bJSZf.png" group-title="MUSIC",Zing
 https://f8e7y4c6.ssl.hwcdn.net/zing/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XD4fyZS.png" group-title="MUSIC",Prambors
+https://home-tv.web.id/RHS/111111111111111111111111111111111111111mpd.m3u8?channel=pramborstv
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sclnoXl.png" group-title="MUSIC",iKonser
 https://home-tv.web.id/RHS/111111111111111111111111111111111111111mpd.m3u8?channel=ikonser
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iKYRgAD.png" group-title="MUSIC",TRT Müzik
@@ -563,6 +565,10 @@ https://liveanevia.mncnow.id/live/eds/NickJr/sa_dash_vmx/NickJr.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=N2NlNGIzZDgtMDIzYi0zZjU4LTg3ZDMtZjVjNDJlMzQwNjJh
 #EXTINF:-1 tvg-logo="https://i.imgur.com/91ucvv3.png" group-title="KIDS",Baby TV
 https://liveanevia.mncnow.id/live/eds/BabyTV-NewHD/sa_dash_vmx/BabyTV-NewHD.mpd
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SU2QKXj.png" group-title="KIDS",IndiKids
+https://home-tv.web.id/RHS/111111111111111111111111111111111111111mpd.m3u8?channel=indikids
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GCeS1xO.png" group-title="KIDS",Horee
+https://home-tv.web.id/RHS/111111111111111111111111111111111111111mpd.m3u8?channel=horee
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=N2NlNGIzZDgtMDIzYi0zZjU4LTg3ZDMtZjVjNDJlMzQwNjJh
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9HyfeHi.png" group-title="KIDS",CBeebies
@@ -959,6 +965,10 @@ https://liveanevia.mncnow.id/live/eds/MNC-Sports2/sa_dash_vmx/MNC-Sports2.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=N2NlNGIzZDgtMDIzYi0zZjU4LTg3ZDMtZjVjNDJlMzQwNjJh
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qXnQXkl.png" group-title="NATIONAL SPORTS",MNC Sports 3
 https://liveanevia.mncnow.id/live/eds/Soccer-2/sa_dash_vmx/Soccer-2.mpd
+#EXTINF:-1 tvg-logo="https://i.imgur.com/igMrYaN.png" group-title="NATIONAL SPORTS",Usee Sports
+https://home-tv.web.id/RHS/111111111111111111111111111111111111111mpd.m3u8?channel=useesport
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jJY4VIw.png" group-title="NATIONAL SPORTS",Usee Sports 2
+https://home-tv.web.id/RHS/111111111111111111111111111111111111111mpd.m3u8?channel=useesports2
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cg1yMfi.png" group-title="NATIONAL SPORTS",TVRI Sport HD
 http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
