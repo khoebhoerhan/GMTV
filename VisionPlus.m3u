@@ -69,7 +69,7 @@ https://liveanevia.mncnow.id/live/eds/iNewsTV/sa_dash_vmx/iNewsTV.mpd
 https://liveanevia.mncnow.id/live/eds/MNCNews/sa_dash_vmx/MNCNews.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TDXhTzO.png" group-title="NATIONAL NEWS",IDX
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TDXhTzO.png" group-title="NATIONAL NEWS",IDX Channel
 https://liveanevia.mncnow.id/live/eds/IDX/sa_dash_vmx/IDX.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=N2NlNGIzZDgtMDIzYi0zZjU4LTg3ZDMtZjVjNDJlMzQwNjJh
@@ -439,7 +439,7 @@ http://50.7.161.82:8278/streams/d/Citra/playlist.m3u8
 https://liveanevia.mncnow.id/live/eds/HitsMovies/sa_dash_vmx/HitsMovies.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=N2NlNGIzZDgtMDIzYi0zZjU4LTg3ZDMtZjVjNDJlMzQwNjJh
-#EXTINF:-1 tvg-logo="https://i.imgur.com/iQ7YVav.png" group-title="MOVIES",CinemaWorld
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iQ7YVav.png" group-title="MOVIES",Cinema World
 https://liveanevia.mncnow.id/live/eds/CinemaWorld/sa_dash_vmx/CinemaWorld.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AJbFTSr.png" group-title="MOVIES",Star Movies
 http://221.120.204.4/STAR-MOVIEAS-LOCKLE/index.m3u8
@@ -449,7 +449,7 @@ https://f8e7y4c6.ssl.hwcdn.net/andflixhd/index.m3u8
 https://f8e7y4c6.ssl.hwcdn.net/andprivehd/index.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/4DyH9pK.png" group-title="MOVIES",Star Movies Select
 http://103.153.39.34:8000/play/a04g/index.m3u8
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5f/Sony_PIX.png" group-title="MOVIES", Sony Pix
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5f/Sony_PIX.png" group-title="MOVIES", Sony PIX
 https://feed.play.mv/live/10005200/jmW41EycvT/1.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=N2NlNGIzZDgtMDIzYi0zZjU4LTg3ZDMtZjVjNDJlMzQwNjJh
@@ -627,7 +627,7 @@ https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/324745736
 https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/324745717
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mThnlFK.png" group-title="KNOWLEDGE",Smithsonian Channel
 https://smithsonianaus-samsungau.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5QGgJe8.png" group-title="KNOWLEDGE", Love Nature
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5QGgJe8.png" group-title="KNOWLEDGE",Love Nature
 https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/309065971
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XD8Vr0d.jpg" group-title="KNOWLEDGE",NASA TV
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
@@ -661,11 +661,11 @@ http://www.filmon.com/vr-streams/27.high/playlist.m3u8
 https://vs-cmaf-pushb-ww-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2_akamai_dash_live_http.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ms/thumb/f/f2/Aljazeera_eng.svg/1200px-Aljazeera_eng.svg.png" group-title="WORLD NEWS",Al Jazeera English
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ms/thumb/f/f2/Aljazeera_eng.svg/1200px-Aljazeera_eng.svg.png" group-title="WORLD NEWS",Aljazeera
 https://liveanevia.mncnow.id/live/eds/AlJazeeraInternational/sa_dash_vmx/AlJazeeraInternational.mpd
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ms/thumb/f/f2/Aljazeera_eng.svg/1200px-Aljazeera_eng.svg.png" group-title="WORLD NEWS",Al Jazeera English HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ms/thumb/f/f2/Aljazeera_eng.svg/1200px-Aljazeera_eng.svg.png" group-title="WORLD NEWS",Aljazeera HD
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PszVneu.png" group-title="ARABIC NEWS",Al Jazeera Arabic
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PszVneu.png" group-title="ARABIC NEWS",Aljazeera Arabic
 https://live-hls-web-aja.getaj.net/AJA/01.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YxxHcfZ.png" group-title="WORLD NEWS",Sky News
 https://skynews2-plutolive-vo.akamaized.net/cdhlsskynewsamericas/1013/latest.m3u8
@@ -767,9 +767,9 @@ https://livefr.cgtn.com/1000f/prog_index.m3u8
 https://liveru.cgtn.com/1000r/prog_index.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/800px-Fox_News_Channel_logo.svg.png" group-title="AMERICAN NEWS",Fox News Channel
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/800px-Fox_News_Channel_logo.svg.png" group-title="AMERICAN NEWS",Fox News
 https://akamai.mncnow.id/live/eds/FoxNews/sa_dash_vmx/FoxNews.mpd
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/800px-Fox_News_Channel_logo.svg.png" group-title="AMERICAN NEWS",Fox News Channel HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/800px-Fox_News_Channel_logo.svg.png" group-title="AMERICAN NEWS",Fox News HD
 http://1111296894.rsc.cdn77.org/ls-54548-2/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cMM9MAg.png" group-title="AMERICAN NEWS",MSNBC
 http://1111296894.rsc.cdn77.org/LS-ATL-54548-10/mono.m3u8
@@ -785,7 +785,7 @@ http://1111296894.rsc.cdn77.org/LS-ATL-54548-8/mono.m3u8
 https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master_2500.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Jai0CTx.png" group-title="SPANISH NEWS",CNN Chile
 https://unlimited1-cl-movistar.dps.live/cnn/cnn.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2D9tAmC.png" group-title="NON-ENGLISH NEWS",Al Jazeera Balkans
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2D9tAmC.png" group-title="NON-ENGLISH NEWS",Aljazeera Balkans
 https://live-hls-web-ajb.getaj.net/AJB/01.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/35/GB_News_Logo.svg/1920px-GB_News_Logo.svg.png" group-title="BRITISH NEWS",GB News
 https://live-gbnews.simplestreamcdn.com/gbnews/gbnews/bitrate1.isml/bitrate1-audio_0=192000-video=4499968.m3u8
@@ -1497,9 +1497,9 @@ https://liveopencloud.siliconweb.com/1/ZlRza2R6L2tFRnFJ/eWVLSlQx/hls/live/playli
 https://skai-live.siliconweb.com/media/cambria4/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Eg91jHK.png" group-title="INDIA",Colors
 http://51.79.84.156:8082/ColorsIn/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HyGQkbK.png" group-title="INDIA",Sony Entertainment TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HyGQkbK.png" group-title="INDIA",Sony TV
 http://221.120.204.4/SONY-HD-LOCKLE/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Xn6isEl.png" group-title="INDIA",Sony Sab
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Xn6isEl.png" group-title="INDIA",Sony SAB
 http://221.120.204.4/SONY-SAB-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FFcPLin.png" group-title="INDIA",Star Plus
 http://93.190.139.35:8278/streams/d/Starplushd/playlist.m3u8
