@@ -853,11 +853,11 @@ https://rtmlive02tv.secureswiftcontent.com/rtmchannel/03-manifest.mpd
 http://50.7.161.82:8278/streams/d/Bernama/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mzfSx2B.png" group-title="MALAY NEWS",RTM Parlimen (Dewan Negara)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mzfSx2B.png" group-title="MALAY NEWS",Dewan Negara
 https://rtmlive08tv.secureswiftcontent.com/rtmchannel/08-manifest.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mzfSx2B.png" group-title="MALAY NEWS",RTM Parlimen (Dewan Rakyat)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mzfSx2B.png" group-title="MALAY NEWS",Dewan Rakyat
 https://rtmlive04tv.secureswiftcontent.com/rtmchannel/04-manifest.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/11xpNSu.jpg" group-title="VISUAL RADIO",TeleRadyo
 https://abscbn-ono.akamaized.net/midroll/amagi_hls_data_abscbnAAA-abscbn-teleradyo-oando/CDN/playlist.m3u8
