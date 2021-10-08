@@ -359,9 +359,9 @@ http://50.7.161.82:8277/streams/d/ria_pye/playlist.m3u8
 http://50.7.161.82:8277/streams/d/prima_pye/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JCn7Yd0.png" group-title="MALAY ENTERTAINMENT",Astro Warna
 http://50.7.161.82:8277/streams/d/warnahd_pye/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/iNhSs8x.png" group-title="CHINESE ENTERTAINMENT",CCTV 1 综合
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iNhSs8x.png" group-title="CHINESE ENTERTAINMENT",CCTV-1 综合
 http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv1/HD-8000k-1080P-cctv1
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BQoyBoS.png" group-title="CHINESE ENTERTAINMENT",CCTV 4 中文国际
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BQoyBoS.png" group-title="CHINESE ENTERTAINMENT",CCTV-4 中文国际
 http://183.207.248.71:80/cntv/live1/cctv-4/cctv-4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rL5gaK5.png" group-title="CHINESE ENTERTAINMENT",Formosa 民視
 rtmp://59.124.75.136/sat/tv051
@@ -462,11 +462,9 @@ https://f8e7y4c6.ssl.hwcdn.net/andflixhd/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/h9W2I7O.png" group-title="MOVIES",&privé
 https://f8e7y4c6.ssl.hwcdn.net/andprivehd/index.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/4DyH9pK.png" group-title="MOVIES",Star Movies Select
-https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/309065943
+http://103.153.39.34:8000/play/a04g/index.m3u8
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5f/Sony_PIX.png" group-title="MOVIES", Sony Pix
-https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/309065944
-#EXTINF: -1 tvg-logo="https://i.imgur.com/z6XOws6.png" group-title="MOVIES",MNX
-https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/309065945
+https://feed.play.mv/live/10005200/jmW41EycvT/1.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=N2NlNGIzZDgtMDIzYi0zZjU4LTg3ZDMtZjVjNDJlMzQwNjJh
 #EXTINF:-1 tvg-logo="https://i.imgur.com/duaKL8I.png" group-title="ASIAN MOVIES",Thrill
@@ -877,7 +875,7 @@ https://rtmlive08tv.secureswiftcontent.com/rtmchannel/08-manifest.mpd
 https://rtmlive04tv.secureswiftcontent.com/rtmchannel/04-manifest.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/11xpNSu.jpg" group-title="VISUAL RADIO",TeleRadyo
 https://abscbn-ono.akamaized.net/midroll/amagi_hls_data_abscbnAAA-abscbn-teleradyo-oando/CDN/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KrpIbzA.png" group-title="MANDARIN NEWS",CCTV 13 新闻
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KrpIbzA.png" group-title="MANDARIN NEWS",CCTV-13 新闻
 http://39.135.138.60:18890/PLTV/88888910/224/3221225638/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/e/e2/FTV_News_Logo.png" group-title="MANDARIN NEWS",FTV News
 http://210.61.56.23/hls/ftvtv/index.m3u8
@@ -1141,9 +1139,9 @@ https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/sky1_extreme@569780.m3
 https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/sky2_extreme@569780.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vPoYbHR.png" group-title="WORLD SPORTS",Sky Thoroughbred Central
 https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/stcsd_extreme@569780.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Dt4IDCL.png" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="WORLD SPORTS",CCTV 5 体育
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Dt4IDCL.png" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="WORLD SPORTS",CCTV-5 体育
 http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv5/HD-8000k-1080P-cctv5
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qvfq4yw.png" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="WORLD SPORTS",CCTV 5+ 体育赛事
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qvfq4yw.png" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="WORLD SPORTS",CCTV-5+ 体育赛事
 http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv05plus/HD-8000k-1080P-cctv05plus
 #EXTINF:-1 tvg-logo="https://i.imgur.com/W8d65IY.png" group-title="CANADIAN SPORTS",Sportsnet One
 http://stream.tvtap.live:8081/live/snone.stream/playlist.m3u8
@@ -1525,8 +1523,10 @@ https://skai-live.siliconweb.com/media/cambria4/index.m3u8
 http://51.79.84.156:8082/ColorsIn/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HyGQkbK.png" group-title="INDIA",Sony Entertainment TV
 http://221.120.204.4/SONY-HD-LOCKLE/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Xn6isEl.png" group-title="INDIA",Sony Sab
+http://221.120.204.4/SONY-SAB-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FFcPLin.png" group-title="INDIA",Star Plus
-http://208.115.215.42/Utsav_Plus_HD/playlist.m3u8
+http://93.190.139.35:8278/streams/d/Starplushd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DcG1oo6.png" group-title="INDIA",Zee TV
 http://208.115.215.42/ZEE_Tv_HD_02/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/29bJSZf.png" group-title="INDIA",Zing
