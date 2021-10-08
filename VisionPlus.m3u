@@ -158,7 +158,7 @@ https://stream.jogjatv.co.id/jtvlive/stream/index.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=N2NlNGIzZDgtMDIzYi0zZjU4LTg3ZDMtZjVjNDJlMzQwNjJh
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/8/8e/JTV_%282012%29.svg/1094px-JTV_%282012%29.svg.png" group-title="LOKAL",JTV
-https://cdn02.mola.tv/Content/HLS/Live/channel(f2cd666d-f350-1140-7ce5-3d7f39f84727)/08.m3u8
+https://akamai.mncnow.id/live/eds/JTV/sa_dash_vmx/JTV.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/X5YoCdN.png" group-title="LOKAL",Lombok TV
 http://103.23.201.170:1935/live/lbtv/chunklist_w1995349508.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/53OjK6n.png" group-title="LOKAL",MGS TV
