@@ -645,8 +645,6 @@ https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_2_19
 https://streaming.cnnphilippines.com/live/myStream/chunklist_w1199238897.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hi0D9Ut.png" group-title="TURKISH NEWS",CNN Türk
 http://163.172.39.215:25461/line/C4@!a3a1@!w72A/129
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg/1280px-Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg.png" group-title="SPANISH NEWS",CNN en Español
-http://38.131.11.9:1080/play/a004
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=N2NlNGIzZDgtMDIzYi0zZjU4LTg3ZDMtZjVjNDJlMzQwNjJh
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WdC4rbi.png" group-title="WORLD NEWS",BBC World News
@@ -925,7 +923,7 @@ http://stream.tvtap.live:8081/live/us-cnbc.stream/playlist.m3u8
 https://hiplayer.hibridcdn.net/t/cnbcarabia-live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/K4v9gj2.png" group-title="BUSINESS NEWS",CNBC Awaaz
 https://cnbcawaaz-lh.akamaihd.net/i/cnbcawaaz_1@174872/index_5_av-p.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2W3OUr8.png" group-title="BUSINESS NEWS",CNBC TV-18
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2W3OUr8.png" group-title="BUSINESS NEWS",CNBC TV18
 https://cnbctv18-lh.akamaihd.net/i/cnbctv18_1@174868/index_5_av-p.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CtMuxqO.png" group-title="BUSINESS NEWS",Class CNBC
 https://streamcdnb10-859c1818ed614cc5b0047439470927b0.msvdn.net/live/S76890577/tDoFkZD3T1Lw/chunklist_b1728000.m3u8
@@ -1321,7 +1319,7 @@ https://tv5styleen-i.akamaihd.net/hls/live/631650/tv5styleen/tv5style_eng_1200.m
 http://stream.tvtap.live:8081/live/us-destination.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/2018_Travel_Channel_logo.svg/1920px-2018_Travel_Channel_logo.svg.png" group-title="LIFESTYLE",Travel Channel
 https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/324745781
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/8TV_Chinese.png" group-title="MALAYSIA",TV8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/8TV_Chinese.png" group-title="MALAYSIA",8TV
 http://50.7.161.82:8278/streams/d/tv8_pye/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1d/Awesome_TV_Malaysia.png" group-title="MALAYSIA", Awesome TV
 http://iptv.tvmalaysia.cc:80/297340/297340/9016
