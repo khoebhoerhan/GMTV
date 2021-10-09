@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site site="guidatv.sky.it">
+  <channels>
+    <channel site_id="DTH#308" xmltv_id="ClassCNBC.it">Class CNBC</channel>
+    <channel site_id="DTH#801" xmltv_id="EuroNewsItaliano.fr">Euronews Italiano</channel>
+    <channel site_id="DTH#8329" xmltv_id="La7.it">La 7</channel>
+    <channel site_id="DTH#9753" xmltv_id="Nove.it">Nove</channel>
+    <channel site_id="DTH#6621" xmltv_id="Rai2.it">Rai 2</channel>
+    <channel site_id="DTH#6602" xmltv_id="Rai3.it">Rai 3</channel>
+    <channel site_id="DTH#6622" xmltv_id="Rai4.it">Rai 4</channel>
+    <channel site_id="DTH#6607" xmltv_id="Rai5.it">Rai 5</channel>
+    <channel site_id="DTH#807" xmltv_id="RaiSport.it">Rai Sport+</channel>
+    <channel site_id="DTH#6886" xmltv_id="RTNews.ru">RT HD</channel>
+    <channel site_id="DTH#445" xmltv_id="SkyNewsInternational.uk">Sky News</channel>
+    <channel site_id="DTH#929" xmltv_id="SkySport24.it">Sky Sport 24</channel>
+    <channel site_id="DTH#9103" xmltv_id="SkySportFootball.it">Sky Sport Football</channel>
+    <channel site_id="DTH#8753" xmltv_id="SkySportNBA.it">Sky Sport NBA</channel>
+    <channel site_id="DTH#9113" xmltv_id="SkySportSerieA.it">Sky Sport Calcio</channel>
+    <channel site_id="DTH#8714" xmltv_id="SkySportUno.it">Sky Sport Uno</channel>
+    <channel site_id="DTH#362" xmltv_id="SkyTG24.it">Sky TG24</channel>
+    <channel site_id="DTH#9115" xmltv_id="SkyUno.it">Sky Uno</channel>
+    <channel site_id="DTH#8195" xmltv_id="TV8.it">TV8</channel>
+    </channels>
+</site>
