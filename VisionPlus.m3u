@@ -653,6 +653,8 @@ https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_2_19
 https://streaming.cnnphilippines.com/live/myStream/chunklist_w1199238897.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hi0D9Ut.png" group-title="TURKISH NEWS",CNN Türk
 http://163.172.39.215:25461/line/C4@!a3a1@!w72A/129
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Jai0CTx.png" group-title="LATINO NEWS",CNN Chile
+https://unlimited1-cl-movistar.dps.live/cnn/cnn.smil/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=N2NlNGIzZDgtMDIzYi0zZjU4LTg3ZDMtZjVjNDJlMzQwNjJh
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WdC4rbi.png" group-title="WORLD NEWS",BBC World News
@@ -781,8 +783,6 @@ https://nmxlive.akamaized.net/hls/live/529965/Live_1/index_1080.m3u8
 http://1111296894.rsc.cdn77.org/LS-ATL-54548-8/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Pf8hnQK.png" group-title="CANADIAN NEWS",Ici RDI
 https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master_2500.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Jai0CTx.png" group-title="SPANISH NEWS",CNN Chile
-https://unlimited1-cl-movistar.dps.live/cnn/cnn.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/35/GB_News_Logo.svg/1920px-GB_News_Logo.svg.png" group-title="BRITISH NEWS",GB News
 https://live-gbnews.simplestreamcdn.com/gbnews/gbnews/bitrate1.isml/bitrate1-audio_0=192000-video=4499968.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jtPPRFX.png" group-title="AUSTRALIAN NEWS",ABC News
@@ -871,6 +871,10 @@ http://livetv.dnsfor.me:80/channel.4.m3u8
 https://cdn.hkdtmb.com/hls/31/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5gGkYuD.png" group-title="MANDARIN NEWS",TVB News
 http://cdn.hkdtmb.com/hls/83/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XyKKCz3.png" group-title="LATINO NEWS",A24
+https://g1.vxral-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-100056_720p.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/IP%2C_Informaci%C3%B3n_Periodistica_%282020%29.png/1920px-IP%2C_Informaci%C3%B3n_Periodistica_%282020%29.png" group-title="LATINO NEWS",Información Periodística
+https://d1nmqgphjn0y4.cloudfront.net/live/ip/live.isml/live-audio_1=128000-video=4499968.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kI7pHMn.jpg" group-title="NON-ENGLISH NEWS",YTN
 https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Th%E1%BB%9Di%20s%E1%BB%B1%20HD.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/TVP_Info_logo.svg/1920px-TVP_Info_logo.svg.png" group-title="NON-ENGLISH NEWS",TVP Info
@@ -1404,7 +1408,7 @@ http://50.7.161.82:8278/streams/d/tv9_pye/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/92/TVS_Sarawak.jpg" group-title="MALAYSIA",TVS
 https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/309065877
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fakV73e.png" group-title="SINGAPORE",Channel 5
-http://198.16.106.61:8277/streams/d/Channel5HD/playlist.m3u8
+https://tglmp02.akamaized.net/out/v1/5081e069e08140c9b95f89a1659cf4dd/manifest.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rwn2fVK.png" group-title="SINGAPORE",Channel 8
 http://198.16.106.61:8277/streams/d/Channel8HD/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/69ePQhz.png" group-title="SINGAPORE",Channel U
@@ -1471,6 +1475,14 @@ http://31.220.41.88:8081/live/itv4.stream/chunks.m3u8
 http://stream.tvtap.live:8081/live/itvbe.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ApK5dBk.png" group-title="UK",Sky Atlantic
 http://stream.tvtap.live:8081/live/skyatlantic.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RKkYHR9.png" group-title="ARGENTINA",America
+https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/Logo_de_eltrece_lanzado_en_2016.png" group-title="ARGENTINA",El Trece
+http://cdn.stg.cvattv.com.ar/live/live2/ArtearHD/SA_Live_fta/ArtearHD.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Net_TV_logo.png/120px-Net_TV_logo.png" group-title="ARGENTINA",Net TV
+https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/800px-Telefe_%28nuevo_logo%29.png" group-title="ARGENTINA",Telefe  34.1
+http://edge1.stg.cvattv.com.ar/live/live2/TelefeHD/SA_Live_fta/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UL4rFrR.png" group-title="AUSTRALIA",ABC Me
 https://c.mjh.nz/101002210224
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5lqI9oA.png" group-title="AUSTRALIA",ABC TV
@@ -1627,10 +1639,14 @@ https://tc-live1.sanook.com/live/22302_ch5.m3u8
 https://freelive2.inwstream.com:1936/freelive-edge/ch8/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a9/GMM_25_Logo.png" group-title="THAILAND",GMM 25
 https://freelive.inwstream.com:1936/freelive-edge/gmmchannel/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Jkn18.png/1200px-Jkn18.png" group-title="THAILAND",JKN 18
+http://host4.dynns.com/stream/0d01fdc1362f427ca5527c645f5f908f.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Mono_29_Logo.png" group-title="THAILAND",Mono
 https://edge2-bkk.3bb.co.th:9443/MONO29_HLS_1080P/mono29hls_1080TH.stream/chunklist_w1021782105.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/i52auTN.png" group-title="THAILAND",MCOT 30
 http://mcotdigital-pnnouc.cdn.byteark.com/mcothd1080p_edge/smil:mcothd1080p.smil/chunklist_w534518664_b3000000.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Nationtv.png" group-title="THAILAND",Nation TV
+http://host4.dynns.com/stream/a5b25476119b46f5b5a34d56f7d1156c.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/NBT_2009.png" group-title="THAILAND",NBT
 http://122.155.92.8:1935/live/ch1_L.sdp/chunklist_w1503718698.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6GpsVJd.png" group-title="THAILAND",PPTV
@@ -1641,6 +1657,8 @@ https://thaipbs-live.cdn.byteark.com/live/playlist_720p/index.m3u8
 https://live.thairath.co.th/trtv2/playlist_720p/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/64/True4U_Logo.svg/500px-True4U_Logo.svg.png" group-title="THAILAND",True4u
 https://freelive.inwstream.com:1936/freelive-edge/true4u/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Kh2YHBE.png" group-title="THAILAND",Workpoint
+http://host4.dynns.com/stream/a9a68ab5471d4d39ba25695a66957067.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c3/360_tv.png" group-title="TURKEY",360
 https://tv.ensonhaber.com/tv/tr/360tv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/c3RgcaI.png" group-title="TURKEY",a2
