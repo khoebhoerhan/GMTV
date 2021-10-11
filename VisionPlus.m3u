@@ -897,6 +897,8 @@ http://185.236.229.21:9981/play/a073
 https://tnnthailand-8zdgwf.cdn.byteark.com/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RQTi6Nm.jpg" group-title="NON-ENGLISH NEWS",Top News
 https://live.topnews.co.th/hls/topnews.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/99/UNTV-Logo-2016.svg/1920px-UNTV-Logo-2016.svg.png" group-title="NON-ENGLISH NEWS",UNTV
+https://cdn.untvweb.com/live-stream/chunklist_b732000.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HnuEqk6.png" group-title="NON-ENGLISH NEWS",Record News
 https://5cf4a2c2512a2.streamlock.net/8016/8016/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Iran_International.svg/1200px-Iran_International.svg.png" group-title="NON-ENGLISH NEWS",Iran International
@@ -1517,7 +1519,7 @@ http://cdn.stg.cvattv.com.ar/live/live2/ArtearHD/SA_Live_fta/ArtearHD.m3u8
 https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Oo5v6l5.png" group-title="ARGENTINA",Telefe
 http://edge1.stg.cvattv.com.ar/live/live2/TelefeHD/SA_Live_fta/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/TVP_-_Televisi%C3%B3n_P%C3%BAblica_%282021%29.svg/1920px-TVP_-_Televisi%C3%B3n_P%C3%BAblica_%282021%29.svg.png" group-title="ARGENTINA",TV Publica
+#EXTINF:-1 tvg-logo="https://i.imgur.com/srtddlN.png" group-title="ARGENTINA",TV Publica
 https://delivery.cdn.rcs.net.ar/mnp/tvp/output.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UL4rFrR.png" group-title="AUSTRALIA",ABC Me
 https://c.mjh.nz/101002210224
@@ -1567,6 +1569,10 @@ http://unlimited10-cl.dps.live/tvn/tvn.smil/tvn/livestream1/chunks.m3u8
 http://unlimited1-cl.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/u7ECXoD.png" group-title="COLOMBIA",Canal Institucional
 https://streaming.rtvc.gov.co/TV_CanalInstitucional_live/smil:live.smil/chunklist_b1500000.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/CaracolTelevisi%C3%B3n2019.png/800px-CaracolTelevisi%C3%B3n2019.png" group-title="COLOMBIA",Caracol
+http://mdstrm.com/live-stream-playlist_800/58dc3d471cbe05ff3c8e463e.m3u8?PlaylistM3UCL
+#EXTINF:- 1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/92/RCN_Novelas.png" group-title="COLOMBIA",RCN Novelas
+https://qlobbidev.s.llnwi.net/bpk-tv/RCNNOVELAS/hls/RCNNOVELAS-audio_128043_spa=128000-video=800000.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7oxuvLG.png" group-title="COLOMBIA",Señal Colombia
 https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/chunklist_b1500000.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/47/C8_logo.jpg" group-title="FRANCE",C8
@@ -1659,16 +1665,28 @@ http://stream.tvtap.live:8081/live/it-tv8.stream/playlist.m3u8
 https://v-sd.mybtv.net/event/502/1920x1080.m3u8?start_time=2021-05-16&end_time=2028-05-17&uid=33630 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JnRpLg8.png" group-title="MEXICO",Azteca Uno
 https://v-sd.mybtv.net/event/508/1920x1080.m3u8?start_time=2021-05-16&end_time=2023-05-17&uid=33630
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yfXBk1L.png" group-title="MEXICO",Imagen Television
+https://cdn87.theus6tv.tk/locals/SanDiego/xhctti-tdt.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ub3kuWh.png" group-title="MEXICO",Las Estrellas
 https://qlobbidev.s.llnwi.net/bpk-tv/ESTRELLAS/hls/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Multimedios_Canal_Seis_Logo.svg/800px-Multimedios_Canal_Seis_Logo.svg.png" group-title="MEXICO",Multimedios
 http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5a2PNe2.png" group-title="MEXICO",Star Action
+http://cdn.stg.cvattv.com.ar/live/live2/FoxActionHD/SA_Live_fta/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wzmQrcy.png" group-title="MEXICO",Star Channel
+https://edge1.stg.cvattv.com.ar/live/live2/FXHD/SA_Live_fta/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/NPO_1_logo_2014.svg/1280px-NPO_1_logo_2014.svg.png" group-title="NETHERLANDS",NPO 1
 http://stream.tvtap.live:8081/live/nl-npo1.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/NPO_2_logo_2014.svg/1280px-NPO_2_logo_2014.svg.png" group-title="NETHERLANDS",NPO 2
 http://stream.tvtap.live:8081/live/nl-npo2.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/NPO_3_logo_2014.svg/1280px-NPO_3_logo_2014.svg.png" group-title="NETHERLANDS",NPO 3
 http://stream.tvtap.live:8081/live/nl-npo3.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/b/bf/Kapamilya_Channel_%282020-.n.v.%29.png" group-title="PHILIPPINES",Kapamilya Channel
+http://titanmedia.tech:8080/romnick/naganaga/63313
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UrDMl5Z.png" group-title="PHILIPPINES",A2Z
+http://titanmedia.tech:8080/romnick/naganaga/63273
+#EXTINF:-1 tvg-logo="https://www.gmanetwork.com/res/portal_revamp/img/logo.png" group-title="PHILIPPINES",GMA
+http://titanmedia.tech:8080/romnick/naganaga/63291
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Antena_3_%282017%29.svg/1024px-Antena_3_%282017%29.svg.png" group-title="SPAIN",Antena 3
 http://91.126.141.13:1935/live/11/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Cuatro.svg/1920px-Cuatro.svg.png" group-title="SPAIN",Cuatro
