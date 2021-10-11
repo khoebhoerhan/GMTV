@@ -875,10 +875,16 @@ https://cdn.hkdtmb.com/hls/31/index.m3u8
 http://cdn.hkdtmb.com/hls/83/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XyKKCz3.png" group-title="LATINO NEWS",A24
 https://g1.vxral-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-100056_720p.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8cdAvQF.png" group-title="LATINO NEWS",ADN40
+http://pubads.g.doubleclick.net/ssai/event/XZLLJIhJRNqz33DGp6NdkA/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/LogoCanal26.png/120px-LogoCanal26.png" group-title="LATINO NEWS",Canal 26
 http://live-edge01.telecentro.net.ar/live/smil:c26.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/49pK1bB.png" group-title="LATINO NEWS",Información Periodística
 https://d1nmqgphjn0y4.cloudfront.net/live/ip/live.isml/live-audio_1=128000-video=4499968.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PgHGG5b.png" group-title="LATINO NEWS",Foro TV
+https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index_6.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QGnD2tq.png" group-title="LATINO NEWS",Milenio TV
+https://v-sd.mybtv.net/event/521/1920x1080.m3u8?start_time=2021-05-16&end_time=2023-05-17&uid=33630
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kI7pHMn.jpg" group-title="NON-ENGLISH NEWS",YTN
 https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Th%E1%BB%9Di%20s%E1%BB%B1%20HD.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/TVP_Info_logo.svg/1920px-TVP_Info_logo.svg.png" group-title="NON-ENGLISH NEWS",TVP Info
@@ -1315,6 +1321,14 @@ http://31.220.41.88:8081/live/nl-ziggoracing.stream/chunks.m3u8
 http://31.220.41.88:8081/live/nl-ziggoselect.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aufKGRo.png" group-title="DUTCH SPORTS",Ziggo Sport Voetbal
 http://31.220.41.88:8081/live/nl-ziggovoetbal.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/DeporTV_%282020_Logo_oficial%29.png" group-title="LATINO SPORTS",DeporTV
+https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cf/Fox_Sports_Premium_Argentina_2020.png" group-title="LATINO SPORTS",Fox Sports Premium
+https://delivery.cdn.rcs.net.ar/mnp/foxpremium/output.mpd
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1920px-ESPN_wordmark.svg.png" group-title="LATINO SPORTS",ESPN
+https://delivery.cdn.rcs.net.ar/mnp/espn/output.mpd
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/1280px-ESPN2_logo.svg.png" group-title="LATINO SPORTS",ESPN 2
+https://delivery.cdn.rcs.net.ar/mnp/espn2/output.mpd 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b2/AbuDhabiSports2020.jpg" group-title="ARABIC SPORTS",Abu Dhabi Sports 1
 https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b2/AbuDhabiSports2020.jpg" group-title="ARABIC SPORTS",Abu Dhabi Sports 2
@@ -1323,6 +1337,8 @@ https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/playlist.m
 https://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b2/AbuDhabiSports2020.jpg" group-title="ARABIC SPORTS",Abu Dhabi Sports 4
 https://admdn4.cdn.mangomolo.com/adsports4/smil:adsports4.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yHuUkO0.png" group-title="ARABIC SPORTS",Yas
+https://admdn1.cdn.mangomolo.com/yastv/smil:yastv.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/ae-dubai-racing-7016.jpg" group-title="ARABIC SPORTS",Dubai Racing
 http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist_b1600000.m3u8
 #EXTINF:-1 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/ae-dubai-racing-7016.jpg" group-title="ARABIC SPORTS",Dubai Racing 2
@@ -1393,7 +1409,7 @@ http://stream.tvtap.live:8081/live/us-destination.stream/playlist.m3u8
 https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/324745781
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gV4R9q4.png" group-title="MALAYSIA",8TV
 http://50.7.161.82:8278/streams/d/tv8_pye/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9MSQ11s.png" group-title="MALAYSIA",Drama Sangat
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gAZfzvh.png" group-title="MALAYSIA",Drama Sangat
 http://50.7.161.82:8278/streams/d/Dsangat/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/Logo_of_newNTV7.png" group-title="MALAYSIA",NTV7
 http://50.7.161.82:8277/streams/d/ntv7_pye/playlist.m3u8
@@ -1426,29 +1442,37 @@ http://198.16.106.61:8277/streams/d/Suria/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dIoU3FG.png" group-title="USA",A&E
 http://stream.tvtap.live:8081/live/us-ae.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8DZL1sg.png" group-title="USA",ABC
-http://stream.tvtap.live:8081/live/us-abc.stream/playlist.m3u8
+http://71.187.29.220:8000/play/a08l/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/74Bs8Kn.png" group-title="USA",AMC
 http://stream.tvtap.live:8081/live/us-amc.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VBD4ugr.png" group-title="USA",Azteca America
+https://v-px.mybtv.net/event/41/1280x720.m3u8?start_time=2021-05-16T23%3A45%3A00%2B00%3A00&end_time=2023-05-17T05%3A00%3A00%2B00%3A00&env=prd&uid=33630
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bQPc9pg.png" group-title="USA",Bravo
 http://stream.tvtap.live:8081/live/bravo9.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KJR6lt0.png" group-title="USA",CBS
-http://stream.tvtap.live:8081/live/us-cbs.stream/playlist.m3u8
+https://v-ny.mybtv.net/event/545/1920x1080.m3u8?start_time=2021-05-29T19%3A45%3A00%2B00%3A00&end_time=2029-05-29T23%3A00%3A00%2B00%3A00&env=prd&uid=25110
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JOCjq3R.png" group-title="USA",Comedy Central
 http://31.220.41.88:8081/live/us-comedy.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Q6AoC5h.png" group-title="USA",Fox
-http://31.220.41.88:8081/live/us-fox.stream/playlist.m3u8
+http://71.187.29.220:8000/play/a075/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8dgknme.png" group-title="USA",FX
 http://stream.tvtap.live:8081/live/us-fx.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Game_Show_Network_2018.svg/1024px-Game_Show_Network_2018.svg.png" group-title="USA",Game Show Network
 http://n1.klowdtv.net/live2/gsn_720p/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OzHkxwZ.png" group-title="USA",NBC
-http://stream.tvtap.live:8081/live/us-nbcback.stream/playlist.m3u8
+http://71.187.29.220:8000/play/a07x/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/1920px-Showtime.svg.png" group-title="USA",Showtime
 http://stream.tvtap.live:8081/live/us-showtime.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/upM99h1.png" group-title="USA",TBS
 http://stream.tvtap.live:8081/live/us-tbs.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ydm3Ss2.png" group-title="USA",Telemundo
+http://71.187.29.220:8000/play/a07a/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/umJbqNY.png" group-title="USA",TNT
 http://stream.tvtap.live:8081/live/us-tnt.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PEP2agz.png" group-title="USA",Univisión
+http://71.187.29.220:8000/play/a07t/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XFJcPnX.png" group-title="USA",Unimás
+http://71.187.29.220:8000/play/a08b/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/1920px-USA_Network_logo_%282016%29.svg.png" group-title="USA",USA Network
 http://stream.tvtap.live:8081/live/us-usanet.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HELzzCq.png" group-title="UK",4seven
@@ -1464,33 +1488,37 @@ http://93.190.139.35:8278/streams/d/cbbc_antik/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XJ9qgU9.png" group-title="UK",Challenge
 http://stream.tvtap.live:8081/live/uk-challenge.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/r0sl8tu.png" group-title="UK",Channel 4
-http://stream.tvtap.live:8081/live/channel4.stream/playlist.m3u8
+https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/2?protocol=hls
 #EXTINF:-1 tvg-logo="https://i.imgur.com/itZR2eq.png" group-title="UK",Channel 5
-http://stream.tvtap.live:8081/live/channel5.stream/playlist.m3u8
+https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/22?protocol=hls
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wRVi7bz.png" group-title="UK",Dave
 http://stream.tvtap.live:8081/live/dave.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yny6n9T.png" group-title="UK",E4
 http://stream.tvtap.live:8081/live/uk-more4.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/ITV_logo_2019.svg/1200px-ITV_logo_2019.svg.png" group-title="UK",ITV
-http://31.220.41.88:8081/live/itv1.stream/chunks.m3u8
+https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/11?protocol=hls
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/35/ITV2_logo_2015.svg/1920px-ITV2_logo_2015.svg.png" group-title="UK",ITV2
-http://31.220.41.88:8081/live/itv2.stream/chunks.m3u8
+https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/67?protocol=hls
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f6/ITV3_logo_2013.svg/1920px-ITV3_logo_2013.svg.png" group-title="UK",ITV3
-http://31.220.41.88:8081/live/itv3.stream/chunks.m3u8
+https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/26?protocol=hls
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d3/ITV4_logo_2013.svg/1920px-ITV4_logo_2013.svg.png" group-title="UK",ITV4
-http://31.220.41.88:8081/live/itv4.stream/chunks.m3u8
+https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/101?protocol=hls
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4f/ITVBe_logo_2014-.svg/1920px-ITVBe_logo_2014-.svg.png" group-title="UK",ITVBe
-http://stream.tvtap.live:8081/live/itvbe.stream/playlist.m3u8
+https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/3211?protocol=hls
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ApK5dBk.png" group-title="UK",Sky Atlantic
 http://stream.tvtap.live:8081/live/skyatlantic.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RKkYHR9.png" group-title="ARGENTINA",America
 https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IS4LViL.png" group-title="ARGENTINA",El Nueve
+https://delivery.cdn.rcs.net.ar/mnp/elnueve/output.mpd
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/Logo_de_eltrece_lanzado_en_2016.png" group-title="ARGENTINA",El Trece
 http://cdn.stg.cvattv.com.ar/live/live2/ArtearHD/SA_Live_fta/ArtearHD.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Net_TV_logo.png/120px-Net_TV_logo.png" group-title="ARGENTINA",Net TV
 https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/800px-Telefe_%28nuevo_logo%29.png" group-title="ARGENTINA",Telefe
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Oo5v6l5.png" group-title="ARGENTINA",Telefe
 http://edge1.stg.cvattv.com.ar/live/live2/TelefeHD/SA_Live_fta/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/TVP_-_Televisi%C3%B3n_P%C3%BAblica_%282021%29.svg/1920px-TVP_-_Televisi%C3%B3n_P%C3%BAblica_%282021%29.svg.png" group-title="ARGENTINA",TV Publica
+https://delivery.cdn.rcs.net.ar/mnp/tvp/output.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UL4rFrR.png" group-title="AUSTRALIA",ABC Me
 https://c.mjh.nz/101002210224
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5lqI9oA.png" group-title="AUSTRALIA",ABC TV
@@ -1537,6 +1565,10 @@ https://unlimited1-cl.dps.live/tctc/tctc.smil/playlist.m3u8
 http://unlimited10-cl.dps.live/tvn/tvn.smil/tvn/livestream1/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Ucvtvlogo2014mejorado.png/1280px-Ucvtvlogo2014mejorado.png" group-title="CHILE",UCV
 http://unlimited1-cl.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/u7ECXoD.png" group-title="COLOMBIA",Canal Institucional
+https://streaming.rtvc.gov.co/TV_CanalInstitucional_live/smil:live.smil/chunklist_b1500000.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7oxuvLG.png" group-title="COLOMBIA",Señal Colombia
+https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/chunklist_b1500000.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/47/C8_logo.jpg" group-title="FRANCE",C8
 http://stream.tvtap.live:8081/live/fr-c8.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Canal%2B.svg/1920px-Canal%2B.svg.png" group-title="FRANCE",Canal+
@@ -1623,6 +1655,14 @@ http://stream.tvtap.live:8081/live/it-rete4.stream/playlist.m3u8
 http://stream.tvtap.live:8081/live/it-sky-uno.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VmTkdjC.png" group-title="ITALY",TV8
 http://stream.tvtap.live:8081/live/it-tv8.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WltLUSg.png" group-title="MEXICO",Azteca 7
+https://v-sd.mybtv.net/event/502/1920x1080.m3u8?start_time=2021-05-16&end_time=2028-05-17&uid=33630 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JnRpLg8.png" group-title="MEXICO",Azteca Uno
+https://v-sd.mybtv.net/event/508/1920x1080.m3u8?start_time=2021-05-16&end_time=2023-05-17&uid=33630
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ub3kuWh.png" group-title="MEXICO",Las Estrellas
+https://qlobbidev.s.llnwi.net/bpk-tv/ESTRELLAS/hls/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Multimedios_Canal_Seis_Logo.svg/800px-Multimedios_Canal_Seis_Logo.svg.png" group-title="MEXICO",Multimedios
+http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/NPO_1_logo_2014.svg/1280px-NPO_1_logo_2014.svg.png" group-title="NETHERLANDS",NPO 1
 http://stream.tvtap.live:8081/live/nl-npo1.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/NPO_2_logo_2014.svg/1280px-NPO_2_logo_2014.svg.png" group-title="NETHERLANDS",NPO 2
