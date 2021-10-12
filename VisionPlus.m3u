@@ -365,10 +365,12 @@ https://cdn.hkdtmb.com/hls/99/index.m3u8
 https://akamai.mncnow.id/live/eds/XingKongTV/sa_dash_vmx/XingKongTV.mpd
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Rai_Italia_-_Logo_2017.svg/1920px-Rai_Italia_-_Logo_2017.svg.png" group-title="WORLD ENTERTAINMENT",Rai Italia
 http://rr3.dens.tv/s/s63/index2.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/H4NjQUJ.png" group-title="WORLD ENTERTAINMENT",RTP Internacional
+#EXTINF:-1 tvg-logo="https://i.imgur.com/H4NjQUJ.png" group-title="PORTUGUESE ENTERTAINMENT",RTP Internacional
 http://rr2.dens.tv/s/s38/01.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f8/SIC_Internacional.png" group-title="WORLD ENTERTAINMENT",SIC Internacional
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f8/SIC_Internacional.png" group-title="PORTUGUESE ENTERTAINMENT",SIC Internacional
 http://live.impresa.pt/live/sicint/sicint.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pAcflJ5.png" group-title="PORTUGUESE ENTERTAINMENT",TVI Internacional
+https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyMSA3OjA6MyBQTSZoYXNoX3ZhbHVlPVpVS01iRVpNZkYzQ01ablc4S1pHUUE9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD05MGVlMGNmMy1kMTcxLTQ3YmUtYjlkNS02YzBiNTc2NGQyZTc=
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9d/LBC_INTERNATIONAL.png" group-title="WORLD ENTERTAINMENT",LBC International
 https://shls-lbci-prod-dub.shahid.net/out/v1/d8cce30036e743318a7f338539689968/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Nh6c3KS.png" group-title="WORLD ENTERTAINMENT",TRT Türk
@@ -1841,7 +1843,7 @@ http://stream.tvtap.live:8081/live/it-focus.stream/playlist.m3u8
 http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/982
 #EXTINF:-1 tvg-logo="https://i.imgur.com/btlaJ2Z.png" group-title="ITALY",Italia 2
 http://stream.tvtap.live:8081/live/it-mediaset2.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/6/64/La5_Italy.svg/1280px-La5_Italy.svg.png" group-title="ITALIA", La 5
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/6/64/La5_Italy.svg/1280px-La5_Italy.svg.png" group-title="ITALY", La 5
 http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/2280
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/LA7_-_Logo_2011.svg/1024px-LA7_-_Logo_2011.svg.png" group-title="ITALY",La 7
 http://stream.tvtap.live:8081/live/it-la7.stream/playlist.m3u8
