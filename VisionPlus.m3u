@@ -1445,9 +1445,9 @@ http://cloudcdn.tk:80/ESuter/NFx8tB346/15736
 http://cloudcdn.tk:80/ESuter/NFx8tB346/14241
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Sfu3Y7S.png" group-title="TURKISH SPORTS",TRT Spor Yıldız
 http://cloudcdn.tk:80/ESuter/NFx8tB346/29862
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Bj0MyZQ.png" group-title="WORLD SPORTS",SPOTV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Bj0MyZQ.png" group-title="THAI SPORTS",SPOTV
 https://cloudserver.server-cdn-streaming.com/live-player/11/live.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WbPfNOb.png" group-title="WORLD SPORTS",SPOTV2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WbPfNOb.png" group-title="THAI SPORTS",SPOTV2
 https://cloudserver.server-cdn-streaming.com/live-player/13/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iZ1rMGW.png" group-title="WORLD SPORTS",Motorvision.TV
 http://210.210.155.35/x6bnqe/s/s102/index.m3u8
@@ -1487,12 +1487,14 @@ https://delivery.cdn.rcs.net.ar/mnp/foxpremium/output.mpd
 https://delivery.cdn.rcs.net.ar/mnp/espn/output.mpd
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/1280px-ESPN2_logo.svg.png" group-title="LATINO SPORTS",ESPN 2
 https://delivery.cdn.rcs.net.ar/mnp/espn2/output.mpd 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Crvxgth.png" group-title="LATINO SPORTS",ESPN 3
+http://201.168.205.12:8000/play/a0c3/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Au1Wa24.png" group-title="LATINO SPORTS",Fox Sports
-http://38.131.11.34:1080/play/a02k
+http://201.168.205.12:8000/play/a08z/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DpnatBM.png" group-title="LATINO SPORTS",Fox Sports 2
-http://38.131.11.34:1080/play/a033
+http://201.168.205.12:8000/play/a090/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/w8sjQN2.png" group-title="LATINO SPORTS",Fox Sports 3
-http://38.131.11.34:1080/play/a034
+http://201.168.205.12:8000/play/a0dk/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IyqLOSV.png" group-title="LATINO SPORTS",TNT Sports
 http://cloudcdn.tk:80/ESuter/NFx8tB346/73725
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IyqLOSV.png" group-title="LATINO SPORTS",TNT Sports 2
