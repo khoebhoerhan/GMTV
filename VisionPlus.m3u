@@ -1081,6 +1081,8 @@ http://cloudcdn.tk:80/ESuter/NFx8tB346/17896
 http://cloudcdn.tk:80/ESuter/NFx8tB346/27938
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3d8sI1T.png" group-title="MALAY SPORTS",beIN Sports Max
 https://nonton.site:8443/Athayamanja/SHFTZRKFrF/37433
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MRULdc8.png" group-title="THAI SPORTS",beIN Sports 1
+https://master.server-cdn-streaming.com/api/live-player/40/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LfzLKei.png" group-title="AMERICAN SPORTS",beIN Sports en Español
 http://cloudcdn.tk:80/ESuter/NFx8tB346/23261
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zu9DBWB.png" group-title="AMERICAN SPORTS",beIN Sports Xtra
@@ -1543,6 +1545,16 @@ http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports/chunklist_b2000
 http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1600000.m3u8
 #EXTINF:-1 tvg-logo="https://www.dubaisports.ae/content/dam/dubaisports/logos/brand/011019/logo.png" group-title="ARABIC SPORTS",Dubai Sports 3
 http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist_b1600000.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ksbMrtq.png" group-title="THAI SPORTS",True Sports HD
+https://master.server-cdn-streaming.com/api/live-player/30/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pls8m6y.png" group-title="THAI SPORTS",True Sports HD 2
+https://master.server-cdn-streaming.com/api/live-player/31/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/q1xAgyW.png" group-title="THAI SPORTS",True Sports HD 3
+https://master.server-cdn-streaming.com/api/live-player/32/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9FJknMK.png",group-title="THAI SPORTS",True Premier Football 1
+https://master.server-cdn-streaming.com/api/live-player/45/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yS94g00.png" group-title="THAI SPORTS",True Premier Football 2
+https://master.server-cdn-streaming.com/api/live-player/46/live.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=N2NlNGIzZDgtMDIzYi0zZjU4LTg3ZDMtZjVjNDJlMzQwNjJh
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Fnh70hI.png" group-title="RELIGION",Life
@@ -1893,6 +1905,16 @@ http://titanmedia.tech:8080/romnick/naganaga/63273
 http://titanmedia.tech:8080/romnick/naganaga/63291
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Polsat_2021_gradient.svg/1200px-Polsat_2021_gradient.svg.png" group-title="POLAND",Polsat
 http://207.110.52.61:8080/s/hls/5/9584/polsat_266/1/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/04/SIC_Caras_logo.png" group-title="PORTUGAL",SIC Caras
+http://185.236.229.21:9981/play/a07j
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZwRFjOY.png" group-title="PORTUGAL",SIC Mulher
+http://185.236.229.21:9981/play/a037
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dHSH6qh.png" group-title="PORTUGAL",TVI
+https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyMSA3OjA6MiBQTSZoYXNoX3ZhbHVlPVh4VWtoQ3hxS3RENnltTHN5ZGptL0E9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD0xN2ZhNDc2Ni1lMTQ3LTRhNzUtOGI0Mi1jN2U4YTQ3Yzg0MGE=
+#EXTINF:-1 tvg-logo="https://i.imgur.com/D2PFTzV.png" group-title="PORTUGAL",TVI Ficção
+http://185.236.229.21:9981/play/a075
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PFJ5gVQ.png" group-title="PORTUGAL",TVI Reality
+https://video-auth2.iol.pt/live_tvi_direct/live_tvi_direct/edge_servers/tvireality-480p/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Antena_3_%282017%29.svg/1024px-Antena_3_%282017%29.svg.png" group-title="SPAIN",Antena 3
 http://91.126.141.13:1935/live/11/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Cuatro.svg/1920px-Cuatro.svg.png" group-title="SPAIN",Cuatro
