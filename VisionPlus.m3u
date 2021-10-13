@@ -1514,7 +1514,7 @@ http://xcui.vitvabc.xyz:8880/287994000027/287994000027/31143
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sIUdUaB.png" group-title="BRASILIAN SPORTS",ESPN Extra
 http://rec2.distv.net:80/damaris/123456/145
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Au1Wa24.png" group-title="BRASILIAN SPORTS",Fox Sports
-http://cloudcdn.tk:80/ESuter/NFx8tB346/23162
+http://rec2.distv.net:80/damaris/123456/152
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DpnatBM.png" group-title="BRASILIAN SPORTS",Fox Sports 2
 http://cloudcdn.tk:80/ESuter/NFx8tB346/24267
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/SporTV_2017_logo.svg/1920px-SporTV_2017_logo.svg.png" group-title="BRASILIAN SPORTS",SporTV
@@ -1787,6 +1787,9 @@ http://mdstrm.com/live-stream-playlist_800/58dc3d471cbe05ff3c8e463e.m3u8?Playlis
 https://qlobbidev.s.llnwi.net/bpk-tv/RCNNOVELAS/hls/RCNNOVELAS-audio_128043_spa=128000-video=800000.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7oxuvLG.png" group-title="COLOMBIA",Señal Colombia
 https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/chunklist_b1500000.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8a/M6_6ter_2012.png" group-title="FRANCE",6ter
+#EXTVLCOPT:network-caching=1000
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/12013
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/47/C8_logo.jpg" group-title="FRANCE",C8
 http://callofliberty.fr/stream/C8/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Canal%2B.svg/1920px-Canal%2B.svg.png" group-title="FRANCE",Canal+
@@ -1805,6 +1808,17 @@ http://edge.iptvnetwork.net/live/france5/playlist.m3u8
 https://shls-m6-france-prod-dub.shahid.net/out/v1/c8a9f6e000cd4ebaa4d2fc7d18c15988/index_1.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dc/TF1_logo_2013.png" group-title="FRANCE",TF1
 http://edge.iptvnetwork.net/live/TF1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/69/TF1_S%C3%A9ries_Films.svg/1920px-TF1_S%C3%A9ries_Films.svg.png" group-title="FRANCE",TF1 Séries Films
+#EXTVLCOPT:network-caching=1000
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/17300
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TFX_logo.svg/1920px-TFX_logo.svg.png" group-title="FRANCE",TFX
+#EXTVLCOPT:network-caching=1000
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/17301
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/54/TMC_logo.svg/1920px-TMC_logo.svg.png" group-title="FRANCE",TMC
+http://stream.suboroiptv.tv/TMC/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a7/W9_logo_2018.png" group-title="FRANCE",W9
+#EXTVLCOPT:network-caching=1000
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/9935
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ujQVb6l.png" group-title="GERMANY",Das Erste
 https://mcdn.daserste.de:443/daserste/de/master_3744.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/ProSieben_Logo_2015.svg/800px-ProSieben_Logo_2015.svg.png" group-title="GERMANY",ProSieben
@@ -1922,7 +1936,7 @@ http://91.126.141.13:1935/live/51/1800-def.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Logo_TVE-1.svg/1024px-Logo_TVE-1.svg.png" group-title="SPAIN",La 1
 https://rtvelivestreamv3.akamaized.net/la1/la1_main_720.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Logo_TVE-2.svg/1024px-Logo_TVE-2.svg.png" group-title="SPAIN",La 2
-http://stream.tvtap.live:8081/live/es-la2.stream/playlist.m3u8
+http://hlsliveamdgl0-lh.akamaihd.net/i/hlsdvrlive_1@60531/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/La_Sexta_%28A3M%29.svg/188px-La_Sexta_%28A3M%29.svg.png" group-title="SPAIN",La Sexta
 http://91.126.141.13:1935/live/21/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/MEGA.svg/1920px-MEGA.svg.png" group-title="SPAIN",Mega
