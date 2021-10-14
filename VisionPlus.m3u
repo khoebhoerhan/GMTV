@@ -399,6 +399,8 @@ https://livecdn.fptplay.net/sdb/mtv_hls.smil/chunklist_b2500000.m3u8
 https://tv-trtmuzik.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6R8N3z2.png" group-title="MUSIC",SBS MTV
 https://www.navchina.cf/IPTV/sbs.php?id=S09
+#EXTINF:-1 tvg-logo="https://i.imgur.com/opfcIfE.png" group-title="MUSIC",HTVC Ca Nhạc
+http://livecdn.fptplay.net/hda3/htvcmusic_vhls.smil/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=N2NlNGIzZDgtMDIzYi0zZjU4LTg3ZDMtZjVjNDJlMzQwNjJh
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9v0WUqt.png" group-title="MOVIES",HBO
@@ -491,6 +493,8 @@ http://210.210.155.35/uq2663/h/h192/index.m3u8
 http://50.7.161.82:8278/streams/d/Boo/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/r2mKJH2.png" group-title="ASIAN MOVIES",MyCinema Asia
 http://210.210.155.35/uq2663/h/h193/index.m3u8
+#EXTINF:-1 tvg-logo="https://htvc.vn/uploads/editor/images/LOGO%20KENH%20PHIM-01(1).png" group-title="ASIAN MOVIES",HTV Phim
+https://livecdn.fptplay.net/hda2/htvcmoviehd_vhls.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Sony_MAX.svg/800px-Sony_MAX.svg.png" group-title="HINDI MOVIES",Sony Max
 http://221.120.204.4/SONY-MAX-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NywlkDO.png" group-title="HINDI MOVIES",Zee Cinema
@@ -1019,6 +1023,8 @@ http://210.210.155.35/dr9445/h/h10/01.m3u8
 http://stream.tvtap.live:8081/live/golf.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0g1cseU.png" group-title="WORLD SPORTS",eGG Network
 http://210.210.155.35:80/uq2663/h/h22/01.m3u8
+#EXTINF:-1 tvg-logo="https://htvc.vn/uploads/editor/images/logo%20htv%20the%20thao.png" group-title="WORLD SPORTS",HTV Thể Thao
+https://livecdn.fptplay.net/hda3/htvcthethao_vhls.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/800px-NBA_TV.svg.png" group-title="AMERICAN SPORTS",NBA TV
 http://stream.tvtap.live:8081/live/nba.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JApkfiF.png" group-title="WORLD SPORTS",Tennis Channel International
@@ -2007,3 +2013,65 @@ https://turkmedya-live.ercdn.net/tv4/tv4_720p.m3u8
 http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/74.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nhl0SnT.png" group-title="TURKEY",TV8.5
 https://av.livestreamlive.xyz/hls/tv85.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/56/HTV1_television_vn.png" group-title="VIETNAM",HTV 1
+https://livecdn.fptplay.net/sdb/htv1_hls.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d2/HTV2_-_Vie_Channel.png" group-title="VIETNAM",HTV 2
+https://livecdn.fptplay.net/hda1/htv2hd_vhls.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d0/HTV3_-_DreamsTV.png" group-title="VIETNAM",HTV 3
+https://livecdn.fptplay.net/sdb/htv3_hls.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/67/HTV7_(2017-present).png" group-title="VIETNAM",HTV 7
+https://livecdn.fptplay.net/hda1/htv7hd_vhls.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ec/HTV9_(2017-present).png" group-title="VIETNAM",HTV 9
+https://livecdn.fptplay.net/hda1/htv9hd_vhls.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/I2egeCq.png" group-title="VIETNAM",HTV Key
+https://livecdn.fptplay.net/sdb/htv4_hls.smil/chunklist_b1200000.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QPrZPlB.png" group-title="VIETNAM",HTV Phụ Nữ
+https://livecdn.fptplay.net/hda3/htvcphunu_vhls.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BR0T8CH.png" group-title="VIETNAM",HTVC Du Lịch & Cuộc Sống
+https://livecdn.fptplay.net/hda3/htvcdulich_vhls.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/7/7a/HTVC_GIADINH.png" group-title="VIETNAM",HTVC Gia Đình
+https://livecdn.fptplay.net/hda3/htvcgiadinh_vhls.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ch3bl2p.png" group-title="VIETNAM",HTVC Plus
+https://livecdn.fptplay.net/hda3/htvcplus_vhls.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9UGVEHE.png" group-title="VIETNAM",HTVC Thuần Việt
+https://livecdn.fptplay.net/hda1/htvcthuanviethd_vhls.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7LMs72R.png" tvg-country="VN" group-title="VIETNAM",Today TV
+https://livecdn.fptplay.net/sdb/todaytv_hls.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/VTC1_logo_2018.svg/1200px-VTC1_logo_2018.svg.png" group-title="VIETNAM",VTC 1
+https://livecdn.fptplay.net/hda1/vtc1_vhls.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/VTC2_logo_2018.svg/800px-VTC2_logo_2018.svg.png" group-title="VIETNAM",VTC 2
+https://livecdn.fptplay.net/sdb/vtc2_hls.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/VTC3_logo_2018.svg/479px-VTC3_logo_2018.svg.png" group-title="VIETNAM",VTC 3
+https://livecdn.fptplay.net/hda1/vtc3hd_vhls.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/VTC4_logo_2018-2020.svg/768px-VTC4_logo_2018-2020.svg.png" group-title="VIETNAM",VTC 4
+https://livecdn.fptplay.net/hda2/vtc4_vhls.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/VTC5_logo_2018.svg/800px-VTC5_logo_2018.svg.png" group-title="VIETNAM",VTC 5
+https://livecdn.fptplay.net/sdb/vtc5_hls.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/VTC6_logo_2018.svg/800px-VTC6_logo_2018.svg.png" group-title="VIETNAM",VTC 6
+https://livecdn.fptplay.net/sdb/vtc6_hls.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/VTC8_logo_2018.svg/800px-VTC8_logo_2018.svg.png" group-title="VIETNAM",VTC 8
+https://livecdn.fptplay.net/sdb/vtc8_hls.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/VTC9_logo_2018.svg/800px-VTC9_logo_2018.svg.png" group-title="VIETNAM",VTC 9
+https://livecdn.fptplay.net/sdb/vtc9_hls.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/VTC10_logo_2018.svg/800px-VTC10_logo_2018.svg.png" group-title="VIETNAM",VTC 10
+https://livecdn.fptplay.net/sdb/vtc10_hls.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/VTC11_logo_2018.svg/800px-VTC11_logo_2018.svg.png" group-title="VIETNAM",VTC 11
+https://livecdn.fptplay.net/sdb/vtc11_hls.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/VTC13_logo_2018.svg/800px-VTC13_logo_2018.svg.png" group-title="VIETNAM",VTC 13
+https://livecdn.fptplay.net/hda1/vtc13_vhls.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/VTC14_logo_2018.svg/800px-VTC14_logo_2018.svg.png" group-title="VIETNAM",VTC 14
+https://livecdn.fptplay.net/hda1/vtc14_vhls.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/VTC16_logo_2018.svg/1024px-VTC16_logo_2018.svg.png" group-title="VIETNAM",VTC 16
+https://livecdn.fptplay.net/sdb/vtc16_hls.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5NBynmV.png" group-title="VIETNAM",VTCK
+https://livecdn.fptplay.net/sdb/vtc12_hls.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/VTV1_logo_2013_final.svg/1920px-VTV1_logo_2013_final.svg.png" group-title="VIETNAM", VTV 1
+https://livecdn.fptplay.net/hda1/vtv1hd_vhls.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/VTV2_logo_2013_final.svg/1920px-VTV2_logo_2013_final.svg.png" group-title="VIETNAM", VTV 2
+https://livecdn.fptplay.net/hda1/vtv2_vhls.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/VTV3_logo_2013_final.svg/1920px-VTV3_logo_2013_final.svg.png" group-title="VIETNAM", VTV 3
+https://livecdn.fptplay.net/hda1/vtv3hd_vhls.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/VTV6_logo_2013_final.svg/1920px-VTV6_logo_2013_final.svg.png" group-title="VIETNAM", VTV 6
+https://livecdn.fptplay.net/hda1/vtv6hd_vhls.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/VTV7_logo_2016_final.svg/1920px-VTV7_logo_2016_final.svg.png" group-title="VIETNAM", VTV 7
+https://livecdn.fptplay.net/hda3/vtv7hd_vhls.smil/playlist.m3u8
