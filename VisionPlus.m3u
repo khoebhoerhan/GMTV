@@ -363,8 +363,6 @@ http://50.7.161.82:8277/streams/d/ria_pye/playlist.m3u8
 http://50.7.161.82:8277/streams/d/prima_pye/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JCn7Yd0.png" group-title="MALAY ENTERTAINMENT",Astro Warna
 http://50.7.161.82:8277/streams/d/warnahd_pye/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/iNhSs8x.png" group-title="CHINESE ENTERTAINMENT",CCTV-1 综合
-http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv1/HD-8000k-1080P-cctv1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BQoyBoS.png" group-title="CHINESE ENTERTAINMENT",CCTV-4 中文国际
 http://183.207.248.71:80/cntv/live1/cctv-4/cctv-4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rL5gaK5.png" group-title="CHINESE ENTERTAINMENT",Formosa
@@ -1180,7 +1178,9 @@ http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/228562
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/14/NBCSN_logo.png" group-title="AMERICAN SPORTS",NBCSN
 http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/228672
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ycxjpTX.png" group-title="WORLD SPORTS",Eurosport Asia
-http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/150127
+http://iptv.tvmalaysia.cc/jalan8/jalan8/6784
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ix8Pm5R.png" group-title="WORLD SPORTS",On Sports
+http://s4.nihontv.net:21585/vtvcab3/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Dt4IDCL.png" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="WORLD SPORTS",CCTV-5 体育
 http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv5/HD-8000k-1080P-cctv5
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qvfq4yw.png" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="WORLD SPORTS",CCTV-5+ 体育赛事
@@ -1479,6 +1479,16 @@ https://cloudserver.server-cdn-streaming.com/live-player/11/live.m3u8
 https://cloudserver.server-cdn-streaming.com/live-player/13/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iZ1rMGW.png" group-title="WORLD SPORTS",Motorvision.TV
 http://210.210.155.35/x6bnqe/s/s102/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/50ZGo5V.png" group-title="BALTIC SPORTS",Arena Sport 1
+http://93.157.62.180/ArenaSport1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/V72XapO.png" group-title="BALTIC SPORTS",Arena Sport 2
+http://93.157.62.180/ArenaSport2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Yw1kdh5.png" group-title="BALTIC SPORTS",Arena Sport 3
+http://93.157.62.180/ArenaSport3/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/a3Rma7Z.png" group-title="BALTIC SPORTS",Arena Sport 4
+http://93.157.62.180/ArenaSport4/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oYXOq46.png" group-title="BALTIC SPORTS",Arena Sport 5
+http://93.157.62.180/ArenaSport5/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1920px-ESPN_wordmark.svg.png" group-title="DUTCH SPORTS",ESPN
 http://cloudcdn.tk:80/ESuter/NFx8tB346/15843
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/1280px-ESPN2_logo.svg.png" group-title="DUTCH SPORTS",ESPN 2
@@ -1523,16 +1533,18 @@ http://201.168.205.12:8000/play/a08z/index.m3u8
 http://201.168.205.12:8000/play/a090/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/w8sjQN2.png" group-title="LATINO SPORTS",Fox Sports 3
 http://201.168.205.12:8000/play/a0dk/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/IyqLOSV.png" group-title="LATINO SPORTS",TNT Sports
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IyqLOSV.png" group-title="LATINO SPORTS",TNT Sports Argentina
+https://edge-live11-hr.cvattv.com.ar/live/c3eds/TNT_Sports_HD/SA_Live_dash_enc_2A/TNT_Sports_HD.mpd
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IyqLOSV.png" group-title="LATINO SPORTS",TNT Sports Chile
 http://cloudcdn.tk:80/ESuter/NFx8tB346/73725
-#EXTINF:-1 tvg-logo="https://i.imgur.com/IyqLOSV.png" group-title="LATINO SPORTS",TNT Sports 2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IyqLOSV.png" group-title="LATINO SPORTS",TNT Sports 2 Chile
 http://cloudcdn.tk:80/ESuter/NFx8tB346/73726
-#EXTINF:-1 tvg-logo="https://i.imgur.com/IyqLOSV.png" group-title="LATINO SPORTS",TNT Sports 3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IyqLOSV.png" group-title="LATINO SPORTS",TNT Sports 3 Chile
 http://cloudcdn.tk:80/ESuter/NFx8tB346/52121
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/1920px-TUDN_Logo.svg.png" group-title="LATINO SPORTS",TUDN
 http://cloudcdn.tk:80/ESuter/NFx8tB346/18167
 #EXTINF:-1 tvg-logo="https://i.imgur.com/I7Lhgej.png" group-title="LATINO SPORTS",TyC Sports
-http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/161469
+https://edge4-hr.cvattv.com.ar/live/c3eds/TyCSport/SA_Live_dash_enc_2A/TyCSport.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FbFe2uu.png" group-title="BRASILIAN SPORTS",Band Sports
 http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/157916
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1920px-ESPN_wordmark.svg.png" group-title="BRASILIAN SPORTS",ESPN
@@ -1548,11 +1560,11 @@ http://rec2.distv.net:80/damaris/123456/152
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DpnatBM.png" group-title="BRASILIAN SPORTS",Fox Sports 2
 http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/157953
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/SporTV_2017_logo.svg/1920px-SporTV_2017_logo.svg.png" group-title="BRASILIAN SPORTS",SporTV
-http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/158016
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/31169
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/SporTV_2_2017_logo.svg/1920px-SporTV_2_2017_logo.svg.png" group-title="BRASILIAN SPORTS",SporTV 2
-http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/158014
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/31253
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/SporTV_3_2017_logo.svg/1920px-SporTV_3_2017_logo.svg.png" group-title="BRASILIAN SPORTS",SporTV 3
-http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/158015
+http://painel.tvdigitalsbl.net/CASSIANO1/CASSIANO1/13102
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b2/AbuDhabiSports2020.jpg" group-title="ARABIC SPORTS",Abu Dhabi Sports 1
 https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b2/AbuDhabiSports2020.jpg" group-title="ARABIC SPORTS",Abu Dhabi Sports 2
@@ -1643,6 +1655,8 @@ http://stream.tvtap.live:8081/live/us-destination.stream/playlist.m3u8
 https://nonton.site:8443/Athayamanja/SHFTZRKFrF/37466
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gV4R9q4.png" group-title="MALAYSIA",8TV
 http://50.7.161.82:8278/streams/d/tv8_pye/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1d/Awesome_TV_Malaysia.png" group-title="MALAYSIA",Awesome TV
+http://iptv.tvmalaysia.cc/jalan8/jalan8/9016
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gAZfzvh.png" group-title="MALAYSIA",Drama Sangat
 http://50.7.161.82:8278/streams/d/Dsangat/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/Logo_of_newNTV7.png" group-title="MALAYSIA",NTV7
@@ -1664,7 +1678,7 @@ http://50.7.161.82:8278/streams/d/tv3_pye/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/smKCnNj.png" group-title="MALAYSIA",TV9
 http://50.7.161.82:8278/streams/d/tv9_pye/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/92/TVS_Sarawak.jpg" group-title="MALAYSIA",TVS
-https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/309065877
+http://iptv.tvmalaysia.cc/jalan8/jalan8/6846
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fakV73e.png" group-title="SINGAPORE",Channel 5
 http://198.16.106.61:8277/streams/d/Channel5HD/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rwn2fVK.png" group-title="SINGAPORE",Channel 8
@@ -1791,6 +1805,32 @@ http://callofliberty.fr/stream/laune/04.m3u8
 http://rtltvi-lh.akamaihd.net/i/TVI_1@319659/master.m3u8?checkedby:hlscat.com
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1c/Tipikrtbf.png" group-title="BELGIUM",Tipik
 http://callofliberty.fr/stream/TiPiK/04.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iNhSs8x.png" group-title="CHINA",CCTV-1 综合
+http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv1/HD-8000k-1080P-cctv1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qLJrcum.png" group-title="CHINA",CCTV-2 财经
+http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv2/HD-8000k-1080P-cctv2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fGrT16W.png" group-title="CHINA",CCTV-3 综艺
+http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv3/HD-8000k-1080P-cctv3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YJbg11S.png" group-title="CHINA",CCTV-6 电影
+http://183.207.248.71:80/cntv/live1/cctv-6/cctv-6
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0ccx2jW.png" group-title="CHINA",CCTV-7 国防军事
+http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv7/HD-8000k-1080P-cctv7
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YyBxwYF.png" group-title="CHINA",CCTV-8 电视剧
+http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv8/HD-8000k-1080P-cctv8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2LVQYWY.png" group-title="CHINA",CCTV-9 纪录
+http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv9/HD-8000k-1080P-cctv9
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nJTepm9.png" group-title="CHINA",CCTV-10 科教
+http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv10/HD-8000k-1080P-cctv10
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1n03BMt.png" group-title="CHINA",CCTV-11 戏曲
+http://183.207.248.71:80/cntv/live1/n-cctv-11/n-cctv-11
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZTOlFA0.png" group-title="CHINA",CCTV-12 社会与法
+http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv12/HD-8000k-1080P-cctv12
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ujiEeuE.png" group-title="CHINA",CCTV-14 少儿
+http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv14/HD-8000k-1080P-cctv14
+#EXTINF:-1 tvg-logo="https://i.imgur.com/M4EZGYP.png" group-title="CHINA",CCTV-15 音乐
+http://183.207.248.71:80/cntv/live1/n-cctv-15/n-cctv-15
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QB3l5HH.png" group-title="CHINA",CCTV-17 农业农村
+http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv17/HD-8000k-1080P-cctv17
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Logo_24HorasTVN.svg/1920px-Logo_24HorasTVN.svg.png" group-title="CHILE",24 Horas
 http://38.131.11.34:1080/play/a00m
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Logotipo_de_Canal_13.png/1024px-Logotipo_de_Canal_13.png" group-title="CHILE",Canal 13
@@ -1834,6 +1874,8 @@ http://edge.iptvnetwork.net/live/france3/playlist.m3u8
 http://edge.iptvnetwork.net/live/france4/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RIZfLwR.png" group-title="FRANCE",France 5
 http://edge.iptvnetwork.net/live/france5/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/4/43/18._Gulli.png/1024px-18._Gulli.png" group-title="FRANCE",Gulli
+https://origin-live-6play.video.bedrock.tech/6play/short/clr/gulli/hdeindex.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/M6_logo_2020.svg/1024px-M6_logo_2020.svg.png" group-title="FRANCE",M6
 https://shls-m6-france-prod-dub.shahid.net/out/v1/c8a9f6e000cd4ebaa4d2fc7d18c15988/index_1.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dc/TF1_logo_2013.png" group-title="FRANCE",TF1
@@ -1910,7 +1952,7 @@ http://185.226.88.6:11026/live/SMYYKzbS0z/HRj5TKnrRx/105.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Rai_2_-_Logo_2016.svg/1280px-Rai_2_-_Logo_2016.svg.png" group-title="ITALY",Rai 2
 http://185.226.88.6:11026/live/SMYYKzbS0z/HRj5TKnrRx/104.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Rai_3_-_Logo_2016.svg/1280px-Rai_3_-_Logo_2016.svg.png" group-title="ITALY",Rai 3
-http://185.226.88.6:11026/live/SMYYKzbS0z/HRj5TKnrRx/50.ts
+http://wzstreaming.rai.it/TVlive/liveStream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Rai_4_-_Logo_2016.svg/1280px-Rai_4_-_Logo_2016.svg.png" group-title="ITALY",Rai 4
 http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/996
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Rai_5_-_Logo_2017.svg/1280px-Rai_5_-_Logo_2017.svg.png" group-title="ITALY",Rai 5
