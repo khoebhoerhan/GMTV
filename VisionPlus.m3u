@@ -496,11 +496,11 @@ https://akamai.mncnow.id/live/eds/SCM/sa_dash_vmx/SCM.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Krk8Lxa.png" group-title="HINDI MOVIES",Zee Bioskop
 https://liveanevia.mncnow.id/live/eds/ZeeBIOSKOP/sa_dash_vmx/ZeeBIOSKOP.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OmibwXx.png" group-title="HINDI MOVIES",Zee Action
-https://f8e7y4c6.ssl.hwcdn.net/action/tracks-v1a1/index.m3u8
+http://93.190.139.35:8278/streams/d/Zeeaction/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NXCjJ9n.png" group-title="HINDI MOVIES",Zee Anmol Cinema
 https://f8e7y4c6.ssl.hwcdn.net/zanmolcnm/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1KY7rjF.png" group-title="HINDI MOVIES",Zee Bollywood
-https://f8e7y4c6.ssl.hwcdn.net/classic/tracks-v1a1/index.m3u8
+http://208.115.215.42/ZEE_Bollywood_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HuJrZgT.png" group-title="HINDI MOVIES",&pictures
 http://f8e7y4c6.ssl.hwcdn.net/andpicssd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9NoTykg.png" group-title="HINDI MOVIES",&xplor
@@ -1036,7 +1036,7 @@ http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/228671
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0g1cseU.png" group-title="WORLD SPORTS",eGG Network
 http://210.210.155.35:80/uq2663/h/h22/01.m3u8
 #EXTINF:-1 tvg-logo="https://htvc.vn/uploads/editor/images/logo%20htv%20the%20thao.png" group-title="WORLD SPORTS",HTV Thể Thao
-https://livecdn.fptplay.net/hda3/htvcthethao_vhls.smil/playlist.m3u8
+https://livecdn.fptplay.net/sdb/htvcthethao_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/800px-NBA_TV.svg.png" group-title="AMERICAN SPORTS",NBA TV
 http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/228647
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JApkfiF.png" group-title="WORLD SPORTS",Tennis Channel International
@@ -1109,8 +1109,10 @@ https://nonton.site:8443/Athayamanja/SHFTZRKFrF/37433
 https://master.server-cdn-streaming.com/api/live-player/40/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LfzLKei.png" group-title="AMERICAN SPORTS",beIN Sports en Español
 http://cloudcdn.tk:80/ESuter/NFx8tB346/23261
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zu9DBWB.png" group-title="AMERICAN SPORTS",beIN Sports Xtra
-https://siloh-ns1.plutotv.net/lilo/production/bein/master_1.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/x8049OP.png" group-title="AMERICAN SPORTS",beIN Sports Xtra
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df975e2b27cf5000921c102/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c82b290-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=672c13ed-c11c-4ba2-b749-117f2f0aab45&userId=&serverSideAds=true
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oGyeYgb.png" group-title="AMERICAN SPORTS",beIN Sports Xtra en Español
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60492fdd9989d30007ccd30a/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a121ad30-ae69-11eb-a87c-2ba0b5b8041d&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=ac3bc3c0-b26f-4c9c-8c94-988af191404a&userId=&serverSideAds=true
 #EXTINF:-1 tvg-logo="https://i.imgur.com/39bwyGI.png" group-title="AMERICAN SPORTS",beIN Sports
 http://cloudcdn.tk:80/ESuter/NFx8tB346/15002
 #EXTINF:-1 tvg-logo="https://i.imgur.com/39bwyGI.png" group-title="CANADIAN SPORTS",beIN Sports
@@ -1517,6 +1519,8 @@ http://cloudcdn.tk:80/ESuter/NFx8tB346/4166
 http://cloudcdn.tk:80/ESuter/NFx8tB346/7008
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aufKGRo.png" group-title="DUTCH SPORTS",Ziggo Sport Voetbal
 http://cloudcdn.tk:80/ESuter/NFx8tB346/4167
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fOOqLPb.png" group-title="LATINO SPORTS",Claro Sports
+http://201.168.205.12:8000/play/a0cm/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/DeporTV_%282020_Logo_oficial%29.png" group-title="LATINO SPORTS",DeporTV
 https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cf/Fox_Sports_Premium_Argentina_2020.png" group-title="LATINO SPORTS",Fox Sports Premium
@@ -1765,6 +1769,8 @@ http://cdn.stg.cvattv.com.ar/live/live2/ArtearHD/SA_Live_fta/ArtearHD.m3u8
 https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Oo5v6l5.png" group-title="ARGENTINA",Telefe
 http://edge1.stg.cvattv.com.ar/live/live2/TelefeHD/SA_Live_fta/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JVkemCh.png" group-title="ARGENTINA",Telemax
+http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://i.imgur.com/srtddlN.png" group-title="ARGENTINA",TV Publica
 https://delivery.cdn.rcs.net.ar/mnp/tvp/output.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UL4rFrR.png" group-title="AUSTRALIA",ABC Me
@@ -1857,6 +1863,10 @@ http://mdstrm.com/live-stream-playlist_800/58dc3d471cbe05ff3c8e463e.m3u8?Playlis
 https://qlobbidev.s.llnwi.net/bpk-tv/RCNNOVELAS/hls/RCNNOVELAS-audio_128043_spa=128000-video=800000.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7oxuvLG.png" group-title="COLOMBIA",Señal Colombia
 https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/chunklist_b1500000.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Ecuavisa_Logo_2019.png" group-title="ECUADOR",Ecuavisa
+https://vps-c97214f4.vps.ovh.net/hls/ecutv3.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Rts_logo.png" group-title="ECUADOR",RTS
+https://vps-c97214f4.vps.ovh.net/hls/ecutv4.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8a/M6_6ter_2012.png" group-title="FRANCE",6ter
 #EXTVLCOPT:network-caching=1000
 http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/12013
