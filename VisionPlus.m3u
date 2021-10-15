@@ -395,6 +395,8 @@ https://shls-lbci-prod-dub.shahid.net/out/v1/d8cce30036e743318a7f338539689968/in
 https://tv-trtturk.live.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fZU59wo.png" group-title="WORLD ENTERTAINMENT",TV8 Int
 http://62.112.9.63:88/TV8_TR/index.m3u8?token=test
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/VTV4_logo_2013_final.svg/1200px-VTV4_logo_2013_final.svg.png" group-title="WORLD ENTERTAINMENT",VTV 4
+https://vips-livecdn.fptplay.net/hda1/vtv4_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/1%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB-5.svg/800px-1%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB-5.svg.png" group-title="WORLD ENTERTAINMENT",Первый канал Евразия
 http://stream.euroasia.lfstrm.tv/perviy_evrasia/1/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/Rtr_planeta_logo2.png" group-title="WORLD ENTERTAINMENT",РТР-Планета
@@ -899,6 +901,8 @@ http://livetv.dnsfor.me:80/channel.4.m3u8
 https://cdn.hkdtmb.com/hls/31/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5gGkYuD.png" group-title="MANDARIN NEWS",TVB News
 http://cdn.hkdtmb.com/hls/83/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Logo_24HorasTVN.svg/1920px-Logo_24HorasTVN.svg.png" group-title="LATINO NEWS",24 Horas
+http://38.131.11.34:1080/play/a00m
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XyKKCz3.png" group-title="LATINO NEWS",A24
 https://g1.vxral-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-100056_720p.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8cdAvQF.png" group-title="LATINO NEWS",ADN40
@@ -1837,8 +1841,6 @@ http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv14/HD-8000k-1080P-cctv14
 http://183.207.248.71:80/cntv/live1/n-cctv-15/n-cctv-15
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QB3l5HH.png" group-title="CHINA",CCTV-17 农业农村
 http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv17/HD-8000k-1080P-cctv17
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Logo_24HorasTVN.svg/1920px-Logo_24HorasTVN.svg.png" group-title="CHILE",24 Horas
-http://38.131.11.34:1080/play/a00m
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Logotipo_de_Canal_13.png/1024px-Logotipo_de_Canal_13.png" group-title="CHILE",Canal 13
 http://38.131.11.34:1080/play/a07u
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zUykSnY.png" group-title="CHILE",CHV
@@ -2088,9 +2090,9 @@ https://livecdn.fptplay.net/hda1/htv2hd_vhls.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Tlq7UdH.png" group-title="VIETNAM",HTV 3
 https://livecdn.fptplay.net/sdb/htv3_hls.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IXyYC5T.png" group-title="VIETNAM",HTV 7
-https://livecdn.fptplay.net/hda1/htv7hd_vhls.smil/playlist.m3u8
+https://vips-livecdn.fptplay.net/hda1/htv7hd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6sQlWiQ.png" group-title="VIETNAM",HTV 9
-https://livecdn.fptplay.net/hda1/htv9hd_vhls.smil/playlist.m3u8
+https://vips-livecdn.fptplay.net/hda1/htv9hd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/I2egeCq.png" group-title="VIETNAM",HTV Key
 https://livecdn.fptplay.net/sdb/htv4_hls.smil/chunklist_b1200000.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QPrZPlB.png" group-title="VIETNAM",HTV Phụ Nữ
@@ -2134,12 +2136,12 @@ https://livecdn.fptplay.net/sdb/vtc16_hls.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5NBynmV.png" group-title="VIETNAM",VTCK
 https://livecdn.fptplay.net/sdb/vtc12_hls.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/VTV1_logo_2013_final.svg/1920px-VTV1_logo_2013_final.svg.png" group-title="VIETNAM", VTV 1
-https://livecdn.fptplay.net/hda1/vtv1hd_vhls.smil/playlist.m3u8
+https://vips-livecdn.fptplay.net/hda1/vtv1hd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/VTV2_logo_2013_final.svg/1920px-VTV2_logo_2013_final.svg.png" group-title="VIETNAM", VTV 2
-https://livecdn.fptplay.net/hda1/vtv2_vhls.smil/playlist.m3u8
+https://vips-livecdn.fptplay.net/hda1/vtv2_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/VTV3_logo_2013_final.svg/1920px-VTV3_logo_2013_final.svg.png" group-title="VIETNAM", VTV 3
-https://livecdn.fptplay.net/hda1/vtv3hd_vhls.smil/playlist.m3u8
+https://vips-livecdn.fptplay.net/hda1/vtv3hd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/VTV6_logo_2013_final.svg/1920px-VTV6_logo_2013_final.svg.png" group-title="VIETNAM", VTV 6
-https://livecdn.fptplay.net/hda1/vtv6hd_vhls.smil/playlist.m3u8
+https://vips-livecdn.fptplay.net/hda1/vtv6hd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/VTV7_logo_2016_final.svg/1920px-VTV7_logo_2016_final.svg.png" group-title="VIETNAM", VTV 7
-https://livecdn.fptplay.net/hda3/vtv7hd_vhls.smil/playlist.m3u8
+https://vips-livecdn.fptplay.net/hda3/vtv7hd_vhls.smil/chunklist_b5000000.m3u8
