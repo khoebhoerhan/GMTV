@@ -402,7 +402,7 @@ http://cdnmg.secure.live.rtr-vesti.ru/live/smil:rtrp.smil/chunklist_b1600000.m3u
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Logo_TVE-Internacional.svg/1024px-Logo_TVE-Internacional.svg.png" group-title="WORLD ENTERTAINMENT",TVE Internacional
 http://rr.dens.tv/h/h158/index2.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DcG1oo6.png" group-title="WORLD ENTERTAINMENT",Zee TV
-https://f8e7y4c6.ssl.hwcdn.net/apacsea/tracks-v1a1/index.m3u8
+http://93.152.174.144:4000/play/zee/index.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=N2NlNGIzZDgtMDIzYi0zZjU4LTg3ZDMtZjVjNDJlMzQwNjJh
 #EXTINF:-1 tvg-logo="https://i.imgur.com/K49jYHw.png" group-title="MUSIC",Music TV
@@ -1233,9 +1233,9 @@ http://m3ulink.com:8080/live/info4-restream/Patrik1016987987/48266.ts
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IMAeAVz.jpg" group-title="AUSTRALIAN SPORTS",Racing.com
 https://racingvic-i.akamaized.net/hls/live/598695/racingvic/1500.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/s2wciz8.png" group-title="AUSTRALIAN SPORTS",Sky Racing 1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/s2wciz8.png" group-title="AUSTRALIAN SPORTS",Sky 1
 https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/sky1_extreme@569780.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BwFNwuH.png" group-title="AUSTRALIAN SPORTS",Sky Racing 2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BwFNwuH.png" group-title="AUSTRALIAN SPORTS",Sky 2
 https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/sky2_extreme@569780.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vPoYbHR.png" group-title="AUSTRALIAN SPORTS",Sky Thoroughbred Central
 https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/stcsd_extreme@569780.m3u8
@@ -1481,8 +1481,6 @@ https://feed.play.mv/live/10005200/fMLTkj4OJC/master.m3u8
 https://feed.play.mv/live/10005200/ONheoZY3w4/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/maeN3Jv.png" group-title="INDIAN SPORTS",Sony Ten 3
 https://feed.play.mv/live/10005200/RG2fKR6d9p/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Bdjk5RJ.png" group-title="INDIAN SPORTS",Star Sports 2
-http://isstnjz4.megogo.xyz/iptv/KTWEWKNCQADSRK/2507/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/l7gSBMN.png" group-title="INDIAN SPORTS",Star Sports 1
 http://isstnjz4.megogo.xyz/iptv/KTWEWKNCQADSRK/2508/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e9/A_Spor_logosu.png" group-title="TURKISH SPORTS",A Spor
