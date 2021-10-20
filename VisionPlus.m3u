@@ -365,14 +365,6 @@ http://183.207.248.71:80/cntv/live1/cctv-4/cctv-4
 rtmp://59.124.75.136/sat/tv051
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DZaD1Lf.png" group-title="CHINESE ENTERTAINMENT",TVB Xing He
 http://50.7.161.82:8278/streams/d/Xinhe/./playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bL6rOV4.png" group-title="CHINESE ENTERTAINMENT",TVB Jade
-http://198.16.106.62:8278/streams/d/Wlt/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/J0waOhK.png" group-title="CHINESE ENTERTAINMENT",TVB J2
-https://cdn.hkdtmb.com/hls/82/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EPl3Ico.png" group-title="CHINESE ENTERTAINMENT",TVB Pearl
-http://cdn.hkdtmb.com/hls/84/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/ViuTV_logo.svg/640px-ViuTV_logo.svg.png" group-title="CHINESE ENTERTAINMENT",Viu TV
-https://cdn.hkdtmb.com/hls/99/index.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/44aJ4YV.png" group-title="CHINESE ENTERTAINMENT",Xing Kong
@@ -1034,9 +1026,9 @@ https://liveanevia.mncnow.id/live/eds/soccerchannel-HD/sa_dash_vmx/soccerchannel
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qXnQXkl.png" group-title="NATIONAL SPORTS",MNC Sports
 https://liveanevia.mncnow.id/live/eds/MNCSports/sa_dash_vmx/MNCSports.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/igMrYaN.png" group-title="NATIONAL SPORTS", Usee Sports
-http://foctv.xyz:25510/live/@alaqib/C9vOtBPfQ2/241.m3u8
+https://m3u-editor.com/serve/b7b02340-302b-11ec-9783-a5755b612ef8/404334856
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jJY4VIw.png" group-title="NATIONAL SPORTS", Usee Sports 2
-http://foctv.xyz:25510/live/@alaqib/C9vOtBPfQ2/242.m3u8
+https://m3u-editor.com/serve/b7b02340-302b-11ec-9783-a5755b612ef8/404334857
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cg1yMfi.png" group-title="NATIONAL SPORTS",TVRI Sport HD
 http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1128,7 +1120,9 @@ http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/150125
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3d8sI1T.png" group-title="MALAY SPORTS",beIN Sports Max
 https://nonton.site:8443/Athayamanja/SHFTZRKFrF/37433
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MRULdc8.png" group-title="THAI SPORTS",beIN Sports 1
-https://master.server-cdn-streaming.com/api/live-player/40/live.m3u8
+https://cloudserver.server-cdn-streaming.com/live-player/2/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NDp6TlM.png" group-title="THAI SPORTS",beIN Sports 2
+https://cloudserver.server-cdn-streaming.com/live-player/6/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LfzLKei.png" group-title="AMERICAN SPORTS",beIN Sports en Español
 http://cloudcdn.tk:80/ESuter/NFx8tB346/23261
 #EXTINF:-1 tvg-logo="https://i.imgur.com/x8049OP.png" group-title="AMERICAN SPORTS",beIN Sports Xtra
@@ -1456,9 +1450,9 @@ https://persik.tv/stream/3602/287583/10249.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7bPCw4Q.png" group-title="MALAY SPORTS",Astro Arena
 http://50.7.161.82:8278/streams/d/arena_pye/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/meHW06l.png" group-title="MALAY SPORTS",Astro Arena 2
-http://foctv.xyz:25510/live/@alaqib/C9vOtBPfQ2/420.m3u8
+http://95.216.221.22:5080/WebRTCApp/streams/arena2.m3u8?token=undefined&subscriberId=undefined&subscriberCode=undefined
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DhbmBsD.png" group-title="MALAY SPORTS",Astro Cricket
-http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/150131
+http://nwbz1u.ecm.tm/806B6CF/84137e/SK_MA_ASTRO_SUPER_SPORT_CRICKET/tracks-v1a1/index.m3u8?token=0558356b27398f74c6bf8c3be801782c27ff83d6c3d8086796083c9e4eae0718a96e35a78db35fc417891f79725c21b88b1da11a64ac33705b66d7f50ff103affd5a58ef48256855a8ba8eae22ac6594c65d6bb7c33e329027c7364d6cc809fa887c8464d715b237c7e50e07a64eff32421d00c4de17b8b06ce5
 #EXTINF:-1 tvg-logo="https://i.imgur.com/X2WVnWr.png" group-title="MALAY SPORTS",Astro Supersport
 https://tinyurl.com/32a67rds
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AZQ0xgp.png" group-title="MALAY SPORTS",Astro Supersport 2
@@ -1468,7 +1462,7 @@ https://tinyurl.com/5f3atddd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PlwrDwx.png" group-title="MALAY SPORTS",Astro Supersport 4
 https://tinyurl.com/cwvzchmv
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FieopQP.png" group-title="MALAY SPORTS",Astro Supersport 5
-http://foctv.xyz:25510/live/@alaqib/C9vOtBPfQ2/413.m3u8
+https://m3u-editor.com/serve/b7b02340-302b-11ec-9783-a5755b612ef8/404334679
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8NC0zoQ.png" tvg-url="https://raw.githubusercontent.com/samleong123/rtm-live/main/rtmklik.xml" group-title="MALAY SPORTS",TV Sukan
@@ -1981,6 +1975,16 @@ https://alphalive-i.akamaihd.net/hls/live/682300/live/master.m3u8
 https://liveopencloud.siliconweb.com/1/ZlRza2R6L2tFRnFJ/eWVLSlQx/hls/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Tja6xR5.png" group-title="GREECE",Skai
 https://skai-live.siliconweb.com/media/cambria4/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bL6rOV4.png" group-title="HONG KONG",TVB Jade
+http://198.16.106.62:8278/streams/d/Wlt/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/J0waOhK.png" group-title="HONG KONG",TVB J2
+https://cdn.hkdtmb.com/hls/82/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EPl3Ico.png" group-title="HONG KONG",TVB Pearl
+http://cdn.hkdtmb.com/hls/84/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/ViuTV_logo.svg/640px-ViuTV_logo.svg.png" group-title="HONG KONG",Viu TV
+https://cdn.hkdtmb.com/hls/99/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ViuTVsix-logo.svg/2560px-ViuTVsix-logo.svg.png" group-title="HONG KONG",Viu TV 6
+https://cdn-cn.hkdtmb.com/hls/96/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HxXyffb.png" group-title="INDIA",&tv
 https://feed.play.mv/live/1009/Cs525PFAub/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Eg91jHK.png" group-title="INDIA",Colors
@@ -2054,7 +2058,7 @@ http://stream.tvtap.live:8081/live/nl-npo2.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/NPO_3_logo_2014.svg/1280px-NPO_3_logo_2014.svg.png" group-title="NETHERLANDS",NPO 3
 http://stream.tvtap.live:8081/live/nl-npo3.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/b/bf/Kapamilya_Channel_%282020-.n.v.%29.png" group-title="PHILIPPINES",Kapamilya Channel
-http://titanmedia.tech:8080/Syete/B6ujk9gAJa/63313
+http://titanmedia.tech:8080/Syete/B6ujk9gAJa/45769
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UrDMl5Z.png" group-title="PHILIPPINES",A2Z
 http://titanmedia.tech:8080/Syete/B6ujk9gAJa/63273
 #EXTINF:-1 tvg-logo="https://www.tv5.com.ph/assets/images/five-logo-red.png" group-title="PHILIPPINES",TV5
