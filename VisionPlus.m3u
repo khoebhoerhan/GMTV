@@ -699,6 +699,8 @@ http://163.172.39.215:25461/line/C4@!a3a1@!w72A/129
 https://unlimited1-cl-movistar.dps.live/cnn/cnn.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jCXODcU.png" group-title="SPANISH NEWS",CNN en Español
 http://190.151.12.26:8000/play/a005
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zcaYBfX.png" group-title="NON-ENGLISH NEWS",CNN Brasil
+http://168.205.87.198:8555/live/adriana/123456/28.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=N2NlNGIzZDgtMDIzYi0zZjU4LTg3ZDMtZjVjNDJlMzQwNjJh
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WdC4rbi.png" group-title="WORLD NEWS",BBC World News
