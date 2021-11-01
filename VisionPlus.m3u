@@ -984,7 +984,7 @@ https://live.topnews.co.th/hls/topnews.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/99/UNTV-Logo-2016.svg/1920px-UNTV-Logo-2016.svg.png" group-title="PINOY NEWS",UNTV
 https://cdn.untvweb.com/live-stream/chunklist_b732000.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HnuEqk6.png" group-title="BRASILIAN NEWS",Record News
-https://5cf4a2c2512a2.streamlock.net/8016/8016/playlist.m3u8
+https://canal1.proxy.tokplay.com.br/streams/RECORD_NEWS/auto.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BWkhQDM.png" group-title="BRASILIAN NEWS",Band News
 http://srv-source.stream:80/toptv/XGmvmQefc3/4126
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Iran_International.svg/1200px-Iran_International.svg.png" group-title="NON-ENGLISH NEWS",Iran International
@@ -1669,19 +1669,19 @@ https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cf/Fox_Sports_Premium_Argentina_2020.png" group-title="LATINO SPORTS",Fox Sports Premium
 https://delivery.cdn.rcs.net.ar/mnp/foxpremium/output.mpd
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1920px-ESPN_wordmark.svg.png" group-title="LATINO SPORTS",ESPN
-http://190.83.2.50:8000/play/a06f/index.m3u8
+https://delivery.cdn.rcs.net.ar/mnp/espn/output.mpd
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/1280px-ESPN2_logo.svg.png" group-title="LATINO SPORTS",ESPN 2
-http://190.83.2.50:8000/play/a06h/index.m3u8
+https://delivery.cdn.rcs.net.ar/mnp/espn2/output.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Crvxgth.png" group-title="LATINO SPORTS",ESPN 3
 http://190.83.2.50:8000/play/a06g/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qhBbVAc.png" group-title="LATINO SPORTS",ESPN Extra
 http://190.83.2.50:8000/play/a027/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Au1Wa24.png" group-title="LATINO SPORTS",Fox Sports
-http://190.83.2.50:8000/play/a05f/index.m3u8
+https://dizf8i52j4sep.cloudfront.net/out/v1/148af6c03e6d48b0a725611fae5ed3a7/index.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DpnatBM.png" group-title="LATINO SPORTS",Fox Sports 2
-http://190.83.2.50:8000/play/a061/index.m3u8
+https://d17lgdx4t7a4od.cloudfront.net/out/v1/bca3f8d654aa4cb293e4e9801468a5a3/index.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/w8sjQN2.png" group-title="LATINO SPORTS",Fox Sports 3
-http://190.83.2.50:8000/play/a06i/index.m3u8
+https://d14a5mi0m64mw7.cloudfront.net/out/v1/8a240d2e8a64453da6288810ede90a60/index.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IyqLOSV.png" group-title="LATINO SPORTS",TNT Sports Argentina
 https://edge-live11-hr.cvattv.com.ar/live/c3eds/TNT_Sports_HD/SA_Live_dash_enc_2A/TNT_Sports_HD.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IyqLOSV.png" group-title="LATINO SPORTS",TNT Sports Chile
@@ -1881,11 +1881,11 @@ http://n1.klowdtv.net/live2/gsn_720p/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OzHkxwZ.png" group-title="USA",NBC
 http://71.187.29.220:8000/play/a07x/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/1920px-Showtime.svg.png" group-title="USA",Showtime
-http://ztvuk.com:80/9tsQfFaeTJ/hpd9sVIvFM/13970
+http://51.79.82.231:8080/US_SHOWTIME_EAST/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LHXa485.png" group-title="USA",Syfy
 http://51.79.82.231:8080/US_SYFY_EAST_USA/video.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/upM99h1.png" group-title="USA",TBS
-http://ztvuk.com:80/9tsQfFaeTJ/hpd9sVIvFM/14011
+http://51.79.82.231:8080/US_TBS_EAST_USA/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ydm3Ss2.png" group-title="USA",Telemundo
 http://71.187.29.220:8000/play/a07a/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/umJbqNY.png" group-title="USA",TNT
@@ -2266,6 +2266,8 @@ http://isstnjz4.megogo.xyz/iptv/SNZC9Z4RPEYGA3/10011/index.m3u8
 http://isstnjz4.megogo.xyz/iptv/SNZC9Z4RPEYGA3/7292/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/TVP2_2021_box-1.svg/1920px-TVP2_2021_box-1.svg.png" group-title="POLAND",TVP 2
 http://isstnjz4.megogo.xyz/iptv/SNZC9Z4RPEYGA3/7293/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4d/Sociedade_Independente_de_Comunica%C3%A7%C3%A3o_Logo_2018.png" group-title="PORTUGAL",SIC
+http://94.61.44.29:7500/play/a04t/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/04/SIC_Caras_logo.png" group-title="PORTUGAL",SIC Caras
 http://185.236.229.21:9981/play/a07j
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZwRFjOY.png" group-title="PORTUGAL",SIC Mulher
