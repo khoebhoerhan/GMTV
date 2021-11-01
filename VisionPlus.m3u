@@ -1882,6 +1882,8 @@ http://n1.klowdtv.net/live2/gsn_720p/chunks.m3u8
 http://71.187.29.220:8000/play/a07x/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/1920px-Showtime.svg.png" group-title="USA",Showtime
 http://ztvuk.com:80/9tsQfFaeTJ/hpd9sVIvFM/13970
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LHXa485.png" group-title="USA",Syfy
+http://51.79.82.231:8080/US_SYFY_EAST_USA/video.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/upM99h1.png" group-title="USA",TBS
 http://ztvuk.com:80/9tsQfFaeTJ/hpd9sVIvFM/14011
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ydm3Ss2.png" group-title="USA",Telemundo
