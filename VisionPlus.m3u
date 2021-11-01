@@ -575,8 +575,14 @@ http://56.bihourmkras.xyz.global.prod.fastly.net:80/live/079/index.m3u8
 http://www.zizoiptv.com:8000/live/arbcamd/122197/3018.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3uxkGK5.png" group-title="ARABIC MOVIES",Fox Family Movies
 http://iptv.tvmalaysia.cc:80/271282/271282/9026
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DFcvfrZ.png" group-title="ARABIC MOVIES",OSN Action
+http://pyramidsiptv.com:8080/mohamed/mohamed123/80229
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ivNnlRW.png" group-title="ARABIC MOVIES",OSN Movies
 http://56.bihourmkras.xyz.global.prod.fastly.net:80/live/044/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3pSGPHN.png" group-title="ARABIC MOVIES",OSN Movies First
+http://pyramidsiptv.com:8080/mohamed/mohamed123/80227
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AJbFTSr.png" group-title="ARABIC MOVIES",Star Movies
+http://pyramidsiptv.com:8080/mohamed/mohamed123/80220
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Movistar_Acci%C3%B3n.svg/1920px-Movistar_Acci%C3%B3n.svg.png" group-title="SPANISH MOVIES",Movistar Acción
 http://ztvuk.com:80/9tsQfFaeTJ/hpd9sVIvFM/97762
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Movistar_Cine_Espa%C3%B1ol.svg/1920px-Movistar_Cine_Espa%C3%B1ol.svg.png" group-title="SPANISH MOVIES",Movistar Cine Ñ 
@@ -707,7 +713,7 @@ http://163.172.39.215:25461/line/C4@!a3a1@!w72A/129
 https://unlimited1-cl-movistar.dps.live/cnn/cnn.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jCXODcU.png" group-title="SPANISH NEWS",CNN en Español
 http://xcui.vitvabc.xyz:8880/287994000027/287994000027/31510
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zcaYBfX.png" group-title="NON-ENGLISH NEWS",CNN Brasil
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zcaYBfX.png" group-title="BRASILIAN NEWS",CNN Brasil
 http://168.205.87.198:8555/live/adriana/123456/28.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=N2NlNGIzZDgtMDIzYi0zZjU4LTg3ZDMtZjVjNDJlMzQwNjJh
@@ -968,7 +974,7 @@ http://isstnjz4.megogo.xyz/iptv/SNZC9Z4RPEYGA3/7288/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GwQCXmP.png" group-title="PORTUGUESE NEWS",tvi 24
 https://iptv-all.lanesh4d0w.codes/portugal/tvi24
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TpBpUU4.png" group-title="PORTUGUESE NEWS",SIC Noticias
-http://185.236.229.21:9981/play/a073
+http://45.153.35.221:8000/play/a0ui
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Nationtv.png" group-title="THAI NEWS",Nation TV
 http://host4.dynns.com/stream/a5b25476119b46f5b5a34d56f7d1156c.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sqcfD3Q.jpg" group-title="THAI NEWS",TNN 16
@@ -977,8 +983,10 @@ https://tnnthailand-8zdgwf.cdn.byteark.com/live/playlist.m3u8
 https://live.topnews.co.th/hls/topnews.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/99/UNTV-Logo-2016.svg/1920px-UNTV-Logo-2016.svg.png" group-title="PINOY NEWS",UNTV
 https://cdn.untvweb.com/live-stream/chunklist_b732000.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HnuEqk6.png" group-title="NON-ENGLISH NEWS",Record News
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HnuEqk6.png" group-title="BRASILIAN NEWS",Record News
 https://5cf4a2c2512a2.streamlock.net/8016/8016/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BWkhQDM.png" group-title="BRASILIAN NEWS",Band News
+http://srv-source.stream:80/toptv/XGmvmQefc3/4126
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Iran_International.svg/1200px-Iran_International.svg.png" group-title="NON-ENGLISH NEWS",Iran International
 https://live.playstop.me/LS-63503-4/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/n5vWRjT.png" group-title="RUSSIAN NEWS",Известия ТВ
@@ -1464,9 +1472,9 @@ http://isstnjz4.megogo.xyz/iptv/SNZC9Z4RPEYGA3/7061/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/o10mgXY.png" group-title="SPANISH SPORTS",Vamos
 http://cloudcdn.tk:80/ESuter/NFx8tB346/9419
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gwV31E0.png" group-title="PORTUGUESE SPORTS",Eurosport 1
-http://185.236.229.21:9981/play/a064
+http://45.153.35.221:8000/play/a0vh
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lTnKDju.png" group-title="PORTUGUESE SPORTS",Eurosport 2
-http://185.236.229.21:9981/play/a07f
+http://45.153.35.221:8000/play/a0u4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kTXQVRD.png" group-title="PORTUGUESE SPORTS",Eleven Sports 1
 http://isstnjz4.megogo.xyz/iptv/SNZC9Z4RPEYGA3/2531/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MomX4fY.png" group-title="PORTUGUESE SPORTS",Eleven Sports 2
@@ -1474,13 +1482,13 @@ http://isstnjz4.megogo.xyz/iptv/SNZC9Z4RPEYGA3/2532/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xs4DM6q.png" group-title="PORTUGUESE SPORTS",Eleven Sports 3
 http://isstnjz4.megogo.xyz/iptv/SNZC9Z4RPEYGA3/2533/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/33qWa8r.png" group-title="PORTUGUESE SPORTS",Eleven Sports 4
-http://isstnjz4.megogo.xyz/iptv/SNZC9Z4RPEYGA3/2534/index.m3u8
+http://45.153.35.221:8000/play/a0vn
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uwcqzPm.png" group-title="PORTUGUESE SPORTS",Eleven Sports 5
 http://isstnjz4.megogo.xyz/iptv/SNZC9Z4RPEYGA3/2535/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YweD3ZH.png" group-title="PORTUGUESE SPORTS",Eleven Sports 6
 http://isstnjz4.megogo.xyz/iptv/SNZC9Z4RPEYGA3/2536/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/800px-NBA_TV.svg.png" group-title="PORTUGUESE SPORTS",NBA TV
-http://185.236.229.21:9981/play/a06c
+http://45.153.35.221:8000/play/a0w2
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pcAhRs8.png" group-title="PORTUGUESE SPORTS",Sport TV 1
 http://isstnjz4.megogo.xyz/iptv/SNZC9Z4RPEYGA3/2525/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CPt6Fsg.png" group-title="PORTUGUESE SPORTS",Sport TV 2
@@ -1488,7 +1496,7 @@ http://isstnjz4.megogo.xyz/iptv/SNZC9Z4RPEYGA3/2526/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wbhOsK2.png" group-title="PORTUGUESE SPORTS",Sport TV 3
 http://isstnjz4.megogo.xyz/iptv/SNZC9Z4RPEYGA3/2527/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/itYiAnd.png" group-title="PORTUGUESE SPORTS",Sport TV 4
-http://isstnjz4.megogo.xyz/iptv/SNZC9Z4RPEYGA3/2528/index.m3u8
+http://45.153.35.221:8000/play/a0u1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LblSggR.png" group-title="PORTUGUESE SPORTS",Sport TV 5
 http://isstnjz4.megogo.xyz/iptv/SNZC9Z4RPEYGA3/2529/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Km9HrEA.png" group-title="PORTUGUESE SPORTS",Sport TV +
