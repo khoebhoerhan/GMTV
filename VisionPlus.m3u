@@ -27,6 +27,8 @@ https://conversant.mncnow.id/live/eds/SCTV/sa_dash_vmx/SCTV.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=N2NlNGIzZDgtMDIzYi0zZjU4LTg3ZDMtZjVjNDJlMzQwNjJh
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/1000px-Indosiar_2015.svg.png" group-title="NASIONAL",Indosiar
 https://liveanevia.mncnow.id/live/eds/Indosiar/sa_dash_vmx/Indosiar.mpd
+#EXTINF:-1 tvg-logo="https://i.imgur.com/w2eOFdH.png" group-title="NASIONAL",O Channel
+https://Siapapunitu.github.io/Playlist/0/0/0/0/0/0/0/0/IPTV-PREMIUM/Auth=0-9171/Ocod=--------------------------------------------------------------------------------enc/Home/O_cenel-null.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=N2NlNGIzZDgtMDIzYi0zZjU4LTg3ZDMtZjVjNDJlMzQwNjJh
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sDmXVSm.png" group-title="NASIONAL",ANTV
@@ -461,8 +463,10 @@ https://liveorigin01.hbogoasia.com:8443/origin/live/MAX/index.m3u8
 https://liveanevia.mncnow.id/live/eds/tvNMovies/sa_dash_vmx/tvNMovies.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Vmdbbo5.png" group-title="ASIAN MOVIES",Astro Citra
 http://50.7.161.82:8278/streams/d/Citra/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/khhBdiS.png" group-title="ASIAN MOVIES",Flik
+#EXTINF:-1 tvg-logo="https://i.imgur.com/khhBdiS.png" group-title="NATIONAL MOVIES",Flik
 https://nonton.site:8443/Athayamanja/SHFTZRKFrF/29592
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UWCKaJw.png" group-title="NATIONAL MOVIES",IMC
+http://iptvid.my.id/ch/imc.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=N2NlNGIzZDgtMDIzYi0zZjU4LTg3ZDMtZjVjNDJlMzQwNjJh
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Q9PQKk6.png" group-title="MOVIES",Hits Movies
@@ -514,7 +518,7 @@ http://208.115.215.42/ZEE_Bollywood_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HuJrZgT.png" group-title="HINDI MOVIES",&pictures
 http://ztvuk.com:80/9tsQfFaeTJ/hpd9sVIvFM/12270
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9NoTykg.png" group-title="HINDI MOVIES",&xplor
-http://eurotv.vip:80/5678/5678/13820
+https://sneh-zee5tv-production.up.railway.app/?c=0-9-209
 #EXTINF:-1 tvg-logo="https://i.imgur.com/If0036I.png" group-title="MOVIES",MyCinema
 http://210.210.155.35/uq2663/h/h192/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fD8G2Ug.png" group-title="ASIAN MOVIES",Boo
@@ -631,6 +635,10 @@ https://vips-livecdn.fptplay.net/hda2/davincihd_vhls.smil/playlist.m3u8
 https://vips-livecdn.fptplay.net/hda3/dreamworks_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8s1jRRh.png" group-title="KIDS",Astro Ceria
 http://50.7.161.82:8278/streams/d/Ceria/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GCeS1xO.png" group-title="KIDS",Horee!
+http://iptvid.my.id/ch/horee.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6d/Da_Vinci_Kids_logo.svg/1920px-Da_Vinci_Kids_logo.svg.png" group-title="KIDS",Da Vinci
+http://iptvid.my.id/ch/davinci.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HLr5Qi4.png" group-title="KIDS",My Kidz
 http://210.210.155.35/uq2663/h/h191/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/f/f2/Logo_tvedukasi_baru.png" group-title="KNOWLEDGE",TV Edukasi
@@ -687,6 +695,8 @@ https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(abe4ead2-1a88-43
 https://nonton.site:8443/Athayamanja/SHFTZRKFrF/37417
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0AmSSFS.png" group-title="KNOWLEDGE",Astro TVIQ
 https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/324745717
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CXvhA94.png" group-title="KNOWLEDGE",Lingua Channel
+http://iptvid.my.id/ch/lingua.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mThnlFK.png" group-title="KNOWLEDGE",Smithsonian Channel
 https://smithsonianaus-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5QGgJe8.png" group-title="KNOWLEDGE",Love Nature
@@ -1035,6 +1045,8 @@ https://republicworld.amagi.tv/hls/amagi_hls_data_samsungin-republicbharat-samsu
 https://pubads.g.doubleclick.net/ssai/event/nRWQsGoJSzmcErJFgAy67g/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aUfDyOT.png" group-title="HINDI NEWS",TV9 Bharatvarsh
 https://vidcdn.vidgyor.com/tv9bharatvarsh-origin/live/tv9bharatvarsh-origin/live1/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zwN5Oz0.png" group-title="HINDI NEWS",Zee Hindustan
+https://sneh-zee5tv-1.up.railway.app?c=0-9-zeehindustan
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ebqagsj.png" group-title="HINDI NEWS",Zee News
 https://d233nwklwv8p4.cloudfront.net/out/v1/860cb318d23a4c64b58c9d625281170c/index_3.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1583,7 +1595,7 @@ http://isstnjz4.megogo.xyz/iptv/SNZC9Z4RPEYGA3/6816/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QxrbzI6.png" group-title="TURKISH SPORTS",Tivibu Spor 3
 http://cloudcdn.tk:80/ESuter/NFx8tB346/15736
 #EXTINF:-1 tvg-logo="https://i.imgur.com/umVCKR4.png" group-title="TURKISH SPORTS",TRT Spor
-http://cloudcdn.tk:80/ESuter/NFx8tB346/14241
+http://mfe.cliptv.az/dash/TRT_SPOR_HD.ism/playlist.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Sfu3Y7S.png" group-title="TURKISH SPORTS",TRT Spor Yıldız
 http://cloudcdn.tk:80/ESuter/NFx8tB346/29862
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iZ1rMGW.png" group-title="WORLD SPORTS",Motorvision.TV
@@ -2261,7 +2273,7 @@ http://mla03.wanicelife.com:8880/SFL1212697/F9GNH7H9/49969
 #EXTINF:-1 tvg-logo="https://www.gmanetwork.com/res/portal_revamp/img/logo.png" group-title="PHILIPPINES",GMA
 http://titanmedia.tech:8080/Syete/B6ujk9gAJa/63291
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QTHVWGZ.png" group-title="PHILIPPINES",CineMo
-http://titanmedia.tech:8080/Syete/B6ujk9gAJa/63312
+http://ingrid.ltd:25461/jfso/BXVhhKh5/40270
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/40/GTV_Philippines_Logo_Vector.svg/1280px-GTV_Philippines_Logo_Vector.svg.png" group-title="PHILIPPINES",GTV
 http://titanmedia.tech:8080/Syete/B6ujk9gAJa/63297
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Polsat_2021_gradient.svg/1200px-Polsat_2021_gradient.svg.png" group-title="POLAND",Polsat
