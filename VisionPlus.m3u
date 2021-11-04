@@ -1279,8 +1279,8 @@ http://ztvuk.com:80/9tsQfFaeTJ/hpd9sVIvFM/12456
 http://ztvuk.com:80/9tsQfFaeTJ/hpd9sVIvFM/12457
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/14/NBCSN_logo.png" group-title="AMERICAN SPORTS",NBCSN
 http://ztvuk.com:80/9tsQfFaeTJ/hpd9sVIvFM/13918
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ycxjpTX.png" group-title="WORLD SPORTS",Eurosport Asia
-http://shucks.world:2086/live/mohd.fauzi.m@gmail.com/m7oSie9fwT/993.ts?token=GUZaWUIOG1kUVVFRUgEFAQ8BAA0CAggEBlBSAFUGVFUBUgcMAFQOBQVGGUcRR0NRVwg7XFMWClQBGkNCQAYROQsAEAITVw9QBlUXSUBHWFlTR14EAQcFUwMPWQMLT0EWCwAQAl8TVQ8aRlAdFlZDWlcJO1FSQlkBUhRbWUYPD0pAC1xnVQNUAlgAF19AAhMYFAwXRRUOEiZeUQgXZwYPAwELX1VECFAAVxBcCgxAEWdSC0R3X1ASThVUCENBAhcDQF5cTV0KFUFVC0ALFkFIFgxHKWwVGBIHT0IEWUAKDAhAXhBMQkQVQV8XahcHQEVGUwQJUEUWCkAHFE0VXgIbOQELXFZUBU0KWQpGR1gRABYaRwlaWV1EDUVpEV5XQVkIFwheRQ==&expires=1654942380
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ycxjpTX.png" group-title="MALAY SPORTS",Eurosport
+http://server.sibfungold.info:8080/live/gaicu84/Vv094Vv094wOlsHwOlsH/54188.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ix8Pm5R.png" group-title="WORLD SPORTS",On Sports
 http://s4.nihontv.net:21585/vtvcab3/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Dt4IDCL.png" group-title="CHINESE SPORTS",CCTV-5 体育
@@ -1508,7 +1508,7 @@ http://isstnjz4.megogo.xyz/iptv/SNZC9Z4RPEYGA3/2526/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wbhOsK2.png" group-title="PORTUGUESE SPORTS",Sport TV 3
 http://isstnjz4.megogo.xyz/iptv/SNZC9Z4RPEYGA3/2527/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/itYiAnd.png" group-title="PORTUGUESE SPORTS",Sport TV 4
-http://45.153.35.221:8000/play/a0u1
+https://cloudserver.server-cdn-streaming.com/live-player/22/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LblSggR.png" group-title="PORTUGUESE SPORTS",Sport TV 5
 http://isstnjz4.megogo.xyz/iptv/SNZC9Z4RPEYGA3/2529/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Km9HrEA.png" group-title="PORTUGUESE SPORTS",Sport TV +
@@ -1558,6 +1558,14 @@ http://shucks.world:2086/live/mohd.fauzi.m@gmail.com/m7oSie9fwT/24795.ts?token=G
 https://rtmlive06tv.secureswiftcontent.com/rtmchannel/06-manifest.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ycxjpTX.png" group-title="INDIAN SPORTS",Eurosport
 https://feed.play.mv/live/1009/H92bfaXp9Z/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ecutPju.png" group-title="INDIAN SPORTS",Jio Football
+http://jo123.biz/jweb/m3u8.php?c=Jio_Football&q=800&e=junk.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lVi2bXE.png" group-title="INDIAN SPORTS",Jio Football 1
+http://jo123.biz/jweb/m3u8.php?c=Jio_Football_1&q=800&e=junk.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PCkK8uV.png" group-title="INDIAN SPORTS",Jio Football 2
+http://jo123.biz/jweb/m3u8.php?c=Jio_Football_2&q=800&e=junk.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ilwWT9B.png" group-title="INDIAN SPORTS",Jio Football 3
+http://jo123.biz/jweb/m3u8.php?c=Jio_Football_3&q=800&e=junk.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cTwzzIj.png" group-title="INDIAN SPORTS",Sony Six
 https://feed.play.mv/live/10005200/hr55LTnS53/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7aH1f2o.png" group-title="INDIAN SPORTS",Sony Ten 1
@@ -1566,6 +1574,8 @@ https://feed.play.mv/live/10005200/fMLTkj4OJC/master.m3u8
 https://feed.play.mv/live/10005200/ONheoZY3w4/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/maeN3Jv.png" group-title="INDIAN SPORTS",Sony Ten 3
 https://feed.play.mv/live/10005200/RG2fKR6d9p/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ep8UuNr.png" group-title="INDIAN SPORTS",Sony Ten 4
+http://jo123.biz/jweb/m3u8.php?c=Ten_4_HD_Tamil&q=800&e=junk.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/l7gSBMN.png" group-title="INDIAN SPORTS",Star Sports 1
 http://ztvuk.com:80/9tsQfFaeTJ/hpd9sVIvFM/17763
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Bdjk5RJ.png" group-title="INDIAN SPORTS",Star Sports 2
