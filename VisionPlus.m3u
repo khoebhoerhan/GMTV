@@ -543,6 +543,10 @@ http://ztvuk.com:80/9tsQfFaeTJ/hpd9sVIvFM/17748
 http://ztvuk.com:80/9tsQfFaeTJ/hpd9sVIvFM/17754
 #EXTINF:-1 tvg-logo="https://i.imgur.com/34JhaxQ.jpg" group-title="MOVIES",MyCinema Europe
 http://210.210.155.35/uq2663/h/h18/01.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/f/f8/Canal%2B_Cin%C3%A9ma_2013.svg/langfr-1920px-Canal%2B_Cin%C3%A9ma_2013.svg.png" group-title="FRENCH MOVIES",Canal+ Cinema
+http://56.bihourmkras.xyz.global.prod.fastly.net:80/live/107/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/b/b2/Cin%C3%A9%2B_Premier_%282011%29.svg/1920px-Cin%C3%A9%2B_Premier_%282011%29.svg.png" group-title="FRENCH MOVIES",Cine+ Premier
+http://56.bihourmkras.xyz.global.prod.fastly.net:80/live/120/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AD8r7dt.png" group-title="BRITISH MOVIES",Film4
 http://ztvuk.com:80/9tsQfFaeTJ/hpd9sVIvFM/32013
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MPnwLGE.png" group-title="BRITISH MOVIES",Great! Movies
@@ -1134,11 +1138,11 @@ https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/39bwyGI.png" group-title="ARABIC SPORTS",beIN Sports
 http://z.sralm87.com:2082/azizi_320680/ghW1CE0B/22199
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MRULdc8.png" group-title="ARABIC SPORTS",beIN Sports 1
-http://88.barouhn.xyz.global.prod.fastly.net/live/918454578/index.m3u8
+http://88.barouhn.xyz.global.prod.fastly.net/live/91845457800/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NDp6TlM.png" group-title="ARABIC SPORTS",beIN Sports 2
 http://88.barouhn.xyz.global.prod.fastly.net/live/69854211/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/j8VC6nB.png" group-title="ARABIC SPORTS",beIN Sports 3
-http://88.barouhn.xyz.global.prod.fastly.net/live/6151278887/index.m3u8
+http://c3.anfalrou.xyz:80/live/645587700/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Lu26Yho.png" group-title="ARABIC SPORTS",beIN Sports 4
 http://88.barouhn.xyz.global.prod.fastly.net/live/9787488847/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pA5by2y.png" group-title="ARABIC SPORTS",beIN Sports 5
@@ -1556,7 +1560,7 @@ http://shucks.world:2086/live/mohd.fauzi.m@gmail.com/m7oSie9fwT/24795.ts?token=G
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ycxjpTX.png" group-title="MALAY SPORTS",Eurosport
 http://server.sibfungold.info:8080/live/gaicu84/Vv094Vv094wOlsHwOlsH/54188.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Bj0MyZQ.png" group-title="MALAY SPORTS",SPOTV
-http://server.sibfungold.info:8080/live/gaicu84/Vv094Vv094wOlsHwOlsH/54225.ts
+https://unifi-live05.secureswiftcontent.com/UnifiHD/live10.mpd
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8NC0zoQ.png" tvg-url="https://raw.githubusercontent.com/samleong123/rtm-live/main/rtmklik.xml" group-title="MALAY SPORTS",TV Sukan
 https://rtmlive06tv.secureswiftcontent.com/rtmchannel/06-manifest.mpd
@@ -2136,7 +2140,9 @@ http://56.bihourmkras.xyz.global.prod.fastly.net:80/live/156/index.m3u8
 http://callofliberty.fr/stream/C8/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Canal%2B.svg/1920px-Canal%2B.svg.png" group-title="FRANCE",Canal+
 http://56.bihourmkras.xyz.global.prod.fastly.net:80/live/106/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HWxuBLY.png" group-title="FRANCE",Canal+ Series
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/9/99/Canal%2B_Family_2013.svg/langfr-1920px-Canal%2B_Family_2013.svg.png" group-title="FRANCE",Canal+ Family
+http://56.bihourmkras.xyz.global.prod.fastly.net:80/live/109/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/9/95/Canal%2B_S%C3%A9ries.svg/langfr-1920px-Canal%2B_S%C3%A9ries.svg.png" group-title="FRANCE",Canal+ Series
 http://56.bihourmkras.xyz.global.prod.fastly.net:80/live/116/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/CStar_vector.svg/1920px-CStar_vector.svg.png" group-title="FRANCE",CStar
 http://callofliberty.fr/stream/CSTAR/index.m3u8
@@ -2152,6 +2158,8 @@ http://56.bihourmkras.xyz.global.prod.fastly.net:80/live/146/index.m3u8
 https://origin-live-6play.video.bedrock.tech/6play/short/clr/gulli/hdeindex.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/M6_logo_2020.svg/1024px-M6_logo_2020.svg.png" group-title="FRANCE",M6
 https://shls-m6-france-prod-dub.shahid.net/out/v1/c8a9f6e000cd4ebaa4d2fc7d18c15988/index_1.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/c/cd/PlanetePlus_2011.svg/langfr-1280px-PlanetePlus_2011.svg.png" group-title="FRANCE",Planète+
+http://56.bihourmkras.xyz.global.prod.fastly.net:80/live/135/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rGlnFgj.png" group-title="FRANCE",RMC Découverte
 http://56.bihourmkras.xyz.global.prod.fastly.net:80/live/136/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dc/TF1_logo_2013.png" group-title="FRANCE",TF1
@@ -2345,7 +2353,7 @@ http://isstnjz4.megogo.xyz/iptv/SNZC9Z4RPEYGA3/6984/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qUlvjaj.png" group-title="ROMANIA",National TV
 http://isstnjz4.megogo.xyz/iptv/SNZC9Z4RPEYGA3/6983/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/q77TwiP.png" group-title="ROMANIA",Prima TV
-http://isstnjz4.megogo.xyz/iptv/SNZC9Z4RPEYGA3/6995/index.m3u8
+https://stream1.1616.ro:1945/prima/livestream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Logo_Pro_2_%282017%29.svg/1920px-Logo_Pro_2_%282017%29.svg.png" group-title="ROMANIA",Pro 2
 http://isstnjz4.megogo.xyz/iptv/SNZC9Z4RPEYGA3/6988/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Logo_Pro_TV_%282017%29.svg/1200px-Logo_Pro_TV_%282017%29.svg.png" group-title="ROMANIA",Pro TV
