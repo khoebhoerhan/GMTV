@@ -1096,7 +1096,7 @@ https://liveanevia.mncnow.id/live/eds/soccerchannel-HD/sa_dash_vmx/soccerchannel
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=N2NlNGIzZDgtMDIzYi0zZjU4LTg3ZDMtZjVjNDJlMzQwNjJh
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qXnQXkl.png" group-title="NATIONAL SPORTS",MNC Sports
-https://liveanevia.mncnow.id/live/eds/MNCSports/sa_dash_vmx/MNCSports.mpd
+https://liveanevia.mncnow.id/live/eds/MNCsports-adaLiga1/sa_dash_vmx/MNCsports-adaLiga1.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qXnQXkl.png" group-title="NATIONAL SPORTS",MNC Sports 2
@@ -1106,9 +1106,9 @@ https://liveanevia.mncnow.id/live/eds/MNC-Sports2/sa_dash_vmx/MNC-Sports2.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qXnQXkl.png" group-title="NATIONAL SPORTS",MNC Sports 3
 https://liveanevia.mncnow.id/live/eds/Soccer-2/sa_dash_vmx/Soccer-2.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/igMrYaN.png" group-title="NATIONAL SPORTS", Usee Sports
-https://m3u-editor.com/serve/b7b02340-302b-11ec-9783-a5755b612ef8/404334856
+https://skuysflix.tech/useess/chunklist.m3u8?id=useesport&bandwidth=default&sync=0
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jJY4VIw.png" group-title="NATIONAL SPORTS", Usee Sports 2
-https://m3u-editor.com/serve/b7b02340-302b-11ec-9783-a5755b612ef8/404334857
+https://skuysflix.tech/useess/chunklist.m3u8?id=useesports2&bandwidth=default&sync=0
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cg1yMfi.png" group-title="NATIONAL SPORTS",TVRI Sport HD
 http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
