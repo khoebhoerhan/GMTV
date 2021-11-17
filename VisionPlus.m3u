@@ -48,9 +48,9 @@ https://conversant.mncnow.id/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/1280px-TVRILogo2019.svg.png" group-title="NASIONAL",TVRI
-http://118.97.50.107/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(04)/index.m3u8
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINasional)/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RIwYxS9.png" group-title="NASIONAL",TVRI Kanal 3
-http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI3)/Stream(03)/index.m3u8
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRI3)/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/48/RRI_NET.png" group-title="VISUAL RADIO",RRI Net
 https://cdnrrinet.rri.co.id/rrinet/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/23/Mayapada_TV.png" group-title="NASIONAL",myTV
@@ -210,19 +210,19 @@ http://103.30.1.14:8080/hls/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wHo2EvN.png" group-title="LOKAL",TVTPI
 http://103.30.246.47:1935/tvtpi/smil:live.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://staging.tvri.go.id/assets/img_gallery/daerah/ACEH.png" group-title="TVRI DAERAH",TVRI Aceh
-http://118.97.50.107/Content/HLS/Live/Channel(TVRIACEH)/Stream(01)/index.m3u8
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIACEH)/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/TVRIBaliLogo2019.svg/567px-TVRIBaliLogo2019.svg.png" group-title="TVRI DAERAH",TVRI Bali
-http://118.97.50.107/Content/HLS/Live/Channel(TVRIBALI)/Stream(01)/index.m3u8
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIBALI)/index.m3u8
 #EXTINF:-1 tvg-logo="http://staging.tvri.go.id/assets/img_gallery/daerah/BANGKA%20BELITUNG.png" group-title="TVRI DAERAH",TVRI Bangka Belitung
-http://118.97.50.107/Content/HLS/Live/Channel(TVRIBABEL)/Stream(01)/index.m3u8
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIBABEL)/index.m3u8
 #EXTINF:-1 tvg-logo="http://staging.tvri.go.id/assets/img_gallery/daerah/BENGKULU.png" group-title="TVRI DAERAH",TVRI Bengkulu
-http://118.97.50.107/Content/HLS/Live/Channel(TVRIBENGKULU)/Stream(01)/index.m3u8
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIBENGKULU)/index.m3u8
 #EXTINF:-1 tvg-logo="http://staging.tvri.go.id/assets/img_gallery/daerah/GORONTALO.png" group-title="TVRI DAERAH",TVRI Gorontalo
-http://118.97.50.107/Content/HLS/Live/Channel(TVRIGORONTALO)/Stream(01)/index.m3u8
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIGORONTALO)/index.m3u8
 #EXTINF:-1 tvg-logo="http://staging.tvri.go.id/assets/img_gallery/daerah/JAKARTA.png" group-title="TVRI DAERAH",TVRI Jakarta
-http://118.97.50.107/Content/HLS/Live/Channel(TVRIDKI)/Stream(03)/index.m3u8
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIDKI)/index.m3u8
 #EXTINF:-1 tvg-logo="http://staging.tvri.go.id/assets/img_gallery/daerah/JAMBI.png" group-title="TVRI DAERAH",TVRI Jambi
-http://118.97.50.107/Content/HLS/Live/Channel(TVRIJAMBI)/Stream(01)/index.m3u8
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIJAMBI)/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/TVRIJabarLogo2019.svg/567px-TVRIJabarLogo2019.svg.png" group-title="TVRI DAERAH",TVRI Jawa Barat
 http://118.97.50.107/Content/HLS/Live/Channel(TVRIJABARBANDUNG)/index.m3u8
 #EXTINF:-1 tvg-logo="http://staging.tvri.go.id/assets/img_gallery/daerah/JAWA%20TENGAH.png" group-title="TVRI DAERAH",TVRI Jawa Tengah
@@ -230,41 +230,41 @@ http://118.97.50.107/Content/HLS/Live/Channel(TVRIJATENGSEMARANG)/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/TVRIJatimLogo2019.svg/567px-TVRIJatimLogo2019.svg.png" group-title="TVRI DAERAH",TVRI Jawa Timur
 http://118.97.50.107/Content/HLS/Live/Channel(TVRIJATIMSURABAYA)/index.m3u8
 #EXTINF:-1 tvg-logo="http://staging.tvri.go.id/assets/img_gallery/daerah/KALIMANTAN%20BARAT.png" group-title="TVRI DAERAH",TVRI Kalimantan Barat
-http://118.97.50.107/Content/HLS/Live/Channel(TVRIKALBAR)/Stream(01)/index.m3u8
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIKALBAR)/index.m3u8
 #EXTINF:-1 tvg-logo="http://staging.tvri.go.id/assets/img_gallery/daerah/KALIMANTAN%20SELATAN.png" group-title="TVRI DAERAH",TVRI Kalimantan Selatan
-http://118.97.50.107/Content/HLS/Live/Channel(TVRIKALSELBANJARMSN)/Stream(01)/index.m3u8
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIKALSELBANJARMSN)/index.m3u8
 #EXTINF:-1 tvg-logo="http://staging.tvri.go.id/assets/img_gallery/daerah/KALIMANTAN%20TENGAH.png" group-title="TVRI DAERAH",TVRI Kalimantan Tengah
-http://118.97.50.107/Content/HLS/Live/Channel(TVRIKALTENG)/Stream(03)/index.m3u8
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIKALTENG)/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/TVRIKaltimLogo2019.svg/567px-TVRIKaltimLogo2019.svg.png" group-title="TVRI DAERAH",TVRI Kalimantan Timur
-http://118.97.50.107/Content/HLS/Live/Channel(TVRIKALTIMSAMARINDA)/Stream(01)/index.m3u8
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIKALTIMSAMARINDA)/index.m3u8
 #EXTINF:-1 tvg-logo="http://staging.tvri.go.id/assets/img_gallery/daerah/LAMPUNG.png" group-title="TVRI DAERAH",TVRI Lampung
-http://118.97.50.107/Content/HLS/Live/Channel(TVRILAMPUNG)/Stream(01)/index.m3u8
+http://118.97.50.107/Content/HLS/Live/Channel(TVRILAMPUNG)/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/TVRIMalukuLogo2019.svg/567px-TVRIMalukuLogo2019.svg.png" group-title="TVRI DAERAH",TVRI Maluku
-http://118.97.50.107/Content/HLS/Live/Channel(TVRIMALUKUAMBON)/Stream(01)/index.m3u8
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIMALUKUAMBON)/index.m3u8
 #EXTINF:-1 tvg-logo="http://staging.tvri.go.id/assets/img_gallery/daerah/NTB.png" group-title="TVRI DAERAH",TVRI NTB
-http://118.97.50.107/Content/HLS/Live/Channel(TVRINTBMATARAM)/Stream(01)/index.m3u8
+http://118.97.50.107/Content/HLS/Live/Channel(TVRINTBMATARAM)/index.m3u8
 #EXTINF:-1 tvg-logo="http://staging.tvri.go.id/assets/img_gallery/daerah/NTT.png" group-title="TVRI DAERAH",TVRI NTT
-http://118.97.50.107/Content/HLS/Live/Channel(TVRINTTKUPANG)/Stream(03)/index.m3u8
+http://118.97.50.107/Content/HLS/Live/Channel(TVRINTTKUPANG)/index.m3u8
 #EXTINF:-1 tvg-logo="http://staging.tvri.go.id/assets/img_gallery/daerah/PAPUA.png" group-title="TVRI DAERAH",TVRI Papua
-http://118.97.50.107/Content/HLS/Live/Channel(TVRIPAPUA)/Stream(01)/index.m3u8
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIPAPUA)/index.m3u8
 #EXTINF:-1 tvg-logo="http://staging.tvri.go.id/assets/img_gallery/daerah/RIAU.png" group-title="TVRI DAERAH",TVRI Riau
-http://118.97.50.107/Content/HLS/Live/Channel(TVRIriau)/Stream(01)/index.m3u8
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIriau)/index.m3u8
 #EXTINF:-1 tvg-logo="http://staging.tvri.go.id/assets/img_gallery/daerah/SULAWESI%20BARAT.png" group-title="TVRI DAERAH",TVRI Sulawesi Barat
-http://118.97.50.107/Content/HLS/Live/Channel(TVRIsulbarmajene)/Stream(01)/index.m3u8
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIsulbarmajene)/index.m3u8
 #EXTINF:-1 tvg-logo="http://staging.tvri.go.id/assets/img_gallery/daerah/SULAWESI%20SELATAN.png" group-title="TVRI DAERAH",TVRI Sulawesi Selatan
-http://118.97.50.107/Content/HLS/Live/Channel(TVRISULSELMAKASAR)/Stream(01)/index.m3u8
+http://118.97.50.107/Content/HLS/Live/Channel(TVRISULSELMAKASAR)/index.m3u8
 #EXTINF:-1 tvg-logo="http://staging.tvri.go.id/assets/img_gallery/daerah/SULAWESI%20TENGAH.png" group-title="TVRI DAERAH",TVRI Sulawesi Tengah
-http://118.97.50.107/Content/HLS/Live/Channel(TVRISULTENGPALU)/Stream(01)/index.m3u8
+http://118.97.50.107/Content/HLS/Live/Channel(TVRISULTENGPALU)/index.m3u8
 #EXTINF:-1 tvg-logo="http://staging.tvri.go.id/assets/img_gallery/daerah/SULAWESI%20TENGGARA.png" group-title="TVRI DAERAH",TVRI Sulawesi Tenggara
-http://118.97.50.107/Content/HLS/Live/Channel(TVRISULTRA)/Stream(01)/index.m3u8
+http://118.97.50.107/Content/HLS/Live/Channel(TVRISULTRA)/index.m3u8
 #EXTINF:-1 tvg-logo="http://staging.tvri.go.id/assets/img_gallery/daerah/SULAWESI%20UTARA.png" group-title="TVRI DAERAH",TVRI Sulawesi Utara
-http://118.97.50.107/Content/HLS/Live/Channel(TVRISULUTMANADO)/Stream(01)/index.m3u8
+http://118.97.50.107/Content/HLS/Live/Channel(TVRISULUTMANADO)/index.m3u8
 #EXTINF:-1 tvg-logo="http://staging.tvri.go.id/assets/img_gallery/daerah/SUMATERA%20BARAT.png" group-title="TVRI DAERAH",TVRI Sumatera Barat
-http://118.97.50.107/Content/HLS/Live/Channel(TVRISUMBARPADANG)/Stream(01)/index.m3u8
+http://118.97.50.107/Content/HLS/Live/Channel(TVRISUMBARPADANG)/index.m3u8
 #EXTINF:-1 tvg-logo="http://staging.tvri.go.id/assets/img_gallery/daerah/SUMATERA%20SELATAN.png" group-title="TVRI DAERAH",TVRI Sumatera Selatan
-http://118.97.50.107/Content/HLS/Live/Channel(TVRISUMSEL)/Stream(01)/index.m3u8
+http://118.97.50.107/Content/HLS/Live/Channel(TVRISUMSEL)/index.m3u8
 #EXTINF:-1 tvg-logo="http://staging.tvri.go.id/assets/img_gallery/daerah/SUMATERA%20UTARA.png" group-title="TVRI DAERAH",TVRI Sumatera Utara
-http://118.97.50.107/Content/HLS/Live/Channel(TVRISUMUTMEDAN)/Stream(01)/index.m3u8
+http://118.97.50.107/Content/HLS/Live/Channel(TVRISUMUTMEDAN)/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/TVRIJogjaLogo2019.svg/567px-TVRIJogjaLogo2019.svg.png" group-title="TVRI DAERAH",TVRI Yogyakarta
 http://118.97.50.107/Content/HLS/Live/Channel(TVRIYOGYAKARTA)/index.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1114,7 +1114,7 @@ https://skuysflix.tech/useess/chunklist.m3u8?id=useesport&bandwidth=default&sync
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jJY4VIw.png" group-title="NATIONAL SPORTS", Usee Sports 2
 https://skuysflix.tech/useess/chunklist.m3u8?id=useesports2&bandwidth=default&sync=0
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cg1yMfi.png" group-title="NATIONAL SPORTS",TVRI Sport HD
-http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRI4)/index.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=N2NlNGIzZDgtMDIzYi0zZjU4LTg3ZDMtZjVjNDJlMzQwNjJh
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MRULdc8.png" group-title="NATIONAL SPORTS",beIN Sports 1
