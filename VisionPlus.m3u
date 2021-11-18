@@ -1102,10 +1102,6 @@ https://liveanevia.mncnow.id/live/eds/soccerchannel-HD/sa_dash_vmx/soccerchannel
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qXnQXkl.png" group-title="NATIONAL SPORTS",MNC Sports
 https://liveanevia.mncnow.id/live/eds/MNCSports/sa_dash_vmx/MNCSports.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=N2NlNGIzZDgtMDIzYi0zZjU4LTg3ZDMtZjVjNDJlMzQwNjJh
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qXnQXkl.png" group-title="NATIONAL SPORTS",MNC Sports HD
-https://liveanevia.mncnow.id/live/eds/MNCSports-HD-Clean/sa_dash_vmx/MNCSports-HD-Clean.mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qXnQXkl.png" group-title="NATIONAL SPORTS",MNC Sports 2
 https://liveanevia.mncnow.id/live/eds/MNC-Sports2/sa_dash_vmx/MNC-Sports2.mpd
@@ -1216,13 +1212,13 @@ https://cloudserver.server-cdn-streaming.com/live-player/2/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NDp6TlM.png" group-title="THAI SPORTS",beIN Sports 2
 https://cloudserver.server-cdn-streaming.com/live-player/6/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LfzLKei.png" group-title="AMERICAN SPORTS",beIN Sports en Español
-http://cloudcdn.tk:80/ESuter/NFx8tB346/23261
+http://163.172.5.94:8080/panelplayer87262728/NVvubnotIc/4290
 #EXTINF:-1 tvg-logo="https://i.imgur.com/x8049OP.png" group-title="AMERICAN SPORTS",beIN Sports Xtra
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df975e2b27cf5000921c102/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c82b290-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=672c13ed-c11c-4ba2-b749-117f2f0aab45&userId=&serverSideAds=true
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oGyeYgb.png" group-title="AMERICAN SPORTS",beIN Sports Xtra en Español
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60492fdd9989d30007ccd30a/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a121ad30-ae69-11eb-a87c-2ba0b5b8041d&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=ac3bc3c0-b26f-4c9c-8c94-988af191404a&userId=&serverSideAds=true
 #EXTINF:-1 tvg-logo="https://i.imgur.com/39bwyGI.png" group-title="AMERICAN SPORTS",beIN Sports
-http://ztvuk.com:80/QB8av1qady/ZGkc1te7Aw/29384
+http://163.172.5.94:8080/panelplayer87262728/NVvubnotIc/4283
 #EXTINF:-1 tvg-logo="https://i.imgur.com/39bwyGI.png" group-title="CANADIAN SPORTS",beIN Sports
 http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/8376
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/MLBNetworkLogo.svg/800px-MLBNetworkLogo.svg.png" group-title="AMERICAN SPORTS",MLB Network
@@ -1234,7 +1230,7 @@ http://iptv.jinggo-zone.ga:8278/streams/d/wwe_pye/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c8/BoxNation2014Logo.png" group-title="BRITISH SPORTS",Box Nation
 http://ky-iptv.com:25461/JeffDavis20/Jefda2052/189910
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7dg7EB7.png" group-title="BRITISH SPORTS",BT Sport 1
-http://ky-iptv.com:25461/JeffDavis20/Jefda2052/174235
+http://93.152.174.144:4000/play/btsport1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sIIFREX.png" group-title="BRITISH SPORTS",BT Sport 2
 http://93.152.174.144:4000/play/btsport2/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8IzsrMb.png" group-title="BRITISH SPORTS",BT Sport 3
@@ -1506,7 +1502,7 @@ http://isstnjz4.megogo.xyz/iptv/SNZC9Z4RPEYGA3/2532/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xs4DM6q.png" group-title="PORTUGUESE SPORTS",Eleven Sports 3
 http://isstnjz4.megogo.xyz/iptv/SNZC9Z4RPEYGA3/2533/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/33qWa8r.png" group-title="PORTUGUESE SPORTS",Eleven Sports 4
-http://mag.you24.online:8080/9ukn9ca2r8/t5cmn01e34/13771
+http://163.172.5.94:8080/panelplayer87262728/NVvubnotIc/4511
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uwcqzPm.png" group-title="PORTUGUESE SPORTS",Eleven Sports 5
 http://isstnjz4.megogo.xyz/iptv/SNZC9Z4RPEYGA3/2535/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YweD3ZH.png" group-title="PORTUGUESE SPORTS",Eleven Sports 6
@@ -1520,7 +1516,7 @@ http://isstnjz4.megogo.xyz/iptv/SNZC9Z4RPEYGA3/2526/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wbhOsK2.png" group-title="PORTUGUESE SPORTS",Sport TV 3
 http://isstnjz4.megogo.xyz/iptv/SNZC9Z4RPEYGA3/2527/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/itYiAnd.png" group-title="PORTUGUESE SPORTS",Sport TV 4
-http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/266.ts
+http://163.172.5.94:8080/panelplayer87262728/NVvubnotIc/4561
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LblSggR.png" group-title="PORTUGUESE SPORTS",Sport TV 5
 http://isstnjz4.megogo.xyz/iptv/SNZC9Z4RPEYGA3/2529/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Km9HrEA.png" group-title="PORTUGUESE SPORTS",Sport TV +
@@ -1699,31 +1695,31 @@ http://cloudcdn.tk:80/ESuter/NFx8tB346/7008
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aufKGRo.png" group-title="DUTCH SPORTS",Ziggo Sport Voetbal
 http://isstnjz4.megogo.xyz/iptv/SNZC9Z4RPEYGA3/2561/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XO9yr6R.png" group-title="AFRICAN SPORTS",Supersport Action
-http://ztvuk.com:80/QB8av1qady/ZGkc1te7Aw/17186
+http://163.172.5.94:8080/panelplayer87262728/NVvubnotIc/4217
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OOSoHfD.png" group-title="AFRICAN SPORTS",Supersport Blitz
-http://ztvuk.com:80/QB8av1qady/ZGkc1te7Aw/17687
+http://163.172.5.94:8080/panelplayer87262728/NVvubnotIc/4218
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nCzOSks.png" group-title="AFRICAN SPORTS",Supersport Cricket
-http://ztvuk.com:80/QB8av1qady/ZGkc1te7Aw/17685
+http://163.172.5.94:8080/panelplayer87262728/NVvubnotIc/4219
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Vt3RvFA.png" group-title="AFRICAN SPORTS",Supersport Football
-http://ztvuk.com:80/QB8av1qady/ZGkc1te7Aw/17682
+http://163.172.5.94:8080/panelplayer87262728/NVvubnotIc/4222
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YcxFkX8.png" group-title="AFRICAN SPORTS",Supersport Golf
 http://server.sibfungold.info:8080/live/gaicu84/Vv094Vv094wOlsHwOlsH/52298.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3bXUFkP.png" group-title="AFRICAN SPORTS",Supersport Grandstand
-http://ztvuk.com:80/QB8av1qady/ZGkc1te7Aw/17189
+http://163.172.5.94:8080/panelplayer87262728/NVvubnotIc/4224
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qavBxmu.png" group-title="AFRICAN SPORTS",Supersport La Liga
 http://server.sibfungold.info:8080/live/gaicu84/Vv094Vv094wOlsHwOlsH/52294.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Vgt96sG.png" group-title="AFRICAN SPORTS",Supersport Maximo 1
-http://ztvuk.com:80/QB8av1qady/ZGkc1te7Aw/100788
+http://163.172.5.94:8080/panelplayer87262728/NVvubnotIc/4226
 #EXTINF:-1 tvg-logo="https://i.imgur.com/37EjPV3.png" group-title="AFRICAN SPORTS",Supersport Motorsport
 http://iptv.tvmalaysia.cc:80/penang174/penang174/7142
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jIjBIhH.png" group-title="AFRICAN SPORTS",Supersport Premier League
 http://server.sibfungold.info:8080/live/gaicu84/Vv094Vv094wOlsHwOlsH/52299.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cXB0iFd.png" group-title="AFRICAN SPORTS",Supersport PSL
-http://ztvuk.com:80/QB8av1qady/ZGkc1te7Aw/17273
+http://163.172.5.94:8080/panelplayer87262728/NVvubnotIc/4228
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sglWngc.png" group-title="AFRICAN SPORTS",Supersport Rugby
-http://ztvuk.com:80/QB8av1qady/ZGkc1te7Aw/17681
+http://163.172.5.94:8080/panelplayer87262728/NVvubnotIc/4231
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uBflRxR.png" group-title="AFRICAN SPORTS",Supersport Tennis
-http://ztvuk.com:80/QB8av1qady/ZGkc1te7Aw/17272
+http://163.172.5.94:8080/panelplayer87262728/NVvubnotIc/4232
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LD6Yrnx.png" group-title="AFRICAN SPORTS",Supersport Variety 1
 http://ztvuk.com:80/QB8av1qady/ZGkc1te7Aw/17187
 #EXTINF:-1 tvg-logo="https://i.imgur.com/samKsMn.png" group-title="AFRICAN SPORTS",Supersport Variety 2
