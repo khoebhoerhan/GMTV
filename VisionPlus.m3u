@@ -143,21 +143,21 @@ http://122.248.43.138:1935/ch28/myStream/live.m3u8
 http://103.23.201.170:1935/live/livestream/chunklist_w1352763317.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/U5jiuuM.png" group-title="LOKAL",Dayak TV
 https://v4.siar.us/dayaktv/livestream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BhggEK6.jpg" group-title="LOKAL",Digdaya TV
-https://ms.digdaya.tv/live/digdayatv/chunklist_w1052587069.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qio9YhR.png" group-title="LOKAL",Duta TV
 https://v2.siar.us/dutatv/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9MLGhEL.png" group-title="LOKAL",Efarina TV
 https://d5ylslorfcw61.cloudfront.net/hls/6ax0fnygpcltf81k.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/ElshintaTV2019.png" group-title="LOKAL",Elshinta TV
 http://210.210.155.35/is6knm/s/s10/01.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/s3HCVrO.png" group-title="LOKAL",Garuda TV
+https://ms.digdaya.tv/live/digdayatv/chunklist_w1052587069.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pposm6w.png" group-title="LOKAL",Huma Betang TV
 https://v3.siar.us/humabetangtv/live/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=N2NlNGIzZDgtMDIzYi0zZjU4LTg3ZDMtZjVjNDJlMzQwNjJh
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/c/cc/Logo_Jak_TV_%282018%29.png" group-title="LOKAL",JakTV
 https://liveanevia.mncnow.id/live/eds/JakTV/sa_dash_vmx/JakTV.mpd
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/1/15/Jambi_TV.png/400px-Jambi_TV.png" group-title="LOKAL",Jambi TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/T3As0Kq.png" group-title="LOKAL",Jambi TV
 http://wowza58.indostreamserver.com:1935/jambitv/live/chunklist_w1308495282.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4eGZB6u.png" group-title="LOKAL",Jawa Pos TV
 http://103.236.151.43:1935/jawapostv/live/chunklist_w1312856686.m3u8
