@@ -516,13 +516,13 @@ https://liveanevia.mncnow.id/live/eds/ZeeBIOSKOP/sa_dash_vmx/ZeeBIOSKOP.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OmibwXx.png" group-title="HINDI MOVIES",Zee Action
 http://93.190.139.35:8278/streams/d/Zeeaction/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NXCjJ9n.png" group-title="HINDI MOVIES",Zee Anmol Cinema
-https://sneh-zee5tv-1.up.railway.app/?c=0-9-zeeanmolcinema
+https://sneh-z5api.herokuapp.com/?c=0-9-zeeanmolcinema
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1KY7rjF.png" group-title="HINDI MOVIES",Zee Bollywood
 http://208.115.215.42/ZEE_Bollywood_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HuJrZgT.png" group-title="HINDI MOVIES",&pictures
-https://sneh-zee5tv-production.up.railway.app/?c=0-9-tvpictureshd
+https://sneh-z5api.herokuapp.com/?c=0-9-tvpictureshd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9NoTykg.png" group-title="HINDI MOVIES",&xplor
-https://sneh-zee5tv-production.up.railway.app/?c=0-9-209
+https://sneh-z5api.herokuapp.com/?c=0-9-209
 #EXTINF:-1 tvg-logo="https://i.imgur.com/If0036I.png" group-title="MOVIES",MyCinema
 http://210.210.155.35/uq2663/h/h192/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fD8G2Ug.png" group-title="ASIAN MOVIES",Boo
@@ -551,6 +551,8 @@ http://210.210.155.35/uq2663/h/h18/01.m3u8
 http://56.frehafroha.xyz.global.prod.fastly.net:80/live/107/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/b/b2/Cin%C3%A9%2B_Premier_%282011%29.svg/1920px-Cin%C3%A9%2B_Premier_%282011%29.svg.png" group-title="FRENCH MOVIES",Cine+ Premier
 http://56.frehafroha.xyz.global.prod.fastly.net:80/live/120/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/3/3d/CinePlusFrisson.svg/1920px-CinePlusFrisson.svg.png" group-title="FRENCH MOVIES",Cine+ Frisson
+http://isstnjz4.megogo.xyz/iptv/SNZC9Z4RPEYGA3/6003/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Z6AeyI5.png" group-title="POLISH MOVIES",Canal+ Film
 http://livego.club:8080/syUjnpWuNb/m8GgxCjmW1/8091
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Polsat_Film_2021_gradient.svg/800px-Polsat_Film_2021_gradient.svg.png" group-title="POLISH MOVIES",Polsat Film
@@ -1048,7 +1050,7 @@ http://tv.factoryiptv.com:80/cassia123/cassia1234/36917
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HnuEqk6.png" group-title="BRASILIAN NEWS",Record News
 https://canal1.proxy.tokplay.com.br/streams/RECORD_NEWS/auto.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BWkhQDM.png" group-title="BRASILIAN NEWS",Band News
-http://asbx.xyz/valeb4asus/valeb4asus69/62676
+http://isstnjz4.megogo.xyz/iptv/SNZC9Z4RPEYGA3/6160/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Iran_International.svg/1200px-Iran_International.svg.png" group-title="NON-ENGLISH NEWS",Iran International
 https://live.playstop.me/LS-63503-4/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/n5vWRjT.png" group-title="RUSSIAN NEWS",Известия ТВ
@@ -1096,7 +1098,7 @@ https://pubads.g.doubleclick.net/ssai/event/nRWQsGoJSzmcErJFgAy67g/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aUfDyOT.png" group-title="HINDI NEWS",TV9 Bharatvarsh
 https://vidcdn.vidgyor.com/tv9bharatvarsh-origin/live/tv9bharatvarsh-origin/live1/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zwN5Oz0.png" group-title="HINDI NEWS",Zee Hindustan
-https://sneh-zee5tv-1.up.railway.app?c=0-9-zeehindustan
+https://sneh-z5api.herokuapp.com/?c=0-9-zeehindustan
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ebqagsj.png" group-title="HINDI NEWS",Zee News
 https://d233nwklwv8p4.cloudfront.net/out/v1/860cb318d23a4c64b58c9d625281170c/index_3.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1292,7 +1294,7 @@ https://csm-e-stv.tls1.yospace.com/csm/live/203444271.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qbjcgcS.png" group-title="BRITISH SPORTS",La Liga TV
 http://ztvuk.com:80/y993slzLSu/OmKCdASQJI/87472
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tPxIkmd.png" group-title="BRITISH SPORTS",Premier Sports 1
-http://ky-iptv.com:25461/LaytonLeniel2/Layle2502/229003
+http://isstnjz4.megogo.xyz/iptv/SNZC9Z4RPEYGA3/6555/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PhUx6yK.png" group-title="BRITISH SPORTS",Premier Sports 2
 http://ky-iptv.com:25461/LaytonLeniel2/Layle2502/391420
 #EXTINF:-1 tvg-logo="https://i.imgur.com/d81P4qV.jpg" group-title="BRITISH SPORTS",Racing TV
@@ -1411,6 +1413,8 @@ http://ztvuk.com:80/y993slzLSu/OmKCdASQJI/14565
 http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/374
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lTnKDju.png" group-title="POLISH SPORTS",Eurosport 2
 http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/375
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EiveaZi.png" group-title="POLISH SPORTS",Polsat Games
+http://isstnjz4.megogo.xyz/iptv/SNZC9Z4RPEYGA3/7295/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pM6Q5n1.png" group-title="POLISH SPORTS",Polsat Sport
 http://isstnjz4.megogo.xyz/iptv/SNZC9Z4RPEYGA3/7296/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mnohjlI.png" group-title="POLISH SPORTS",Polsat Sport Extra
@@ -1508,15 +1512,15 @@ http://xt.bossna-caffe.com:25461/@lens@k@25819/39bYksQkUg/15383
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lTnKDju.png" group-title="GERMAN SPORTS",Eurosport 2
 http://xt.bossna-caffe.com:25461/@lens@k@25819/39bYksQkUg/15386
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gP7OfkX.png" group-title="GERMAN SPORTS",Sky Sport Bundesliga 1
-http://xt.bossna-caffe.com:25461/@lens@k@25819/39bYksQkUg/15415
+http://isstnjz4.megogo.xyz/iptv/SNZC9Z4RPEYGA3/2480/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Sky_Sport_F1_-_Logo_2020.svg/1920px-Sky_Sport_F1_-_Logo_2020.svg.png" group-title="GERMAN SPORTS",Sky Sport F1
 http://isstnjz4.megogo.xyz/iptv/SNZC9Z4RPEYGA3/10079/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pf23tT3.png" group-title="GERMAN SPORTS",Sky Sport 1
-http://xt.bossna-caffe.com:25461/@lens@k@25819/39bYksQkUg/15394
+http://isstnjz4.megogo.xyz/iptv/SNZC9Z4RPEYGA3/2478/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MVk9Qyz.png" group-title="GERMAN SPORTS",Sky Sport 2
-http://xt.bossna-caffe.com:25461/@lens@k@25819/39bYksQkUg/15395
+http://isstnjz4.megogo.xyz/iptv/SNZC9Z4RPEYGA3/2479/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/de/thumb/c/cc/Sky_Sport_News_2020.svg/1920px-Sky_Sport_News_2020.svg.png" group-title="GERMAN SPORTS",Sky Sport News
-http://xt.bossna-caffe.com:25461/@lens@k@25819/39bYksQkUg/15410
+http://isstnjz4.megogo.xyz/iptv/SNZC9Z4RPEYGA3/2477/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gCggEAF.png" group-title="GERMAN SPORTS",Sport1
 http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/243.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Sport-Digital.svg/1920px-Sport-Digital.svg.png" group-title="GERMAN SPORTS",sportdigital
@@ -1821,7 +1825,7 @@ https://blackghost.live/play/zutv-120.php?c=1954.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/I7Lhgej.png" group-title="LATINO SPORTS",TyC Sports
 https://d3awnlgqz0szay.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index_9.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FbFe2uu.png" group-title="BRASILIAN SPORTS",Band Sports
-http://asbx.xyz/valeb4asus/valeb4asus69/62678
+http://isstnjz4.megogo.xyz/iptv/SNZC9Z4RPEYGA3/6158/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1920px-ESPN_wordmark.svg.png" group-title="BRASILIAN SPORTS",ESPN
 http://rec2.distv.net:80/damaris/123456/142
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/1280px-ESPN2_logo.svg.png" group-title="BRASILIAN SPORTS",ESPN 2
@@ -2245,7 +2249,7 @@ http://56.frehafroha.xyz.global.prod.fastly.net:80/live/150/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ujQVb6l.png" group-title="GERMANY",Das Erste
 https://mcdn.daserste.de:443/daserste/de/master_3744.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/ProSieben_Logo_2015.svg/800px-ProSieben_Logo_2015.svg.png" group-title="GERMANY",ProSieben
-http://xt.bossna-caffe.com:25461/@lens@k@25819/39bYksQkUg/15489
+http://isstnjz4.megogo.xyz/iptv/SNZC9Z4RPEYGA3/6057/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DObtzRS.png" group-title="GERMANY",ProSieben Maxx
 http://isstnjz4.megogo.xyz/iptv/SNZC9Z4RPEYGA3/15174/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/RTLZWEI_Logo_2019.svg/1024px-RTLZWEI_Logo_2019.svg.png" group-title="GERMANY",RTL Zwei
@@ -2253,7 +2257,9 @@ http://185.226.88.3:1036/live/backup/backup/41.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/RTL_DE_Logo_2021_blau_petrol_lila.png" group-title="GERMANY",RTL
 http://185.226.88.3:1036/live/backup/backup/42.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a3/SAT.1_logo_2016.png" group-title="GERMANY",Sat.1
-http://xt.bossna-caffe.com:25461/@lens@k@25819/39bYksQkUg/15492
+http://isstnjz4.megogo.xyz/iptv/SNZC9Z4RPEYGA3/6060/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Sky_Krimi_2020.svg/1920px-Sky_Krimi_2020.svg.png" group-title="GERMANY",Sky Krimi
+http://isstnjz4.megogo.xyz/iptv/SNZC9Z4RPEYGA3/2491/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Super_RTL_2019.png" group-title="GERMANY",Super RTL
 http://130.0.31.246:25465/stalker/xaMDnbFF9n/48
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/ZDF_logo.svg/1920px-ZDF_logo.svg.png" group-title="GERMANY",ZDF
@@ -2295,7 +2301,7 @@ http://208.115.215.42/ZEE_Anm0l_HD/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DcG1oo6.png" group-title="INDIA",Zee TV
 http://208.115.215.42/ZEE_Tv_HD_02/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/29bJSZf.png" group-title="INDIA",Zing
-https://sneh-zee5tv-production.up.railway.app/?c=0-9-zing
+https://sneh-z5api.herokuapp.com/?c=0-9-zing
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e4/RT%C3%89_One_2014.svg/1920px-RT%C3%89_One_2014.svg.png" group-title="IRELAND",RTÉ One
 http://ztvuk.com:80/y993slzLSu/OmKCdASQJI/89365
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/11/RT%C3%892_logo.svg/1920px-RT%C3%892_logo.svg.png" group-title="IRELAND",RTÉ 2
