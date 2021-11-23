@@ -1036,9 +1036,9 @@ http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/68963
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Rtp3.png/1920px-Rtp3.png" group-title="PORTUGUESE NEWS",RTP 3
 http://new-pro.tv:8080/waelwael/2r1sBY8wJK/70812
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Nationtv.png" group-title="THAI NEWS",Nation TV
-http://host4.dynns.com/stream/a5b25476119b46f5b5a34d56f7d1156c.m3u8
+http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/115737
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sqcfD3Q.jpg" group-title="THAI NEWS",TNN 16
-https://tnnthailand-8zdgwf.cdn.byteark.com/live/playlist.m3u8
+http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/115817
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RQTi6Nm.jpg" group-title="THAI NEWS",Top News
 https://live.topnews.co.th/hls/topnews.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HnS25Hi.png" group-title="PINOY NEWS",DZRH TV
@@ -1875,25 +1875,37 @@ http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunkl
 #EXTINF:-1 tvg-logo="https://www.dubaisports.ae/content/dam/dubaisports/logos/brand/011019/logo.png" group-title="ARABIC SPORTS",Dubai Sports 3
 http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist_b1600000.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/r27965c.png" group-title="THAI SPORTS",Golf Channel Thailand
-https://master.server-cdn-streaming.com/api/live-player/35/live.m3u8
+http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/115702
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Bj0MyZQ.png" group-title="THAI SPORTS",SPOTV
-https://cloudserver.server-cdn-streaming.com/live-player/11/live.m3u8
+http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/115684
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WbPfNOb.png" group-title="THAI SPORTS",SPOTV2
-https://cloudserver.server-cdn-streaming.com/live-player/13/live.m3u8
+http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/115688
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ksbMrtq.png" group-title="THAI SPORTS",True Sports HD
-https://master.server-cdn-streaming.com/api/live-player/30/live.m3u8
+http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/115531
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pls8m6y.png" group-title="THAI SPORTS",True Sports HD 2
-https://master.server-cdn-streaming.com/api/live-player/31/live.m3u8
+http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/115533
 #EXTINF:-1 tvg-logo="https://i.imgur.com/q1xAgyW.png" group-title="THAI SPORTS",True Sports HD 3
-https://master.server-cdn-streaming.com/api/live-player/32/live.m3u8
+http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/115537
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CdJCiap.png" group-title="THAI SPORTS",True Sports HD 4
-https://cloudserver.server-cdn-streaming.com/live-player/10/live.m3u8
+http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/115539
+#EXTINF:-1 tvg-logo="https://i.imgur.com/p6H4JPp.png" group-title="THAI SPORTS",True Sports 2
+http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/115534
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Wi8PvKB.png" group-title="THAI SPORTS",True Sports 5
+http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/115541
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EGvdYWd.png" group-title="THAI SPORTS",True Sports 6
+http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/115542
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6SfqnBv.png" group-title="THAI SPORTS",True Sports 7
-https://master.server-cdn-streaming.com/api/live-player/43/live.m3u8
+http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/115799
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9FJknMK.png" group-title="THAI SPORTS",True Premier Football 1
-https://master.server-cdn-streaming.com/api/live-player/45/live.m3u8
+http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/115760
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yS94g00.png" group-title="THAI SPORTS",True Premier Football 2
-https://master.server-cdn-streaming.com/api/live-player/46/live.m3u8
+http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/115509
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xBmmgXe.png" group-title="THAI SPORTS",True Premier Football 3
+http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/115512
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HOfAIeF.png" group-title="THAI SPORTS",True Premier Football 4
+http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/115768
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IAvYAOR.png" group-title="THAI SPORTS",True Premier Football 5
+http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/115525
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8mMnYWJ.png" group-title="THAI SPORTS",True Tennis
 https://master.server-cdn-streaming.com/api/live-player/34/live.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
