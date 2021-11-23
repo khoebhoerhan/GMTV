@@ -770,7 +770,7 @@ https://pantera1-100GB-cl-movistar.dps.live/cnn/cnn.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jCXODcU.png" group-title="SPANISH NEWS",CNN en Español
 http://xcui.vitvabc.xyz:8880/287994000027/287994000027/31510
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/CNN_Portugal.svg/800px-CNN_Portugal.svg.png" group-title="PORTUGUESE NEWS",CNN Portugal
-https://video-auth6.iol.pt/live_cnn/live_cnn/edge_servers/cnn-720p/chunks.m3u8?nimblesessionid=82941413&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjMvMjAyMSAzOjM2OjI4IEFNJmhhc2hfdmFsdWU9TlNsRWN3cmJKUXhxdTFWVUxoN3Fudz09JnZhbGlkbWludXRlcz0xNDQwJmlkPTMxMGMwY2E0LWI2ODAtNDgxZS1iNmNmLTlhNTNhN2E3ZTM5OA==
+https://list.iptvcat.com/my_list/s/415921e1d19c1448528a914e798f4602.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zcaYBfX.png" group-title="BRASILIAN NEWS",CNN Brasil
 https://video01.soultv.com.br/cnnbrasil/cnnbrasil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0XayB3p.png" group-title="INDIAN NEWS",CNN-News18
@@ -1030,7 +1030,9 @@ http://livego.club:8080/syUjnpWuNb/m8GgxCjmW1/12689
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Tvn24_Logo.svg/800px-Tvn24_Logo.svg.png" group-title="POLISH NEWS",TVN 24
 http://isstnjz4.megogo.xyz/iptv/SNZC9Z4RPEYGA3/7288/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TpBpUU4.png" group-title="PORTUGUESE NEWS",SIC Noticias
-http://45.153.35.221:8000/play/a0ui
+https://list.iptvcat.com/my_list/s/df80637d1c4c5af70e66a98b4e2967e4.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Rtp3.png/1920px-Rtp3.png" group-title="PORTUGUESE NEWS",RTP 3
+https://list.iptvcat.com/my_list/s/660dc14cf727bc1b0446d3900b119cd6.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Nationtv.png" group-title="THAI NEWS",Nation TV
 http://host4.dynns.com/stream/a5b25476119b46f5b5a34d56f7d1156c.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sqcfD3Q.jpg" group-title="THAI NEWS",TNN 16
@@ -2442,16 +2444,22 @@ http://isstnjz4.megogo.xyz/iptv/SNZC9Z4RPEYGA3/7292/index.m3u8
 http://isstnjz4.megogo.xyz/iptv/SNZC9Z4RPEYGA3/7293/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/czeiGFt.png" group-title="POLAND",TVP Seriale
 http://isstnjz4.megogo.xyz/iptv/SNZC9Z4RPEYGA3/7281/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/RTP1_-_Logo_2016.svg/1920px-RTP1_-_Logo_2016.svg.png" group-title="PORTUGAL",RTP 1
+https://list.iptvcat.com/my_list/s/cd9652db7f3990e5723dec7d3b2327d7.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/RTP2_logo_2016.png" group-title="PORTUGAL",RTP 2
+https://list.iptvcat.com/my_list/s/2b65853f95f38df93b2ef740b7c4d9bc.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4d/Sociedade_Independente_de_Comunica%C3%A7%C3%A3o_Logo_2018.png" group-title="PORTUGAL",SIC
-http://94.61.44.29:7500/play/a04t/index.m3u8
+https://list.iptvcat.com/my_list/s/6294025fa665b960d6edb7926c887ee7.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/04/SIC_Caras_logo.png" group-title="PORTUGAL",SIC Caras
-http://185.236.229.21:9981/play/a07j
+https://list.iptvcat.com/my_list/s/50dba32fba510629471eb350cbe3df64.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZwRFjOY.png" group-title="PORTUGAL",SIC Mulher
-http://185.236.229.21:9981/play/a037
+https://list.iptvcat.com/my_list/s/db27cc6e48c313326f6c8327e9b89466.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/Logosicradical.png" group-title="PORTUGAL",SIC Radical
+https://list.iptvcat.com/my_list/s/0684e972c3cdc5ff49d972b7651276fd.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dHSH6qh.png" group-title="PORTUGAL",TVI
-https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyMSA3OjA6MiBQTSZoYXNoX3ZhbHVlPVh4VWtoQ3hxS3RENnltTHN5ZGptL0E9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD0xN2ZhNDc2Ni1lMTQ3LTRhNzUtOGI0Mi1jN2U4YTQ3Yzg0MGE=
+https://list.iptvcat.com/my_list/s/3440ddb80602121c2ecc83c808208ccd.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/D2PFTzV.png" group-title="PORTUGAL",TVI Ficção
-http://185.236.229.21:9981/play/a075
+https://list.iptvcat.com/my_list/s/3860b2e63937223e9cca6a9840d4a668.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PFJ5gVQ.png" group-title="PORTUGAL",TVI Reality
 https://video-auth2.iol.pt/live_tvi_direct/live_tvi_direct/edge_servers/tvireality-480p/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vhO8CMi.png" group-title="ROMANIA",Antena 1
