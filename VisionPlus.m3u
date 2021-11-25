@@ -485,6 +485,8 @@ http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
 http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsf6Ura2ezmL2VgoMDIZx9JY/ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ce/Mn%2Blogo.jpeg" group-title="MOVIES",MN+
 http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsc1eOY4RcOeO6_MW3_wyWlM/ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/w8pi4Ip.png" group-title="MOVIES",Galaxy
+https://nonton.site:8443/Athayamanja/SHFTZRKFrF/29604
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oH8wyqR.png" group-title="MOVIES",Galaxy Premium
 https://nonton.site:8443/Athayamanja/SHFTZRKFrF/29603
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/12/%26flix_logo.png" group-title="MOVIES",&flix
@@ -705,6 +707,8 @@ https://vips-livecdn.fptplay.net/hda3/dreamworks_vhls.smil/chunklist_b5000000.m3
 http://50.7.161.82:8278/streams/d/Ceria/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GCeS1xO.png" group-title="KIDS",Horee!
 http://iptvid.my.id/ch/horee.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SU2QKXj.png" group-title="KIDS",IndiKids
+http://iptvid.my.id/ch/indikids.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HLr5Qi4.png" group-title="KIDS",My Kidz
 http://210.210.155.35/uq2663/h/h191/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/f/f2/Logo_tvedukasi_baru.png" group-title="KNOWLEDGE",TV Edukasi
@@ -725,6 +729,8 @@ http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.
 https://liveanevia.mncnow.id/live/eds/Discovery/sa_dash_vmx/Discovery.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jAeSKOP.png" group-title="KNOWLEDGE",Discovery Asia
 https://livecdn.fptplay.net/hda2/discoveryasia_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Discovery_Science_2017_Logo.svg/1920px-Discovery_Science_2017_Logo.svg.png" group-title="KNOWLEDGE",Discovery Science
+https://nonton.site:8443/Athayamanja/SHFTZRKFrF/37392
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=N2NlNGIzZDgtMDIzYi0zZjU4LTg3ZDMtZjVjNDJlMzQwNjJh
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hKn75WG.png" group-title="KNOWLEDGE",History
@@ -1181,6 +1187,8 @@ https://liveanevia.mncnow.id/live/eds/soccerchannel-HD/sa_dash_vmx/soccerchannel
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=N2NlNGIzZDgtMDIzYi0zZjU4LTg3ZDMtZjVjNDJlMzQwNjJh
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qXnQXkl.png" group-title="NATIONAL SPORTS",MNC Sports
 https://liveanevia.mncnow.id/live/eds/MNCSports/sa_dash_vmx/MNCSports.mpd
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qXnQXkl.png" group-title="NATIONAL SPORTS",MNC Sports HD
+https://on-load.mncnow.id/live/eds/MNCSports-HD-Clean/sa_dash_vmx/MNCSports-HD-Clean.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qXnQXkl.png" group-title="NATIONAL SPORTS",MNC Sports 2
@@ -1698,7 +1706,7 @@ http://iptv.tvmalaysia.cc:80/jalan8/jalan8/9020
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PlwrDwx.png" group-title="MALAY SPORTS",Astro Supersport 4
 http://iptv.tvmalaysia.cc:80/jalan8/jalan8/9026
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FieopQP.png" group-title="MALAY SPORTS",Astro Supersport 5
-http://shucks.world:2086/live/mohd.fauzi.m@gmail.com/m7oSie9fwT/24795.ts?token=GUZaWUIOG1kUVVFRUgEFAQ8BAA0CAggEBlBSAFUGVFUBUgcMAFQOBQVGGUcRR0NRVwg7XFMWClQBGkNCQAYROQsAEAITVw9QBlUXSUBHWFlTR14EAQcFUwMPWQMLT0EWCwAQAl8TVQ8aRlAdFlZDWlcJO1FSQlkBUhRbWUYPD0pAC1xnVQNUAlgAF19AAhMYFAwXRRUOEiZeUQgXZwYPAwELX1VECFAAVxBcCgxAEWdSC0R3X1ASThVUCENBAhcDQF5cTV0KFUFVC0ALFkFIFgxHKWwVGBIHT0IEWUAKDAhAXhBMQkQVQV8XahcHQEVGUwQJUEUWCkAHFE0VXgIbOQELXFZUBU0KWQpGR1gRABYaRwlaWV1EDUVpEV5XQVkIFwheRQ==&expires=1654942380#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36
+http://194.233.78.49:2082/live/DurianTv/EbnZTI6oI8/8649.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ycxjpTX.png" group-title="MALAY SPORTS",Eurosport
 http://server.sibfungold.info:8080/live/gaicu84/Vv094Vv094wOlsHwOlsH/54188.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Bj0MyZQ.png" group-title="MALAY SPORTS",SPOTV
@@ -2527,17 +2535,17 @@ http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/18556.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f5/SBS9_New_Logo_2018.png" group-title="NETHERLANDS",SBS 9
 http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/18553.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/NRK1-Logo.svg/1920px-NRK1-Logo.svg.png" group-title="NORWAY",NRK 1
-http://grdts.jrtf21.com:2082/dondream_312833/68U5Dja4/22576
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/2921
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/NRK2-Logo.svg/1920px-NRK2-Logo.svg.png" group-title="NORWAY",NRK 2
-http://grdts.jrtf21.com:2082/dondream_312833/68U5Dja4/22574
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/2920
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/NRK3_logo.svg/1920px-NRK3_logo.svg.png" group-title="NORWAY",NRK 3
 http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/3895
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ty4siDf.png" group-title="NORWAY",TV Norge
-http://grdts.jrtf21.com:2082/dondream_312833/68U5Dja4/22568
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/3901
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/TV2-2021.svg/800px-TV2-2021.svg.png" group-title="NORWAY",TV2
 http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/2918
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KsmKK4n.png" group-title="NORWAY",TV2 Livsstil
-http://grdts.jrtf21.com:2082/dondream_312833/68U5Dja4/22534
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/3897
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JLLXAC2.png" group-title="NORWAY",TV2 Zebra
 http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/6501
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0VQDatQ.png" group-title="NORWAY",TV3
@@ -2567,7 +2575,7 @@ http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/951
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Polsat_2021_gradient.svg/1200px-Polsat_2021_gradient.svg.png" group-title="POLAND",Polsat
 http://207.110.52.61:8080/s/hls/5/9584/polsat_266/1/1/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Polsat_2_2021_gradient.svg/1024px-Polsat_2_2021_gradient.svg.png" group-title="POLAND",Polsat 2
-http://livego.club:8080/syUjnpWuNb/m8GgxCjmW1/5173
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/6430
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Polsat_Doku_2021_gradient.svg/800px-Polsat_Doku_2021_gradient.svg.png" group-title="POLAND",Polsat Doku
 http://isstnjz4.megogo.xyz/iptv/SNZC9Z4RPEYGA3/7300/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Polsat_Rodzina_2021_gradient.svg/800px-Polsat_Rodzina_2021_gradient.svg.png" group-title="POLAND",Polsat Rodzina
@@ -2593,7 +2601,7 @@ http://isstnjz4.megogo.xyz/iptv/SNZC9Z4RPEYGA3/7287/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/Tvn_style.png" group-title="POLAND",TVN Style
 http://isstnjz4.megogo.xyz/iptv/SNZC9Z4RPEYGA3/7285/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/TVN_turbo.svg/1920px-TVN_turbo.svg.png" group-title="POLAND",TVN Turbo
-http://new-pro.tv:8080/waelwael/2r1sBY8wJK/71270
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/888
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TVP1_2021_box-1.svg/1920px-TVP1_2021_box-1.svg.png" group-title="POLAND",TVP 1
 http://isstnjz4.megogo.xyz/iptv/SNZC9Z4RPEYGA3/7292/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/TVP2_2021_box-1.svg/1920px-TVP2_2021_box-1.svg.png" group-title="POLAND",TVP 2
@@ -2665,7 +2673,7 @@ http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/11622
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xha7Bsa.png" group-title="SWEDEN",Kanal 9
 http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/11623
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Sjuan_2018.svg/800px-Sjuan_2018.svg.png" group-title="SWEDEN",Sjuan
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/103741.ts
+http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/9633
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tvkMICz.png" group-title="SWEDEN",SVT 1
 http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/45957
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8Z1lYco.png" group-title="SWEDEN",SVT 2
