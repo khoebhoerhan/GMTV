@@ -827,6 +827,8 @@ http://www.filmon.com/vr-streams/27.high/playlist.m3u8
 http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/18628
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b8/Logo_BBC_Arabic.png" group-title="ARABIC NEWS",BBC News Arabic
 https://vs-cmaf-pushb-ww-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2_akamai_dash_live_http.mpd
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_News_Persian_Logo.jpg" group-title="PERSIAN NEWS",BBC News Persian
+https://vs-cmaf-pushb-ww-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_persian_tv/pc_hd_abr_v2_akamai_dash_live.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ms/thumb/f/f2/Aljazeera_eng.svg/1200px-Aljazeera_eng.svg.png" group-title="WORLD NEWS",Al Jazeera English
@@ -1099,8 +1101,10 @@ http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/14335
 https://canal1.proxy.tokplay.com.br/streams/RECORD_NEWS/auto.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BWkhQDM.png" group-title="BRASILIAN NEWS",Band News
 http://isstnjz4.megogo.xyz/iptv/SNZC9Z4RPEYGA3/6160/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Iran_International.svg/1200px-Iran_International.svg.png" group-title="NON-ENGLISH NEWS",Iran International
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Iran_International.svg/1200px-Iran_International.svg.png" group-title="PERSIAN NEWS",Iran International
 https://live.playstop.me/LS-63503-4/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cZ5z621.png" group-title="PERSIAN NEWS",IRINN
+https://sdm.telewebion.com/live/irinn/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/n5vWRjT.png" group-title="RUSSIAN NEWS",Известия ТВ
 http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.shockya.com/news/wp-content/uploads/rossiya_24.png" group-title="RUSSIAN NEWS",России 24
@@ -1186,7 +1190,7 @@ http://etnowweblive-lh.akamaihd.net/i/ETN_1@348070/index_576_av-b.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/59kbGww.jpg" group-title="BUSINESS NEWS",ET Now Swadesh
 https://pubads.g.doubleclick.net/ssai/event/Pj6A7e21SN64xv6g4sssCA/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/i1qQWS1.png" group-title="BUSINESS NEWS",Zee Business
-http://208.115.215.42:80/ZEE_Business_HD/tracks-v1a1/mono.m3u8
+https://snehjiotv.in1.bitmana.io/snehapi/z5api/snehz5api.php?c=0-9-zeebusiness
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OmXBZG5.png" tvg-country="RU" group-title="BUSINESS NEWS",РБК
 http://online.video.rbc.ru/online/rbctv_480p/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/6/62/Logo_Business_2020.png" group-title="BUSINESS NEWS",BFM Business
@@ -1316,7 +1320,7 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df975e2b27cf500092
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oGyeYgb.png" group-title="AMERICAN SPORTS",beIN Sports Xtra en Español
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60492fdd9989d30007ccd30a/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a121ad30-ae69-11eb-a87c-2ba0b5b8041d&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=ac3bc3c0-b26f-4c9c-8c94-988af191404a&userId=&serverSideAds=true
 #EXTINF:-1 tvg-logo="https://i.imgur.com/39bwyGI.png" group-title="AMERICAN SPORTS",beIN Sports
-http://163.172.5.94:8080/panelplayer87262728/NVvubnotIc/4283
+http://titanmedia.one:2082/WingesExchange/IAb4hMEjQX/39207
 #EXTINF:-1 tvg-logo="https://i.imgur.com/39bwyGI.png" group-title="CANADIAN SPORTS",beIN Sports
 http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/8376
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/MLBNetworkLogo.svg/800px-MLBNetworkLogo.svg.png" group-title="AMERICAN SPORTS",MLB Network
@@ -1755,7 +1759,7 @@ http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/153781.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OtV45QZ.png" group-title="INDIAN SPORTS",Star Sports Select 1
 http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/154049.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1uc09Pq.png" group-title="INDIAN SPORTS",Star Sports Select 2
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/154050.m3u8
+http://tv.alphamediazone.com:8089/thunderbd/28/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e9/A_Spor_logosu.png" group-title="TURKISH SPORTS",A Spor
 http://ozel.canlitvplayer.com:9000/TR_-_A_SPOR_HD_PLUS/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gwV31E0.png" group-title="TURKISH SPORTS",Eurosport 1
@@ -2457,7 +2461,7 @@ http://221.120.204.4/SONY-SAB-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vTzeatV.png" group-title="INDIA",Star Bharat
 http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsR2Xg8-2MnqWaWVHeT0o17c/m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FFcPLin.png" group-title="INDIA",Star Plus
-http://93.190.139.35:8278/streams/d/Starplushd/playlist.m3u8
+http://221.120.204.4/star-plus-LOCKLE/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/So1TvRL.png" group-title="INDIA",Zee Anmol
 http://208.115.215.42/ZEE_Anm0l_HD/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DcG1oo6.png" group-title="INDIA",Zee TV
@@ -2580,7 +2584,7 @@ http://gooserace.xyz:80/play/8RKaarZp2hb82YDzh8OYR7cfome3ThfnrtazKYIUPhI
 http://gooserace.xyz:80/play/8RKaarZp2hb82YDzh8OYRw1PSj-lFcLTt8Iiqi2PdHU
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/40/GTV_Philippines_Logo_Vector.svg/1280px-GTV_Philippines_Logo_Vector.svg.png" group-title="PHILIPPINES",GTV
 http://gooserace.xyz:80/play/8RKaarZp2hb82YDzh8OYR3DuTtwoe9Rp1FUFCHkC2h4
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/9/99/Canal%2B_Family_2013.svg/langfr-1920px-Canal%2B_Family_2013.svg.png" group-title="POLAND",Canal+ Family
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/30/Canal%2B_Family_PL.png" group-title="POLAND",Canal+ Family
 http://isstnjz4.megogo.xyz/iptv/SNZC9Z4RPEYGA3/6105/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0yf7vy8.png" group-title="POLAND",Canal+ Premium
 http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/86596
