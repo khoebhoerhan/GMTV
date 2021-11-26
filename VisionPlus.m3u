@@ -845,6 +845,14 @@ https://skynews2-plutolive-vo.akamaized.net/cdhlsskynewsamericas/1013/latest.m3u
 https://stream.skynewsarabia.com/hls/sna_720.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PjqTObG.png" group-title="ITALIAN NEWS",Sky TG24
 https://skyanywhere3-i.akamaihd.net/hls/live/510696/tg24/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/10/Sky_News_Australia_logo_-_2019.svg/1920px-Sky_News_Australia_logo_-_2019.svg.png" group-title="AUSTRALIAN NEWS",Sky News
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07eLnqQPHtJSy5IJ3hffzzvt/ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qCvbocn.png" group-title="AUSTRALIAN NEWS",Sky News Extra 1
+https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qCvbocn.png" group-title="AUSTRALIAN NEWS",Sky News Extra 2
+https://skynewsau-live.akamaized.net/hls/live/2002690/skynewsau-extra2/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qCvbocn.png" group-title="AUSTRALIAN NEWS",Sky News Extra 3
+https://skynewsau-live.akamaized.net/hls/live/2002691/skynewsau-extra3/master.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=N2NlNGIzZDgtMDIzYi0zZjU4LTg3ZDMtZjVjNDJlMzQwNjJh
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xJZ9ChT.png" group-title="WORLD NEWS",CNA
@@ -1459,10 +1467,22 @@ http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07fPMwQ7eDVbasT
 http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07cHoKuqGznMVwFb5CQE-MxF/ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qR5u3Jg.png" group-title="AUSTRALIAN SPORTS",Fox Sports 506
 http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07dXMB8w-aKvUpxZRfowrAB1/ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/yS0mogg.png" group-title="AUSTRALIAN SPORTS",Fox Sports 507
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qR5u3Jg.png" group-title="AUSTRALIAN SPORTS",Fox Sports 507
 http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07cOeDQPrsTaZi9BwtbVkEmb/ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zeywLXs.png" group-title="AUSTRALIAN SPORTS",Fox Sports News
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sKnWF8h.png" group-title="AUSTRALIAN SPORTS",Optus Sport 1
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07f7cu9-wN6334zgs3W_rD6H/ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ULqfUtj.png" group-title="AUSTRALIAN SPORTS",Optus Sport 2
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07dQVMoChXYPzdZtIYT-uxFS/ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bGMhwtN.png" group-title="AUSTRALIAN SPORTS",Optus Sport 3
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07dPq8SEPrZSmHUAIzkvMl6m/ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rD1SNaC.png" group-title="AUSTRALIAN SPORTS",Optus Sport 4
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07fQsGOz3UuixxJunwQO9PdP/ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/s2dXbOf.png" group-title="AUSTRALIAN SPORTS",Optus Sport 5
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07e-zGJv8CfSghsxfAsKwB8O/ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AhZuKid.png" group-title="AUSTRALIAN SPORTS",Optus Sport 6
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07e-xY_wHyG2wWYYo7guv1c_/ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IMAeAVz.jpg" group-title="AUSTRALIAN SPORTS",Racing.com
 https://racingvic-i.akamaized.net/hls/live/598695/racingvic/1500.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/s2wciz8.png" group-title="AUSTRALIAN SPORTS",Sky 1
@@ -1471,6 +1491,26 @@ https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/sky1_extreme@569780.m3
 https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/sky2_extreme@569780.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vPoYbHR.png" group-title="AUSTRALIAN SPORTS",Sky Thoroughbred Central
 https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/stcsd_extreme@569780.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/awjQNUP.png" group-title="NZ SPORTS",Sky Sport 1
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07efkJduLcue4Za5q5NPukg7/ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GzVPLwN.png" group-title="NZ SPORTS",Sky Sport 2
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07ce9K4wClAdzupDbset7VP-/ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YTu3P1f.png" group-title="NZ SPORTS",Sky Sport 3
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07fbMUnBxcbMdSNtXoN7S9Ex/ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bojHoiW.png" group-title="NZ SPORTS",Sky Sport 4
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07da7IjP7__ZBizNz8Yz1SDc/ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9pg8o4V.png" group-title="NZ SPORTS",Sky Sport 5
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07cO0oRFA9ldSj1HQy3u85Qy/ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lska5N6.png" group-title="NZ SPORTS",Sky Sport 6
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07cdLfZZ4EUltgXhlaDLBNJU/ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/f3vyhbO.png" group-title="NZ SPORTS",Sky Sport 7
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07eMisrP3FcaCp18ktH-k8Rw/ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/btqO1hO.png" group-title="NZ SPORTS",Sky Sport 8
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07c58voCSqr6QFxHaR4ixHEb/ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/d36Fh3p.png" group-title="NZ SPORTS",Sky Sport 9
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07eX19qEE6hQ0tj53gVnYR-u/ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/A9IdaMT.png" group-title="NZ SPORTS",Sky Sport Select
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07eZvwbFntpQ2GwAFIOjfX8J/ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bpS1hON.png" group-title="CANADIAN SPORTS",Sportsnet 360
 http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/45408
 #EXTINF:-1 tvg-logo="https://i.imgur.com/W8d65IY.png" group-title="CANADIAN SPORTS",Sportsnet One
@@ -1707,6 +1747,34 @@ https://5-61-37-241.livesports24.online/rusetantaeurasia.m3u8
 https://5-61-37-241.livesports24.online/setantaplusru.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XodgpkR.png" group-title="RUSSIAN SPORTS",Viasat Sport
 https://persik.tv/stream/3602/287583/10249.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RAmXftW.png" group-title="HK SPORTS",Now Sports 4K
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07eRqZ94MhbJxVwAytXiTRpi/ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xURRv5Q.png" group-title="HK SPORTS",Now Sports 1
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07fxZerxyyOF0df-gQIMHJNV/ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6DUS8sg.png" group-title="HK SPORTS",Now Sports 2
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07d5bqwmFGzoCogcSr8Zz2r2/ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ovbI5OX.png" group-title="HK SPORTS",Now Sports 3
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07fMFk_BOT_E4857wLDgDK42/ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zQwhRS9.png" group-title="HK SPORTS",Now Sports 4
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07f-zKFHjHKFkXxOht-OWJNW/ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MSqTSBR.png" group-title="HK SPORTS",Now Sports 5
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07cbYc3DhNdaciVxJjUOnlXj/ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YCjCUCc.png" group-title="HK SPORTS",Now Sports 6
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07e9FPX6wOIgcg-L3Y8jXF3u/ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/E6bnmnt.png" group-title="HK SPORTS",Now Sports 7
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07dNzU-dAR6QiaHAB0I5ELtI/ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uvfAfA4.png" group-title="HK SPORTS",Now Premier Sports 1
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07fx2uuG8yg2ydtg2yYIWzFq/ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cf0uyLy.png" group-title="HK SPORTS",Now Premier Sports 2
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07cjR7FBScAxO5DqkhRxR78H/ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IlPockH.png" group-title="HK SPORTS",Now Premier Sports 3
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07ewGBxWWZ--mXaHtMDr-zPq/ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0TYPR5J.png" group-title="HK SPORTS",Now Premier Sports 4
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07cc1KgXH6vjKV6bg-l1-sni/ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/r1Dhp3V.png" group-title="HK SPORTS",Now Premier Sports 5
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07eZX-GI_M5auZ_HU0UI9fpU/ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/O9XcGr8.png" group-title="HK SPORTS",Now Premier Sports 6
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07cj5unRlq5_dP8gpsWc3eF9/ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7bPCw4Q.png" group-title="MALAY SPORTS",Astro Arena
 http://50.7.161.82:8278/streams/d/arena_pye/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/meHW06l.png" group-title="MALAY SPORTS",Astro Arena 2
