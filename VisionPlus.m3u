@@ -318,7 +318,7 @@ http://45.126.83.51/uq2663/h/h19/01.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QYR53ti.png" group-title="KOREAN ENTERTAINMENT",K+
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(6278b166-9632-42c3-b6e9-226edc1d3da6)/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/V2SeoXb.png" group-title="KOREAN ENTERTAINMENT",Oh!K
-http://50.7.161.82:8278/streams/d/ohk_pye/playlist.m3u8
+https://nonton.site:8443/live/santaibareng/babangidun/37371.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=N2NlNGIzZDgtMDIzYi0zZjU4LTg3ZDMtZjVjNDJlMzQwNjJh
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/1920px-Logo_Lifetime_2020.svg.png" group-title="GENERAL ENTERTAINMENT",Lifetime
@@ -423,6 +423,8 @@ https://livecdn.fptplay.net/sdb/mtv_hls.smil/chunklist_b2500000.m3u8
 http://65.2.4.240/jioo.php?c=MTV&q=1200&e=.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JcYIz4J.png" group-title="INDIAN MUSIC",MTV Beats
 http://65.2.4.240/jioo.php?c=MTV_Beats_HD&q=1200&e=.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/X7VxlBN.png" group-title="WORLD MUSIC",MTV
+https://nonton.site:8443/live/santaibareng/babangidun/37419.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iKYRgAD.png" group-title="WORLD MUSIC",TRT Müzik
 https://tv-trtmuzik.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6R8N3z2.png" group-title="WORLD MUSIC",SBS MTV
@@ -714,9 +716,9 @@ https://vips-livecdn.fptplay.net/hda2/davincihd_vhls.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mSMH7Pu.png" group-title="KIDS",Dreamworks
 https://vips-livecdn.fptplay.net/hda3/dreamworks_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8s1jRRh.png" group-title="KIDS",Astro Ceria
-http://50.7.161.82:8278/streams/d/Ceria/playlist.m3u8
+https://nonton.site:8443/live/santaibareng/babangidun/37399.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GCeS1xO.png" group-title="KIDS",Horee!
-http://iptvid.my.id/ch/horee.m3u8
+https://dik.si/SEhoree?shareext.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SU2QKXj.png" group-title="KIDS",IndiKids
 http://iptvid.my.id/ch/indikids.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HLr5Qi4.png" group-title="KIDS",My Kidz
@@ -780,9 +782,9 @@ https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(abe4ead2-1a88-43
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/DMAX_Logo_16_05_2011.jpg" group-title="KNOWLEDGE",DMAX
 https://nonton.site:8443/Athayamanja/SHFTZRKFrF/37417
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0AmSSFS.png" group-title="KNOWLEDGE",Astro TVIQ
-https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/324745717
+https://nonton.site:8443/live/santaibareng/babangidun/37398.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CXvhA94.png" group-title="KNOWLEDGE",Lingua Channel
-http://iptvid.my.id/ch/lingua.m3u8
+https://dik.si/SElingua?shareext.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mThnlFK.png" group-title="KNOWLEDGE",Smithsonian Channel
 https://smithsonianaus-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5QGgJe8.png" group-title="KNOWLEDGE",Love Nature
@@ -804,13 +806,13 @@ https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_2_19
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/CNN_Philippines_Logo.svg/800px-CNN_Philippines_Logo.svg.png" group-title="PINOY NEWS",CNN Philippines
 https://streaming.cnnphilippines.com/live/myStream/chunklist_w1199238897.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hi0D9Ut.png" group-title="TURKISH NEWS",CNN Türk
-http://iptvfree1.com:8080/live/live:jasmin.gusic82/COawpEavs8/2435.ts
+http://appfactory.group:8080/9M2Bl5YikQ/8zly90qQUM/86
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Jai0CTx.png" group-title="LATINO NEWS",CNN Chile
 https://pantera1-100GB-cl-movistar.dps.live/cnn/cnn.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jCXODcU.png" group-title="SPANISH NEWS",CNN en Español
 http://xcui.vitvabc.xyz:8880/287994000027/287994000027/31510
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/CNN_Portugal.svg/800px-CNN_Portugal.svg.png" group-title="PORTUGUESE NEWS",CNN Portugal
-http://titanmedia.one:2082/WingesExchange/IAb4hMEjQX/729298
+http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/68967
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zcaYBfX.png" group-title="BRASILIAN NEWS",CNN Brasil
 https://video01.soultv.com.br/cnnbrasil/cnnbrasil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0XayB3p.png" group-title="INDIAN NEWS",CNN-News18
@@ -1032,7 +1034,7 @@ https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/68Qfyma.png" tvg-url="https://raw.githubusercontent.com/samleong123/rtm-live/main/rtmklik.xml" group-title="MALAY NEWS",Berita RTM
 https://rtmlive02tv.secureswiftcontent.com/rtmchannel/03-manifest.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZIsWGuK.png" group-title="MALAY NEWS",Bernama
-http://50.7.161.82:8278/streams/d/Bernama/playlist.m3u8
+https://nonton.site:8443/live/santaibareng/babangidun/37378.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mzfSx2B.png" group-title="MALAY NEWS",Dewan Negara
@@ -1086,7 +1088,7 @@ http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/4541
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Tvn24_Logo.svg/800px-Tvn24_Logo.svg.png" group-title="POLISH NEWS",TVN 24
 http://isstnjz4.megogo.xyz/iptv/SNZC9Z4RPEYGA3/7288/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TpBpUU4.png" group-title="PORTUGUESE NEWS",SIC Noticias
-http://titanmedia.one:2082/WingesExchange/IAb4hMEjQX/729294
+http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/68963
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Rtp3.png/1920px-Rtp3.png" group-title="PORTUGUESE NEWS",RTP 3
 http://xgtv.club:8080/k3restream/k3restream/40986.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Nationtv.png" group-title="THAI NEWS",Nation TV
@@ -1220,9 +1222,9 @@ https://liveanevia.mncnow.id/live/eds/MNC-Sports2/sa_dash_vmx/MNC-Sports2.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qXnQXkl.png" group-title="NATIONAL SPORTS",MNC Sports 3
 https://liveanevia.mncnow.id/live/eds/Soccer-2/sa_dash_vmx/Soccer-2.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/igMrYaN.png" group-title="NATIONAL SPORTS", Usee Sports
-https://skuysflix.tech/useess/chunklist.m3u8?id=useesport&bandwidth=default&sync=0
+https://dik.si/SEuseesports?SHAREEXT.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jJY4VIw.png" group-title="NATIONAL SPORTS", Usee Sports 2
-https://skuysflix.tech/useess/chunklist.m3u8?id=useesports2&bandwidth=default&sync=0
+https://dik.si/SEuseesport2?SHAREEXT.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cg1yMfi.png" group-title="NATIONAL SPORTS",TVRI Sport HD
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRI4)/index.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1314,7 +1316,7 @@ http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07dE-IIFvK0x-SR
 #EXTINF:-1 tvg-logo="https://i.imgur.com/j8VC6nB.png" group-title="AUSTRALIAN SPORTS",beIN Sports 3
 http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07ed44Iep8_6wKqdq3VMoN87/ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/39bwyGI.png" group-title="MALAY SPORTS",beIN Sports
-http://shucks.world:2086/live/mohd.fauzi.m@gmail.com/m7oSie9fwT/221.ts?token=GUZaWUIOG1kUVVFRUgEFAQ8BAA0CAggEBlBSAFUGVFUBUgcMAFQOBQVGGUcRR0NRVwg7XFMWClQBGkNCQAYROQsAEAITVw9QBlUXSUBHWFlTR14EAQcFUwMPWQMLT0EWCwAQAl8TVQ8aRlAdFlZDWlcJO1FSQlkBUhRbWUYPD0pAC1xnVQNUAlgAF19AAhMYFAwXRRUOEiZeUQgXZwYPAwELX1VECFAAVxBcCgxAEWdSC0R3X1ASThVUCENBAhcDQF5cTV0KFUFVC0ALFkFIFgxHKWwVGBIHT0IEWUAKDAhAXhBMQkQVQV8XahcHQEVGUwQJUEUWCkAHFE0VXgIbOQELXFZUBU0KWQpGR1gRABYaRwlaWV1EDUVpEV5XQVkIFwheRQ==&expires=1654942380
+https://nonton.site:8443/live/santaibareng/babangidun/37432.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3d8sI1T.png" group-title="MALAY SPORTS",beIN Sports Max
 https://nonton.site:8443/Athayamanja/SHFTZRKFrF/37433
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MRULdc8.png" group-title="THAI SPORTS",beIN Sports 1
@@ -1328,7 +1330,7 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df975e2b27cf500092
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oGyeYgb.png" group-title="AMERICAN SPORTS",beIN Sports Xtra en Español
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60492fdd9989d30007ccd30a/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a121ad30-ae69-11eb-a87c-2ba0b5b8041d&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=ac3bc3c0-b26f-4c9c-8c94-988af191404a&userId=&serverSideAds=true
 #EXTINF:-1 tvg-logo="https://i.imgur.com/39bwyGI.png" group-title="AMERICAN SPORTS",beIN Sports
-http://titanmedia.one:2082/WingesExchange/IAb4hMEjQX/39207
+http://vstreams.tv:2082/ericVlite99/16846546/1052772
 #EXTINF:-1 tvg-logo="https://i.imgur.com/39bwyGI.png" group-title="CANADIAN SPORTS",beIN Sports
 http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/8376
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/MLBNetworkLogo.svg/800px-MLBNetworkLogo.svg.png" group-title="AMERICAN SPORTS",MLB Network
@@ -1340,7 +1342,7 @@ http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/576
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JApkfiF.png" group-title="AMERICAN SPORTS",Tennis Channel
 http://isstnjz4.megogo.xyz/iptv/SNZC9Z4RPEYGA3/6096/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lcpZ5CC.png" group-title="AMERICAN SPORTS",WWE Network
-http://iptv.jinggo-zone.ga:8278/streams/d/wwe_pye/playlist.m3u8
+https://nonton.site:8443/live/santaibareng/babangidun/37435.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c8/BoxNation2014Logo.png" group-title="BRITISH SPORTS",Box Nation
 http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/1805
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7dg7EB7.png" group-title="BRITISH SPORTS",BT Sport 1
@@ -1388,7 +1390,7 @@ http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/39793
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wA3DieO.png" group-title="BRITISH SPORTS",Sky Sports Premier League
 http://93.152.174.144:4000/play/skysports5/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/12eWvhy.png" group-title="WORLD SPORTS",Rugby Pass TV
-http://shucks.world:2086/live/mohd.fauzi.m@gmail.com/m7oSie9fwT/9244.ts?token=GUZaWUIOG1kUVVFRUgEFAQ8BAA0CAggEBlBSAFUGVFUBUgcMAFQOBQVGGUcRR0NRVwg7XFMWClQBGkNCQAYROQsAEAITVw9QBlUXSUBHWFlTR14EAQcFUwMPWQMLT0EWCwAQAl8TVQ8aRlAdFlZDWlcJO1FSQlkBUhRbWUYPD0pAC1xnVQNUAlgAF19AAhMYFAwXRRUOEiZeUQgXZwYPAwELX1VECFAAVxBcCgxAEWdSC0R3X1ASThVUCENBAhcDQF5cTV0KFUFVC0ALFkFIFgxHKWwVGBIHT0IEWUAKDAhAXhBMQkQVQV8XahcHQEVGUwQJUEUWCkAHFE0VXgIbOQELXFZUBU0KWQpGR1gRABYaRwlaWV1EDUVpEV5XQVkIFwheRQ==&expires=1654942380
+https://nonton.site:8443/live/santaibareng/babangidun/37437.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dACJ673.png" group-title="DANISH SPORTS",TV2 Sport
 http://iptvfree1.com:8080/live/live:jasmin.gusic82/COawpEavs8/3097.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/loVnWCY.png" group-title="DANISH SPORTS",TV3 Sport
@@ -1428,7 +1430,7 @@ http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/544
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/1280px-ESPN2_logo.svg.png" group-title="AMERICAN SPORTS",ESPN 2
 http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/569
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YhuEewa.png" group-title="AMERICAN SPORTS",ESPN Deportes
-http://titanmedia.one:2082/WingesExchange/IAb4hMEjQX/39310
+http://lotintv4k.com:80/MahmudAslami/IQ3KTIBIQA/5859
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/ESPNews.svg/1920px-ESPNews.svg.png" group-title="AMERICAN SPORTS",ESPNews
 http://nocablify.xyz:8080/jonymm5rc/crsu0t4wya/7166
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qimdreM.png" group-title="AMERICAN SPORTS",FS1
@@ -1436,7 +1438,7 @@ http://isstnjz4.megogo.xyz/iptv/SNZC9Z4RPEYGA3/7322/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jxLMBZt.png" group-title="AMERICAN SPORTS",FS2
 http://isstnjz4.megogo.xyz/iptv/SNZC9Z4RPEYGA3/7323/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kL3DvWM.png" group-title="AMERICAN SPORTS",Fox Deportes
-http://titanmedia.one:2082/WingesExchange/IAb4hMEjQX/39320
+http://lotintv4k.com:80/MahmudAslami/IQ3KTIBIQA/5900
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/14/NBCSN_logo.png" group-title="AMERICAN SPORTS",NBCSN
 http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/555
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ix8Pm5R.png" group-title="WORLD SPORTS",On Sports
@@ -1776,11 +1778,11 @@ http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07eZX-GI_M5auZ_
 #EXTINF:-1 tvg-logo="https://i.imgur.com/O9XcGr8.png" group-title="HK SPORTS",Now Premier Sports 6
 http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07cj5unRlq5_dP8gpsWc3eF9/ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7bPCw4Q.png" group-title="MALAY SPORTS",Astro Arena
-http://50.7.161.82:8278/streams/d/arena_pye/playlist.m3u8
+https://dik.si/ShareExtArena1?shareext.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/meHW06l.png" group-title="MALAY SPORTS",Astro Arena 2
-http://iptv.tvmalaysia.cc:80/penang175/penang175/6792
+https://dik.si/SEarena2?shareext.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DhbmBsD.png" group-title="MALAY SPORTS",Astro Cricket
-http://nwbz1u.ecm.tm/806B6CF/84137e/SK_MA_ASTRO_SUPER_SPORT_CRICKET/tracks-v1a1/index.m3u8?token=0558356b27398f74c6bf8c3be801782c27ff83d6c3d8086796083c9e4eae0718a96e35a78db35fc417891f79725c21b88b1da11a64ac33705b66d7f50ff103affd5a58ef48256855a8ba8eae22ac6594c65d6bb7c33e329027c7364d6cc809fa887c8464d715b237c7e50e07a64eff32421d00c4de17b8b06ce5
+https://nonton.site:8443/live/santaibareng/babangidun/37438.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/X2WVnWr.png" group-title="MALAY SPORTS",Astro Supersport
 http://iptv.tvmalaysia.cc:80/jalan8/jalan8/9024
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AZQ0xgp.png" group-title="MALAY SPORTS",Astro Supersport 2
@@ -2131,13 +2133,13 @@ https://feed.play.mv/live/10005200/2dPCepc9DA/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gV4R9q4.png" group-title="MALAYSIA",8TV
 http://50.7.161.82:8278/streams/d/tv8_pye/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kTEWNTp.png" group-title="MALAYSIA",Astro AEC
-http://198.16.106.61:8277/streams/d/Aec1511/playlist.m3u8
+https://nonton.site:8443/live/santaibareng/babangidun/37352.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RrIVJJY.png" group-title="MALAYSIA",Astro Ria
-http://50.7.161.82:8277/streams/d/ria_pye/playlist.m3u8
+https://nonton.site:8443/live/santaibareng/babangidun/37332.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FZoK4df.png" group-title="MALAYSIA",Astro Prima
-http://50.7.161.82:8277/streams/d/prima_pye/playlist.m3u8
+https://nonton.site:8443/live/santaibareng/babangidun/37333.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JCn7Yd0.png" group-title="MALAYSIA",Astro Warna
-http://50.7.161.82:8277/streams/d/warnahd_pye/playlist.m3u8
+https://nonton.site:8443/live/santaibareng/babangidun/37335.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1d/Awesome_TV_Malaysia.png" group-title="MALAYSIA",Awesome TV
 http://iptv.tvmalaysia.cc/jalan8/jalan8/9016
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gAZfzvh.png" group-title="MALAYSIA",Drama Sangat
