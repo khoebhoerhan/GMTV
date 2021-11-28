@@ -634,13 +634,13 @@ http://live.oldtvline.com:23000/mafrale3-150317/FiiH8aP54u/6651
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Sky_Cinema_Suspense_-_Logo_2021.svg/1920px-Sky_Cinema_Suspense_-_Logo_2021.svg.png" group-title="ITALIAN MOVIES",Sky Cinema Suspense
 http://live.oldtvline.com:23000/mafrale3-150317/FiiH8aP54u/6653
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5bAuGTZ.png" group-title="ARABIC MOVIES",beIN Movies 1 Premiere
-http://56.frehafroha.xyz.global.prod.fastly.net:80/live/076/index.m3u8
+http://56.bangiroua.xyz.global.prod.fastly.net:80/live/076/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bP9ukOD.png" group-title="ARABIC MOVIES",beIN Movies 2 Action
-http://56.frehafroha.xyz.global.prod.fastly.net:80/live/077/index.m3u8
+http://56.bangiroua.xyz.global.prod.fastly.net:80/live/077/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gP9dNGz.png" group-title="ARABIC MOVIES",beIN Movies 3 Drama
-http://56.frehafroha.xyz.global.prod.fastly.net:80/live/078/index.m3u8
+http://56.bangiroua.xyz.global.prod.fastly.net:80/live/078/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8u4iYTA.png" group-title="ARABIC MOVIES",beIN Movies 4 Family
-http://56.frehafroha.xyz.global.prod.fastly.net:80/live/079/index.m3u8
+http://56.bangiroua.xyz.global.prod.fastly.net:80/live/079/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5e8xvqO.png" group-title="ARABIC MOVIES",Fox Movies
 http://www.zizoiptv.com:8000/live/arbcamd/122197/3018.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3uxkGK5.png" group-title="ARABIC MOVIES",Fox Family Movies
@@ -648,7 +648,7 @@ http://iptv.tvmalaysia.cc:80/jalan8/jalan8/9026
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DFcvfrZ.png" group-title="ARABIC MOVIES",OSN Action
 http://pyramidsiptv.com:8080/mohamed/mohamed123/80229
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ivNnlRW.png" group-title="ARABIC MOVIES",OSN Movies
-http://56.frehafroha.xyz.global.prod.fastly.net:80/live/044/index.m3u8
+http://56.bangiroua.xyz.global.prod.fastly.net:80/live/044/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3pSGPHN.png" group-title="ARABIC MOVIES",OSN Movies First
 http://pyramidsiptv.com:8080/mohamed/mohamed123/80227
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AJbFTSr.png" group-title="ARABIC MOVIES",Star Movies
@@ -1045,6 +1045,8 @@ https://rtmlive08tv.secureswiftcontent.com/rtmchannel/08-manifest.mpd
 https://rtmlive04tv.secureswiftcontent.com/rtmchannel/04-manifest.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/11xpNSu.jpg" group-title="VISUAL RADIO",TeleRadyo
 https://abscbn-ono.akamaized.net/midroll/amagi_hls_data_abscbnAAA-abscbn-teleradyo-oando/CDN/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DMG3JJd.png" group-title="VISUAL RADIO",talkRadio TV
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00738-newsuk-talkradiotv-ono/9c6bf511-272e-4ed3-b2a0-a0b11eba544f/0.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KrpIbzA.png" group-title="MANDARIN NEWS",CCTV-13 新闻
 http://39.135.138.60:18890/PLTV/88888910/224/3221225638/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/e/e2/FTV_News_Logo.png" group-title="MANDARIN NEWS",FTV News
@@ -1254,11 +1256,11 @@ http://88.barouhn.xyz.global.prod.fastly.net/live/645587700/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Lu26Yho.png" group-title="ARABIC SPORTS",beIN Sports 4
 http://88.barouhn.xyz.global.prod.fastly.net/live/9787488847/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pA5by2y.png" group-title="ARABIC SPORTS",beIN Sports 5
-http://55.banrhfour.xyz.global.prod.fastly.net:80/live/610303030/index.m3u8
+http://88.barouhn.xyz.global.prod.fastly.net/live/610303030/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mbFoSUX.png" group-title="ARABIC SPORTS",beIN Sports 6
-http://55.banrhfour.xyz.global.prod.fastly.net:80/live/1515000000/index.m3u8
+http://88.barouhn.xyz.global.prod.fastly.net/live/1515000000/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eHCosqi.png" group-title="ARABIC SPORTS",beIN Sports 7
-http://55.banrhfour.xyz.global.prod.fastly.net:80/live/791001144/index.m3u8
+http://88.barouhn.xyz.global.prod.fastly.net/live/791001144/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BZ5jcea.png" group-title="ARABIC SPORTS",beIN Sports NBA
 http://5gtv.online:80/ORDpDdqkJc/xyVPZGeDIS/120401
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TG2eNPO.png" group-title="ARABIC SPORTS",beIN Sports News
@@ -1839,7 +1841,7 @@ http://tv.gadgetvaly.com:8880/live/bulbul/ASrlj2sBry/43.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Bdjk5RJ.png" group-title="INDIAN SPORTS",Star Sports 2
 http://tv.gadgetvaly.com:8880/bulbul/ASrlj2sBry/160
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QoBYskI.png" group-title="INDIAN SPORTS",Star Sports 3
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/153781.m3u8
+http://opplex.tv:8080/live/123/123/167577.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OtV45QZ.png" group-title="INDIAN SPORTS",Star Sports Select 1
 http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/154049.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1uc09Pq.png" group-title="INDIAN SPORTS",Star Sports Select 2
@@ -1927,7 +1929,7 @@ http://xt.bossna-caffe.com:25461/@lens@k@25819/39bYksQkUg/15380
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lTnKDju.png" group-title="DUTCH SPORTS",Eurosport 2
 http://xt.bossna-caffe.com:25461/@lens@k@25819/39bYksQkUg/15381
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OfcBDWR.png" group-title="DUTCH SPORTS",Ziggo Sport
-http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/116236.ts
+http://lotintv4k.com:80/MahmudAslami/IQ3KTIBIQA/80
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TFGh92p.png" group-title="DUTCH SPORTS",Ziggo Sport Golf
 http://isstnjz4.megogo.xyz/iptv/SNZC9Z4RPEYGA3/2559/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SrorhG7.png" group-title="DUTCH SPORTS",Ziggo Sport Racing
@@ -2025,7 +2027,7 @@ http://rec2.distv.net:80/damaris/123456/152
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DpnatBM.png" group-title="BRASILIAN SPORTS",Fox Sports 2
 http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13350
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/a2/Logo_Premiere_FC_2018.png" group-title="BRASILIAN SPORTS",Premiere
-http://xcui.vitvabc.xyz:8880/287994000027/287994000027/31526
+http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/46579
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CbANn14.png" group-title="BRASILIAN SPORTS",SporTV
 http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13096
 #EXTINF:-1 tvg-logo="https://i.imgur.com/W0IabLY.png" group-title="BRASILIAN SPORTS",SporTV 2
