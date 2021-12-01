@@ -366,7 +366,7 @@ https://liveanevia.mncnow.id/live/eds/NHKWorldPremium/sa_dash_vmx/NHKWorldPremiu
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BQoyBoS.png" group-title="CHINESE ENTERTAINMENT",CCTV-4 中文国际
 http://183.207.248.71:80/cntv/live1/cctv-4/cctv-4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rL5gaK5.png" group-title="CHINESE ENTERTAINMENT",Formosa
-rtmp://59.124.75.136/sat/tv051
+http://iptvindonesia.000webhostapp.com/TV/USEE-MPD/chunklist.m3u8?id=formosa&bandwidth=default&sync=0
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DZaD1Lf.png" group-title="CHINESE ENTERTAINMENT",TVB Xing He
 http://50.7.161.82:8278/streams/d/Xinhe/./playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -544,7 +544,7 @@ http://210.210.155.35/uq2663/h/h18/01.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/2/2f/Action_%282014%29.svg/langfr-1920px-Action_%282014%29.svg.png" group-title="FRENCH MOVIES",Action
 http://x.vprotv.com:25443/VXzWZLWc4Ye/JGG8p5OYUl/9592
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/f/f8/Canal%2B_Cin%C3%A9ma_2013.svg/langfr-1920px-Canal%2B_Cin%C3%A9ma_2013.svg.png" group-title="FRENCH MOVIES",Canal+ Cinema
-http://56.bangiroua.xyz.global.prod.fastly.net:80/live/107/index.m3u8
+http://isstnjz4.megogo.xyz/iptv/SNZC9Z4RPEYGA3/6004/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/8/89/CinePlusEmotion.svg/1920px-CinePlusEmotion.svg.png" group-title="FRENCH MOVIES",Cine+ Émotion
 http://x.vprotv.com:25443/VXzWZLWc4Ye/JGG8p5OYUl/9568
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/b/b2/Cin%C3%A9%2B_Premier_%282011%29.svg/1920px-Cin%C3%A9%2B_Premier_%282011%29.svg.png" group-title="FRENCH MOVIES",Cine+ Premier
@@ -619,16 +619,16 @@ http://live.oldtvline.com:23000/mafrale3-150317/FiiH8aP54u/6654
 http://live.oldtvline.com:23000/mafrale3-150317/FiiH8aP54u/6651
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Sky_Cinema_Suspense_-_Logo_2021.svg/1920px-Sky_Cinema_Suspense_-_Logo_2021.svg.png" group-title="ITALIAN MOVIES",Sky Cinema Suspense
 http://live.oldtvline.com:23000/mafrale3-150317/FiiH8aP54u/6653
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5bAuGTZ.png" group-title="ARABIC MOVIES",beIN Movies 1 Premiere
+#EXTINF:-1 tvg-logo="https://i.imgur.com/orSH62Q.png" group-title="ARABIC MOVIES",beIN Movies 1 Premiere
 http://56.bangiroua.xyz.global.prod.fastly.net:80/live/076/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bP9ukOD.png" group-title="ARABIC MOVIES",beIN Movies 2 Action
-http://56.bangiroua.xyz.global.prod.fastly.net:80/live/077/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gP9dNGz.png" group-title="ARABIC MOVIES",beIN Movies 3 Drama
-http://56.bangiroua.xyz.global.prod.fastly.net:80/live/078/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8u4iYTA.png" group-title="ARABIC MOVIES",beIN Movies 4 Family
-http://56.bangiroua.xyz.global.prod.fastly.net:80/live/079/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WkldO68.png" group-title="ARABIC MOVIES",beIN Movies 2 Action
+http://isstnjz4.megogo.xyz/iptv/SNZC9Z4RPEYGA3/6134/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9nJlag0.png" group-title="ARABIC MOVIES",beIN Movies 3 Drama
+http://isstnjz4.megogo.xyz/iptv/SNZC9Z4RPEYGA3/6135/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3GC4SJ3.png" group-title="ARABIC MOVIES",beIN Movies 4 Family
+http://isstnjz4.megogo.xyz/iptv/SNZC9Z4RPEYGA3/6136/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5e8xvqO.png" group-title="ARABIC MOVIES",Fox Movies
-http://www.zizoiptv.com:8000/live/arbcamd/122197/3018.ts
+http://isstnjz4.megogo.xyz/iptv/SNZC9Z4RPEYGA3/6145/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3uxkGK5.png" group-title="ARABIC MOVIES",Fox Family Movies
 http://iptv.tvmalaysia.cc:80/jalan8/jalan8/9026
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DFcvfrZ.png" group-title="ARABIC MOVIES",OSN Action
@@ -639,6 +639,26 @@ http://56.bangiroua.xyz.global.prod.fastly.net:80/live/044/index.m3u8
 http://pyramidsiptv.com:8080/mohamed/mohamed123/80227
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AJbFTSr.png" group-title="ARABIC MOVIES",Star Movies
 http://pyramidsiptv.com:8080/mohamed/mohamed123/80220
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7RKOLNG.png" group-title="TURKISH MOVIES",beIN Box Office 1
+http://nocablify.xyz:8080/jonymm5rc/crsu0t4wya/16071
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gJVXKM6.png" group-title="TURKISH MOVIES",beIN Box Office 2
+http://iptvworld.nl:2095/cQnDW5Nn/syqSAe3g/14262
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FCswFIW.png" group-title="TURKISH MOVIES",beIN Box Office 3
+http://nocablify.xyz:8080/jonymm5rc/crsu0t4wya/15995
+#EXTINF:-1 tvg-logo="https://i.imgur.com/76W5fds.png" group-title="TURKISH MOVIES",beIN Movies Premiere
+http://nocablify.xyz:8080/jonymm5rc/crsu0t4wya/16064
+#EXTINF:-1 tvg-logo="https://i.imgur.com/I3F8F3D.png" group-title="TURKISH MOVIES",beIN Movies Premiere 2
+http://nocablify.xyz:8080/jonymm5rc/crsu0t4wya/15991
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Euo4xne.png" group-title="TURKISH MOVIES",beIN Movies Action
+http://nocablify.xyz:8080/jonymm5rc/crsu0t4wya/16067
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5Bkalxs.png" group-title="TURKISH MOVIES",beIN Movies Action 2
+http://nocablify.xyz:8080/jonymm5rc/crsu0t4wya/16068
+#EXTINF:-1 tvg-logo="https://i.imgur.com/alx18Gu.png" group-title="TURKISH MOVIES",beIN Movies Stars
+http://iptvworld.nl:2095/cQnDW5Nn/syqSAe3g/28818
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YF3H6gR.png" group-title="TURKISH MOVIES",beIN Movies Family
+http://nocablify.xyz:8080/jonymm5rc/crsu0t4wya/16066
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Pz4tT1J.png" group-title="TURKISH MOVIES",beIN Movies Turk
+http://iptvworld.nl:2095/cQnDW5Nn/syqSAe3g/14261
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Movistar_Acci%C3%B3n.svg/1920px-Movistar_Acci%C3%B3n.svg.png" group-title="SPANISH MOVIES",Movistar Acción
 http://isstnjz4.megogo.xyz/iptv/SNZC9Z4RPEYGA3/7065/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Movistar_Cine_Espa%C3%B1ol.svg/1920px-Movistar_Cine_Espa%C3%B1ol.svg.png" group-title="SPANISH MOVIES",Movistar Cine Ñ 
@@ -708,7 +728,7 @@ http://iptv.tvmalaysia.cc:80/jalan8/jalan8/6715
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GCeS1xO.png" group-title="KIDS",Horee!
 https://dik.si/SEhoree?shareext.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SU2QKXj.png" group-title="KIDS",IndiKids
-https://nonton.site:8443/live/santaibareng/babangidun/3479.m3u8
+http://103.226.232.199:8003/play/a058/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HLr5Qi4.png" group-title="KIDS",My Kidz
 http://210.210.155.35/uq2663/h/h191/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/f/f2/Logo_tvedukasi_baru.png" group-title="KNOWLEDGE",TV Edukasi
@@ -1201,10 +1221,16 @@ https://liveanevia.mncnow.id/live/eds/soccerchannel-HD/sa_dash_vmx/soccerchannel
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=N2NlNGIzZDgtMDIzYi0zZjU4LTg3ZDMtZjVjNDJlMzQwNjJh
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qXnQXkl.png" group-title="NATIONAL SPORTS",MNC Sports
 https://liveanevia.mncnow.id/live/eds/MNCSports/sa_dash_vmx/MNCSports.mpd
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ffWoTF9.png" group-title="NATIONAL SPORTS",Champions TV 1
+http://nontonbola.my.id/nonton/asda2sd6asd2asdasd56as5d.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/r2aPCX8.png" group-title="NATIONAL SPORTS",Champions TV 2
+http://nontonbola.my.id/nonton/dsgfghfjhg6j526ghj6g5gj6.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/26Jar5R.png" group-title="NATIONAL SPORTS",Champions TV 3
+http://nontonbola.my.id/nonton/3iyu4892sjknglfsui5ry32o.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/igMrYaN.png" group-title="NATIONAL SPORTS", Usee Sports
-https://dik.si/SEuseesports?SHAREEXT.m3u8
+http://iptvindonesia.000webhostapp.com/TV/USEE-MPD/chunklist.m3u8?id=useesport&bandwidth=default&sync=0
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jJY4VIw.png" group-title="NATIONAL SPORTS", Usee Sports 2
-https://dik.si/SEuseesport2?SHAREEXT.m3u8
+http://iptvindonesia.000webhostapp.com/TV/USEE-MPD/chunklist.m3u8?id=useesports2&bandwidth=default&sync=0
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cg1yMfi.png" group-title="NATIONAL SPORTS",TVRI Sport HD
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRI4)/index.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1225,8 +1251,6 @@ http://210.210.155.35/dr9445/h/h10/01.m3u8
 http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/6147
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0g1cseU.png" group-title="NATIONAL SPORTS",eGG Network
 http://210.210.155.35:80/uq2663/h/h22/01.m3u8
-#EXTINF:-1 tvg-logo="https://htvc.vn/uploads/editor/images/logo%20htv%20the%20thao.png" group-title="WORLD SPORTS",HTV Thể Thao
-https://vips-livecdn.fptplay.net/sdb/htvcthethao_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/800px-NBA_TV.svg.png" group-title="AMERICAN SPORTS",NBA TV
 https://nonton.site:8443/Athayamanja/SHFTZRKFrF/3099
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JApkfiF.png" group-title="WORLD SPORTS",Tennis Channel International
@@ -1256,11 +1280,11 @@ http://iptvworld.nl:2095/cQnDW5Nn/syqSAe3g/94459
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Q9ACq0T.png" group-title="ARABIC SPORTS",beIN Sports Xtra 2
 http://iptvworld.nl:2095/cQnDW5Nn/syqSAe3g/94456
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MRULdc8.png" group-title="FRENCH SPORTS",beIN Sports 1
-http://93.152.174.144:4000/play/bein1fr/index.m3u8
+http://isstnjz4.megogo.xyz/iptv/SNZC9Z4RPEYGA3/2499/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NDp6TlM.png" group-title="FRENCH SPORTS",beIN Sports 2
-http://93.152.174.144:4000/play/bein2fr/index.m3u8
+http://isstnjz4.megogo.xyz/iptv/SNZC9Z4RPEYGA3/2500/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/j8VC6nB.png" group-title="FRENCH SPORTS",beIN Sports 3
-http://93.152.174.144:4000/play/bein3fr/index.m3u8
+http://isstnjz4.megogo.xyz/iptv/SNZC9Z4RPEYGA3/2501/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/o8zT78o.png" group-title="ARABIC SPORTS",beIN Sports English 1
 http://iptvworld.nl:2095/cQnDW5Nn/syqSAe3g/94453
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RJ17vOc.png" group-title="ARABIC SPORTS",beIN Sports English 2
@@ -1580,7 +1604,7 @@ http://iptvworld.nl:2095/cQnDW5Nn/syqSAe3g/35644
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Logo_TVP_Sport.jpg" group-title="POLISH SPORTS",TVP Sport
 http://207.110.52.61:8080/s/hls/5/872/tvp_sport_254/1/1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/p0k54D9.png" group-title="FRENCH SPORTS",Canal+ Sport
-http://56.bangiroua.xyz.global.prod.fastly.net:80/live/117/index.m3u8
+http://isstnjz4.megogo.xyz/iptv/SNZC9Z4RPEYGA3/2502/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/D1nuT7j.png" group-title="FRENCH SPORTS",Infosport+
 http://isstnjz4.megogo.xyz/iptv/SNZC9Z4RPEYGA3/2544/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hyjk6Wx.png" group-title="FRENCH SPORTS",Foot+ 24/24
@@ -1594,9 +1618,9 @@ http://xt.bossna-caffe.com:25461/@lens@k@25819/39bYksQkUg/15378
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lTnKDju.png" group-title="FRENCH SPORTS",Eurosport 2
 http://xt.bossna-caffe.com:25461/@lens@k@25819/39bYksQkUg/15379
 #EXTINF:-1 tvg-logo="https://i.imgur.com/30785UJ.png" group-title="FRENCH SPORTS",RMC Sport 1
-http://56.bangiroua.xyz.global.prod.fastly.net:80/live/137000/index.m3u8
+http://isstnjz4.megogo.xyz/iptv/SNZC9Z4RPEYGA3/2545/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5Rh2s8k.png" group-title="FRENCH SPORTS",RMC Sport 2
-http://56.bangiroua.xyz.global.prod.fastly.net:80/live/138/index.m3u8
+http://isstnjz4.megogo.xyz/iptv/SNZC9Z4RPEYGA3/2546/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kaUN9Uw.png" group-title="ROMANIAN SPORTS",Digi Sport 1
 http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/74071
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xxLvKJD.png" group-title="ROMANIAN SPORTS",Digi Sport 2
@@ -2469,7 +2493,7 @@ http://56.frehafroha.xyz.global.prod.fastly.net:80/live/156/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/47/C8_logo.jpg" group-title="FRANCE",C8
 http://callofliberty.fr/stream/C8/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Canal%2B.svg/1920px-Canal%2B.svg.png" group-title="FRANCE",Canal+
-http://56.bangiroua.xyz.global.prod.fastly.net:80/live/106/index.m3u8
+http://isstnjz4.megogo.xyz/iptv/SNZC9Z4RPEYGA3/6007/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/9/91/Canal%2B_D%C3%A9cal%C3%A9_2013.svg/langfr-1920px-Canal%2B_D%C3%A9cal%C3%A9_2013.svg.png" group-title="FRANCE",Canal+ Décalé
 http://56.bangiroua.xyz.global.prod.fastly.net:80/live/108/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/9/99/Canal%2B_Family_2013.svg/langfr-1920px-Canal%2B_Family_2013.svg.png" group-title="FRANCE",Canal+ Family
@@ -2854,6 +2878,14 @@ http://iptvworld.nl:2095/cQnDW5Nn/syqSAe3g/42664
 http://ozel.canlitvplayer.com:9000/TR_-_ATV_HD_PLUS/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dl5oTth.png" group-title="TURKEY",beIN İZ
 http://coronaservers.com:8080/hdlt1sCASk/iT6vi2lNnTxx2/241
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6eS18Ia.png" group-title="TURKEY",beIN Series Comedy
+http://iptvworld.nl:2095/cQnDW5Nn/syqSAe3g/28822
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZAG6SGt.png" group-title="TURKEY",beIN Series Drama
+http://nocablify.xyz:8080/jonymm5rc/crsu0t4wya/16060
+#EXTINF:-1 tvg-logo="https://i.imgur.com/P0V4iHP.png" group-title="TURKEY",beIN Series Sci-fi
+http://nocablify.xyz:8080/jonymm5rc/crsu0t4wya/15985
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6an6Mpd.png" group-title="TURKEY",beIN Series Vice
+http://nocablify.xyz:8080/jonymm5rc/crsu0t4wya/16058
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nPTmcny.png" group-title="TURKEY",Fox
 http://ozel.canlitvplayer.com:9000/TR_-_FOX_HD_PLUS/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6OYvfnf.png" group-title="TURKEY",Kanal 7
