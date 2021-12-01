@@ -69,7 +69,7 @@ https://liveanevia.mncnow.id/live/eds/DAAITV/sa_dash_vmx/DAAITV.mpd
 https://liveanevia.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=N2NlNGIzZDgtMDIzYi0zZjU4LTg3ZDMtZjVjNDJlMzQwNjJh
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0C9hK6i.png" group-title="NATIONAL NEWS",MNC News
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kWfVeZG.png" group-title="NATIONAL NEWS",MNC News
 https://liveanevia.mncnow.id/live/eds/MNCnews-HDD/sa_dash_vmx/MNCnews-HDD.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
@@ -482,9 +482,9 @@ https://nonton.site:8443/Athayamanja/SHFTZRKFrF/29604
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oH8wyqR.png" group-title="MOVIES",Galaxy Premium
 https://nonton.site:8443/Athayamanja/SHFTZRKFrF/29603
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/12/%26flix_logo.png" group-title="MOVIES",&flix
-https://snehjiotv.in1.bitmana.io/snehapi/z5api/snehz5api.php?c=0-9-channel_2105335046
+http://tv.gadgetvaly.com:8880/live/bulbul/ASrlj2sBry/179.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/h9W2I7O.png" group-title="MOVIES",&privé
-https://snehjiotv.in1.bitmana.io/snehapi/z5api/snehz5api.php?c=0-9-privehd
+http://tv.gadgetvaly.com:8880/live/bulbul/ASrlj2sBry/180.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/4DyH9pK.png" group-title="MOVIES",Star Movies Select
 http://ztvuk.com:80/y993slzLSu/OmKCdASQJI/17748
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5f/Sony_PIX.png" group-title="MOVIES", Sony Pix
@@ -1222,11 +1222,17 @@ https://liveanevia.mncnow.id/live/eds/soccerchannel-HD/sa_dash_vmx/soccerchannel
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qXnQXkl.png" group-title="NATIONAL SPORTS",MNC Sports
 https://liveanevia.mncnow.id/live/eds/MNCSports/sa_dash_vmx/MNCSports.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ffWoTF9.png" group-title="NATIONAL SPORTS",Champions TV 1
-http://nontonbola.my.id/nonton/asda2sd6asd2asdasd56as5d.m3u8
+http://103.226.232.199:8888/live/kamiselaluada/untuksemua/404.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/r2aPCX8.png" group-title="NATIONAL SPORTS",Champions TV 2
-http://nontonbola.my.id/nonton/dsgfghfjhg6j526ghj6g5gj6.m3u8
+http://103.226.232.199:8888/live/kamiselaluada/untuksemua/405.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/26Jar5R.png" group-title="NATIONAL SPORTS",Champions TV 3
-http://nontonbola.my.id/nonton/3iyu4892sjknglfsui5ry32o.m3u8
+http://103.226.232.199:8888/live/kamiselaluada/untuksemua/406.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4J586mw.png" group-title="NATIONAL SPORTS",Champions TV 4
+http://103.226.232.199:8888/live/kamiselaluada/untuksemua/501.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pmTtL3g.png" group-title="NATIONAL SPORTS",Mola 1
+http://103.226.232.199:8888/live/kamiselaluada/untuksemua/402.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pmTtL3g.png" group-title="NATIONAL SPORTS",Mola 2
+http://103.226.232.199:8888/live/kamiselaluada/untuksemua/403.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/igMrYaN.png" group-title="NATIONAL SPORTS", Usee Sports
 http://iptvindonesia.000webhostapp.com/TV/USEE-MPD/chunklist.m3u8?id=useesport&bandwidth=default&sync=0
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jJY4VIw.png" group-title="NATIONAL SPORTS", Usee Sports 2
@@ -2587,7 +2593,7 @@ http://221.120.204.4/star-plus-LOCKLE/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/So1TvRL.png" group-title="INDIA",Zee Anmol
 http://208.115.215.42/ZEE_Anm0l_HD/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DcG1oo6.png" group-title="INDIA",Zee TV
-http://208.115.215.42/ZEE_Tv_HD_02/tracks-v1a1/mono.m3u8
+http://tv.zaintv.net:80/ZkTPjb7KUx/7BY6gUk628/87733
 #EXTINF:-1 tvg-logo="https://i.imgur.com/29bJSZf.png" group-title="INDIA",Zing
 https://snehjiotv.in1.bitmana.io/snehapi/z5api/snehz5api.php?c=0-9-zing
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XCqP0Dm.png" group-title="INDIA",Zoom
