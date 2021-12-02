@@ -422,7 +422,7 @@ http://103.199.160.85/Content/musicindia/Live/Channel(MusicIndia)/Stream(02)/ind
 #EXTINF:-1 tvg-logo="https://i.imgur.com/X7VxlBN.png" group-title="INDIAN MUSIC",MTV
 http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsX9-AOIJFogBoVa0Ko3mQQ4/ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JcYIz4J.png" group-title="INDIAN MUSIC",MTV Beats
-http://65.2.4.240/jioo.php?c=MTV_Beats_HD&q=1200&e=.m3u8
+https://snehjiotv.in1.bitmana.io/snehjioox.php?c=MTV_Beats_HD&q=1200&e=junk.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/X7VxlBN.png" group-title="WORLD MUSIC",MTV
 http://mla03.wanicelife.com:8880/SFL1212902/E20E0N1G/71099
 #EXTINF:-1 tvg-logo="https://i.imgur.com/B9evyCe.png" group-title="WORLD MUSIC",Polsat Music
@@ -826,7 +826,7 @@ https://video-auth7.iol.pt/live_edge/tvi24_abr/edge_servers/tvi24-480p/chunks.m3
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zcaYBfX.png" group-title="BRASILIAN NEWS",CNN Brasil
 https://video01.soultv.com.br/cnnbrasil/cnnbrasil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0XayB3p.png" group-title="INDIAN NEWS",CNN-News18
-http://65.2.4.240/jioo.php?c=CNN_NEWS_18&q=1200&e=.m3u8
+https://snehjiotv.in1.bitmana.io/snehjioox.php?c=CNN_NEWS_18&q=1200&e=.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=N2NlNGIzZDgtMDIzYi0zZjU4LTg3ZDMtZjVjNDJlMzQwNjJh
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WdC4rbi.png" group-title="WORLD NEWS",BBC World News
@@ -1195,6 +1195,8 @@ https://hiplayer.hibridcdn.net/t/cnbcarabia-live.m3u8
 https://cnbcawaaz-lh.akamaihd.net/i/cnbcawaaz_1@174872/index_5_av-p.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2W3OUr8.png" group-title="BUSINESS NEWS",CNBC-TV18
 https://cnbctv18-lh.akamaihd.net/i/cnbctv18_1@174868/index_5_av-p.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZfYHLFe.png" group-title="BUSINESS NEWS",CNBC-TV18 Prime HD
+https://snehjiotv.in1.bitmana.io/snehjioox.php?c=CNBC_Tv18_Prime_HD&q=1200&e=junk.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qsmHgJ1.png" group-title="BUSINESS NEWS",Class CNBC
 https://streamcdnb10-859c1818ed614cc5b0047439470927b0.msvdn.net/live/S76890577/tDoFkZD3T1Lw/chunklist_b1728000.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Y3vQaf5.png" group-title="BUSINESS NEWS",Yahoo! Finance
@@ -1843,9 +1845,29 @@ https://unifi-live05.secureswiftcontent.com/UnifiHD/live10.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8NC0zoQ.png" tvg-url="https://raw.githubusercontent.com/samleong123/rtm-live/main/rtmklik.xml" group-title="MALAY SPORTS",TV Sukan
 https://rtmlive06tv.secureswiftcontent.com/rtmchannel/06-manifest.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ycxjpTX.png" group-title="INDIAN SPORTS",Eurosport
-https://feed.play.mv/live/1009/H92bfaXp9Z/master.m3u8
+https://snehjiotv.in1.bitmana.io/snehjioox.php?c=Dsports_HD&q=1200&e=junk.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9me1VCt.png" group-title="INDIAN SPORTS",Jio Cricket
+https://snehjiotv.in1.bitmana.io/snehjioox.php?c=Jio_Cricket&q=1200&e=junk.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sLaAHf4.png" group-title="INDIAN SPORTS",Jio Cricket Hindi
+https://snehjiotv.in1.bitmana.io/snehjioox.php?c=Jio_Cricket_Hindi&q=1200&e=junk.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rQXRxln.png" group-title="INDIAN SPORTS",Jio Cricket 1
+https://snehjiotv.in1.bitmana.io/snehjioox.php?c=Jio_Cricket_1_HD&q=1200&e=junk.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mzwa47I.png" group-title="INDIAN SPORTS",Jio Cricket 2
+https://snehjiotv.in1.bitmana.io/snehjioox.php?c=Jio_Cricket_2_HD&q=1200&e=junk.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nqYCgw7.png" group-title="INDIAN SPORTS",Jio Cricket 3
+https://snehjiotv.in1.bitmana.io/snehjioox.php?c=Jio_Cricket_3_HD&q=1200&e=junk.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yCKZttz.png" group-title="INDIAN SPORTS",Jio Cricket 4
+https://snehjiotv.in1.bitmana.io/snehjioox.php?c=Jio_Cricket_4_HD&q=1200&e=junk.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0P1jQW5.png" group-title="INDIAN SPORTS",Jio Cricket 5
+https://snehjiotv.in1.bitmana.io/snehjioox.php?c=Jio_Cricket_5_HD&q=1200&e=junk.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QvX877I.png" group-title="INDIAN SPORTS",Jio Cricket 6
+https://snehjiotv.in1.bitmana.io/snehjioox.php?c=Jio_Cricket_6_HD&q=1200&e=junk.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Q2X1ysy.png" group-title="INDIAN SPORTS",Jio eSports
+https://snehjiotv.in1.bitmana.io/snehjioox.php?c=Jio_Esports_HD&q=1200&e=junk.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ecutPju.png" group-title="INDIAN SPORTS",Jio Football
 http://jo123.biz/jweb/m3u8.php?c=Jio_Football&q=800&e=junk.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pS5aGdt.png" group-title="INDIAN SPORTS",Jio Football Hindi
+https://snehjiotv.in1.bitmana.io/snehjioox.php?c=Jio_Football_Hindi_HD&q=1200&e=junk.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lVi2bXE.png" group-title="INDIAN SPORTS",Jio Football 1
 http://jo123.biz/jweb/m3u8.php?c=Jio_Football_1&q=800&e=junk.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PCkK8uV.png" group-title="INDIAN SPORTS",Jio Football 2
