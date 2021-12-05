@@ -695,6 +695,12 @@ http://line.thesmartiptv.com:900/4773C858/4C98AA45/191570
 http://nocablify.xyz:8080/jonymm5rc/crsu0t4wya/16066
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Pz4tT1J.png" group-title="TURKISH MOVIES",beIN Movies Turk
 http://albastream.fun:88/live/Esjona/aUB7me8K1m5GAZp9/51428.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6q4NsOf.png" group-title="SWITZERLAND MOVIES",Blue Action
+http://103.194.169.171:8282/SW:TC_ACTION_HD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KtGJWcB.png" group-title="SWITZERLAND MOVIES",Blue Prime
+http://103.194.169.171:8282/SW:TC_Cinema_HD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WLJeoXg.png" group-title="SWITZERLAND MOVIES",Blue Stars
+http://103.194.169.171:8282/SW:TC_EMOTION_HD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Movistar_Acci%C3%B3n.svg/1920px-Movistar_Acci%C3%B3n.svg.png" group-title="SPANISH MOVIES",Movistar Acción
 http://disfruta.net:80/drquantum1/3Hc1bDGyZ9/1769
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Movistar_Cine_Espa%C3%B1ol.svg/1920px-Movistar_Cine_Espa%C3%B1ol.svg.png" group-title="SPANISH MOVIES",Movistar Cine Ñ 
@@ -3134,6 +3140,8 @@ http://103.194.169.171:8282/SW:_pl_3HD/mono.m3u8?token=93a611c10082e5eec57f8bec5
 http://103.194.169.171:8282/SW:_pl_4HD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/a/ac/6PLUS.png" group-title="SWITZERLAND",6+
 http://103.194.169.171:8282/SW:6plHD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7MbXFxe.png" group-title="SWITZERLAND",Blue Zoom D
+http://103.194.169.171:8282/SW:TC_ZOOM/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/RSI_La_1_2012.svg/1920px-RSI_La_1_2012.svg.png" group-title="SWITZERLAND",RSI La 1
 http://103.194.169.171:8282/SW:CH_RSI_LA1_HD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/RSI_La_2_2012.svg/1920px-RSI_La_2_2012.svg.png" group-title="SWITZERLAND",RSI La 2
