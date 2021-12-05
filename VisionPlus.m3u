@@ -386,7 +386,7 @@ https://shls-lbci-prod-dub.shahid.net/out/v1/d8cce30036e743318a7f338539689968/in
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Logo_Pro_TV_Interna%C8%9Bional_%282017%29.svg/1200px-Logo_Pro_TV_Interna%C8%9Bional_%282017%29.svg.png" group-title="ROMANIAN ENTERTAINMENT",Pro TV International
 http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/25524
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ro/thumb/d/d9/TVRiLogo.svg/1920px-TVRiLogo.svg.png" group-title="ROMANIAN ENTERTAINMENT",TVRi
-http://albastream.fun:88/live/Esjona/aUB7me8K1m5GAZp9/25611.m3u8
+https://mn-nl.mncdn.com/tvri_test/smil:tvri_test.smil/chunklist_b1120000.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oe4Woe7.png" group-title="WORLD ENTERTAINMENT",Star World
 http://221.120.204.4/star-world-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LD6hu1J.png" group-title="TURKISH ENTERTAINMENT",ATV Avrupa
@@ -1107,8 +1107,12 @@ https://itvoign.multitvsolution.com/hls/newsx_720p/index.m3u8
 https://republicworld.amagi.tv/hls/amagi_hls_data_samsungin-republictv-samsungindia/CDN/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nK04jlH.png" group-title="ARABIC NEWS",Al Alam News Network
 https://live2.alalam.ir/live/Alalam/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wWHiR9B.png" group-title="NON-ENGLISH NEWS",LN24
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wWHiR9B.png" group-title="FRENCH NEWS",LN24
 https://live.cdn.ln24.be/out/v1/b191621c8b9a436cad37bb36a82d2e1c/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/NPO_Nieuws_logo.png/1200px-NPO_Nieuws_logo.png" group-title="DUTCH NEWS",NPO Nieuws
+http://albastream.fun:88/live/Esjona/aUB7me8K1m5GAZp9/39481.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/NPO_Politiek_logo.png/1200px-NPO_Politiek_logo.png" group-title="DUTCH NEWS",NPO Politiek
+http://albastream.fun:88/live/Esjona/aUB7me8K1m5GAZp9/39483.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4o0oDKk.jpeg" group-title="BRITISH NEWS",RTÉ News
 http://albastream.fun:88/live/Esjona/aUB7me8K1m5GAZp9/9716.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b6/Logo_BFM_TV_%282019%29.png" group-title="FRENCH NEWS",BFM TV
@@ -2108,8 +2112,12 @@ http://103.194.169.171:8282/CZ_CT_SPORT_HD/mono.m3u8?token=93a611c10082e5eec57f8
 http://103.194.169.171:8282/CZ_NOVA_SPORT1_HD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nJB1yHF.png" group-title="CZECH SPORTS",Nova Sport 2
 http://103.194.169.171:8282/CZ_NOVA_SPORT2_HD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
+#EXTINF:0 tvg-logo="https://i.imgur.com/fIo7sfh.png" group-title="CZECH SPORTS",Sport 1
+http://103.194.169.171:8282/CZ_SPORT1_HD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
+#EXTINF:0 tvg-logo="https://i.imgur.com/rQHmxPV.png" group-title="CZECH SPORTS",Sport 2
+http://103.194.169.171:8282/CZ_SPORT2_HD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cjGGCQN.png" group-title="CZECH SPORTS",Sport 5
-http://isstnjz4.megogo.xyz/iptv/SNZC9Z4RPEYGA3/2558/index.m3u8
+http://103.194.169.171:8282/CZ_SPORT5/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pfwhTEQ.png" group-title="ALBANIAN SPORTS",RTSH Sport
 https://tvlive.rtsh.dev/live/rtsh_sport_ott11/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Iw5LWc1.png" group-title="ALBANIAN SPORTS",Tring Sport 1
