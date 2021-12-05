@@ -1722,9 +1722,9 @@ http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/345
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lTnKDju.png" group-title="FRENCH SPORTS",Eurosport 2
 http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/344
 #EXTINF:-1 tvg-logo="https://i.imgur.com/30785UJ.png" group-title="FRENCH SPORTS",RMC Sport 1
-http://ky-iptv.com:25461/DenisJones2/Denjo2050/1345663
+http://gooserace.xyz:80/play/8RKaarZp2hb82YDzh8OYR2-_qldJpbfR4XtsACnJzzk
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5Rh2s8k.png" group-title="FRENCH SPORTS",RMC Sport 2
-http://ky-iptv.com:25461/DenisJones2/Denjo2050/1345664
+http://gooserace.xyz:80/play/8RKaarZp2hb82YDzh8OYR_AcMvc6vloss0t8IVPoOH4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kaUN9Uw.png" group-title="ROMANIAN SPORTS",Digi Sport 1
 http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/290153
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xxLvKJD.png" group-title="ROMANIAN SPORTS",Digi Sport 2
@@ -1753,6 +1753,22 @@ http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/290168
 http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/290169
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UEPQ1Wo.png" group-title="ROMANIAN SPORTS",Telekom Sport 4
 http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/290171
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Mzh8IIq.png" group-title="SWITZERLAND SPORTS",Blue Sport 1
+http://103.194.169.171:8282/SW:Teleclub_Sport_1_HD_S2/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JfUrAfj.png" group-title="SWITZERLAND SPORTS",Blue Sport 2
+http://103.194.169.171:8282/SW:Teleclub_Sport_2_HD_S2/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ergMlmd.png" group-title="SWITZERLAND SPORTS",My Sports One
+http://103.194.169.171:8282/SW:MYSPORTS1HD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
+#EXTINF:-1 tvg-logo="https://i.imgur.com/opEw1FY.png" group-title="SWITZERLAND SPORTS",My Sports 2
+http://103.194.169.171:8282/SW:MYSPORTS2HD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Jfvdatt.png" group-title="SWITZERLAND SPORTS",My Sports 3
+http://103.194.169.171:8282/SW:MYSPORTS3HD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3Fcg5DM.png" group-title="SWITZERLAND SPORTS",My Sports 4
+http://103.194.169.171:8282/SW:MYSPORTS4HD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CYdulzZ.png" group-title="SWITZERLAND SPORTS",My Sports 5
+http://103.194.169.171:8282/SW:MYSPORTS5HD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rZjnKFa.png" group-title="SWITZERLAND SPORTS",My Sports 6
+http://103.194.169.171:8282/SW:MYSPORTS6HD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
 #EXTINF:-1 tvg-logo="https://i.imgur.com/p6YwKiG.png" group-title="ITALIAN SPORTS",DAZN Channel
 http://live.oldtvline.com:23000/mafrale3-150317/FiiH8aP54u/8981
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gwV31E0.png" group-title="ITALIAN SPORTS",Eurosport 1
@@ -3034,6 +3050,26 @@ http://iptvworld.nl:2095/cQnDW5Nn/syqSAe3g/46499
 http://iptvworld.nl:2095/cQnDW5Nn/syqSAe3g/9641
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NoV7RNj.png" group-title="SWEDEN",TV8
 http://iptvworld.nl:2095/cQnDW5Nn/syqSAe3g/9640
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/de/thumb/a/a0/Logo_3plus.svg/1024px-Logo_3plus.svg.png" group-title="SWITZERLAND",3+
+http://103.194.169.171:8282/SW:_pl_3HD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Logo_4plus.svg/1024px-Logo_4plus.svg.png" group-title="SWITZERLAND",4+
+http://103.194.169.171:8282/SW:_pl_4HD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/a/ac/6PLUS.png" group-title="SWITZERLAND",6+
+http://103.194.169.171:8282/SW:6plHD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/RSI_La_1_2012.svg/1920px-RSI_La_1_2012.svg.png" group-title="SWITZERLAND",RSI La 1
+http://103.194.169.171:8282/SW:CH_RSI_LA1_HD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/RSI_La_2_2012.svg/1920px-RSI_La_2_2012.svg.png" group-title="SWITZERLAND",RSI La 2
+http://103.194.169.171:8282/SW:RSI_LA2HD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/eb/RTS_1_logo_2019.svg/1920px-RTS_1_logo_2019.svg.png" group-title="SWITZERLAND",RTS 1
+http://103.194.169.171:8282/SW:RTX_UN/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/RTS_2_logo_2019.svg/1920px-RTS_2_logo_2019.svg.png" group-title="SWITZERLAND",RTS 2
+http://103.194.169.171:8282/SW:SW:RTS_Deux/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a9/SRF_1_logo.svg/1920px-SRF_1_logo.svg.png" group-title="SWITZERLAND",SRF 1
+http://103.194.169.171:8282/SW:SRF1/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Logo_SRF_zwei.svg/1920px-Logo_SRF_zwei.svg.png" group-title="SWITZERLAND",SRF zwei
+http://103.194.169.171:8282/SW:SRF2/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1c/SRF_info_logo.svg/1920px-SRF_info_logo.svg.png" group-title="SWITZERLAND",SRF Info
+http://103.194.169.171:8282/SW:SRF_INFO_HD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/ALTV_Logo.png/1200px-ALTV_Logo.png" group-title="THAILAND",ALTV 4
 https://thaipbs-ujxrch.cdn.byteark.com/live/playlist.m3u8
 EXTINF:-1 tvg-logo="https://i.imgur.com/jPZ1W5Y.png" group-title="THAILAND",Amarin TV
