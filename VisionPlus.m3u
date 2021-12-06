@@ -149,6 +149,8 @@ https://v2.siar.us/dutatv/live/playlist.m3u8
 https://d5ylslorfcw61.cloudfront.net/hls/6ax0fnygpcltf81k.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/ElshintaTV2019.png" group-title="LOKAL",Elshinta TV
 http://210.210.155.35/is6knm/s/s10/01.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5zdZADe.png" group-title="LOKAL",Fajar TV
+http://122.248.43.138:1935/ch27/myStream/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/s3HCVrO.png" group-title="LOKAL",Garuda TV
 https://ms.digdaya.tv/live/digdayatv/chunklist_w1052587069.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pposm6w.png" group-title="LOKAL",Huma Betang TV
@@ -161,6 +163,8 @@ https://liveanevia.mncnow.id/live/eds/JakTV/sa_dash_vmx/JakTV.mpd
 http://wowza58.indostreamserver.com:1935/jambitv/live/chunklist_w1308495282.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4eGZB6u.png" group-title="LOKAL",Jawa Pos TV
 http://103.236.151.43:1935/jawapostv/live/chunklist_w1312856686.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QlYYQ9q.png" group-title="LOKAL",Jek TV
+http://122.248.43.138:1935/ch14/myStream/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rMdwtbu.png" group-title="LOKAL",JITV
 https://mam.jogjaprov.go.id:1937/tv/jitv/chunklist_w163357330.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/5/58/Jogjatv3d.png/1200px-Jogjatv3d.png" group-title="LOKAL",Jogja TV
@@ -187,6 +191,8 @@ rtmp://wowza60.indostreamserver.com:1935/pktv/live
 https://v3.siar.us/pontianaktelevisi/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1rRqAqG.png" group-title="LOKAL",Prima TV
 http://primatv.onlivestreaming.net/primatv/livestream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1azIvKT.png" group-title="LOKAL",Radar TV Lampung
+http://122.248.43.138:1935/ch17/myStream/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/t3LLTum.png" group-title="LOKAL",RBTV
 http://122.248.43.138:1935/ch12/myStream/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1dNzwhe.png" group-title="LOKAL",RCTV
