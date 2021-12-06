@@ -403,6 +403,20 @@ https://live.kanal7.com/live/kanal7AvrupaLive/index.m3u8
 https://tv-trtturk.live.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fZU59wo.png" group-title="TURKISH ENTERTAINMENT",TV8 Int
 http://62.112.9.63:88/TV8_TR/index.m3u8?token=test
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RdIJVDs.png" group-title="ARABIC ENTERTAINMENT",Abu Dhabi TV
+https://admdn2.cdn.mangomolo.com/adtv/smil:adtv.stream.smil/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gkv1Wpj.png" group-title="ARABIC ENTERTAINMENT",Al Emarat
+https://admdn3.cdn.mangomolo.com/emarat/smil:emarat.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iSI4kky.png" group-title="ARABIC ENTERTAINMENT",Dubai One
+http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BWVqlXp.png" group-title="ARABIC ENTERTAINMENT",Dubai TV
+https://dmisxthvll.cdn.mgmlcdn.com/dubaitvht/smil:dubaitv.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/Mbc1logo.png" group-title="ARABIC ENTERTAINMENT",MBC
+http://pyramidsiptv.com:8080/bergeson/bergeson/80275
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xMVcCdM.png" group-title="ARABIC ENTERTAINMENT",MBC 4 
+http://pyramidsiptv.com:8080/bergeson/bergeson/80272
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lX1MaAm.png" group-title="ARABIC ENTERTAINMENT",MBC Variety
+http://pyramidsiptv.com:8080/bergeson/bergeson/80268
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f7/TVP_Polonia_new_logo.png" group-title="WORLD ENTERTAINMENT",TVP Polonia
 http://103.194.169.171:8282/PL:TVP_POLONIA/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/VTV4_logo_2013_final.svg/1200px-VTV4_logo_2013_final.svg.png" group-title="WORLD ENTERTAINMENT",VTV 4
@@ -737,12 +751,6 @@ http://mytv.fun:8080/jtg74rh5k/fwzdgpv41m/8217
 http://mytv.fun:8080/jtg74rh5k/fwzdgpv41m/5089
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dxwCiNI.png" group-title="GERMAN MOVIES",Warner TV Film
 http://mytv.fun:8080/jtg74rh5k/fwzdgpv41m/6156
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/Mbc1logo.png" group-title="ARABIC ENTERTAINMENT",MBC
-http://pyramidsiptv.com:8080/bergeson/bergeson/80275
-#EXTINF:-1 tvg-logo="https://i.imgur.com/xMVcCdM.png" group-title="ARABIC ENTERTAINMENT",MBC 4 
-http://pyramidsiptv.com:8080/bergeson/bergeson/80272
-#EXTINF:-1 tvg-logo="https://i.imgur.com/lX1MaAm.png" group-title="ARABIC ENTERTAINMENT",MBC Variety
-http://pyramidsiptv.com:8080/bergeson/bergeson/80268
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ApK5dBk.png" group-title="BRITISH SERIES",Sky Atlantic
 http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/278755
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Sky_Max_2021.svg/1920px-Sky_Max_2021.svg.png" group-title="BRITISH SERIES",Sky Max
@@ -751,6 +759,8 @@ http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/278758
 http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/278760
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pIg6iHW.png" group-title="BRITISH SERIES",Sky Crime
 http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/158470
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OyeG1RW.png" group-title="ARABIC SERIES",Abu Dhabi Drama
+https://admdn5.cdn.mangomolo.com/drama/smil:drama.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BGRD6gp.png" group-title="ARABIC SERIES",beIN Drama 1
 http://pyramidsiptv.com:8080/bergeson/bergeson/80179
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mtZoh3C.png" group-title="ARABIC SERIES",beIN Series 1
@@ -2231,13 +2241,13 @@ http://ky-iptv.com:25461/DenisJones2/Denjo2050/386583
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lzmhX3a.png" group-title="AFRICAN SPORTS",Supersport WWE
 http://ztvuk.com:80/y993slzLSu/OmKCdASQJI/92204
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fOOqLPb.png" group-title="LATINO SPORTS",Claro Sports
-https://blackghost.live/play/zutv-120.php?c=2472.m3u8
+http://disfruta.net:80/drquantum1/3Hc1bDGyZ9/1407
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/DeporTV_%282020_Logo_oficial%29.png" group-title="LATINO SPORTS",DeporTV
 https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/DirecTV_Sports_Latin_America_-_2018_logo_v2.svg/1920px-DirecTV_Sports_Latin_America_-_2018_logo_v2.svg.png" group-title="LATINO SPORTS",DirecTV Sports
-http://alv.encohd.co:39591/live/7j0Rsdf8322fe/34vwDdc2CD/382.m3u8
+http://disfruta.net:80/drquantum1/3Hc1bDGyZ9/1059
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/DIRECTV_Sports_2_Latin_America_%282018%29.svg/1920px-DIRECTV_Sports_2_Latin_America_%282018%29.svg.png" group-title="LATINO SPORTS",DirecTV Sports 2
-http://alv.encohd.co:39591/live/7j0Rsdf8322fe/34vwDdc2CD/383.m3u8
+http://disfruta.net:80/drquantum1/3Hc1bDGyZ9/1205
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cf/Fox_Sports_Premium_Argentina_2020.png" group-title="LATINO SPORTS",Fox Sports Premium
 https://delivery.cdn.rcs.net.ar/mnp/foxpremium/output.mpd
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1920px-ESPN_wordmark.svg.png" group-title="LATINO SPORTS",ESPN Argentina
@@ -2273,9 +2283,9 @@ http://disfruta.net:80/drquantum1/3Hc1bDGyZ9/1096
 #EXTINF:-1 tvg-logo="https://i.imgur.com/w8sjQN2.png" group-title="LATINO SPORTS",Fox Sports 3 Mexico
 https://d14a5mi0m64mw7.cloudfront.net/out/v1/8a240d2e8a64453da6288810ede90a60/index.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qan7sfu.png" group-title="LATINO SPORTS",Sky Sports 1
-https://blackghost.live/play/zutv-120.php?c=1956.m3u8
+http://disfruta.net:80/drquantum1/3Hc1bDGyZ9/4526
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qan7sfu.png" group-title="LATINO SPORTS",Sky Sports 2
-https://blackghost.live/play/zutv-120.php?c=1957.m3u8
+http://disfruta.net:80/drquantum1/3Hc1bDGyZ9/4525
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IyqLOSV.png" group-title="LATINO SPORTS",TNT Sports
 http://disfruta.net:80/drquantum1/3Hc1bDGyZ9/2795
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/1920px-TUDN_Logo.svg.png" group-title="LATINO SPORTS",TUDN
