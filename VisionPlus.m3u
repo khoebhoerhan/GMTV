@@ -26,7 +26,7 @@ http://210.210.155.35/qwr9ew/s/s03/01.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=N2NlNGIzZDgtMDIzYi0zZjU4LTg3ZDMtZjVjNDJlMzQwNjJh
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/1000px-Indosiar_2015.svg.png" group-title="NASIONAL",Indosiar
-https://liveanevia.mncnow.id/live/eds/Indosiar/sa_dash_vmx/Indosiar.mpd
+http://210.210.155.35/qwr9ew/s/s04/01.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/w2eOFdH.png" group-title="NASIONAL",O Channel
 http://210.210.155.35/x6bnqe/s/s73/S4/mnf.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -562,7 +562,7 @@ http://221.120.204.4/zee-cinema-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0kOCNmi.png" group-title="HINDI MOVIES",Rishtey Cineplex
 https://viacom-b.multitvsolution.com/viacomhls/rishteycineplex.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IM8X6Ui.png" group-title="HINDI MOVIES",Colors Cineplex
-https://feed.play.mv/live/10005200/ABTuyrBr22/master.m3u8
+http://208.86.19.21:80/735.stream/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bBwYVXE.png" group-title="HINDI MOVIES",Star Gold
 http://starshare.live:8080/live/1234512345/1234512345/194.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LkxRzQI.png" group-title="HINDI MOVIES",Star Gold 2
