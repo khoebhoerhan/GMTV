@@ -399,6 +399,8 @@ http://221.120.204.4/star-world-LOCKLE/tracks-v1a1/mono.m3u8
 http://93.157.62.180/ATVTurk/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OSEdWCp.png" group-title="TURKISH ENTERTAINMENT",Kanal 7 Avrupa
 https://live.kanal7.com/live/kanal7AvrupaLive/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jQ3GkPA.png" group-title="TURKISH ENTERTAINMENT",Show Türk
+https://ciner-live.ercdn.net/showturk/playlist.m3u8?e=1639790998&st=S7FqdoVVkSDzB0VzTqNTiQ&tv=1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Nh6c3KS.png" group-title="TURKISH ENTERTAINMENT",TRT Türk
 https://tv-trtturk.live.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fZU59wo.png" group-title="TURKISH ENTERTAINMENT",TV8 Int
@@ -2905,7 +2907,13 @@ http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07fsWHzxgHoWIQx
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/eb/Alpha_TV_logo.svg/800px-Alpha_TV_logo.svg.png" group-title="GREECE",Alpha
 https://alphalive-i.akamaihd.net/hls/live/682300/live/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/1/11/Ant1_Logo.png" group-title="GREECE",ANT1
-http://line.thesmartiptv.com:900/4773C858/4C98AA45/17223
+http://line.pito-tv.com:80/MguaBxyVfO/QWHrjHjAtT/1951
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/ERT1_logo_2020.svg/1920px-ERT1_logo_2020.svg.png" group-title="GREECE",ERT 1
+http://line.pito-tv.com:80/MguaBxyVfO/QWHrjHjAtT/1962
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/ERT2_logo_2020.svg/1920px-ERT2_logo_2020.svg.png" group-title="GREECE",ERT 2
+http://line.pito-tv.com:80/MguaBxyVfO/QWHrjHjAtT/1960
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/ERT3_logo_2020.svg/1920px-ERT3_logo_2020.svg.png" group-title="GREECE",ERT 3
+http://line.pito-tv.com:80/MguaBxyVfO/QWHrjHjAtT/1958
 #EXTINF:-1 tvg-logo="https://i.imgur.com/txSfwGs.png" group-title="GREECE",Mega
 https://c98db5952cb54b358365984178fb898a.msvdn.net/live/S86713049/gonOwuUacAxM/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ws2V9WC.png" group-title="GREECE",Open
@@ -3270,6 +3278,8 @@ https://59c7ea6bec1c6.streamlock.net/filbox/foxtv.stream/playlist.m3u8
 https://live.kanal7.com/live/kanal7LiveDesktop/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0c8iZq8.png" group-title="TURKEY",Kanal D
 https://59c7ea6bec1c6.streamlock.net/filbox/kanald.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3SQqZXU.png" group-title="TURKEY",Show Max
+https://ciner-live.ercdn.net/showmax/playlist.m3u8?e=1639792635&st=-R2MVYwRKYFXFoPGljYb5w&tv=1
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4b/Show_TV.svg/800px-Show_TV.svg.png" group-title="TURKEY",Show TV
 https://tv.ensonhaber.com/tv/tr/showtv/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/StarTV.svg/800px-StarTV.svg.png" group-title="TURKEY",Star TV
