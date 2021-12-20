@@ -1132,7 +1132,7 @@ https://skystreams-lh.akamaihd.net/i/SkyC3_1@500808/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YvWkxuj.png" group-title="CANADIAN NEWS",CBC News Network
 http://1111296894.rsc.cdn77.org/LS-ATL-54548-8/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5svjRRG.png" group-title="CANADIAN NEWS",CTV News Channel
-http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbD6JYMbs14ZSVqUAudiZe-tRqvCGJP1tkE2jk2WSzAZ0/ts
+http://encodercdn1.frontline.ca/bespin/output/CTV_News_720p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Pf8hnQK.png" group-title="CANADIAN NEWS",Ici RDI
 https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master_2500.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/35/GB_News_Logo.svg/1920px-GB_News_Logo.svg.png" group-title="BRITISH NEWS",GB News
@@ -1420,7 +1420,7 @@ https://liveanevia.mncnow.id/live/eds/MNCSports/sa_dash_vmx/MNCSports.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Bj0MyZQ.png" group-title="NATIONAL SPORTS",SPOTV
 https://on-load.mncnow.id/live/eds/MNCSports-HD-Clean/sa_dash_vmx/MNCSports-HD-Clean.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ffWoTF9.png" group-title="NATIONAL SPORTS",Champions TV 1
-https://dik.si/champion1?shareext.m3u8
+https://lnk.ec/JuaraTV1?shareext.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/r2aPCX8.png" group-title="NATIONAL SPORTS",Champions TV 2
 http://103.226.232.199:8888/live/kamiselaluada/untuksemua/405.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/26Jar5R.png" group-title="NATIONAL SPORTS",Champions TV 3
@@ -1601,8 +1601,6 @@ http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/260
 http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/163132
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wA3DieO.png" group-title="BRITISH SPORTS",Sky Sports Premier League
 http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/263
-#EXTINF:-1 tvg-logo="https://i.imgur.com/12eWvhy.png" group-title="WORLD SPORTS",Rugby Pass TV
-http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/157564
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dACJ673.png" group-title="DANISH SPORTS",TV2 Sport
 http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/4578
 #EXTINF:-1 tvg-logo="https://i.imgur.com/loVnWCY.png" group-title="DANISH SPORTS",TV3 Sport
@@ -2095,6 +2093,8 @@ http://iptv.tvmalaysia.cc:80/jalan8/jalan8/9026
 http://iptv.tvmalaysia.cc:80/174726/174726/9029
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ycxjpTX.png" group-title="MALAY SPORTS",Eurosport
 http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/279858
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kfPsml5.png" group-title="MALAY SPORTS",Premier Sports
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/157564
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8NC0zoQ.png" tvg-url="https://raw.githubusercontent.com/samleong123/rtm-live/main/rtmklik.xml" group-title="MALAY SPORTS",TV Sukan
 https://rtmlive06tv.secureswiftcontent.com/rtmchannel/06-manifest.mpd
