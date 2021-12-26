@@ -1262,7 +1262,7 @@ https://v-sd.mybtv.net/event/521/1920x1080.m3u8?start_time=2021-05-16&end_time=2
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kI7pHMn.jpg" group-title="NON-ENGLISH NEWS",YTN
 https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Th%E1%BB%9Di%20s%E1%BB%B1%20HD.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b2/%C4%8CT24_logo.png" group-title="CZECH NEWS",ČT24
-http://103.194.169.171:8282/CZ_CT24_HD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
+http://190.115.29.22:8080/carter/GUV1bMq2VK/12703
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Znax94k.png" group-title="NORDIC NEWS",TV2 News
 http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbA8yZl2m29S40VjS7D0htQLP8R1OCAWpgo6S2n6mEAEJ/ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QeV1sma.png" group-title="NORDIC NEWS",TV2 Nyhetskanalen
@@ -2841,7 +2841,7 @@ https://qlobbidev.s.llnwi.net/bpk-tv/RCNNOVELAS/hls/RCNNOVELAS-audio_128043_spa=
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7oxuvLG.png" group-title="COLOMBIA",Señal Colombia
 https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/chunklist_b1500000.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/%C4%8CT1_logo_2012.svg/1920px-%C4%8CT1_logo_2012.svg.png" group-title="CZECH REPUBLIC",ČT1
-http://103.194.169.171:8282/CZ_CT1_HD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
+http://190.115.29.22:8080/carter/GUV1bMq2VK/12701
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/%C4%8CT2_logo_2012.svg/1920px-%C4%8CT2_logo_2012.svg.png" group-title="CZECH REPUBLIC",ČT2
 http://103.194.169.171:8282/CZ_CT2_HD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/%C4%8CT3_logo_2020.svg/1920px-%C4%8CT3_logo_2020.svg.png" group-title="CZECH REPUBLIC",ČT3
