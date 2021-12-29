@@ -896,7 +896,7 @@ https://dik.si/SEhoree?shareext.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SU2QKXj.png" group-title="KIDS",IndiKids
 http://4rr0w.my.id/tvbusek/indik.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HLr5Qi4.png" group-title="KIDS",My Kidz
-http://rr.dens.tv/h/h191/index.m3u8
+http://rr.dens.tv/h/h98/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/f/f2/Logo_tvedukasi_baru.png" group-title="KNOWLEDGE",TV Edukasi
 http://118.98.229.118:1935/live/tve.stream/chunklist_w36933799.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/x1sG33k.png" group-title="KNOWLEDGE",Indonesiana TV
@@ -980,7 +980,7 @@ https://streaming.cnnphilippines.com/live/myStream/chunklist_w1199238897.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hi0D9Ut.png" group-title="TURKISH NEWS",CNN Türk
 http://destiny4k.com:2086/live/ramotestcihaz/n5juaD9vaH7OPzZzY8Sj/44933.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Jai0CTx.png" group-title="LATINO NEWS",CNN Chile
-http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/76353
+http://45.161.188.242:88/cnnchile/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jCXODcU.png" group-title="SPANISH NEWS",CNN en Español
 http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/31762
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/CNN_Portugal.svg/800px-CNN_Portugal.svg.png" group-title="PORTUGUESE NEWS",CNN Portugal
@@ -1248,7 +1248,7 @@ https://cdn.hkdtmb.com/hls/31/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5gGkYuD.png" group-title="MANDARIN NEWS",TVB News
 http://cdn.hkdtmb.com/hls/83/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Logo_24HorasTVN.svg/1920px-Logo_24HorasTVN.svg.png" group-title="LATINO NEWS",24 Horas
-http://190.151.12.26:8000/play/a00m
+http://45.161.188.242:88/24horas/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XyKKCz3.png" group-title="LATINO NEWS",A24
 https://delivery.cdn.rcs.net.ar/mnp/a24/output.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8cdAvQF.png" group-title="LATINO NEWS",ADN40
@@ -2823,19 +2823,19 @@ http://183.207.248.71:80/cntv/live1/n-cctv-15/n-cctv-15
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QB3l5HH.png" group-title="CHINA",CCTV-17 农业农村
 http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv17/HD-8000k-1080P-cctv17
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Logotipo_de_Canal_13.png/1024px-Logotipo_de_Canal_13.png" group-title="CHILE",Canal 13
-http://186.67.117.178:8081/play/a00z
+http://45.161.188.242:88/canal13/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zUykSnY.png" group-title="CHILE",CHV
 http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/8966
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FvVU1mC.png" group-title="CHILE",La Red
-https://unlimited10-cl.dps.live/lared/lared.smil/lared/livestream0/chunks.m3u8 
+https://d2tr4gdfol9ja.cloudfront.net/lared/lared.smil/chunklist_b1000000.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Mega_Chile_2020.png/1280px-Mega_Chile_2020.png" group-title="CHILE",Mega
-https://pantera1-100GB-cl-movistar.dps.live/mega/mega.smil/mega/livestream0/chunks.m3u8
+http://45.161.188.242:88/mega/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Telecanal_-_2011_logo_%283D_variant%29.png" group-title="CHILE",Telecanal
 https://unlimited1-cl.dps.live/tctc/tctc.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iz00wIP.png" group-title="CHILE",TV+
 http://186.67.117.178:8081/play/a03r
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Logotipo_de_Televisi%C3%B3n_Nacional_de_Chile.svg/1920px-Logotipo_de_Televisi%C3%B3n_Nacional_de_Chile.svg.png" group-title="CHILE",TVN
-https://blackghost.live/play/zutv-120.php?c=1626.m3u8
+http://45.161.188.242:88/tvn/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Ucvtvlogo2014mejorado.png/1280px-Ucvtvlogo2014mejorado.png" group-title="CHILE",UCV
 https://unlimited10-cl.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/u7ECXoD.png" group-title="COLOMBIA",Canal Institucional
@@ -2907,7 +2907,7 @@ https://vps-c97214f4.vps.ovh.net/hls/ecutv4.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lCDkjk1.png" group-title="ECUADOR",TC Televisión 
 https://blackghost.live/play/zutv-120.php?c=2304.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/Teleamazonas_Logo.png" group-title="ECUADOR",Teleamazonas
-http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/9168
+https://vps-c97214f4.vps.ovh.net/hls/ecutv1.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8a/M6_6ter_2012.png" group-title="FRANCE",6ter
 http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/183
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/47/C8_logo.jpg" group-title="FRANCE",C8
