@@ -421,6 +421,20 @@ http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/15081
 http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/15078
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lX1MaAm.png" group-title="ARABIC ENTERTAINMENT",MBC Variety
 http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/15072
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dIoU3FG.png" group-title="LATINO ENTERTAINMENT",A&E
+http://edge02-fdo-py.cvattv.com.ar/live/c4eds/AEHD/SA_SAGEMCOM/AEHD.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JOCjq3R.png" group-title="LATINO ENTERTAINMENT",Comedy Central
+http://edge02-fdo-py.cvattv.com.ar/live/c4eds/ComedyCentral/SA_SAGEMCOM/ComedyCentral.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/71d2wEk.png" group-title="LATINO ENTERTAINMENT",Paramount Network
+http://edge02-fdo-py.cvattv.com.ar/live/c4eds/Paramount/SA_SAGEMCOM/Paramount.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" group-title="LATINO ENTERTAINMENT",Sony Channel
+http://edge02-fdo-py.cvattv.com.ar/live/live/SonyHD/SA_SAGEMCOM/SonyHD.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wzmQrcy.png" group-title="LATINO ENTERTAINMENT",Star Channel
+http://edge02-fdo-py.cvattv.com.ar/live/c3eds/FOXHD/SA_SAGEMCOM/FOXHD.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5Llmjym.png" group-title="LATINO ENTERTAINMENT",Star Life
+http://edge02-fdo-py.cvattv.com.ar/live/c4eds/Fox_Life/SA_SAGEMCOM/Fox_Life.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/umJbqNY.png" group-title="LATINO ENTERTAINMENT",TNT
+http://edge02-fdo-py.cvattv.com.ar/live/c4eds/TNT/SA_SAGEMCOM/TNT.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f7/TVP_Polonia_new_logo.png" group-title="WORLD ENTERTAINMENT",TVP Polonia
 http://103.194.169.171:8282/PL:TVP_POLONIA/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/VTV4_logo_2013_final.svg/1200px-VTV4_logo_2013_final.svg.png" group-title="WORLD ENTERTAINMENT",VTV 4
@@ -518,7 +532,7 @@ http://iptv.tvmalaysia.cc:80/174726/174726/8838
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/12/%26flix_logo.png" group-title="MOVIES",&flix
 http://cdn.worldtvip.co:25461/sheraz/kcU75HHUin/29
 #EXTINF:-1 tvg-logo="https://i.imgur.com/h9W2I7O.png" group-title="MOVIES",&privé
-http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/49557
+http://starshare.live:8080/cOrldiscord/6aihXYFqTX/201
 #EXTINF: -1 tvg-logo="https://i.imgur.com/4DyH9pK.png" group-title="MOVIES",Star Movies Select
 http://starshare.live:8080/cOrldiscord/6aihXYFqTX/218
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5f/Sony_PIX.png" group-title="MOVIES", Sony Pix
@@ -673,6 +687,22 @@ http://live.oldtvline.com:23000/mafrale3-150317/FiiH8aP54u/6654
 http://live.oldtvline.com:23000/mafrale3-150317/FiiH8aP54u/6651
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Sky_Cinema_Suspense_-_Logo_2021.svg/1920px-Sky_Cinema_Suspense_-_Logo_2021.svg.png" group-title="ITALIAN MOVIES",Sky Cinema Suspense
 http://live.oldtvline.com:23000/mafrale3-150317/FiiH8aP54u/6653
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9v0WUqt.png" group-title="LATINO MOVIES",HBO
+http://edge02-fdo-py.cvattv.com.ar/live/c3eds/HBOHD/SA_SAGEMCOM/HBOHD.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fcP6f19.png" group-title="LATINO MOVIES",HBO 2
+http://edge02-fdo-py.cvattv.com.ar/live/c4eds/HBO_2/SA_SAGEMCOM/HBO_2.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lQNj7hA.png" group-title="LATINO MOVIES",HBO Mundi
+http://edge02-fdo-py.cvattv.com.ar/live/c6eds/HBO_Mundi/SA_SAGEMCOM/HBO_Mundi.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/426Kgas.png" group-title="LATINO MOVIES",HBO Signature
+http://edge02-fdo-py.cvattv.com.ar/live/c4eds/HBO_Signature/SA_SAGEMCOM/HBO_Signature.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Y3ICK7d.png" group-title="LATINO MOVIES",HBO Xtreme
+http://edge02-fdo-py.cvattv.com.ar/live/c4eds/Max_Prime_HD/SA_SAGEMCOM/Max_Prime_HD.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UmlQZyK.png" group-title="LATINO MOVIES",HBO+
+http://edge02-fdo-py.cvattv.com.ar/live/c4eds/HBO_Plus/SA_SAGEMCOM/HBO_Plus.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TJNzzvf.png" group-title="LATINO MOVIES",Star Fun
+http://edge02-fdo-py.cvattv.com.ar/live/live/FoxFamily/SA_SAGEMCOM/FoxFamily.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Eqe2ow2.png" group-title="LATINO MOVIES",Star Hits
+http://edge02-fdo-py.cvattv.com.ar/live/c3eds/FoxMoviesHD/SA_SAGEMCOM/FoxMoviesHD.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7RKOLNG.png" group-title="ARABIC MOVIES",beIN Box Office 1
 http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/283289
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gJVXKM6.png" group-title="ARABIC MOVIES",beIN Box Office 2
@@ -775,6 +805,20 @@ http://line.pito-tv.com:80/MguaBxyVfO/QWHrjHjAtT/1717
 http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/36950
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pIg6iHW.png" group-title="BRITISH SERIES",Sky Crime
 http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/76145
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5a2PNe2.png" group-title="LATINO SERIES",Star Action
+http://edge02-fdo-py.cvattv.com.ar/live/c3eds/FoxActionHD/SA_SAGEMCOM/FoxActionHD.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/98JPzqb.png" group-title="LATINO SERIES",Star Series
+http://edge02-fdo-py.cvattv.com.ar/live/c3eds/FOX1HD/SA_SAGEMCOM/FOX1HD.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SodO9DE.png" group-title="LATINO SERIES",Studio Universal
+http://edge02-fdo-py.cvattv.com.ar/live/c4eds/Studio_Universal/SA_SAGEMCOM/Studio_Universal.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LHXa485.png" group-title="LATINO SERIES",Syfy
+http://edge02-fdo-py.cvattv.com.ar/live/c4eds/SyFy/SA_SAGEMCOM/SyFy.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png" group-title="LATINO SERIES",TNT Series
+http://edge02-fdo-py.cvattv.com.ar/live/c3eds/TNTSeries/SA_SAGEMCOM/TNTSeries.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/1920px-Universal_TV_logo.svg.png" group-title="LATINO SERIES",Universal TV
+http://edge02-fdo-py.cvattv.com.ar/live/c4eds/Universal_Channel_HD/SA_SAGEMCOM/Universal_Channel_HD.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png" group-title="LATINO SERIES",Warner TV
+http://edge02-fdo-py.cvattv.com.ar/live/c4eds/WarnerHD/SA_SAGEMCOM/WarnerHD.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OyeG1RW.png" group-title="ARABIC SERIES",Abu Dhabi Drama
 https://admdn5.cdn.mangomolo.com/drama/smil:drama.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BGRD6gp.png" group-title="ARABIC SERIES",beIN Drama 1
@@ -3090,10 +3134,6 @@ https://cdn87.theus6tv.tk/locals/SanDiego/xhctti-tdt.m3u8
 https://qlobbidev.s.llnwi.net/bpk-tv/ESTRELLAS/hls/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Multimedios_Canal_Seis_Logo.svg/800px-Multimedios_Canal_Seis_Logo.svg.png" group-title="MEXICO",Multimedios
 http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5a2PNe2.png" group-title="MEXICO",Star Action
-http://cdn.stg.cvattv.com.ar/live/live2/FoxActionHD/SA_Live_fta/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wzmQrcy.png" group-title="MEXICO",Star Channel
-https://edge1.stg.cvattv.com.ar/live/live2/FXHD/SA_Live_fta/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bb/Net5_logo_2019.png" group-title="NETHERLANDS",Net5
 http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/18554.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/NPO_1_logo_2014.svg/1280px-NPO_1_logo_2014.svg.png" group-title="NETHERLANDS",NPO 1
