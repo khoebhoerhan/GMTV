@@ -366,7 +366,7 @@ https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/ch
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YBKMgbV.png" group-title="JAPANESE ENTERTAINMENT",WakuWaku Japan
-http://links.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbGUpRBUWt0F35P8qVFqNA_cbvONWUQ8SCpcqAqKUZ51N/ts
+https://lnk.ec/waku2?shareext.ts
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=N2NlNGIzZDgtMDIzYi0zZjU4LTg3ZDMtZjVjNDJlMzQwNjJh
 #EXTINF:-1 tvg-logo="https://nhkworldpremium.com/img/provider/logo.png" group-title="JAPANESE ENTERTAINMENT",NHK World Premium
@@ -468,7 +468,7 @@ https://cubmu.nomaden.tv:8279/TMUSIC/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XD4fyZS.png" group-title="NATIONAL MUSIC",Prambors
 https://usee.galleryiptv.my.id/geyatissann/FTA-USEE/chunklist.m3u8?id=pramborstv&bandwidth=default&sync=0
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PPJLB5Z.png" group-title="NATIONAL MUSIC",i-Konser
-https://usee.galleryiptv.my.id/Loe_Dibilangin_Gabisa_Kalo_Nyuri_Playlist_Bisa_Memang_Kau_Gaada_Akhlak_Betul_Males_Gw_Liat_Kau_Lagi/chunklist.m3u8?id=ikonser&bandwidth=default&sync=0
+https://usee.galleryiptv.my.id/geyatissann/FTA-USEE/chunklist.m3u8?id=ikonser&bandwidth=default&sync=0
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jgUjlxA.png" group-title="INDIAN MUSIC",Music india
 http://jo123.biz/jweb/m3u8.php?c=Music_India&&=1200&e=.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/X7VxlBN.png" group-title="INDIAN MUSIC",MTV
@@ -1500,9 +1500,9 @@ http://103.226.232.199:8888/live/kamiselaluada/untuksemua/402.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pmTtL3g.png" group-title="NATIONAL SPORTS",Mola 2
 http://103.226.232.199:8888/live/kamiselaluada/untuksemua/403.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/igMrYaN.png" group-title="NATIONAL SPORTS", Usee Sports
-https://usee.galleryiptv.my.id/geyatissann/chunklist.m3u8?id=useesport&bandwidth=default&sync=0
+https://usee.galleryiptv.my.id/geyatissann/FTA-USEE/chunklist.m3u8?id=useesport&bandwidth=default&sync=0
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jJY4VIw.png" group-title="NATIONAL SPORTS", Usee Sports 2
-https://usee.galleryiptv.my.id/geyatissann/chunklist.m3u8?id=useesports2&bandwidth=default&sync=0
+https://usee.galleryiptv.my.id/geyatissann/FTA-USEE/chunklist.m3u8?id=useesports2&bandwidth=default&sync=0
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cg1yMfi.png" group-title="NATIONAL SPORTS",TVRI Sport HD
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRI4)/index.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
