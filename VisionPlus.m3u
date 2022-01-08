@@ -178,7 +178,7 @@ http://122.248.43.138:1935/ch18/myStream/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/X5YoCdN.png" group-title="LOKAL",Lombok TV
 http://103.23.201.170:1935/live/lbtv/chunklist_w1995349508.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/53OjK6n.png" group-title="LOKAL",MGS TV
-https://cdn.gunadarma.ac.id/streams/mgstv/ingestmgstv_high.m3u8
+https://cdn.gunadarma.ac.id/streams/mgstv/ingestmgstv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6fBNWRd.png" group-title="LOKAL",MJTV
 http://122.248.43.138:1935/ch13/myStream/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/l9qWeFQ.png" group-title="LOKAL",Nirwana TV
@@ -215,6 +215,8 @@ http://wms.klikhost.com/tegartv/live/playlist.m3u8
 http://103.30.1.14:8080/hls/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wHo2EvN.png" group-title="LOKAL",TVTPI
 http://103.30.246.47:1935/tvtpi/smil:live.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zgKW6bB.png" group-title="LOKAL",UGTV
+https://cdn.gunadarma.ac.id/streams/ugtv/ingestugtv.m3u8
 #EXTINF:-1 tvg-logo="http://staging.tvri.go.id/assets/img_gallery/daerah/ACEH.png" group-title="TVRI DAERAH",TVRI Aceh
 http://118.97.50.107/Content/HLS/Live/Channel(TVRIACEH)/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/TVRIBaliLogo2019.svg/567px-TVRIBaliLogo2019.svg.png" group-title="TVRI DAERAH",TVRI Bali
@@ -632,7 +634,7 @@ http://93.157.62.180/TringLife/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/37hGWf2.png" group-title="ALBANIAN MOVIES",Tring Super
 http://93.157.62.180/TringSuper/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AD8r7dt.png" group-title="BRITISH MOVIES",Film4
-http://line.pito-tv.com:80/MguaBxyVfO/QWHrjHjAtT/1719
+http://sbr.siber.vip:2086/siber4603/mDeqbRJ26dNJ/18056
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MPnwLGE.png" group-title="BRITISH MOVIES",Great! Movies
 http://qqtv.nl:8080/masud/masud/15513
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JDI0eaC.png" group-title="BRITISH MOVIES",Great! Movies Action
@@ -640,13 +642,13 @@ http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/2867
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MPnwLGE.png" group-title="BRITISH MOVIES",Great! Movies Classic
 http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/285334
 #EXTINF:-1 tvg-logo="https://i.imgur.com/66mAx2O.png" group-title="BRITISH MOVIES",Sky Cinema Action
-http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/22214
+http://sbr.siber.vip:2086/siber4603/mDeqbRJ26dNJ/22606
 #EXTINF:-1 tvg-logo="https://i.imgur.com/e1kJuRF.png" group-title="BRITISH MOVIES",Sky Cinema Animation
-http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/1090
+http://ky-tv.cc:80/toyota18/toyota18/1663386.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SFqmT1y.png" group-title="BRITISH MOVIES",Sky Cinema Comedy
-http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/22213
+http://sbr.siber.vip:2086/siber4603/mDeqbRJ26dNJ/22607
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AicNnNq.png" group-title="BRITISH MOVIES",Sky Cinema Drama
-http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/22211
+http://ky-tv.cc:80/toyota18/toyota18/228295.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EgwUwXa.png" group-title="BRITISH MOVIES",Sky Cinema Family
 http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/22210
 #EXTINF:-1 tvg-logo="https://i.imgur.com/f0NLkrG.png" group-title="BRITISH MOVIES",Sky Cinema Greats
@@ -656,9 +658,9 @@ http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/22208
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oPBDC33.png" group-title="BRITISH MOVIES",Sky Cinema Premiere
 http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/22207
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4bSRUnB.png" group-title="BRITISH MOVIES",Sky Cinema Sci-fi Horror
-http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/22206
+http://sbr.siber.vip:2086/siber4603/mDeqbRJ26dNJ/22611
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rzBurDo.png" group-title="BRITISH MOVIES",Sky Cinema Select
-http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/22205
+http://sbr.siber.vip:2086/siber4603/mDeqbRJ26dNJ/22612
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Q2Avbgx.png" group-title="ITALIAN MOVIES",20
 http://live.oldtvline.com:23000/mafrale3-150317/FiiH8aP54u/38622
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Cine34_logo.svg/800px-Cine34_logo.svg.png" group-title="ITALIAN MOVIES",Cine34
@@ -1532,27 +1534,27 @@ https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/39bwyGI.png" group-title="ARABIC SPORTS",beIN Sports
 http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/22199
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MRULdc8.png" group-title="ARABIC SPORTS",beIN Sports 1
-http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/3851
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/89210
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NDp6TlM.png" group-title="ARABIC SPORTS",beIN Sports 2
-http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/3850
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/89211
 #EXTINF:-1 tvg-logo="https://i.imgur.com/j8VC6nB.png" group-title="ARABIC SPORTS",beIN Sports 3
-http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/3849
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/89212
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Lu26Yho.png" group-title="ARABIC SPORTS",beIN Sports 4
-http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/3848
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/89213
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pA5by2y.png" group-title="ARABIC SPORTS",beIN Sports 5
-http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/3847
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/88949
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mbFoSUX.png" group-title="ARABIC SPORTS",beIN Sports 6
-http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/10361
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/89215
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eHCosqi.png" group-title="ARABIC SPORTS",beIN Sports 7
-http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/10362
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/89216
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BZ5jcea.png" group-title="ARABIC SPORTS",beIN Sports NBA
 http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/149602
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TG2eNPO.png" group-title="ARABIC SPORTS",beIN Sports News
-http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/22198
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/89209
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uYcwFSD.png" group-title="ARABIC SPORTS",beIN Sports Xtra 1
-http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/117123
+http://195.230.23.8:25461/goldsfree3/goldstv.com/3171
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Q9ACq0T.png" group-title="ARABIC SPORTS",beIN Sports Xtra 2
-http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/117128
+http://195.230.23.8:25461/goldsfree3/goldstv.com/3172
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MRULdc8.png" group-title="FRENCH SPORTS",beIN Sports 1
 http://163.172.100.127:1991/EWESrtD2lX/st2xcRDz67pHcpSV/5525
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NDp6TlM.png" group-title="FRENCH SPORTS",beIN Sports 2
@@ -1566,17 +1568,17 @@ http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/22196
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sKFx2QF.png" group-title="ARABIC SPORTS",beIN Sports English 3
 http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/22197
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NOOEDFi.png" group-title="ARABIC SPORTS",beIN Sports French 1
-http://pyramidsiptv.com:8080/bergeson/bergeson/80037
+http://195.230.23.8:25461/goldsfree3/goldstv.com/3186
 #EXTINF:-1 tvg-logo="https://i.imgur.com/n6iA4cg.png" group-title="ARABIC SPORTS",beIN Sports French 2
 http://pyramidsiptv.com:8080/bergeson/bergeson/80036
 #EXTINF:-1 tvg-logo="https://i.imgur.com/srteRe1.png" group-title="ARABIC SPORTS",beIN Sports French 3
 http://x.vprotv.com:25443/VXzWZLWc4Ye/JGG8p5OYUl/124098
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CwlNjXQ.png" group-title="ARABIC SPORTS",beIN Sports Premium 1
-http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/3854
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/89218
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ns7isEP.png" group-title="ARABIC SPORTS",beIN Sports Premium 2
-http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/3853
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/88953
 #EXTINF:-1 tvg-logo="https://i.imgur.com/T7UlxCI.png" group-title="ARABIC SPORTS",beIN Sports Premium 3
-http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/3852
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/88954
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MRULdc8.png" group-title="TURKISH SPORTS",beIN Sports 1
 http://163.172.100.127:1991/EWESrtD2lX/st2xcRDz67pHcpSV/84172
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NDp6TlM.png" group-title="TURKISH SPORTS",beIN Sports 2
@@ -1608,31 +1610,31 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df975e2b27cf500092
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oGyeYgb.png" group-title="AMERICAN SPORTS",beIN Sports Xtra en Español
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60492fdd9989d30007ccd30a/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a121ad30-ae69-11eb-a87c-2ba0b5b8041d&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=ac3bc3c0-b26f-4c9c-8c94-988af191404a&userId=&serverSideAds=true
 #EXTINF:-1 tvg-logo="https://i.imgur.com/39bwyGI.png" group-title="AMERICAN SPORTS",beIN Sports
-http://190.115.29.22:8080/carter/GUV1bMq2VK/5391
+http://s1.showplustv.com:1997/iptvtree2021/adAXCXhWuH9Mj515sda/9469
 #EXTINF:-1 tvg-logo="https://i.imgur.com/39bwyGI.png" group-title="CANADIAN SPORTS",beIN Sports
-http://190.115.29.22:8080/carter/GUV1bMq2VK/5391
+http://the827solutions.com:25461/NE99101/p3szcPmhSN/49
 #EXTINF:-1 tvg-logo="https://i.imgur.com/x8049OP.png" group-title="CANADIAN SPORTS",beIN Sports Xtra
 http://status.tehw00t.net/miniProxy.php/https://bein-xtra-samsung-canada.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/MLBNetworkLogo.svg/800px-MLBNetworkLogo.svg.png" group-title="AMERICAN SPORTS",MLB Network
-http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/191303
+http://s1.showplustv.com:1997/iptvtree2021/adAXCXhWuH9Mj515sda/9390
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gZXSAhf.png" group-title="AMERICAN SPORTS",NFL Network
-http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/191304
+http://s1.showplustv.com:1997/iptvtree2021/adAXCXhWuH9Mj515sda/9356
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LH4EVbg.png" group-title="AMERICAN SPORTS",NHL Network
-http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/191302
+http://s1.showplustv.com:1997/iptvtree2021/adAXCXhWuH9Mj515sda/9381
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JApkfiF.png" group-title="AMERICAN SPORTS",Tennis Channel
 http://fling.sytes.net:25461/f8GFniePT4/Sk6ZQGdz7n/1915
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lcpZ5CC.png" group-title="AMERICAN SPORTS",WWE Network
-http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/191305
+http://s1.showplustv.com:1997/iptvtree2021/adAXCXhWuH9Mj515sda/9348
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c8/BoxNation2014Logo.png" group-title="BRITISH SPORTS",Box Nation
-http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/22241
+http://bizimip.com:8000/live:brkamg/CboHauTOEr/1345
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7dg7EB7.png" group-title="BRITISH SPORTS",BT Sport 1
-http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/22240
+http://sbr.siber.vip:2086/siber4603/mDeqbRJ26dNJ/18095
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sIIFREX.png" group-title="BRITISH SPORTS",BT Sport 2
-http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/22239
+http://sbr.siber.vip:2086/siber4603/mDeqbRJ26dNJ/18096
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8IzsrMb.png" group-title="BRITISH SPORTS",BT Sport 3
-http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/10507
+http://sbr.siber.vip:2086/siber4603/mDeqbRJ26dNJ/18097
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YcrrywD.png" group-title="BRITISH SPORTS",BT Sport ESPN
-http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/22237
+http://sbr.siber.vip:2086/siber4603/mDeqbRJ26dNJ/18098
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gwV31E0.png" group-title="BRITISH SPORTS",Eurosport 1
 http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/22226
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lTnKDju.png" group-title="BRITISH SPORTS",Eurosport 2
@@ -1648,27 +1650,27 @@ http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbNIsO2Xq_inkRdTWRR9ImuA6Xj
 #EXTINF:-1 tvg-logo="https://i.imgur.com/d81P4qV.jpg" group-title="BRITISH SPORTS",Racing TV
 http://lemon.catchmeifyo.com:8000/554465585/595566403/36178
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jM1FeOX.png" group-title="BRITISH SPORTS",Sky Sports Action
-http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/10524
+http://sbr.siber.vip:2086/siber4603/mDeqbRJ26dNJ/18104
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eZwExGu.png" group-title="BRITISH SPORTS",Sky Sports Arena
-http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/10523
+http://sbr.siber.vip:2086/siber4603/mDeqbRJ26dNJ/18102
 #EXTINF:-1 tvg-logo="https://i.imgur.com/J8zzS2v.png" group-title="BRITISH SPORTS",Sky Sports Cricket
-http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/10522
+http://lemon.catchmeifyo.com:8000/554465585/595566403/37506
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2kPW5qw.png" group-title="BRITISH SPORTS",Sky Sports F1
-http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/10521
+http://sbr.siber.vip:2086/siber4603/mDeqbRJ26dNJ/18106
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EcFwNdj.png" group-title="BRITISH SPORTS",Sky Sports Football
-http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/10520
+http://lemon.catchmeifyo.com:8000/554465585/595566403/37508
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Q2ztKWZ.png" group-title="BRITISH SPORTS",Sky Sports Golf
-http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/10519
+http://sbr.siber.vip:2086/siber4603/mDeqbRJ26dNJ/18105
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KHiae2e.png" group-title="BRITISH SPORTS",Sky Sports Main Event
 http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/10518
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PRF0DsV.png" group-title="BRITISH SPORTS",Sky Sports Mix
-http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/22203
+http://lemon.catchmeifyo.com:8000/554465585/595566403/68588
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jcFnVbi.png" group-title="BRITISH SPORTS",Sky Sports News
-http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/22202
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/88963
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vhYstlz.png" group-title="BRITISH SPORTS",Sky Sports Racing
-http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/48168
+http://lemon.catchmeifyo.com:8000/554465585/595566403/37513
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wA3DieO.png" group-title="BRITISH SPORTS",Sky Sports Premier League
-http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/10517
+http://sbr.siber.vip:2086/siber4603/mDeqbRJ26dNJ/18108
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dACJ673.png" group-title="DANISH SPORTS",TV2 Sport
 http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbFLaai3jIMroCe5Th9dG6UvxPkOy2RC8k0esvQSKfEBK/ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/loVnWCY.png" group-title="DANISH SPORTS",TV3 Sport
@@ -1742,23 +1744,23 @@ http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/83805
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gGRqRoy.png" group-title="GREEK SPORTS",Nova Sport News
 http://ky-iptv.com:25461/DenisJones2/Denjo2050/315653
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1g9mYwr.png" group-title="AMERICAN SPORTS",CBS Sports Network
-http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/11152
+http://s1.showplustv.com:1997/iptvtree2021/adAXCXhWuH9Mj515sda/92661
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1920px-ESPN_wordmark.svg.png" group-title="AMERICAN SPORTS",ESPN
-http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/11203
+http://s1.showplustv.com:1997/iptvtree2021/adAXCXhWuH9Mj515sda/9418
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/1280px-ESPN2_logo.svg.png" group-title="AMERICAN SPORTS",ESPN 2
-http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/11204
+http://s1.showplustv.com:1997/iptvtree2021/adAXCXhWuH9Mj515sda/9417
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YhuEewa.png" group-title="AMERICAN SPORTS",ESPN Deportes
 http://xxxxlocal.com:8080/Dragon7547usa/lMpwbkE9a3/11611
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/ESPNews.svg/1920px-ESPNews.svg.png" group-title="AMERICAN SPORTS",ESPNews
-http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/11205
+http://tv.master22.xyz:25461/eliluna1/gqdZxaWzcn/118423
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qimdreM.png" group-title="AMERICAN SPORTS",FS1
-http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/13134
+http://s1.showplustv.com:1997/iptvtree2021/adAXCXhWuH9Mj515sda/62422
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jxLMBZt.png" group-title="AMERICAN SPORTS",FS2
-http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/13135
+http://s1.showplustv.com:1997/iptvtree2021/adAXCXhWuH9Mj515sda/62423
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kL3DvWM.png" group-title="AMERICAN SPORTS",Fox Deportes
 http://destiny4k.com:2086/live/ramotestcihaz/n5juaD9vaH7OPzZzY8Sj/2916.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/14/NBCSN_logo.png" group-title="AMERICAN SPORTS",NBCSN
-http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/13137
+http://s1.showplustv.com:1997/iptvtree2021/adAXCXhWuH9Mj515sda/9382
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ix8Pm5R.png" group-title="WORLD SPORTS",On Sports
 http://s4.nihontv.net:21585/vtvcab3/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Dt4IDCL.png" group-title="CHINESE SPORTS",CCTV-5 体育
@@ -1988,9 +1990,9 @@ http://live.oldtvline.com:23000/mafrale3-150317/FiiH8aP54u/6626
 #EXTINF:-1 tvg-logo="https://i.imgur.com/D2as8oE.png" group-title="ITALIAN SPORTS",Super Tennis
 http://live.oldtvline.com:23000/mafrale3-150317/FiiH8aP54u/20
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CSBS4Ff.png" group-title="GERMAN SPORTS",DAZN 1
-http://lemon.catchmeifyo.com:8000/554465585/595566403/36634
+http://sbr.siber.vip:2086/siber4603/mDeqbRJ26dNJ/562
 #EXTINF:-1 tvg-logo="https://i.imgur.com/m5c18XU.png" group-title="GERMAN SPORTS",DAZN 2
-http://lemon.catchmeifyo.com:8000/554465585/595566403/36635
+http://sbr.siber.vip:2086/siber4603/mDeqbRJ26dNJ/561
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gwV31E0.png" group-title="GERMAN SPORTS",Eurosport 1
 http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07djPRS2zvQ-hJZjPJ44EKJu/ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lTnKDju.png" group-title="GERMAN SPORTS",Eurosport 2
@@ -2002,13 +2004,13 @@ http://bizimip.com:8000/live:brkamg/CboHauTOEr/381
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pf23tT3.png" group-title="GERMAN SPORTS",Sky Sport 1
 http://s1.showplustv.com:1997/iptvtree2021/adAXCXhWuH9Mj515sda/17547
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MVk9Qyz.png" group-title="GERMAN SPORTS",Sky Sport 2
-http://lemon.catchmeifyo.com:8000/554465585/595566403/36708
+http://sbr.siber.vip:2086/siber4603/mDeqbRJ26dNJ/10117
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/de/thumb/c/cc/Sky_Sport_News_2020.svg/1920px-Sky_Sport_News_2020.svg.png" group-title="GERMAN SPORTS",Sky Sport News
 http://s1.showplustv.com:1997/iptvtree2021/adAXCXhWuH9Mj515sda/17535
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gCggEAF.png" group-title="GERMAN SPORTS",Sport1
 http://s1.showplustv.com:1997/iptvtree2021/adAXCXhWuH9Mj515sda/17606
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Sport-Digital.svg/1920px-Sport-Digital.svg.png" group-title="GERMAN SPORTS",sportdigital
-http://190.115.29.22:8080/carter/GUV1bMq2VK/123
+http://s1.showplustv.com:1997/iptvtree2021/adAXCXhWuH9Mj515sda/17532
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xjrVVNR.png" group-title="AUSTRIAN SPORTS",Sky Sport Austria 1
 http://bizimip.com:8000/live:brkamg/CboHauTOEr/351
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GhwEqNU.png" group-title="AUSTRIAN SPORTS",ORF Sport+
@@ -2625,25 +2627,25 @@ https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/T
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/92/TVS_Sarawak.jpg" group-title="MALAYSIA",TVS
 http://194.233.76.27:2082/1992/1992/32
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TVRRM2ZFZFNCTmh1ODEwbko5d1NNSE9YcjdzWF9YT2NicVpMXzhVZ0ptVzlPMEdLZmh3RGo5QjFIY05DLS15YXFOSGcwSVFRZ3NEV1RGLVloNjc3TU1nbzFCTEhoM3RKRTRobE9PY2Y0QVFWNjBQcVRiRWlRT2JMV2hXNXAzRWhhdE45VV9acGpwNUUtZnRRZ0RLMUhyS3BOUXhQWGpycWQ5V0JwcmNZUGk5aWxtTXlSQWpyaVdfVnM5YnRNTmxtMzdQSVg2MFRGLUN2aXhEUWZxTU5EcUZUUF9RQi1TNTUxb1YyeWs5RlBpM2pCcEg3eVQyWEVCYmxNODZHZERjUHFUU0p2WU4xLV8yRm9CajFRYWZkaWxvN3A3Qi1heUpjWm96LWcwQUV2R2R0OWc1UVV5RngzZHFQaklqMDRzaW5IeG9OeV9sVkhldVNUc2tkcHpueUU1MVlodzlObk4tR1hmWmIwZkpPY1pkNWJ4emcmY29udGV4dFR5cGU9bm9uZSZpZD01NzU0MTE2IiwiYWNjb3VudF9pZCI6MjA4MjMxMSwiY29udGVudF9pZCI6ImZ0YV9jaDVfZGFzaF90dl9kcm0iLCJmaWxlcyI6IiIsInVzZXJfdG9rZW4iOiJkako4TVRRM2ZFZFNCTmh1ODEwbko5d1NNSE9YcjdzWF9YT2NicVpMXzhVZ0ptVzlPMEdLZmh3RGo5QjFIY05DLS15YXFOSGcwSVFRZ3NEV1RGLVloNjc3TU1nbzFCTEhoM3RKRTRobE9PY2Y0QVFWNjBQcVRiRWlRT2JMV2hXNXAzRWhhdE45VV9acGpwNUUtZnRRZ0RLMUhyS3BOUXhQWGpycWQ5V0JwcmNZUGk5aWxtTXlSQWpyaVdfVnM5YnRNTmxtMzdQSVg2MFRGLUN2aXhEUWZxTU5EcUZUUF9RQi1TNTUxb1YyeWs5RlBpM2pCcEg3eVQyWEVCYmxNODZHZERjUHFUU0p2WU4xLV8yRm9CajFRYWZkaWxvN3A3Qi1heUpjWm96LWcwQUV2R2R0OWc1UVV5RngzZHFQaklqMDRzaW5IeG9OeV9sVkhldVNUc2tkcHpueUU1MVlodzlObk4tR1hmWmIwZkpPY1pkNWJ4emciLCJ1ZGlkIjoiIiwiYWRkaXRpb25hbF9jYXNfc3lzdGVtIjoxNDd9&signature=YcaS3p6YoiO%2b3JYGfw0hH34c0K8%3d
+#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TVRRM2ZOejE1SHUzY1RlbmczZEFzYTQzU1IzaHlJckx1bFdRV25HRWpxbzV5R0F1V2ZfOGNLaHM5VUs3amxwVVl5X0NMcTVHRUhhSnRmMG9ZeGZaQWE2bDUxZy1TcnFTVm9rSXJWeUgyaUlqY0duYmJzTFB5aGkwc2NST0VvQjN1Q0pSalhDRzNNQVlWVDdxVEVkb1A4WmVvU1BoRjZKdU04WGI0QThjQU9icTNhVDZuTzlmX0RieTNva19jaVpMZHhtaVNHQS02ZGNlY3JXWHZMbmUxYVh1d21nZW5jQi1rcE02MmVoNDZYNXdWMTc2OFE3T2MtRHFyVlgwSG1IeVRHOEVVLV9QbWZZQUlYNlU0TFBzWGNpUHhibXk5ck14VTc0WUNhdk5tTUZ1ZVJ3c3NENldBSlBqNjJEMnUyOU83ckVZSVBnN2VBMnNnb0k3ZmFjYnZuS2VTY1k9JmNvbnRleHRUeXBlPW5vbmUmaWQ9NTc1NDExNiIsImFjY291bnRfaWQiOjIwODIzMTEsImNvbnRlbnRfaWQiOiJmdGFfY2g1X2Rhc2hfdHZfZHJtIiwiZmlsZXMiOiIiLCJ1c2VyX3Rva2VuIjoiZGpKOE1UUTNmTnoxNUh1M2NUZW5nM2RBc2E0M1NSM2h5SXJMdWxXUVduR0VqcW81eUdBdVdmXzhjS2hzOVVLN2pscFVZeV9DTHE1R0VIYUp0ZjBvWXhmWkFhNmw1MWctU3JxU1Zva0lyVnlIMmlJamNHbmJic0xQeWhpMHNjUk9Fb0IzdUNKUmpYQ0czTUFZVlQ3cVRFZG9QOFplb1NQaEY2SnVNOFhiNEE4Y0FPYnEzYVQ2bk85Zl9EYnkzb2tfY2laTGR4bWlTR0EtNmRjZWNyV1h2TG5lMWFYdXdtZ2VuY0Ita3BNNjJlaDQ2WDV3VjE3NjhRN09jLURxclZYMEhtSHlURzhFVS1fUG1mWUFJWDZVNExQc1hjaVB4Ym15OXJNeFU3NFlDYXZObU1GdWVSd3NzRDZXQUpQajYyRDJ1MjlPN3JFWUlQZzdlQTJzZ29JN2ZhY2J2bktlU2NZPSIsInVkaWQiOiIiLCJhZGRpdGlvbmFsX2Nhc19zeXN0ZW0iOjE0N30%3d&signature=XstC1bcxrvE3t3TpU8oVvvAcJAE%3d
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fakV73e.png" group-title="SINGAPORE",Channel 5
 https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/147/assetId/316288/assetType/media/assetFileId/5754116/contextType/PLAYBACK/isAltUrl/False/a.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TVRRM2ZQVnpjN2cydnpxV0cxZnlVUXAyX0hDU1RrbU9xOW9PY28xa0xsTG5fMFRpSHZ3MVlhSDZuZ05XYXVJUDQzTUpHajVxWTVxSXc4cGFvX0puR3pJc3RRYUhSMUhNQ3J4cHpPWnJrQXkxU2xxRGVFMnRTeGRTalR3T1ByaGhRYlNsSWtUTVRUSjdtWF8zTlZUU1BHV0JBQTlRVDRNdWpFeFNTZ2pjelV3SGtMQ1R5aTFlVVpNYU5PTXhJVm54SzZFY2xVdngtZ0hIVWxLeUl2dnFEOUd1eTNkYVBZa3Fac0FxY01yaWtaUkZHTHQ1TjlmNFVzVE1fTXJHbEV5UUx5ODUzZmd5aDFEU0hkdkp6UDhSZnNnbHd2QjBVLU9faktTT1UyMW91T2hsNlhDMWFVWDNQcnFMdTV0TW9XU3FuN2hFdmM4cTBwUVdVdW0yX2YwMHVyWTdmVzA5Ql9iZ0owTk95bUZpdC1hWFd2ZzgmY29udGV4dFR5cGU9bm9uZSZpZD01NzU0MTI0IiwiYWNjb3VudF9pZCI6MjA4MjMxMSwiY29udGVudF9pZCI6ImZ0YV9jaDhfZGFzaF90dl9kcm0iLCJmaWxlcyI6IiIsInVzZXJfdG9rZW4iOiJkako4TVRRM2ZQVnpjN2cydnpxV0cxZnlVUXAyX0hDU1RrbU9xOW9PY28xa0xsTG5fMFRpSHZ3MVlhSDZuZ05XYXVJUDQzTUpHajVxWTVxSXc4cGFvX0puR3pJc3RRYUhSMUhNQ3J4cHpPWnJrQXkxU2xxRGVFMnRTeGRTalR3T1ByaGhRYlNsSWtUTVRUSjdtWF8zTlZUU1BHV0JBQTlRVDRNdWpFeFNTZ2pjelV3SGtMQ1R5aTFlVVpNYU5PTXhJVm54SzZFY2xVdngtZ0hIVWxLeUl2dnFEOUd1eTNkYVBZa3Fac0FxY01yaWtaUkZHTHQ1TjlmNFVzVE1fTXJHbEV5UUx5ODUzZmd5aDFEU0hkdkp6UDhSZnNnbHd2QjBVLU9faktTT1UyMW91T2hsNlhDMWFVWDNQcnFMdTV0TW9XU3FuN2hFdmM4cTBwUVdVdW0yX2YwMHVyWTdmVzA5Ql9iZ0owTk95bUZpdC1hWFd2ZzgiLCJ1ZGlkIjoiIiwiYWRkaXRpb25hbF9jYXNfc3lzdGVtIjoxNDd9&signature=3GlC6h6n5GdiVSqWVwum7aY3DBg%3d
+#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TVRRM2ZGbTBNZlNUUzA1V3NmQWJwSGpEWTBWSEg2TndYd2JUY09xZVpjMHZSSTVxX25SQXBqY3N0SEhpSFFOSk8xYlpyRWRubGdMNFFjVGpJVEp4dF9vS25lOFFXX2NVVGVsQ2RweDZwTHFmektZQmI3UFlNbTRZMGRIOXVvNWZVTzRWbWNvYjV1RFBHMjl6ekV0R0dUZ29RYjVmRFozc2VIWHFFNF96dUhMWklSbmlDWDdUNXIwbjcwSTZ0TDVJWlk0ZE5Dc1hHZThtdHF5aWJmMGZ0U0xmcFdfQm5UUm1JeC05N0x1VjhtRUtkR1ptLWlmdU0yTzFxV0QwbDVVblEyTlFEQjVTV2hRNlZvdDdSX0NUZzlBZ01iYWxnbFhjbzZOdF92dzhteXdzTkFTZWJDdjRDR2drZXdyZlg4cmZWUlQzaGxsWXZ0VUk0bm5yMmxVZmFkdjRhd0NFeGNfbDl4b2ExbjNZUUNnaG81S2R0dkVuVGpReXNtWExxTG5BYXpfTXNRPT0mY29udGV4dFR5cGU9bm9uZSZpZD01NzU0MTI0IiwiYWNjb3VudF9pZCI6MjA4MjMxMSwiY29udGVudF9pZCI6ImZ0YV9jaDhfZGFzaF90dl9kcm0iLCJmaWxlcyI6IiIsInVzZXJfdG9rZW4iOiJkako4TVRRM2ZGbTBNZlNUUzA1V3NmQWJwSGpEWTBWSEg2TndYd2JUY09xZVpjMHZSSTVxX25SQXBqY3N0SEhpSFFOSk8xYlpyRWRubGdMNFFjVGpJVEp4dF9vS25lOFFXX2NVVGVsQ2RweDZwTHFmektZQmI3UFlNbTRZMGRIOXVvNWZVTzRWbWNvYjV1RFBHMjl6ekV0R0dUZ29RYjVmRFozc2VIWHFFNF96dUhMWklSbmlDWDdUNXIwbjcwSTZ0TDVJWlk0ZE5Dc1hHZThtdHF5aWJmMGZ0U0xmcFdfQm5UUm1JeC05N0x1VjhtRUtkR1ptLWlmdU0yTzFxV0QwbDVVblEyTlFEQjVTV2hRNlZvdDdSX0NUZzlBZ01iYWxnbFhjbzZOdF92dzhteXdzTkFTZWJDdjRDR2drZXdyZlg4cmZWUlQzaGxsWXZ0VUk0bm5yMmxVZmFkdjRhd0NFeGNfbDl4b2ExbjNZUUNnaG81S2R0dkVuVGpReXNtWExxTG5BYXpfTXNRPT0iLCJ1ZGlkIjoiIiwiYWRkaXRpb25hbF9jYXNfc3lzdGVtIjoxNDd9&signature=w4%2b3EhGSP8YG6ob5lbOdfeZLOcE%3d
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rwn2fVK.png" group-title="SINGAPORE",Channel 8
 https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/147/assetId/260581/assetType/media/assetFileId/5754124/contextType/PLAYBACK/isAltUrl/False/a.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TVRRM2ZEd3QyZzUxTnJKMUU3MUNBajhWellVRzBXbUVObTJLT2NjT1BjSUQ1NkpwejAtZy1ybW5vZFYzbGJDMUY3OUh4clkyOThIdzltNnJrSVk5UFdNRjM5TnZEUFVZX1NEVEhvQ3pUZTBYRlNoUjhhWFBjWTdKcFl3NWhMOFZ4LXppdTEyZjZ6T2JLVWtIbWo0TUdEX2pfVHJwMFFqZXJvVVpFOWZPM3FUU0R3VWx4Q25HcXlvM0ItYmJuTWZUbmFfWk9XeVllcGJaUUZHUVhmZ2Zlcm5EUGxmLWRwTm9tUXl0WXYyMXhrdVZVZ0htLXBSTE1qUVRqNldGT05yX0d5V1NqX00talRVbEt2Z0ZEUno4M3puMzJycG9yR0Vta3hiLUU4d1BTSHVuMzdCQV9yektmNGExS0VfYzZ1Rk1leTBIaklLQkxBWGpYcGtPVk5BdjRhQ3hJQ0ZBMGxEVFd0MGxZREhSUkRTejl5ZUImY29udGV4dFR5cGU9bm9uZSZpZD01NzU0MTU2IiwiYWNjb3VudF9pZCI6MjA4MjMxMSwiY29udGVudF9pZCI6ImZ0YV9jaFVfZGFzaF93ZWJfZHJtIiwiZmlsZXMiOiIiLCJ1c2VyX3Rva2VuIjoiZGpKOE1UUTNmRHd0Mmc1MU5ySjFFNzFDQWo4VnpZVUcwV21FTm0yS09jY09QY0lENTZKcHowLWctcm1ub2RWM2xiQzFGNzlIeHJZMjk4SHc5bTZya0lZOVBXTUYzOU52RFBVWV9TRFRIb0N6VGUwWEZTaFI4YVhQY1k3SnBZdzVoTDhWeC16aXUxMmY2ek9iS1VrSG1qNE1HRF9qX1RycDBRamVyb1VaRTlmTzNxVFNEd1VseENuR3F5bzNCLWJibk1mVG5hX1pPV3lZZXBiWlFGR1FYZmdmZXJuRFBsZi1kcE5vbVF5dFl2MjF4a3VWVWdIbS1wUkxNalFUajZXRk9Ocl9HeVdTal9NLWpUVWxLdmdGRFJ6ODN6bjMycnBvckdFbWt4Yi1FOHdQU0h1bjM3QkFfcnpLZjRhMUtFX2M2dUZNZXkwSGpJS0JMQVhqWHBrT1ZOQXY0YUN4SUNGQTBsRFRXdDBsWURIUlJEU3o5eWVCIiwidWRpZCI6IiIsImFkZGl0aW9uYWxfY2FzX3N5c3RlbSI6MTQ3fQ%3d%3d&signature=bMFXDxQBnR3h5lrO50INWcWMU%2f8%3d
+#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TVRRM2ZGWW1vU1hkbDJybjRrS241YmNnZFlDMzV3OV95MVBGZzlYUDFzTjRITHh1dU43OU9YWlNxc3l0d2lfWkcwUFRyclY3X3NheHRRX0p4c2xyczFWVTBVanh5dnV2aUFFVWVaTWdsVFkyOTNqMUNCOXlucWZadGw2Ql9mWkF5M0ZNODB1ZmltUFZnTktfRFRQVU93M1FHay1ZRkZYZXZJOGlqTjljdlZzV3dCQUltVkpzdl94TTE5MlRFdFpiMHhkVjdXQUcyV2pVSHNkSUlvTWdUeUUzeS11MldVOGJuSDVEc3pnREM0Y1RocTh6SzMyTHQ5aFZjUVMzQ1dlWVQ1T2tfd3V4Wl96V3o1SlN3aWNWNE9OdGY1cjNNbi1ZU3JfenFxVjlJZ2VvUWNrQXZ0aGVFdTJZR0pXNE9NX3BDMXp3NWc9PSZjb250ZXh0VHlwZT1ub25lJmlkPTU3NTQxNTYiLCJhY2NvdW50X2lkIjoyMDgyMzExLCJjb250ZW50X2lkIjoiZnRhX2NoVV9kYXNoX3dlYl9kcm0iLCJmaWxlcyI6IiIsInVzZXJfdG9rZW4iOiJkako4TVRRM2ZGWW1vU1hkbDJybjRrS241YmNnZFlDMzV3OV95MVBGZzlYUDFzTjRITHh1dU43OU9YWlNxc3l0d2lfWkcwUFRyclY3X3NheHRRX0p4c2xyczFWVTBVanh5dnV2aUFFVWVaTWdsVFkyOTNqMUNCOXlucWZadGw2Ql9mWkF5M0ZNODB1ZmltUFZnTktfRFRQVU93M1FHay1ZRkZYZXZJOGlqTjljdlZzV3dCQUltVkpzdl94TTE5MlRFdFpiMHhkVjdXQUcyV2pVSHNkSUlvTWdUeUUzeS11MldVOGJuSDVEc3pnREM0Y1RocTh6SzMyTHQ5aFZjUVMzQ1dlWVQ1T2tfd3V4Wl96V3o1SlN3aWNWNE9OdGY1cjNNbi1ZU3JfenFxVjlJZ2VvUWNrQXZ0aGVFdTJZR0pXNE9NX3BDMXp3NWc9PSIsInVkaWQiOiIiLCJhZGRpdGlvbmFsX2Nhc19zeXN0ZW0iOjE0N30%3d&signature=tq3YmVcjPi1Fx965a2tPi3UiYu8%3d
 #EXTINF:-1 tvg-logo="https://i.imgur.com/69ePQhz.png" group-title="SINGAPORE",Channel U
 https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/147/assetId/330332/assetType/media/assetFileId/5754156/contextType/PLAYBACK/isAltUrl/False/a.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TVRRM2ZBa1NEZEo2SC1BS2lvRFNTTy1hXzlxRDhJX3luVlZnLVc4Tm1WUXQ3b2RJeW8yX3pHaGJROERwSVFvazJqdzhsOHduWjVFUE5hOE9nT2hycHJqcXZQMTYxZExMaWYwdWxidlkwemZlaU5FVzBwSEFnbzNpeTVnLTB3V0ZsOUUwYThhZWk1c0U4emczdzZFUHJKRW5hQXR0UDJzX09icGdta1NrRUxNNXV6d3l6ajVMWk1zcFRveHlBZE1LZnpoWF9VMWg5UGRfV2dNcWZncnVpQ21zUzJDY2hJd1p6a0tsRGIwS01jRWZRb216ZlNyNHZjdm5rUy1ITnVWV1J3ak1UQVg3aWwtdjdrSjF1Szh6VFBjRGJuUUE5ajl0TWlIRzJOQlR0b2JjRFhmX0h3aTBuVHdrTmNCZnJsbDVXS3BMOTJkZzM5ZjdoTXFLRElSLXBCbTk2ajI2cXNQRzRYamRyVmp4NjRocU11VllIQTJHWDIwYy1fYWdqdElGWm1RS0dnPT0mY29udGV4dFR5cGU9bm9uZSZpZD01NzU0MDY2IiwiYWNjb3VudF9pZCI6MjA4MjMxMSwiY29udGVudF9pZCI6ImZ0YV9zdXJpYV9kYXNoX3R2X2RybSIsImZpbGVzIjoiIiwidXNlcl90b2tlbiI6ImRqSjhNVFEzZkFrU0RkSjZILUFLaW9EU1NPLWFfOXFEOElfeW5WVmctVzhObVZRdDdvZEl5bzJfekdoYlE4RHBJUW9rMmp3OGw4d25aNUVQTmE4T2dPaHJwcmpxdlAxNjFkTExpZjB1bGJ2WTB6ZmVpTkVXMHBIQWdvM2l5NWctMHdXRmw5RTBhOGFlaTVzRTh6ZzN3NkVQckpFbmFBdHRQMnNfT2JwZ21rU2tFTE01dXp3eXpqNUxaTXNwVG94eUFkTUtmemhYX1UxaDlQZF9XZ01xZmdydWlDbXNTMkNjaEl3WnprS2xEYjBLTWNFZlFvbXpmU3I0dmN2bmtTLUhOdVZXUndqTVRBWDdpbC12N2tKMXVLOHpUUGNEYm5RQTlqOXRNaUhHMk5CVHRvYmNEWGZfSHdpMG5Ud2tOY0JmcmxsNVdLcEw5MmRnMzlmN2hNcUtESVItcEJtOTZqMjZxc1BHNFhqZHJWang2NGhxTXVWWUhBMkdYMjBjLV9hZ2p0SUZabVFLR2c9PSIsInVkaWQiOiIiLCJhZGRpdGlvbmFsX2Nhc19zeXN0ZW0iOjE0N30%3d&signature=BNAEb6jJ1iN%2bhBHr156K%2fj0496o%3d
+#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TVRRM2ZBZkZER25qVW9EMWhWczZJUHhlZ285V3U4Y3NVa1VBZGRHSWpoVWEtYk1YRTZfSlV4Qzh2V0cxZlI2RXlBbUs1RWk4ZTR3VWRZTnVMQTVqWDNaaURCcXNnclJra1lkSGZ0Z1cwci12dHdpLXBqaUtWajJ3NUsxaGVtOWhpYzBabnpHQ21rRFZZTGtkaXB5cWNNRXloajNnSW4xU3NFaEdzUXBvT0FIZDlBc2VJZzlvTDRCcl9mSy1fMFhtRHdSVTJCQ2JpaHZyRTh2TnhRTkMyZTFPYnJ2V1NMU01FYzFoSzdFb2RHbE9XamdmQmR2dHFiU1JoX1NYdi1vckw4SG1mZmRWcUo5V2hBckFnajg0VU1fMl85SkdUbkpqN21FRlkxN21NWkFIMmJLT2ZJQXIyYTFfMnAzTXlCd0Y2eUlEQTZZdGlONFdMTFp3TGtaZFZiYWpUQ2M9JmNvbnRleHRUeXBlPW5vbmUmaWQ9NTc1NDA2NiIsImFjY291bnRfaWQiOjIwODIzMTEsImNvbnRlbnRfaWQiOiJmdGFfc3VyaWFfZGFzaF90dl9kcm0iLCJmaWxlcyI6IiIsInVzZXJfdG9rZW4iOiJkako4TVRRM2ZBZkZER25qVW9EMWhWczZJUHhlZ285V3U4Y3NVa1VBZGRHSWpoVWEtYk1YRTZfSlV4Qzh2V0cxZlI2RXlBbUs1RWk4ZTR3VWRZTnVMQTVqWDNaaURCcXNnclJra1lkSGZ0Z1cwci12dHdpLXBqaUtWajJ3NUsxaGVtOWhpYzBabnpHQ21rRFZZTGtkaXB5cWNNRXloajNnSW4xU3NFaEdzUXBvT0FIZDlBc2VJZzlvTDRCcl9mSy1fMFhtRHdSVTJCQ2JpaHZyRTh2TnhRTkMyZTFPYnJ2V1NMU01FYzFoSzdFb2RHbE9XamdmQmR2dHFiU1JoX1NYdi1vckw4SG1mZmRWcUo5V2hBckFnajg0VU1fMl85SkdUbkpqN21FRlkxN21NWkFIMmJLT2ZJQXIyYTFfMnAzTXlCd0Y2eUlEQTZZdGlONFdMTFp3TGtaZFZiYWpUQ2M9IiwidWRpZCI6IiIsImFkZGl0aW9uYWxfY2FzX3N5c3RlbSI6MTQ3fQ%3d%3d&signature=Pq6B40w%2bfsonLeQKzqdC7Dpk%2f2s%3d
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fDftLuO.png" group-title="SINGAPORE",Suria
 https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/147/assetId/237652/assetType/media/assetFileId/5754066/contextType/PLAYBACK/isAltUrl/False/a.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dIoU3FG.png" group-title="USA",A&E
 http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07cT0umJFdhO3XL9SOseu3_l/ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8DZL1sg.png" group-title="USA",ABC
-http://xxxxlocal.com:8080/Dragon7547usa/lMpwbkE9a3/14321
+http://tv.master22.xyz:25461/eliluna1/gqdZxaWzcn/59951
 #EXTINF:-1 tvg-logo="https://i.imgur.com/74Bs8Kn.png" group-title="USA",AMC
 http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/751
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VBD4ugr.png" group-title="USA",Azteca America
@@ -2651,17 +2653,17 @@ https://v-px.mybtv.net/event/41/1280x720.m3u8?start_time=2021-05-16T23%3A45%3A00
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bQPc9pg.png" group-title="USA",Bravo
 http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/13101
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KJR6lt0.png" group-title="USA",CBS
-http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/13167
+http://s1.showplustv.com:1997/iptvtree2021/adAXCXhWuH9Mj515sda/61736
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JOCjq3R.png" group-title="USA",Comedy Central
 http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/11191
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Q6AoC5h.png" group-title="USA",Fox
-http://xxxxlocal.com:8080/Dragon7547usa/lMpwbkE9a3/11418
+http://s1.showplustv.com:1997/iptvtree2021/adAXCXhWuH9Mj515sda/62384
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8dgknme.png" group-title="USA",FX
 http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/11184
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Game_Show_Network_2018.svg/1024px-Game_Show_Network_2018.svg.png" group-title="USA",Game Show Network
 http://n1.klowdtv.net/live2/gsn_720p/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OzHkxwZ.png" group-title="USA",NBC
-http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/14622
+http://s1.showplustv.com:1997/iptvtree2021/adAXCXhWuH9Mj515sda/61699
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/1920px-Showtime.svg.png" group-title="USA",Showtime
 http://51.79.82.231:8080/US_SHOWTIME_EAST/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LHXa485.png" group-title="USA",Syfy
@@ -2671,15 +2673,15 @@ http://51.79.82.231:8080/US_TBS_EAST_USA/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ydm3Ss2.png" group-title="USA",Telemundo
 http://fling.sytes.net:25461/f8GFniePT4/Sk6ZQGdz7n/1596
 #EXTINF:-1 tvg-logo="https://i.imgur.com/umJbqNY.png" group-title="USA",TNT
-http://xxxxlocal.com:8080/Dragon7547usa/lMpwbkE9a3/11563
+http://gooserace.xyz:80/play/8RKaarZp2hb82YDzh8OYR6DJipHaQxxaPUNG_cxMD-0
 #EXTINF:-1 tvg-logo="https://i.imgur.com/l3iqIit.png" group-title="USA",Universo
 http://fling.sytes.net:25461/f8GFniePT4/Sk6ZQGdz7n/1864
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PEP2agz.png" group-title="USA",Univisión
-http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/14630
+http://fling.sytes.net:25461/f8GFniePT4/Sk6ZQGdz7n/1701
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Logo_UniM%C3%A1s_2021.svg/1920px-Logo_UniM%C3%A1s_2021.svg.png" group-title="USA",Unimás
 http://fling.sytes.net:25461/f8GFniePT4/Sk6ZQGdz7n/2107
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/1920px-USA_Network_logo_%282016%29.svg.png" group-title="USA",USA Network
-http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/13099
+http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3605
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HELzzCq.png" group-title="UK",4seven
 http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbIOVzPMiViaSogD7TZl6KVrXVtTWnveJJ_uxgIiFfkD9/ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/haov0b4.png" group-title="UK",5Select
@@ -2689,11 +2691,11 @@ http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/77389
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Nvme1rf.png" group-title="UK",BBC Alba
 http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/278520
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oGzLsiq.png" group-title="UK",BBC One
-http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/22246
+http://sbr.siber.vip:2086/siber4603/mDeqbRJ26dNJ/18043
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iMfng6J.png" group-title="UK",BBC Two
-http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/22244
+http://sbr.siber.vip:2086/siber4603/mDeqbRJ26dNJ/18044
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nywptTp.png" group-title="UK",BBC Four
-http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/22243
+http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/88663
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kr2UTHB.png" group-title="UK",BBC Scotland
 http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/77368
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/37/CBBC_2016_logo.svg/800px-CBBC_2016_logo.svg.png" group-title="UK",CBBC
@@ -2701,9 +2703,9 @@ http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/22235
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XJ9qgU9.png" group-title="UK",Challenge
 http://190.115.29.22:8080/carter/GUV1bMq2VK/12512
 #EXTINF:-1 tvg-logo="https://i.imgur.com/r0sl8tu.png" group-title="UK",Channel 4
-http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/22232
+http://ky-tv.cc:80/toyota18/toyota18/189920.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/itZR2eq.png" group-title="UK",Channel 5
-http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/22231
+http://ky-tv.cc:80/toyota18/toyota18/189921.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wRVi7bz.png" group-title="UK",Dave
 http://012345x.com:999/DtDXtvnXej/wvNoap9Zrl/997
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yny6n9T.png" group-title="UK",E4
@@ -2713,19 +2715,19 @@ http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/2867
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IZ5MINa.png" group-title="UK",More4
 http://190.115.29.22:8080/carter/GUV1bMq2VK/1295
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/ITV_logo_2019.svg/1200px-ITV_logo_2019.svg.png" group-title="UK",ITV
-http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/22223
+http://sbr.siber.vip:2086/siber4603/mDeqbRJ26dNJ/18049
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/35/ITV2_logo_2015.svg/1920px-ITV2_logo_2015.svg.png" group-title="UK",ITV2
-http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/22222
+http://sbr.siber.vip:2086/siber4603/mDeqbRJ26dNJ/18050
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f6/ITV3_logo_2013.svg/1920px-ITV3_logo_2013.svg.png" group-title="UK",ITV3
-http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/22221
+http://sbr.siber.vip:2086/siber4603/mDeqbRJ26dNJ/18051
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d3/ITV4_logo_2013.svg/1920px-ITV4_logo_2013.svg.png" group-title="UK",ITV4
-http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/22220
+http://sbr.siber.vip:2086/siber4603/mDeqbRJ26dNJ/18052
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4f/ITVBe_logo_2014-.svg/1920px-ITVBe_logo_2014-.svg.png" group-title="UK",ITVBe
 http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/77581
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/S4C_logo_2014.svg/1024px-S4C_logo_2014.svg.png" group-title="UK",S4C
-http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/77399
+http://ky-tv.cc:80/toyota18/toyota18/189997.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Sky_Showcase_2021.svg/1920px-Sky_Showcase_2021.svg.png" group-title="UK",Sky Showcase
-http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/10535
+http://sbr.siber.vip:2086/siber4603/mDeqbRJ26dNJ/18066
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/TV_Klan.svg/1920px-TV_Klan.svg.png" group-title="ALBANIA",Klan
 http://190.115.29.22:8080/carter/GUV1bMq2VK/15661
 #EXTINF:-1 tvg-logo="https://i.imgur.com/u9bj8ZK.png" group-title="ALBANIA",Klan Plus
