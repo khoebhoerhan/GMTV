@@ -624,11 +624,11 @@ http://103.194.169.171:8282/CZ_NOVA_CINEMA_HD/mono.m3u8?token=93a611c10082e5eec5
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HGtsnIL.png" group-title="ALBANIAN MOVIES",RTSH Film
 https://tvlive.rtsh.dev/live/rtsh_film_ott/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0ue1WNG.png" group-title="ALBANIAN MOVIES",Tring Action
-http://albastream.fun:88/live/Esjona/aUB7me8K1m5GAZp9/1166.m3u8
+http://93.157.62.180/TringAction/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/z9ZRFWq.png" group-title="ALBANIAN MOVIES",Tring Comedy
 http://api.iptveditor.com/ForumiIPTV_SHQIP/Kanale-shqiptare/1040
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ac0zB6F.png" group-title="ALBANIAN MOVIES",Tring Fantasy
-http://103.194.169.171:8282/AL:_Tring_Fantasy_HD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
+http://93.157.62.180/TringFantasy/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PMUnREa.png" group-title="ALBANIAN MOVIES",Tring Life
 http://93.157.62.180/TringLife/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/37hGWf2.png" group-title="ALBANIAN MOVIES",Tring Super
@@ -2745,13 +2745,13 @@ https://tvlive.rtsh.dev/live/rtsh_plus_ott/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1diHeU5.png" group-title="ALBANIA",RTSH Shqip
 https://tvlive.rtsh.dev/live/rtsh_shqip_ott/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/X4lzdK3.png" group-title="ALBANIA",Smile
-http://line.pito-tv.com:80/MguaBxyVfO/QWHrjHjAtT/111
+http://93.157.62.180/TringSmile/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Top_Channel.svg/1920px-Top_Channel.svg.png" group-title="ALBANIA",Top Channel
 http://190.115.29.22:8080/carter/GUV1bMq2VK/1050
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4asrpwB.png" group-title="ALBANIA",Tring 3+
 http://190.115.29.22:8080/carter/GUV1bMq2VK/1052
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LwUAEdK.png" group-title="ALBANIA",Tring Jolly
-http://line.pito-tv.com:80/MguaBxyVfO/QWHrjHjAtT/51
+http://93.157.62.180/JollyHD/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Vizion_Plus.svg/1280px-Vizion_Plus.svg.png" group-title="ALBANIA",Vizion Plus
 http://api.iptveditor.com/ForumiIPTV_SHQIP/Kanale-shqiptare/1026
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RKkYHR9.png" group-title="ARGENTINA",America
