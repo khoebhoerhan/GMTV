@@ -390,7 +390,7 @@ http://rr2.dens.tv/s/s38/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f8/SIC_Internacional.png" group-title="PORTUGUESE ENTERTAINMENT",SIC Internacional
 http://live.impresa.pt/live/sicint/sicint.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pAcflJ5.png" group-title="PORTUGUESE ENTERTAINMENT",TVI Internacional
-http://qqtv.nl:8080/masud/masud/416659
+https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8xMy8yMDIyIDEyOjA6MyBQTSZoYXNoX3ZhbHVlPU9TMlJPNTlmT3h3bjRTVklROS96V2c9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD00NGUxMWU5My0yNDdjLTQ1ZjgtOTliOC04ZDIzMDgzYWJiMWU=
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9d/LBC_INTERNATIONAL.png" group-title="WORLD ENTERTAINMENT",LBC International
 https://shls-lbci-prod-dub.shahid.net/out/v1/d8cce30036e743318a7f338539689968/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Logo_Pro_TV_Interna%C8%9Bional_%282017%29.svg/1200px-Logo_Pro_TV_Interna%C8%9Bional_%282017%29.svg.png" group-title="ROMANIAN ENTERTAINMENT",Pro TV International
@@ -3265,7 +3265,7 @@ http://probox.mio4ever.eu:7575/m1roxbr0x012/gs7z2Ghs51x8q/21377
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dHSH6qh.png" group-title="PORTUGAL",TVI
 https://video-auth7.iol.pt/live_edge/tvi_abr/edge_servers/tvi-480p/chunks.m3u8?
 #EXTINF:-1 tvg-logo="https://i.imgur.com/D2PFTzV.png" group-title="PORTUGAL",TVI Ficção
-http://s1.showplustv.com:1997/iptvtree2021/adAXCXhWuH9Mj515sda/51542
+https://video-auth2.iol.pt/live_tvi_ficcao/live_tvi_ficcao/edge_servers/tvificcao-720p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PFJ5gVQ.png" group-title="PORTUGAL",TVI Reality
 https://video-auth2.iol.pt/live_tvi_direct/live_tvi_direct/edge_servers/tvireality-480p/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vhO8CMi.png" group-title="ROMANIA",Antena 1
