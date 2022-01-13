@@ -373,12 +373,10 @@ https://lnk.ec/waku2?shareext.ts
 https://liveanevia.mncnow.id/live/eds/NHKWorldPremium/sa_dash_vmx/NHKWorldPremium.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BQoyBoS.png" group-title="CHINESE ENTERTAINMENT",CCTV-4 中文国际
 http://183.207.248.71:80/cntv/live1/cctv-4/cctv-4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rL5gaK5.png" group-title="CHINESE ENTERTAINMENT",Formosa
-http://seb.sason.top/ptv/ftv.php?id=ms
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DZaD1Lf.png" group-title="CHINESE ENTERTAINMENT",TVB Xing He
-https://nonton.site:8443/live/lancariptv/gratislagi/37360.m3u8
+http://iptv.tvfix.org/hls/tvbxh2.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e9/TVBS_Asia_logo_2017.png" group-title="CHINESE ENTERTAINMENT",TVBS Asia
-https://nonton.site:8443/live/lancariptv/gratislagi/37361.m3u8
+http://iptv.tvfix.org/hls/tvbs.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/44aJ4YV.png" group-title="CHINESE ENTERTAINMENT",Xing Kong
@@ -1010,7 +1008,7 @@ https://nonton.site:8443/live/lancariptv/gratislagi/37398.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mThnlFK.png" group-title="KNOWLEDGE",Smithsonian Channel
 https://smithsonianaus-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5QGgJe8.png" group-title="KNOWLEDGE",Love Nature
-https://nonton.site:8443/live/lancariptv/gratislagi/36767.m3u8
+http://iptv.tvfix.org/hls/lovenature4k.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XD8Vr0d.jpg" group-title="KNOWLEDGE",NASA TV
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ae/RTD-TV-logo.png" group-title="KNOWLEDGE",RT Documentary
@@ -1285,8 +1283,12 @@ https://abscbn-ono.akamaized.net/midroll/amagi_hls_data_abscbnAAA-abscbn-telerad
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00738-newsuk-talkradiotv-ono/9c6bf511-272e-4ed3-b2a0-a0b11eba544f/0.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KrpIbzA.png" group-title="MANDARIN NEWS",CCTV-13 新闻
 http://39.135.138.60:18890/PLTV/88888910/224/3221225638/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/j2pKcAe.png" group-title="MANDARIN NEWS",CTS News
+https://raw.githubusercontent.com/etag2000/IPTV/YTlive/ctsnews.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/6/67/CTV_News_logo.png" group-title="MANDARIN NEWS",CTV News
+https://raw.githubusercontent.com/etag2000/IPTV/YTlive/ctvnews.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/e/e2/FTV_News_Logo.png" group-title="MANDARIN NEWS",FTV News
-http://210.61.56.23/hls/ftvtv/index.m3u8
+http://50.7.61.148:30080/Entry/ftvnews
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eSNdW3n.png" group-title="MANDARIN NEWS",Phoenix InfoNews Channel
 https://playtv-live.ifeng.com/live/06OLEEWQKN4_tv1.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Aw2dGfj.png" group-title="MANDARIN NEWS",Phoenix Chinese Channel
@@ -1298,7 +1300,7 @@ https://cdn.hkdtmb.com/hls/31/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5gGkYuD.png" group-title="MANDARIN NEWS",TVB News
 http://cdn.hkdtmb.com/hls/83/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/1/1c/Tvbsnews.png" group-title="MANDARIN NEWS",TVBS News
-https://nonton.site:8443/live/lancariptv/gratislagi/29600.m3u8
+http://iptv.tvfix.org/hls/tvbsnews.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Logo_24HorasTVN.svg/1920px-Logo_24HorasTVN.svg.png" group-title="LATINO NEWS",24 Horas
 http://45.161.188.242:88/24horas/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XyKKCz3.png" group-title="LATINO NEWS",A24
@@ -2121,6 +2123,16 @@ https://5-61-37-241.livesports24.online/rusetantaeurasia.m3u8
 https://5-61-37-241.livesports24.online/setantaplusru.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XodgpkR.png" group-title="RUSSIAN SPORTS",Viasat Sport
 https://persik.tv/stream/3602/287583/10249.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kTXQVRD.png" group-title="TAIWANESE SPORTS",Eleven Sports 1
+rtmp://59.124.75.138/sat/tv731
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MomX4fY.png" group-title="TAIWANESE SPORTS",Eleven Sports 2
+rtmp://59.124.75.138/sat/tv741
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PpgOT1K.png" group-title="TAIWANESE SPORTS",ELTA Sport 1
+http://50.7.61.148:30080/Entry/eltasport1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KhKwEJo.png" group-title="TAIWANESE SPORTS",ELTA Sport 2
+http://50.7.61.147:30080/Entry/eltasport2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OWFyLop.png" group-title="TAIWANESE SPORTS",ELTA Sport 3
+http://50.7.61.148:30080/Entry/eltasport3
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RAmXftW.png" group-title="HK SPORTS",Now Sports 4K
 http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07eRqZ94MhbJxVwAytXiTRpi/ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xURRv5Q.png" group-title="HK SPORTS",Now Sports 1
@@ -3356,6 +3368,14 @@ http://toptentv.xyz:8080/3143333180178705/2598854265/26605
 http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/4413
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Logo_SRF_zwei.svg/1920px-Logo_SRF_zwei.svg.png" group-title="SWITZERLAND",SRF zwei
 http://destiny4k.com:2086/live/ramotestcihaz/n5juaD9vaH7OPzZzY8Sj/55368.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/8/8a/CTS_Logo.png" group-title="TAIWAN",CTS 華視
+rtmp://59.124.75.157/sat/tv111
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/2/22/CTV_text.png" group-title="TAIWAN",CTV 中視
+rtmp://59.124.75.157/sat/tv091
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rL5gaK5.png" group-title="TAIWAN",Formosa
+rtmp://59.124.75.157/sat/tv051
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/4/43/TTV_Home_Channel_with_HD_2016.png" group-title="TAIWAN",TTV 台視
+rtmp://59.124.75.157/sat/tv071
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/ALTV_Logo.png/1200px-ALTV_Logo.png" group-title="THAILAND",ALTV 4
 https://thaipbs-ujxrch.cdn.byteark.com/live/playlist.m3u8
 EXTINF:-1 tvg-logo="https://i.imgur.com/jPZ1W5Y.png" group-title="THAILAND",Amarin TV
