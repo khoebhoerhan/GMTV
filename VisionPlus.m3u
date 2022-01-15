@@ -388,7 +388,7 @@ http://rr2.dens.tv/s/s38/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f8/SIC_Internacional.png" group-title="PORTUGUESE ENTERTAINMENT",SIC Internacional
 https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index_4.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pAcflJ5.png" group-title="PORTUGUESE ENTERTAINMENT",TVI Internacional
-https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8xMy8yMDIyIDEyOjA6MyBQTSZoYXNoX3ZhbHVlPU9TMlJPNTlmT3h3bjRTVklROS96V2c9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD00NGUxMWU5My0yNDdjLTQ1ZjgtOTliOC04ZDIzMDgzYWJiMWU=
+https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8xNS8yMDIyIDY6MDozIFBNJmhhc2hfdmFsdWU9ZnpRN1I2M0dBNzE0Tk56L1dVaWdYUT09JnZhbGlkbWludXRlcz0xNDQwJmlkPWE1NTc0Njk2LTM4NzktNDg1ZC05ZWM2LWRjYzdmNmIxYjVkMA==
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9d/LBC_INTERNATIONAL.png" group-title="WORLD ENTERTAINMENT",LBC International
 https://shls-lbci-prod-dub.shahid.net/out/v1/d8cce30036e743318a7f338539689968/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Logo_Pro_TV_Interna%C8%9Bional_%282017%29.svg/1200px-Logo_Pro_TV_Interna%C8%9Bional_%282017%29.svg.png" group-title="ROMANIAN ENTERTAINMENT",Pro TV International
@@ -447,8 +447,10 @@ http://stream.euroasia.lfstrm.tv/perviy_evrasia/1/index.m3u8
 http://cdnmg.secure.live.rtr-vesti.ru/live/smil:rtrp.smil/chunklist_b1600000.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Logo_de_TV_Chile.png/1024px-Logo_de_TV_Chile.png" group-title="WORLD ENTERTAINMENT",TV Chile
 http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/8978
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Logo_TVE-Internacional.svg/1024px-Logo_TVE-Internacional.svg.png" group-title="WORLD ENTERTAINMENT",TVE Internacional
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Logo_TVE-Internacional.svg/1024px-Logo_TVE-Internacional.svg.png" group-title="SPANISH ENTERTAINMENT",TVE Internacional
 http://rr.dens.tv/h/h158/index2.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Antena_3_Internacional_logo_2017.svg/800px-Antena_3_Internacional_logo_2017.svg.png" group-title="SPANISH ENTERTAINMENT",Antena 3 Internacional
+https://mdstrm.com/live-stream-playlist/5cae574f875a4e1adebe5c39.m3u8?access_token=DST4b676d7da5a2a92ee15f8efcbcd00606
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DcG1oo6.png" group-title="WORLD ENTERTAINMENT",Zee TV
 http://93.152.174.144:4000/play/zee/index.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -889,6 +891,8 @@ http://live.oldtvline.com:23000/mafrale3-150317/FiiH8aP54u/6644
 http://live.oldtvline.com:23000/mafrale3-150317/FiiH8aP54u/39071
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dJTyVaU.png" group-title="ITALIAN SERIES",Top Crime
 http://live.oldtvline.com:23000/mafrale3-150317/FiiH8aP54u/38620
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GCK0r0U.png" group-title="SPANISH SERIES",A3S
+https://mdstrm.com/live-stream-playlist/5cae562e0ca2f30815231c0f.m3u8?access_token=DST4b676d7da5a2a92ee15f8efcbcd00606
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Movistar-Fest.png" group-title="SPANISH SERIES",Movistar Fest
 http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/168992
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Movistar_Series.svg/1920px-Movistar_Series.svg.png" group-title="SPANISH SERIES",Movistar Series
