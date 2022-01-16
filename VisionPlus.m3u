@@ -1194,7 +1194,7 @@ https://skystreams-lh.akamaihd.net/i/SkyC3_1@500808/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YvWkxuj.png" group-title="CANADIAN NEWS",CBC News Network
 http://1111296894.rsc.cdn77.org/LS-ATL-54548-8/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5svjRRG.png" group-title="CANADIAN NEWS",CTV News Channel
-http://encodercdn1.frontline.ca/bespin/output/CTV_News_720p/playlist.m3u8
+http://ky-tv.cc:80/toyota18/toyota18/181909.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Pf8hnQK.png" group-title="CANADIAN NEWS",Ici RDI
 https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master_2500.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/35/GB_News_Logo.svg/1920px-GB_News_Logo.svg.png" group-title="BRITISH NEWS",GB News
@@ -1334,11 +1334,11 @@ http://s1.showplustv.com:1997/iptvtree2021/adAXCXhWuH9Mj515sda/61551
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/TVP_Info_logo.svg/1920px-TVP_Info_logo.svg.png" group-title="POLISH NEWS",TVP Info
 http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpinfo
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Polsat_News_2021_gradient.svg/800px-Polsat_News_2021_gradient.svg.png" group-title="POLISH NEWS",Polsat News
-http://91.226.51.126:8000/udp/239.100.10.26:2234
+http://probox.mio4ever.eu:7575/m1roxbr0x012/gs7z2Ghs51x8q/21160
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Polsat_News_2_2021_gradient.svg/800px-Polsat_News_2_2021_gradient.svg.png" group-title="POLISH NEWS",Polsat News 2
-http://91.226.51.126:8000/udp/239.100.10.27:2234
+http://probox.mio4ever.eu:7575/m1roxbr0x012/gs7z2Ghs51x8q/21157
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Tvn24_Logo.svg/800px-Tvn24_Logo.svg.png" group-title="POLISH NEWS",TVN 24
-http://91.226.51.126:8000/udp/239.100.10.10:2234
+http://probox.mio4ever.eu:7575/m1roxbr0x012/gs7z2Ghs51x8q/21202
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cojVDUx.png" group-title="POLISH NEWS",Wydarzenia 24
 http://95.211.250.54:80/SUPERSTACJA_TV/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TpBpUU4.png" group-title="PORTUGUESE NEWS",SIC Notícias
@@ -1444,7 +1444,7 @@ https://liveanevia.mncnow.id/live/eds/Bloomberg/sa_dash_vmx/Bloomberg.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/22YfDhK.png" group-title="BUSINESS NEWS",Bloomberg HT
 https://tv.ensonhaber.com/tv/tr/bloomberght/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/32Mdh4F.png" group-title="BUSINESS NEWS",BNN Bloomberg
-http://eztvlink.net:25461/DuQAWIS0vb/y8V9Lw0zo5/11760
+http://jjkdomain123.one:80/Charlie/Charlie/233883
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=N2NlNGIzZDgtMDIzYi0zZjU4LTg3ZDMtZjVjNDJlMzQwNjJh
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KxxvR2X.png" group-title="BUSINESS NEWS",CNBC
@@ -1626,21 +1626,21 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df975e2b27cf500092
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oGyeYgb.png" group-title="AMERICAN SPORTS",beIN Sports Xtra en Español
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60492fdd9989d30007ccd30a/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a121ad30-ae69-11eb-a87c-2ba0b5b8041d&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=ac3bc3c0-b26f-4c9c-8c94-988af191404a&userId=&serverSideAds=true
 #EXTINF:-1 tvg-logo="https://i.imgur.com/39bwyGI.png" group-title="AMERICAN SPORTS",beIN Sports
-http://s1.showplustv.com:1997/iptvtree2021/adAXCXhWuH9Mj515sda/9469
+http://190.115.29.22:8080/carter/GUV1bMq2VK/5391
 #EXTINF:-1 tvg-logo="https://i.imgur.com/39bwyGI.png" group-title="CANADIAN SPORTS",beIN Sports
 http://the827solutions.com:25461/NE99101/p3szcPmhSN/49
 #EXTINF:-1 tvg-logo="https://i.imgur.com/x8049OP.png" group-title="CANADIAN SPORTS",beIN Sports Xtra
 http://status.tehw00t.net/miniProxy.php/https://bein-xtra-samsung-canada.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/MLBNetworkLogo.svg/800px-MLBNetworkLogo.svg.png" group-title="AMERICAN SPORTS",MLB Network
-http://s1.showplustv.com:1997/iptvtree2021/adAXCXhWuH9Mj515sda/9390
+http://fling.sytes.net:25461/f8GFniePT4/Sk6ZQGdz7n/2142
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gZXSAhf.png" group-title="AMERICAN SPORTS",NFL Network
-http://s1.showplustv.com:1997/iptvtree2021/adAXCXhWuH9Mj515sda/9356
+http://probox.mio4ever.eu:7575/m1roxbr0x012/gs7z2Ghs51x8q/23071
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LH4EVbg.png" group-title="AMERICAN SPORTS",NHL Network
-http://s1.showplustv.com:1997/iptvtree2021/adAXCXhWuH9Mj515sda/9381
+http://fling.sytes.net:25461/f8GFniePT4/Sk6ZQGdz7n/2176
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JApkfiF.png" group-title="AMERICAN SPORTS",Tennis Channel
 http://fling.sytes.net:25461/f8GFniePT4/Sk6ZQGdz7n/1915
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lcpZ5CC.png" group-title="AMERICAN SPORTS",WWE Network
-http://s1.showplustv.com:1997/iptvtree2021/adAXCXhWuH9Mj515sda/9348
+http://probox.mio4ever.eu:7575/m1roxbr0x012/gs7z2Ghs51x8q/23077
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c8/BoxNation2014Logo.png" group-title="BRITISH SPORTS",Box Nation
 http://163.172.100.127:1991/EWESrtD2lX/st2xcRDz67pHcpSV/87291
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7dg7EB7.png" group-title="BRITISH SPORTS",BT Sport 1
@@ -1760,23 +1760,23 @@ http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/83805
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gGRqRoy.png" group-title="GREEK SPORTS",Nova Sport News
 http://ky-iptv.com:25461/DenisJones2/Denjo2050/315653
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1g9mYwr.png" group-title="AMERICAN SPORTS",CBS Sports Network
-http://s1.showplustv.com:1997/iptvtree2021/adAXCXhWuH9Mj515sda/92661
+http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3663
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1920px-ESPN_wordmark.svg.png" group-title="AMERICAN SPORTS",ESPN
-http://s1.showplustv.com:1997/iptvtree2021/adAXCXhWuH9Mj515sda/9418
+http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3683
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/1280px-ESPN2_logo.svg.png" group-title="AMERICAN SPORTS",ESPN 2
-http://s1.showplustv.com:1997/iptvtree2021/adAXCXhWuH9Mj515sda/9417
+http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3684
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YhuEewa.png" group-title="AMERICAN SPORTS",ESPN Deportes
-http://xxxxlocal.com:8080/Dragon7547usa/lMpwbkE9a3/11611
+http://probox.mio4ever.eu:7575/m1roxbr0x012/gs7z2Ghs51x8q/22999
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/ESPNews.svg/1920px-ESPNews.svg.png" group-title="AMERICAN SPORTS",ESPNews
-http://tv.master22.xyz:25461/eliluna1/gqdZxaWzcn/118423
+http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3654
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qimdreM.png" group-title="AMERICAN SPORTS",FS1
-http://s1.showplustv.com:1997/iptvtree2021/adAXCXhWuH9Mj515sda/62422
+http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3660
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jxLMBZt.png" group-title="AMERICAN SPORTS",FS2
-http://s1.showplustv.com:1997/iptvtree2021/adAXCXhWuH9Mj515sda/62423
+http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3661
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kL3DvWM.png" group-title="AMERICAN SPORTS",Fox Deportes
 http://destiny4k.com:2086/live/ramotestcihaz/n5juaD9vaH7OPzZzY8Sj/2916.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/14/NBCSN_logo.png" group-title="AMERICAN SPORTS",NBCSN
-http://s1.showplustv.com:1997/iptvtree2021/adAXCXhWuH9Mj515sda/9382
+http://fling.sytes.net:25461/f8GFniePT4/Sk6ZQGdz7n/1866
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ix8Pm5R.png" group-title="WORLD SPORTS",On Sports
 http://s4.nihontv.net:21585/vtvcab3/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Dt4IDCL.png" group-title="CHINESE SPORTS",CCTV-5 体育
@@ -1852,27 +1852,27 @@ http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07eX19qEE6hQ0tj
 #EXTINF:-1 tvg-logo="https://i.imgur.com/A9IdaMT.png" group-title="NZ SPORTS",Sky Sport Select
 http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07eZvwbFntpQ2GwAFIOjfX8J/ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bpS1hON.png" group-title="CANADIAN SPORTS",Sportsnet 360
-http://eztvlink.net:25461/DuQAWIS0vb/y8V9Lw0zo5/11753
+http://jjkdomain123.one:80/Charlie/Charlie/233960
 #EXTINF:-1 tvg-logo="https://i.imgur.com/W8d65IY.png" group-title="CANADIAN SPORTS",Sportsnet One
-http://eztvlink.net:25461/DuQAWIS0vb/y8V9Lw0zo5/11754
+http://jjkdomain123.one:80/Charlie/Charlie/233957
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gSK6eN9.png" group-title="CANADIAN SPORTS",Sportsnet World
-http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbFpgYfgVq5lEYE8d6zAa3HM7cKlk1YWZKnmGbS1mEkdV/ts
+http://jjkdomain123.one:80/Charlie/Charlie/233953
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/RDS_logo.svg/1920px-RDS_logo.svg.png" group-title="CANADIAN SPORTS",RDS
-http://gooserace.xyz:80/play/8RKaarZp2hb82YDzh8OYR8FYjlaHzuLx-wvpjHQ54C0
+http://jjkdomain123.one:80/Charlie/Charlie/234068
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Reseau_Des_Sport_2.svg/1920px-Reseau_Des_Sport_2.svg.png" group-title="CANADIAN SPORTS",RDS 2
-http://gooserace.xyz:80/play/8RKaarZp2hb82YDzh8OYR_sCEzEFpL-GMmjPd1OSwL4
+http://jjkdomain123.one:80/Charlie/Charlie/234067
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/97/Rds_info.svg/1920px-Rds_info.svg.png" group-title="CANADIAN SPORTS",RDS Info
-http://eztvlink.net:25461/DuQAWIS0vb/y8V9Lw0zo5/488
+http://jjkdomain123.one:80/Charlie/Charlie/234069
 #EXTINF:-1 tvg-logo="https://i.imgur.com/v48ueao.png" group-title="CANADIAN SPORTS",TSN 1
-http://eztvlink.net:25461/DuQAWIS0vb/y8V9Lw0zo5/11748
+http://jjkdomain123.one:80/Charlie/Charlie/233948
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HvPyPov.png" group-title="CANADIAN SPORTS",TSN 2
-http://eztvlink.net:25461/DuQAWIS0vb/y8V9Lw0zo5/11749
+http://jjkdomain123.one:80/Charlie/Charlie/233947
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NwjWSff.png" group-title="CANADIAN SPORTS",TSN 3
-http://eztvlink.net:25461/DuQAWIS0vb/y8V9Lw0zo5/11750
+http://jjkdomain123.one:80/Charlie/Charlie/233946
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5aQ01F1.png" group-title="CANADIAN SPORTS",TSN 4
-http://eztvlink.net:25461/DuQAWIS0vb/y8V9Lw0zo5/11751
+http://jjkdomain123.one:80/Charlie/Charlie/233945
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uoy75nW.png" group-title="CANADIAN SPORTS",TSN 5
-http://eztvlink.net:25461/DuQAWIS0vb/y8V9Lw0zo5/11752
+http://jjkdomain123.one:80/Charlie/Charlie/233944
 #EXTINF:-1 tvg-logo="https://i.imgur.com/p0k54D9.png" group-title="POLISH SPORTS",Canal+ Sport
 http://95.211.250.54:80/CANAL+_SPORT/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Xz33IHR.png" group-title="POLISH SPORTS",Canal+ Sport 2
@@ -1896,17 +1896,17 @@ http://95.211.250.54:80/EUROSPORT_2/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4ePEZ0H.png" group-title="POLISH SPORTS",nSport+
 http://toptentv.xyz:8080/3143333180178705/2598854265/237850
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pM6Q5n1.png" group-title="POLISH SPORTS",Polsat Sport
-http://91.226.51.126:8000/udp/239.100.10.97:2234
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/92756
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mnohjlI.png" group-title="POLISH SPORTS",Polsat Sport Extra
-http://91.226.51.126:8000/udp/239.100.10.98:2234
+http://probox.mio4ever.eu:7575/m1roxbr0x012/gs7z2Ghs51x8q/21170
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eEQxLTd.png" group-title="POLISH SPORTS",Polsat Sport Fight
-http://91.226.51.126:8000/udp/239.100.10.101:2234
+http://smart4k.live:8080/live/MG@IB@EWC@RSJ@US@637gDAV@ODKL@A/SX@IA@EWB@RNJ@SV@N37gDAV@MDKL@Z/1971.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QJIzCGa.png" group-title="POLISH SPORTS",Polsat Sport News
 http://95.211.250.54:80/POLSAT_SPORT_NEWS/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IgONH1a.png" group-title="POLISH SPORTS",Polsat Sport Premium 1
-http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/54164
+http://smart4k.live:8080/live/MG@IB@EWC@RSJ@US@637gDAV@ODKL@A/SX@IA@EWB@RNJ@SV@N37gDAV@MDKL@Z/1973.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xf6o9Go.png" group-title="POLISH SPORTS",Polsat Sport Premium 2
-http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/54165
+http://smart4k.live:8080/live/MG@IB@EWC@RSJ@US@637gDAV@ODKL@A/SX@IA@EWB@RNJ@SV@N37gDAV@MDKL@Z/1974.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IZWOLiJ.png" group-title="POLISH SPORTS",Sport Klub
 http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/14743
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Logo_TVP_Sport.jpg" group-title="POLISH SPORTS",TVP Sport
@@ -2341,15 +2341,15 @@ http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/1744
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/SuperSport_Albania.svg/1920px-SuperSport_Albania.svg.png" group-title="ALBANIAN SPORTS",Supersport News
 http://190.115.29.22:8080/carter/GUV1bMq2VK/224
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1920px-ESPN_wordmark.svg.png" group-title="DUTCH SPORTS",ESPN
-http://iptvpick.live:900/7508526894/4945502148/16873
+http://smart4k.live:8080/live/MG@IB@EWC@RSJ@US@637gDAV@ODKL@A/SX@IA@EWB@RNJ@SV@N37gDAV@MDKL@Z/503.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/1280px-ESPN2_logo.svg.png" group-title="DUTCH SPORTS",ESPN 2
-http://iptvpick.live:900/7508526894/4945502148/16872
+http://smart4k.live:8080/live/MG@IB@EWC@RSJ@US@637gDAV@ODKL@A/SX@IA@EWB@RNJ@SV@N37gDAV@MDKL@Z/504.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Crvxgth.png" group-title="DUTCH SPORTS",ESPN 3
-http://iptvpick.live:900/7508526894/4945502148/16871
+http://smart4k.live:8080/live/MG@IB@EWC@RSJ@US@637gDAV@ODKL@A/SX@IA@EWB@RNJ@SV@N37gDAV@MDKL@Z/505.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/89RCPvg.png" group-title="DUTCH SPORTS",ESPN 4
-http://iptvpick.live:900/7508526894/4945502148/3113
+http://smart4k.live:8080/live/MG@IB@EWC@RSJ@US@637gDAV@ODKL@A/SX@IA@EWB@RNJ@SV@N37gDAV@MDKL@Z/506.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5wMOVOs.png" group-title="DUTCH SPORTS",ESPN 5
-http://190.115.29.22:8080/carter/GUV1bMq2VK/486
+http://smart4k.live:8080/live/MG@IB@EWC@RSJ@US@637gDAV@ODKL@A/SX@IA@EWB@RNJ@SV@N37gDAV@MDKL@Z/507.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vKQDxN0.png" group-title="DUTCH SPORTS",ESPN 6
 http://iptvpick.live:900/7508526894/4945502148/16868
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gwV31E0.png" group-title="DUTCH SPORTS",Eurosport 1
@@ -2357,17 +2357,17 @@ http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/5074
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lTnKDju.png" group-title="DUTCH SPORTS",Eurosport 2
 http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/5331
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OfcBDWR.png" group-title="DUTCH SPORTS",Ziggo Sport
-http://iptvpick.live:900/7508526894/4945502148/16824
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/92898
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TFGh92p.png" group-title="DUTCH SPORTS",Ziggo Sport Golf
-http://190.115.29.22:8080/carter/GUV1bMq2VK/891
+http://smart4k.live:8080/live/MG@IB@EWC@RSJ@US@637gDAV@ODKL@A/SX@IA@EWB@RNJ@SV@N37gDAV@MDKL@Z/513.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SrorhG7.png" group-title="DUTCH SPORTS",Ziggo Sport Racing
-http://190.115.29.22:8080/carter/GUV1bMq2VK/889
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/92900
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8DlO0BF.png" group-title="DUTCH SPORTS",Ziggo Sport Select
-http://iptvpick.live:900/7508526894/4945502148/16819
+http://smart4k.live:8080/live/MG@IB@EWC@RSJ@US@637gDAV@ODKL@A/SX@IA@EWB@RNJ@SV@N37gDAV@MDKL@Z/512.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bv3ffoA.png" group-title="DUTCH SPORTS",Ziggo Sport Tennis
-http://190.115.29.22:8080/carter/GUV1bMq2VK/2372
+http://smart4k.live:8080/live/MG@IB@EWC@RSJ@US@637gDAV@ODKL@A/SX@IA@EWB@RNJ@SV@N37gDAV@MDKL@Z/40526.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aufKGRo.png" group-title="DUTCH SPORTS",Ziggo Sport Voetbal
-http://iptvpick.live:900/7508526894/4945502148/16818
+http://smart4k.live:8080/live/MG@IB@EWC@RSJ@US@637gDAV@ODKL@A/SX@IA@EWB@RNJ@SV@N37gDAV@MDKL@Z/511.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XO9yr6R.png" group-title="AFRICAN SPORTS",Supersport Action
 http://iptvpick.live:900/7508526894/4945502148/117927
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OOSoHfD.png" group-title="AFRICAN SPORTS",Supersport Blitz
@@ -2681,11 +2681,11 @@ http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/13101
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KJR6lt0.png" group-title="USA",CBS
 http://the827solutions.com:25461/NE99101/p3szcPmhSN/110
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JOCjq3R.png" group-title="USA",Comedy Central
-http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/11191
+http://probox.mio4ever.eu:7575/m1roxbr0x012/gs7z2Ghs51x8q/22982
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Q6AoC5h.png" group-title="USA",Fox
 http://the827solutions.com:25461/NE99101/p3szcPmhSN/177
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8dgknme.png" group-title="USA",FX
-http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/11184
+http://probox.mio4ever.eu:7575/m1roxbr0x012/gs7z2Ghs51x8q/23021
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Game_Show_Network_2018.svg/1024px-Game_Show_Network_2018.svg.png" group-title="USA",Game Show Network
 http://n1.klowdtv.net/live2/gsn_720p/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OzHkxwZ.png" group-title="USA",NBC
@@ -2859,25 +2859,25 @@ http://evpp.mm.uol.com.br:1935/ne10/ne10-tvjornal-caruaru-video-web.sdp/playlist
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/TV_Brasil_logo_2019.svg/1920px-TV_Brasil_logo_2019.svg.png" group-title="BRASIL",TV Brasil
 http://rtmp.cdn.upx.net.br/723b/myStream.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/ABC_Spark_Logo.png" group-title="CANADA",ABC Spark
-http://eztvlink.net:25461/DuQAWIS0vb/y8V9Lw0zo5/2441
+http://smart4k.live:8080/live/MG@IB@EWC@RSJ@US@637gDAV@ODKL@A/SX@IA@EWB@RNJ@SV@N37gDAV@MDKL@Z/1475.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/w2IwLlA.png" group-title="CANADA",CBC
-http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbEmzPWcC2q3VNc3zJiA7xtQGyHvslzzFnnPcfTPSxwEb/ts
+http://ky-tv.cc:80/toyota18/toyota18/181863.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/CTV_logo_2018.svg/1920px-CTV_logo_2018.svg.png" group-title="CANADA",CTV
-http://eztvlink.net:25461/DuQAWIS0vb/y8V9Lw0zo5/11745
+http://ky-tv.cc:80/toyota18/toyota18/181918.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/CTV_2_2018.svg/1920px-CTV_2_2018.svg.png" group-title="CANADA",CTV 2
-http://eztvlink.net:25461/DuQAWIS0vb/y8V9Lw0zo5/11746
+http://ky-tv.cc:80/toyota18/toyota18/182171.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/CTV_Comedy_Channel_2019.svg/1920px-CTV_Comedy_Channel_2019.svg.png" group-title="CANADA",CTV Comedy Channel
-http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbERFb_4mBlfPu-Y0Goz-st-4QLOFfM4Jz2iTCisPNPal/ts
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/3268
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/CTV_Drama_Channel_2019.svg/1920px-CTV_Drama_Channel_2019.svg.png" group-title="CANADA",CTV Drama Channel
-http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbI5NSILRBBGphh9QCeMV4XkhHTnA4CKVzbfWIK0Idb_k/ts
+http://163.172.100.127:1991/EWESrtD2lX/st2xcRDz67pHcpSV/96616
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/CTV_Sci-Fi_Channel_2019.svg/1280px-CTV_Sci-Fi_Channel_2019.svg.png" group-title="CANADA",CTV Sci-fi Channel
-http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/60157
+http://ky-tv.cc:80/toyota18/toyota18/181917.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lxbuF5X.png" group-title="CANADA",Global
-http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbB9_rQC5eAk6ENmg6Kijpgq-UiIM86Hv8fI3VOJ7Xd82/ts
+http://ky-tv.cc:80/toyota18/toyota18/228534.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RyHlWek.png" group-title="CANADA",Omni 1
-http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbMKwSG3oVQdOOapSErHGFAdAgf3PHkeiQ-7O-jcIINwc/ts
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/65835
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RyHlWek.png" group-title="CANADA",Omni 2
-http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbHgTh9KqX3lF8lxtSptc4YsNCOGiheivUPXo8dpaWqPe/ts
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/65834
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/VRT_Canvas_logo.svg/langfr-1920px-VRT_Canvas_logo.svg.png" group-title="BELGIUM",Canvas
 https://live-vrt.akamaized.net/groupc/live/14a2c0f6-3043-4850-88a5-7fb062fe7f05/live_aes.isml/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b7/E%C3%A9n_public_station_logo_2019.svg/800px-E%C3%A9n_public_station_logo_2019.svg.png" group-title="BELGIUM",Eén
@@ -3193,25 +3193,25 @@ https://qlobbidev.s.llnwi.net/bpk-tv/ESTRELLAS/hls/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Multimedios_Canal_Seis_Logo.svg/800px-Multimedios_Canal_Seis_Logo.svg.png" group-title="MEXICO",Multimedios
 http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bb/Net5_logo_2019.png" group-title="NETHERLANDS",Net5
-http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbJzvKkRcSOj-ND7UjEV3zuM/ts
+http://smart4k.live:8080/live/MG@IB@EWC@RSJ@US@637gDAV@ODKL@A/SX@IA@EWB@RNJ@SV@N37gDAV@MDKL@Z/439.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/NPO_1_logo_2014.svg/1280px-NPO_1_logo_2014.svg.png" group-title="NETHERLANDS",NPO 1
-http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbCCxBGUh5_ZLGLs4xCdm2zk/ts
+http://smart4k.live:8080/live/MG@IB@EWC@RSJ@US@637gDAV@ODKL@A/SX@IA@EWB@RNJ@SV@N37gDAV@MDKL@Z/371.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/NPO_2_logo_2014.svg/1280px-NPO_2_logo_2014.svg.png" group-title="NETHERLANDS",NPO 2
-http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbP6cuFr95B0zvmQ7oOhUWV8/ts
+http://smart4k.live:8080/live/MG@IB@EWC@RSJ@US@637gDAV@ODKL@A/SX@IA@EWB@RNJ@SV@N37gDAV@MDKL@Z/372.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/NPO_3_logo_2014.svg/1280px-NPO_3_logo_2014.svg.png" group-title="NETHERLANDS",NPO 3
-http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbFZTfZndGAGc4xbg2mtac9E/ts
+http://smart4k.live:8080/live/MG@IB@EWC@RSJ@US@637gDAV@ODKL@A/SX@IA@EWB@RNJ@SV@N37gDAV@MDKL@Z/373.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4c/RTL4_Logo_2016.png" group-title="NETHERLANDS",RTL 4
-http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbO0R3sueaEO1AulWHdE4nXU/ts
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/92879
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/99/RTL_5_logo_2017.png" group-title="NETHERLANDS",RTL 5
-http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbOj267cYtsRrwRejAlTtD1M/ts
+http://smart4k.live:8080/live/MG@IB@EWC@RSJ@US@637gDAV@ODKL@A/SX@IA@EWB@RNJ@SV@N37gDAV@MDKL@Z/375.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/c8Rk43x.png" group-title="NETHERLANDS",RTL 7
-http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbAdPIKuQ3X7otU5vFZ7A9bg/ts
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/92882
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/92/RTL_8_logo_2017.png" group-title="NETHERLANDS",RTL 8
-http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbBdkd3Zxu_hWEsrqquYhACs/ts
+http://smart4k.live:8080/live/MG@IB@EWC@RSJ@US@637gDAV@ODKL@A/SX@IA@EWB@RNJ@SV@N37gDAV@MDKL@Z/377.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yQ3irXL.png" group-title="NETHERLANDS",SBS 6
-http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbJncz9fb6T0IYYVLEWafjxM/ts
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/92881
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f5/SBS9_New_Logo_2018.png" group-title="NETHERLANDS",SBS 9
-http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbEpuIbgyNEuA0CYVRldNJes/ts
+http://smart4k.live:8080/live/MG@IB@EWC@RSJ@US@637gDAV@ODKL@A/SX@IA@EWB@RNJ@SV@N37gDAV@MDKL@Z/440.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/NRK1-Logo.svg/1920px-NRK1-Logo.svg.png" group-title="NORWAY",NRK 1
 http://s1.showplustv.com:1997/iptvtree2021/adAXCXhWuH9Mj515sda/61538
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/NRK2-Logo.svg/1920px-NRK2-Logo.svg.png" group-title="NORWAY",NRK 2
@@ -3251,7 +3251,7 @@ http://95.211.250.54:80/CANAL+_FAMILY/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0yf7vy8.png" group-title="POLAND",Canal+ Premium
 http://95.211.250.54:80/CANAL+/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Polsat_2021_gradient.svg/1200px-Polsat_2021_gradient.svg.png" group-title="POLAND",Polsat
-http://91.226.51.126:8000/udp/239.100.10.4:2234
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/92759
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Polsat_2_2021_gradient.svg/1024px-Polsat_2_2021_gradient.svg.png" group-title="POLAND",Polsat 2
 http://95.211.250.54:80/POLSAT_2/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Polsat_Doku_2021_gradient.svg/800px-Polsat_Doku_2021_gradient.svg.png" group-title="POLAND",Polsat Doku
@@ -3263,25 +3263,25 @@ http://91.226.51.126:8000/udp/239.100.10.25:2234
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Polsat_Caf%C3%A9_2021_gradient.svg/800px-Polsat_Caf%C3%A9_2021_gradient.svg.png" group-title="POLAND",Polsat Café
 http://95.211.250.54:80/POLSAT_CAFE/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Polsat_Play_2021_gradient.svg/800px-Polsat_Play_2021_gradient.svg.png" group-title="POLAND",Polsat Play
-http://91.226.51.126:8000/udp/239.100.10.82:2234
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/92856
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Super_Polsat_2021_gradient.svg/800px-Super_Polsat_2021_gradient.svg.png" group-title="POLAND",Super Polsat
-http://91.226.51.126:8000/udp/239.100.10.91:2234
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/92855
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/TV4_pol.svg/800px-TV4_pol.svg.png" group-title="POLAND",TV4
 http://95.211.250.54:80/TV4/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/TV6_logo.svg/800px-TV6_logo.svg.png" group-title="POLAND",TV6
 http://95.211.250.54:80/TV6/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/TVN_logo.svg/1200px-TVN_logo.svg.png" group-title="POLAND",TVN
-http://91.226.51.126:8000/udp/239.100.10.3:2234
+http://probox.mio4ever.eu:7575/m1roxbr0x012/gs7z2Ghs51x8q/21171
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/TVN7_logo_2021.svg/1280px-TVN7_logo_2021.svg.png" group-title="POLAND",TVN 7
 http://95.211.250.54:80/TVN_7/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6C5y1nO.png" group-title="POLAND",TVN Fabula
-http://91.226.51.126:8000/udp/239.100.10.47:2234
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/92750
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/Tvn_style.png" group-title="POLAND",TVN Style
-http://91.226.51.126:8000/udp/239.100.10.75:2234
+http://probox.mio4ever.eu:7575/m1roxbr0x012/gs7z2Ghs51x8q/21210
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/TVN_turbo.svg/1920px-TVN_turbo.svg.png" group-title="POLAND",TVN Turbo
-http://91.226.51.126:8000/udp/239.100.10.74:2234
+http://probox.mio4ever.eu:7575/m1roxbr0x012/gs7z2Ghs51x8q/21209
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TVP1_2021_box-1.svg/1920px-TVP1_2021_box-1.svg.png" group-title="POLAND",TVP 1
-http://91.226.51.126:8000/udp/239.100.10.1:2234
+http://smart4k.live:8080/live/MG@IB@EWC@RSJ@US@637gDAV@ODKL@A/SX@IA@EWB@RNJ@SV@N37gDAV@MDKL@Z/9174.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/TVP2_2021_box-1.svg/1920px-TVP2_2021_box-1.svg.png" group-title="POLAND",TVP 2
 http://95.211.250.54:80/TVP_2_HD/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gBFUIRT.png" group-title="POLAND",TVP Rozrywka
