@@ -3414,7 +3414,7 @@ rtmp://59.124.75.157/sat/tv051
 rtmp://59.124.75.157/sat/tv071
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/ALTV_Logo.png/1200px-ALTV_Logo.png" group-title="THAILAND",ALTV 4
 https://thaipbs-ujxrch.cdn.byteark.com/live/playlist.m3u8
-EXTINF:-1 tvg-logo="https://i.imgur.com/jPZ1W5Y.png" group-title="THAILAND",Amarin TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jPZ1W5Y.png" group-title="THAILAND",Amarin TV
 http://freelive.inwstream.com:1935/freelive-edge/amarinhd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f3/BBTV_Channel_7.png" group-title="THAILAND",BBTV 7
 https://bcovlive-a.akamaihd.net/efdfa4b2dfc54cb38fdb120d52973e95/ap-southeast-1/5282994675001/profile_5/chunklist.m3u8
