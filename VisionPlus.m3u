@@ -1333,8 +1333,10 @@ https://d1nmqgphjn0y4.cloudfront.net/live/ip/live.isml/live-audio_1=128000-video
 https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index_6.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QGnD2tq.png" group-title="LATINO NEWS",Milenio TV
 https://v-sd.mybtv.net/event/521/1920x1080.m3u8?start_time=2021-05-16&end_time=2023-05-17&uid=33630
-#EXTINF:-1 tvg-logo="https://i.imgur.com/kI7pHMn.jpg" group-title="NON-ENGLISH NEWS",YTN
-https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Th%E1%BB%9Di%20s%E1%BB%B1%20HD.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kI7pHMn.jpg" group-title="KOREAN NEWS",YTN
+http://slive.ytn.co.kr/ytn/_definst_/ytn_stream_20190306/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SvbO21Y.png" group-title="KOREAN NEWS",Yonhap News TV
+https://ducg38fv680xm.cloudfront.net/yeonhap_3M.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b2/%C4%8CT24_logo.png" group-title="CZECH NEWS",ČT24
 http://190.115.29.22:8080/carter/GUV1bMq2VK/12703
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Znax94k.png" group-title="NORDIC NEWS",TV2 News
@@ -3459,7 +3461,7 @@ https://freelive2.inwstream.com:1936/freelive-edge/ch8/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a9/GMM_25_Logo.png" group-title="THAILAND",GMM 25
 https://freelive.inwstream.com:1936/freelive-edge/gmmchannel/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Jkn18.png/1200px-Jkn18.png" group-title="THAILAND",JKN 18
-http://host4.dynns.com/stream/0d01fdc1362f427ca5527c645f5f908f.m3u8
+https://5f27aa1f6ef91.streamlock.net/jkncnbc/myStream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Mono_29_Logo.png" group-title="THAILAND",Mono
 https://edge2-bkk.3bb.co.th:9443/MONO29_HLS_1080P/mono29hls_1080TH.stream/chunklist_w1021782105.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/i52auTN.png" group-title="THAILAND",MCOT
