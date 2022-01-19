@@ -650,19 +650,19 @@ http://93.157.62.180/TringSuper/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AD8r7dt.png" group-title="BRITISH MOVIES",Film4
 http://sbr.siber.vip:2086/siber4603/mDeqbRJ26dNJ/18056
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MPnwLGE.png" group-title="BRITISH MOVIES",Great! Movies
-http://qqtv.nl:8080/masud/masud/15513
+http://45.153.35.221:8000/play/a02f/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JDI0eaC.png" group-title="BRITISH MOVIES",Great! Movies Action
-http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/286775
+http://45.153.35.221:8000/play/a02e/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MPnwLGE.png" group-title="BRITISH MOVIES",Great! Movies Classic
-http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/285334
+http://45.153.35.221:8000/play/a02g/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/66mAx2O.png" group-title="BRITISH MOVIES",Sky Cinema Action
 http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/87571
 #EXTINF:-1 tvg-logo="https://i.imgur.com/e1kJuRF.png" group-title="BRITISH MOVIES",Sky Cinema Animation
-http://ky-tv.cc:80/toyota18/toyota18/1663386.ts
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/100032
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SFqmT1y.png" group-title="BRITISH MOVIES",Sky Cinema Comedy
 http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/87572
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AicNnNq.png" group-title="BRITISH MOVIES",Sky Cinema Drama
-http://ky-tv.cc:80/toyota18/toyota18/228295.ts
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/87574
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EgwUwXa.png" group-title="BRITISH MOVIES",Sky Cinema Family
 http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/87575
 #EXTINF:-1 tvg-logo="https://i.imgur.com/f0NLkrG.png" group-title="BRITISH MOVIES",Sky Cinema Greats
@@ -1054,7 +1054,7 @@ https://streaming.cnnphilippines.com/live/myStream/chunklist_w1199238897.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hi0D9Ut.png" group-title="TURKISH NEWS",CNN Türk
 http://destiny4k.com:2086/live/ramotestcihaz/n5juaD9vaH7OPzZzY8Sj/44933.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Jai0CTx.png" group-title="LATINO NEWS",CNN Chile
-http://45.161.188.242:88/cnnchile/mono.m3u8
+http://45.4.0.46:8000/play/cnnchilehd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jCXODcU.png" group-title="SPANISH NEWS",CNN en Español
 http://ultra-premium-pro.xyz:8090/gJbXqqRLWo/8f6SL5rbOr/39149
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/CNN_Portugal.svg/800px-CNN_Portugal.svg.png" group-title="PORTUGUESE NEWS",CNN Portugal
@@ -1067,6 +1067,8 @@ https://durbinlive.com:443/live/jio?c=CNN_NEWS_18&q=1200&e=IshanJiotv.m3u8
 http://103.194.169.171:8282/CZ_PRIMA_NEWS_HD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8XIrrMN.png" group-title="ALBANIAN NEWS",A2 CNN
 http://line.pito-tv.com:80/MguaBxyVfO/QWHrjHjAtT/80
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JECWgUK.png" group-title="NON-ENGLISH NEWS",N1 CNN
+https://best-str.umn.cdn.united.cloud/stream?stream=sp1400&sp=n1info&channel=n1hrv&u=n1info&p=n1Sh4redSecre7iNf0
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WdC4rbi.png" group-title="WORLD NEWS",BBC World News
@@ -1332,7 +1334,7 @@ http://cdn.hkdtmb.com/hls/83/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/1/1c/Tvbsnews.png" group-title="MANDARIN NEWS",TVBS News
 http://iptv.tvfix.org/hls/tvbsnews.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Logo_24HorasTVN.svg/1920px-Logo_24HorasTVN.svg.png" group-title="LATINO NEWS",24 Horas
-http://45.161.188.242:88/24horas/mono.m3u8
+https://marine2.miplay.cl/24horas/mono.m3u8
 #EXTVLCOPT:http-user-agent=Samsung SM-G550T stagefright/Beyonce/12.12.9 (Linux;Android 6.0.12)
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XyKKCz3.png" group-title="LATINO NEWS",A24
 https://g2.mc-slo.transport.edge-access.net:443/a15/ngrp:a24-100056_all/a24-100056_720p.m3u8
@@ -2303,11 +2305,15 @@ http://visionmedaitv.nl:7444/live/VisionMediaClubOnL1n3/q2i9MCc7NK/73.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/umVCKR4.png" group-title="TURKISH SPORTS",TRT Spor
 http://mfe.cliptv.az/dash/TRT_SPOR_HD.ism/playlist.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Sfu3Y7S.png" group-title="TURKISH SPORTS",TRT Spor Yıldız
-http://nomorecable.xyz:80/hahaiptv-/079652/56868
+http://195.155.98.170:5858/play/a09u
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8A0aYWf.png" group-title="SERBIAN SPORTS",Arena 1 Premium
+http://185.244.240.33:8000/play/a01q
 #EXTINF:-1 tvg-logo="https://i.imgur.com/S4EVsjl.png" group-title="SERBIAN SPORTS",Arena 2 Premium
 http://iptvpick.live:900/6046606740/0889325748/400269008
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uzrDNI5.png" group-title="SERBIAN SPORTS",Arena 3 Premium
 http://iptvpick.live:900/6046606740/0889325748/400269007
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yc9pRNV.png" group-title="SERBIAN SPORTS",Arena eSport
+http://185.244.240.33:8000/play/a012
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7W9oZCa.png" group-title="SERBIAN SPORTS",Arena Fight
 http://iptvpick.live:900/6046606740/0889325748/400269255
 #EXTINF:-1 tvg-logo="https://i.imgur.com/50ZGo5V.png" group-title="SERBIAN SPORTS",Arena Sport 1
@@ -2809,13 +2815,13 @@ http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/92475
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/1920px-USA_Network_logo_%282016%29.svg.png" group-title="USA",USA Network
 http://sb1000.servegame.org:55050/zWBGGXy87P/349RZBxUEW/3605
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HELzzCq.png" group-title="UK",4seven
-http://iptvpick.live:900/1038203932/1883321016/191004
+http://iptvpick.live:900/6046606740/0889325748/191004
 #EXTINF:-1 tvg-logo="https://i.imgur.com/haov0b4.png" group-title="UK",5Select
 http://grets.co21.net:2082/Taoufik_145943/3yeD3C46/77388
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/5Star_logo_2019.svg/1920px-5Star_logo_2019.svg.png" group-title="UK",5Star
-http://iptvpick.live:900/1038203932/1883321016/153640
+http://iptvpick.live:900/6046606740/0889325748/153640
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Nvme1rf.png" group-title="UK",BBC Alba
-http://dragoniptv.iptf.me:8080/nrwin/a4DWkrhWKzYU/10197
+http://51.154.28.81:2052/play/a046
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oGzLsiq.png" group-title="UK",BBC One
 http://probox.mio4ever.eu:7575/m1roxbr0x012/gs7z2Ghs51x8q/21851
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iMfng6J.png" group-title="UK",BBC Two
@@ -2823,23 +2829,23 @@ http://probox.mio4ever.eu:7575/m1roxbr0x012/gs7z2Ghs51x8q/21852
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nywptTp.png" group-title="UK",BBC Four
 http://probox.mio4ever.eu:7575/m1roxbr0x012/gs7z2Ghs51x8q/21854
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kr2UTHB.png" group-title="UK",BBC Scotland
-http://iptvpick.live:900/1038203932/1883321016/14099
+http://iptvpick.live:900/6046606740/0889325748/14099
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/37/CBBC_2016_logo.svg/800px-CBBC_2016_logo.svg.png" group-title="UK",CBBC
 http://iptvpick.live:900/1038203932/1883321016/14090
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XJ9qgU9.png" group-title="UK",Challenge
 http://190.115.29.22:8080/carter/GUV1bMq2VK/12512
 #EXTINF:-1 tvg-logo="https://i.imgur.com/r0sl8tu.png" group-title="UK",Channel 4
-http://ky-tv.cc:80/toyota18/toyota18/189920.ts
+http://probox.mio4ever.eu:7575/m1roxbr0x012/gs7z2Ghs51x8q/21870
 #EXTINF:-1 tvg-logo="https://i.imgur.com/itZR2eq.png" group-title="UK",Channel 5
-http://ky-tv.cc:80/toyota18/toyota18/189921.ts
+http://51.154.28.81:2052/play/a055
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wRVi7bz.png" group-title="UK",Dave
-http://iptvpick.live:900/1038203932/1883321016/190486
+http://iptvpick.live:900/6046606740/0889325748/190486
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yny6n9T.png" group-title="UK",E4
 http://iptvpick.live:900/1038203932/1883321016/153636
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PpD1Fwa.png" group-title="UK",Great! TV
-http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/286776
+http://45.153.35.221:8000/play/a02q/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IZ5MINa.png" group-title="UK",More4
-http://iptvpick.live:900/1038203932/1883321016/191475
+http://iptvpick.live:900/6046606740/0889325748/191475
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/ITV_logo_2019.svg/1200px-ITV_logo_2019.svg.png" group-title="UK",ITV
 http://probox.mio4ever.eu:7575/m1roxbr0x012/gs7z2Ghs51x8q/21858
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/35/ITV2_logo_2015.svg/1920px-ITV2_logo_2015.svg.png" group-title="UK",ITV2
@@ -2851,9 +2857,9 @@ http://probox.mio4ever.eu:7575/m1roxbr0x012/gs7z2Ghs51x8q/21861
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4f/ITVBe_logo_2014-.svg/1920px-ITVBe_logo_2014-.svg.png" group-title="UK",ITVBe
 http://probox.mio4ever.eu:7575/m1roxbr0x012/gs7z2Ghs51x8q/21857
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/S4C_logo_2014.svg/1024px-S4C_logo_2014.svg.png" group-title="UK",S4C
-http://ky-tv.cc:80/toyota18/toyota18/189997.ts
+http://51.154.28.81:2052/play/a0a7
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Sky_Showcase_2021.svg/1920px-Sky_Showcase_2021.svg.png" group-title="UK",Sky Showcase
-http://iptvpick.live:900/1038203932/1883321016/191466
+http://iptvpick.live:900/6046606740/0889325748/191466
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/TV_Klan.svg/1920px-TV_Klan.svg.png" group-title="ALBANIA",Klan
 http://185.226.88.3:1036/live/backup/backup/106.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/u9bj8ZK.png" group-title="ALBANIA",Klan Plus
@@ -3025,19 +3031,19 @@ http://183.207.248.71:80/cntv/live1/n-cctv-15/n-cctv-15
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QB3l5HH.png" group-title="CHINA",CCTV-17 农业农村
 http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv17/HD-8000k-1080P-cctv17
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Logotipo_de_Canal_13.png/1024px-Logotipo_de_Canal_13.png" group-title="CHILE",Canal 13
-http://45.161.188.242:88/canal13/mono.m3u8
+https://marine2.miplay.cl/canal13/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zUykSnY.png" group-title="CHILE",CHV
-http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/8966
+http://45.4.0.46:8000/play/a08n
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FvVU1mC.png" group-title="CHILE",La Red
 https://d2tr4gdfol9ja.cloudfront.net/lared/lared.smil/chunklist_b1000000.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Mega_Chile_2020.png/1280px-Mega_Chile_2020.png" group-title="CHILE",Mega
-http://45.161.188.242:88/mega/mono.m3u8
+https://marine2.miplay.cl/mega/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Telecanal_-_2011_logo_%283D_variant%29.png" group-title="CHILE",Telecanal
 https://unlimited1-cl.dps.live/tctc/tctc.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iz00wIP.png" group-title="CHILE",TV+
-http://186.67.117.178:8081/play/a03r
+http://45.4.0.46:8000/play/a058
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Logotipo_de_Televisi%C3%B3n_Nacional_de_Chile.svg/1920px-Logotipo_de_Televisi%C3%B3n_Nacional_de_Chile.svg.png" group-title="CHILE",TVN
-http://45.161.188.242:88/tvn/mono.m3u8
+https://marine2.miplay.cl/tvn/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Ucvtvlogo2014mejorado.png/1280px-Ucvtvlogo2014mejorado.png" group-title="CHILE",UCV
 https://unlimited10-cl.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/u7ECXoD.png" group-title="COLOMBIA",Canal Institucional
@@ -3065,15 +3071,15 @@ http://103.194.169.171:8282/CZ_NOVA2/mono.m3u8?token=93a611c10082e5eec57f8bec55d
 #EXTINF:-1 tvg-logo="https://i.imgur.com/enpOram.png" group-title="CZECH REPUBLIC",Prima
 http://103.194.169.171:8282/CZ_PRIMA_HD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/Prima_Cool_logo_zelen%C3%A9.png" group-title="CZECH REPUBLIC",Prima Cool
-http://103.194.169.171:8282/CZ_PRIMA_COOL_HD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
+http://62.169.180.144:8001/play/a00m
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BxJYjSH.png" group-title="CZECH REPUBLIC",Prima Krimi
 http://103.194.169.171:8282/CZ_PRIMA_KRIMI/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ec/Prima_Love_logo_2018.png" group-title="CZECH REPUBLIC",Prima Love
 http://103.194.169.171:8282/CZ_PRIMA_LOVE/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Prima_Max_logo.svg.png" group-title="CZECH REPUBLIC",Prima Max
-http://103.194.169.171:8282/CZ_PRIMA_MAX_HD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
+http://62.169.180.144:8002/play/a01j
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ahso9vh.png" group-title="CZECH REPUBLIC",Prima Zoom
-http://103.194.169.171:8282/CZ_PRIMA_ZOOM_HD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
+http://62.169.180.144:8002/play/a01k
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/64/6%27eren_2015.png" group-title="DENMARK",6'eren
 http://balkanshark.com:25461/speedhdhd/acjQyHovsC/1135
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/Canal_9_Denmark_2015.png" group-title="DENMARK",Canal 9
@@ -3475,13 +3481,13 @@ http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbG8iyLefNp-2i28T_MiKj-tnUV
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NoV7RNj.png" group-title="SWEDEN",TV8
 http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/4603
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/de/thumb/a/a0/Logo_3plus.svg/1024px-Logo_3plus.svg.png" group-title="SWITZERLAND",3+
-http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/14266
+http://188.155.8.185:3280/play/a021/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Logo_4plus.svg/1024px-Logo_4plus.svg.png" group-title="SWITZERLAND",4+
-http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/2809
+http://188.155.8.185:3280/play/a022/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/5plus.svg/1024px-5plus.svg.png" group-title="SWITZERLAND",5+
-http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/14262
+http://188.155.8.185:3280/play/a023/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/a/ac/6PLUS.png" group-title="SWITZERLAND",6+
-http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/14264
+http://188.155.8.185:3280/play/a024/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7MbXFxe.png" group-title="SWITZERLAND",Blue Zoom D
 http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/52435
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7MbXFxe.png" group-title="SWITZERLAND",Blue Zoom F
