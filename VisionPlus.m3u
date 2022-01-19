@@ -442,6 +442,10 @@ http://edge02-fdo-py.cvattv.com.ar/live/c3eds/FOXHD/SA_SAGEMCOM/FOXHD.m3u8
 http://edge02-fdo-py.cvattv.com.ar/live/c4eds/Fox_Life/SA_SAGEMCOM/Fox_Life.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/umJbqNY.png" group-title="LATINO ENTERTAINMENT",TNT
 http://edge02-fdo-py.cvattv.com.ar/live/c4eds/TNT/SA_SAGEMCOM/TNT.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/V3RCwzs.png" group-title="BRASILIAN ENTERTAINMENT",Record TV
+http://probox.mio4ever.eu:7575/m1roxbr0x012/gs7z2Ghs51x8q/21335
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TiYeY9R.png" group-title="BRASILIAN ENTERTAINMENT",Globo
+http://probox.mio4ever.eu:7575/m1roxbr0x012/gs7z2Ghs51x8q/21329
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f7/TVP_Polonia_new_logo.png" group-title="WORLD ENTERTAINMENT",TVP Polonia
 http://91.226.51.126:8000/udp/239.100.10.12:2234
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
@@ -2537,21 +2541,21 @@ http://the827solutions.com:25461/NE99101/p3szcPmhSN/1338
 #EXTINF:-1 tvg-logo="https://i.imgur.com/I7Lhgej.png" group-title="LATINO SPORTS",TyC Sports
 https://d3awnlgqz0szay.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index_9.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FbFe2uu.png" group-title="BRASILIAN SPORTS",Band Sports
-http://7online.xyz:8080/EritaFatima/21781781/18637
+http://45.148.147.13:8008/play/a032
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ed/Canal-combate-logo.png" group-title="BRASILIAN SPORTS",Combate
 http://api.magiaiptv.com/live/800196/128093/m3_kxiCuVcr9XvcEbXgX_720p_2M
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1920px-ESPN_wordmark.svg.png" group-title="BRASILIAN SPORTS",ESPN
-http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/92702
+http://45.148.147.13:8008/play/a030
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/1280px-ESPN2_logo.svg.png" group-title="BRASILIAN SPORTS",ESPN 2
-http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/92736
-#EXTINF:-1 tvg-logo="https://i.imgur.com/IMI0Ncf.png" group-title="BRASILIAN SPORTS",ESPN Brasil
-http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/92701
+http://45.148.147.13:8007/play/a07a
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Crvxgth.png" group-title="BRASILIAN SPORTS",ESPN 3
+http://45.148.147.13:8007/play/a07f
+#EXTINF:-1 tvg-logo="https://i.imgur.com/89RCPvg.png" group-title="BRASILIAN SPORTS",ESPN 4
+http://45.148.147.13:8007/play/a06x
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sIUdUaB.png" group-title="BRASILIAN SPORTS",ESPN Extra
-http://7online.xyz:8080/EritaFatima/21781781/64653
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Au1Wa24.png" group-title="BRASILIAN SPORTS",Fox Sports
-http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/92696
+http://45.148.147.13:8007/play/a07j
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DpnatBM.png" group-title="BRASILIAN SPORTS",Fox Sports 2
-http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/92695
+http://45.148.147.13:8007/play/a074
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/a2/Logo_Premiere_FC_2018.png" group-title="BRASILIAN SPORTS",Premiere
 http://api.magiaiptv.com/live/800196/128093/m3_wjMT3HlXuP425f1ZGd0Uvtxh_720p_2M
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CbANn14.png" group-title="BRASILIAN SPORTS",SporTV
@@ -2937,7 +2941,7 @@ http://live.oldtvline.com:23000/mafrale3-150317/FiiH8aP54u/35338
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6fbAshV.png" group-title="AUSTRIA",Puls 4
 http://live.oldtvline.com:23000/mafrale3-150317/FiiH8aP54u/35340
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Rede_Bandeirantes_logo_2018.svg/1920px-Rede_Bandeirantes_logo_2018.svg.png" group-title="BRASIL",Band
-https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist.m3u8
+http://45.148.147.13:8003/play/a03y
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Cultura_logo_2013.svg/1024px-Cultura_logo_2013.svg.png" group-title="BRASIL",Cultura
 hhttp://www.portalcultura.com.br/playerhtml/funtelpa/tv_funtelpa/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Canal_Futura.png/800px-Canal_Futura.png" group-title="BRASIL",Futura
@@ -2945,7 +2949,7 @@ https://stmv1.transmissaodigital.com/ronald6259/ronald6259/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TiYeY9R.png" group-title="BRASIL",Globo
 http://168.205.87.198:8555/live/1499/123456/70.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/14/Logo_of_Rede_Record.png" group-title="BRASIL",Record
-http://7online.xyz:8080/EritaFatima/21781781/28786
+http://45.148.147.13:8004/play/a016
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/3/39/Logotipo_da_Rede_Brasil_de_Televis%C3%A3o.png" group-title="BRASIL",Rede Brasil
 https://59f2354c05961.streamlock.net:1443/rbtv/_definst_/rbtv/chunklist_w1419744009.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5mVIs18.png" group-title="BRASIL",Rede TV
