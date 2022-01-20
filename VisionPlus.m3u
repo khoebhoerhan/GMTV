@@ -2967,21 +2967,21 @@ http://rtmp.cdn.upx.net.br/723b/myStream.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/ABC_Spark_Logo.png" group-title="CANADA",ABC Spark
 http://smart4k.live:8080/live/MG@IB@EWC@RSJ@US@637gDAV@ODKL@A/SX@IA@EWB@RNJ@SV@N37gDAV@MDKL@Z/1475.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/w2IwLlA.png" group-title="CANADA",CBC
-http://ky-tv.cc:80/toyota18/toyota18/181863.ts
+http://encodercdn1.frontline.ca/encoder181/output/CBC_Toronto_720p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/CTV_logo_2018.svg/1920px-CTV_logo_2018.svg.png" group-title="CANADA",CTV
-http://ky-tv.cc:80/toyota18/toyota18/181918.ts
+http://encodercdn1.frontline.ca/encoder183/output/CTV_Toronto_720p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/CTV_2_2018.svg/1920px-CTV_2_2018.svg.png" group-title="CANADA",CTV 2
-http://ky-tv.cc:80/toyota18/toyota18/182171.ts
+http://encodercdn1.frontline.ca/vantrix/ltv/Bell_TCTV2_AtopItci_2015_01_12_HD/hls_hd.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/CTV_Comedy_Channel_2019.svg/1920px-CTV_Comedy_Channel_2019.svg.png" group-title="CANADA",CTV Comedy Channel
 http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/3268
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/CTV_Drama_Channel_2019.svg/1920px-CTV_Drama_Channel_2019.svg.png" group-title="CANADA",CTV Drama Channel
 http://163.172.100.127:1991/EWESrtD2lX/st2xcRDz67pHcpSV/96616
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/CTV_Sci-Fi_Channel_2019.svg/1280px-CTV_Sci-Fi_Channel_2019.svg.png" group-title="CANADA",CTV Sci-fi Channel
-http://ky-tv.cc:80/toyota18/toyota18/181917.ts
+http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/65856
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lxbuF5X.png" group-title="CANADA",Global
-http://ky-tv.cc:80/toyota18/toyota18/228534.ts
+http://encodercdn1.frontline.ca/encoder184/output/Global_Toronto_720p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RyHlWek.png" group-title="CANADA",Omni 1
-http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/65835
+http://encodercdn1.frontline.ca/geonosis/output/OMNI1_720p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RyHlWek.png" group-title="CANADA",Omni 2
 http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/65834
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/VRT_Canvas_logo.svg/langfr-1920px-VRT_Canvas_logo.svg.png" group-title="BELGIUM",Canvas
