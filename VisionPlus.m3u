@@ -2855,9 +2855,9 @@ http://51.154.28.81:2052/play/a058
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Nvme1rf.png" group-title="UK",BBC Alba
 http://51.154.28.81:2052/play/a046
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oGzLsiq.png" group-title="UK",BBC One
-http://45.153.35.221:8000/play/a018/index.m3u8
+http://93.152.174.144:4000/play/bbc1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iMfng6J.png" group-title="UK",BBC Two
-http://45.153.35.221:8000/play/a017/index.m3u8
+http://93.152.174.144:4000/play/bbc2/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nywptTp.png" group-title="UK",BBC Four
 http://51.154.28.81:2052/play/a0as
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kr2UTHB.png" group-title="UK",BBC Scotland
@@ -2885,9 +2885,9 @@ http://51.154.28.81:2052/play/a0b1
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f6/ITV3_logo_2013.svg/1920px-ITV3_logo_2013.svg.png" group-title="UK",ITV3
 http://ptv.is:2095/t9m28tPG/j4PdbhNF/37395
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d3/ITV4_logo_2013.svg/1920px-ITV4_logo_2013.svg.png" group-title="UK",ITV4
-http://probox.mio4ever.eu:7575/m1roxbr0x012/gs7z2Ghs51x8q/21861
+https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/101?pprotocol=hls
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4f/ITVBe_logo_2014-.svg/1920px-ITVBe_logo_2014-.svg.png" group-title="UK",ITVBe
-http://probox.mio4ever.eu:7575/m1roxbr0x012/gs7z2Ghs51x8q/21857
+http://51.154.28.81:2052/play/a0b6
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/S4C_logo_2014.svg/1024px-S4C_logo_2014.svg.png" group-title="UK",S4C
 http://51.154.28.81:2052/play/a0a7
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Sky_Showcase_2021.svg/1920px-Sky_Showcase_2021.svg.png" group-title="UK",Sky Showcase
