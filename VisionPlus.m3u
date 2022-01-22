@@ -1145,6 +1145,8 @@ https://rakuten-euronews-8-pt.samsung.wurl.com/manifest/playlist.m3u8
 http://evronovosti.mediacdn.ru/sr1/evronovosti/playlist_2m.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ovw6IZk.jpg" group-title="ALBANIAN NEWS",Euronews Albania
 http://api.iptveditor.com/ForumiIPTV_SHQIP/Kanale-shqiptare/1039
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tXzX8Rs.png" group-title="NON-ENGLISH NEWS",Euronews Serbia
+https://d1ei8ofhgfmkac.cloudfront.net/app-19518-1306/ngrp:QoZfNjsg_all/chunklist_w1302619168_b6256000.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/65/FRANCE_24_logo.svg/800px-FRANCE_24_logo.svg.png" group-title="WORLD NEWS",France 24
@@ -1363,11 +1365,11 @@ http://s1.showplustv.com:1997/iptvtree2021/adAXCXhWuH9Mj515sda/61551
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/TVP_Info_logo.svg/1920px-TVP_Info_logo.svg.png" group-title="POLISH NEWS",TVP Info
 http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpinfo
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Polsat_News_2021_gradient.svg/800px-Polsat_News_2021_gradient.svg.png" group-title="POLISH NEWS",Polsat News
-http://ptv.is:2095/t9m28tPG/j4PdbhNF/10412
+http://91.226.51.126:8000/udp/239.100.10.26:2234
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Polsat_News_2_2021_gradient.svg/800px-Polsat_News_2_2021_gradient.svg.png" group-title="POLISH NEWS",Polsat News 2
-http://ptv.is:2095/t9m28tPG/j4PdbhNF/35377
+http://91.226.51.126:8000/udp/239.100.10.27:2234
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Tvn24_Logo.svg/800px-Tvn24_Logo.svg.png" group-title="POLISH NEWS",TVN 24
-http://probox.mio4ever.eu:7575/m1roxbr0x012/gs7z2Ghs51x8q/21202
+http://91.226.51.126:8000/udp/239.100.10.10:2234
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cojVDUx.png" group-title="POLISH NEWS",Wydarzenia 24
 http://95.211.250.54:80/SUPERSTACJA_TV/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TpBpUU4.png" group-title="PORTUGUESE NEWS",SIC Notícias
@@ -1499,7 +1501,7 @@ https://yahoo-samsung.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Fox_Business.svg/1920px-Fox_Business.svg.png" group-title="BUSINESS NEWS",Fox Business
 http://the827solutions.com:25461/NE99101/p3szcPmhSN/201
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UrRif3p.png" group-title="BUSINESS NEWS",A Para
-http://probox.mio4ever.eu:7575/m1roxbr0x012/gs7z2Ghs51x8q/14528
+https://livesx.canlitv.center/apara2.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HRaROB0.png" group-title="BUSINESS NEWS",TVN 24 Bis
 http://95.211.250.54:80/TVN_24_BIS/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vPAwWou.png" group-title="BUSINESS NEWS",ET Now
@@ -1940,11 +1942,11 @@ http://95.211.250.54:80/EUROSPORT_2/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4ePEZ0H.png" group-title="POLISH SPORTS",nSport+
 http://toptentv.xyz:8080/3143333180178705/2598854265/237850
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pM6Q5n1.png" group-title="POLISH SPORTS",Polsat Sport
-http://ptv.is:2095/t9m28tPG/j4PdbhNF/11519
+http://91.226.51.126:8000/udp/239.100.10.97:2234
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mnohjlI.png" group-title="POLISH SPORTS",Polsat Sport Extra
-http://ptv.is:2095/t9m28tPG/j4PdbhNF/26522
+http://91.226.51.126:8000/udp/239.100.10.98:2234
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eEQxLTd.png" group-title="POLISH SPORTS",Polsat Sport Fight
-http://ptv.is:2095/t9m28tPG/j4PdbhNF/26521
+http://91.226.51.126:8000/udp/239.100.10.101:2234
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QJIzCGa.png" group-title="POLISH SPORTS",Polsat Sport News
 http://95.211.250.54:80/POLSAT_SPORT_NEWS/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IgONH1a.png" group-title="POLISH SPORTS",Polsat Sport Premium 1
@@ -2299,35 +2301,57 @@ http://190.115.29.22:8080/carter/GUV1bMq2VK/6093
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UnaxGa6.png" group-title="TURKISH SPORTS",S Sport 2
 http://line.pito-tv.com:80/MguaBxyVfO/QWHrjHjAtT/711
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QxrbzI6.png" group-title="TURKISH SPORTS",Tivibu Spor
-http://visionmedaitv.nl:7444/live/VisionMediaClubOnL1n3/q2i9MCc7NK/71.m3u8
+https://lives2.canlitv.center/tivibus.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QxrbzI6.png" group-title="TURKISH SPORTS",Tivibu Spor 2
-http://visionmedaitv.nl:7444/live/VisionMediaClubOnL1n3/q2i9MCc7NK/72.m3u8
+http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/8724
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QxrbzI6.png" group-title="TURKISH SPORTS",Tivibu Spor 3
-http://visionmedaitv.nl:7444/live/VisionMediaClubOnL1n3/q2i9MCc7NK/73.m3u8
+http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/8723
 #EXTINF:-1 tvg-logo="https://i.imgur.com/umVCKR4.png" group-title="TURKISH SPORTS",TRT Spor
 http://mfe.cliptv.az/dash/TRT_SPOR_HD.ism/playlist.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Sfu3Y7S.png" group-title="TURKISH SPORTS",TRT Spor Yıldız
 http://195.155.98.170:5858/play/a09u
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8A0aYWf.png" group-title="SERBIAN SPORTS",Arena 1 Premium
-http://185.244.240.33:8000/play/a01q
+http://5.206.237.66:9000/play/a06z
 #EXTINF:-1 tvg-logo="https://i.imgur.com/S4EVsjl.png" group-title="SERBIAN SPORTS",Arena 2 Premium
-http://iptvpick.live:900/6046606740/0889325748/400269008
+http://5.206.237.66:9000/play/a071
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uzrDNI5.png" group-title="SERBIAN SPORTS",Arena 3 Premium
-http://iptvpick.live:900/6046606740/0889325748/400269007
+http://5.206.237.66:9000/play/a072
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yc9pRNV.png" group-title="SERBIAN SPORTS",Arena eSport
-http://185.244.240.33:8000/play/a012
+http://31.47.9.27:8000/play/a017/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7W9oZCa.png" group-title="SERBIAN SPORTS",Arena Fight
 http://iptvpick.live:900/6046606740/0889325748/400269255
 #EXTINF:-1 tvg-logo="https://i.imgur.com/50ZGo5V.png" group-title="SERBIAN SPORTS",Arena Sport 1
-http://iptvpick.live:900/6046606740/0889325748/174081
+http://91.150.85.166:8000/play/a004/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/V72XapO.png" group-title="SERBIAN SPORTS",Arena Sport 2
-http://iptvpick.live:900/6046606740/0889325748/174082
+http://84.22.33.214/ArenaSport2/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Yw1kdh5.png" group-title="SERBIAN SPORTS",Arena Sport 3
-http://iptvpick.live:900/6046606740/0889325748/174083
+http://91.150.85.166:8000/play/a006/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/a3Rma7Z.png" group-title="SERBIAN SPORTS",Arena Sport 4
-http://iptvpick.live:900/6046606740/0889325748/174084
+http://5.206.237.66:9000/play/a073
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oYXOq46.png" group-title="SERBIAN SPORTS",Arena Sport 5
-http://iptvpick.live:900/6046606740/0889325748/174085
+http://5.206.237.66:9000/play/a074
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gwV31E0.png" group-title="SERBIAN SPORTS",Eurosport 1
+http://31.47.9.27:8000/play/a00w/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lTnKDju.png" group-title="SERBIAN SPORTS",Eurosport 2
+http://31.47.9.27:8000/play/a00x/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zKcn8DZ.png" group-title="SERBIAN SPORTS",Sport Klub
+http://188.124.211.212:7373/play/a082
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HjhiW62.png" group-title="SERBIAN SPORTS",Sport Klub 1
+http://91.150.85.166:8000/play/a009/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bqtc41i.png" group-title="SERBIAN SPORTS",Sport Klub 2
+http://91.150.85.166:8000/play/a00a/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7CvFh8W.png" group-title="SERBIAN SPORTS",Sport Klub 3
+http://91.150.85.166:8000/play/a00b/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5PBRYFZ.png" group-title="SERBIAN SPORTS",Sport Klub 4
+http://91.150.85.166:8000/play/a00c/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XfdFwph.png" group-title="SERBIAN SPORTS",Sport Klub 5
+http://91.150.85.166:8000/play/a00d/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/etqRDUr.png" group-title="SERBIAN SPORTS",Sport Klub 6
+http://91.150.85.166:8000/play/a00e/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zKcn8DZ.png" group-title="SERBIAN SPORTS",Sport Klub eSports
+http://188.124.211.212:7373/play/a087
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4mkAAJk.png" group-title="SERBIAN SPORTS",Sport Klub Golf
+http://188.124.211.212:7373/play/a081
 #EXTINF:-1 tvg-logo="https://i.imgur.com/50ZGo5V.png" group-title="CROATIAN SPORTS",Arena Sport 1
 http://iptvpick.live:900/6046606740/0889325748/373283
 #EXTINF:-1 tvg-logo="https://i.imgur.com/V72XapO.png" group-title="CROATIAN SPORTS",Arena Sport 2
@@ -3369,7 +3393,7 @@ http://95.211.250.54:80/CANAL+_FAMILY/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0yf7vy8.png" group-title="POLAND",Canal+ Premium
 http://95.211.250.54:80/CANAL+/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Polsat_2021_gradient.svg/1200px-Polsat_2021_gradient.svg.png" group-title="POLAND",Polsat
-http://ptv.is:2095/t9m28tPG/j4PdbhNF/10422
+http://91.226.51.126:8000/udp/239.100.10.4:2234
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Polsat_2_2021_gradient.svg/1024px-Polsat_2_2021_gradient.svg.png" group-title="POLAND",Polsat 2
 http://95.211.250.54:80/POLSAT_2/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Polsat_Doku_2021_gradient.svg/800px-Polsat_Doku_2021_gradient.svg.png" group-title="POLAND",Polsat Doku
@@ -3381,25 +3405,25 @@ http://91.226.51.126:8000/udp/239.100.10.25:2234
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Polsat_Caf%C3%A9_2021_gradient.svg/800px-Polsat_Caf%C3%A9_2021_gradient.svg.png" group-title="POLAND",Polsat Café
 http://95.211.250.54:80/POLSAT_CAFE/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Polsat_Play_2021_gradient.svg/800px-Polsat_Play_2021_gradient.svg.png" group-title="POLAND",Polsat Play
-http://ptv.is:2095/t9m28tPG/j4PdbhNF/10413
+http://91.226.51.126:8000/udp/239.100.10.82:2234
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Super_Polsat_2021_gradient.svg/800px-Super_Polsat_2021_gradient.svg.png" group-title="POLAND",Super Polsat
-http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/92855
+http://91.226.51.126:8000/udp/239.100.10.91:2234
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/TV4_pol.svg/800px-TV4_pol.svg.png" group-title="POLAND",TV4
 http://95.211.250.54:80/TV4/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/TV6_logo.svg/800px-TV6_logo.svg.png" group-title="POLAND",TV6
 http://95.211.250.54:80/TV6/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/TVN_logo.svg/1200px-TVN_logo.svg.png" group-title="POLAND",TVN
-http://probox.mio4ever.eu:7575/m1roxbr0x012/gs7z2Ghs51x8q/21171
+http://91.226.51.126:8000/udp/239.100.10.3:2234
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/TVN7_logo_2021.svg/1280px-TVN7_logo_2021.svg.png" group-title="POLAND",TVN 7
 http://95.211.250.54:80/TVN_7/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6C5y1nO.png" group-title="POLAND",TVN Fabula
-http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/92750
+http://91.226.51.126:8000/udp/239.100.10.47:2234
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/Tvn_style.png" group-title="POLAND",TVN Style
-http://probox.mio4ever.eu:7575/m1roxbr0x012/gs7z2Ghs51x8q/21210
+http://91.226.51.126:8000/udp/239.100.10.75:2234
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/TVN_turbo.svg/1920px-TVN_turbo.svg.png" group-title="POLAND",TVN Turbo
-http://probox.mio4ever.eu:7575/m1roxbr0x012/gs7z2Ghs51x8q/21209
+http://91.226.51.126:8000/udp/239.100.10.74:2234
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TVP1_2021_box-1.svg/1920px-TVP1_2021_box-1.svg.png" group-title="POLAND",TVP 1
-http://smart4k.live:8080/live/MG@IB@EWC@RSJ@US@637gDAV@ODKL@A/SX@IA@EWB@RNJ@SV@N37gDAV@MDKL@Z/9174.ts
+http://91.226.51.126:8000/udp/239.100.10.1:2234
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/TVP2_2021_box-1.svg/1920px-TVP2_2021_box-1.svg.png" group-title="POLAND",TVP 2
 http://95.211.250.54:80/TVP_2_HD/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gBFUIRT.png" group-title="POLAND",TVP Rozrywka
@@ -3565,7 +3589,7 @@ http://84.22.33.214/A2/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Atv_logosu.png" group-title="TURKEY",atv
 https://trkvz-live.daioncdn.net/atv/atv_1080p.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dl5oTth.png" group-title="TURKEY",beIN İZ
-http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/1806
+http://jessicatv.site:8080/Mcnsi/7210db0d/1806
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nPTmcny.png" group-title="TURKEY",Fox
 http://93.157.62.180/FoxTurk/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6OYvfnf.png" group-title="TURKEY",Kanal 7
