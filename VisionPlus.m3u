@@ -537,6 +537,8 @@ https://liveanevia.mncnow.id/live/eds/tvNMovies/sa_dash_vmx/tvNMovies.mpd
 http://iptv.tvmalaysia.cc:80/penang175/penang175/7267
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EX7AKlL.png" group-title="NATIONAL MOVIES",Bioskop Indonesia
 https://lnk.ec/bioskopIndo?shareext.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lN20Oy7.png" group-title="NATIONAL MOVIES",Citra Bioskop
+http://tvnasional.mobie.in/M3U8/bioskop.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/khhBdiS.png" group-title="NATIONAL MOVIES",Flik
 https://lnk.ec/FLIK?shareext.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UWCKaJw.png" group-title="NATIONAL MOVIES",IMC
@@ -771,6 +773,20 @@ http://yassooo.com:8080/Manaf/Manaf123/80220
 http://yassooo.com:8080/Manaf/Manaf123/80274
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HZsm4ku.png" group-title="ARABIC MOVIES",MBC Max
 http://yassooo.com:8080/Manaf/Manaf123/80264
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WA8rOnL.png" group-title="JAPANESE MOVIES",日本映画専門チャンネル
+http://50.7.74.29:8880/hls/j00003/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hnVBUzT.png" group-title="JAPANESE MOVIES",Star 1
+http://50.7.74.29:8880/hlsok/j00019/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hnVBUzT.png" group-title="JAPANESE MOVIES",Star 2
+http://50.7.74.29:8880/hlsok/j00018/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hnVBUzT.png" group-title="JAPANESE MOVIES",Star 3
+http://50.7.74.29:8880/hlsok/j00017/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/s8oAVs8.png" group-title="JAPANESE MOVIES",Wowow Cinema
+http://50.7.74.29:8880/hlsok/j00028/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sP1m0wl.png" group-title="JAPANESE MOVIES",Wowow Prime
+http://50.7.74.29:8880/hlsok/j00029/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9XiSzoQ.png" group-title="JAPANESE MOVIES",Wowow Plus
+http://50.7.74.29:8880/hlsok/j00043/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7RKOLNG.png" group-title="TURKISH MOVIES",beIN Box Office 1
 http://electrotv.us:80/RJj5aW2hRz/tcB8437uwT/221161.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gJVXKM6.png" group-title="TURKISH MOVIES",beIN Box Office 2
@@ -2722,6 +2738,24 @@ http://yassooo.com:8080/Manaf/Manaf123/98913
 http://yassooo.com:8080/Manaf/Manaf123/98912
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9cDvxwA.png" group-title="ARABIC SPORTS",SSC 7
 http://yassooo.com:8080/Manaf/Manaf123/98911
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/GAORA_SPORTS_logo.svg/2560px-GAORA_SPORTS_logo.svg.png" group-title="JAPANESE SPORTS",Gaora Sports
+http://50.7.74.29:8880/hlsok/j00045/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BvSZdB0.png" group-title="JAPANESE SPORTS",Golf Network
+http://50.7.74.29:8880/hlsok/j00022/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hPOoa7L.png" group-title="JAPANESE SPORTS",Green channel
+http://50.7.74.29:8880/hlsok/j00044/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qk2C02N.png" group-title="JAPANESE SPORTS",J Sports 1
+http://50.7.74.29:8880/hlsok/j00042/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8RqX7CC.png" group-title="JAPANESE SPORTS",J Sports 2
+http://50.7.74.29:8880/hls/j00041/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eNukrPc.png" group-title="JAPANESE SPORTS",J Sports 3
+http://50.7.74.29:8880/hlsok/j00040/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EmHjmbL.png" group-title="JAPANESE SPORTS",J Sports 4
+http://50.7.74.29:8880/hlsok/j00039/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Nittele_G%2B_logo.svg/1200px-Nittele_G%2B_logo.svg.png" group-title="JAPANESE SPORTS",Nittele G+
+http://50.7.74.29:8880/hlsok/j00005/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8TcSkND.png" group-title="JAPANESE SPORTS",Sky A
+http://50.7.74.29:8880/hlsok/j00020/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Bj0MyZQ.png" group-title="KOREAN SPORTS",SPOTV
 http://211.203.0.244:9981/stream/channelid/32768418.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WbPfNOb.png" group-title="KOREAN SPORTS",SPOTV 2
@@ -3392,6 +3426,34 @@ http://live.oldtvline.com:23000/mafrale3-150317/FiiH8aP54u/5328
 http://live.oldtvline.com:23000/mafrale3-150317/FiiH8aP54u/6667
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VmTkdjC.png" group-title="ITALY",TV8
 http://live.oldtvline.com:23000/mafrale3-150317/FiiH8aP54u/13
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png/800px-NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png" group-title="JAPAN",NHK G
+http://50.7.74.29:8880/hlsok/j00033/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.png/800px-NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.png" group-title="JAPAN",NHK E
+http://50.7.74.29:8880/hlsok/j00034/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bOT4gT8.png" group-title="JAPAN",Nippon TV
+http://50.7.74.29:8880/hlsok/j00004/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/TV_Asahi_Logo.svg/1920px-TV_Asahi_Logo.svg.png" group-title="JAPAN",TV Asahi
+http://50.7.74.29:8880/hlsok/j00014/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Tokyo_Broadcasting_System_logo_2020.svg/1920px-Tokyo_Broadcasting_System_logo_2020.svg.png" group-title="JAPAN",TBS
+http://50.7.74.29:8880/hlsok/j00031/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/TV_Tokyo_logo_20110629.svg/1920px-TV_Tokyo_logo_20110629.svg.png" group-title="JAPAN",TV Tokyo
+http://50.7.74.29:8880/hlsok/j00012/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZGeU8K9.png" group-title="JAPAN",Fuji TV
+http://50.7.74.29:8880/hlsok/j00010/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AkM9Xjl.png" group-title="JAPAN",NHK BSP
+http://50.7.74.29:8880/hlsok/j00036/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rCwG8Jr.png" group-title="JAPAN",NHK BS1
+http://50.7.74.29:8880/hlsok/j00037/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ol4pu18.png" group-title="JAPAN",BS Nippon TV
+http://50.7.74.29:8880/hlsok/j00047/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OqFXMUF.png" group-title="JAPAN",BS Asahi
+http://50.7.74.29:8880/hlsok/j00048/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/BS-TBS_2020.svg/1280px-BS-TBS_2020.svg.png" group-title="JAPAN",BS TBS
+http://50.7.74.29:8880/hlsok/j00051/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7uL65t7.png" group-title="JAPAN",BS Tokyo
+http://50.7.74.29:8880/hls/j00050/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MmTbzAf.png" group-title="JAPAN",BS Fuji
+http://50.7.74.29:8880/hlsok/j00049/index.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/r9gNY5R.png" group-title="KOREA",MBC
 https://5ddfd163bd00d.streamlock.net/nHDTV/nHDTV/chunklist_w2017323832.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/KBS_1_logo.svg/1920px-KBS_1_logo.svg.png" group-title="KOREA",KBS 1
