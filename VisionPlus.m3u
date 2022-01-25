@@ -27,6 +27,8 @@ https://iptv.mwafa.net/vidio/204/index.m3u8?token=1999
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=N2NlNGIzZDgtMDIzYi0zZjU4LTg3ZDMtZjVjNDJlMzQwNjJh
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/1000px-Indosiar_2015.svg.png" group-title="NASIONAL",Indosiar
 https://iptv.mwafa.net/vidio/205/index.m3u8?token=1999
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MGRhNmU1M2UtNGE3Ni0zZGRkLWJhMmQtYTFmMzE2YTRlMTY3
 #EXTINF:-1 tvg-logo="https://i.imgur.com/w2eOFdH.png" group-title="NASIONAL",O Channel
 https://iptv.mwafa.net/vidio/206/index.m3u8?token=1999
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -37,6 +39,8 @@ https://liveanevia.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Q3MDKtZ.png" group-title="NASIONAL",RTV
 https://liveanevia.mncnow.id/live/eds/RTV/sa_dash_vmx/RTV.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/MagnaChannel.png" group-title="NASIONAL",Magna Channel
 https://edge.medcom.id/live-edge/smil:magna.smil/chunklist_w1617930242_b3884000_sleng.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -51,10 +55,14 @@ https://liveanevia.mncnow.id/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINasional)/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/48/RRI_NET.png" group-title="VISUAL RADIO",RRI Net
 https://cdnrrinet.rri.co.id/rrinet/live/playlist.m3u8
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/23/Mayapada_TV.png" group-title="NASIONAL",myTV
 https://iptv.mwafa.net/vidio/6711/index.m3u8?token=1999
 #EXTINF:-1 tvg-logo="https://i.imgur.com/X4RPowm.png" group-title="NASIONAL",JPM
 http://122.248.43.138:1935/ch6/myStream/chunklist_w1318591234.m3u8
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MGRhNmU1M2UtNGE3Ni0zZGRkLWJhMmQtYTFmMzE2YTRlMTY3
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Logo_ntv.png/1200px-Logo_ntv.png" group-title="NASIONAL",Nusantara TV
 https://v6.siar.us/nusantaratv/live/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -482,7 +490,7 @@ https://cubmu.nomaden.tv:8279/MUSIKINDO/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cC3qQ1H.png" group-title="NATIONAL MUSIC",T-Music
 https://cubmu.superzap.xyz:8279/tmusic/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XD4fyZS.png" group-title="NATIONAL MUSIC",Prambors
-https://usee.galleryiptv.my.id/geyatissann/FTA-USEE/chunklist.m3u8?id=pramborstv&bandwidth=default&sync=0
+http://go.delivery.on-site.se.ke/iduntv/usitipi/FTA-USEE/chunklist.m3u8?id=pramborstv&bandwidth=default&sync=0
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PPJLB5Z.png" group-title="NATIONAL MUSIC",i-Konser
 https://nonton.site:8443/live/Thopani/Haidir/29594.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xwMqKA4.png" group-title="INDIAN MUSIC",9XM
@@ -622,21 +630,21 @@ http://asdd.cc:7444/live/1/1/2077.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/34JhaxQ.jpg" group-title="EUROPEAN MOVIES",MyCinema Europe
 http://rr.dens.tv/h/h18/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/2/2f/Action_%282014%29.svg/langfr-1920px-Action_%282014%29.svg.png" group-title="FRENCH MOVIES",Action
-http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/12721
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/349.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/f/f8/Canal%2B_Cin%C3%A9ma_2013.svg/langfr-1920px-Canal%2B_Cin%C3%A9ma_2013.svg.png" group-title="FRENCH MOVIES",Canal+ Cinema
-http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/12723
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/5897.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/8/89/CinePlusEmotion.svg/1920px-CinePlusEmotion.svg.png" group-title="FRENCH MOVIES",Cine+ Émotion
-http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/12714
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/352.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/b/b2/Cin%C3%A9%2B_Premier_%282011%29.svg/1920px-Cin%C3%A9%2B_Premier_%282011%29.svg.png" group-title="FRENCH MOVIES",Cine+ Premier
-http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/12716
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/350.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/c/cb/CinePlusFamiz_Logo.svg/1920px-CinePlusFamiz_Logo.svg.png" group-title="FRENCH MOVIES",Cine+ Famiz
-http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/12713
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/2611.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/3/3d/CinePlusFrisson.svg/1920px-CinePlusFrisson.svg.png" group-title="FRENCH MOVIES",Cine+ Frisson
-http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/12715
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/351.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/f/fd/CinePlusClub_Logo.svg/1920px-CinePlusClub_Logo.svg.png" group-title="FRENCH MOVIES",Cine+ Club
-http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/12712
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/12523.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/5/55/CinePlusClassic.svg/1920px-CinePlusClassic.svg.png" group-title="FRENCH MOVIES",Cine+ Classic
-http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/12711
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/2612.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Z6AeyI5.png" group-title="POLISH MOVIES",Canal+ Film
 http://ptv.is:2095/t9m28tPG/j4PdbhNF/10415
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Polsat_Film_2021_gradient.svg/800px-Polsat_Film_2021_gradient.svg.png" group-title="POLISH MOVIES",Polsat Film
@@ -1617,9 +1625,9 @@ http://103.226.232.199:8888/live/kamiselaluada/untuksemua/402.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pmTtL3g.png" group-title="NATIONAL SPORTS",Mola 2
 http://103.226.232.199:8888/live/kamiselaluada/untuksemua/403.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/igMrYaN.png" group-title="NATIONAL SPORTS", Usee Sports
-http://gumisasak-vision.online/Dyos-BodreX/useesport.m3u8
+https://dik.si/SEuseeSport1?shareext.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jJY4VIw.png" group-title="NATIONAL SPORTS", Usee Sports 2
-http://gumisasak-vision.online/Dyos-BodreX/useesports2.m3u8
+https://dik.si/SEuseeSPorts_2?shareext.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cg1yMfi.png" group-title="NATIONAL SPORTS",TVRI Sport HD
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRI4)/index.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -2010,11 +2018,11 @@ http://95.211.250.54:80/EUROSPORT_2/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4ePEZ0H.png" group-title="POLISH SPORTS",nSport+
 http://internetowa.tv/?c=hlsPlay&channel=nsportplus&token=04930f46ae574effac95f6edf37c5d2cfcf7e20168d6de081e120cf9311d1f44051cdf2b4e0c327af5d01747e36b74f60e62f9f349d99bf22662ed631d52eedb
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pM6Q5n1.png" group-title="POLISH SPORTS",Polsat Sport
-http://91.226.51.126:8000/udp/239.100.10.97:2234
+http://internetowa.tv/?c=hlsPlay&channel=polsatsport&token=04930f46ae574effac95f6edf37c5d2cfcf7e20168d6de081e120cf9311d1f44051cdf2b4e0c327af5d01747e36b74f60e62f9f349d99bf22662ed631d52eedb
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mnohjlI.png" group-title="POLISH SPORTS",Polsat Sport Extra
-http://91.226.51.126:8000/udp/239.100.10.98:2234
+http://internetowa.tv/?c=hlsPlay&channel=polsatsportextra&token=04930f46ae574effac95f6edf37c5d2cfcf7e20168d6de081e120cf9311d1f44051cdf2b4e0c327af5d01747e36b74f60e62f9f349d99bf22662ed631d52eedb
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eEQxLTd.png" group-title="POLISH SPORTS",Polsat Sport Fight
-http://91.226.51.126:8000/udp/239.100.10.101:2234
+http://internetowa.tv/?c=hlsPlay&channel=polsatsportfight&token=04930f46ae574effac95f6edf37c5d2cfcf7e20168d6de081e120cf9311d1f44051cdf2b4e0c327af5d01747e36b74f60e62f9f349d99bf22662ed631d52eedb
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QJIzCGa.png" group-title="POLISH SPORTS",Polsat Sport News
 http://internetowa.tv/?c=hlsPlay&channel=polsatsportnews&token=04930f46ae574effac95f6edf37c5d2cfcf7e20168d6de081e120cf9311d1f44051cdf2b4e0c327af5d01747e36b74f60e62f9f349d99bf22662ed631d52eedb
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IgONH1a.png" group-title="POLISH SPORTS",Polsat Sport Premium 1
@@ -2024,23 +2032,23 @@ http://internetowa.tv/?c=hlsPlay&channel=polsatsportpremium2&token=04930f46ae574
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IZWOLiJ.png" group-title="POLISH SPORTS",Sport Klub
 http://ptv.is:2095/t9m28tPG/j4PdbhNF/35644
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Logo_TVP_Sport.jpg" group-title="POLISH SPORTS",TVP Sport
-http://91.226.51.126:8000/udp/239.100.10.100:2234
+http://internetowa.tv/?c=hlsPlay&channel=tvpsport&token=04930f46ae574effac95f6edf37c5d2cfcf7e20168d6de081e120cf9311d1f44051cdf2b4e0c327af5d01747e36b74f60e62f9f349d99bf22662ed631d52eedb
 #EXTINF:-1 tvg-logo="https://i.imgur.com/p0k54D9.png" group-title="FRENCH SPORTS",Canal+ Sport
-http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/12791
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/356.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/D1nuT7j.png" group-title="FRENCH SPORTS",Infosport+
-http://11121314.org:8000/Exchange/Vjkfdbbnfdd/36222
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/342.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hyjk6Wx.png" group-title="FRENCH SPORTS",Foot+ 24/24
-http://11121314.org:8000/Exchange/Vjkfdbbnfdd/36223
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/1244.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0FJ92Bp.png" group-title="FRENCH SPORTS",Golf Channel
-http://163.172.100.127:1991/EWESrtD2lX/st2xcRDz67pHcpSV/32724
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/16109.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vU6Y5Of.png" group-title="FRENCH SPORTS",Golf+
-http://163.172.100.127:1991/EWESrtD2lX/st2xcRDz67pHcpSV/32725
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/7834.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/L%27%C3%89quipe_wordmark.svg/1920px-L%27%C3%89quipe_wordmark.svg.png" group-title="FRENCH SPORTS",L'Equipe
 http://callofliberty.fr/stream/LEQUIPE/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gwV31E0.png" group-title="FRENCH SPORTS",Eurosport 1
-http://11121314.org:8000/Exchange/Vjkfdbbnfdd/36217
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/345.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lTnKDju.png" group-title="FRENCH SPORTS",Eurosport 2
-http://11121314.org:8000/Exchange/Vjkfdbbnfdd/308040
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/344.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/30785UJ.png" group-title="FRENCH SPORTS",RMC Sport 1
 http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/12557
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5Rh2s8k.png" group-title="FRENCH SPORTS",RMC Sport 2
@@ -2425,17 +2433,17 @@ http://188.124.211.212:7373/play/a087
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4mkAAJk.png" group-title="SERBIAN SPORTS",Sport Klub Golf
 http://188.124.211.212:7373/play/a081
 #EXTINF:-1 tvg-logo="https://i.imgur.com/50ZGo5V.png" group-title="CROATIAN SPORTS",Arena Sport 1
-http://012345x.com:999/Gp6cDqwyIc/jqCiOFVKH5/7324
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/2505.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/V72XapO.png" group-title="CROATIAN SPORTS",Arena Sport 2
-http://012345x.com:999/Gp6cDqwyIc/jqCiOFVKH5/7325
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/2503.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Yw1kdh5.png" group-title="CROATIAN SPORTS",Arena Sport 3
-http://012345x.com:999/Gp6cDqwyIc/jqCiOFVKH5/7326
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/2501.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/a3Rma7Z.png" group-title="CROATIAN SPORTS",Arena Sport 4
-http://012345x.com:999/Gp6cDqwyIc/jqCiOFVKH5/7327
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/2499.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oYXOq46.png" group-title="CROATIAN SPORTS",Arena Sport 5
-http://012345x.com:999/Gp6cDqwyIc/jqCiOFVKH5/7328
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/2497.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BWFXNI6.png" group-title="CROATIAN SPORTS",Arena Sport 6
-http://iptvpick.live:900/6046606740/0889325748/373389
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/13586.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QiOLZoa.png" group-title="CROATIAN SPORTS",Arena Sport 7
 http://iptvpick.live:900/6046606740/0889325748/400269199
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mWyjlil.png" group-title="CROATIAN SPORTS",Arena Sport 8
@@ -3265,15 +3273,13 @@ https://blackghost.live/play/zutv-120.php?c=2304.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/Teleamazonas_Logo.png" group-title="ECUADOR",Teleamazonas
 https://vps-c97214f4.vps.ovh.net/hls/ecutv1.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8a/M6_6ter_2012.png" group-title="FRANCE",6ter
-http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/12873
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/2608.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/47/C8_logo.jpg" group-title="FRANCE",C8
 http://callofliberty.fr/stream/C8/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Canal%2B.svg/1920px-Canal%2B.svg.png" group-title="FRANCE",Canal+
-http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/12728
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/9/99/Canal%2B_Family_2013.svg/langfr-1920px-Canal%2B_Family_2013.svg.png" group-title="FRANCE",Canal+ Family
-http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/12725
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/361.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/9/95/Canal%2B_S%C3%A9ries.svg/langfr-1920px-Canal%2B_S%C3%A9ries.svg.png" group-title="FRANCE",Canal+ Series
-http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/12726
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/357.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/CStar_vector.svg/1920px-CStar_vector.svg.png" group-title="FRANCE",CStar
 http://callofliberty.fr/stream/CSTAR/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nU3uBzG.png" group-title="FRANCE",France 2
@@ -3281,9 +3287,9 @@ http://callofliberty.fr/stream/france.2/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MDwoxj5.png" group-title="FRANCE",France 3
 http://callofliberty.fr/stream/france.3/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5TrhpoO.png" group-title="FRANCE",France 4
-http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/12876
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/368.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RIZfLwR.png" group-title="FRANCE",France 5
-http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/12875
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/367.m3u8
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/4/43/18._Gulli.png/1024px-18._Gulli.png" group-title="FRANCE",Gulli
@@ -3302,10 +3308,10 @@ http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/12699
 http://flusonic-4.platinum-tv.com/TF1/index.m3u8?token=test
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/69/TF1_S%C3%A9ries_Films.svg/1920px-TF1_S%C3%A9ries_Films.svg.png" group-title="FRANCE",TF1 Séries Films
 #EXTVLCOPT:network-caching=1000
-http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/12870
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/17300.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TFX_logo.svg/1920px-TFX_logo.svg.png" group-title="FRANCE",TFX
 #EXTVLCOPT:network-caching=1000
-http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/12869
+http://190.115.29.22:8080/live/carter/GUV1bMq2VK/17301.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/54/TMC_logo.svg/1920px-TMC_logo.svg.png" group-title="FRANCE",TMC
 http://stream.suboroiptv.tv/TMC/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a7/W9_logo_2018.png" group-title="FRANCE",W9
