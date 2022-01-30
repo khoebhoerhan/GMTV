@@ -654,7 +654,7 @@ http://190.115.29.22:8080/live/carter/GUV1bMq2VK/12523.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/5/55/CinePlusClassic.svg/1920px-CinePlusClassic.svg.png" group-title="FRENCH MOVIES",Cine+ Classic
 http://190.115.29.22:8080/live/carter/GUV1bMq2VK/2612.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Z6AeyI5.png" group-title="POLISH MOVIES",Canal+ Film
-http://ptv.is:2095/t9m28tPG/j4PdbhNF/10415
+http://internetowa.tv/?c=hlsPlay&channel=canalplusfilm&token=213f9b5775ca164e0a38ad1b1a7c0aa4298b76520ee40054d142e05e293641aaf6902aeb6898ea114526269b9f9f93c1d87132f929b455ea493237393a7e1ab3
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Polsat_Film_2021_gradient.svg/800px-Polsat_Film_2021_gradient.svg.png" group-title="POLISH MOVIES",Polsat Film
 http://ptv.is:2095/t9m28tPG/j4PdbhNF/10411
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cd/Nova_Cinema_logo.png" group-title="EUROPEAN MOVIES",Nova Cinema
@@ -956,7 +956,7 @@ http://ptv.is:2095/t9m28tPG/j4PdbhNF/48813
 #EXTINF:-1 tvg-logo="https://i.imgur.com/g0CsOGO.png" group-title="SPANISH SERIES",Series 2 por Movistar+
 http://146.19.16.206:8000/play/a05u/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/F3KgZWU.png" group-title="POLISH SERIES",Canal+ Seriale
-http://ptv.is:2095/t9m28tPG/j4PdbhNF/10405
+http://internetowa.tv/?c=hlsPlay&channel=canalplusseriale&token=213f9b5775ca164e0a38ad1b1a7c0aa4298b76520ee40054d142e05e293641aaf6902aeb6898ea114526269b9f9f93c1d87132f929b455ea493237393a7e1ab3
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Polsat_Seriale_2021_gradient.svg/800px-Polsat_Seriale_2021_gradient.svg.png" group-title="POLISH SERIES",Polsat Seriale
 http://91.226.51.126:8000/udp/239.100.10.40:2234
 #EXTINF:-1 tvg-logo="https://i.imgur.com/czeiGFt.png" group-title="POLISH SERIES",TVP Seriale
@@ -1468,7 +1468,7 @@ http://91.226.51.126:8000/udp/239.100.10.10:2234
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cojVDUx.png" group-title="POLISH NEWS",Wydarzenia 24
 http://95.211.250.54:80/SUPERSTACJA_TV/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TpBpUU4.png" group-title="PORTUGUESE NEWS",SIC Notícias
-https://da-d50d173c.online.meo.pt/wp/cdn-vspp-pcs1.online.meo.pt/shls/LIVE$SIC_Noticias_HD/index.m3u8?device=IOS_Live&start=2021-12-03T23:19:00&end=END
+https://bit.ly/sicnotici?/index.m3u8
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Rtp3.png/1920px-Rtp3.png" group-title="PORTUGUESE NEWS",RTP 3
@@ -1598,7 +1598,7 @@ http://klickmode.xyz:25461/unpluggedtv/OLUNpwpot3/37623
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UrRif3p.png" group-title="BUSINESS NEWS",A Para
 https://livesx.canlitv.center/apara2.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HRaROB0.png" group-title="BUSINESS NEWS",TVN 24 Bis
-http://ptv.is:2095/t9m28tPG/j4PdbhNF/46099
+http://83.238.167.113:8001/1:0:19:10EA:3E8:13E:820000:0:0:0:
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vPAwWou.png" group-title="BUSINESS NEWS",ET Now
 http://etnowweblive-lh.akamaihd.net/i/ETN_1@348070/index_576_av-b.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/59kbGww.jpg" group-title="BUSINESS NEWS",ET Now Swadesh
@@ -2023,9 +2023,9 @@ http://internetowa.tv/?c=hlsPlay&channel=canalplussport&token=04930f46ae574effac
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Xz33IHR.png" group-title="POLISH SPORTS",Canal+ Sport 2
 http://internetowa.tv/?c=hlsPlay&channel=canalplussport2&token=04930f46ae574effac95f6edf37c5d2cfcf7e20168d6de081e120cf9311d1f44051cdf2b4e0c327af5d01747e36b74f60e62f9f349d99bf22662ed631d52eedb
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bxUcIv5.png" group-title="POLISH SPORTS",Canal+ Sport 3
-http://38.143.137.105:8080/mb1234/mb1234/15213
+http://83.238.167.113:8001/1:0:1:12c2:2e7c:13e:820000:0:0:0:
 #EXTINF:-1 tvg-logo="https://i.imgur.com/orMTq6A.png" group-title="POLISH SPORTS",Canal+ Sport 4
-http://ptv.is:2095/t9m28tPG/j4PdbhNF/42360
+http://83.238.167.113:8001/1:0:1:12c3:2e7c:13e:820000:0:0:0:
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cSVAkg0.png" group-title="POLISH SPORTS",Eleven Sports 1
 http://internetowa.tv/?c=hlsPlay&channel=eleven&token=04930f46ae574effac95f6edf37c5d2cfcf7e20168d6de081e120cf9311d1f44051cdf2b4e0c327af5d01747e36b74f60e62f9f349d99bf22662ed631d52eedb
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TlNAO45.png" group-title="POLISH SPORTS",Eleven Sports 2
@@ -2035,9 +2035,9 @@ http://internetowa.tv/?c=hlsPlay&channel=eleven3&token=04930f46ae574effac95f6edf
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wF8dohc.png" group-title="POLISH SPORTS",Eleven Sports 4
 http://internetowa.tv/?c=hlsPlay&channel=eleven4&token=04930f46ae574effac95f6edf37c5d2cfcf7e20168d6de081e120cf9311d1f44051cdf2b4e0c327af5d01747e36b74f60e62f9f349d99bf22662ed631d52eedb
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gwV31E0.png" group-title="POLISH SPORTS",Eurosport 1
-http://95.211.250.54:80/EUROSPORT_1/mono.m3u8
+http://83.238.167.113:8001/1:0:1:3E25:2EE0:13E:820000:0:0:0:
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lTnKDju.png" group-title="POLISH SPORTS",Eurosport 2
-http://95.211.250.54:80/EUROSPORT_2/mono.m3u8
+http://83.238.167.113:8001/1:0:1:290c:1edc:71:820000:0:0:0:
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4ePEZ0H.png" group-title="POLISH SPORTS",nSport+
 http://internetowa.tv/?c=hlsPlay&channel=nsportplus&token=04930f46ae574effac95f6edf37c5d2cfcf7e20168d6de081e120cf9311d1f44051cdf2b4e0c327af5d01747e36b74f60e62f9f349d99bf22662ed631d52eedb
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pM6Q5n1.png" group-title="POLISH SPORTS",Polsat Sport
@@ -2179,15 +2179,15 @@ http://live.oldtvline.com:23000/mafrale3-150317/FiiH8aP54u/35284
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gTjSyWH.png" group-title="SPANISH SPORTS",Caza y Pesca
 http://146.19.16.206:8000/play/a060/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CSBS4Ff.png" group-title="SPANISH SPORTS",DAZN 1
-http://ipflix.click:8080/0m4keke5le/r5g49bfpo/683544
+http://first.datalink.ovh:25461/Miafamili/YisLmb8vq2/1114
 #EXTINF:-1 tvg-logo="https://i.imgur.com/m5c18XU.png" group-title="SPANISH SPORTS",DAZN 2
-http://ipflix.click:8080/0m4keke5le/r5g49bfpo/683545
+http://first.datalink.ovh:25461/Miafamili/YisLmb8vq2/1483
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YiFmUxC.png" group-title="SPANISH SPORTS",DAZN 3
 http://first.datalink.ovh:25461/Miafamili/YisLmb8vq2/1620
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aiZCV4i.png" group-title="SPANISH SPORTS",DAZN 4
 http://first.datalink.ovh:25461/Miafamili/YisLmb8vq2/1621
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rqSPxoU.png" group-title="SPANISH SPORTS",DAZN F1
-http://ipflix.click:8080/0m4keke5le/r5g49bfpo/7246
+http://first.datalink.ovh:25461/Miafamili/YisLmb8vq2/40
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gwV31E0.png" group-title="SPANISH SPORTS",Eurosport 1
 http://185.236.229.101:8005/play/a00p
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lTnKDju.png" group-title="SPANISH SPORTS",Eurosport 2
@@ -2211,33 +2211,33 @@ http://blackvodka.mypsx.net:9898/sylver2k7/sylver2017/31
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lTnKDju.png" group-title="PORTUGUESE SPORTS",Eurosport 2
 http://blackvodka.mypsx.net:9898/sylver2k7/sylver2017/1742
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kTXQVRD.png" group-title="PORTUGUESE SPORTS",Eleven Sports 1
-https://da-d50d173c.online.meo.pt/wp/cdn-vspp-pcs1.online.meo.pt/shls/LIVE$Eleven_Sports_1_HD/index.m3u8?device=IOS_Live&start=2021-12-03T23:19:00&end=END
+http://blackvodka.mypsx.net:9898/sylver2k7/sylver2017/1496
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MomX4fY.png" group-title="PORTUGUESE SPORTS",Eleven Sports 2
-https://da-d50d173c.online.meo.pt/wp/cdn-vspp-pcs1.online.meo.pt/shls/LIVE$Eleven_Sports_2_HD/index.m3u8?device=IOS_Live&start=2021-12-03T23:19:00&end=END
+http://blackvodka.mypsx.net:9898/sylver2k7/sylver2017/1495
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xs4DM6q.png" group-title="PORTUGUESE SPORTS",Eleven Sports 3
-https://da-d50d173c.online.meo.pt/wp/cdn-vspp-pcs1.online.meo.pt/shls/LIVE$Eleven_Sports_3_HD/index.m3u8?device=IOS_Live&start=2021-12-03T23:19:00&end=END
+http://blackvodka.mypsx.net:9898/sylver2k7/sylver2017/1506
 #EXTINF:-1 tvg-logo="https://i.imgur.com/33qWa8r.png" group-title="PORTUGUESE SPORTS",Eleven Sports 4
-https://da-d50d173c.online.meo.pt/wp/cdn-vspp-pcs1.online.meo.pt/shls/LIVE$Eleven_Sports_4_HD/index.m3u8?device=IOS_Live&start=2021-12-03T23:19:00&end=END
+http://blackvodka.mypsx.net:9898/sylver2k7/sylver2017/1498
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uwcqzPm.png" group-title="PORTUGUESE SPORTS",Eleven Sports 5
-https://da-d50d173c.online.meo.pt/wp/cdn-vspp-pcs1.online.meo.pt/shls/LIVE$Eleven_Sports_5_HD/index.m3u8?device=IOS_Live&start=2021-12-03T23:19:00&end=END
+http://blackvodka.mypsx.net:9898/sylver2k7/sylver2017/1502
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YweD3ZH.png" group-title="PORTUGUESE SPORTS",Eleven Sports 6
-https://da-d50d173c.online.meo.pt/wp/cdn-vspp-pcs1.online.meo.pt/shls/LIVE$Eleven_Sports_6_HD/index.m3u8?device=IOS_Live&start=2021-12-03T23:19:00&end=END
+http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/51922
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/800px-NBA_TV.svg.png" group-title="PORTUGUESE SPORTS",NBA TV
-http://ptv.is:2095/t9m28tPG/j4PdbhNF/69001
+http://klickmode.xyz:25461/unpluggedtv/OLUNpwpot3/58468
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pcAhRs8.png" group-title="PORTUGUESE SPORTS",Sport TV 1
-https://da-d50d173c.online.meo.pt/wp/cdn-vspp-pcs1.online.meo.pt/shls/LIVE$SPORTTV1_HD/index.m3u8?device=IOS_Live&start=2021-12-03T23:19:00&end=END
+http://klickmode.xyz:25461/unpluggedtv/OLUNpwpot3/58487
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CPt6Fsg.png" group-title="PORTUGUESE SPORTS",Sport TV 2
-https://da-d50d173c.online.meo.pt/wp/cdn-vspp-pcs1.online.meo.pt/shls/LIVE$SPORTTV2_HD/index.m3u8?device=IOS_Live&start=2021-12-03T23:19:00&end=END
+http://klickmode.xyz:25461/unpluggedtv/OLUNpwpot3/58488
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wbhOsK2.png" group-title="PORTUGUESE SPORTS",Sport TV 3
-https://da-d50d173c.online.meo.pt/wp/cdn-vspp-pcs1.online.meo.pt/shls/LIVE$SPORTTV3_HD/index.m3u8?device=IOS_Live&start=2021-12-03T23:19:00&end=END
+http://klickmode.xyz:25461/unpluggedtv/OLUNpwpot3/58489
 #EXTINF:-1 tvg-logo="https://i.imgur.com/itYiAnd.png" group-title="PORTUGUESE SPORTS",Sport TV 4
-https://da-d50d173c.online.meo.pt/wp/cdn-vspp-pcs1.online.meo.pt/shls/LIVE$SPORTTVLive_HD/index.m3u8?device=IOS_Live&start=2021-12-03T23:19:00&end=END
+http://klickmode.xyz:25461/unpluggedtv/OLUNpwpot3/58490
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LblSggR.png" group-title="PORTUGUESE SPORTS",Sport TV 5
-http://ptv.is:2095/t9m28tPG/j4PdbhNF/68998
+http://klickmode.xyz:25461/unpluggedtv/OLUNpwpot3/58491
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RbFoVdH.png" group-title="PORTUGUESE SPORTS",Sport TV 6
 http://iptvpick.live:900/6046606740/0889325748/400229659
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Km9HrEA.png" group-title="PORTUGUESE SPORTS",Sport TV +
-http://ptv.is:2095/t9m28tPG/j4PdbhNF/69000
+https://bit.ly/3tEZVHt?inspiration.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4fCvNHl.png" group-title="BELGIAN SPORTS",Eleven Pro League 1
 http://toptentv.xyz:8080/3143333180178705/2598854265/218915
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kTXQVRD.png" group-title="BELGIAN SPORTS",Eleven Sports 1
@@ -3574,13 +3574,13 @@ http://gooserace.xyz:80/play/8RKaarZp2hb82YDzh8OYR3DuTtwoe9Rp1FUFCHkC2h4
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/People%27s_Televsion_Network_Incorporated_%28PTV%29.svg/1200px-People%27s_Televsion_Network_Incorporated_%28PTV%29.svg.png" group-title="PHILIPPINES",PTV
 https://pcccw.github.io/Ark/M3U8/Token/PH/PTVPH.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/30/Canal%2B_Family_PL.png" group-title="POLAND",Canal+ Family
-http://ptv.is:2095/t9m28tPG/j4PdbhNF/26538
+http://internetowa.tv/?c=hlsPlay&channel=canalplusfamily&token=213f9b5775ca164e0a38ad1b1a7c0aa4298b76520ee40054d142e05e293641aaf6902aeb6898ea114526269b9f9f93c1d87132f929b455ea493237393a7e1ab3
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0yf7vy8.png" group-title="POLAND",Canal+ Premium
-http://ptv.is:2095/t9m28tPG/j4PdbhNF/85895
+http://internetowa.tv/?c=hlsPlay&channel=canalplus&token=213f9b5775ca164e0a38ad1b1a7c0aa4298b76520ee40054d142e05e293641aaf6902aeb6898ea114526269b9f9f93c1d87132f929b455ea493237393a7e1ab3
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Polsat_2021_gradient.svg/1200px-Polsat_2021_gradient.svg.png" group-title="POLAND",Polsat
 http://91.226.51.126:8000/udp/239.100.10.4:2234
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Polsat_2_2021_gradient.svg/1024px-Polsat_2_2021_gradient.svg.png" group-title="POLAND",Polsat 2
-http://ptv.is:2095/t9m28tPG/j4PdbhNF/10421
+http://83.238.167.113:8001/1:0:1:33aa:3390:71:820000:0:0:0:
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Polsat_Doku_2021_gradient.svg/800px-Polsat_Doku_2021_gradient.svg.png" group-title="POLAND",Polsat Doku
 http://ptv.is:2095/t9m28tPG/j4PdbhNF/35378
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EiveaZi.png" group-title="POLAND",Polsat Games
@@ -3594,19 +3594,19 @@ http://91.226.51.126:8000/udp/239.100.10.82:2234
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Super_Polsat_2021_gradient.svg/800px-Super_Polsat_2021_gradient.svg.png" group-title="POLAND",Super Polsat
 http://91.226.51.126:8000/udp/239.100.10.91:2234
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/TV4_pol.svg/800px-TV4_pol.svg.png" group-title="POLAND",TV4
-http://ptv.is:2095/t9m28tPG/j4PdbhNF/11500
+http://internetowa.tv/?c=hlsPlay&channel=tv4&token=213f9b5775ca164e0a38ad1b1a7c0aa4298b76520ee40054d142e05e293641aaf6902aeb6898ea114526269b9f9f93c1d87132f929b455ea493237393a7e1ab3
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/TV6_logo.svg/800px-TV6_logo.svg.png" group-title="POLAND",TV6
-http://ptv.is:2095/t9m28tPG/j4PdbhNF/16778
+http://internetowa.tv/?c=hlsPlay&channel=tv6&token=213f9b5775ca164e0a38ad1b1a7c0aa4298b76520ee40054d142e05e293641aaf6902aeb6898ea114526269b9f9f93c1d87132f929b455ea493237393a7e1ab3
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/TVN_logo.svg/1200px-TVN_logo.svg.png" group-title="POLAND",TVN
-http://91.226.51.126:8000/udp/239.100.10.3:2234
+http://internetowa.tv/?c=hlsPlay&channel=tvn&token=213f9b5775ca164e0a38ad1b1a7c0aa4298b76520ee40054d142e05e293641aaf6902aeb6898ea114526269b9f9f93c1d87132f929b455ea493237393a7e1ab3
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/TVN7_logo_2021.svg/1280px-TVN7_logo_2021.svg.png" group-title="POLAND",TVN 7
-http://95.211.250.54:80/TVN_7/mono.m3u8
+http://internetowa.tv/?c=hlsPlay&channel=tvn7&token=213f9b5775ca164e0a38ad1b1a7c0aa4298b76520ee40054d142e05e293641aaf6902aeb6898ea114526269b9f9f93c1d87132f929b455ea493237393a7e1ab3
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6C5y1nO.png" group-title="POLAND",TVN Fabula
-http://91.226.51.126:8000/udp/239.100.10.47:2234
+http://internetowa.tv/?c=hlsPlay&channel=tvnfabula&token=213f9b5775ca164e0a38ad1b1a7c0aa4298b76520ee40054d142e05e293641aaf6902aeb6898ea114526269b9f9f93c1d87132f929b455ea493237393a7e1ab3
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/Tvn_style.png" group-title="POLAND",TVN Style
-http://91.226.51.126:8000/udp/239.100.10.75:2234
+http://internetowa.tv/?c=hlsPlay&channel=tvnstyle&token=213f9b5775ca164e0a38ad1b1a7c0aa4298b76520ee40054d142e05e293641aaf6902aeb6898ea114526269b9f9f93c1d87132f929b455ea493237393a7e1ab3
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/TVN_turbo.svg/1920px-TVN_turbo.svg.png" group-title="POLAND",TVN Turbo
-http://91.226.51.126:8000/udp/239.100.10.74:2234
+http://internetowa.tv/?c=hlsPlay&channel=tvnturbo&token=213f9b5775ca164e0a38ad1b1a7c0aa4298b76520ee40054d142e05e293641aaf6902aeb6898ea114526269b9f9f93c1d87132f929b455ea493237393a7e1ab3
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TVP1_2021_box-1.svg/1920px-TVP1_2021_box-1.svg.png" group-title="POLAND",TVP 1
 http://91.226.51.126:8000/udp/239.100.10.1:2234
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/TVP2_2021_box-1.svg/1920px-TVP2_2021_box-1.svg.png" group-title="POLAND",TVP 2
@@ -3614,7 +3614,7 @@ http://ptv.is:2095/t9m28tPG/j4PdbhNF/46064
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gBFUIRT.png" group-title="POLAND",TVP Rozrywka
 http://ptv.is:2095/t9m28tPG/j4PdbhNF/26519
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Rkw85FP.jpg" group-title="PORTUGAL",CMTV
-http://probox.mio4ever.eu:7575/m1roxbr0x012/gs7z2Ghs51x8q/21373
+https://bit.ly/326rRZp?inspiration.m3u8
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/RTP1_-_Logo_2016.svg/1920px-RTP1_-_Logo_2016.svg.png" group-title="PORTUGAL",RTP 1
@@ -3624,7 +3624,7 @@ https://streaming-live.rtp.pt/liverepeater/rtpClean1HD.smil/playlist.m3u8|user-a
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/RTP2_logo_2016.png" group-title="PORTUGAL",RTP 2
 https://streaming-live.rtp.pt/liverepeater/rtpClean2HD.smil/playlist.m3u8|user-agent=RTP Play/2.0.26 (Linux;Android 11) ExoPlayerLib/2.11.8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4d/Sociedade_Independente_de_Comunica%C3%A7%C3%A3o_Logo_2018.png" group-title="PORTUGAL",SIC
-https://da-d50d173c.online.meo.pt/wp/cdn-vspp-pcs1.online.meo.pt/shls/LIVE$SIC_HD/index.m3u8?device=IOS_Live&start=2021-12-03T23:19:00&end=END
+https://bit.ly/sicportugal?/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/04/SIC_Caras_logo.png" group-title="PORTUGAL",SIC Caras
 https://da-d50d173c.online.meo.pt/wp/cdn-vspp-pcs1.online.meo.pt/shls/LIVE$SIC_Caras_HD/index.m3u8?device=IOS_Live&start=2021-12-03T23:19:00&end=END
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZwRFjOY.png" group-title="PORTUGAL",SIC Mulher
