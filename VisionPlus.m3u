@@ -2196,7 +2196,7 @@ http://first.datalink.ovh:25461/Miafamili/YisLmb8vq2/1620
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aiZCV4i.png" group-title="SPANISH SPORTS",DAZN 4
 http://first.datalink.ovh:25461/Miafamili/YisLmb8vq2/1621
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rqSPxoU.png" group-title="SPANISH SPORTS",DAZN F1
-http://first.datalink.ovh:25461/Miafamili/YisLmb8vq2/40
+http://66.70.176.103:8081/SPAIN%7CMOVISTARF1/SPAIN%7CMOVISTARF1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gwV31E0.png" group-title="SPANISH SPORTS",Eurosport 1
 http://185.236.229.101:8005/play/a00p
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lTnKDju.png" group-title="SPANISH SPORTS",Eurosport 2
@@ -2655,37 +2655,37 @@ http://new-tv.cloud:25461/AlanLopez/AtSrcmKDadQ5/141486
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/DIRECTV_Sports_2_Latin_America_%282018%29.svg/1920px-DIRECTV_Sports_2_Latin_America_%282018%29.svg.png" group-title="LATINO SPORTS",DirecTV Sports 2
 http://new-tv.cloud:25461/AlanLopez/AtSrcmKDadQ5/141488
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cf/Fox_Sports_Premium_Argentina_2020.png" group-title="LATINO SPORTS",Fox Sports Premium
-http://181.191.141.4:9981/stream/channelid/60660329?profile=pass
+http://edge02-fdo-py.cvattv.com.ar/live/c3eds/Fox_Sports_Premiun_HD/SA_SAGEMCOM/Fox_Sports_Premiun_HD.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1920px-ESPN_wordmark.svg.png" group-title="LATINO SPORTS",ESPN LATAM
-http://181.191.141.4:9981/stream/channelid/1469125493?profile=pass
+http://edge02-fdo-py.cvattv.com.ar/live/c3eds/ESPN2HD/SA_SAGEMCOM/ESPN2HD.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1920px-ESPN_wordmark.svg.png" group-title="LATINO SPORTS",ESPN Mexico
 http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/98780
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/1280px-ESPN2_logo.svg.png" group-title="LATINO SPORTS",ESPN 2 LATAM
-http://181.191.141.4:9981/stream/channelid/462957684?profile=pass
+http://edge-live14-hr.cvattv.com.ar/live/c2live/ESPN_HD/SA_SAGEMCOM/ESPN_HD.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/1280px-ESPN2_logo.svg.png" group-title="LATINO SPORTS",ESPN 2 Mexico
 http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/98781
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Crvxgth.png" group-title="LATINO SPORTS",ESPN 3 LATAM
-http://181.191.141.4:9981/stream/channelid/2062388909?profile=pass
+http://edge02-fdo-py.cvattv.com.ar/live/c3eds/ESPN3/SA_SAGEMCOM/ESPN3.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Crvxgth.png" group-title="LATINO SPORTS",ESPN 3 Mexico
 http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/98782
-#EXTINF:-1 tvg-logo="https://i.imgur.com/89RCPvg.png" group-title="LATINO SPORTS",ESPN 4
-http://45.179.140.242:8000/play/a0jo
+#EXTINF:-1 tvg-logo="https://i.imgur.com/89RCPvg.png" group-title="LATINO SPORTS",ESPN 4 LATAM
+http://edge02-fdo-py.cvattv.com.ar/live/c7eds/ESPN4/SA_SAGEMCOM/ESPN4.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qhBbVAc.png" group-title="LATINO SPORTS",ESPN Extra LATAM
-http://181.191.141.4:9981/stream/channelid/1788551776?profile=pass
+http://edge02-fdo-py.cvattv.com.ar/live/c3eds/ESPNHD/SA_SAGEMCOM/ESPNHD.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qhBbVAc.png" group-title="LATINO SPORTS",ESPN Extra Mexico
 http://tv.nousiptv.com:8080/cecilia1/1cecilia/4120
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Au1Wa24.png" group-title="LATINO SPORTS",Fox Sports LATAM
-http://181.191.141.4:9981/stream/channelid/324572227?profile=pass
+https://chromecast.cvattv.com.ar/live/c3eds/FoxSports/SA_SAGEMCOM/FoxSports.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uSH8Z1b.png" group-title="LATINO SPORTS",Fox Sports 1 Chile
 http://tv.nousiptv.com:8080/cecilia1/1cecilia/3612
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Au1Wa24.png" group-title="LATINO SPORTS",Fox Sports Mexico
 https://dizf8i52j4sep.cloudfront.net/out/v1/148af6c03e6d48b0a725611fae5ed3a7/index.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DpnatBM.png" group-title="LATINO SPORTS",Fox Sports 2 LATAM
-http://181.191.141.4:9981/stream/channelid/1795408407?profile=pass
+https://chromecast.cvattv.com.ar/live/c3eds/FoxSports2HD/SA_SAGEMCOM/FoxSports2HD.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DpnatBM.png" group-title="LATINO SPORTS",Fox Sports 2 Mexico
 https://d17lgdx4t7a4od.cloudfront.net/out/v1/bca3f8d654aa4cb293e4e9801468a5a3/index.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/w8sjQN2.png" group-title="LATINO SPORTS",Fox Sports 3 LATAM
-http://181.191.141.4:9981/stream/channelid/1539821382?profile=pass
+https://edge1-ccast-sl.cvattv.com.ar/live/c3eds/FoxSports3HD/SA_SAGEMCOM/FoxSports3HD.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/w8sjQN2.png" group-title="LATINO SPORTS",Fox Sports 3 Mexico
 https://d14a5mi0m64mw7.cloudfront.net/out/v1/8a240d2e8a64453da6288810ede90a60/index.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qan7sfu.png" group-title="LATINO SPORTS",Sky Sports 1
@@ -2693,7 +2693,7 @@ http://disfruta.net:80/drquantum1/3Hc1bDGyZ9/4526
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qan7sfu.png" group-title="LATINO SPORTS",Sky Sports 2
 http://54.39.156.227:2080/4DbtkkGQZA/sdFuLiWeYm/52939
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IyqLOSV.png" group-title="LATINO SPORTS",TNT Sports
-http://181.191.141.4:9981/stream/channelid/1708683349?profile=pass
+https://edge02-fdo-py.cvattv.com.ar/live/c3eds/TNT_Sports_HD/SA_SAGEMCOM/TNT_Sports_HD.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/1920px-TUDN_Logo.svg.png" group-title="LATINO SPORTS",TUDN
 http://fling.sytes.net:25461/f8GFniePT4/Sk6ZQGdz7n/1925
 #EXTINF:-1 tvg-logo="https://i.imgur.com/I7Lhgej.png" group-title="LATINO SPORTS",TyC Sports
