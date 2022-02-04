@@ -1182,6 +1182,8 @@ https://rt-esp.gcdn.co/live/rtesp/playlist_4500Kb.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/RT-France-logo.svg/800px-RT-France-logo.svg.png" group-title="FRENCH NEWS",RT France
 https://rt-fra.gcdn.co/live/rtfrance/playlist_4500Kb.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/o6B1ONQ.png" group-title="GERMAN NEWS",RT DE
+https://rt-ger.gcdn.co/live/rtdeutsch/playlist_4500Kb.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7ENpOTr.png" group-title="WORLD NEWS",Euronews
@@ -1578,9 +1580,9 @@ http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/3278
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KxxvR2X.png" group-title="BUSINESS NEWS",CNBC
 https://liveanevia.mncnow.id/live/eds/CNBC/sa_dash_vmx/CNBC.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HlXhqyY.png" group-title="BUSINESS NEWS",CNBC World
-http://klickmode.xyz:25461/unpluggedtv/OLUNpwpot3/50181
+http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/683879
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KxxvR2X.png" group-title="BUSINESS NEWS",CNBC USA
-http://klickmode.xyz:25461/unpluggedtv/OLUNpwpot3/21007
+http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/4956
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TFr8ZAE.png" group-title="BUSINESS NEWS",CNBC Arabiya
 https://hiplayer.hibridcdn.net/t/cnbcarabia-live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/K4v9gj2.png" group-title="BUSINESS NEWS",CNBC Awaaz
@@ -1675,7 +1677,7 @@ https://liveanevia.mncnow.id/live/eds/FightSports/sa_dash_vmx/FightSports.mpd
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/800px-NBA_TV.svg.png" group-title="NATIONAL SPORTS",NBA TV
 http://139.99.71.104:8888/live/blink2/q4xvtv4ymi/3099.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0FJ92Bp.png" group-title="AMERICAN SPORTS",Golf Channel
-http://klickmode.xyz:25461/unpluggedtv/OLUNpwpot3/21259
+http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/13753
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0FJ92Bp.png" group-title="NATIONAL SPORTS",Golf Channel
 http://zalogitv.tech:8080/alv7/7589/1757
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0g1cseU.png" group-title="NATIONAL SPORTS",eGG Network
@@ -1683,7 +1685,7 @@ http://rr.dens.tv/h/h22/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/o0WVl7b.png" group-title="NATIONAL SPORTS",Dunia Games
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(ec41a5e2-09e4-431d-b92e-383fa7abe25c)/manifest.mpd
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/800px-NBA_TV.svg.png" group-title="AMERICAN SPORTS",NBA TV
-http://shashe.dianshiwang.vip:27000/live/1G6TqszHmbSK/44rbL95yUhPE/55746.ts
+http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/13753
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 #EXTINF:-1 tvg-logo="https://i.imgur.com/E3OjM1k.png" group-title="WORLD SPORTS",HTV Thể Thao
 https://l9v8fomqgzliv.vcdn.cloud/live/htv-thethao/chunklist_2.m3u8
@@ -1718,7 +1720,7 @@ https://free.one24tv.com:443/live/34981643629228/34981643629228/1103.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uYcwFSD.png" group-title="ARABIC SPORTS",beIN Sports Xtra 1
 https://free.one24tv.com:443/live/34981643629228/34981643629228/1143.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Q9ACq0T.png" group-title="ARABIC SPORTS",beIN Sports Xtra 2
-http://174.138.184.166:25461/livesport_ios/livesport_android/57
+http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/689266
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MRULdc8.png" group-title="FRENCH SPORTS",beIN Sports 1
 http://belfast.dyndns.tv:5808/BEINHD1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NDp6TlM.png" group-title="FRENCH SPORTS",beIN Sports 2
@@ -1726,11 +1728,11 @@ http://belfast.dyndns.tv:5808/BEINHD2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/j8VC6nB.png" group-title="FRENCH SPORTS",beIN Sports 3
 http://belfast.dyndns.tv:5808/BEINHD3/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/o8zT78o.png" group-title="ARABIC SPORTS",beIN Sports English 1
-http://yassooo.com:8080/Manaf/Manaf123/80024
+http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/689287
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RJ17vOc.png" group-title="ARABIC SPORTS",beIN Sports English 2
-http://yassooo.com:8080/Manaf/Manaf123/80023
+http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/689288
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sKFx2QF.png" group-title="ARABIC SPORTS",beIN Sports English 3
-http://vstreams.tv:2082/rb0zYNF5GQ/FGWoCyPvwt/1170902
+http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/689289
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NOOEDFi.png" group-title="ARABIC SPORTS",beIN Sports French 1
 http://smartiptv.ddnsco.com:8080/iptvauthority110/iptvauthority110/147221
 #EXTINF:-1 tvg-logo="https://i.imgur.com/n6iA4cg.png" group-title="ARABIC SPORTS",beIN Sports French 2
@@ -1744,13 +1746,13 @@ http://130.193.166.18:80/cache/Bein-Prem-2-HEVC/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/T7UlxCI.png" group-title="ARABIC SPORTS",beIN Sports Premium 3
 http://130.193.166.18:80/cache/Bein-Prem-3-HEVC/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MRULdc8.png" group-title="TURKISH SPORTS",beIN Sports 1
-http://links.iptvlogin.com:80/play/z4oWe1fPzLX4B5IQDHEeWcJSRjqm6heeKZDvomhj5Tc/ts
+http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/682946
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NDp6TlM.png" group-title="TURKISH SPORTS",beIN Sports 2
-http://links.iptvlogin.com:80/play/z4oWe1fPzLX4B5IQDHEeWalBmstqYn-Lzcevx13OzlI/ts
+http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/682947
 #EXTINF:-1 tvg-logo="https://i.imgur.com/j8VC6nB.png" group-title="TURKISH SPORTS",beIN Sports 3
-http://links.iptvlogin.com:80/play/z4oWe1fPzLX4B5IQDHEeWcDHkZE20FPIbV1TmRQVWs0/ts
+http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/682948
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Lu26Yho.png" group-title="TURKISH SPORTS",beIN Sports 4
-http://links.iptvlogin.com:80/play/z4oWe1fPzLX4B5IQDHEeWYC4hW4i6cv2WUJj_QZ4J3I/ts
+http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/682949
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fBWCN2V.png" group-title="TURKISH SPORTS",beIN Sports Haber
 https://livesx.canlitv.center/beinsportshaber.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MRULdc8.png" group-title="AUSTRALIAN SPORTS",beIN Sports 1
@@ -1768,27 +1770,27 @@ https://www.wopep.com/02_epl1_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NDp6TlM.png" group-title="THAI SPORTS",beIN Sports 2
 https://www.wopep.com/02_epl2_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LfzLKei.png" group-title="AMERICAN SPORTS",beIN Sports en Español
-http://klickmode.xyz:25461/unpluggedtv/OLUNpwpot3/37552
+http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/678747
 #EXTINF:-1 tvg-logo="https://i.imgur.com/x8049OP.png" group-title="AMERICAN SPORTS",beIN Sports Xtra
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df975e2b27cf5000921c102/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c82b290-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=672c13ed-c11c-4ba2-b749-117f2f0aab45&userId=&serverSideAds=true
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oGyeYgb.png" group-title="AMERICAN SPORTS",beIN Sports Xtra en Español
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60492fdd9989d30007ccd30a/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a121ad30-ae69-11eb-a87c-2ba0b5b8041d&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=ac3bc3c0-b26f-4c9c-8c94-988af191404a&userId=&serverSideAds=true
 #EXTINF:-1 tvg-logo="https://i.imgur.com/39bwyGI.png" group-title="AMERICAN SPORTS",beIN Sports
-http://klickmode.xyz:25461/unpluggedtv/OLUNpwpot3/37554
+http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/682942
 #EXTINF:-1 tvg-logo="https://i.imgur.com/39bwyGI.png" group-title="CANADIAN SPORTS",beIN Sports
 http://links.iptvlogin.com:80/play/z4oWe1fPzLX4B5IQDHEeWUoiKudLcJ2ceovXV8IDYXM/ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/x8049OP.png" group-title="CANADIAN SPORTS",beIN Sports Xtra
 http://status.tehw00t.net/miniProxy.php/https://bein-xtra-samsung-canada.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/MLBNetworkLogo.svg/800px-MLBNetworkLogo.svg.png" group-title="AMERICAN SPORTS",MLB Network
-http://klickmode.xyz:25461/unpluggedtv/OLUNpwpot3/40913
+http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/14402
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gZXSAhf.png" group-title="AMERICAN SPORTS",NFL Network
 http://klickmode.xyz:25461/unpluggedtv/OLUNpwpot3/22891
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LH4EVbg.png" group-title="AMERICAN SPORTS",NHL Network
 http://klickmode.xyz:25461/unpluggedtv/OLUNpwpot3/22924
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JApkfiF.png" group-title="AMERICAN SPORTS",Tennis Channel
-http://klickmode.xyz:25461/unpluggedtv/OLUNpwpot3/21360
+http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/683506
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lcpZ5CC.png" group-title="AMERICAN SPORTS",WWE Network
-http://klickmode.xyz:25461/unpluggedtv/OLUNpwpot3/21368
+http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/683883
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c8/BoxNation2014Logo.png" group-title="BRITISH SPORTS",Box Nation
 http://45.148.147.123:5079/play/a1329
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7dg7EB7.png" group-title="BRITISH SPORTS",BT Sport 1
@@ -1916,15 +1918,15 @@ http://iptvpick.live:900/1038203932/1883321016/17117
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gGRqRoy.png" group-title="GREEK SPORTS",Nova Sport 6
 http://iptvpick.live:900/1038203932/1883321016/400220747
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1g9mYwr.png" group-title="AMERICAN SPORTS",CBS Sports Network
-http://klickmode.xyz:25461/unpluggedtv/OLUNpwpot3/32236
+http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/14385
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1920px-ESPN_wordmark.svg.png" group-title="AMERICAN SPORTS",ESPN
-http://klickmode.xyz:25461/unpluggedtv/OLUNpwpot3/21224
+http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/683881
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/1280px-ESPN2_logo.svg.png" group-title="AMERICAN SPORTS",ESPN 2
-http://klickmode.xyz:25461/unpluggedtv/OLUNpwpot3/21225
+http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/683882
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YhuEewa.png" group-title="AMERICAN SPORTS",ESPN Deportes
 http://klickmode.xyz:25461/unpluggedtv/OLUNpwpot3/21234
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/ESPNews.svg/1920px-ESPNews.svg.png" group-title="AMERICAN SPORTS",ESPNews
-http://klickmode.xyz:25461/unpluggedtv/OLUNpwpot3/21236
+http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/4935
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qimdreM.png" group-title="AMERICAN SPORTS",FS1
 http://klickmode.xyz:25461/unpluggedtv/OLUNpwpot3/21249
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jxLMBZt.png" group-title="AMERICAN SPORTS",FS2
@@ -2082,9 +2084,9 @@ http://190.115.29.22:8080/live/carter/GUV1bMq2VK/345.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lTnKDju.png" group-title="FRENCH SPORTS",Eurosport 2
 http://190.115.29.22:8080/live/carter/GUV1bMq2VK/344.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/30785UJ.png" group-title="FRENCH SPORTS",RMC Sport 1
-http://smartiptv.ddnsco.com:8080/iptvauthority110/iptvauthority110/50341
+http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/682956
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5Rh2s8k.png" group-title="FRENCH SPORTS",RMC Sport 2
-http://smartiptv.ddnsco.com:8080/iptvauthority110/iptvauthority110/50342
+http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/625226
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kaUN9Uw.png" group-title="ROMANIAN SPORTS",Digi Sport 1
 http://21929815.rossteleccom.net/iptv/BA63P2YZQP3TSZ/2523/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xxLvKJD.png" group-title="ROMANIAN SPORTS",Digi Sport 2
@@ -2264,25 +2266,27 @@ http://ky-iptv.com:25461/86648325/96839295/227549
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RcraolV.png" group-title="BELGIAN SPORTS",Voo Sport World 2
 http://ky-iptv.com:25461/86648325/96839295/227550
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gwV31E0.png" group-title="RUSSIAN SPORTS",Eurosport 1
-https://5-61-37-241.livesports24.online/eurosport1ru.m3u8
+http://185.129.1.242:80/eurosport1/mpegts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lTnKDju.png" group-title="RUSSIAN SPORTS",Eurosport 2
 https://5-61-37-241.livesports24.online/ruseurosport2.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hrxRejY.png" group-title="RUSSIAN SPORTS",Футбол
 https://5-61-37-241.livesports24.online/footballrus.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nnUATx1.png" group-title="RUSSIAN SPORTS",Матч!
-https://5-61-37-241.livesports24.online/ooomatch.m3u8
+http://185.129.1.242:80/matchtvhd/mpegts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7DVDRLz.png" group-title="RUSSIAN SPORTS",Матч! Арена
-https://5-61-37-241.livesports24.online/rumatcharena.m3u8
+http://185.129.1.242:80/matcharena/mpegts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MsZ2Zks.png" group-title="RUSSIAN SPORTS",Матч! Футбол 1
-https://5-61-37-241.livesports24.online/ntvmatchfoot1.m3u8
+http://185.129.1.242:80/matchfutbol1hd/mpegts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YsQjzj4.png" group-title="RUSSIAN SPORTS",Матч! Футбол 2
-https://5-61-37-241.livesports24.online/mfootball2rus.m3u8
+http://185.129.1.242:80/matchfutbol2hd/mpegts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZkIcKWs.png" group-title="RUSSIAN SPORTS",Матч! Футбол 3
-https://5-61-37-241.livesports24.online/rumatchf3.m3u8
+http://185.129.1.242:80/matchfutbol3hd/mpegts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ru/1/13/%D0%9C%D0%B0%D1%82%D1%87%21_%D0%98%D0%B3%D1%80%D0%B0.png" group-title="RUSSIAN SPORTS",Матч! Игра
+http://185.129.1.242:80/matchiqrahd/mpegts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sMxyONa.png" group-title="RUSSIAN SPORTS",Матч! Страна
-https://5-61-37-241.livesports24.online/mnashsport.m3u8
+https://bl.uma.media/live/291661/HLS/4614144_3,2883584_2,1153024_1/1613109268/2fb2de98a984b4b86bc2cdd980da3430/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/62XuaKh.png" group-title="RUSSIAN SPORTS",Матч! Премьер
-https://5-61-37-241.livesports24.online/mpremierrus.m3u8
+http://37.187.28.95:2022/Matchpremyer/mpegts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0TYhPGI.png" group-title="RUSSIAN SPORTS",Setanta Sports 1
 https://5-61-37-241.livesports24.online/rusetantaeurasia.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nUGCiAb.png" group-title="RUSSIAN SPORTS",Setanta Sports 2
@@ -2695,7 +2699,7 @@ http://54.39.156.227:2080/4DbtkkGQZA/sdFuLiWeYm/52939
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IyqLOSV.png" group-title="LATINO SPORTS",TNT Sports
 https://edge02-fdo-py.cvattv.com.ar/live/c3eds/TNT_Sports_HD/SA_SAGEMCOM/TNT_Sports_HD.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/1920px-TUDN_Logo.svg.png" group-title="LATINO SPORTS",TUDN
-http://fling.sytes.net:25461/f8GFniePT4/Sk6ZQGdz7n/1925
+http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/684705
 #EXTINF:-1 tvg-logo="https://i.imgur.com/I7Lhgej.png" group-title="LATINO SPORTS",TyC Sports
 https://d3awnlgqz0szay.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index_9.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FbFe2uu.png" group-title="BRASILIAN SPORTS",Band Sports
@@ -2951,43 +2955,43 @@ https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/T
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/92/TVS_Sarawak.jpg" group-title="MALAYSIA",TVS
 http://194.233.76.27:2082/1992/1992/32
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TVRRM2ZBdUVrV1BlUkNmeFVBU2p2WktEMlBkX0dhSlRad1VSaEc0VHJzc0RXbEZ0RlFvNl9QQXI3RVFoZGFUWlhHbF92cmRiYlZBcTJnc0NMb2pZbGFMSThkajlndmJrRTloRTFnMl9tVFZYb0JFRjNGamFsdTFVcVFHc1h6NnlYRGJ3Y0ZVTHI5R1FYNVBsVDRXVDU2SVBKUnFRMS15WmlmT0RkQ0xJTFMtOTFoRE5oeExobWJNQW5rdFJEbUxkeHhaZmNEMGpTQ0NSYW1TajJuOWxJSl9vT2dWYjBuTGZvYlZrSlBDemtKSDk0VGN6aFQ3V1EzRjRvVzlrNHFJSE9iM0JlVjdibHRIZHN6dUFna3BxbW5iNUUwWGNRR1J5OU14c3dxeWZrVWpvMzY5VDF6WVZFQTZWRFV6QzZSdWIxY0NvcEJaRW9VU3h6dmw2UlRiTWdyenZnSEUyX1kyb1p3STFtQW9jcU5kYzVwTlQmY29udGV4dFR5cGU9bm9uZSZpZD01NzU0MTE2IiwiYWNjb3VudF9pZCI6MjA4MjMxMSwiY29udGVudF9pZCI6ImZ0YV9jaDVfZGFzaF90dl9kcm0iLCJmaWxlcyI6IiIsInVzZXJfdG9rZW4iOiJkako4TVRRM2ZBdUVrV1BlUkNmeFVBU2p2WktEMlBkX0dhSlRad1VSaEc0VHJzc0RXbEZ0RlFvNl9QQXI3RVFoZGFUWlhHbF92cmRiYlZBcTJnc0NMb2pZbGFMSThkajlndmJrRTloRTFnMl9tVFZYb0JFRjNGamFsdTFVcVFHc1h6NnlYRGJ3Y0ZVTHI5R1FYNVBsVDRXVDU2SVBKUnFRMS15WmlmT0RkQ0xJTFMtOTFoRE5oeExobWJNQW5rdFJEbUxkeHhaZmNEMGpTQ0NSYW1TajJuOWxJSl9vT2dWYjBuTGZvYlZrSlBDemtKSDk0VGN6aFQ3V1EzRjRvVzlrNHFJSE9iM0JlVjdibHRIZHN6dUFna3BxbW5iNUUwWGNRR1J5OU14c3dxeWZrVWpvMzY5VDF6WVZFQTZWRFV6QzZSdWIxY0NvcEJaRW9VU3h6dmw2UlRiTWdyenZnSEUyX1kyb1p3STFtQW9jcU5kYzVwTlQiLCJ1ZGlkIjoiIiwiYWRkaXRpb25hbF9jYXNfc3lzdGVtIjoxNDd9&signature=PwkVYG6Bjs7RGuVBkC6gMdBCoqo%3d
+#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TVRRM2ZMbkIybE95NTA0VXZmNE9VMnlJU0U2eW1IUmx0UEFVUnNPa0xuVmg1bjFvZWZ0cDlZdDFjX2ZnV3VRUGREQURtUjNIbHlXbWwtWF9GVnlCT184QzhrbnEwSUNxbXpXZFFhX3Vyc3prUTdrUnRtNjkxTklCQTIwRDZOYzBqYmNmTjQ5N05CUlNQRm94cXJhb1BGSGhGaHF1MUU0X1Qzc1NhTjkzWVBEWUVlR2JNYjRJeW44WHRoMTliRHpHTVVYMXpCeWZaSVN6RnR1cHBSeXVnNWR6M01lVUFZZVVoSHloZjBHdkplellBM29Tdzlva3cxb21fVlVxekVtaFpPd3NseDg2ZFVIRnBKRlVheGIyMUhaMkwzNWZLcmpvZXJMdnppbHpTNnRQNGhteXBWZ1k5RXNmc2dER2J3MEdkZHdmSVU0bTF5a2RCay0zd294OGdBQmhyLVgweWRBWUFhTjNxbkRvVHJ2VHF5R2omY29udGV4dFR5cGU9bm9uZSZpZD01NzU0MTE2IiwiYWNjb3VudF9pZCI6MjA4MjMxMSwiY29udGVudF9pZCI6ImZ0YV9jaDVfZGFzaF90dl9kcm0iLCJmaWxlcyI6IiIsInVzZXJfdG9rZW4iOiJkako4TVRRM2ZMbkIybE95NTA0VXZmNE9VMnlJU0U2eW1IUmx0UEFVUnNPa0xuVmg1bjFvZWZ0cDlZdDFjX2ZnV3VRUGREQURtUjNIbHlXbWwtWF9GVnlCT184QzhrbnEwSUNxbXpXZFFhX3Vyc3prUTdrUnRtNjkxTklCQTIwRDZOYzBqYmNmTjQ5N05CUlNQRm94cXJhb1BGSGhGaHF1MUU0X1Qzc1NhTjkzWVBEWUVlR2JNYjRJeW44WHRoMTliRHpHTVVYMXpCeWZaSVN6RnR1cHBSeXVnNWR6M01lVUFZZVVoSHloZjBHdkplellBM29Tdzlva3cxb21fVlVxekVtaFpPd3NseDg2ZFVIRnBKRlVheGIyMUhaMkwzNWZLcmpvZXJMdnppbHpTNnRQNGhteXBWZ1k5RXNmc2dER2J3MEdkZHdmSVU0bTF5a2RCay0zd294OGdBQmhyLVgweWRBWUFhTjNxbkRvVHJ2VHF5R2oiLCJ1ZGlkIjoiIiwiYWRkaXRpb25hbF9jYXNfc3lzdGVtIjoxNDd9&signature=22PIxXMwrQI2TD4A25ie7n6hwPU%3d
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fakV73e.png" group-title="SINGAPORE",Channel 5
 https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/147/assetId/316288/assetType/media/assetFileId/5754116/contextType/PLAYBACK/isAltUrl/False/a.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TVRRM2ZNX2QwSWlXaEd1VmdxY1BjVUVzQTNPbWF3RXl5ZmZDLWhTZEFaTmxBRzBSdmFzOHVwa1R0NW5JX1ZhME5wdGdNVnk2elZSTWhsUzdGaGFBSXdrdzZCd2loWUdNTGRHX1drMkJnaXdESWVnNW5Vb1VTaVJlSG5qRERKWVI1el9HRkFxNVpfQ0M2S2xkd3gydWowWDIyRlFQWFVjeWlydXhYZEhUVGtlSUdDUW9BN2RHdFZQeUVMV2pGNEdXVHoycjExbWZrMGY2a1IwQTNvcTV1MUgtN1JHMzBFbmJnMkp6WXF1MjhsRWlnb3RMdFk2Z0xXV19LSk40eVpVV1pwT2tvNnhCYW1GYlBDblJ0OHlMRnZuRzB1c2FZenZ5ZERZMnY3M2wxVkxCZkNkTzBZeDd4eFdySndkb0FqUnA0eTBQNkNqMDdEVDRWNGl1YTNSbXl6bFZBenc9JmNvbnRleHRUeXBlPW5vbmUmaWQ9NTc1NDEyNCIsImFjY291bnRfaWQiOjIwODIzMTEsImNvbnRlbnRfaWQiOiJmdGFfY2g4X2Rhc2hfdHZfZHJtIiwiZmlsZXMiOiIiLCJ1c2VyX3Rva2VuIjoiZGpKOE1UUTNmTV9kMElpV2hHdVZncWNQY1VFc0EzT21hd0V5eWZmQy1oU2RBWk5sQUcwUnZhczh1cGtUdDVuSV9WYTBOcHRnTVZ5NnpWUk1obFM3RmhhQUl3a3c2QndpaFlHTUxkR19XazJCZ2l3REllZzVuVW9VU2lSZUhuakRESllSNXpfR0ZBcTVaX0NDNktsZHd4MnVqMFgyMkZRUFhVY3lpcnV4WGRIVFRrZUlHQ1FvQTdkR3RWUHlFTFdqRjRHV1R6MnIxMW1mazBmNmtSMEEzb3E1dTFILTdSRzMwRW5iZzJKellxdTI4bEVpZ290THRZNmdMV1dfS0pONHlaVVdacE9rbzZ4QmFtRmJQQ25SdDh5TEZ2bkcwdXNhWXp2eWREWTJ2NzNsMVZMQmZDZE8wWXg3eHhXckp3ZG9BalJwNHkwUDZDajA3RFQ0VjRpdWEzUm15emxWQXp3PSIsInVkaWQiOiIiLCJhZGRpdGlvbmFsX2Nhc19zeXN0ZW0iOjE0N30%3d&signature=x8W88%2f45Af8DkKhnfigSuOTT44A%3d
+#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TVRRM2ZMajlVUHFTZlpCekVkLVg4VnRtcmxjTExqRlpMWENabTNwb3lPb1dfZXc4dVM2bUFlRUN5V2pNVW83T2oyTHlKakFuQmJlMGJtM3NmZUtqME8yTFlKb1VXcE1MeHl0bGJPdTVWZHd1TE11WkdKNThKZUY3UkgwX2luSmpBby1JX3RfTU4tMFNWbEJLMWtZQkkxWksxM1RiVFk5NFRBSFJXMjZDTHJTX3E4NjAxZEtRVS1fRzNXWUdnUGFpYXctR1pneDdHWHpJMXZybVZyX2xGUkhCSzRRbkpxSFdKekdtcm1sOHFwUzZNbWZ0cDlJeURYSEpvZzNQRU43bFRvSFJKV0F4UzdicEhBTW9aOWZ4ejhuSnBHbm9FZWJVWWMyOGlNTExGakxFV2tITzhjbUE2VmQ3U0s5WHlXN3BpV1ZPOWc9PSZjb250ZXh0VHlwZT1ub25lJmlkPTU3NTQxMjQiLCJhY2NvdW50X2lkIjoyMDgyMzExLCJjb250ZW50X2lkIjoiZnRhX2NoOF9kYXNoX3R2X2RybSIsImZpbGVzIjoiIiwidXNlcl90b2tlbiI6ImRqSjhNVFEzZkxqOVVQcVNmWkJ6RWQtWDhWdG1ybGNMTGpGWkxYQ1ptM3BveU9vV19ldzh1UzZtQWVFQ3lXak1VbzdPajJMeUpqQW5CYmUwYm0zc2ZlS2owTzJMWUpvVVdwTUx4eXRsYk91NVZkd3VMTXVaR0o1OEplRjdSSDBfaW5KakFvLUlfdF9NTi0wU1ZsQksxa1lCSTFaSzEzVGJUWTk0VEFIUlcyNkNMclNfcTg2MDFkS1FVLV9HM1dZR2dQYWlhdy1HWmd4N0dYekkxdnJtVnJfbEZSSEJLNFFuSnFIV0p6R21ybWw4cXBTNk1tZnRwOUl5RFhISm9nM1BFTjdsVG9IUkpXQXhTN2JwSEFNb1o5Znh6OG5KcEdub0VlYlVZYzI4aU1MTEZqTEVXa0hPOGNtQTZWZDdTSzlYeVc3cGlXVk85Zz09IiwidWRpZCI6IiIsImFkZGl0aW9uYWxfY2FzX3N5c3RlbSI6MTQ3fQ%3d%3d&signature=cxDqmRlipDl83mrHjUJrN0Vb%2fRo%3d
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rwn2fVK.png" group-title="SINGAPORE",Channel 8
 https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/147/assetId/260581/assetType/media/assetFileId/5754124/contextType/PLAYBACK/isAltUrl/False/a.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TVRRM2ZMOEZVYWQ4eE9nZndTQVpIbWNpNzhyNm8wV1R5c1hGVkd0djJUNXc4TWJVS1FhTFlPM214MVk1bm9QQVJXRkxXdFViVVF2VWk5TnljUDByVVd0SUJjVGFiNzZtOXNHbVJRQkFGRTJyTXJubTlMX3dIT2tMODdOMW9iMzZGQ0d3NEJVWk9zdmlzMGlUVUxtVF9CR19jVVFZNHc5Ri1icElPVWk0dGlTLVRacjhRYXJFQlpIa2J1RXBaOFdpajZMZFJwMkJEekh3akxkbDNZeDYxOWtYNkhvZzJpempJVTdZQnoyM0xzRzMwYzBqRFo1SWIzT19GcTZCV28tb25VTlhJMEx2Unh0SFJCdzNVbUR1OGJjaDJYYjBxOWNEaGRna1dqX1huX0FVTWFlMzFPbkZPcHY5SFo0UVhrMmkzbDhfYmpQRlpjQkp1aHdfWFhvdkNjZDNnWDA9JmNvbnRleHRUeXBlPW5vbmUmaWQ9NTc1NDE1NiIsImFjY291bnRfaWQiOjIwODIzMTEsImNvbnRlbnRfaWQiOiJmdGFfY2hVX2Rhc2hfd2ViX2RybSIsImZpbGVzIjoiIiwidXNlcl90b2tlbiI6ImRqSjhNVFEzZkw4RlVhZDh4T2dmd1NBWkhtY2k3OHI2bzBXVHlzWEZWR3R2MlQ1dzhNYlVLUWFMWU8zbXgxWTVub1BBUldGTFd0VWJVUXZVaTlOeWNQMHJVV3RJQmNUYWI3Nm05c0dtUlFCQUZFMnJNcm5tOUxfd0hPa0w4N04xb2IzNkZDR3c0QlVaT3N2aXMwaVRVTG1UX0JHX2NVUVk0dzlGLWJwSU9VaTR0aVMtVFpyOFFhckVCWkhrYnVFcFo4V2lqNkxkUnAyQkR6SHdqTGRsM1l4NjE5a1g2SG9nMml6aklVN1lCejIzTHNHMzBjMGpEWjVJYjNPX0ZxNkJXby1vblVOWEkwTHZSeHRIUkJ3M1VtRHU4YmNoMlhiMHE5Y0RoZGdrV2pfWG5fQVVNYWUzMU9uRk9wdjlIWjRRWGsyaTNsOF9ialBGWmNCSnVod19YWG92Q2NkM2dYMD0iLCJ1ZGlkIjoiIiwiYWRkaXRpb25hbF9jYXNfc3lzdGVtIjoxNDd9&signature=pptT69SM6BeKCMKiZBu%2f3hctGQo%3d
+#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TVRRM2ZDNmI4NEg4Q2R1WlhOUlZVcnFDMERaNUc3WDFQY2RIaW5COXphN25LTUpVZ2hZdXZPRm1NMXAwMzE3NW54dm9rRjBTdGY5Y0dWWkZBTDRDQmRhWVdITk5hYXJMWlU1emVFQ1RLRFZsanhRYV90c0NlUFRpQ2xsRGpHU3ZTNWN4emZaY0RlMlI0X01vdXBnTTJSZ1RSWFZ2QlRPNXFMU3o0T01NU2VfSWhlMjJwRl9NOEExTzcxd1dxT2tvNkJ6eklyRGdrcU93VV8xYzFTX0xLSGk1UU1tUndYdHhYQmNnd3dmV215Wlh0a00wTDR4bTFzbGItUjV6T3B2end1b1FBdHAtdUlxbXRZYVdpRVBXQ1RBOTgtZWIxMEpqcV80ekhFTVFCSGs1cVR0eFFjWllsbVVwLVF1SDYxNEU2b3hxQ2xfenVfNkFMWGR4bWxXTzJuWUczN0U9JmNvbnRleHRUeXBlPW5vbmUmaWQ9NTc1NDE1NiIsImFjY291bnRfaWQiOjIwODIzMTEsImNvbnRlbnRfaWQiOiJmdGFfY2hVX2Rhc2hfd2ViX2RybSIsImZpbGVzIjoiIiwidXNlcl90b2tlbiI6ImRqSjhNVFEzZkM2Yjg0SDhDZHVaWE5SVlVycUMwRFo1RzdYMVBjZEhpbkI5emE3bktNSlVnaFl1dk9GbU0xcDAzMTc1bnh2b2tGMFN0ZjljR1ZaRkFMNENCZGFZV0hOTmFhckxaVTV6ZUVDVEtEVmxqeFFhX3RzQ2VQVGlDbGxEakdTdlM1Y3h6ZlpjRGUyUjRfTW91cGdNMlJnVFJYVnZCVE81cUxTejRPTU1TZV9JaGUyMnBGX004QTFPNzF3V3FPa282Qnp6SXJEZ2txT3dVXzFjMVNfTEtIaTVRTW1Sd1h0eFhCY2d3d2ZXbXlaWHRrTTBMNHhtMXNsYi1SNXpPcHZ6d3VvUUF0cC11SXFtdFlhV2lFUFdDVEE5OC1lYjEwSmpxXzR6SEVNUUJIazVxVHR4UWNaWWxtVXAtUXVINjE0RTZveHFDbF96dV82QUxYZHhtbFdPMm5ZRzM3RT0iLCJ1ZGlkIjoiIiwiYWRkaXRpb25hbF9jYXNfc3lzdGVtIjoxNDd9&signature=vicRkIOGCU2rPhu6NeOdpPj%2b9rk%3d
 #EXTINF:-1 tvg-logo="https://i.imgur.com/69ePQhz.png" group-title="SINGAPORE",Channel U
 https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/147/assetId/330332/assetType/media/assetFileId/5754156/contextType/PLAYBACK/isAltUrl/False/a.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TVRRM2ZEWFVMN1FvWTlLTW9SSWNHOEhua3REcjBkeGRKX0dreUVJZzR4VXc0b1lFS3lOaVBuLUE5Y0tXOXpNaENzRUtGME5aOUlqVEJNLUg4MG0xYkhJNS15a0ZnOFZNTllvVnR6VjdhbE1mdlJ4R1pJWWFSTlI3T0tNV09DQkIzakN6aWIxR2tmNVctUjZGVVU0akpmRDlQS2pDOFhCTEtQUlBrLUw1SWpzQkQtanhvUmlkbEtFcnFjYlB5TE82Nml2M01JaTRaZE84aE90RXVZMnh5cUdQLUFWRG5aQk5TSFlrWFRkek1DOTZZWkYxbTIybFVSaS1ncmQ5U1U4U1NKREtkSWtEM1pMb3dFUkdJSHA3S2dZdGFwTkUtQnRiZTVRZXp1Rm1VZ1Z3ekI0WkJuaEJiNzRBQWNST3pDTDZiWEwwbWhfczlDbEtQMWpiQlJNckRXNm9VZGs9JmNvbnRleHRUeXBlPW5vbmUmaWQ9NTc1NDA2NiIsImFjY291bnRfaWQiOjIwODIzMTEsImNvbnRlbnRfaWQiOiJmdGFfc3VyaWFfZGFzaF90dl9kcm0iLCJmaWxlcyI6IiIsInVzZXJfdG9rZW4iOiJkako4TVRRM2ZEWFVMN1FvWTlLTW9SSWNHOEhua3REcjBkeGRKX0dreUVJZzR4VXc0b1lFS3lOaVBuLUE5Y0tXOXpNaENzRUtGME5aOUlqVEJNLUg4MG0xYkhJNS15a0ZnOFZNTllvVnR6VjdhbE1mdlJ4R1pJWWFSTlI3T0tNV09DQkIzakN6aWIxR2tmNVctUjZGVVU0akpmRDlQS2pDOFhCTEtQUlBrLUw1SWpzQkQtanhvUmlkbEtFcnFjYlB5TE82Nml2M01JaTRaZE84aE90RXVZMnh5cUdQLUFWRG5aQk5TSFlrWFRkek1DOTZZWkYxbTIybFVSaS1ncmQ5U1U4U1NKREtkSWtEM1pMb3dFUkdJSHA3S2dZdGFwTkUtQnRiZTVRZXp1Rm1VZ1Z3ekI0WkJuaEJiNzRBQWNST3pDTDZiWEwwbWhfczlDbEtQMWpiQlJNckRXNm9VZGs9IiwidWRpZCI6IiIsImFkZGl0aW9uYWxfY2FzX3N5c3RlbSI6MTQ3fQ%3d%3d&signature=J0e%2bRMuvUkMR7rdIlY%2f4pakrGt0%3d
+#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TVRRM2ZESDAxXzdJQlVJVUl3NTU5UENKRHRwVXdDUWZCVjZiYTRxeEg1WTBfMmJib1ExUlExbldpU05vWndYNUxXQWJSVW1DeXRPUkh4ajd0MjlNUTQza2gwak5MdHpNRFZnaC13Rzh3TjNsVGwzaUphWFI1VVBGaVJVTWVzOHRsenpadXNwbUZKZ0Y5VExmYWRSTHdiZW50M2xBZFUyeFEwaEpVaW15MmdlVHFtaHZGU3BTRXJHa29EZGRnd1JCTTVvUVpFS2hnS1g4R3N2UzhORTFnYzFNLVJvZlFLV3duU0lJSURhczhoUDVyQ0pEbnItdHozZmpZRkh6dnozc2xEMmpBUGRWaHZvY3NVa1ZfLThhUzhkUTkzaTg4WjRpanVtdTNBazVlY0dUd01jWGNqenpYT0llRmpxSzY4SUl0WUI3MUpwX2lpV3lweHN1Skp5NTh4blJYa289JmNvbnRleHRUeXBlPW5vbmUmaWQ9NTc1NDA2NiIsImFjY291bnRfaWQiOjIwODIzMTEsImNvbnRlbnRfaWQiOiJmdGFfc3VyaWFfZGFzaF90dl9kcm0iLCJmaWxlcyI6IiIsInVzZXJfdG9rZW4iOiJkako4TVRRM2ZESDAxXzdJQlVJVUl3NTU5UENKRHRwVXdDUWZCVjZiYTRxeEg1WTBfMmJib1ExUlExbldpU05vWndYNUxXQWJSVW1DeXRPUkh4ajd0MjlNUTQza2gwak5MdHpNRFZnaC13Rzh3TjNsVGwzaUphWFI1VVBGaVJVTWVzOHRsenpadXNwbUZKZ0Y5VExmYWRSTHdiZW50M2xBZFUyeFEwaEpVaW15MmdlVHFtaHZGU3BTRXJHa29EZGRnd1JCTTVvUVpFS2hnS1g4R3N2UzhORTFnYzFNLVJvZlFLV3duU0lJSURhczhoUDVyQ0pEbnItdHozZmpZRkh6dnozc2xEMmpBUGRWaHZvY3NVa1ZfLThhUzhkUTkzaTg4WjRpanVtdTNBazVlY0dUd01jWGNqenpYT0llRmpxSzY4SUl0WUI3MUpwX2lpV3lweHN1Skp5NTh4blJYa289IiwidWRpZCI6IiIsImFkZGl0aW9uYWxfY2FzX3N5c3RlbSI6MTQ3fQ%3d%3d&signature=GWkYcYWa9pFdOuEKo%2bnkdnkJNHU%3d
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fDftLuO.png" group-title="SINGAPORE",Suria
 https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/147/assetId/237652/assetType/media/assetFileId/5754066/contextType/PLAYBACK/isAltUrl/False/a.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dIoU3FG.png" group-title="USA",A&E
 http://shashe.dianshiwang.vip:27000/live/1G6TqszHmbSK/44rbL95yUhPE/55994.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8DZL1sg.png" group-title="USA",ABC
-http://klickmode.xyz:25461/unpluggedtv/OLUNpwpot3/20970
+http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/4925
 #EXTINF:-1 tvg-logo="https://i.imgur.com/74Bs8Kn.png" group-title="USA",AMC
-http://klickmode.xyz:25461/unpluggedtv/OLUNpwpot3/29171
+http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/684738
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VBD4ugr.png" group-title="USA",Azteca America
 https://v-px.mybtv.net/event/41/1280x720.m3u8?start_time=2021-05-16T23%3A45%3A00%2B00%3A00&end_time=2023-05-17T05%3A00%3A00%2B00%3A00&env=prd&uid=33630
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bQPc9pg.png" group-title="USA",Bravo
-http://klickmode.xyz:25461/unpluggedtv/OLUNpwpot3/20996
+http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/4883
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KJR6lt0.png" group-title="USA",CBS
-http://klickmode.xyz:25461/unpluggedtv/OLUNpwpot3/26615
+http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/4885
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JOCjq3R.png" group-title="USA",Comedy Central
-http://klickmode.xyz:25461/unpluggedtv/OLUNpwpot3/21010
+http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/13823
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Q6AoC5h.png" group-title="USA",Fox
-http://klickmode.xyz:25461/unpluggedtv/OLUNpwpot3/21243
+http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/13757
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8dgknme.png" group-title="USA",FX
-http://klickmode.xyz:25461/unpluggedtv/OLUNpwpot3/21048
+http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/13763
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Game_Show_Network_2018.svg/1024px-Game_Show_Network_2018.svg.png" group-title="USA",Game Show Network
 http://n1.klowdtv.net/live2/gsn_720p/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OzHkxwZ.png" group-title="USA",NBC
-http://klickmode.xyz:25461/unpluggedtv/OLUNpwpot3/21089
+http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/684888
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/1920px-Showtime.svg.png" group-title="USA",Showtime
 http://51.79.82.231:8080/US_SHOWTIME_EAST/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LHXa485.png" group-title="USA",Syfy
@@ -2997,7 +3001,7 @@ http://51.79.82.231:8080/US_TBS_EAST_USA/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ydm3Ss2.png" group-title="USA",Telemundo
 http://gratis.shortgod.com/restream/tvshortgod13.php?id=telemundo
 #EXTINF:-1 tvg-logo="https://i.imgur.com/umJbqNY.png" group-title="USA",TNT
-http://klickmode.xyz:25461/unpluggedtv/OLUNpwpot3/21131
+http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/6354
 #EXTINF:-1 tvg-logo="https://i.imgur.com/l3iqIit.png" group-title="USA",Universo
 http://gratis.shortgod.com/restream/tvshortgod13.php?id=universo
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PEP2agz.png" group-title="USA",Univisión
