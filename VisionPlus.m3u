@@ -680,9 +680,9 @@ http://smartiptv.ddnsco.com:8080/iptvauthority110/iptvauthority110/11645
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MPnwLGE.png" group-title="BRITISH MOVIES",Great! Movies
 https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/6215?pprotocol=hls
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JDI0eaC.png" group-title="BRITISH MOVIES",Great! Movies Action
-https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/6212?pprotocol=hls
+http://45.153.35.210:8000/play/UK_great_action_sd/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MPnwLGE.png" group-title="BRITISH MOVIES",Great! Movies Classic
-https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/6218?pprotocol=hls
+http://45.153.35.210:8000/play/UK_great_classic_sd/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/66mAx2O.png" group-title="BRITISH MOVIES",Sky Cinema Action
 http://smartiptv.ddnsco.com:8080/iptvauthority110/iptvauthority110/11603
 #EXTINF:-1 tvg-logo="https://i.imgur.com/e1kJuRF.png" group-title="BRITISH MOVIES",Sky Cinema Animation
@@ -1134,7 +1134,7 @@ https://best-str.umn.cdn.united.cloud/stream?stream=sp1400&sp=n1info&channel=n1h
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WdC4rbi.png" group-title="WORLD NEWS",BBC World News
 https://liveanevia.mncnow.id/live/eds/BBCWorldNews/sa_dash_vmx/BBCWorldNews.mpd
 #EXTINF:-1 tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/BBC_News_2019.svg/800px-BBC_News_2019.svg.png" group-title="BRITISH NEWS",BBC News
-http://www.filmon.com/vr-streams/27.high/playlist.m3u8
+http://45.153.35.210:8000/play/UK_bbc_news_sd/index.m3u8
 #EXTINF:-1 tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/BBC_News_2019.svg/800px-BBC_News_2019.svg.png" group-title="BRITISH NEWS",BBC News HD
 http://prox.x86.co.uk/index.php/https://cdnuk001.broadcastcdn.net/KUK-BBCNEWSHD/index.m3u8
 #EXTINF:-1 tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/BBC_Parliament_Logo.svg/1280px-BBC_Parliament_Logo.svg.png" group-title="BRITISH NEWS",BBC Parliament
@@ -1154,7 +1154,7 @@ https://live-hls-web-aja.getaj.net/AJA/01.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2D9tAmC.png" group-title="NON-ENGLISH NEWS",Al Jazeera Balkans
 https://live-hls-web-ajb.getaj.net/AJB/01.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YxxHcfZ.png" group-title="WORLD NEWS",Sky News
-http://45.148.147.123:5079/play/a1151
+http://45.153.35.210:8000/play/UK_sky_news_sd/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/84/Sky_News_Arabia_logo.png" group-title="ARABIC NEWS",Sky News Arabia
 https://stream.skynewsarabia.com/hls/sna_720.m3u8
 #KODIPROP:inputstream=inputstream.adaptive
@@ -1648,19 +1648,22 @@ https://liveanevia.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ffWoTF9.png" group-title="NATIONAL SPORTS",Champions TV 1
-http://tvnid.wapgem.com/vidio/7.m3u8
+http://tvn.x10.bz/channel/master-6.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/r2aPCX8.png" group-title="NATIONAL SPORTS",Champions TV 2
-http://tvnid.wapgem.com/vidio/8.m3u8
+http://tvn.x10.bz/channel/master-7.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/26Jar5R.png" group-title="NATIONAL SPORTS",Champions TV 3
-http://tvnid.wapgem.com/vidio/9.m3u8
+http://tvn.x10.bz/channel/master-8.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4J586mw.png" group-title="NATIONAL SPORTS",Champions TV 4
-http://103.226.232.199:8888/live/kamiselaluada/untuksemua/501.m3u8
+http://tvn.x10.bz/channel/master-17.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pmTtL3g.png" group-title="NATIONAL SPORTS",Mola 1
 http://103.226.232.199:8888/live/kamiselaluada/untuksemua/402.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pmTtL3g.png" group-title="NATIONAL SPORTS",Mola 2
@@ -1715,7 +1718,7 @@ http://links.iptvlogin.com:80/play/OGd90ZtohLYlF2_WVCXC-XL4iCkbLbKt8vP-_3ERSp0bi
 #EXTINF:-1 tvg-logo="https://i.imgur.com/j8VC6nB.png" group-title="ARABIC SPORTS",beIN Sports 3
 http://links.iptvlogin.com:80/play/OGd90ZtohLYlF2_WVCXC-XL4iCkbLbKt8vP-_3ERSp3G3qPtYHBWv3Y9EgpMHeH1/ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Lu26Yho.png" group-title="ARABIC SPORTS",beIN Sports 4
-http://str.smartip-tv.net:8888/BEIN_SPORT_4_HD/index.m3u8?token=test
+http://m3ulink.com:8080/live/uGA2vj3G9/16pImh7K0v/2111838.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pA5by2y.png" group-title="ARABIC SPORTS",beIN Sports 5
 http://links.iptvlogin.com:80/play/OGd90ZtohLYlF2_WVCXC-XL4iCkbLbKt8vP-_3ERSp0jGZVlJDy7K9fW_tKH3yCX/ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mbFoSUX.png" group-title="ARABIC SPORTS",beIN Sports 6
@@ -1723,25 +1726,25 @@ http://links.iptvlogin.com:80/play/OGd90ZtohLYlF2_WVCXC-XL4iCkbLbKt8vP-_3ERSp0HL
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eHCosqi.png" group-title="ARABIC SPORTS",beIN Sports 7
 http://links.iptvlogin.com:80/play/OGd90ZtohLYlF2_WVCXC-XL4iCkbLbKt8vP-_3ERSp31j69HA4kdinmVf4ohxXmt/ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BZ5jcea.png" group-title="ARABIC SPORTS",beIN Sports NBA
-http://smartiptv.ddnsco.com:8080/iptvauthority110/iptvauthority110/11144
+http://m3ulink.com:8080/live/uGA2vj3G9/16pImh7K0v/2111834.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TG2eNPO.png" group-title="ARABIC SPORTS",beIN Sports News
-https://free.one24tv.com:443/live/55011644137601/55011644137601/1103.ts
+http://m3ulink.com:8080/live/uGA2vj3G9/16pImh7K0v/2111833.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uYcwFSD.png" group-title="ARABIC SPORTS",beIN Sports Xtra 1
-https://free.one24tv.com:443/live/55011644137601/55011644137601/1143.ts
+http://m3ulink.com:8080/live/uGA2vj3G9/16pImh7K0v/2111831.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Q9ACq0T.png" group-title="ARABIC SPORTS",beIN Sports Xtra 2
-http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/689266
+http://m3ulink.com:8080/live/uGA2vj3G9/16pImh7K0v/2111832.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MRULdc8.png" group-title="FRENCH SPORTS",beIN Sports 1
-http://belfast.dyndns.tv:5808/BEINHD1/tracks-v1a1/mono.m3u8
+http://m3ulink.com:8080/live/uGA2vj3G9/16pImh7K0v/2158143.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NDp6TlM.png" group-title="FRENCH SPORTS",beIN Sports 2
-http://belfast.dyndns.tv:5808/BEINHD2/tracks-v1a1/mono.m3u8
+http://m3ulink.com:8080/live/uGA2vj3G9/16pImh7K0v/2158145.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/j8VC6nB.png" group-title="FRENCH SPORTS",beIN Sports 3
-http://belfast.dyndns.tv:5808/BEINHD3/tracks-v1a1/mono.m3u8
+http://m3ulink.com:8080/live/uGA2vj3G9/16pImh7K0v/2158147.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/o8zT78o.png" group-title="ARABIC SPORTS",beIN Sports English 1
 http://links.iptvlogin.com:80/play/OGd90ZtohLYlF2_WVCXC-XL4iCkbLbKt8vP-_3ERSp2N2BrFdU6w1rV0zUX6wjDX/ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RJ17vOc.png" group-title="ARABIC SPORTS",beIN Sports English 2
 http://links.iptvlogin.com:80/play/OGd90ZtohLYlF2_WVCXC-XL4iCkbLbKt8vP-_3ERSp0BUQTe7MXWnMjh5Lu9lWX5/ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sKFx2QF.png" group-title="ARABIC SPORTS",beIN Sports English 3
-http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/689289
+http://m3ulink.com:8080/live/uGA2vj3G9/16pImh7K0v/2111847.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NOOEDFi.png" group-title="ARABIC SPORTS",beIN Sports French 1
 http://smartiptv.ddnsco.com:8080/iptvauthority110/iptvauthority110/147221
 #EXTINF:-1 tvg-logo="https://i.imgur.com/n6iA4cg.png" group-title="ARABIC SPORTS",beIN Sports French 2
@@ -1755,13 +1758,13 @@ http://130.193.166.18:80/cache/Bein-Prem-2-HEVC/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/T7UlxCI.png" group-title="ARABIC SPORTS",beIN Sports Premium 3
 http://130.193.166.18:80/cache/Bein-Prem-3-HEVC/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MRULdc8.png" group-title="TURKISH SPORTS",beIN Sports 1
-http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/682946
+http://m3ulink.com:8080/live/uGA2vj3G9/16pImh7K0v/16160.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NDp6TlM.png" group-title="TURKISH SPORTS",beIN Sports 2
-http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/682947
+http://m3ulink.com:8080/live/uGA2vj3G9/16pImh7K0v/16159.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/j8VC6nB.png" group-title="TURKISH SPORTS",beIN Sports 3
-http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/682948
+http://m3ulink.com:8080/live/uGA2vj3G9/16pImh7K0v/16161.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Lu26Yho.png" group-title="TURKISH SPORTS",beIN Sports 4
-http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/682949
+http://m3ulink.com:8080/live/uGA2vj3G9/16pImh7K0v/16162.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fBWCN2V.png" group-title="TURKISH SPORTS",beIN Sports Haber
 https://livesx.canlitv.center/beinsportshaber.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MRULdc8.png" group-title="AUSTRALIAN SPORTS",beIN Sports 1
@@ -2245,15 +2248,15 @@ http://links.iptvlogin.com:80/play/OGd90ZtohLYlF2_WVCXC-eITYNlVU8Ty2-9ppHd380Ulo
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/800px-NBA_TV.svg.png" group-title="PORTUGUESE SPORTS",NBA TV
 http://klickmode.xyz:25461/unpluggedtv/OLUNpwpot3/58468
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pcAhRs8.png" group-title="PORTUGUESE SPORTS",Sport TV 1
-https://wopep.com/02_SPORTTV_1_720p/chunklist.m3u8
+https://www.livedoomovie.com/02_SPORTTV_1_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CPt6Fsg.png" group-title="PORTUGUESE SPORTS",Sport TV 2
-https://wopep.com/02_SPORTTV_2_720p/chunklist.m3u8
+https://www.livedoomovie.com/02_SPORTTV_2_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wbhOsK2.png" group-title="PORTUGUESE SPORTS",Sport TV 3
-https://wopep.com/02_SPORTTV_3_720p/chunklist.m3u8
+https://www.livedoomovie.com/02_SPORTTV_3_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/itYiAnd.png" group-title="PORTUGUESE SPORTS",Sport TV 4
-https://wopep.com/02_SPORTTV_4_720p/chunklist.m3u8
+https://www.livedoomovie.com/02_SPORTTV_4_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LblSggR.png" group-title="PORTUGUESE SPORTS",Sport TV 5
-https://wopep.com/02_SPORTTV_5_720p/chunklist.m3u8
+https://www.livedoomovie.com/02_SPORTTV_5_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RbFoVdH.png" group-title="PORTUGUESE SPORTS",Sport TV 6
 http://smartiptv.ddnsco.com:8080/iptvauthority110/iptvauthority110/146621
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Km9HrEA.png" group-title="PORTUGUESE SPORTS",Sport TV +
@@ -3031,37 +3034,39 @@ https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/851?pp
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Nvme1rf.png" group-title="UK",BBC Alba
 http://51.154.28.81:2052/play/a046
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oGzLsiq.png" group-title="UK",BBC One
-https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/14?pprotocol=hls
+http://45.153.35.210:8000/play/UK_bbc_1_sd/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iMfng6J.png" group-title="UK",BBC Two
-https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/25?pprotocol=hls
+http://45.153.35.210:8000/play/UK_bbc_2_sd/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gcpSDKf.png" group-title="UK",BBC Three
+http://45.153.35.210:8000/play/UK_bbc_three_sd/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nywptTp.png" group-title="UK",BBC Four
-https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/103?pprotocol=hls
+http://45.153.35.210:8000/play/UK_bbc_4_sd/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kr2UTHB.png" group-title="UK",BBC Scotland
 http://45.148.147.123:5079/play/a993
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/37/CBBC_2016_logo.svg/800px-CBBC_2016_logo.svg.png" group-title="UK",CBBC
-http://45.148.147.123:5079/play/a1359
+http://ott.riotelecomm.es:4513/m3u8/CBBCHDFIBRA.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XJ9qgU9.png" group-title="UK",Challenge
 https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/1036?pprotocol=hls
 #EXTINF:-1 tvg-logo="https://i.imgur.com/r0sl8tu.png" group-title="UK",Channel 4
-https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/2?pprotocol=hls
+http://45.153.35.210:8000/play/UK_channel_4_sd/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/itZR2eq.png" group-title="UK",Channel 5
-https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/22?pprotocol=hls
+http://45.153.35.210:8000/play/UK_channel_5_sd/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wRVi7bz.png" group-title="UK",Dave
 http://smartiptv.ddnsco.com:8080/iptvauthority110/iptvauthority110/11653
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yny6n9T.png" group-title="UK",E4
-https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/65?pprotocol=hls
+http://45.153.35.210:8000/play/UK_e4_sd/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PpD1Fwa.png" group-title="UK",Great! TV
-http://45.148.147.123:5079/play/a1019
+http://45.153.35.210:8000/play/UK_great_tv_sd/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IZ5MINa.png" group-title="UK",More4
 https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/97?pprotocol=hls
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/ITV_logo_2019.svg/1200px-ITV_logo_2019.svg.png" group-title="UK",ITV
-https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/11?pprotocol=hls
+http://45.153.35.210:8000/play/UK_itv_1_sd/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/35/ITV2_logo_2015.svg/1920px-ITV2_logo_2015.svg.png" group-title="UK",ITV2
-https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/67?pprotocol=hls
+http://45.153.35.210:8000/play/UK_itv_2_sd/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f6/ITV3_logo_2013.svg/1920px-ITV3_logo_2013.svg.png" group-title="UK",ITV3
-https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/26?pprotocol=hls
+http://45.153.35.210:8000/play/UK_itv_3_sd/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d3/ITV4_logo_2013.svg/1920px-ITV4_logo_2013.svg.png" group-title="UK",ITV4
-https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/101?pprotocol=hls
+http://45.153.35.210:8000/play/UK_itv_4_sd/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4f/ITVBe_logo_2014-.svg/1920px-ITVBe_logo_2014-.svg.png" group-title="UK",ITVBe
 https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/3211?pprotocol=hls
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/S4C_logo_2014.svg/1024px-S4C_logo_2014.svg.png" group-title="UK",S4C
