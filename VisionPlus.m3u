@@ -2982,13 +2982,14 @@ https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/par
 https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/147/assetId/237652/assetType/media/assetFileId/5754066/contextType/PLAYBACK/isAltUrl/False/a.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dIoU3FG.png" group-title="USA",A&E
 http://shashe.dianshiwang.vip:27000/live/1G6TqszHmbSK/44rbL95yUhPE/55994.ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
+#EXTVLCOPT:network-caching=1000
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8DZL1sg.png" group-title="USA",ABC
 https://v-pi.theus6tv.tk/hls/6.1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/74Bs8Kn.png" group-title="USA",AMC
 http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/684738
+#EXTVLCOPT:network-caching=1000
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VBD4ugr.png" group-title="USA",Azteca America
-https://v-px.mybtv.net/event/41/1280x720.m3u8?start_time=2021-05-16T23%3A45%3A00%2B00%3A00&end_time=2023-05-17T05%3A00%3A00%2B00%3A00&env=prd&uid=33630
+https://v-ny.theus6tv.tk/hls/42.1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bQPc9pg.png" group-title="USA",Bravo
 http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/4883
 #EXTVLCOPT:network-caching=1000
@@ -2996,14 +2997,14 @@ http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/4883
 https://v-ny.theus6tv.tk/hls/2.1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JOCjq3R.png" group-title="USA",Comedy Central
 http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/13823
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
+#EXTVLCOPT:network-caching=1000
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Q6AoC5h.png" group-title="USA",Fox
 https://v-ny.theus6tv.tk/hls/5.1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8dgknme.png" group-title="USA",FX
 http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/13763
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Game_Show_Network_2018.svg/1024px-Game_Show_Network_2018.svg.png" group-title="USA",Game Show Network
 http://n1.klowdtv.net/live2/gsn_720p/chunks.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
+#EXTVLCOPT:network-caching=1000
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OzHkxwZ.png" group-title="USA",NBC
 https://v-ny.theus6tv.tk/hls/4.1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/1920px-Showtime.svg.png" group-title="USA",Showtime
@@ -3018,7 +3019,7 @@ http://gratis.shortgod.com/restream/tvshortgod13.php?id=telemundo
 http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/6354
 #EXTINF:-1 tvg-logo="https://i.imgur.com/l3iqIit.png" group-title="USA",Universo
 http://gratis.shortgod.com/restream/tvshortgod13.php?id=universo
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
+#EXTVLCOPT:network-caching=1000
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PEP2agz.png" group-title="USA",Univisión
 https://v-ny.theus6tv.tk/hls/41.1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Logo_UniM%C3%A1s_2021.svg/1920px-Logo_UniM%C3%A1s_2021.svg.png" group-title="USA",Unimás
