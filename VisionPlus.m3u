@@ -394,7 +394,7 @@ https://liveanevia.mncnow.id/live/eds/NHKWorldPremium/sa_dash_vmx/NHKWorldPremiu
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BQoyBoS.png" group-title="CHINESE ENTERTAINMENT",CCTV-4 中文国际
 http://183.207.248.71:80/cntv/live1/cctv-4/cctv-4
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/8/87/TDM_Ou_Mun_Macau_logo.png" group-title="CHINESE ENTERTAINMENT",TDM Macau
-http://live4.tdm.com.mo/ch6/_definst_/hd_ch6.live/playlist.m3u8
+http://live4.tdm.com.mo/ch3/_definst_/ch3.live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DZaD1Lf.png" group-title="CHINESE ENTERTAINMENT",TVB Xing He
 http://iptv.tvfix.org/hls/tvbxh2.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e9/TVBS_Asia_logo_2017.png" group-title="CHINESE ENTERTAINMENT",TVBS Asia
@@ -579,6 +579,8 @@ http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
 http://live.flixhub.net/hls/movies-now.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ce/Mn%2Blogo.jpeg" group-title="MOVIES",MN+
 http://live.flixhub.net/hls/mn+.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PIvZZqq.png" group-title="MOVIES",MNX
+http://live.flixhub.net/hls/mnx-hd.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/w8pi4Ip.png" group-title="MOVIES",Galaxy
 http://iptv.tvmalaysia.cc:80/penang175/penang175/8839
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oH8wyqR.png" group-title="MOVIES",Galaxy Premium
@@ -2106,9 +2108,9 @@ http://190.115.29.22:8080/live/carter/GUV1bMq2VK/345.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lTnKDju.png" group-title="FRENCH SPORTS",Eurosport 2
 http://190.115.29.22:8080/live/carter/GUV1bMq2VK/344.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/30785UJ.png" group-title="FRENCH SPORTS",RMC Sport 1
-http://links.iptvlogin.com:80/play/OGd90ZtohLYlF2_WVCXC-eITYNlVU8Ty2-9ppHd380Uyb-YaD1Bsybshddk90VZo/ts
+http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/32835
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5Rh2s8k.png" group-title="FRENCH SPORTS",RMC Sport 2
-http://links.iptvlogin.com:80/play/OGd90ZtohLYlF2_WVCXC-eITYNlVU8Ty2-9ppHd380Vbhp3dUQ8C0ER4JHKTeC1l/ts
+http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/32836
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kaUN9Uw.png" group-title="ROMANIAN SPORTS",Digi Sport 1
 http://links.iptvlogin.com:80/play/OGd90ZtohLYlF2_WVCXC-XL4iCkbLbKt8vP-_3ERSp2sYIUSO90NARZomOlsCUFj/ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xxLvKJD.png" group-title="ROMANIAN SPORTS",Digi Sport 2
@@ -2379,7 +2381,7 @@ https://rtmlive06tv.secureswiftcontent.com/rtmchannel/06-manifest.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/spilNZu.png" group-title="MALAY SPORTS",Unifi Sports 1
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live11.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ycxjpTX.png" group-title="INDIAN SPORTS",Eurosport
-http://103.153.39.36:8000/play/a00r
+http://live.flixhub.net/hls/euro.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9me1VCt.png" group-title="INDIAN SPORTS",Jio Cricket
 https://durbinlive.com:443/live/jio?c=Jio_Cricket&q=1200&e=IshanJiotv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sLaAHf4.png" group-title="INDIAN SPORTS",Jio Cricket Hindi
@@ -2811,7 +2813,7 @@ http://red.ipfox.org:8080/1234/12345678/37818
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9cDvxwA.png" group-title="ARABIC SPORTS",SSC 6
 http://red.ipfox.org:8080/1234/12345678/37819
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9cDvxwA.png" group-title="ARABIC SPORTS",SSC 7
-http://yassooo.com:8080/Manaf/Manaf123/98911
+http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/156505
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/GAORA_SPORTS_logo.svg/2560px-GAORA_SPORTS_logo.svg.png" group-title="JAPANESE SPORTS",Gaora Sports
 http://50.7.74.29:8880/hlsok/j00045/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BvSZdB0.png" group-title="JAPANESE SPORTS",Golf Network
@@ -3563,7 +3565,7 @@ http://live4.tdm.com.mo/ch1/_definst_/ch1.live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/4/4e/Canal_Macau.png" group-title="MACAU",Canal Macau
 http://live4.tdm.com.mo/ch2/_definst_/ch2.live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TDM_Entertainment.png/1920px-TDM_Entertainment.png" group-title="MACAU",TDM 澳門綜藝
-http://live4.tdm.com.mo/ch3/_definst_/ch3.live/playlist.m3u8
+http://live4.tdm.com.mo/ch6/_definst_/hd_ch6.live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WltLUSg.png" group-title="MEXICO",Azteca 7
 http://51.79.18.128:8081/LATINO%7CAZTECA7/LATINO%7CAZTECA7/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JnRpLg8.png" group-title="MEXICO",Azteca Uno
