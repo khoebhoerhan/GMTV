@@ -1122,7 +1122,7 @@ http://ultra-premium-pro.xyz:8090/gJbXqqRLWo/8f6SL5rbOr/39149
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/CNN_Portugal.svg/800px-CNN_Portugal.svg.png" group-title="PORTUGUESE NEWS",CNN Portugal
 https://video-auth7.iol.pt/live_edge/tvi24_abr/edge_servers/tvi24-480p/chunks.m3u8?
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zcaYBfX.png" group-title="BRASILIAN NEWS",CNN Brasil
-https://video01.soultv.com.br/cnnbrasil/cnnbrasil/playlist.m3u8
+https://bit.ly/cnnBrasil?/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0XayB3p.png" group-title="INDIAN NEWS",CNN-News18
 https://durbinlive.com:443/live/jio?c=CNN_NEWS_18&q=1200&e=IshanJiotv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZLpwHsZ.png" group-title="CZECH NEWS",CNN Prima News
@@ -2262,13 +2262,13 @@ https://liv11octptsp.stblauncher.com/live/4272_.m3u8?token=bcc65a1fb3974adeaa616
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wbhOsK2.png" group-title="PORTUGUESE SPORTS",Sport TV 3
 https://liv11octptsp.stblauncher.com/live/4273_.m3u8?token=bcc65a1fb3974adeaa616e57d9cda2d7
 #EXTINF:-1 tvg-logo="https://i.imgur.com/itYiAnd.png" group-title="PORTUGUESE SPORTS",Sport TV 4
-https://www.wopep.com/02_SPORTTV_4_720p/chunklist.m3u8
+http://api.magiaiptv.com/live/800261/138645/m3_eargH0Pv9qstv4_720p_2M
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LblSggR.png" group-title="PORTUGUESE SPORTS",Sport TV 5
 https://liv11octptsp.stblauncher.com/live/4213_.m3u8?token=bcc65a1fb3974adeaa616e57d9cda2d7
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RbFoVdH.png" group-title="PORTUGUESE SPORTS",Sport TV 6
 http://smartiptv.ddnsco.com:8080/iptvauthority110/iptvauthority110/146621
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Km9HrEA.png" group-title="PORTUGUESE SPORTS",Sport TV +
-http://red.ipfox.org:8080/Waleedl2030Husseini/95118545fdfh/2668
+http://api.magiaiptv.com/live/800261/138645/m3_UCWbpolpkgstvp_1080p
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4fCvNHl.png" group-title="BELGIAN SPORTS",Eleven Pro League 1
 http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/89190
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kTXQVRD.png" group-title="BELGIAN SPORTS",Eleven Sports 1
@@ -2727,17 +2727,17 @@ http://190.15.32.30:80/19/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ed/Canal-combate-logo.png" group-title="BRASILIAN SPORTS",Combate
 http://api.magiaiptv.com/live/800196/128093/m3_kxiCuVcr9XvcEbXgX_720p_2M
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1920px-ESPN_wordmark.svg.png" group-title="BRASILIAN SPORTS",ESPN
-http://168.205.87.198:8555/live/adriana/123456/50.m3u8
+http://50.7.34.155:2200/BR/ESPN_Brasil_HD-br/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ==?md5=null
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/1280px-ESPN2_logo.svg.png" group-title="BRASILIAN SPORTS",ESPN 2
-http://168.205.87.198:8555/live/adriana/123456/60.m3u8
+http://50.7.34.155:2200/BR/ESPN_HD-br/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ==?md5=null
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Crvxgth.png" group-title="BRASILIAN SPORTS",ESPN 3
-http://168.205.87.198:8555/live/adriana/123456/49.m3u8
+http://50.7.34.155:2201/BR/ESPN2_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ==?md5=null
 #EXTINF:-1 tvg-logo="https://i.imgur.com/89RCPvg.png" group-title="BRASILIAN SPORTS",ESPN 4
-https://liv11octhd.stblauncher.com/live/5927_.m3u8?token=bcc65a1fb3974adeaa616e57d9cda2d7
+http://50.7.34.155:2200/BR/Fox_Sports_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ==?md5=null
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sIUdUaB.png" group-title="BRASILIAN SPORTS",ESPN Extra
-http://168.205.87.198:8555/live/adriana/123456/51.m3u8
+http://50.7.34.155:2201/BR/espnextra-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ==?md5=null
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DpnatBM.png" group-title="BRASILIAN SPORTS",Fox Sports 2
-https://liv11octhd.stblauncher.com/live/5924_.m3u8?token=bcc65a1fb3974adeaa616e57d9cda2d7
+http://50.7.34.155:2201/BR/Fox_Sports_2_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ==?md5=null
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/a2/Logo_Premiere_FC_2018.png" group-title="BRASILIAN SPORTS",Premiere
 http://api.magiaiptv.com/live/800196/128093/m3_wjMT3HlXuP425f1ZGd0Uvtxh_720p_2M
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CbANn14.png" group-title="BRASILIAN SPORTS",SporTV
