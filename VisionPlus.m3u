@@ -1366,7 +1366,7 @@ http://callofliberty.fr/stream/BFMTV/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Canal_News_logo.svg/1920px-Canal_News_logo.svg.png" group-title="FRENCH NEWS",CNews
 http://hls-m010.live-lv3.canalplus-cdn.net/live/disk/cnews-clair-hd/ios-v3-hd-clair/cnews-clair-hd-audio_20000=96000-video=3400000.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/40Zq0TK.png" group-title="FRENCH NEWS",Franceinfo
-https://www.filmon.com/vr-streams/3887.high/playlist.m3u8
+http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/32764
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0c/La_Cha%C3%AEne_Info_%28logo%29.svg/1920px-La_Cha%C3%AEne_Info_%28logo%29.svg.png" group-title="FRENCH NEWS",LCI
 https://lci-hls-live-ssl.tf1.fr/lci/1/hls/live_2328.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NoG9l5w.png" group-title="FRENCH NEWS",TV5 Monde Info
@@ -3347,21 +3347,21 @@ https://vps-c97214f4.vps.ovh.net/hls/ecutv1.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8a/M6_6ter_2012.png" group-title="FRANCE",6ter
 http://79.87.128.35:9981/stream/channelid/501191185
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/47/C8_logo.jpg" group-title="FRANCE",C8
-http://79.87.128.35:9981/stream/channelid/291116395 
+http://callofliberty.fr/stream/C8/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Canal%2B.svg/1920px-Canal%2B.svg.png" group-title="FRANCE",Canal+
 http://flusonic-4.platinum-tv.com/canal+/tracks-v1a1/mono.m3u8?token=test
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/9/95/Canal%2B_S%C3%A9ries.svg/langfr-1920px-Canal%2B_S%C3%A9ries.svg.png" group-title="FRANCE",Canal+ Series
 http://190.115.29.22:8080/live/carter/GUV1bMq2VK/357.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/CStar_vector.svg/1920px-CStar_vector.svg.png" group-title="FRANCE",CStar
-http://flusonic-4.platinum-tv.com/D17/tracks-v1a1/mono.m3u8?token=test
+http://callofliberty.fr/stream/CSTAR/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nU3uBzG.png" group-title="FRANCE",France 2
-http://flusonic-5.platinum-tv.com/france2/index.m3u8?token=test
+http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/32752
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MDwoxj5.png" group-title="FRANCE",France 3
-http://flusonic-4.platinum-tv.com/france3/index.m3u8?token=test
+http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/32753
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5TrhpoO.png" group-title="FRANCE",France 4
-http://flusonic-5.platinum-tv.com/france4/index.m3u8?token=test
+http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/32754
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RIZfLwR.png" group-title="FRANCE",France 5
-http://190.2.138.13/france5/tracks-v1a1/mono.m3u8?token=test
+http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/32755
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/4/43/18._Gulli.png/1024px-18._Gulli.png" group-title="FRANCE",Gulli
@@ -3377,17 +3377,17 @@ http://79.87.128.35:9981/stream/channelid/1957835168
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/RMC_Story_logo_2018.svg/1200px-RMC_Story_logo_2018.svg.png" group-title="FRANCE",RMC Story
 http://79.87.128.35:9981/stream/channelid/1835446777
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dc/TF1_logo_2013.png" group-title="FRANCE",TF1
-http://flusonic-4.platinum-tv.com/TF1/index.m3u8?token=test
+http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/32750
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/69/TF1_S%C3%A9ries_Films.svg/1920px-TF1_S%C3%A9ries_Films.svg.png" group-title="FRANCE",TF1 Séries Films
 #EXTVLCOPT:network-caching=1000
-http://flusonic-4.platinum-tv.com/HD1/index.m3u8?token=test
+http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/32800
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TFX_logo.svg/1920px-TFX_logo.svg.png" group-title="FRANCE",TFX
 #EXTVLCOPT:network-caching=1000
-http://flusonic-4.platinum-tv.com/NT1/index.m3u8?token=test
+http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/32799
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/54/TMC_logo.svg/1920px-TMC_logo.svg.png" group-title="FRANCE",TMC
 http://stream.suboroiptv.tv/TMC/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a7/W9_logo_2018.png" group-title="FRANCE",W9
-http://flusonic-1.platinum-tv.com/W9/mono.m3u8?token=test
+http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/32798
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ujQVb6l.png" group-title="GERMANY",Das Erste
