@@ -1119,8 +1119,9 @@ https://liveanevia.mncnow.id/live/eds/CNNInternational/sa_dash_vmx/CNNInternatio
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_2_1964000.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/CNN_Philippines_Logo.svg/800px-CNN_Philippines_Logo.svg.png" group-title="PINOY NEWS",CNN Philippines
 https://streaming.cnnphilippines.com/live/myStream/chunklist_w1199238897.m3u8
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hi0D9Ut.png" group-title="TURKISH NEWS",CNN Türk
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/10777
+https://www.yilmaztv.com/beceroz/oz.php?channel=cnn-turk-canli-yayin&stream=1&type=m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Jai0CTx.png" group-title="LATINO NEWS",CNN Chile
 http://45.4.0.46:8000/play/cnnchilehd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jCXODcU.png" group-title="SPANISH NEWS",CNN en Español
@@ -1335,8 +1336,9 @@ https://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master.
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Press_Tv_logo.svg/194px-Press_Tv_logo.svg.png" group-title="WORLD NEWS",Press TV
 https://live1.presstv.ir/live/presstv.m3u8
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
 #EXTINF:-1 tvg-logo="https://i.imgur.com/j5Zdyy9.png" group-title="WORLD NEWS",A News
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/185788
+https://www.yilmaztv.com/beceroz/oz.php?channel=a-news&stream=1&type=m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jHJR3LN.png" group-title="WORLD NEWS",Africanews
 https://rakuten-africanews-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jcEb3WH.png" group-title="WORLD NEWS",WION
@@ -1707,7 +1709,7 @@ https://liveanevia.mncnow.id/live/eds/FightSports/sa_dash_vmx/FightSports.mpd
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/800px-NBA_TV.svg.png" group-title="NATIONAL SPORTS",NBA TV
 http://139.99.71.104:8888/live/blink2/q4xvtv4ymi/3099.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0FJ92Bp.png" group-title="AMERICAN SPORTS",Golf Channel
-http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/13753
+http://server.sibfungold.info:8080/gaicu84/iVMawDNfwV@/46844
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0FJ92Bp.png" group-title="NATIONAL SPORTS",Golf Channel
 http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/157563
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0g1cseU.png" group-title="NATIONAL SPORTS",eGG Network
@@ -1812,15 +1814,15 @@ http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/69666
 #EXTINF:-1 tvg-logo="https://i.imgur.com/x8049OP.png" group-title="CANADIAN SPORTS",beIN Sports Xtra
 http://status.tehw00t.net/miniProxy.php/https://bein-xtra-samsung-canada.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/MLBNetworkLogo.svg/800px-MLBNetworkLogo.svg.png" group-title="AMERICAN SPORTS",MLB Network
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/75384
+http://server.sibfungold.info:8080/gaicu84/iVMawDNfwV@/46770
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gZXSAhf.png" group-title="AMERICAN SPORTS",NFL Network
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/13138
+http://server.sibfungold.info:8080/gaicu84/iVMawDNfwV@/46722
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LH4EVbg.png" group-title="AMERICAN SPORTS",NHL Network
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/13140
+http://server.sibfungold.info:8080/gaicu84/iVMawDNfwV@/46763
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JApkfiF.png" group-title="AMERICAN SPORTS",Tennis Channel
 http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/11202
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lcpZ5CC.png" group-title="AMERICAN SPORTS",WWE Network
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/13142
+http://server.sibfungold.info:8080/gaicu84/iVMawDNfwV@/46880
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c8/BoxNation2014Logo.png" group-title="BRITISH SPORTS",Box Nation
 http://archive.simpletv.eu:8080/boxnation/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7dg7EB7.png" group-title="BRITISH SPORTS",BT Sport 1
@@ -1838,7 +1840,7 @@ http://smartestv.vip:2095/ABHVYOP/2387998104/4474
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LwYHFLx.png" group-title="BRITISH SPORTS",Free Sports
 http://smartestv.vip:2095/ABHVYOP/2387998104/62927
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qbjcgcS.png" group-title="BRITISH SPORTS",La Liga TV
-http://45.148.147.123:5079/play/a1282
+http://server.sibfungold.info:8080/gaicu84/iVMawDNfwV@/52816
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tPxIkmd.png" group-title="BRITISH SPORTS",Premier Sports 1
 http://smartestv.vip:2095/ABHVYOP/2387998104/2100
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PhUx6yK.png" group-title="BRITISH SPORTS",Premier Sports 2
@@ -1872,35 +1874,35 @@ http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/4582
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lTnKDju.png" group-title="DANISH SPORTS",Eurosport 2
 http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/4583
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dACJ673.png" group-title="DANISH SPORTS",TV2 Sport
-http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/4578
+http://server.sibfungold.info:8080/gaicu84/iVMawDNfwV@/2692
 #EXTINF:-1 tvg-logo="https://i.imgur.com/im3pS9j.png" group-title="DANISH SPORTS",TV2 Sport X
 http://ipflix.click:8080/0m4keke5le/r5g49bfpo/688266
 #EXTINF:-1 tvg-logo="https://i.imgur.com/loVnWCY.png" group-title="DANISH SPORTS",TV3 Sport
-http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/4580
+http://server.sibfungold.info:8080/gaicu84/iVMawDNfwV@/2693
 #EXTINF:-1 tvg-logo="https://i.imgur.com/59vX06V.png" group-title="DANISH SPORTS",V Sport Golf
 http://ipflix.click:8080/0m4keke5le/r5g49bfpo/672829
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fyqMQxW.png" group-title="SWEDISH SPORTS",C More Fotboll
-http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/10659
+http://server.sibfungold.info:8080/gaicu84/iVMawDNfwV@/3666
 #EXTINF:-1 tvg-logo="https://i.imgur.com/503xx1w.png" group-title="SWEDISH SPORTS",C More Golf
-http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/10666
+http://server.sibfungold.info:8080/gaicu84/iVMawDNfwV@/3671
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BWkCvWF.png" group-title="SWEDISH SPORTS",C More Hockey
-http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/10663
+http://server.sibfungold.info:8080/gaicu84/iVMawDNfwV@/3665
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gwV31E0.png" group-title="SWEDISH SPORTS",Eurosport 1
 http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/6262
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lTnKDju.png" group-title="SWEDISH SPORTS",Eurosport 2
 http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/10658
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HzROYev.png" group-title="SWEDISH SPORTS",Sportkanalen
-http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/24184
+http://server.sibfungold.info:8080/gaicu84/iVMawDNfwV@/3667
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gpkbvuB.png" group-title="SWEDISH SPORTS",V Sport 1
-http://ipflix.click:8080/0m4keke5le/r5g49bfpo/8143
+http://server.sibfungold.info:8080/gaicu84/iVMawDNfwV@/48134
 #EXTINF:-1 tvg-logo="https://i.imgur.com/77fMvyg.png" group-title="SWEDISH SPORTS",V Sport Extra
 http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/198403
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JkItNQZ.png" group-title="SWEDISH SPORTS",V Sport Football
-http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/6272
+http://server.sibfungold.info:8080/gaicu84/iVMawDNfwV@/48138
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tArjH2F.png" group-title="SWEDISH SPORTS",V Sport Motor
-http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/6273
+http://server.sibfungold.info:8080/gaicu84/iVMawDNfwV@/48135
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PCnmyha.png" group-title="SWEDISH SPORTS",V Sport Premium
-http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/10659
+http://server.sibfungold.info:8080/gaicu84/iVMawDNfwV@/48132
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cXpkGct.png" group-title="SWEDISH SPORTS",V Sport Vinter
 http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/6274
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RK7Ht8c.png" group-title="NORDIC SPORTS",TV2 Sport 1
@@ -1920,25 +1922,25 @@ http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/170188
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9jZlAna.png" group-title="NORDIC SPORTS",V Sport+
 http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/252152
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dL13zdR.png" group-title="GREEK SPORTS",Cosmote Sport 1
-http://iptvpick.live:900/1038203932/1883321016/165081
+http://server.sibfungold.info:8080/gaicu84/iVMawDNfwV@/4588
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wxw1tnY.png" group-title="GREEK SPORTS",Cosmote Sport 2
-http://iptvpick.live:900/1038203932/1883321016/165082
+http://server.sibfungold.info:8080/gaicu84/iVMawDNfwV@/4589
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DtFquTE.png" group-title="GREEK SPORTS",Cosmote Sport 3
-http://iptvpick.live:900/1038203932/1883321016/165083
+http://server.sibfungold.info:8080/gaicu84/iVMawDNfwV@/4590
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WgiAHlR.png" group-title="GREEK SPORTS",Cosmote Sport 4
-http://iptvpick.live:900/1038203932/1883321016/165084
+http://server.sibfungold.info:8080/gaicu84/iVMawDNfwV@/4591
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MvMyeXL.png" group-title="GREEK SPORTS",Cosmote Sport 5
-http://iptvpick.live:900/1038203932/1883321016/165085
+http://server.sibfungold.info:8080/gaicu84/iVMawDNfwV@/4592
 #EXTINF:-1 tvg-logo="https://i.imgur.com/51n031I.png" group-title="GREEK SPORTS",Cosmote Sport 6
-http://iptvpick.live:900/1038203932/1883321016/165086
+http://server.sibfungold.info:8080/gaicu84/iVMawDNfwV@/4593
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gwV31E0.png" group-title="GREEK SPORTS",Eurosport 1
 http://cloudcdn.city:80/2bMdYcF89/C31jqV37/64966
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lTnKDju.png" group-title="GREEK SPORTS",Eurosport 2
 http://cloudcdn.city:80/2bMdYcF89/C31jqV37/64967
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gGRqRoy.png" group-title="GREEK SPORTS",Nova Sport 1
-http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/12844
+http://server.sibfungold.info:8080/gaicu84/iVMawDNfwV@/52218
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gGRqRoy.png" group-title="GREEK SPORTS",Nova Sport 2
-http://iptvpick.live:900/1038203932/1883321016/168433
+http://server.sibfungold.info:8080/gaicu84/iVMawDNfwV@/52219
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gGRqRoy.png" group-title="GREEK SPORTS",Nova Sport 3
 http://cloudcdn.city:80/2bMdYcF89/C31jqV37/64906
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gGRqRoy.png" group-title="GREEK SPORTS",Nova Sport 4
@@ -1950,17 +1952,17 @@ http://iptvpick.live:900/1038203932/1883321016/400220747
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1g9mYwr.png" group-title="AMERICAN SPORTS",CBS Sports Network
 http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/267357
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1920px-ESPN_wordmark.svg.png" group-title="AMERICAN SPORTS",ESPN
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/11203
+http://server.sibfungold.info:8080/gaicu84/iVMawDNfwV@/46871
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/1280px-ESPN2_logo.svg.png" group-title="AMERICAN SPORTS",ESPN 2
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/11204
+http://server.sibfungold.info:8080/gaicu84/iVMawDNfwV@/46869
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YhuEewa.png" group-title="AMERICAN SPORTS",ESPN Deportes
-http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/281417
+http://server.sibfungold.info:8080/gaicu84/iVMawDNfwV@/46867
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/ESPNews.svg/1920px-ESPNews.svg.png" group-title="AMERICAN SPORTS",ESPNews
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/11205
+http://server.sibfungold.info:8080/gaicu84/iVMawDNfwV@/50865
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qimdreM.png" group-title="AMERICAN SPORTS",FS1
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/13134
+http://server.sibfungold.info:8080/gaicu84/iVMawDNfwV@/1529
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jxLMBZt.png" group-title="AMERICAN SPORTS",FS2
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/11148
+http://server.sibfungold.info:8080/gaicu84/iVMawDNfwV@/1530
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kL3DvWM.png" group-title="AMERICAN SPORTS",Fox Deportes
 http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/13163
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ix8Pm5R.png" group-title="WORLD SPORTS",On Sports
@@ -2102,35 +2104,35 @@ http://internetowa.tv/?c=hlsPlay&channel=tvpsport&token=04930f46ae574effac95f6ed
 #EXTINF:-1 tvg-logo="https://i.imgur.com/p0k54D9.png" group-title="FRENCH SPORTS",Canal+ Sport
 http://smartestv.vip:2095/ABHVYOP/2387998104/853
 #EXTINF:-1 tvg-logo="https://i.imgur.com/D1nuT7j.png" group-title="FRENCH SPORTS",Infosport+
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/240
+http://server.sibfungold.info:8080/gaicu84/iVMawDNfwV@/91
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hyjk6Wx.png" group-title="FRENCH SPORTS",Foot+ 24/24
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/241
+http://server.sibfungold.info:8080/gaicu84/iVMawDNfwV@/51646
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0FJ92Bp.png" group-title="FRENCH SPORTS",Golf Channel
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/245
+http://server.sibfungold.info:8080/gaicu84/iVMawDNfwV@/49862
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vU6Y5Of.png" group-title="FRENCH SPORTS",Golf+
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/242
+http://server.sibfungold.info:8080/gaicu84/iVMawDNfwV@/2452
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/L%27%C3%89quipe_wordmark.svg/1920px-L%27%C3%89quipe_wordmark.svg.png" group-title="FRENCH SPORTS",L'Equipe
 http://callofliberty.fr/stream/LEQUIPE/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gwV31E0.png" group-title="FRENCH SPORTS",Eurosport 1
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/90125
+http://server.sibfungold.info:8080/gaicu84/iVMawDNfwV@/51512
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lTnKDju.png" group-title="FRENCH SPORTS",Eurosport 2
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/90126
+http://server.sibfungold.info:8080/gaicu84/iVMawDNfwV@/51513
 #EXTINF:-1 tvg-logo="https://i.imgur.com/30785UJ.png" group-title="FRENCH SPORTS",RMC Sport 1
-http://smartiptv.ddnsco.com:8080/iptvauthority131/iptvauthority131/50341
+http://server.sibfungold.info:8080/gaicu84/iVMawDNfwV@/2252
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5Rh2s8k.png" group-title="FRENCH SPORTS",RMC Sport 2
-http://smartiptv.ddnsco.com:8080/iptvauthority131/iptvauthority131/50342
+http://server.sibfungold.info:8080/gaicu84/iVMawDNfwV@/2103
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kaUN9Uw.png" group-title="ROMANIAN SPORTS",Digi Sport 1
-http://smartiptv.ddnsco.com:8080/iptvauthority131/iptvauthority131/11282
+http://server.sibfungold.info:8080/gaicu84/iVMawDNfwV@/46984
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xxLvKJD.png" group-title="ROMANIAN SPORTS",Digi Sport 2
-http://smartiptv.ddnsco.com:8080/iptvauthority131/iptvauthority131/11283
+http://server.sibfungold.info:8080/gaicu84/iVMawDNfwV@/46983
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WiynV2K.png" group-title="ROMANIAN SPORTS",Digi Sport 3
-http://smartiptv.ddnsco.com:8080/iptvauthority131/iptvauthority131/11284
+http://server.sibfungold.info:8080/gaicu84/iVMawDNfwV@/46982
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kBsQd2d.png" group-title="ROMANIAN SPORTS",Digi Sport 4
-http://smartiptv.ddnsco.com:8080/iptvauthority131/iptvauthority131/11285
+http://server.sibfungold.info:8080/gaicu84/iVMawDNfwV@/46981
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gwV31E0.png" group-title="ROMANIAN SPORTS",Eurosport 1
-http://smartiptv.ddnsco.com:8080/iptvauthority131/iptvauthority131/54523
+http://server.sibfungold.info:8080/gaicu84/iVMawDNfwV@/46979
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lTnKDju.png" group-title="ROMANIAN SPORTS",Eurosport 2
-http://smartiptv.ddnsco.com:8080/iptvauthority131/iptvauthority131/54525
+http://server.sibfungold.info:8080/gaicu84/iVMawDNfwV@/46978
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UlsXKUP.png" group-title="ROMANIAN SPORTS",Extreme Sports
 http://smartiptv.ddnsco.com:8080/iptvauthority131/iptvauthority131/54526
 #EXTINF:-1 tvg-logo="https://i.imgur.com/J5DHUdV.png" group-title="ROMANIAN SPORTS",Look Sport
@@ -2142,13 +2144,13 @@ https://stream1.1616.ro:1945/looksport3/livestream/playlist.m3u8?wowzatokenhash=
 #EXTINF:-1 tvg-logo="https://i.imgur.com/H9m776N.png" group-title="ROMANIAN SPORTS",Look Sport+
 https://stream1.1616.ro:1945/lookplus/livestream/playlist.m3u8?wowzatokenhash=NqSD4qaHc94SbTW05NBB-lXC78ZiAOIbnbUBOHj1DAM=
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AlQ4dnX.png" group-title="ROMANIAN SPORTS",Telekom Sport 1
-http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/12727
+http://server.sibfungold.info:8080/gaicu84/iVMawDNfwV@/52351
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Sinj4NO.png" group-title="ROMANIAN SPORTS",Telekom Sport 2
-http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/12728
+http://server.sibfungold.info:8080/gaicu84/iVMawDNfwV@/52352
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XiYQDPl.png" group-title="ROMANIAN SPORTS",Telekom Sport 3
-http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/12729
+http://server.sibfungold.info:8080/gaicu84/iVMawDNfwV@/52353
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UEPQ1Wo.png" group-title="ROMANIAN SPORTS",Telekom Sport 4
-http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/12730
+http://server.sibfungold.info:8080/gaicu84/iVMawDNfwV@/52354
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Mzh8IIq.png" group-title="SWITZERLAND SPORTS",Blue Sport 1
 http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07dSKCq6VOR2nHhOld83sKbU/ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JfUrAfj.png" group-title="SWITZERLAND SPORTS",Blue Sport 2
@@ -2252,9 +2254,9 @@ http://91.126.141.13:1935/live/91/1800-def.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2cDxHdn.png" group-title="SPANISH SPORTS",Toros
 http://185.236.229.101:8005/play/a02k
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gwV31E0.png" group-title="PORTUGUESE SPORTS",Eurosport 1
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/9121
+http://server.sibfungold.info:8080/gaicu84/iVMawDNfwV@/49589
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lTnKDju.png" group-title="PORTUGUESE SPORTS",Eurosport 2
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/9119
+http://server.sibfungold.info:8080/gaicu84/iVMawDNfwV@/49590
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kTXQVRD.png" group-title="PORTUGUESE SPORTS",Eleven Sports 1
 http://red.ipfox.org:8080/1234/12345678/2645
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MomX4fY.png" group-title="PORTUGUESE SPORTS",Eleven Sports 2
@@ -2473,15 +2475,15 @@ http://31.47.9.27:8000/play/a017/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7W9oZCa.png" group-title="SERBIAN SPORTS",Arena Fight
 http://iptvpick.live:900/6046606740/0889325748/400269255
 #EXTINF:-1 tvg-logo="https://i.imgur.com/50ZGo5V.png" group-title="SERBIAN SPORTS",Arena Sport 1
-http://91.150.85.166:8000/play/a004/index.m3u8
+http://server.sibfungold.info:8080/gaicu84/iVMawDNfwV@/47848
 #EXTINF:-1 tvg-logo="https://i.imgur.com/V72XapO.png" group-title="SERBIAN SPORTS",Arena Sport 2
 http://84.22.33.214/ArenaSport2/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Yw1kdh5.png" group-title="SERBIAN SPORTS",Arena Sport 3
-http://91.150.85.166:8000/play/a006/index.m3u8
+http://server.sibfungold.info:8080/gaicu84/iVMawDNfwV@/47846
 #EXTINF:-1 tvg-logo="https://i.imgur.com/a3Rma7Z.png" group-title="SERBIAN SPORTS",Arena Sport 4
-http://5.206.237.66:9000/play/a073
+http://server.sibfungold.info:8080/gaicu84/iVMawDNfwV@/47845
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oYXOq46.png" group-title="SERBIAN SPORTS",Arena Sport 5
-http://5.206.237.66:9000/play/a074
+http://server.sibfungold.info:8080/gaicu84/iVMawDNfwV@/47844
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gwV31E0.png" group-title="SERBIAN SPORTS",Eurosport 1
 http://31.47.9.27:8000/play/a00w/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lTnKDju.png" group-title="SERBIAN SPORTS",Eurosport 2
@@ -2489,31 +2491,31 @@ http://31.47.9.27:8000/play/a00x/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zKcn8DZ.png" group-title="SERBIAN SPORTS",Sport Klub
 http://188.124.211.212:7373/play/a082
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HjhiW62.png" group-title="SERBIAN SPORTS",Sport Klub 1
-http://91.150.85.166:8000/play/a009/index.m3u8
+http://server.sibfungold.info:8080/gaicu84/iVMawDNfwV@/904
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bqtc41i.png" group-title="SERBIAN SPORTS",Sport Klub 2
-http://91.150.85.166:8000/play/a00a/index.m3u8
+http://server.sibfungold.info:8080/gaicu84/iVMawDNfwV@/903
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7CvFh8W.png" group-title="SERBIAN SPORTS",Sport Klub 3
-http://91.150.85.166:8000/play/a00b/index.m3u8
+http://server.sibfungold.info:8080/gaicu84/iVMawDNfwV@/902
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5PBRYFZ.png" group-title="SERBIAN SPORTS",Sport Klub 4
-http://91.150.85.166:8000/play/a00c/index.m3u8
+http://server.sibfungold.info:8080/gaicu84/iVMawDNfwV@/47834
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XfdFwph.png" group-title="SERBIAN SPORTS",Sport Klub 5
-http://91.150.85.166:8000/play/a00d/index.m3u8
+http://server.sibfungold.info:8080/gaicu84/iVMawDNfwV@/47833
 #EXTINF:-1 tvg-logo="https://i.imgur.com/etqRDUr.png" group-title="SERBIAN SPORTS",Sport Klub 6
-http://91.150.85.166:8000/play/a00e/index.m3u8
+http://server.sibfungold.info:8080/gaicu84/iVMawDNfwV@/47832
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zKcn8DZ.png" group-title="SERBIAN SPORTS",Sport Klub eSports
 http://188.124.211.212:7373/play/a087
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4mkAAJk.png" group-title="SERBIAN SPORTS",Sport Klub Golf
-http://188.124.211.212:7373/play/a081
+http://server.sibfungold.info:8080/gaicu84/iVMawDNfwV@/52028
 #EXTINF:-1 tvg-logo="https://i.imgur.com/50ZGo5V.png" group-title="CROATIAN SPORTS",Arena Sport 1
-http://190.115.29.22:8080/live/carter/GUV1bMq2VK/2505.m3u8
+http://server.sibfungold.info:8080/gaicu84/iVMawDNfwV@/916
 #EXTINF:-1 tvg-logo="https://i.imgur.com/V72XapO.png" group-title="CROATIAN SPORTS",Arena Sport 2
-http://190.115.29.22:8080/live/carter/GUV1bMq2VK/2503.m3u8
+http://server.sibfungold.info:8080/gaicu84/iVMawDNfwV@/914
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Yw1kdh5.png" group-title="CROATIAN SPORTS",Arena Sport 3
-http://190.115.29.22:8080/live/carter/GUV1bMq2VK/2501.m3u8
+http://server.sibfungold.info:8080/gaicu84/iVMawDNfwV@/912
 #EXTINF:-1 tvg-logo="https://i.imgur.com/a3Rma7Z.png" group-title="CROATIAN SPORTS",Arena Sport 4
-http://190.115.29.22:8080/live/carter/GUV1bMq2VK/2499.m3u8
+http://server.sibfungold.info:8080/gaicu84/iVMawDNfwV@/910
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oYXOq46.png" group-title="CROATIAN SPORTS",Arena Sport 5
-http://190.115.29.22:8080/live/carter/GUV1bMq2VK/2497.m3u8
+http://server.sibfungold.info:8080/gaicu84/iVMawDNfwV@/908
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BWFXNI6.png" group-title="CROATIAN SPORTS",Arena Sport 6
 http://190.115.29.22:8080/live/carter/GUV1bMq2VK/13586.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QiOLZoa.png" group-title="CROATIAN SPORTS",Arena Sport 7
@@ -2955,7 +2957,7 @@ http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/24740
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RrIVJJY.png" group-title="MALAYSIA",Astro Ria
 https://m3u-editor.com/serve/sqwdwdqddddddddddd/480037660
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FZoK4df.png" group-title="MALAYSIA",Astro Prima
-http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/157467
+https://my.odtv.uk:443/live/9486331171/7860879594/16.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JCn7Yd0.png" group-title="MALAYSIA",Astro Warna
 https://m3u-editor.com/serve/sqwdwdqddddddddddd/480037662
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1d/Awesome_TV_Malaysia.png" group-title="MALAYSIA",Awesome TV
