@@ -484,6 +484,8 @@ https://vips-livecdn.fptplay.net/hda1/vtv4_vhls.smil/chunklist_b5000000.m3u8
 http://stream.euroasia.lfstrm.tv/perviy_evrasia/1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pnxfmaH.png" group-title="WORLD ENTERTAINMENT",РТР-Планета
 http://cdnmg.secure.live.rtr-vesti.ru/live/smil:rtrp.smil/chunklist_b1600000.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/b1VGZ0O.png" group-title="WORLD ENTERTAINMENT",UA
+http://ua-tv-hls2.cosmonova.net.ua/hls/ua-tv_ua_mid/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Logo_de_TV_Chile.png/1024px-Logo_de_TV_Chile.png" group-title="WORLD ENTERTAINMENT",TV Chile
 http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/8978
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Logo_TVE-Internacional.svg/1024px-Logo_TVE-Internacional.svg.png" group-title="SPANISH ENTERTAINMENT",TVE Internacional
@@ -492,6 +494,8 @@ http://rr.dens.tv/h/h158/index2.m3u8
 https://mdstrm.com/live-stream-playlist/5cae574f875a4e1adebe5c39.m3u8?access_token=DST4b676d7da5a2a92ee15f8efcbcd00606
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DcG1oo6.png" group-title="WORLD ENTERTAINMENT",Zee TV
 http://93.152.174.144:4000/play/zee/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2nslQV6.png" group-title="WORLD ENTERTAINMENT",Prva World
+http://185.24.35.229:8080/prvaworld/index.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/K49jYHw.png" group-title="NATIONAL MUSIC",Music TV
@@ -597,6 +601,8 @@ http://103.153.39.36:8000/play/a01d
 http://103.153.39.36:8000/play/a00w
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5f/Sony_PIX.png" group-title="MOVIES", Sony Pix
 http://live.flixhub.net/hls/sonypixhd.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iyK0G1Q.png"group-title="MOVIES",UTV Action
+http://live.flixhub.net/hls/utvaction.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/duaKL8I.png" group-title="ASIAN MOVIES",Thrill
@@ -1489,7 +1495,7 @@ http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/2682
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cojVDUx.png" group-title="POLISH NEWS",Wydarzenia 24
 http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/24241
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TpBpUU4.png" group-title="PORTUGUESE NEWS",SIC Notícias
-http://93.152.174.144:4000/play/sicnotiacias/index.m3u8
+https://bit.ly/sicnotici?/index.m3u8
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Rtp3.png/1920px-Rtp3.png" group-title="PORTUGUESE NEWS",RTP 3
@@ -1986,7 +1992,7 @@ http://vstreams.tv:2082/rb0zYNF5GQ/FGWoCyPvwt/1067948
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/1280px-ESPN2_logo.svg.png" group-title="AUSTRALIAN SPORTS",ESPN 2
 http://vstreams.tv:2082/rb0zYNF5GQ/FGWoCyPvwt/1067949
 #EXTINF:-1 tvg-logo="https://i.imgur.com/b7TO49Q.png" group-title="AUSTRALIAN SPORTS",Fox Sports 501
-http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/279034
+http://fringeiptv.ddns.net:2086/live/eamonbrady@gmail.com/sC1i5g82bQ/65800.m3u8+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BLWrz42.png" group-title="AUSTRALIAN SPORTS",Fox Sports 502
 http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/81784
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qR5u3Jg.png" group-title="AUSTRALIAN SPORTS",Fox Sports 503
@@ -2993,19 +2999,19 @@ https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/T
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/92/TVS_Sarawak.jpg" group-title="MALAYSIA",TVS
 http://194.233.76.27:2082/1992/1992/32
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TVRRM2ZMdFlrS1R6Yy01SnhfSGdTdE1PWDRhY1VJTzBTX1JyUm1lNlkwMzAtN1RfdXE4cDdNRXRyd2pSN25qOG15anRObVEybjVtckd2WXZwMWg5WnBFNnRXdWlGUkdhbjBmQ2VoQjB2YmQtVC11SGxXQ0RSWU9VbDdoWVNFMlpkY053amxIcVNtNFE4aTU2UzNiMENLYUdJcVdJamVfeXk1MlpOVnNXTU1qc1Y4bk5oZTAwUTViMks0R3U2Zm9wNmZlQmszQ0FyZENBQmhWa3pzQUx2SThqY2pnd1RzNjFlcDdqWWdxX1hQakZ4Q09mUldyaWZUZ21JaG9BVjRudjFrNXAtM0xveEFKQlpNZmFaTVJrcUZhUEJGN2VDOGNia0dHTVpaYVZLb1dsdGQzcFBtZEFMNWZ6NVFOaWUxMHE0cEhkajc1VUo4SnNaRWUwNi1NS2ZiVnRMUGM9JmNvbnRleHRUeXBlPW5vbmUmaWQ9NTc1NDExNiIsImFjY291bnRfaWQiOjIwODIzMTEsImNvbnRlbnRfaWQiOiJmdGFfY2g1X2Rhc2hfdHZfZHJtIiwiZmlsZXMiOiIiLCJ1c2VyX3Rva2VuIjoiZGpKOE1UUTNmTHRZa0tUemMtNUp4X0hnU3RNT1g0YWNVSU8wU19SclJtZTZZMDMwLTdUX3VxOHA3TUV0cndqUjduajhteWp0Tm1RMm41bXJHdll2cDFoOVpwRTZ0V3VpRlJHYW4wZkNlaEIwdmJkLVQtdUhsV0NEUllPVWw3aFlTRTJaZGNOd2psSHFTbTRROGk1NlMzYjBDS2FHSXFXSWplX3l5NTJaTlZzV01NanNWOG5OaGUwMFE1YjJLNEd1NmZvcDZmZUJrM0NBcmRDQUJoVmt6c0FMdkk4amNqZ3dUczYxZXA3allncV9YUGpGeENPZlJXcmlmVGdtSWhvQVY0bnYxazVwLTNMb3hBSkJaTWZhWk1Sa3FGYVBCRjdlQzhjYmtHR01aWmFWS29XbHRkM3BQbWRBTDVmejVRTmllMTBxNHBIZGo3NVVKOEpzWkVlMDYtTUtmYlZ0TFBjPSIsInVkaWQiOiIiLCJhZGRpdGlvbmFsX2Nhc19zeXN0ZW0iOjE0N30%3d&signature=T5l%2fUBNpnsow6ghZVNxucsVbbF0%3d
+#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TVRRM2ZKdkJ5RDJSOEE0R1ZtT3Yyc1dLTFJaR2ExUWlldE9XdUZZdjNhYkE3TWQxMjl2VGwyLWNqakktR3FYYkRYQlBuMGNqdy1tdU1TbWdrZmIydnYyVXRBVUdwRE4yRXVIUGg1eEoxMmZkcWdFZ0lQV1dBX3pXMWhrR2U4bnlrOWVuMncxYWhlbVQyVzhYRml2VEZtVHk3QnZXM3lOdVBCNzZHaTJReEstczhxOEZVSUFFQUtqM2dpYzl3SlRES19STC1IYlZoSG9JT2Rua1NjV3RtMzJwbDdBNFFmVy05c25KcGo2bWJ3d3J2alc0NktLdzZaeDI4SUgzZVhEZV9LYUh3eVhDX0VtM3J4cjFTb1dyNWRHTjQ1VVdmWjNjVGlDSFRleXhWNjJYU0EzcVE3ZVNtb1NXc3dDMGp1TEVlWnRzaWJYS2R3Q3Z2YkxKU21EQm95X0l4TTQ9JmNvbnRleHRUeXBlPW5vbmUmaWQ9NTc1NDExNiIsImFjY291bnRfaWQiOjIwODIzMTEsImNvbnRlbnRfaWQiOiJmdGFfY2g1X2Rhc2hfdHZfZHJtIiwiZmlsZXMiOiIiLCJ1c2VyX3Rva2VuIjoiZGpKOE1UUTNmSnZCeUQyUjhBNEdWbU92MnNXS0xSWkdhMVFpZXRPV3VGWXYzYWJBN01kMTI5dlRsMi1jampJLUdxWGJEWEJQbjBjanctbXVNU21na2ZiMnZ2MlV0QVVHcEROMkV1SFBoNXhKMTJmZHFnRWdJUFdXQV96VzFoa0dlOG55azllbjJ3MWFoZW1UMlc4WEZpdlRGbVR5N0J2VzN5TnVQQjc2R2kyUXhLLXM4cThGVUlBRUFLajNnaWM5d0pUREtfUkwtSGJWaEhvSU9kbmtTY1d0bTMycGw3QTRRZlctOXNuSnBqNm1id3dydmpXNDZLS3c2WngyOElIM2VYRGVfS2FId3lYQ19FbTNyeHIxU29XcjVkR040NVVXZlozY1RpQ0hUZXl4VjYyWFNBM3FRN2VTbW9TV3N3QzBqdUxFZVp0c2liWEtkd0N2dmJMSlNtREJveV9JeE00PSIsInVkaWQiOiIiLCJhZGRpdGlvbmFsX2Nhc19zeXN0ZW0iOjE0N30%3d&signature=9e%2bVwG7awZ9Em8DwDQdvIo4G0vM%3d
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fakV73e.png" group-title="SINGAPORE",Channel 5
 https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/147/assetId/316288/assetType/media/assetFileId/5754116/contextType/PLAYBACK/isAltUrl/False/a.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TVRRM2ZKNGNXSEFVSGVaSFhmc2tabXIwNlo3c2xmR254ZXdTVnNCT0Vib2VzVWcyU3ExSkswTVp0b1l5T1c0OXAyaEZkWnBEZEtMdERjdHFzSEpDek5OTUd0SWpZSUxPbFR2TFVtcm5PNXJYb3VVdnZ6a1pSR3IxSFZBMzRNNm1IaGFMNGNSRGZLM1ZqWWJ6WU5KWktOSTZFeTBiYXpla1J6Z0hfTEpSLUl3SkNfeWNOajZhdE9BLTNMZDhhb3gxRmxad1R5RHkyZS1ybkFMVXVzQ1hZcVJhZ0l2enJXMGlBY1pWaXo2NnBFR0tsOXhDUjhoT3RMSWUzMllUNHZoZTQyUHdZbWtCVktaV2V3NVlpVW1xWEM0dFdVa045a09oUjZyMGVMSlpYaFgxaktGSXV6c0RISENGcmRUTHRpRjlTR0NfekdINjExWHFTV3A0aHB2bGdwSEZpVnpDM1RsdzJRRXRIZXdWc0ZTRW90emZzWll2NFhEN1FPNEcxZmJIZUptNXR3PT0mY29udGV4dFR5cGU9bm9uZSZpZD01NzU0MTI0IiwiYWNjb3VudF9pZCI6MjA4MjMxMSwiY29udGVudF9pZCI6ImZ0YV9jaDhfZGFzaF90dl9kcm0iLCJmaWxlcyI6IiIsInVzZXJfdG9rZW4iOiJkako4TVRRM2ZKNGNXSEFVSGVaSFhmc2tabXIwNlo3c2xmR254ZXdTVnNCT0Vib2VzVWcyU3ExSkswTVp0b1l5T1c0OXAyaEZkWnBEZEtMdERjdHFzSEpDek5OTUd0SWpZSUxPbFR2TFVtcm5PNXJYb3VVdnZ6a1pSR3IxSFZBMzRNNm1IaGFMNGNSRGZLM1ZqWWJ6WU5KWktOSTZFeTBiYXpla1J6Z0hfTEpSLUl3SkNfeWNOajZhdE9BLTNMZDhhb3gxRmxad1R5RHkyZS1ybkFMVXVzQ1hZcVJhZ0l2enJXMGlBY1pWaXo2NnBFR0tsOXhDUjhoT3RMSWUzMllUNHZoZTQyUHdZbWtCVktaV2V3NVlpVW1xWEM0dFdVa045a09oUjZyMGVMSlpYaFgxaktGSXV6c0RISENGcmRUTHRpRjlTR0NfekdINjExWHFTV3A0aHB2bGdwSEZpVnpDM1RsdzJRRXRIZXdWc0ZTRW90emZzWll2NFhEN1FPNEcxZmJIZUptNXR3PT0iLCJ1ZGlkIjoiIiwiYWRkaXRpb25hbF9jYXNfc3lzdGVtIjoxNDd9&signature=7QXdyj5Kg406dlw20g7ZU03%2baiM%3d
+#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TVRRM2ZEd2dNS0JuR0hnS1JQTV9iZFE2Y3pCaGFJSFB1dUFKWm1Eb01DckxDTDExblY3MnhUMlVhbkkyRHNiZFp5VDFKZ1VpVld4cW54SjFhLWl3OVJRZ1c2YVNqSzhSVm1nejgyQnZ3RGFXTEFsaUFXOHhBcHBjd0VXdnkyRTJMWVdXT0VHdWNEbE5uZ0lHSEg1cVVYQnotM1pDX05ROWxIdnlNNmFtdmxXNjhPVFJJSVpVMGp1TTYtUXU1VnNfODZCN1ZiOUZPc09PMlNIa18tWUF1NVV0Zk1OTm1YUGJWNml2LWdROHNGMkh0aVZWa3FvbG9QVlZNaU1vb1JSU1NJVEp2OTdZbjhZT21qYkVFaHd0Tkp3cVljQVB3d29lY1JZeDRURWROSmRPWmZ6VTF0WGk4LVA3aDF4Qll0cHJLbFBPdjJyRTctckxsZndBYWVuNGhGZWRKcDg9JmNvbnRleHRUeXBlPW5vbmUmaWQ9NTc1NDEyNCIsImFjY291bnRfaWQiOjIwODIzMTEsImNvbnRlbnRfaWQiOiJmdGFfY2g4X2Rhc2hfdHZfZHJtIiwiZmlsZXMiOiIiLCJ1c2VyX3Rva2VuIjoiZGpKOE1UUTNmRHdnTUtCbkdIZ0tSUE1fYmRRNmN6QmhhSUhQdXVBSlptRG9NQ3JMQ0wxMW5WNzJ4VDJVYW5JMkRzYmRaeVQxSmdVaVZXeHFueEoxYS1pdzlSUWdXNmFTaks4UlZtZ3o4MkJ2d0RhV0xBbGlBVzh4QXBwY3dFV3Z5MkUyTFlXV09FR3VjRGxObmdJR0hINXFVWEJ6LTNaQ19OUTlsSHZ5TTZhbXZsVzY4T1RSSUlaVTBqdU02LVF1NVZzXzg2QjdWYjlGT3NPTzJTSGtfLVlBdTVVdGZNTk5tWFBiVjZpdi1nUThzRjJIdGlWVmtxb2xvUFZWTWlNb29SUlNTSVRKdjk3WW44WU9tamJFRWh3dE5Kd3FZY0FQd3dvZWNSWXg0VEVkTkpkT1pmelUxdFhpOC1QN2gxeEJZdHByS2xQT3YyckU3LXJMbGZ3QWFlbjRoRmVkSnA4PSIsInVkaWQiOiIiLCJhZGRpdGlvbmFsX2Nhc19zeXN0ZW0iOjE0N30%3d&signature=WKlP7peDaTT7J9X%2bjtnWOhOoa2U%3d
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rwn2fVK.png" group-title="SINGAPORE",Channel 8
 https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/147/assetId/260581/assetType/media/assetFileId/5754124/contextType/PLAYBACK/isAltUrl/False/a.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TVRRM2ZOcDE3dzNpUF9xZ0NKazJaMENwMTdPaXZCRTlsMW1SRHhZbTdZNDFtdmY5WTlYSUFJZnBqUUlQTEtySVJXMVpMb01LNG5fTnIxS2hHYXNVQ3pQNVpVN2lwZFgya05KUTdVcjc3YlBPWDdNMjhhYWxNRjNLbWkzUUNuZU5IRVlGWU1zcTNUVE9rbFV4WjhWVnc3RDlJYWlaRVFfclRMcU1YTElmODFFbktYcW5Zc1c0aVlkbEgya3lnaFdZaVFBeHRSclpWYV8yeExvQXoyRURzdEZvWHF5SzNVSFNpd0s5WEFOaDh2MTk0Tmt3LXIwSVVSYncyc3d1UVZjd3IyMVVCUjJJckIyTi13ajVvaEU3WC1RZVNuSEhoYjV4SFJ1S0FEZjZ5cnM4WHVZWC13T0NnM3pzZmFUOWx1ZFNWejQ5Q0pzOHoxX0R5X0xuY19YRHotUXozTDQ9JmNvbnRleHRUeXBlPW5vbmUmaWQ9NTc1NDE1NiIsImFjY291bnRfaWQiOjIwODIzMTEsImNvbnRlbnRfaWQiOiJmdGFfY2hVX2Rhc2hfd2ViX2RybSIsImZpbGVzIjoiIiwidXNlcl90b2tlbiI6ImRqSjhNVFEzZk5wMTd3M2lQX3FnQ0prMlowQ3AxN09pdkJFOWwxbVJEeFltN1k0MW12ZjlZOVhJQUlmcGpRSVBMS3JJUlcxWkxvTUs0bl9OcjFLaEdhc1VDelA1WlU3aXBkWDJrTkpRN1VyNzdiUE9YN00yOGFhbE1GM0ttaTNRQ25lTkhFWUZZTXNxM1RUT2tsVXhaOFZWdzdEOUlhaVpFUV9yVExxTVhMSWY4MUVuS1hxbllzVzRpWWRsSDJreWdoV1lpUUF4dFJyWlZhXzJ4TG9BejJFRHN0Rm9YcXlLM1VIU2l3SzlYQU5oOHYxOTROa3ctcjBJVVJidzJzd3VRVmN3cjIxVUJSMklyQjJOLXdqNW9oRTdYLVFlU25ISGhiNXhIUnVLQURmNnlyczhYdVlYLXdPQ2czenNmYVQ5bHVkU1Z6NDlDSnM4ejFfRHlfTG5jX1hEei1RejNMND0iLCJ1ZGlkIjoiIiwiYWRkaXRpb25hbF9jYXNfc3lzdGVtIjoxNDd9&signature=3noszEwpd4rbQxXG7QHeo6fXCyI%3d
+#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TVRRM2ZCSjhzM3VpTUVRZkYzcVB5WVk4cnFJRHhicGJMUEtvRzRSakI1VHJmMm02dTJOMG0zSk9TbHBfVHU5d3k1ZGp0b3pBU090c1RndlFXNWxJSUkzOGpKWUtFdWR1WTUtcUxraTJuYzdwTzNuQlhTUm9zOFpZMExaQnk1Z0ZOZlE4UEcyVlE5aVBSaS1IY1FaaGVfVFplTFhVUUVKaS1PSXpNUVNma1VlUjlkOTgyT3B4QTBTU0M2WXJPYTJ6TkxERkNRX3BtWnhVemVWb1dfWkRYXzdVLVBvUlhHZzBmaHdSY1B4a2UxQ3dKdjZmZGZSSzZjZjFESUZ1cktXMkl4Y2VQUWdGSlVxQ0wtRHplZFQteDF3VUpOOUthUGYxU3JMM1M2TzFhRm00WE5HVE5jUWwwdklLb2lFa0ZCWVJzdWViWXc9PSZjb250ZXh0VHlwZT1ub25lJmlkPTU3NTQxNTYiLCJhY2NvdW50X2lkIjoyMDgyMzExLCJjb250ZW50X2lkIjoiZnRhX2NoVV9kYXNoX3dlYl9kcm0iLCJmaWxlcyI6IiIsInVzZXJfdG9rZW4iOiJkako4TVRRM2ZCSjhzM3VpTUVRZkYzcVB5WVk4cnFJRHhicGJMUEtvRzRSakI1VHJmMm02dTJOMG0zSk9TbHBfVHU5d3k1ZGp0b3pBU090c1RndlFXNWxJSUkzOGpKWUtFdWR1WTUtcUxraTJuYzdwTzNuQlhTUm9zOFpZMExaQnk1Z0ZOZlE4UEcyVlE5aVBSaS1IY1FaaGVfVFplTFhVUUVKaS1PSXpNUVNma1VlUjlkOTgyT3B4QTBTU0M2WXJPYTJ6TkxERkNRX3BtWnhVemVWb1dfWkRYXzdVLVBvUlhHZzBmaHdSY1B4a2UxQ3dKdjZmZGZSSzZjZjFESUZ1cktXMkl4Y2VQUWdGSlVxQ0wtRHplZFQteDF3VUpOOUthUGYxU3JMM1M2TzFhRm00WE5HVE5jUWwwdklLb2lFa0ZCWVJzdWViWXc9PSIsInVkaWQiOiIiLCJhZGRpdGlvbmFsX2Nhc19zeXN0ZW0iOjE0N30%3d&signature=%2bln2rmiMsjgjxJF0NxxqmNPBVbU%3d
 #EXTINF:-1 tvg-logo="https://i.imgur.com/69ePQhz.png" group-title="SINGAPORE",Channel U
 https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/147/assetId/330332/assetType/media/assetFileId/5754156/contextType/PLAYBACK/isAltUrl/False/a.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TVRRM2ZPWjFkeUREYWFDeUV5UTlGNGpmYXNYdWhxeHZRYVBlV0RYb1Z6SFI3MDc3WlFqR0ZTUGdHbmdoMmN2YTdUOGxWU0hiN0x6bkVUX2VIMGpSSDVBS1h0V0NvbGd4STR5ZzRyNFlseWpucTZoMjRMak9iMVhHQmVyYVlmX0loZ2ZxakRyUXExU2thcGJ0c1QzMzJSekNGVloyZDNWN0R5QVVyZVZhMDhPV3pTM1JjMElJT0tBTEpxLTlyQ3RyRE4yeGlQZm9nZ2ZKRERRSTYtcTZ3eWxhZDd4Q1VjTW9YX0FBWmIzTzhEb05BN05DMkNiUGt2R2lTM00zcU9GWVE1dzJwSVd2OTJDck9OMXRkYzZuVGxMWmZEZFVSSnJON2c1VlZyZlN0OEx1SzBwQiZjb250ZXh0VHlwZT1ub25lJmlkPTU3NTQwNjYiLCJhY2NvdW50X2lkIjoyMDgyMzExLCJjb250ZW50X2lkIjoiZnRhX3N1cmlhX2Rhc2hfdHZfZHJtIiwiZmlsZXMiOiIiLCJ1c2VyX3Rva2VuIjoiZGpKOE1UUTNmT1oxZHlERGFhQ3lFeVE5RjRqZmFzWHVocXh2UWFQZVdEWG9WekhSNzA3N1pRakdGU1BnR25naDJjdmE3VDhsVlNIYjdMem5FVF9lSDBqUkg1QUtYdFdDb2xneEk0eWc0cjRZbHlqbnE2aDI0TGpPYjFYR0JlcmFZZl9JaGdmcWpEclFxMVNrYXBidHNUMzMyUnpDRlZaMmQzVjdEeUFVcmVWYTA4T1d6UzNSYzBJSU9LQUxKcS05ckN0ckROMnhpUGZvZ2dmSkREUUk2LXE2d3lsYWQ3eENVY01vWF9BQVpiM084RG9OQTdOQzJDYlBrdkdpUzNNM3FPRllRNXcycElXdjkyQ3JPTjF0ZGM2blRsTFpmRGRVUkpyTjdnNVZWcmZTdDhMdUswcEIiLCJ1ZGlkIjoiIiwiYWRkaXRpb25hbF9jYXNfc3lzdGVtIjoxNDd9&signature=lzgwV9u9zNs8mCTWJdP3rkf9zZ0%3d
+#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TVRRM2ZNNlRwYU9PNVd1c0lSUDBRbEhfTGdjaEdYYnM0a3BUeUh2MUJZVk12VWo5cmxsdDdsZGRpZW94eUZVQWVOYmZWTXVMTUwyNWcyTjh4OWpBWmpaZkZYUGlBU01oOGV5LXZ6cmEwRm9UN0NUQ3AyeHppM3Rib0dmUXlza291aHc1UmJ4blNMTUk2WVdJTTNHaGRYMmMyeVd6SDNVaUhlVUJDUW9iYnotQ0VCRE02Z1ZlZWx5dnlFWnAzeXJzYjBHRnBSMEt2YXY1UWFuRzVSZnYwTmU3eXRyWG13bEdnbTdWaks2MVhVVmlJcHIxY2RkMkY1dDd1UV80Um1jZHFWdVNJdDF4S3hFUFk2ZllRMThyaXgwYW9HaTdqQnJmLU1TdXFtMlVBUGEyTWJlcHdpUmd0Y0R6QlZmZFRsZjBBUmpJS3FtZDhkaXNzSHMwR3E3Y29ReS1sZzQ9JmNvbnRleHRUeXBlPW5vbmUmaWQ9NTc1NDA2NiIsImFjY291bnRfaWQiOjIwODIzMTEsImNvbnRlbnRfaWQiOiJmdGFfc3VyaWFfZGFzaF90dl9kcm0iLCJmaWxlcyI6IiIsInVzZXJfdG9rZW4iOiJkako4TVRRM2ZNNlRwYU9PNVd1c0lSUDBRbEhfTGdjaEdYYnM0a3BUeUh2MUJZVk12VWo5cmxsdDdsZGRpZW94eUZVQWVOYmZWTXVMTUwyNWcyTjh4OWpBWmpaZkZYUGlBU01oOGV5LXZ6cmEwRm9UN0NUQ3AyeHppM3Rib0dmUXlza291aHc1UmJ4blNMTUk2WVdJTTNHaGRYMmMyeVd6SDNVaUhlVUJDUW9iYnotQ0VCRE02Z1ZlZWx5dnlFWnAzeXJzYjBHRnBSMEt2YXY1UWFuRzVSZnYwTmU3eXRyWG13bEdnbTdWaks2MVhVVmlJcHIxY2RkMkY1dDd1UV80Um1jZHFWdVNJdDF4S3hFUFk2ZllRMThyaXgwYW9HaTdqQnJmLU1TdXFtMlVBUGEyTWJlcHdpUmd0Y0R6QlZmZFRsZjBBUmpJS3FtZDhkaXNzSHMwR3E3Y29ReS1sZzQ9IiwidWRpZCI6IiIsImFkZGl0aW9uYWxfY2FzX3N5c3RlbSI6MTQ3fQ%3d%3d&signature=SvG4lQPmvwpl38kPbGYza6MD%2bfM%3d
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fDftLuO.png" group-title="SINGAPORE",Suria
 https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/147/assetId/237652/assetType/media/assetFileId/5754066/contextType/PLAYBACK/isAltUrl/False/a.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dIoU3FG.png" group-title="USA",A&E
@@ -3768,6 +3774,18 @@ https://bl.uma.media/live/317849/HLS/4614144_3,2883584_2,1153024_1/1613027671/d1
 https://bl.uma.media/live/407373/HLS/6307840_7/1613013859/5fdc4b8080160a4e56933b0402133da4/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ru/thumb/7/72/TV_Tsentr_2013_Logo.svg/1920px-TV_Tsentr_2013_Logo.svg.png" group-title="RUSSIA",ТВ Центр
 http://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/chunklist_b1703000.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uJe15w1.png" group-title="SERBIA",Б92
+http://185.24.35.229:8080/b92/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/t6DJZ8o.png" group-title="SERBIA",Happy
+http://185.24.35.229:8080/happy/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/59/Pink_TV_logo.png" group-title="SERBIA",Pink
+http://185.24.35.229:8080/pink/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/sr/b/b0/Prva_Srpska_Televizija_2020.png" group-title="SERBIA",Prva
+http://185.24.35.229:8080/prva/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0ySqDbk.png" group-title="SERBIA",Prva Plus
+http://185.24.35.229:8080/prvaplus/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/RTS1_logo.png" group-title="SERBIA",РТС 1
+http://185.24.35.229:8080/rts/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/66LAzfM.png" group-title="SPAIN",#0
 http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/21042
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fubqEnF.png" group-title="SPAIN",#Vamos
@@ -3910,6 +3928,14 @@ https://turkmedya-live.ercdn.net/tv4/tv4_720p.m3u8
 http://190.2.148.141:80/bar1118/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nhl0SnT.png" group-title="TURKEY",TV8.5
 http://190.115.29.22:8080/carter/GUV1bMq2VK/8058
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/%D0%86%D0%BD%D1%82%D0%B5%D1%80_TV_Channel_logo.svg/800px-%D0%86%D0%BD%D1%82%D0%B5%D1%80_TV_Channel_logo.svg.png" group-title="UKRAINE",IHTEP
+https://edge1.iptv.macc.com.ua/img/inter_3/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3npVEwz.png" group-title="UKRAINE",К1
+http://109.68.40.67/life/k1_3/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/56/Logotipe_ntn_tv.png" group-title="UKRAINE",HTH
+https://edge3.iptv.macc.com.ua/img/ntn_3/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NuFh2dP.png" group-title="UKRAINE",Україна
+http://37.187.28.95:2022/ukraina/mpegts
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fMghXjt.png" group-title="VIETNAM",HTV 1
 https://livecdn.fptplay.net/sdb/htv1_hls.smil/playlist.m3u8
