@@ -1373,6 +1373,9 @@ http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/2853
 http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbJQb7xFWo-NNOtKbxvWcAdg/ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MA4V35n.png" group-title="NON-ENGLISH NEWS",NTV News 24
 https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UVFs4zA.png" user-agent="Mozilla/5.0 (X11; Linux i686; rv:90.0) Gecko/20100101 Firefox/90.0" group-title="NON-ENGLISH NEWS",HRT 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux i686; rv:90.0) Gecko/20100101 Firefox/90.0
+http://195.29.70.89/PLTV/88888888/224/3221226281/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4o0oDKk.jpeg" group-title="BRITISH NEWS",RTÉ News
 http://45.148.147.123:5079/play/a1153
 #KODIPROP:inputstream=inputstream.adaptive
@@ -3310,6 +3313,24 @@ http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/79799
 https://qlobbidev.s.llnwi.net/bpk-tv/RCNNOVELAS/hls/RCNNOVELAS-audio_128043_spa=128000-video=800000.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7oxuvLG.png" group-title="COLOMBIA",Señal Colombia
 https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/chunklist_b1500000.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/hr/thumb/c/ca/Doma_tv.svg/1920px-Doma_tv.svg.png" group-title="CROATIA",Doma TV
+http://red.ipfox.org:8080/1234/12345678/26411
+#EXTINF:-1 tvg-logo="https://i.imgur.com/W3FBVwT.png" user-agent="Mozilla/5.0 (X11; Linux i686; rv:90.0) Gecko/20100101 Firefox/90.0" group-title="CROATIA",HRT 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux i686; rv:90.0) Gecko/20100101 Firefox/90.0
+http://195.29.70.67/PLTV/88888888/224/3221226139/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7swOkC3.png" user-agent="Mozilla/5.0 (X11; Linux i686; rv:90.0) Gecko/20100101 Firefox/90.0" group-title="CROATIA",HRT 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux i686; rv:90.0) Gecko/20100101 Firefox/90.0
+http://195.29.70.67/PLTV/88888888/224/3221226140/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0hrv92c.png" user-agent="Mozilla/5.0 (X11; Linux i686; rv:90.0) Gecko/20100101 Firefox/90.0" group-title="CROATIA",HRT 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux i686; rv:90.0) Gecko/20100101 Firefox/90.0
+http://195.29.70.67/PLTV/88888888/224/3221226280/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/NOVA-LOGO-CORPORATE_WITH-TEXT-CMYK_Red.png/800px-NOVA-LOGO-CORPORATE_WITH-TEXT-CMYK_Red.png" group-title="CROATIA",Nova TV
+http://red.ipfox.org:8080/1234/12345678/26412
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Rtl-logo.svg/1920px-Rtl-logo.svg.png" user-agent="Mozilla/5.0 (X11; Linux i686; rv:90.0) Gecko/20100101 Firefox/90.0" group-title="CROATIA",RTL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux i686; rv:90.0) Gecko/20100101 Firefox/90.0
+http://195.29.70.67/PLTV/88888888/224/3221226195/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/RTL_2_Logo.svg/1024px-RTL_2_Logo.svg.png" group-title="CROATIA",RTL 2
+http://red.ipfox.org:8080/1234/12345678/26409
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/%C4%8CT1_logo_2012.svg/1920px-%C4%8CT1_logo_2012.svg.png" group-title="CZECH REPUBLIC",ČT1
 http://ptv.is:2095/t9m28tPG/j4PdbhNF/31835
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/%C4%8CT2_logo_2012.svg/1920px-%C4%8CT2_logo_2012.svg.png" group-title="CZECH REPUBLIC",ČT2
@@ -3531,9 +3552,9 @@ http://live.oldtvline.com:23000/mafrale3-150317/FiiH8aP54u/6667
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VmTkdjC.png" group-title="ITALY",TV8
 http://live.oldtvline.com:23000/mafrale3-150317/FiiH8aP54u/13
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png/800px-NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png" group-title="JAPAN",NHK G
-http://50.7.74.29:8880/hlsok/j00033/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.png/800px-NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.png" group-title="JAPAN",NHK E
 https://nhk1.mov3.co/hls/nhk.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.png/800px-NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.png" group-title="JAPAN",NHK E
+http://51.79.193.108:8080/hls/j00034/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bOT4gT8.png" group-title="JAPAN",Nippon TV
 http://50.7.74.29:8880/hlsok/j00004/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/TV_Asahi_Logo.svg/1920px-TV_Asahi_Logo.svg.png" group-title="JAPAN",TV Asahi
