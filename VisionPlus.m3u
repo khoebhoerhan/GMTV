@@ -430,11 +430,13 @@ http://93.157.62.180/ATVTurk/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OSEdWCp.png" group-title="TURKISH ENTERTAINMENT",Kanal 7 Avrupa
 https://live.kanal7.com/live/kanal7AvrupaLive/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jQ3GkPA.png" group-title="TURKISH ENTERTAINMENT",Show Türk
-https://ciner-live.ercdn.net/showturk/playlist.m3u8?e=1639790998&st=S7FqdoVVkSDzB0VzTqNTiQ&tv=1
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+https://www.yilmaztv.com/beceroz/oz.php?channel=show-turk-izle-5&stream=1&type=m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Nh6c3KS.png" group-title="TURKISH ENTERTAINMENT",TRT Türk
 https://tv-trtturk.live.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fZU59wo.png" group-title="TURKISH ENTERTAINMENT",TV8 Int
-http://62.112.9.63:88/TV8_TR/index.m3u8?token=test
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+https://www.yilmaztv.com/beceroz/oz.php?channel=tv8-int-canli&stream=1&type=m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RdIJVDs.png" group-title="ARABIC ENTERTAINMENT",Abu Dhabi TV
 https://admdn2.cdn.mangomolo.com/adtv/smil:adtv.stream.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gkv1Wpj.png" group-title="ARABIC ENTERTAINMENT",Al Emarat
@@ -1373,9 +1375,6 @@ http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/2853
 http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbJQb7xFWo-NNOtKbxvWcAdg/ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MA4V35n.png" group-title="NON-ENGLISH NEWS",NTV News 24
 https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/UVFs4zA.png" user-agent="Mozilla/5.0 (X11; Linux i686; rv:90.0) Gecko/20100101 Firefox/90.0" group-title="NON-ENGLISH NEWS",HRT 4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux i686; rv:90.0) Gecko/20100101 Firefox/90.0
-http://195.29.70.89/PLTV/88888888/224/3221226281/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4o0oDKk.jpeg" group-title="BRITISH NEWS",RTÉ News
 http://45.148.147.123:5079/play/a1153
 #KODIPROP:inputstream=inputstream.adaptive
@@ -1875,7 +1874,7 @@ http://smartestv.vip:2095/ABHVYOP/2387998104/4966
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jcFnVbi.png" group-title="BRITISH SPORTS",Sky Sports News
 http://smartestv.vip:2095/ABHVYOP/2387998104/2038
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wA3DieO.png" group-title="BRITISH SPORTS",Sky Sports Premier League
-http://smartestv.vip:2095/ABHVYOP/2387998104/2718
+http://smartestv.vip:2095/ABHVYOP/2387998104/630
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vhYstlz.png" group-title="BRITISH SPORTS",Sky Sports Racing
 http://smartestv.vip:2095/ABHVYOP/2387998104/3321
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gwV31E0.png" group-title="DANISH SPORTS",Eurosport 1
@@ -3313,17 +3312,20 @@ http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/79799
 https://qlobbidev.s.llnwi.net/bpk-tv/RCNNOVELAS/hls/RCNNOVELAS-audio_128043_spa=128000-video=800000.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7oxuvLG.png" group-title="COLOMBIA",Señal Colombia
 https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/chunklist_b1500000.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/hr/thumb/c/ca/Doma_tv.svg/1920px-Doma_tv.svg.png" group-title="CROATIA",Doma TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/n61ReKT.png" group-title="CROATIA",Doma TV
 http://red.ipfox.org:8080/1234/12345678/26411
-#EXTINF:-1 tvg-logo="https://i.imgur.com/W3FBVwT.png" user-agent="Mozilla/5.0 (X11; Linux i686; rv:90.0) Gecko/20100101 Firefox/90.0" group-title="CROATIA",HRT 1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XwhAUmO.png" user-agent="Mozilla/5.0 (X11; Linux i686; rv:90.0) Gecko/20100101 Firefox/90.0" group-title="CROATIA",HRT 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux i686; rv:90.0) Gecko/20100101 Firefox/90.0
 http://195.29.70.67/PLTV/88888888/224/3221226139/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7swOkC3.png" user-agent="Mozilla/5.0 (X11; Linux i686; rv:90.0) Gecko/20100101 Firefox/90.0" group-title="CROATIA",HRT 2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JDBMIcV.png" user-agent="Mozilla/5.0 (X11; Linux i686; rv:90.0) Gecko/20100101 Firefox/90.0" group-title="CROATIA",HRT 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux i686; rv:90.0) Gecko/20100101 Firefox/90.0
 http://195.29.70.67/PLTV/88888888/224/3221226140/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0hrv92c.png" user-agent="Mozilla/5.0 (X11; Linux i686; rv:90.0) Gecko/20100101 Firefox/90.0" group-title="CROATIA",HRT 3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7zTulwe.png" user-agent="Mozilla/5.0 (X11; Linux i686; rv:90.0) Gecko/20100101 Firefox/90.0" group-title="CROATIA",HRT 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux i686; rv:90.0) Gecko/20100101 Firefox/90.0
 http://195.29.70.67/PLTV/88888888/224/3221226280/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dlFxESc.png" user-agent="Mozilla/5.0 (X11; Linux i686; rv:90.0) Gecko/20100101 Firefox/90.0" group-title="CROATIA",HRT 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux i686; rv:90.0) Gecko/20100101 Firefox/90.0
+http://195.29.70.89/PLTV/88888888/224/3221226281/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/NOVA-LOGO-CORPORATE_WITH-TEXT-CMYK_Red.png/800px-NOVA-LOGO-CORPORATE_WITH-TEXT-CMYK_Red.png" group-title="CROATIA",Nova TV
 http://red.ipfox.org:8080/1234/12345678/26412
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Rtl-logo.svg/1920px-Rtl-logo.svg.png" user-agent="Mozilla/5.0 (X11; Linux i686; rv:90.0) Gecko/20100101 Firefox/90.0" group-title="CROATIA",RTL
@@ -3948,7 +3950,8 @@ https://turkmedya-live.ercdn.net/tv4/tv4_720p.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/35/Tv8_new_logo.png" group-title="TURKEY",TV8
 http://190.2.148.141:80/bar1118/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nhl0SnT.png" group-title="TURKEY",TV8.5
-http://190.115.29.22:8080/carter/GUV1bMq2VK/8058
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+https://www.yilmaztv.com/beceroz/oz.php?channel=tv85-turkiye-1&stream=1&type=m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/%D0%86%D0%BD%D1%82%D0%B5%D1%80_TV_Channel_logo.svg/800px-%D0%86%D0%BD%D1%82%D0%B5%D1%80_TV_Channel_logo.svg.png" group-title="UKRAINE",IHTEP
 https://edge1.iptv.macc.com.ua/img/inter_3/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3npVEwz.png" group-title="UKRAINE",К1
