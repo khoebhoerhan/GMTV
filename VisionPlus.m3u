@@ -1139,8 +1139,10 @@ https://www.yilmaztv.com/beceroz/oz.php?channel=cnn-turk-canli-yayin&stream=1&ty
 http://45.4.0.46:8000/play/cnnchilehd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jCXODcU.png" group-title="SPANISH NEWS",CNN en Español
 http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/141906
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/CNN_Portugal.svg/800px-CNN_Portugal.svg.png" group-title="PORTUGUESE NEWS",CNN Portugal
-https://video-auth7.iol.pt/live_edge/tvi24_abr/edge_servers/tvi24-480p/chunks.m3u8?
+https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zcaYBfX.png" group-title="BRASILIAN NEWS",CNN Brasil
 https://bit.ly/cnnBrasil?/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0XayB3p.png" group-title="INDIAN NEWS",CNN-News18
