@@ -1738,8 +1738,6 @@ https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(ec41a5e2-09e4-4
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/800px-NBA_TV.svg.png" group-title="AMERICAN SPORTS",NBA TV
 https://bit.ly/nbatvusa?/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
-#EXTINF:-1 tvg-logo="https://i.imgur.com/E3OjM1k.png" group-title="WORLD SPORTS",HTV Thể Thao
-https://l9v8fomqgzliv.vcdn.cloud/live/htv-thethao/chunklist_2.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iZ1rMGW.png" group-title="WORLD SPORTS",Motorvision.TV
 http://rr.dens.tv/h/h09/index.m3u8
 #KODIPROP:inputstream=inputstream.adaptive
@@ -1984,6 +1982,9 @@ http://server.sibfungold.info:8080/gaicu84/iVMawDNfwV@/1529
 http://server.sibfungold.info:8080/gaicu84/iVMawDNfwV@/1530
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kL3DvWM.png" group-title="AMERICAN SPORTS",Fox Deportes
 http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/13163
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+#EXTINF:-1 tvg-logo="https://i.imgur.com/E3OjM1k.png" group-title="VIETNAMESE SPORTS",HTV Thể Thao
+https://livecdn.fptplay.net/sdb/htvcthethao_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OVqKDpJ.png" group-title="VIETNAMESE SPORTS",On Football
 https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab16/sd2/index.m3u8|Referer=http://sctvonline.vn/
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ix8Pm5R.png" group-title="VIETNAMESE SPORTS",On Sports
@@ -1991,6 +1992,8 @@ https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab16/sd2/index.m3u8|Referer=http:/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://apivmx.mytvnet.vn/tv/license/widevine?vmx_device_id=NjRlYzU1MzMtYWQyMy0zY2E2LTk5NmMtNDE1MGMxYmRjOTkx
 http://s129135.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd?c=vstv264&offset=1&nodelay=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eEXU8nf.png" group-title="VIETNAMESE SPORTS",On Sports+
+https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab6/index.m3u8|Referer=http://sctvonline.vn/
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZWZQHK8.png" group-title="VIETNAMESE SPORTS",On Sports News Premium
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -2010,6 +2013,12 @@ https://s8213.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd?c=vstv341&offset=1&nodelay=1
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://apivmx.mytvnet.vn/tv/license/widevine?vmx_device_id=NjRlYzU1MzMtYWQyMy0zY2E2LTk5NmMtNDE1MGMxYmRjOTkx
 http://s70132.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd?c=vstv373&offset=1&nodelay=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0rWQTDI.png" group-title="VIETNAMESE SPORTS", SCTV 15
+https://e1.endpoint.cdn.sctvonline.vn/secure/sctv15/sd1/index.m3u8?md5=npxSf8DiNb6h-lo6eNV-ow&expires=2556118740|Referer=http://sctvonline.vn/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Wemoi8x.png" group-title="VIETNAMESE SPORTS", SCTV 17
+https://e1.endpoint.cdn.sctvonline.vn/secure/sctv17/sd1/index.m3u8?md5=Ta95m8zjauF5U4Ya8NsJvg&expires=2556118740|Referer=http://sctvonline.vn/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bPkn38j.png" group-title="VIETNAMESE SPORTS", SCTV 22
+https://e1.endpoint.cdn.sctvonline.vn/secure/sctv22/sd1/index.m3u8?md5=MP6PbU0wC37imEmBeKk0EQ&expires=2556118740|Referer=http://sctvonline.vn/
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Dt4IDCL.png" group-title="CHINESE SPORTS",CCTV-5 体育
 http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv5/HD-8000k-1080P-cctv5
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qvfq4yw.png" group-title="CHINESE SPORTS",CCTV-5+ 体育赛事
@@ -2411,9 +2420,9 @@ http://iptvpick.live:900/6046606740/0889325748/400230447
 #EXTINF:-1 tvg-logo="https://i.imgur.com/O9XcGr8.png" group-title="HK SPORTS",Now Premier Sports 6
 http://iptvpick.live:900/6046606740/0889325748/400230446
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7bPCw4Q.png" group-title="MALAY SPORTS",Astro Arena
-http://shareext@urtv.cc:80/live/titi3/titi3/6707.ts?Shareext.ts
+http://103.30.87.238:443/gdsgdg/dgdgegye/1346
 #EXTINF:-1 tvg-logo="https://i.imgur.com/meHW06l.png" group-title="MALAY SPORTS",Astro Arena 2
-http://shareext@urtv.cc:80/live/titi3/titi3/9028.ts?Shareext.ts
+http://103.30.87.238:443/gdsgdg/dgdgegye/1379
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DhbmBsD.png" group-title="MALAY SPORTS",Astro Cricket
 http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/157565
 #EXTINF:-1 tvg-logo="https://i.imgur.com/X2WVnWr.png" group-title="MALAY SPORTS",Astro Supersport
@@ -2425,7 +2434,7 @@ https://m3u-editor.com/serve/sqwdwdqddddddddddd/480037748
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PlwrDwx.png" group-title="MALAY SPORTS",Astro Supersport 4
 https://m3u-editor.com/serve/sqwdwdqddddddddddd/480037749
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FieopQP.png" group-title="MALAY SPORTS",Astro Supersport 5
-http://shareext@urtv.cc:80/live/titi3/titi3/9029.ts?Shareext.ts
+http://103.30.87.238:443/gdsgdg/dgdgegye/1365
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ycxjpTX.png" group-title="MALAY SPORTS",Eurosport
 http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/158353
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kfPsml5.png" group-title="MALAY SPORTS",Premier Sports
