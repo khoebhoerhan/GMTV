@@ -3096,7 +3096,11 @@ http://51.79.82.231:8080/US_SYFY_EAST_USA/video.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/upM99h1.png" group-title="USA",TBS
 http://51.79.82.231:8080/US_TBS_EAST_USA/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ydm3Ss2.png" group-title="USA",Telemundo
-http://gratis.shortgod.com/restream/tvshortgod13.php?id=telemundo
+#EXTVLCOPT:network-caching=1000
+https://wmaqlive-f.akamaihd.net/i/CHICAGO_STREAM4@24420/master.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/The_CW.svg/1920px-The_CW.svg.png" group-title="USA",The CW
+#EXTVLCOPT:network-caching=1000
+https://5e6cea03e25b6.streamlock.net/live/WTLHCW.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/umJbqNY.png" group-title="USA",TNT
 http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/6354
 #EXTINF:-1 tvg-logo="https://i.imgur.com/l3iqIit.png" group-title="USA",Universo
@@ -3263,9 +3267,9 @@ http://evpp.mm.uol.com.br:1935/ne10/ne10-tvjornal-caruaru-video-web.sdp/playlist
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/TV_Brasil_logo_2019.svg/1920px-TV_Brasil_logo_2019.svg.png" group-title="BRASIL",TV Brasil
 http://rtmp.cdn.upx.net.br/723b/myStream.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/ABC_Spark_Logo.png" group-title="CANADA",ABC Spark
-http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/3285
+http://vmp343.ddnsking.com:80/thomas2/thomas2/443582
 #EXTINF:-1 tvg-logo="https://i.imgur.com/w2IwLlA.png" group-title="CANADA",CBC
-http://encodercdn1.frontline.ca/encoder181/output/CBC_Toronto_720p/playlist.m3u8
+http://smartestv.vip:2095/ABHVYOP/2387998104/4020
 #EXTINF:-1 tvg-logo="https://i.imgur.com/h1GAgKq.png" group-title="CANADA",City TV
 http://shashe.dianshiwang.vip:27000/live/1G6TqszHmbSK/44rbL95yUhPE/71544.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/CTV_logo_2018.svg/1920px-CTV_logo_2018.svg.png" group-title="CANADA",CTV
