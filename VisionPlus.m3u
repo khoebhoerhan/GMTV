@@ -535,7 +535,7 @@ https://tv-trtmuzik.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6R8N3z2.png" group-title="WORLD MUSIC",SBS MTV
 https://www.navchina.cf/IPTV/sbs.php?id=S09
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zZCZb3P.png" group-title="WORLD MUSIC",4Music
-http://45.148.147.123:5079/play/a1346
+http://194.76.186.39:8000/play/a05t
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bNw4mXF.png" group-title="WORLD MUSIC",RTSH Muzikë
 https://tvlive.rtsh.dev/live/rtsh_muzike_mob/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1158,11 +1158,11 @@ https://best-str.umn.cdn.united.cloud/stream?stream=sp1400&sp=n1info&channel=n1h
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WdC4rbi.png" group-title="WORLD NEWS",BBC World News
 https://liveanevia.mncnow.id/live/eds/BBCWorldNews/sa_dash_vmx/BBCWorldNews.mpd
 #EXTINF:-1 tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/BBC_News_2019.svg/800px-BBC_News_2019.svg.png" group-title="BRITISH NEWS",BBC News
-http://45.153.35.210:8000/play/UK_bbc_news_sd/index.m3u8
+http://194.76.186.39:8000/play/a01i
 #EXTINF:-1 tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/BBC_News_2019.svg/800px-BBC_News_2019.svg.png" group-title="BRITISH NEWS",BBC News HD
 http://prox.x86.co.uk/index.php/https://cdnuk001.broadcastcdn.net/KUK-BBCNEWSHD/index.m3u8
 #EXTINF:-1 tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/BBC_Parliament_Logo.svg/1280px-BBC_Parliament_Logo.svg.png" group-title="BRITISH NEWS",BBC Parliament
-https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/1666?pprotocol=hls
+http://194.76.186.39:8000/play/a00y
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b8/Logo_BBC_Arabic.png" group-title="ARABIC NEWS",BBC News Arabic
 https://vs-cmaf-pushb-ww-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2_akamai_dash_live_http.mpd
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_News_Persian_Logo.jpg" group-title="PERSIAN NEWS",BBC News Persian
@@ -1176,7 +1176,7 @@ https://live-hls-web-aja.getaj.net/AJA/01.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2D9tAmC.png" group-title="NON-ENGLISH NEWS",Al Jazeera Balkans
 https://live-hls-web-ajb.getaj.net/AJB/01.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YxxHcfZ.png" group-title="WORLD NEWS",Sky News
-http://45.153.35.210:8000/play/UK_sky_news_sd/index.m3u8
+http://smartestv.vip:2095/ABHVYOP/2387998104/623
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/84/Sky_News_Arabia_logo.png" group-title="ARABIC NEWS",Sky News Arabia
 https://stream.skynewsarabia.com/hls/sna_720.m3u8
 #KODIPROP:inputstream=inputstream.adaptive
@@ -3119,49 +3119,49 @@ http://klickmode.xyz:25461/unpluggedtv/OLUNpwpot3/21143
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HELzzCq.png" group-title="UK",4seven
 http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/4625
 #EXTINF:-1 tvg-logo="https://i.imgur.com/haov0b4.png" group-title="UK",5Select
-http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/4631
+http://194.76.186.39:8000/play/a036
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/5Star_logo_2019.svg/1920px-5Star_logo_2019.svg.png" group-title="UK",5Star
-http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/4633
+http://194.76.186.39:8000/play/a035
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Nvme1rf.png" group-title="UK",BBC Alba
-http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/278520
+http://194.76.186.39:8000/play/a016
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oGzLsiq.png" group-title="UK",BBC One
-http://45.153.35.210:8000/play/UK_bbc_1_sd/index.m3u8
+http://194.76.186.39:8000/play/a01s
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iMfng6J.png" group-title="UK",BBC Two
-http://45.153.35.210:8000/play/UK_bbc_2_sd/index.m3u8
+http://194.76.186.39:8000/play/a01r
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gcpSDKf.png" group-title="UK",BBC Three
-http://45.153.35.210:8000/play/UK_bbc_three_sd/index.m3u8
+http://194.76.186.39:8000/play/a05p
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nywptTp.png" group-title="UK",BBC Four
-http://45.153.35.210:8000/play/UK_bbc_4_sd/index.m3u8
+http://194.76.186.39:8000/play/a03j
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kr2UTHB.png" group-title="UK",BBC Scotland
-http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/281885
+http://194.76.186.39:8000/play/a014
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/37/CBBC_2016_logo.svg/800px-CBBC_2016_logo.svg.png" group-title="UK",CBBC
 http://ott.riotelecomm.es:4513/m3u8/CBBCHDFIBRA.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XJ9qgU9.png" group-title="UK",Challenge
 http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/4641
 #EXTINF:-1 tvg-logo="https://i.imgur.com/r0sl8tu.png" group-title="UK",Channel 4
-http://45.153.35.210:8000/play/UK_channel_4_sd/index.m3u8
+http://185.205.201.101:8013/play/a03k
 #EXTINF:-1 tvg-logo="https://i.imgur.com/itZR2eq.png" group-title="UK",Channel 5
-http://45.153.35.210:8000/play/UK_channel_5_sd/index.m3u8
+http://194.76.186.39:8000/play/a05r
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wRVi7bz.png" group-title="UK",Dave
 http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/733
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yny6n9T.png" group-title="UK",E4
-http://45.153.35.210:8000/play/UK_e4_sd/index.m3u8
+http://194.76.186.39:8000/play/a00b
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PpD1Fwa.png" group-title="UK",Great! TV
 http://45.153.35.210:8000/play/UK_great_tv_sd/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IZ5MINa.png" group-title="UK",More4
 http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/282201
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/ITV_logo_2019.svg/1200px-ITV_logo_2019.svg.png" group-title="UK",ITV
-http://45.153.35.210:8000/play/UK_itv_1_sd/index.m3u8
+http://185.205.201.101:8013/play/a03f
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/35/ITV2_logo_2015.svg/1920px-ITV2_logo_2015.svg.png" group-title="UK",ITV2
-http://45.153.35.210:8000/play/UK_itv_2_sd/index.m3u8
+http://ott.riotelecomm.es:4513/m3u8/ITV2FIBRA.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f6/ITV3_logo_2013.svg/1920px-ITV3_logo_2013.svg.png" group-title="UK",ITV3
-http://45.153.35.210:8000/play/UK_itv_3_sd/index.m3u8
+http://ott.riotelecomm.es:4513/m3u8/ITV3FIBRA.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d3/ITV4_logo_2013.svg/1920px-ITV4_logo_2013.svg.png" group-title="UK",ITV4
-http://45.153.35.210:8000/play/UK_itv_4_sd/index.m3u8
+http://ott.riotelecomm.es:4513/m3u8/ITV4FIBRA.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4f/ITVBe_logo_2014-.svg/1920px-ITVBe_logo_2014-.svg.png" group-title="UK",ITVBe
-http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/1560
+http://194.76.186.39:8000/play/a02j
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/S4C_logo_2014.svg/1024px-S4C_logo_2014.svg.png" group-title="UK",S4C
-http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/4775
+http://45.153.35.210:8000/play/a01b/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Sky_Showcase_2021.svg/1920px-Sky_Showcase_2021.svg.png" group-title="UK",Sky Showcase
 http://vmp343.ddnsking.com:80/pari/pari/548879
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/TV_Klan.svg/1920px-TV_Klan.svg.png" group-title="ALBANIA",Klan
