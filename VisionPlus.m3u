@@ -519,7 +519,7 @@ http://103.159.4.38:5868/MUSIC-1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Pk4R1OZ.png" group-title="INDIAN MUSIC",B4U Music
 http://103.159.4.38:5868/MUSIC-3/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jgUjlxA.png" group-title="INDIAN MUSIC",Music india
-https://durbinlive.com:443/live/jio?c=Music_India&q=1200&e=IshanJiotv.m3u8
+http://jooli.in1.bitmana.io/JioTV/autoq.php?c=Music_India&q=1200&e=play.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/X7VxlBN.png" group-title="INDIAN MUSIC",MTV
 http://144.217.70.181:9587/hin2/MTVINDIA/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JcYIz4J.png" group-title="INDIAN MUSIC",MTV Beats
@@ -629,7 +629,7 @@ https://liveanevia.mncnow.id/live/eds/ZeeBIOSKOP/sa_dash_vmx/ZeeBIOSKOP.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OmibwXx.png" group-title="HINDI MOVIES",Zee Action
 http://208.115.215.42/ZEE_ActIon_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NXCjJ9n.png" group-title="HINDI MOVIES",Zee Anmol Cinema
-https://durbinlive.com:443/live/jio?c=Zee_Anmol_Cinema&q=1200&e=IshanJiotv.m3u8
+http://jooli.in1.bitmana.io/JioTV/autoq.php?c=Zee_Anmol_Cinema&q=1200&e=play.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1KY7rjF.png" group-title="HINDI MOVIES",Zee Bollywood
 http://208.115.215.42:80/ZEE_Bollywood_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HuJrZgT.png" group-title="HINDI MOVIES",&pictures
@@ -643,7 +643,7 @@ https://tvmalaysia.cyou/hls/boo.m3u8|Referer=https://www.tvmalaysia.online/
 #EXTINF:-1 tvg-logo="https://i.imgur.com/r2mKJH2.png" group-title="ASIAN MOVIES",MyCinema Asia
 http://rr.dens.tv/h/h193/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Vt22fbQ.png" group-title="HINDI MOVIES",B4U Movies
-https://durbinlive.com:443/live/jio?c=B4U_Movies&q=1200&e=IshanJiotv.m3u8
+http://jooli.in1.bitmana.io/JioTV/autoq.php?c=B4U_Movies&q=1200&e=play.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Sony_MAX.svg/800px-Sony_MAX.svg.png" group-title="HINDI MOVIES",Sony Max
 http://221.120.204.4/SONY-MAX-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZkI3mXN.png" group-title="HINDI MOVIES",Sony Max 2
@@ -1146,7 +1146,7 @@ http://satelliteiptv.xyz:8080/iptvpoint/85g7sjaS6t/7463
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zcaYBfX.png" group-title="BRASILIAN NEWS",CNN Brasil
 https://bit.ly/cnnBrasil?/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0XayB3p.png" group-title="INDIAN NEWS",CNN-News18
-https://durbinlive.com:443/live/jio?c=CNN_NEWS_18&q=1200&e=IshanJiotv.m3u8
+http://jooli.in1.bitmana.io/JioTV/autoq.php?c=CNN_NEWS_18&q=1200&e=play.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZLpwHsZ.png" group-title="CZECH NEWS",CNN Prima News
 http://103.194.169.171:8282/CZ_PRIMA_NEWS_HD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8XIrrMN.png" group-title="ALBANIAN NEWS",A2 CNN
@@ -1377,7 +1377,7 @@ https://itvoign.multitvsolution.com/hls/newsx_720p/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SOAzyhe.png" group-title="INDIAN NEWS",Republic TV
 https://republicworld.amagi.tv/hls/amagi_hls_data_samsungin-republictv-samsungindia/CDN/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6c/DDIndiaLogo.png" group-title="INDIAN NEWS",DD India
-https://durbinlive.com:443/live/jio?c=DD_India&q=1200&e=IshanJiotv.m3u8
+http://jooli.in1.bitmana.io/JioTV/autoq.php?c=DD_India&q=1200&e=play.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nK04jlH.png" group-title="ARABIC NEWS",Al Alam News Network
 https://live2.alalam.ir/live/Alalam/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wWHiR9B.png" group-title="FRENCH NEWS",LN24
@@ -1594,7 +1594,7 @@ https://live-indiatvnews.akamaized.net/indiatv-origin/liveabr/indiatv-origin/liv
 #EXTINF:-1 tvg-logo="https://i.imgur.com/13hqQkh.png" group-title="HINDI NEWS",NDTV India
 https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/ndtvindiamaster.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/News_nation_logo.jpg" group-title="HINDI NEWS",News Nation
-https://durbinlive.com:443/live/jio?c=News_Nation&q=1200&e=IshanJiotv.m3u8
+http://jooli.in1.bitmana.io/JioTV/autoq.php?c=News_Nation&q=1200&e=play.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1Oze9HT.png" group-title="HINDI NEWS",News18 India
 https://news18india-lh.akamaihd.net/i/news18india_1@174951/index_5_av-p.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/News24_Logo.jpg" group-title="HINDI NEWS",News24
@@ -1638,7 +1638,7 @@ https://cnbcawaaz-lh.akamaihd.net/i/cnbcawaaz_1@174872/index_5_av-p.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2W3OUr8.png" group-title="BUSINESS NEWS",CNBC-TV18
 https://cnbctv18-lh.akamaihd.net/i/cnbctv18_1@174868/index_5_av-p.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZfYHLFe.png" group-title="BUSINESS NEWS",CNBC-TV18 Prime HD
-https://durbinlive.com:443/live/jio?c=CNBC_Tv18_Prime_HD&q=1200&e=IshanJiotv.m3u8
+http://jooli.in1.bitmana.io/JioTV/autoq.php?c=CNBC_Tv18_Prime_HD&q=1200&e=play.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qsmHgJ1.png" group-title="BUSINESS NEWS",Class CNBC
 https://streamcdnb10-859c1818ed614cc5b0047439470927b0.msvdn.net/live/S76890577/tDoFkZD3T1Lw/chunklist_b1728000.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4XhULAV.png" group-title="BUSINESS NEWS",CNBC Africa
@@ -1656,7 +1656,7 @@ http://etnowweblive-lh.akamaihd.net/i/ETN_1@348070/index_576_av-b.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/59kbGww.jpg" group-title="BUSINESS NEWS",ET Now Swadesh
 https://pubads.g.doubleclick.net/ssai/event/Pj6A7e21SN64xv6g4sssCA/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/i1qQWS1.png" group-title="BUSINESS NEWS",Zee Business
-https://durbinlive.com:443/live/jio?c=Zee_Business&q=1200&e=IshanJiotv.m3u8
+http://jooli.in1.bitmana.io/JioTV/autoq.php?c=Zee_Business&q=1200&e=play.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OmXBZG5.png" tvg-country="RU" group-title="BUSINESS NEWS",РБК
 http://online.video.rbc.ru/online/rbctv_480p/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/6/62/Logo_Business_2020.png" group-title="BUSINESS NEWS",BFM Business
@@ -2453,33 +2453,33 @@ https://unifi-live05.secureswiftcontent.com/UnifiHD/live11.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ycxjpTX.png" group-title="INDIAN SPORTS",Eurosport
 http://live.flixhub.net/hls/euro.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9me1VCt.png" group-title="INDIAN SPORTS",Jio Cricket
-https://durbinlive.com:443/live/jio?c=Jio_Cricket&q=1200&e=IshanJiotv.m3u8
+http://jooli.in1.bitmana.io/JioTV/autoq.php?c=Jio_Cricket&q=1200&e=play.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sLaAHf4.png" group-title="INDIAN SPORTS",Jio Cricket Hindi
-https://durbinlive.com:443/live/jio?c=Jio_Cricket_Hindi&q=1200&e=IshanJiotv.m3u8
+http://jooli.in1.bitmana.io/JioTV/autoq.php?c=Jio_Cricket_Hindi&q=1200&e=play.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rQXRxln.png" group-title="INDIAN SPORTS",Jio Cricket 1
-https://durbinlive.com:443/live/jio?c=Jio_Cricket_1_HD&q=1200&e=IshanJiotv.m3u8
+http://jooli.in1.bitmana.io/JioTV/autoq.php?c=Jio_Cricket_1_HD&q=1200&e=play.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mzwa47I.png" group-title="INDIAN SPORTS",Jio Cricket 2
-https://durbinlive.com:443/live/jio?c=Jio_Cricket_2_HD&q=1200&e=IshanJiotv.m3u8
+http://jooli.in1.bitmana.io/JioTV/autoq.php?c=Jio_Cricket_2_HD&q=1200&e=play.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nqYCgw7.png" group-title="INDIAN SPORTS",Jio Cricket 3
-https://durbinlive.com:443/live/jio?c=Jio_Cricket_3_HD&q=1200&e=IshanJiotv.m3u8
+http://jooli.in1.bitmana.io/JioTV/autoq.php?c=Jio_Cricket_3_HD&q=1200&e=play.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yCKZttz.png" group-title="INDIAN SPORTS",Jio Cricket 4
-https://durbinlive.com:443/live/jio?c=Jio_Cricket_4_HD&q=1200&e=IshanJiotv.m3u8
+http://jooli.in1.bitmana.io/JioTV/autoq.php?c=Jio_Cricket_4_HD&q=1200&e=play.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0P1jQW5.png" group-title="INDIAN SPORTS",Jio Cricket 5
-https://durbinlive.com:443/live/jio?c=Jio_Cricket_5_HD&q=1200&e=IshanJiotv.m3u8
+http://jooli.in1.bitmana.io/JioTV/autoq.php?c=Jio_Cricket_5_HD&q=1200&e=play.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QvX877I.png" group-title="INDIAN SPORTS",Jio Cricket 6
-https://durbinlive.com:443/live/jio?c=Jio_Cricket_6_HD&q=1200&e=IshanJiotv.m3u8
+http://jooli.in1.bitmana.io/JioTV/autoq.php?c=Jio_Cricket_6_HD&q=1200&e=play.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Q2X1ysy.png" group-title="INDIAN SPORTS",Jio eSports
-https://durbinlive.com:443/live/jio?c=Jio_Esports_HD&q=1200&e=IshanJiotv.m3u8
+http://jooli.in1.bitmana.io/JioTV/autoq.php?c=Jio_Esports_HD&q=1200&e=play.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ecutPju.png" group-title="INDIAN SPORTS",Jio Football
-https://durbinlive.com:443/live/jio?c=Jio_Football&q=1200&e=IshanJiotv.m3u8
+http://jooli.in1.bitmana.io/JioTV/autoq.php?c=Jio_Football&q=1200&e=play.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pS5aGdt.png" group-title="INDIAN SPORTS",Jio Football Hindi
-https://durbinlive.com:443/live/jio?c=Jio_Football_Hindi_HD&q=1200&e=IshanJiotv.m3u8
+http://jooli.in1.bitmana.io/JioTV/autoq.php?c=Jio_Football_Hindi_HD&q=1200&e=IshanJiotv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lVi2bXE.png" group-title="INDIAN SPORTS",Jio Football 1
-https://durbinlive.com:443/live/jio?c=Jio_Football_1&q=1200&e=IshanJiotv.m3u8
+http://jooli.in1.bitmana.io/JioTV/autoq.php?c=Jio_Football_1&q=1200&e=play.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PCkK8uV.png" group-title="INDIAN SPORTS",Jio Football 2
-https://durbinlive.com:443/live/jio?c=Jio_Football_2&q=1200&e=IshanJiotv.m3u8
+http://jooli.in1.bitmana.io/JioTV/autoq.php?c=Jio_Football_2&q=1200&e=play.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ilwWT9B.png" group-title="INDIAN SPORTS",Jio Football 3
-https://durbinlive.com:443/live/jio?c=Jio_Football_3&q=1200&e=IshanJiotv.m3u8
+http://jooli.in1.bitmana.io/JioTV/autoq.php?c=Jio_Football_3&q=1200&e=play.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cTwzzIj.png" group-title="INDIAN SPORTS",Sony Six
 http://live.flixhub.net/hls/sonysix.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7aH1f2o.png" group-title="INDIAN SPORTS",Sony Ten 1
@@ -2489,7 +2489,7 @@ http://live.flixhub.net/hls/sonyten2.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/maeN3Jv.png" group-title="INDIAN SPORTS",Sony Ten 3
 http://live.flixhub.net/hls/sonyten3.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ep8UuNr.png" group-title="INDIAN SPORTS",Sony Ten 4
-http://server.warkop.xyz:443/Goldmixed/hRFqtvox88/485
+http://jooli.in1.bitmana.io/JioTV/autoq.php?c=Ten_4_HD_Tamil&q=1200&e=play.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/l7gSBMN.png" group-title="INDIAN SPORTS",Star Sports 1
 http://live.flixhub.net/hls/stersports1hd.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Bdjk5RJ.png" group-title="INDIAN SPORTS",Star Sports 2
@@ -3119,19 +3119,19 @@ http://klickmode.xyz:25461/unpluggedtv/OLUNpwpot3/21143
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HELzzCq.png" group-title="UK",4seven
 http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/4625
 #EXTINF:-1 tvg-logo="https://i.imgur.com/haov0b4.png" group-title="UK",5Select
-http://194.76.186.39:8000/play/a036
+http://45.153.35.210:8000/play/a00o/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/5Star_logo_2019.svg/1920px-5Star_logo_2019.svg.png" group-title="UK",5Star
-http://194.76.186.39:8000/play/a035
+http://45.153.35.210:8000/play/a00n/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Nvme1rf.png" group-title="UK",BBC Alba
 http://194.76.186.39:8000/play/a016
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oGzLsiq.png" group-title="UK",BBC One
-http://194.76.186.39:8000/play/a01s
+http://185.205.201.101:8011/play/a03w
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iMfng6J.png" group-title="UK",BBC Two
-http://194.76.186.39:8000/play/a01r
+http://185.205.201.101:8011/play/a03x
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gcpSDKf.png" group-title="UK",BBC Three
 http://194.76.186.39:8000/play/a05p
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nywptTp.png" group-title="UK",BBC Four
-http://194.76.186.39:8000/play/a03j
+http://185.205.201.101:8011/play/a03z
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kr2UTHB.png" group-title="UK",BBC Scotland
 http://194.76.186.39:8000/play/a014
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/37/CBBC_2016_logo.svg/800px-CBBC_2016_logo.svg.png" group-title="UK",CBBC
@@ -3141,11 +3141,11 @@ http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/4641
 #EXTINF:-1 tvg-logo="https://i.imgur.com/r0sl8tu.png" group-title="UK",Channel 4
 http://185.205.201.101:8013/play/a03k
 #EXTINF:-1 tvg-logo="https://i.imgur.com/itZR2eq.png" group-title="UK",Channel 5
-http://194.76.186.39:8000/play/a05r
+http://185.205.201.101:8013/play/a03q
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wRVi7bz.png" group-title="UK",Dave
 http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/733
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yny6n9T.png" group-title="UK",E4
-http://194.76.186.39:8000/play/a00b
+http://185.205.201.101:8013/play/a03n
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PpD1Fwa.png" group-title="UK",Great! TV
 http://45.153.35.210:8000/play/UK_great_tv_sd/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IZ5MINa.png" group-title="UK",More4
