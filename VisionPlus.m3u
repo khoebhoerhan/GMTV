@@ -603,7 +603,7 @@ http://103.153.39.36:8000/play/a01d
 http://103.153.39.36:8000/play/a00w
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5f/Sony_PIX.png" group-title="MOVIES", Sony Pix
 http://live.flixhub.net/hls/sonypixhd.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/iyK0G1Q.png"group-title="MOVIES",UTV Action
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iyK0G1Q.png" group-title="MOVIES",UTV Action
 http://live.flixhub.net/hls/utvaction.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
