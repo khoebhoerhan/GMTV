@@ -1428,8 +1428,9 @@ http://103.194.169.171:8282/IT_TGCOM24/mono.m3u8?token=93a611c10082e5eec57f8bec5
 https://rtvelivestreamv3.akamaized.net/24h/24h_main_720.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/a/a6/24_TV_logosu.png" group-title="TURKISH NEWS",24
 https://turkmedya-live.ercdn.net/tv24/tv24_720p.m3u8
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
 #EXTINF:-1 tvg-logo="https://i.imgur.com/k7oie6a.png" group-title="TURKISH NEWS",A Haber
-https://livex458745.livestreamlive.xyz/ahaber.m3u8
+https://www.yilmaztv.com/beceroz/oz.php?channel=a-haber-izle-13&stream=1&type=m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/20kWdRa.png" group-title="TURKISH NEWS",Haber Global
 https://tv.ensonhaber.com/tv/tr/haberglobal/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/k7qxZSp.png" group-title="TURKISH NEWS",Haber Türk
