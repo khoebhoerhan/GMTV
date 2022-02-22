@@ -1112,8 +1112,10 @@ http://139.99.71.104:8888/live/blink9/l17ht18oin/37398.ts
 https://smithsonianaus-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5QGgJe8.png" group-title="KNOWLEDGE",Love Nature
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XD8Vr0d.jpg" group-title="KNOWLEDGE",NASA TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XD8Vr0d.jpg" group-title="KNOWLEDGE",NASA TV Public
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XD8Vr0d.jpg" group-title="KNOWLEDGE",NASA TV Media
+https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VaoRtdn.png" group-title="KNOWLEDGE",Lingua Channel
 http://zalogitv.tech:8080/alv7/7589/1449
 #KODIPROP:inputstream=inputstream.adaptive
@@ -1357,6 +1359,10 @@ https://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master.
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Press_Tv_logo.svg/194px-Press_Tv_logo.svg.png" group-title="WORLD NEWS",Press TV
 https://live1.presstv.ir/live/presstv.m3u8
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kY1w7zh.png" group-title="SPANISH NEWS",HispanTV
+https://live1.presstv.ir/live/hispan.m3u8
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 #EXTINF:-1 tvg-logo="https://i.imgur.com/j5Zdyy9.png" group-title="WORLD NEWS",A News
 https://www.yilmaztv.com/beceroz/oz.php?channel=a-news&stream=1&type=m3u8
@@ -1387,7 +1393,7 @@ https://live.cdn.ln24.be/out/v1/b191621c8b9a436cad37bb36a82d2e1c/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/RTS_Info_logo_2019.svg/1920px-RTS_Info_logo_2019.svg.png" group-title="FRENCH NEWS",RTS Info
 http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/285328
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bAbmsFK.png" group-title="NON-ENGLISH NEWS",NPO Politiek En Nieuws
-http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbJQb7xFWo-NNOtKbxvWcAdg/ts
+http://stariptv.org:8080/wael2021/123456/67263
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MA4V35n.png" group-title="NON-ENGLISH NEWS",NTV News 24
 https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4o0oDKk.jpeg" group-title="BRITISH NEWS",RTÉ News
@@ -1402,7 +1408,7 @@ http://hls-m010.live-lv3.canalplus-cdn.net/live/disk/cnews-clair-hd/ios-v3-hd-cl
 http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/32764
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0c/La_Cha%C3%AEne_Info_%28logo%29.svg/1920px-La_Cha%C3%AEne_Info_%28logo%29.svg.png" group-title="FRENCH NEWS",LCI
 https://lci-hls-live-ssl.tf1.fr/lci/1/hls/live_2328.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NoG9l5w.png" group-title="FRENCH NEWS",TV5 Monde Info
+#EXTINF:-1 tvg-logo="https://i.imgur.com/v7Zj0iJ.png" group-title="FRENCH NEWS",TV5 Monde Info
 http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/N-tv_logo-september2017.svg/1280px-N-tv_logo-september2017.svg.png" group-title="GERMAN NEWS",n-tv
 http://live.oldtvline.com:23000/mafrale3-150317/FiiH8aP54u/35335
