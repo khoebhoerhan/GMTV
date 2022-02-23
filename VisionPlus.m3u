@@ -591,10 +591,14 @@ http://live.flixhub.net/hls/movies-now.m3u8
 http://live.flixhub.net/hls/mn+.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PIvZZqq.png" group-title="MOVIES",MNX
 http://live.flixhub.net/hls/mnx-hd.m3u8
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/w8pi4Ip.png" group-title="MOVIES",Galaxy
-https://m3u-editor.com/serve/50328070-93a4-11ec-bfe1-bfe07fb9faf4/505524693
+https://liveanevia.mncnow.id/live/eds/Galaxy-HD/sa_dash_vmx/Galaxy-HD.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oH8wyqR.png" group-title="MOVIES",Galaxy Premium
-https://m3u-editor.com/serve/50328070-93a4-11ec-bfe1-bfe07fb9faf4/505524694
+https://liveanevia.mncnow.id/live/eds/GalaxyPremium-HD/sa_dash_vmx/GalaxyPremium-HD.mpd
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/12/%26flix_logo.png" group-title="MOVIES",&flix
 https://bit.ly/Fl_hd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/h9W2I7O.png" group-title="MOVIES",&privé
