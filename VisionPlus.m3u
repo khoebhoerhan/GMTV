@@ -1492,9 +1492,9 @@ https://cdn.hkdtmb.com/hls/31/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/9d/TDM_Informa%C3%A7%C3%A3o.jpg" group-title="MANDARIN NEWS",TDM 澳門資訊頻道
 http://live4.tdm.com.mo/ch5/_definst_/info_ch5.live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5gGkYuD.png" group-title="MANDARIN NEWS",TVB News
-http://cdn.hkdtmb.com/hls/83/index.m3u8
+http://iptv.tvfix.org/hls/inews_v.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/1/1c/Tvbsnews.png" group-title="MANDARIN NEWS",TVBS News
-http://iptv.tvfix.org/hls/tvbsnews.m3u8
+http://iptv.tvfix.org/hls/tvbsnews_v.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Logo_24HorasTVN.svg/1920px-Logo_24HorasTVN.svg.png" group-title="LATINO NEWS",24 Horas
 https://marine2.miplay.cl/24horas/mono.m3u8
 #EXTVLCOPT:http-user-agent=Samsung SM-G550T stagefright/Beyonce/12.12.9 (Linux;Android 6.0.12)
@@ -3570,11 +3570,11 @@ https://skai-live-gr-cy-back.siliconweb.com/media/cambria4/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Lo5k7Dm.png" group-title="GREECE",Star
 http://livestar.siliconweb.com/media/star1/star1.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bL6rOV4.png" group-title="HONG KONG",TVB Jade
-https://cdn.hkdtmb.com/hls/81/index.m3u8
+http://iptv.tvfix.org/hls/jade_v.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/J0waOhK.png" group-title="HONG KONG",TVB J2
-https://cdn.hkdtmb.com/hls/82/index.m3u8
+http://iptv.tvfix.org/hls/j2_v.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EPl3Ico.png" group-title="HONG KONG",TVB Pearl
-http://cdn.hkdtmb.com/hls/84/index.m3u8
+http://iptv.tvfix.org/hls/pearl2.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/ViuTV_logo.svg/640px-ViuTV_logo.svg.png" group-title="HONG KONG",Viu TV
 https://cdn.hkdtmb.com/hls/99/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ViuTVsix-logo.svg/2560px-ViuTVsix-logo.svg.png" group-title="HONG KONG",Viu TV 6
