@@ -1562,7 +1562,7 @@ http://50.7.34.155:2200/BR/Globo_News_HD-br/mono.m3u8?token=fwBlCndpe3MTCXplN3Vj
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HnuEqk6.png" group-title="BRASILIAN NEWS",Record News
 https://canal1.proxy.tokplay.com.br/streams/RECORD_NEWS/auto.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BWkhQDM.png" group-title="BRASILIAN NEWS",Band News
-http://168.205.87.198:8555/live/1499/123456/174.m3u8
+http://50.7.34.155:2200/BR/Band_News_HD-br/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ==?md5=null
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QWazNSS.png" group-title="BRASILIAN NEWS",JP News
 https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index_4.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Iran_International.svg/1200px-Iran_International.svg.png" group-title="PERSIAN NEWS",Iran International
@@ -3297,7 +3297,7 @@ hhttp://www.portalcultura.com.br/playerhtml/funtelpa/tv_funtelpa/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Canal_Futura.png/800px-Canal_Futura.png" group-title="BRASIL",Futura
 https://stmv1.transmissaodigital.com/ronald6259/ronald6259/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RCvAvtf.png" group-title="BRASIL",Globo
-https://goiptv.site/redir.php?acesso=d30b21ddeb2f66110a7041ae641534e7&usuario=4cfa45c64eafb1da9fe4f3e2947e8061
+http://50.7.34.155:2201/BR/Globo_HD_RJ-br/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ%3D%3D%3Fmd5%3Dnull
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/14/Logo_of_Rede_Record.png" group-title="BRASIL",Record
 http://tvconquistalrv.duckdns.org:8080/hls/tvconquistalrv.m3u8?ROGERIOTORRES
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/3/39/Logotipo_da_Rede_Brasil_de_Televis%C3%A3o.png" group-title="BRASIL",Rede Brasil
