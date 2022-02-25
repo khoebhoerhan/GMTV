@@ -1147,7 +1147,7 @@ https://www.yilmaztv.com/beceroz/oz.php?channel=cnn-turk-canli-yayin&stream=1&ty
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Jai0CTx.png" group-title="LATINO NEWS",CNN Chile
 http://links.iptvlogin.com:80/play/CT9x5mkoQUDq43PgiM47UZbs90Pyl3gHJZaEUoL51XDUg-38B7xRFI9C-JPIF8al/ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jCXODcU.png" group-title="SPANISH NEWS",CNN en Español
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/141906
+http://45.179.140.242:8000/play/a0i6
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/CNN_Portugal.svg/800px-CNN_Portugal.svg.png" group-title="PORTUGUESE NEWS",CNN Portugal
@@ -1327,11 +1327,11 @@ https://liveru.cgtn.com/1000r/prog_index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/800px-Fox_News_Channel_logo.svg.png" group-title="AMERICAN NEWS",Fox News
 https://liveanevia.mncnow.id/live/eds/FoxNews/sa_dash_vmx/FoxNews.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cMM9MAg.png" group-title="AMERICAN NEWS",MSNBC
-http://mlsh1.com:2086/malcolm1/malcolm/6778
+http://stariptv.org:8080/wael2021/123456/148456
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GP4CcmZ.png" group-title="AMERICAN NEWS",CBSN
-https://cbsn-us-cedexis.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master_7.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IVvxmTv.png" group-title="AMERICAN NEWS",CBS News
+https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8?iu=/8264/vaw-can/mobile_web/cbsnews_mobile
 #EXTINF:-1 tvg-logo="https://i.imgur.com/R7d90sJ.png" group-title="AMERICAN NEWS",ABC News Live
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/HLN_%28TV_network%29_2017_logo.svg/800px-HLN_%28TV_network%29_2017_logo.svg.png" group-title="AMERICAN NEWS",HLN
@@ -1396,7 +1396,7 @@ http://jooli.in1.bitmana.io/JioTV/autoq.php?c=DD_India&q=1200&e=play.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nK04jlH.png" group-title="ARABIC NEWS",Al Alam News Network
 https://live2.alalam.ir/live/Alalam/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wWHiR9B.png" group-title="FRENCH NEWS",LN24
-https://live.cdn.ln24.be/out/v1/b191621c8b9a436cad37bb36a82d2e1c/index.m3u8
+https://hls-origin01-ln24.cdn01.rambla.be/adliveorigin-ln24/_definst_/ApYjOq.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/RTS_Info_logo_2019.svg/1920px-RTS_Info_logo_2019.svg.png" group-title="FRENCH NEWS",RTS Info
 http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/285328
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bAbmsFK.png" group-title="NON-ENGLISH NEWS",NPO Politiek En Nieuws
@@ -3484,13 +3484,13 @@ http://smartestv.vip:2095/ABHVYOP/2387998104/31791
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kmiMeLn.png" group-title="DENMARK",Zulu
 http://server.sibfungold.info:8080/gaicu84/iVMawDNfwV@/2681
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Ecuavisa_Logo_2019.png" group-title="ECUADOR",Ecuavisa
-https://vps-c97214f4.vps.ovh.net/hls/ecutv3.m3u8
+http://45.179.140.242:8000/play/a0j3
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Rts_logo.png" group-title="ECUADOR",RTS
-https://vps-c97214f4.vps.ovh.net/hls/ecutv4.m3u8
+http://45.179.140.242:8000/play/a0kw
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lCDkjk1.png" group-title="ECUADOR",TC Televisión 
-https://blackghost.live/play/zutv-120.php?c=2304.m3u8
+http://45.179.140.242:8000/play/a0j0
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/Teleamazonas_Logo.png" group-title="ECUADOR",Teleamazonas
-https://vps-c97214f4.vps.ovh.net/hls/ecutv1.m3u8
+http://45.179.140.242:8000/play/a0j4
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8a/M6_6ter_2012.png" group-title="FRANCE",6ter
 http://79.87.128.35:9981/stream/channelid/501191185
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/47/C8_logo.jpg" group-title="FRANCE",C8
@@ -3718,7 +3718,7 @@ http://51.79.18.128:8081/LATINO%7CCANAL5/LATINO%7CCANAL5/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yfXBk1L.png" group-title="MEXICO",Imagen Television
 http://51.79.18.128:8081/LATINO%7CIMAGENTV/LATINO%7CIMAGENTV/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ub3kuWh.png" group-title="MEXICO",Las Estrellas
-https://live-streams-notusa.televisa.com/channel01-b/index.m3u8
+http://45.179.140.242:8000/play/a0ij
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Multimedios_Canal_Seis_Logo.svg/800px-Multimedios_Canal_Seis_Logo.svg.png" group-title="MEXICO",Multimedios
 http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wlLmZ3V.png" group-title="MEXICO",Nu9ve
