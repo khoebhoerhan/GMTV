@@ -1557,7 +1557,7 @@ http://livegopanel.club:8080/live/4Zt5Na2gCD/WWqM7yJjf5/26976.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/99/UNTV-Logo-2016.svg/1920px-UNTV-Logo-2016.svg.png" group-title="PINOY NEWS",UNTV
 https://cdn.untvweb.com/live-stream/chunklist_b732000.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/X2aEThR.png" group-title="BRASILIAN NEWS",GloboNews
-http://187.85.237.3:8220/ipvt_004
+http://50.7.34.155:2200/BR/Globo_News_HD-br/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ==?md5=null
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HnuEqk6.png" group-title="BRASILIAN NEWS",Record News
 https://canal1.proxy.tokplay.com.br/streams/RECORD_NEWS/auto.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BWkhQDM.png" group-title="BRASILIAN NEWS",Band News
@@ -3127,6 +3127,9 @@ http://n1.klowdtv.net/live2/gsn_720p/chunks.m3u8
 #EXTVLCOPT:network-caching=1000
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OzHkxwZ.png" group-title="USA",NBC
 https://v-ny.theus6tv.tk/hls/4.1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/33/PBS_logo.svg/1920px-PBS_logo.svg.png" group-title="USA",PBS
+#EXTVLCOPT:network-caching=1000
+https://v-ny.theus6tv.tk/hls/21.1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/1920px-Showtime.svg.png" group-title="USA",Showtime
 http://51.79.82.231:8080/US_SHOWTIME_EAST/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LHXa485.png" group-title="USA",Syfy
