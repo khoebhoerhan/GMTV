@@ -899,6 +899,22 @@ http://live.oldtvline.com:23000/mafrale3-150317/FiiH8aP54u/35168
 http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07eu39XKtMiCpiORCagtvDVV/ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dxwCiNI.png" group-title="GERMAN MOVIES",Warner TV Film
 http://live.oldtvline.com:23000/mafrale3-150317/FiiH8aP54u/35197
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NiXZEBd.png" group-title="RUSSIAN MOVIES",Amedia 1
+http://st1.astra-uk.ru:81/763950971c8c6d8df8a87a1e752799a9/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hWNgN7W.png" group-title="RUSSIAN MOVIES",Amedia 2
+http://st1.astra-uk.ru:81/1597a5a9948014489de663c8fb4438db/playlist.m3u8?ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jQJGXrX.png" group-title="RUSSIAN MOVIES",Amedia Hit
+http://st1.astra-uk.ru:81/0eb5fb21bfa6734a7347087a6fb20fd4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tUxMJ25.png" group-title="RUSSIAN MOVIES",Amedia Premium
+http://31.40.148.98:8000/amedia_premium/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FsdEdxq.png" group-title="RUSSIAN MOVIES",TV1000
+https://kv-k21-mc02.ollcdn.net/trku-live/20/a5d0f259a48c6bef7e875a438724b9c6/61eb41f8/tv1000/tv1000.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Pyida35.png" group-title="RUSSIAN MOVIES",TV1000 Action
+https://kv-k21-mc02.ollcdn.net/trku-live/20/a5d0f259a48c6bef7e875a438724b9c6/61eb41f8/tv1000action/tv1000action.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/d1sMEM4.png" group-title="RUSSIAN MOVIES",ViP Comedy
+http://50.7.231.220:8081/142/index.m3u8?wmsAuthSign=okad
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dgpcrPB.png" group-title="RUSSIAN MOVIES",ViP Megahit
+https://kv-k21-mc02.ollcdn.net/trku-live/20/a5d0f259a48c6bef7e875a438724b9c6/61eb41f8/vipmegahithd/vipmegahithd.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ApK5dBk.png" group-title="BRITISH SERIES",Sky Atlantic
 http://smartestv.vip:2095/ABHVYOP/2387998104/610
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5c/Sky_Comedy_2020.png" group-title="BRITISH SERIES",Sky Comedy
@@ -996,6 +1012,8 @@ http://internetowa.tv/?c=hlsPlay&channel=canalplusseriale&token=213f9b5775ca164e
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9.0; MI 8 SE) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.119 Mobile Safari/537.36
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Polsat_Seriale_2021_gradient.svg/800px-Polsat_Seriale_2021_gradient.svg.png" group-title="POLISH SERIES",Polsat Seriale
 http://83.238.167.113:8001/1:0:19:1CAC:1CE8:71:820000:0:0:0:
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Gb2eYpv.png" group-title="POLISH SERIES",Epic Drama
+https://kv-k21-mc02.ollcdn.net/trku-live/20/a5d0f259a48c6bef7e875a438724b9c6/61eb41f8/epicdrama/epicdrama.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9.0; MI 8 SE) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.119 Mobile Safari/537.36
 #EXTINF:-1 tvg-logo="https://i.imgur.com/czeiGFt.png" group-title="POLISH SERIES",TVP Seriale
 http://83.238.167.113:8001/1:0:1:3d5c:2c88:13e:820000:0:0:0:
@@ -2443,6 +2461,8 @@ https://kv-k21-mc02.ollcdn.net/trku-live/20/a5d0f259a48c6bef7e875a438724b9c6/61e
 https://kv-k21-mc02.ollcdn.net/trku-live/20/a5d0f259a48c6bef7e875a438724b9c6/61eb41f8/football2hd/football2hd.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Cw4zo5j.png" group-title="UKRAINIAN SPORTS",Футбол 3
 https://kv-k21-mc02.ollcdn.net/trku-live/20/a5d0f259a48c6bef7e875a438724b9c6/61eb41f8/football3hd/football3hd.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/%D0%A2%D0%B5%D0%BB%D0%B5%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB_XSPORT.png" group-title="UKRAINIAN SPORTS",XSport
+http://212.115.255.196/Jfd85Hf/xsport.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kTXQVRD.png" group-title="TAIWANESE SPORTS",Eleven Sports 1
 rtmp://59.124.75.138/sat/tv731
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MomX4fY.png" group-title="TAIWANESE SPORTS",Eleven Sports 2
