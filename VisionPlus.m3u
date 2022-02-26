@@ -1413,6 +1413,8 @@ https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
 http://ua-tv-hls2.cosmonova.net.ua/hls/ua-tv_ua_mid/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/24_Group_Ukraine_04.png/800px-24_Group_Ukraine_04.png" group-title="UKRAINIAN NEWS",24 Канал
 http://streamvideol1.luxnet.ua/news24/news24.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Ukraine24_logo.svg/1920px-Ukraine24_logo.svg.png" group-title="UKRAINIAN NEWS",Украина 24
+https://kv-k21-mc02.ollcdn.net/trku-live/20/a5d0f259a48c6bef7e875a438724b9c6/61eb41f8/ukraina24/ukraina24.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4o0oDKk.jpeg" group-title="BRITISH NEWS",RTÉ News
 http://45.148.147.123:5079/play/a1153
 #KODIPROP:inputstream=inputstream.adaptive
@@ -4067,16 +4069,24 @@ https://livesx.canlitv.center/tv8hd.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nhl0SnT.png" group-title="TURKEY",TV8.5
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 https://www.yilmaztv.com/beceroz/oz.php?channel=tv85-turkiye-1&stream=1&type=m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3gFFRS2.png" group-title="UKRAINE",1+1
+http://37.187.28.95:2022/1plus1/mpegts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/2%2B2_logo_2017.svg/1920px-2%2B2_logo_2017.svg.png" group-title="UKRAINE",2+2
+http://212.115.255.196/Jfd85Hf/2plus2.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/%D0%86%D0%BD%D1%82%D0%B5%D1%80_TV_Channel_logo.svg/800px-%D0%86%D0%BD%D1%82%D0%B5%D1%80_TV_Channel_logo.svg.png" group-title="UKRAINE",Iнтер
 https://edge1.iptv.macc.com.ua/img/inter_3/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3npVEwz.png" group-title="UKRAINE",К1
 http://109.68.40.67/life/k1_3/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qY4fLwE.png" group-title="UKRAINE",К2
+http://212.115.255.196/Jfd85Hf/k2.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/56/Logotipe_ntn_tv.png" group-title="UKRAINE",HTH
 https://edge3.iptv.macc.com.ua/img/ntn_3/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jLMKQr6.png" group-title="UKRAINE",Прямий
 http://95.67.21.100/hls/prm_ua_hi/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/STB_logo.svg/1024px-STB_logo.svg.png" group-title="UKRAINE",СТБ
+https://kv-k21-mc02.ollcdn.net/trku-live/20/a5d0f259a48c6bef7e875a438724b9c6/61eb41f8/stb/stb.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NuFh2dP.png" group-title="UKRAINE",Україна
-http://37.187.28.95:2022/ukraina/mpegts
+https://kv-k21-mc02.ollcdn.net/trku-live/20/a5d0f259a48c6bef7e875a438724b9c6/61eb41f8/ukrainahd/ukrainahd.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tAVTLHw.png" group-title="VIETNAM",K+ Life
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
