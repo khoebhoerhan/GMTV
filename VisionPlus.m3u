@@ -4081,6 +4081,8 @@ https://edge1.iptv.macc.com.ua/img/inter_3/index.m3u8
 http://109.68.40.67/life/k1_3/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qY4fLwE.png" group-title="UKRAINE",К2
 http://212.115.255.196/Jfd85Hf/k2.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Novyi_kanal_logo.svg/800px-Novyi_kanal_logo.svg.png" group-title="UKRAINE",Новый канал
+http://37.187.28.95:2022/Noviy/mpegts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/56/Logotipe_ntn_tv.png" group-title="UKRAINE",HTH
 https://edge3.iptv.macc.com.ua/img/ntn_3/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jLMKQr6.png" group-title="UKRAINE",Прямий
