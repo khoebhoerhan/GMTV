@@ -1043,7 +1043,7 @@ https://liveanevia.mncnow.id/live/eds/KidsChannel/sa_dash_vmx/KidsChannel.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aBg0Ge4.png" group-title="KIDS",Biznet Kids
 http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/playlist.m3u8?bizkeylivestarttime=0&bizkeyliveendtime=0&bizkeyliveCustomParameter=myParameter&bizkeylivehash=qAri1M2xu_MAlnHwVRtOs24lR8Y_HSDijN2CRNghifUllhYqQSDlkd0qE8CkZwxC
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BgIUxdy.png" group-title="KIDS",Mentari TV
-https://iptv.mwafa.net/vidio/8237/index.m3u8?token=1999
+http://108.136.37.52/m3u8/vid_Mentari_TV.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/V2n8iDR.png" group-title="KIDS",Spacetoon
 http://stream1.ninmedia.tv:1935/spacetoon/udp.stream_360p/chunklist_w1596438578.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1386,7 +1386,7 @@ http://nbcnews2.akamaized.net/hls/live/723426-b/NBCNewsPlaymaker24x7Linear99a3a8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4nMN9xm.png" group-title="AMERICAN NEWS",Newsmax
 https://nmxlive.akamaized.net/hls/live/529965/Live_1/index_1080.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/C-SPAN_Logo_%282019%29.svg/1920px-C-SPAN_Logo_%282019%29.svg.png" group-title="AMERICAN NEWS",C-SPAN
-https://skystreams-lh.akamaihd.net/i/SkyC1_1@500806/master.m3u8
+http://trn03.tulix.tv/teleup-cspan/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xqi6VLY.png" group-title="AMERICAN NEWS",C-SPAN 2
 https://skystreams-lh.akamaihd.net/i/SkyC2_1@500807/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/d9scAyX.png" group-title="AMERICAN NEWS",C-SPAN 3
@@ -1401,6 +1401,8 @@ https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f
 https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master_2500.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/35/GB_News_Logo.svg/1920px-GB_News_Logo.svg.png" group-title="BRITISH NEWS",GB News
 https://live-gbnews.simplestreamcdn.com/gbnews/gbnews/bitrate1.isml/bitrate1-audio_0=192000-video=4499968.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4o0oDKk.jpeg" group-title="BRITISH NEWS",RTÉ News
+http://45.148.147.123:5079/play/a1153
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jtPPRFX.png" group-title="AUSTRALIAN NEWS",ABC News
 https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index_45.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Jg51UFG.png" group-title="AUSTRALIAN NEWS",Australia Channel
@@ -1444,10 +1446,6 @@ https://republicworld.amagi.tv/hls/amagi_hls_data_samsungin-republictv-samsungin
 http://jooli.in1.bitmana.io/JioTV/autoq.php?c=DD_India&q=1200&e=play.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nK04jlH.png" group-title="ARABIC NEWS",Al Alam News Network
 https://live2.alalam.ir/live/Alalam/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wWHiR9B.png" group-title="FRENCH NEWS",LN24
-https://hls-origin01-ln24.cdn01.rambla.be/adliveorigin-ln24/_definst_/ApYjOq.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/RTS_Info_logo_2019.svg/1920px-RTS_Info_logo_2019.svg.png" group-title="FRENCH NEWS",RTS Info
-http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/285328
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bAbmsFK.png" group-title="NON-ENGLISH NEWS",NPO Politiek En Nieuws
 http://stariptv.org:8080/wael2021/123456/67263
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MA4V35n.png" group-title="NON-ENGLISH NEWS",NTV News 24
@@ -1458,8 +1456,6 @@ http://ua-tv-hls2.cosmonova.net.ua/hls/ua-tv_ua_mid/index.m3u8
 http://streamvideol1.luxnet.ua/news24/news24.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Ukraine24_logo.svg/1920px-Ukraine24_logo.svg.png" group-title="UKRAINIAN NEWS",Украина 24
 https://kv-k21-mc02.ollcdn.net/trku-live/20/a5d0f259a48c6bef7e875a438724b9c6/61eb41f8/ukraina24/ukraina24.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4o0oDKk.jpeg" group-title="BRITISH NEWS",RTÉ News
-http://45.148.147.123:5079/play/a1153
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b6/Logo_BFM_TV_%282019%29.png" group-title="FRENCH NEWS",BFM TV
@@ -1472,6 +1468,10 @@ http://stariptv.org:8080/wael2021/123456/4928
 https://lci-hls-live-ssl.tf1.fr/lci/1/hls/live_2328.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/v7Zj0iJ.png" group-title="FRENCH NEWS",TV5 Monde Info
 http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wWHiR9B.png" group-title="FRENCH NEWS",LN24
+https://hls-origin01-ln24.cdn01.rambla.be/adliveorigin-ln24/_definst_/ApYjOq.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/RTS_Info_logo_2019.svg/1920px-RTS_Info_logo_2019.svg.png" group-title="FRENCH NEWS",RTS Info
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/285328
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/N-tv_logo-september2017.svg/1280px-N-tv_logo-september2017.svg.png" group-title="GERMAN NEWS",n-tv
 http://live.oldtvline.com:23000/mafrale3-150317/FiiH8aP54u/35335
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eqE5cJ6.png" group-title="GERMAN NEWS",tagesschau 24
@@ -2555,6 +2555,8 @@ http://wanicelife.com:8880/live/SWFAF1221601/5PT5WX5J/71108.m3u8
 https://rtmlive06tv.secureswiftcontent.com/rtmchannel/06-manifest.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/spilNZu.png" group-title="MALAY SPORTS",Unifi Sports 1
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live11.mpd
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LYMdKVr.png" group-title="MALAY SPORTS",Unifi Sports 2
+https://unifi-live05.secureswiftcontent.com/UnifiHD/live12.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ycxjpTX.png" group-title="INDIAN SPORTS",Eurosport
 http://live.flixhub.net/hls/euro.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9me1VCt.png" group-title="INDIAN SPORTS",Jio Cricket
