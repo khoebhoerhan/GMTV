@@ -476,7 +476,7 @@ http://edge02-fdo-py.cvattv.com.ar/live/c4eds/Fox_Life/SA_SAGEMCOM/Fox_Life.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/umJbqNY.png" group-title="LATINO ENTERTAINMENT",TNT
 http://edge02-fdo-py.cvattv.com.ar/live/c4eds/TNT/SA_SAGEMCOM/TNT.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/V3RCwzs.png" group-title="BRASILIAN ENTERTAINMENT",Record TV
-http://vt.protoniumtv.net:1997/iptvtree2021/POAIHfsmm525adA/47494
+http://red.ipfox.org:8080/1234/12345678/30847
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TiYeY9R.png" group-title="BRASILIAN ENTERTAINMENT",Globo
 http://red.ipfox.org:8080/1234/12345678/2654
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ypwYHcA.png" group-title="PINOY ENTERTAINMENT",GMA Life TV
@@ -715,6 +715,20 @@ http://internetowa.tv/?c=hlsPlay&channel=canalplusfilm&token=213f9b5775ca164e0a3
 http://83.238.167.113:8001/1:0:1:3398:3390:71:820000:0:0:0:
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cd/Nova_Cinema_logo.png" group-title="EUROPEAN MOVIES",Nova Cinema
 http://103.194.169.171:8282/CZ_NOVA_CINEMA_HD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IqY4euu.png" group-title="PORTUGUESE MOVIES",AXN Movies
+http://red.ipfox.org:8080/1234/12345678/2727
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3dQ4y7b.png" group-title="PORTUGUESE MOVIES",Cine Mundo
+http://stariptv.org:8080/wael2021/123456/4087
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0n1KEcD.png" group-title="PORTUGUESE MOVIES",Fox Movies
+http://stariptv.org:8080/wael2021/123456/4742
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aot5IEe.png" group-title="PORTUGUESE MOVIES",TVCine Action
+http://red.ipfox.org:8080/1234/12345678/2659
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KpdWkEd.png" group-title="PORTUGUESE MOVIES",TVCine Emotion
+http://red.ipfox.org:8080/1234/12345678/2658
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kB4VsvT.png" group-title="PORTUGUESE MOVIES",TVCine Edition
+http://red.ipfox.org:8080/1234/12345678/2657
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JrGNbqH.png" group-title="PORTUGUESE MOVIES",TVCine Top
+http://red.ipfox.org:8080/1234/12345678/2656
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HGtsnIL.png" group-title="ALBANIAN MOVIES",RTSH Film
 https://tvlive.rtsh.dev/live/rtsh_film_ott/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0ue1WNG.png" group-title="ALBANIAN MOVIES",Tring Action
@@ -956,11 +970,11 @@ http://tv.fullytv.com:8080/lisa1/1lisa/17178
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8dgknme.png" group-title="AMERICAN SERIES",FX
 http://stariptv.org:8080/wael2021/123456/148463
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/1920px-Showtime.svg.png" group-title="AMERICAN SERIES",Showtime
-http://51.79.82.231:8080/US_SHOWTIME_EAST/tracks-v1a1/index.m3u8
+http://stariptv.org:8080/wael2021/123456/148472
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LHXa485.png" group-title="AMERICAN SERIES",Syfy
-http://51.79.82.231:8080/US_SYFY_EAST_USA/video.m3u8
+http://stariptv.org:8080/wael2021/123456/148451
 #EXTINF:-1 tvg-logo="https://i.imgur.com/upM99h1.png" group-title="AMERICAN SERIES",TBS
-http://51.79.82.231:8080/US_TBS_EAST_USA/tracks-v1a1/index.m3u8
+http://stariptv.org:8080/wael2021/123456/148479
 #EXTINF:-1 tvg-logo="https://i.imgur.com/umJbqNY.png" group-title="AMERICAN SERIES",TNT
 http://stariptv.org:8080/wael2021/123456/148474
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5a2PNe2.png" group-title="LATINO SERIES",Star Action
@@ -1250,9 +1264,9 @@ https://streaming.cnnphilippines.com/live/myStream/chunklist_w1199238897.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hi0D9Ut.png" group-title="TURKISH NEWS",CNN Türk
 https://www.yilmaztv.com/beceroz/oz.php?channel=cnn-turk-canli-yayin&stream=1&type=m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Jai0CTx.png" group-title="LATINO NEWS",CNN Chile
-http://links.iptvlogin.com:80/play/CT9x5mkoQUDq43PgiM47UZbs90Pyl3gHJZaEUoL51XDUg-38B7xRFI9C-JPIF8al/ts
+http://tv.fullytv.com:8080/lisa1/1lisa/3749
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jCXODcU.png" group-title="SPANISH NEWS",CNN en Español
-http://45.179.140.242:8000/play/a0i6
+http://tv.fullytv.com:8080/lisa1/1lisa/4014
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/CNN_Portugal.svg/800px-CNN_Portugal.svg.png" group-title="PORTUGUESE NEWS",CNN Portugal
@@ -1480,7 +1494,7 @@ https://live1.presstv.ir/live/hispan.m3u8
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 #EXTINF:-1 tvg-logo="https://i.imgur.com/j5Zdyy9.png" group-title="WORLD NEWS",A News
 https://www.yilmaztv.com/beceroz/oz.php?channel=a-news&stream=1&type=m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/TeleSUR-Logo.svg/800px-TeleSUR-Logo.svg.png" group-title="WORLD NEWS",teleSUR
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/TeleSUR.jpg" group-title="WORLD NEWS",teleSUR
 https://cdnenmain.telesur.ultrabase.net/mblivev3/hd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jHJR3LN.png" group-title="AFRICAN NEWS",Africanews
 https://rakuten-africanews-1-eu.rakuten.wurl.tv/playlist.m3u8
@@ -1539,7 +1553,7 @@ http://live.oldtvline.com:23000/mafrale3-150317/FiiH8aP54u/35335
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eqE5cJ6.png" group-title="GERMAN NEWS",tagesschau 24
 https://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1c/SRF_info_logo.svg/1920px-SRF_info_logo.svg.png" group-title="GERMAN NEWS",SRF Info
-http://185.205.201.101:8018/play/a04h
+http://stariptv.org:8080/wael2021/123456/102123
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Rai_News_24_-_Logo_2013.svg/1200px-Rai_News_24_-_Logo_2013.svg.png" group-title="ITALIAN NEWS",Rai News 24
@@ -1624,7 +1638,7 @@ https://d1nmqgphjn0y4.cloudfront.net/live/ip/live.isml/live-audio_1=128000-video
 https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index_6.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QGnD2tq.png" group-title="LATINO NEWS",Milenio TV
 https://v-sd.mybtv.net/event/521/1920x1080.m3u8?start_time=2021-05-16&end_time=2023-05-17&uid=33630
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/TeleSUR-Logo.svg/800px-TeleSUR-Logo.svg.png" group-title="LATINO NEWS",teleSUR
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/TeleSUR.jpg" group-title="LATINO NEWS",teleSUR
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kI7pHMn.jpg" group-title="KOREAN NEWS",YTN
 http://108.136.37.52/m3u8/dm_YTN_News.m3u8
@@ -1927,11 +1941,11 @@ https://m3u-editor.com/serve/50328070-93a4-11ec-bfe1-bfe07fb9faf4/505524494
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sKFx2QF.png" group-title="ARABIC SPORTS",beIN Sports English 3
 https://m3u-editor.com/serve/50328070-93a4-11ec-bfe1-bfe07fb9faf4/505524495
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NOOEDFi.png" group-title="ARABIC SPORTS",beIN Sports French 1
-http://vt.protoniumtv.net:1997/live/iptvtree2021/POAIHfsmm525adA/95643.m3u8
+http://red.ipfox.org:8080/1234/12345678/2441
 #EXTINF:-1 tvg-logo="https://i.imgur.com/n6iA4cg.png" group-title="ARABIC SPORTS",beIN Sports French 2
-http://vt.protoniumtv.net:1997/live/iptvtree2021/POAIHfsmm525adA/95642.m3u8
+http://red.ipfox.org:8080/1234/12345678/2439
 #EXTINF:-1 tvg-logo="https://i.imgur.com/srteRe1.png" group-title="ARABIC SPORTS",beIN Sports French 3
-http://vt.protoniumtv.net:1997/live/iptvtree2021/POAIHfsmm525adA/95641.m3u8
+http://red.ipfox.org:8080/1234/12345678/2438
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CwlNjXQ.png" group-title="ARABIC SPORTS",beIN Sports Premium 1
 http://130.193.166.18:80/cache/Bein-Prem-1-HEVC/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ns7isEP.png" group-title="ARABIC SPORTS",beIN Sports Premium 2
@@ -1963,7 +1977,7 @@ https://www.wopep.com/02_epl1_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NDp6TlM.png" group-title="THAI SPORTS",beIN Sports 2
 https://www.wopep.com/02_epl2_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LfzLKei.png" group-title="AMERICAN SPORTS",beIN Sports en Español
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/60719
+http://tv.fullytv.com:8080/lisa1/1lisa/3747
 #EXTINF:-1 tvg-logo="https://i.imgur.com/x8049OP.png" group-title="AMERICAN SPORTS",beIN Sports Xtra
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df975e2b27cf5000921c102/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c82b290-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=672c13ed-c11c-4ba2-b749-117f2f0aab45&userId=&serverSideAds=true
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oGyeYgb.png" group-title="AMERICAN SPORTS",beIN Sports Xtra en Español
@@ -2085,17 +2099,23 @@ http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/170188
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9jZlAna.png" group-title="NORDIC SPORTS",V Sport+
 http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/252152
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dL13zdR.png" group-title="GREEK SPORTS",Cosmote Sport 1
-http://server.sibfungold.info:8080/gaicu84/iVMawDNfwV@/4588
+http://stariptv.org:8080/wael2021/123456/81743
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wxw1tnY.png" group-title="GREEK SPORTS",Cosmote Sport 2
-http://server.sibfungold.info:8080/gaicu84/iVMawDNfwV@/4589
+http://stariptv.org:8080/wael2021/123456/81744
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DtFquTE.png" group-title="GREEK SPORTS",Cosmote Sport 3
-http://server.sibfungold.info:8080/gaicu84/iVMawDNfwV@/4590
+http://stariptv.org:8080/wael2021/123456/81745
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WgiAHlR.png" group-title="GREEK SPORTS",Cosmote Sport 4
-http://server.sibfungold.info:8080/gaicu84/iVMawDNfwV@/4591
+http://stariptv.org:8080/wael2021/123456/81746
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MvMyeXL.png" group-title="GREEK SPORTS",Cosmote Sport 5
-http://server.sibfungold.info:8080/gaicu84/iVMawDNfwV@/4592
+http://stariptv.org:8080/wael2021/123456/81747
 #EXTINF:-1 tvg-logo="https://i.imgur.com/51n031I.png" group-title="GREEK SPORTS",Cosmote Sport 6
-http://server.sibfungold.info:8080/gaicu84/iVMawDNfwV@/4593
+http://stariptv.org:8080/wael2021/123456/81748
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nfXKxvb.png" group-title="GREEK SPORTS",Cosmote Sport 7
+http://stariptv.org:8080/wael2021/123456/81749
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sMaOqkI.png" group-title="GREEK SPORTS",Cosmote Sport 8
+http://stariptv.org:8080/wael2021/123456/81750
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3Yu2Xmw.png" group-title="GREEK SPORTS",Cosmote Sport 9
+http://stariptv.org:8080/wael2021/123456/81751
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gwV31E0.png" group-title="GREEK SPORTS",Eurosport 1
 http://cloudcdn.city:80/2bMdYcF89/C31jqV37/64966
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lTnKDju.png" group-title="GREEK SPORTS",Eurosport 2
@@ -2119,7 +2139,7 @@ http://stariptv.org:8080/wael2021/123456/148465
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/1280px-ESPN2_logo.svg.png" group-title="AMERICAN SPORTS",ESPN 2
 http://stariptv.org:8080/wael2021/123456/148466
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YhuEewa.png" group-title="AMERICAN SPORTS",ESPN Deportes
-http://vt.protoniumtv.net:1997/iptvtree2021/POAIHfsmm525adA/9415
+http://tv.fullytv.com:8080/lisa1/1lisa/3613
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/ESPNews.svg/1920px-ESPNews.svg.png" group-title="AMERICAN SPORTS",ESPNews
 http://stariptv.org:8080/wael2021/123456/148467
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qimdreM.png" group-title="AMERICAN SPORTS",FS1
@@ -2127,7 +2147,7 @@ http://stariptv.org:8080/wael2021/123456/148446
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jxLMBZt.png" group-title="AMERICAN SPORTS",FS2
 http://stariptv.org:8080/wael2021/123456/148447
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kL3DvWM.png" group-title="AMERICAN SPORTS",Fox Deportes
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/13163
+http://tv.fullytv.com:8080/lisa1/1lisa/3753
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 #EXTINF:-1 tvg-logo="https://i.imgur.com/E3OjM1k.png" group-title="VIETNAMESE SPORTS",HTV Thể Thao
 https://livecdn.fptplay.net/sdb/htvcthethao_hls.smil/chunklist_b2500000.m3u8
@@ -2309,7 +2329,7 @@ http://smartestv.vip:2095/ABHVYOP/2387998104/853
 #EXTINF:-1 tvg-logo="https://i.imgur.com/D1nuT7j.png" group-title="FRENCH SPORTS",Infosport+
 http://red.ipfox.org:8080/1234/12345678/2384
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hyjk6Wx.png" group-title="FRENCH SPORTS",Foot+ 24/24
-http://server.sibfungold.info:8080/gaicu84/iVMawDNfwV@/51646
+https://m3u-editor.com/serve/50328070-93a4-11ec-bfe1-bfe07fb9faf4/505524412
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0FJ92Bp.png" group-title="FRENCH SPORTS",Golf Channel
 http://red.ipfox.org:8080/1234/12345678/2386
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vU6Y5Of.png" group-title="FRENCH SPORTS",Golf+
@@ -2926,37 +2946,37 @@ http://red.ipfox.org:8080/1234/12345678/2977
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lzmhX3a.png" group-title="AFRICAN SPORTS",Supersport WWE
 http://red.ipfox.org:8080/1234/12345678/25512
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fOOqLPb.png" group-title="LATINO SPORTS",Claro Sports
-http://new-tv.cloud:25461/AlanLopez/AtSrcmKDadQ5/141455
+http://tv.fullytv.com:8080/lisa1/1lisa/12011
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/DeporTV_%282020_Logo_oficial%29.png" group-title="LATINO SPORTS",DeporTV
 https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/DirecTV_Sports_Latin_America_-_2018_logo_v2.svg/1920px-DirecTV_Sports_Latin_America_-_2018_logo_v2.svg.png" group-title="LATINO SPORTS",DirecTV Sports
-http://new-tv.cloud:25461/AlanLopez/AtSrcmKDadQ5/141486
+http://tv.fullytv.com:8080/lisa1/1lisa/1091366
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/DIRECTV_Sports_2_Latin_America_%282018%29.svg/1920px-DIRECTV_Sports_2_Latin_America_%282018%29.svg.png" group-title="LATINO SPORTS",DirecTV Sports 2
-http://new-tv.cloud:25461/AlanLopez/AtSrcmKDadQ5/141488
+http://tv.fullytv.com:8080/lisa1/1lisa/1091367
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cf/Fox_Sports_Premium_Argentina_2020.png" group-title="LATINO SPORTS",Fox Sports Premium
 http://edge02-fdo-py.cvattv.com.ar/live/c3eds/Fox_Sports_Premiun_HD/SA_SAGEMCOM/Fox_Sports_Premiun_HD.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1920px-ESPN_wordmark.svg.png" group-title="LATINO SPORTS",ESPN LATAM
 http://spliktv-edge2.wedrly.xyz/live/vod/ESPN2HD/SA_Live_WebVTT_FTA/ESPN2HD.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1920px-ESPN_wordmark.svg.png" group-title="LATINO SPORTS",ESPN Mexico
-http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/98780
+http://tv.fullytv.com:8080/lisa1/1lisa/3178
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/1280px-ESPN2_logo.svg.png" group-title="LATINO SPORTS",ESPN 2 LATAM
 http://spliktv-edge2.wedrly.xyz/live/vod/ESPN_HD/SA_Live_WebVTT_FTA/ESPN_HD.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/1280px-ESPN2_logo.svg.png" group-title="LATINO SPORTS",ESPN 2 Mexico
-http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/98781
+http://tv.fullytv.com:8080/lisa1/1lisa/3258
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Crvxgth.png" group-title="LATINO SPORTS",ESPN 3 LATAM
 http://spliktv-edge2.wedrly.xyz/live/vod/ESPN3/SA_Live_WebVTT_FTA/ESPN3.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Crvxgth.png" group-title="LATINO SPORTS",ESPN 3 Mexico
-http://mains.services:2086/RtK9NG97M8/8O16aw5yiQ/98782
+http://tv.fullytv.com:8080/lisa1/1lisa/3260
 #EXTINF:-1 tvg-logo="https://i.imgur.com/89RCPvg.png" group-title="LATINO SPORTS",ESPN 4 LATAM
 http://spliktv-edge2.wedrly.xyz/live/vod/ESPN4/SA_Live_WebVTT_FTA/ESPN4.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qhBbVAc.png" group-title="LATINO SPORTS",ESPN Extra LATAM
 http://spliktv-edge2.wedrly.xyz/live/vod/SA_Live_WebVTT_FTA/ESPNHD.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qhBbVAc.png" group-title="LATINO SPORTS",ESPN Extra Mexico
-http://tv.nousiptv.com:8080/cecilia1/1cecilia/4120
+http://tv.fullytv.com:8080/lisa1/1lisa/4120
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Au1Wa24.png" group-title="LATINO SPORTS",Fox Sports LATAM
 https://chromecast.cvattv.com.ar/live/c3eds/FoxSports/SA_SAGEMCOM/FoxSports.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uSH8Z1b.png" group-title="LATINO SPORTS",Fox Sports 1 Chile
-http://tv.nousiptv.com:8080/cecilia1/1cecilia/3612
+http://tv.fullytv.com:8080/lisa1/1lisa/3612
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Au1Wa24.png" group-title="LATINO SPORTS",Fox Sports Mexico
 https://dizf8i52j4sep.cloudfront.net/out/v1/148af6c03e6d48b0a725611fae5ed3a7/index.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DpnatBM.png" group-title="LATINO SPORTS",Fox Sports 2 LATAM
@@ -2967,6 +2987,8 @@ https://d17lgdx4t7a4od.cloudfront.net/out/v1/bca3f8d654aa4cb293e4e9801468a5a3/in
 https://edge1-ccast-sl.cvattv.com.ar/live/c3eds/FoxSports3HD/SA_SAGEMCOM/FoxSports3HD.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/w8sjQN2.png" group-title="LATINO SPORTS",Fox Sports 3 Mexico
 https://d14a5mi0m64mw7.cloudfront.net/out/v1/8a240d2e8a64453da6288810ede90a60/index.mpd
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0FJ92Bp.png" group-title="LATINO SPORTS",Golf Channel
+http://tv.fullytv.com:8080/lisa1/1lisa/33363
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qan7sfu.png" group-title="LATINO SPORTS",Sky Sports 1
 http://shashe.dianshiwang.vip:27000/live/rogeliovnz/2019/72945.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qan7sfu.png" group-title="LATINO SPORTS",Sky Sports 2
@@ -2974,7 +2996,7 @@ http://shashe.dianshiwang.vip:27000/live/rogeliovnz/2019/72946.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IyqLOSV.png" group-title="LATINO SPORTS",TNT Sports
 https://edge02-fdo-py.cvattv.com.ar/live/c3eds/TNT_Sports_HD/SA_SAGEMCOM/TNT_Sports_HD.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/1920px-TUDN_Logo.svg.png" group-title="LATINO SPORTS",TUDN
-http://mag.you24.online:8080/hiyk4qx9i5/df5ztup5ss/684705
+http://tv.fullytv.com:8080/lisa1/1lisa/3751
 #EXTINF:-1 tvg-logo="https://i.imgur.com/I7Lhgej.png" group-title="LATINO SPORTS",TyC Sports
 https://d3awnlgqz0szay.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index_9.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FbFe2uu.png" group-title="BRASILIAN SPORTS",Band Sports
@@ -3272,14 +3294,14 @@ https://wmaqlive-f.akamaihd.net/i/CHICAGO_STREAM4@24420/master.m3u8
 #EXTVLCOPT:network-caching=1000
 https://5e6cea03e25b6.streamlock.net/live/WTLHCW.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/l3iqIit.png" group-title="USA",Universo
-http://gratis.shortgod.com/restream/tvshortgod13.php?id=universo
+http://tv.fullytv.com:8080/lisa1/1lisa/3757
 #EXTVLCOPT:network-caching=1000
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PEP2agz.png" group-title="USA",Univisión
 https://v-ny.theus6tv.tk/hls/41.1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Logo_UniM%C3%A1s_2021.svg/1920px-Logo_UniM%C3%A1s_2021.svg.png" group-title="USA",Unimás
-http://gratis.shortgod.com/restream/tvshortgod13.php?id=unimas
+http://tv.fullytv.com:8080/lisa1/1lisa/18772
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/1920px-USA_Network_logo_%282016%29.svg.png" group-title="USA",USA Network
-http://klickmode.xyz:25461/unpluggedtv/OLUNpwpot3/21143
+http://stariptv.org:8080/wael2021/123456/148491
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HELzzCq.png" group-title="UK",4seven
 http://red.ipfox.org:8080/1234/12345678/24286
 #EXTINF:-1 tvg-logo="https://i.imgur.com/haov0b4.png" group-title="UK",5Select
@@ -3289,13 +3311,13 @@ http://red.ipfox.org:8080/1234/12345678/26023
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Nvme1rf.png" group-title="UK",BBC Alba
 http://194.76.186.39:8000/play/a016
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oGzLsiq.png" group-title="UK",BBC One
-http://smartestv.vip:2095/ABHVYOP/2387998104/625
+https://m3u-editor.com/serve/50328070-93a4-11ec-bfe1-bfe07fb9faf4/505525165
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iMfng6J.png" group-title="UK",BBC Two
-http://smartestv.vip:2095/ABHVYOP/2387998104/624
+http://45.153.35.210:8000/play/UK_bbc_2_sd/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gcpSDKf.png" group-title="UK",BBC Three
 http://194.76.186.39:8000/play/a05p
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nywptTp.png" group-title="UK",BBC Four
-http://185.205.201.101:8011/play/a03z
+https://m3u-editor.com/serve/50328070-93a4-11ec-bfe1-bfe07fb9faf4/505525167
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kr2UTHB.png" group-title="UK",BBC Scotland
 http://red.ipfox.org:8080/1234/12345678/26038
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/37/CBBC_2016_logo.svg/800px-CBBC_2016_logo.svg.png" group-title="UK",CBBC
@@ -3303,19 +3325,19 @@ http://ott.riotelecomm.es:4513/m3u8/CBBCHDFIBRA.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XJ9qgU9.png" group-title="UK",Challenge
 http://smartestv.vip:2095/ABHVYOP/2387998104/30224
 #EXTINF:-1 tvg-logo="https://i.imgur.com/r0sl8tu.png" group-title="UK",Channel 4
-http://185.205.201.101:8013/play/a03k
+http://45.153.35.210:8000/play/UK_channel_4_sd/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/itZR2eq.png" group-title="UK",Channel 5
-http://smartestv.vip:2095/ABHVYOP/2387998104/618
+https://m3u-editor.com/serve/50328070-93a4-11ec-bfe1-bfe07fb9faf4/505525416
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wRVi7bz.png" group-title="UK",Dave
 http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/733
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yny6n9T.png" group-title="UK",E4
-http://185.205.201.101:8013/play/a03n
+http://45.153.35.210:8000/play/UK_e4_sd/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PpD1Fwa.png" group-title="UK",Great! TV
 http://45.153.35.210:8000/play/UK_great_tv_sd/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IZ5MINa.png" group-title="UK",More4
-http://red.ipfox.org:8080/1234/12345678/26012
+http://45.153.35.210:8000/play/UK_more_4_sd/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/ITV_logo_2019.svg/1200px-ITV_logo_2019.svg.png" group-title="UK",ITV
-http://smartestv.vip:2095/ABHVYOP/2387998104/659
+http://45.153.35.210:8000/play/UK_itv_1_sd/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/35/ITV2_logo_2015.svg/1920px-ITV2_logo_2015.svg.png" group-title="UK",ITV2
 http://ott.riotelecomm.es:4513/m3u8/ITV2FIBRA.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f6/ITV3_logo_2013.svg/1920px-ITV3_logo_2013.svg.png" group-title="UK",ITV3
@@ -3521,7 +3543,7 @@ https://marine2.miplay.cl/mega/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Telecanal_-_2011_logo_%283D_variant%29.png" group-title="CHILE",Telecanal
 https://unlimited1-cl.dps.live/tctc/tctc.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iz00wIP.png" group-title="CHILE",TV+
-http://45.4.0.46:8000/play/a058
+http://tv.fullytv.com:8080/lisa1/1lisa/30700
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Logotipo_de_Televisi%C3%B3n_Nacional_de_Chile.svg/1920px-Logotipo_de_Televisi%C3%B3n_Nacional_de_Chile.svg.png" group-title="CHILE",TVN
 https://marine2.miplay.cl/tvn/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Ucvtvlogo2014mejorado.png/1280px-Ucvtvlogo2014mejorado.png" group-title="CHILE",UCV
@@ -3610,13 +3632,17 @@ http://smartestv.vip:2095/ABHVYOP/2387998104/31791
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kmiMeLn.png" group-title="DENMARK",Zulu
 http://red.ipfox.org:8080/1234/12345678/31958
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Ecuavisa_Logo_2019.png" group-title="ECUADOR",Ecuavisa
-http://45.179.140.242:8000/play/a0j3
+http://tv.fullytv.com:8080/lisa1/1lisa/3433
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TRwBvV8.png" group-title="ECUADOR",Gamavisión
+http://tv.fullytv.com:8080/lisa1/1lisa/8085
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/21/Oromar_logo.png" group-title="ECUADOR",Oromar TV
+http://tv.fullytv.com:8080/lisa1/1lisa/3431
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Rts_logo.png" group-title="ECUADOR",RTS
-http://45.179.140.242:8000/play/a0kw
+http://tv.fullytv.com:8080/lisa1/1lisa/3430
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lCDkjk1.png" group-title="ECUADOR",TC Televisión 
-http://45.179.140.242:8000/play/a0j0
+http://tv.fullytv.com:8080/lisa1/1lisa/3429
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/Teleamazonas_Logo.png" group-title="ECUADOR",Teleamazonas
-http://45.179.140.242:8000/play/a0j4
+http://tv.fullytv.com:8080/lisa1/1lisa/3428
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8a/M6_6ter_2012.png" group-title="FRANCE",6ter
 http://red.ipfox.org:8080/1234/12345678/2449
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/47/C8_logo.jpg" group-title="FRANCE",C8
@@ -3829,17 +3855,17 @@ http://live4.tdm.com.mo/ch2/_definst_/ch2.live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TDM_Entertainment.png/1920px-TDM_Entertainment.png" group-title="MACAU",TDM 澳門綜藝
 http://live4.tdm.com.mo/ch6/_definst_/hd_ch6.live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WltLUSg.png" group-title="MEXICO",Azteca 7
-http://51.79.18.128:8081/LATINO%7CAZTECA7/LATINO%7CAZTECA7/playlist.m3u8
+http://tv.fullytv.com:8080/lisa1/1lisa/3215
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JnRpLg8.png" group-title="MEXICO",Azteca Uno
-http://51.79.18.128:8081/LATINO%7CAZTECA1/LATINO%7CAZTECA1/playlist.m3u8
+http://tv.fullytv.com:8080/lisa1/1lisa/3216
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gAcWmFc.png" group-title="MEXICO",Canal 5
-http://51.79.18.128:8081/LATINO%7CCANAL5/LATINO%7CCANAL5/playlist.m3u8
+http://tv.fullytv.com:8080/lisa1/1lisa/3244
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yfXBk1L.png" group-title="MEXICO",Imagen Television
-http://51.79.18.128:8081/LATINO%7CIMAGENTV/LATINO%7CIMAGENTV/playlist.m3u8
+http://tv.fullytv.com:8080/lisa1/1lisa/4149
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ub3kuWh.png" group-title="MEXICO",Las Estrellas
-http://45.179.140.242:8000/play/a0ij
+http://tv.fullytv.com:8080/lisa1/1lisa/3243
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Multimedios_Canal_Seis_Logo.svg/800px-Multimedios_Canal_Seis_Logo.svg.png" group-title="MEXICO",Multimedios
-http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
+http://tv.fullytv.com:8080/lisa1/1lisa/4125
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wlLmZ3V.png" group-title="MEXICO",Nu9ve
 http://51.79.18.128:8081/LATINO%7CNUEVE/LATINO%7CNUEVE/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bb/Net5_logo_2019.png" group-title="NETHERLANDS",Net5
@@ -3956,11 +3982,11 @@ https://streaming-live.rtp.pt/liverepeater/rtpClean2HD.smil/playlist.m3u8|user-a
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4d/Sociedade_Independente_de_Comunica%C3%A7%C3%A3o_Logo_2018.png" group-title="PORTUGAL",SIC
 https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index_4.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/04/SIC_Caras_logo.png" group-title="PORTUGAL",SIC Caras
-http://showflix.org:5890/Berlin/Berlin/1040
+http://red.ipfox.org:8080/1234/12345678/2678
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZwRFjOY.png" group-title="PORTUGAL",SIC Mulher
-http://showflix.org:5890/Berlin/Berlin/1039
+http://red.ipfox.org:8080/1234/12345678/2677
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/Logosicradical.png" group-title="PORTUGAL",SIC Radical
-http://showflix.org:5890/Berlin/Berlin/1037
+http://red.ipfox.org:8080/1234/12345678/2675
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dHSH6qh.png" group-title="PORTUGAL",TVI
@@ -4100,13 +4126,13 @@ http://live.oldtvline.com:23000/mafrale3-150317/FiiH8aP54u/38602
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/RSI_La_2_2012.svg/1920px-RSI_La_2_2012.svg.png" group-title="SWITZERLAND",RSI La 2
 http://live.oldtvline.com:23000/mafrale3-150317/FiiH8aP54u/38603
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/eb/RTS_1_logo_2019.svg/1920px-RTS_1_logo_2019.svg.png" group-title="SWITZERLAND",RTS 1
-http://185.205.201.101:8018/play/a04f
+http://stariptv.org:8080/wael2021/123456/102125
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/RTS_2_logo_2019.svg/1920px-RTS_2_logo_2019.svg.png" group-title="SWITZERLAND",RTS 2
 http://185.205.201.101:8018/play/a04g
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a9/SRF_1_logo.svg/1920px-SRF_1_logo.svg.png" group-title="SWITZERLAND",SRF 1
-http://185.205.201.101:8018/play/a04d
+http://stariptv.org:8080/wael2021/123456/102121
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Logo_SRF_zwei.svg/1920px-Logo_SRF_zwei.svg.png" group-title="SWITZERLAND",SRF zwei
-http://185.205.201.101:8018/play/a04e
+http://stariptv.org:8080/wael2021/123456/102122
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/8/8a/CTS_Logo.png" group-title="TAIWAN",CTS 華視
 rtmp://59.124.75.157/sat/tv111
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/2/22/CTV_text.png" group-title="TAIWAN",CTV 中視
