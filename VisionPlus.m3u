@@ -367,6 +367,16 @@ http://rr1.dens.tv/h/h15/index.m3u8
 https://liveanevia.mncnow.id/live/eds/FMN/sa_dash_vmx/FMN.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/71d2wEk.png" group-title="GENERAL ENTERTAINMENT",Paramount Network
 https://cubmu.superzap.xyz:8279/paramount/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JOCjq3R.png" group-title="INDIAN ENTERTAINMENT",Comedy Central
+https://m3u-editor.com/serve/50328070-93a4-11ec-bfe1-bfe07fb9faf4/505524999
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oe4Woe7.png" group-title="INDIAN ENTERTAINMENT",Star World
+http://221.120.204.4/star-world-LOCKLE/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JqTLBSh.png" group-title="INDIAN ENTERTAINMENT",Star World Premiere
+https://m3u-editor.com/serve/50328070-93a4-11ec-bfe1-bfe07fb9faf4/505525020
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kBiWPbB.png" group-title="INDIAN ENTERTAINMENT",Colors Infinity
+http://221.120.204.4/COLOURS-INFINITY-LOCKLE/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4MFI2y8.png" group-title="INDIAN ENTERTAINMENT",Zee Café
+https://m3u-editor.com/serve/50328070-93a4-11ec-bfe1-bfe07fb9faf4/505525028
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1cVjCTw.png" group-title="WORLD ENTERTAINMENT",TV5 Monde
@@ -421,10 +431,6 @@ https://shls-lbci-prod-dub.shahid.net/out/v1/d8cce30036e743318a7f338539689968/in
 http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/194672
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ro/thumb/d/d9/TVRiLogo.svg/1920px-TVRiLogo.svg.png" group-title="ROMANIAN ENTERTAINMENT",TVRi
 https://mn-nl.mncdn.com/tvri_test/smil:tvri_test.smil/chunklist_b1120000.m3u8 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/oe4Woe7.png" group-title="WORLD ENTERTAINMENT",Star World
-http://221.120.204.4/star-world-LOCKLE/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/kBiWPbB.png" group-title="WORLD ENTERTAINMENT",Colors Infinity
-http://221.120.204.4/COLOURS-INFINITY-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LD6hu1J.png" group-title="TURKISH ENTERTAINMENT",ATV Avrupa
 http://93.157.62.180/ATVTurk/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OSEdWCp.png" group-title="TURKISH ENTERTAINMENT",Kanal 7 Avrupa
@@ -530,6 +536,8 @@ http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/musicindia/musicindia.isml/.m3u8
 http://144.217.70.181:9587/hin2/MTVINDIA/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JcYIz4J.png" group-title="INDIAN MUSIC",MTV Beats
 http://144.217.70.181:9587/hin2/MTVBEATSHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QwS3Qmx.png" group-title="INDIAN MUSIC",VH1
+https://m3u-editor.com/serve/50328070-93a4-11ec-bfe1-bfe07fb9faf4/505525026
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/5/55/Kral_TV_logosu.png" group-title="TURKISH MUSIC",Kral
 https://dogus-live.daioncdn.net/kraltv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Fru1lVT.png" group-title="TURKISH MUSIC",Kral Pop
@@ -616,11 +624,11 @@ https://liveanevia.mncnow.id/live/eds/Galaxy-HD/sa_dash_vmx/Galaxy-HD.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oH8wyqR.png" group-title="MOVIES",Galaxy Premium
 https://liveanevia.mncnow.id/live/eds/GalaxyPremium-HD/sa_dash_vmx/GalaxyPremium-HD.mpd
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/12/%26flix_logo.png" group-title="MOVIES",&flix
-https://bit.ly/Fl_hd
+https://m3u-editor.com/serve/50328070-93a4-11ec-bfe1-bfe07fb9faf4/505524891
 #EXTINF:-1 tvg-logo="https://i.imgur.com/h9W2I7O.png" group-title="MOVIES",&privé
-http://103.153.39.36:8000/play/a01d
+https://m3u-editor.com/serve/50328070-93a4-11ec-bfe1-bfe07fb9faf4/505524994
 #EXTINF: -1 tvg-logo="https://i.imgur.com/4DyH9pK.png" group-title="MOVIES",Star Movies Select
-http://103.153.39.36:8000/play/a00w
+https://m3u-editor.com/serve/50328070-93a4-11ec-bfe1-bfe07fb9faf4/505525018
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5f/Sony_PIX.png" group-title="MOVIES", Sony Pix
 http://live.flixhub.net/hls/sonypixhd.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iyK0G1Q.png" group-title="MOVIES",UTV Action
@@ -649,13 +657,13 @@ https://liveanevia.mncnow.id/live/eds/ZeeBIOSKOP/sa_dash_vmx/ZeeBIOSKOP.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OmibwXx.png" group-title="HINDI MOVIES",Zee Action
 http://208.115.215.42/ZEE_ActIon_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NXCjJ9n.png" group-title="HINDI MOVIES",Zee Anmol Cinema
-http://jooli.in1.bitmana.io/JioTV/autoq.php?c=Zee_Anmol_Cinema&q=1200&e=play.m3u8
+https://m3u-editor.com/serve/50328070-93a4-11ec-bfe1-bfe07fb9faf4/505524880
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1KY7rjF.png" group-title="HINDI MOVIES",Zee Bollywood
 http://208.115.215.42:80/ZEE_Bollywood_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HuJrZgT.png" group-title="HINDI MOVIES",&pictures
 http://live.flixhub.net/hls/andpictures.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9NoTykg.png" group-title="HINDI MOVIES",&xplor
-http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/196116
+https://m3u-editor.com/serve/50328070-93a4-11ec-bfe1-bfe07fb9faf4/505524953
 #EXTINF:-1 tvg-logo="https://i.imgur.com/If0036I.png" group-title="MOVIES",MyCinema
 http://rr.dens.tv/h/h90/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fD8G2Ug.png" group-title="ASIAN MOVIES",Boo
@@ -1250,7 +1258,7 @@ http://red.ipfox.org:8080/1234/12345678/2663
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zcaYBfX.png" group-title="BRASILIAN NEWS",CNN Brasil
 https://bit.ly/cnnBrasil?/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0XayB3p.png" group-title="INDIAN NEWS",CNN-News18
-http://jooli.in1.bitmana.io/JioTV/autoq.php?c=CNN_NEWS_18&q=1200&e=play.m3u8
+https://m3u-editor.com/serve/50328070-93a4-11ec-bfe1-bfe07fb9faf4/505525032
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZLpwHsZ.png" group-title="CZECH NEWS",CNN Prima News
 http://103.194.169.171:8282/CZ_PRIMA_NEWS_HD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8XIrrMN.png" group-title="ALBANIAN NEWS",A2 CNN
@@ -1723,7 +1731,7 @@ https://live-indiatvnews.akamaized.net/indiatv-origin/liveabr/indiatv-origin/liv
 #EXTINF:-1 tvg-logo="https://i.imgur.com/13hqQkh.png" group-title="HINDI NEWS",NDTV India
 https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/ndtvindiamaster.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/News_nation_logo.jpg" group-title="HINDI NEWS",News Nation
-http://jooli.in1.bitmana.io/JioTV/autoq.php?c=News_Nation&q=1200&e=play.m3u8
+https://m3u-editor.com/serve/50328070-93a4-11ec-bfe1-bfe07fb9faf4/505524866
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1Oze9HT.png" group-title="HINDI NEWS",News18 India
 https://news18india-lh.akamaihd.net/i/news18india_1@174951/index_5_av-p.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/News24_Logo.jpg" group-title="HINDI NEWS",News24
@@ -1735,7 +1743,7 @@ https://pubads.g.doubleclick.net/ssai/event/nRWQsGoJSzmcErJFgAy67g/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aUfDyOT.png" group-title="HINDI NEWS",TV9 Bharatvarsh
 https://vidcdn.vidgyor.com/tv9bharatvarsh-origin/live/tv9bharatvarsh-origin/live1/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zwN5Oz0.png" group-title="HINDI NEWS",Zee Hindustan
-http://jooli.in1.bitmana.io/JioTV/autoq.php?c=Zee_SANGAM&q=1200&e=play.m3u8
+https://m3u-editor.com/serve/50328070-93a4-11ec-bfe1-bfe07fb9faf4/505524881
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ebqagsj.png" group-title="HINDI NEWS",Zee News
 https://d233nwklwv8p4.cloudfront.net/out/v1/860cb318d23a4c64b58c9d625281170c/index_3.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1786,7 +1794,7 @@ http://etnowweblive-lh.akamaihd.net/i/ETN_1@348070/index_576_av-b.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/59kbGww.jpg" group-title="BUSINESS NEWS",ET Now Swadesh
 https://pubads.g.doubleclick.net/ssai/event/Pj6A7e21SN64xv6g4sssCA/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/i1qQWS1.png" group-title="BUSINESS NEWS",Zee Business
-http://jooli.in1.bitmana.io/JioTV/autoq.php?c=Zee_Business&q=1200&e=play.m3u8
+https://m3u-editor.com/serve/50328070-93a4-11ec-bfe1-bfe07fb9faf4/505524948
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OmXBZG5.png" tvg-country="RU" group-title="BUSINESS NEWS",РБК
 http://online.video.rbc.ru/online/rbctv_480p/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/6/62/Logo_Business_2020.png" group-title="BUSINESS NEWS",BFM Business
@@ -2653,6 +2661,8 @@ http://live.flixhub.net/hls/sonyten3.m3u8
 http://jooli.in1.bitmana.io/JioTV/autoq.php?c=Ten_4_HD_Tamil&q=1200&e=play.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/l7gSBMN.png" group-title="INDIAN SPORTS",Star Sports 1
 http://live.flixhub.net/hls/stersports1hd.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CRSIXeO.png" group-title="INDIAN SPORTS",Star Sports 1 Hindi
+https://m3u-editor.com/serve/50328070-93a4-11ec-bfe1-bfe07fb9faf4/505524981
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Bdjk5RJ.png" group-title="INDIAN SPORTS",Star Sports 2
 http://live.flixhub.net/hls/starsports2.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QoBYskI.png" group-title="INDIAN SPORTS",Star Sports 3
@@ -3170,7 +3180,7 @@ https://tv5styleen-i.akamaihd.net/hls/live/631650/tv5styleen/tv5style_eng_1200.m
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hR8zIIs.png" group-title="LIFESTYLE",Destination America
 http://mlsh1.com:2086/malcolm1/malcolm/6732
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WPHqjLK.png" group-title="LIFESTYLE",TravelXP
-http://live.flixhub.net/hls/travelxp.m3u8
+https://m3u-editor.com/serve/50328070-93a4-11ec-bfe1-bfe07fb9faf4/505525025
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/2018_Travel_Channel_logo.svg/1920px-2018_Travel_Channel_logo.svg.png" group-title="LIFESTYLE",Travel Channel
 http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/144881
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/93.0.4577.82 Safari/537.36
