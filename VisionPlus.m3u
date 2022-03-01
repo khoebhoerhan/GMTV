@@ -976,7 +976,7 @@ http://edge02-fdo-py.cvattv.com.ar/live/c4eds/Universal_Channel_HD/SA_SAGEMCOM/U
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png" group-title="LATINO SERIES",Warner TV
 http://edge02-fdo-py.cvattv.com.ar/live/c4eds/WarnerHD/SA_SAGEMCOM/WarnerHD.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/9/95/Canal%2B_S%C3%A9ries.svg/langfr-1920px-Canal%2B_S%C3%A9ries.svg.png" group-title="FRENCH SERIES",Canal+ Series
-http://smartestv.vip:2095/ABHVYOP/2387998104/7747
+http://red.ipfox.org:8080/1234/12345678/2423
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/69/TF1_S%C3%A9ries_Films.svg/1920px-TF1_S%C3%A9ries_Films.svg.png" group-title="FRENCH SERIES",TF1 Séries Films
 #EXTVLCOPT:network-caching=1000
 http://stariptv.org:8080/wael2021/123456/56329
@@ -3287,9 +3287,9 @@ http://red.ipfox.org:8080/1234/12345678/26023
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Nvme1rf.png" group-title="UK",BBC Alba
 http://194.76.186.39:8000/play/a016
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oGzLsiq.png" group-title="UK",BBC One
-http://185.205.201.101:8011/play/a03w
+http://smartestv.vip:2095/ABHVYOP/2387998104/625
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iMfng6J.png" group-title="UK",BBC Two
-http://185.205.201.101:8011/play/a03x
+http://smartestv.vip:2095/ABHVYOP/2387998104/624
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gcpSDKf.png" group-title="UK",BBC Three
 http://194.76.186.39:8000/play/a05p
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nywptTp.png" group-title="UK",BBC Four
@@ -3303,7 +3303,7 @@ http://smartestv.vip:2095/ABHVYOP/2387998104/30224
 #EXTINF:-1 tvg-logo="https://i.imgur.com/r0sl8tu.png" group-title="UK",Channel 4
 http://185.205.201.101:8013/play/a03k
 #EXTINF:-1 tvg-logo="https://i.imgur.com/itZR2eq.png" group-title="UK",Channel 5
-http://185.205.201.101:8013/play/a03q
+http://smartestv.vip:2095/ABHVYOP/2387998104/618
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wRVi7bz.png" group-title="UK",Dave
 http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/733
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yny6n9T.png" group-title="UK",E4
@@ -3313,7 +3313,7 @@ http://45.153.35.210:8000/play/UK_great_tv_sd/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IZ5MINa.png" group-title="UK",More4
 http://red.ipfox.org:8080/1234/12345678/26012
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/ITV_logo_2019.svg/1200px-ITV_logo_2019.svg.png" group-title="UK",ITV
-http://185.205.201.101:8013/play/a03f
+http://smartestv.vip:2095/ABHVYOP/2387998104/659
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/35/ITV2_logo_2015.svg/1920px-ITV2_logo_2015.svg.png" group-title="UK",ITV2
 http://ott.riotelecomm.es:4513/m3u8/ITV2FIBRA.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f6/ITV3_logo_2013.svg/1920px-ITV3_logo_2013.svg.png" group-title="UK",ITV3
@@ -3624,13 +3624,13 @@ http://stariptv.org:8080/wael2021/123456/56236
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/CStar_vector.svg/1920px-CStar_vector.svg.png" group-title="FRANCE",CStar
 http://callofliberty.fr/stream/CSTAR/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nU3uBzG.png" group-title="FRANCE",France 2
-http://smartestv.vip:2095/ABHVYOP/2387998104/842
+http://red.ipfox.org:8080/1234/12345678/2394
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MDwoxj5.png" group-title="FRANCE",France 3
-http://smartestv.vip:2095/ABHVYOP/2387998104/843
+http://red.ipfox.org:8080/1234/12345678/2393
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5TrhpoO.png" group-title="FRANCE",France 4
-http://smartestv.vip:2095/ABHVYOP/2387998104/844
+http://red.ipfox.org:8080/1234/12345678/2392
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RIZfLwR.png" group-title="FRANCE",France 5
-http://smartestv.vip:2095/ABHVYOP/2387998104/845
+http://red.ipfox.org:8080/1234/12345678/2391
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/4/43/18._Gulli.png/1024px-18._Gulli.png" group-title="FRANCE",Gulli
@@ -3644,14 +3644,14 @@ http://red.ipfox.org:8080/1234/12345678/2362
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/c/cd/PlanetePlus_2011.svg/langfr-1280px-PlanetePlus_2011.svg.png" group-title="FRANCE",Planète+
 http://red.ipfox.org:8080/1234/12345678/2360
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dc/TF1_logo_2013.png" group-title="FRANCE",TF1
-http://smartestv.vip:2095/ABHVYOP/2387998104/887
+http://red.ipfox.org:8080/1234/12345678/2341
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TFX_logo.svg/1920px-TFX_logo.svg.png" group-title="FRANCE",TFX
 #EXTVLCOPT:network-caching=1000
 http://stariptv.org:8080/wael2021/123456/56330
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/54/TMC_logo.svg/1920px-TMC_logo.svg.png" group-title="FRANCE",TMC
 http://stream.suboroiptv.tv/TMC/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a7/W9_logo_2018.png" group-title="FRANCE",W9
-http://smartestv.vip:2095/ABHVYOP/2387998104/894
+http://red.ipfox.org:8080/1234/12345678/2330
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ujQVb6l.png" group-title="GERMANY",Das Erste
