@@ -309,7 +309,7 @@ https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(20baf7aa-fd51-4
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ibh5oCE.png" group-title="NATIONAL ENTERTAINMENT", Citra Entertainment
-http://tvn.x10.bz/vidio/master-11.m3u8
+http://tvn.x10.bz/xchannel/master-11.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cyIsVd7.png" group-title="NATIONAL ENTERTAINMENT",Astro Aura
 http://wanicelife.com:8880/live/SWFAF1221601/5PT5WX5J/71145.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/12/Astro_Rania_NEW.png" group-title="NATIONAL ENTERTAINMENT",Astro Rania
@@ -594,7 +594,7 @@ https://cubmu.superzap.xyz:8279/bioskop/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lN20Oy7.png" group-title="NATIONAL MOVIES",Citra Bioskop
-http://tvn.x10.bz/vidio/master-1.m3u8
+http://tvn.x10.bz/xchannel/master-1.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/khhBdiS.png" group-title="NATIONAL MOVIES",Flik
 https://nonton.site:8443/Thopani/Haidir/29592
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -895,6 +895,28 @@ http://red.ipfox.org:8080/1234/12345678/2812
 http://red.ipfox.org:8080/1234/12345678/2814
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Pz4tT1J.png" group-title="TURKISH MOVIES",beIN Movies Turk
 http://red.ipfox.org:8080/1234/12345678/2816
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ENmbM5D.png" group-title="TURKISH MOVIES",Sinema TV
+http://tony.unimaster.in:80/emreturhan/emreturhan1/163
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EvJhxSl.png" group-title="TURKISH MOVIES",Sinema 2
+http://tony.unimaster.in:80/emreturhan/emreturhan1/103139
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nZIVFRR.png" group-title="TURKISH MOVIES",Sinema Komedi
+http://tony.unimaster.in:80/emreturhan/emreturhan1/168
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rzzO1we.png" group-title="TURKISH MOVIES",Sinema Komedi 2
+http://tony.unimaster.in:80/emreturhan/emreturhan1/103143
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7ilCvCc.png" group-title="TURKISH MOVIES",Sinema Aksiyon
+http://tony.unimaster.in:80/emreturhan/emreturhan1/167
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WuPkdu8.png" group-title="TURKISH MOVIES",Sinema Aksiyon 2
+http://tony.unimaster.in:80/emreturhan/emreturhan1/103142
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cgwkfec.png" group-title="TURKISH MOVIES",Sinema Aile
+http://tony.unimaster.in:80/emreturhan/emreturhan1/166
+#EXTINF:-1 tvg-logo="https://i.imgur.com/H30hgti.png" group-title="TURKISH MOVIES",Sinema Aile 2
+http://tony.unimaster.in:80/emreturhan/emreturhan1/103141
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ssfMuk8.png" group-title="TURKISH MOVIES",Sinema Yerli
+http://tony.unimaster.in:80/emreturhan/emreturhan1/165
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TlY6RFs.png" group-title="TURKISH MOVIES",Sinema 1001
+http://tony.unimaster.in:80/emreturhan/emreturhan1/164
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9CHETP9.png" group-title="TURKISH MOVIES",Sinema 1002
+http://tony.unimaster.in:80/emreturhan/emreturhan1/103140
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6q4NsOf.png" group-title="SWITZERLAND MOVIES",Blue Action
 http://103.194.169.171:8282/SW:TC_ACTION_HD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KtGJWcB.png" group-title="SWITZERLAND MOVIES",Blue Prime
@@ -1037,11 +1059,11 @@ https://shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b14c0a694af
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6eS18Ia.png" group-title="TURKISH SERIES",beIN Series Comedy
 http://red.ipfox.org:8080/1234/12345678/2811
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZAG6SGt.png" group-title="TURKISH SERIES",beIN Series Drama
-http://electrotv.us:80/RJj5aW2hRz/tcB8437uwT/221185.ts
+http://tony.unimaster.in:80/emreturhan/emreturhan1/103134
 #EXTINF:-1 tvg-logo="https://i.imgur.com/P0V4iHP.png" group-title="TURKISH SERIES",beIN Series Sci-fi
-http://vip.turksmart.org:15000/seko/seko/3747
+http://tony.unimaster.in:80/emreturhan/emreturhan1/220
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6an6Mpd.png" group-title="TURKISH SERIES",beIN Series Vice
-http://vip.turksmart.org:15000/seko/seko/17303
+http://tony.unimaster.in:80/emreturhan/emreturhan1/219
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dIoU3FG.png" group-title="GERMAN SERIES",A&E
 http://live.oldtvline.com:23000/mafrale3-150317/FiiH8aP54u/35214
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JOCjq3R.png" group-title="GERMAN SERIES",Comedy Central
@@ -1873,22 +1895,22 @@ https://liveanevia.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ffWoTF9.png" group-title="NATIONAL SPORTS",Champions TV 1
-http://tvn.x10.bz/vidio/master-6.m3u8
+http://tvn.x10.bz/xchannel/master-6.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/r2aPCX8.png" group-title="NATIONAL SPORTS",Champions TV 2
-http://tvn.x10.bz/vidio/master-7.m3u8
+http://tvn.x10.bz/xchannel/master-7.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/26Jar5R.png" group-title="NATIONAL SPORTS",Champions TV 3
-http://tvn.x10.bz/vidio/master-8.m3u8
+http://tvn.x10.bz/xchannel/master-8.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4J586mw.png" group-title="NATIONAL SPORTS",Champions TV 4
-http://tvn.x10.bz/vidio/master-17.m3u8
+http://tvn.x10.bz/xchannel/master-17.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pmTtL3g.png" group-title="NATIONAL SPORTS",Mola 1
 http://103.226.232.199:8888/live/kamiselaluada/untuksemua/402.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pmTtL3g.png" group-title="NATIONAL SPORTS",Mola 2
@@ -2729,6 +2751,8 @@ https://trkvz-live.daioncdn.net/aspor/aspor_1080p.m3u8
 http://red.ipfox.org:8080/1234/12345678/2770
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lTnKDju.png" group-title="TURKISH SPORTS",Eurosport 2
 http://red.ipfox.org:8080/1234/12345678/2772
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/800px-NBA_TV.svg.png" group-title="TURKISH SPORTS",NBA TV
+http://tony.unimaster.in:80/emreturhan/emreturhan1/67
 #EXTINF:-1 tvg-logo="https://i.imgur.com/57JkDml.png" group-title="TURKISH SPORTS",S Sport
 http://tony.unimaster.in:80/emreturhan/emreturhan1/68
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UnaxGa6.png" group-title="TURKISH SPORTS",S Sport 2
@@ -2738,13 +2762,13 @@ https://lives2.canlitv.center/tivibus.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QxrbzI6.png" group-title="TURKISH SPORTS",Tivibu Spor 2
 http://red.ipfox.org:8080/1234/12345678/2820
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QxrbzI6.png" group-title="TURKISH SPORTS",Tivibu Spor 3
-http://vip.turksmart.org:15000/seko/seko/2749
+http://tony.unimaster.in:80/emreturhan/emreturhan1/73
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QxrbzI6.png" group-title="TURKISH SPORTS",Tivibu Spor 4
-http://vip.turksmart.org:15000/seko/seko/16567
+http://tony.unimaster.in:80/emreturhan/emreturhan1/96999
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0Nu5hMy.png" group-title="TURKISH SPORTS",TRT Spor
-http://82.194.1.4:8001/play/E42_11054V_SID10603/index.m3u8
+http://tony.unimaster.in:80/emreturhan/emreturhan1/63
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Sfu3Y7S.png" group-title="TURKISH SPORTS",TRT Spor Yıldız
-http://82.194.1.4:8001/play/42E_11958V_SID10525/index.m3u8
+http://tony.unimaster.in:80/emreturhan/emreturhan1/40618
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8A0aYWf.png" group-title="SERBIAN SPORTS",Arena 1 Premium
 http://5.206.237.66:9000/play/a06z
 #EXTINF:-1 tvg-logo="https://i.imgur.com/S4EVsjl.png" group-title="SERBIAN SPORTS",Arena 2 Premium
@@ -2758,11 +2782,11 @@ http://iptvpick.live:900/6046606740/0889325748/400269255
 #EXTINF:-1 tvg-logo="https://i.imgur.com/50ZGo5V.png" group-title="SERBIAN SPORTS",Arena Sport 1
 http://red.ipfox.org:8080/1234/12345678/26368
 #EXTINF:-1 tvg-logo="https://i.imgur.com/V72XapO.png" group-title="SERBIAN SPORTS",Arena Sport 2
-http://84.22.33.214/ArenaSport2/index.m3u8
+http://red.ipfox.org:8080/1234/12345678/26367
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Yw1kdh5.png" group-title="SERBIAN SPORTS",Arena Sport 3
-http://server.sibfungold.info:8080/gaicu84/iVMawDNfwV@/47846
+http://red.ipfox.org:8080/1234/12345678/26366
 #EXTINF:-1 tvg-logo="https://i.imgur.com/a3Rma7Z.png" group-title="SERBIAN SPORTS",Arena Sport 4
-http://server.sibfungold.info:8080/gaicu84/iVMawDNfwV@/47845
+http://red.ipfox.org:8080/1234/12345678/26365
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oYXOq46.png" group-title="SERBIAN SPORTS",Arena Sport 5
 http://red.ipfox.org:8080/1234/12345678/26364
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gwV31E0.png" group-title="SERBIAN SPORTS",Eurosport 1
