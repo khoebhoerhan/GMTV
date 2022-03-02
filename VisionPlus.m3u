@@ -117,6 +117,8 @@ https://edge.medcom.id/live-edge/smil:mgradio.smil/chunklist_w1042457750_b192000
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/2/20/TvOne_logo_2012.svg/1280px-TvOne_logo_2012.svg.png" group-title="NATIONAL NEWS",tvOne
 https://liveanevia.mncnow.id/live/eds/TVOne/sa_dash_vmx/TVOne.mpd
+#EXTINF:-1 tvg-logo="https://i.imgur.com/I6uzeS6.png" group-title="LOKAL",Agropolitan TV
+http://45.80.181.150:8080/hls/agropolitantv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PgOce2p.png" group-title="LOKAL",Arek TV
 http://wowza58.indostreamserver.com:1935/arektv/live/chunklist_w256507641.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -196,7 +198,7 @@ http://122.248.43.138:1935/ch8/myStream/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/R8eg7kU.png" group-title="LOKAL",Pal TV
 https://v3.siar.us/paltv/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/leO6MG8.png" group-title="LOKAL",PKTV
-rtmp://wowza60.indostreamserver.com:1935/pktv/live
+https://wowza60.indostreamserver.com:1935/pktv/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xxCOG3o.png" group-title="LOKAL",Pon TV
 https://v3.siar.us/pontianaktelevisi/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1rRqAqG.png" group-title="LOKAL",Prima TV
@@ -1805,7 +1807,7 @@ https://d19vc4shchm9pr.cloudfront.net/out/v1/a67ad47be66f4c3ea4a14c8f22984fa7/in
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KxxvR2X.png" group-title="BUSINESS NEWS",CNBC
 https://liveanevia.mncnow.id/live/eds/CNBC/sa_dash_vmx/CNBC.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HlXhqyY.png" group-title="BUSINESS NEWS",CNBC World
-http://mlsh1.com:2086/malcolm1/malcolm/6725
+http://59.125.101.187:8550/http/116.50.42.19:8078/hls/24/80/cnbc90.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KxxvR2X.png" group-title="BUSINESS NEWS",CNBC USA
 http://stariptv.org:8080/wael2021/123456/148457
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4XhULAV.png" group-title="BUSINESS NEWS",CNBC Arabiya
@@ -1837,8 +1839,10 @@ http://etnowweblive-lh.akamaihd.net/i/ETN_1@348070/index_576_av-b.m3u8
 https://pubads.g.doubleclick.net/ssai/event/Pj6A7e21SN64xv6g4sssCA/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/i1qQWS1.png" group-title="BUSINESS NEWS",Zee Business
 https://d8gy12azhr71i.cloudfront.net/out/v1/45be109c5b4f44319e882da947377364/index_5.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/OmXBZG5.png" tvg-country="RU" group-title="BUSINESS NEWS",РБК
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OmXBZG5.png" group-title="BUSINESS NEWS",РБК
 http://online.video.rbc.ru/online/rbctv_480p/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vaixQ9J.png" group-title="BUSINESS NEWS",SBS Biz
+http://ye23.win/iptv/sbs5.1.php?id=S06
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/6/62/Logo_Business_2020.png" group-title="BUSINESS NEWS",BFM Business
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_BUSINESS/index.m3u8?start=LIVE&end=END
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -3135,6 +3139,8 @@ http://50.7.74.29:8880/hlsok/j00005/index.m3u8
 http://50.7.74.29:8880/hlsok/j00020/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/SBS_Golf_logo_2018.svg/1920px-SBS_Golf_logo_2018.svg.png" group-title="KOREAN SPORTS",SBS Golf
 http://140.238.1.21:9876/stream/channelid/992782569?profile=pass
+#EXTINF:-1 tvg-logo="https://i.imgur.com/R5gsdt5.png" group-title="KOREAN SPORTS",SBS Sports
+http://ye23.win/iptv/sbs5.1.php?id=S02
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Bj0MyZQ.png" group-title="KOREAN SPORTS",SPOTV
 http://211.203.0.244:9981/stream/channelid/32768418.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WbPfNOb.png" group-title="KOREAN SPORTS",SPOTV 2
@@ -3850,6 +3856,8 @@ http://50.7.74.29:8880/hlsok/j00051/index.m3u8
 http://50.7.74.29:8880/hls/j00050/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MmTbzAf.png" group-title="JAPAN",BS Fuji
 http://50.7.74.29:8880/hlsok/j00049/index.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/KaJNjF1.png" group-title="KOREA",Channel A
+http://ye23.win/iptv/korea2021.php?id=Channela
 #EXTINF:0 tvg-logo="https://i.imgur.com/mGIO50z.png" group-title="KOREA",JTBC
 https://kotabawah.my.id/kor/jtbc.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/r9gNY5R.png" group-title="KOREA",MBC
@@ -3860,6 +3868,10 @@ http://itskoi.dothome.co.kr/kbs.php?id=11
 http://itskoi.dothome.co.kr/kbs.php?id=12
 #EXTINF:0 tvg-logo="https://i.imgur.com/BzqSUVF.png" group-title="KOREA",SBS
 http://itskoi.dothome.co.kr/sbs.php?id=S01
+#EXTINF:0 tvg-logo="https://i.imgur.com/n2JajGK.png" group-title="KOREA",SBS FunE
+http://ye23.win/iptv/sbs5.1.php?id=S04
+#EXTINF:0 tvg-logo="https://i.imgur.com/tzTx3Ta.png" group-title="KOREA",SBS Plus
+http://ye23.win/iptv/sbs5.1.php?id=S03
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ho02Nl2.png" group-title="KOREA",MNet
 https://mnet-seezn.pip.cjenm.com/mnet/_definst_/s5/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2MjI3MzQ4OTIsInBhdGgiOiIvbW5ldC9fZGVmaW5zdF8vczUiLCJ1bm8iOiIxNjIyNzM0NTkyMjg5MTg3ODYiLCJpYXQiOjE2MjI3MzQ1OTJ9.Qy-cUxDm2zSdJFdFLYV_k6HB9wN_MPGm6ntVtOJASbY
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Logo_tvN.svg/1920px-Logo_tvN.svg.png" group-title="KOREA",tvN
