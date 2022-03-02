@@ -311,9 +311,9 @@ https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(20baf7aa-fd51-4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ibh5oCE.png" group-title="NATIONAL ENTERTAINMENT", Citra Entertainment
 http://tvn.x10.bz/xchannel/master-11.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cyIsVd7.png" group-title="NATIONAL ENTERTAINMENT",Astro Aura
-http://wanicelife.com:8880/live/SWFAF1221601/5PT5WX5J/71145.ts
+https://nonton.site:8443/Thopani/Haidir/37468
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/12/Astro_Rania_NEW.png" group-title="NATIONAL ENTERTAINMENT",Astro Rania
-http://wanicelife.com:8880/live/SWFAF1221601/5PT5WX5J/71144.ts
+https://nonton.site:8443/Thopani/Haidir/37467
 #EXTINF:-1 tvg-logo="https://i.imgur.com/X5WC3X1.png" group-title="NATIONAL ENTERTAINMENT",El John TV
 https://5fa0680b8b7b9.streamlock.net/eljohntvlive/eljohntvlive_360p/chunklist_w1865740852.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -350,7 +350,7 @@ http://rr.dens.tv/h/h19/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QYR53ti.png" group-title="KOREAN ENTERTAINMENT",K+
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(6278b166-9632-42c3-b6e9-226edc1d3da6)/manifest.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/V2SeoXb.png" group-title="KOREAN ENTERTAINMENT",Oh!K
-http://wanicelife.com:8880/live/SWFAF1221601/5PT5WX5J/71054.m3u8
+https://nonton.site:8443/Thopani/Haidir/37371
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/1920px-Logo_Lifetime_2020.svg.png" group-title="GENERAL ENTERTAINMENT",Lifetime
@@ -499,6 +499,8 @@ https://sc.id-tv.kz/RenTV_34_35.m3u8
 http://91.226.51.126:8000/udp/239.100.10.12:2234
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/EURO_LOGO_FINALE.png/1920px-EURO_LOGO_FINALE.png" group-title="WORLD ENTERTAINMENT",Eurochannel
 http://84.22.33.214/EuroChannel/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/V4w3rhD.png" group-title="WORLD ENTERTAINMENT",PRIMEtime
+https://nonton.site:8443/Thopani/Haidir/37458
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/VTV4_logo_2013_final.svg/1200px-VTV4_logo_2013_final.svg.png" group-title="WORLD ENTERTAINMENT",VTV 4
 https://vips-livecdn.fptplay.net/hda1/vtv4_vhls.smil/chunklist_b5000000.m3u8
@@ -525,7 +527,7 @@ https://cubmu.superzap.xyz:8279/musikindo/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cC3qQ1H.png" group-title="NATIONAL MUSIC",T-Music
 https://cubmu.superzap.xyz:8279/tmusic/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XD4fyZS.png" group-title="NATIONAL MUSIC",Prambors
-http://go.delivery.on-site.se.ke/iduntv/usitipi/FTA-USEE/chunklist.m3u8?id=pramborstv&bandwidth=default&sync=0
+https://nonton.site:8443/Thopani/Haidir/1157
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PPJLB5Z.png" group-title="NATIONAL MUSIC",i-Konser
 https://nonton.site:8443/live/Thopani/Haidir/29594.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xwMqKA4.png" group-title="INDIAN MUSIC",9XM
@@ -551,7 +553,7 @@ https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/b/b5/Power_TV_logosu.png" group-title="TURKISH MUSIC",Power TV
 https://livetv.powerapp.com.tr/powerTV/powerhd.smil/playlists.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/X7VxlBN.png" group-title="WORLD MUSIC",MTV
-http://wanicelife.com:8880/live/SWFAF1221601/5PT5WX5J/71099.m3u8
+https://nonton.site:8443/Thopani/Haidir/37460
 #EXTINF:-1 tvg-logo="https://i.imgur.com/B9evyCe.png" group-title="WORLD MUSIC",Polsat Music
 http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/37247
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c9/M6_Music_%282012%29.png" group-title="WORLD MUSIC",M6 Music
@@ -1201,6 +1203,8 @@ https://liveanevia.mncnow.id/live/eds/Cbeebies/sa_dash_vmx/Cbeebies.mpd
 https://livecdn.fptplay.net/hda1/babyfirst_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OqXi7AW.png" group-title="KIDS",ZooMoo
 http://203.154.177.124:8899/live/ch20/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EVNoaz5.png" group-title="KIDS",Ta-daa!
+https://nonton.site:8443/Thopani/Haidir/37445
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6d/Da_Vinci_Kids_logo.svg/1920px-Da_Vinci_Kids_logo.svg.png" group-title="KIDS",Da Vinci
 https://vips-livecdn.fptplay.net/hda2/davincihd_vhls.smil/playlist.m3u8
@@ -1281,7 +1285,7 @@ http://smartiptv.ddnsco.com:8080/iptvauthority131/iptvauthority131/104976
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DFbrYzh.png" group-title="KNOWLEDGE",TechStorm
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(abe4ead2-1a88-4330-9f41-382fcf94bba2)/manifest.mpd
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/DMAX_Logo_16_05_2011.jpg" group-title="KNOWLEDGE",DMAX
-http://103.30.87.238:443/elangperkasa/1sampai7/1961
+https://nonton.site:8443/Thopani/Haidir/37417
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0AmSSFS.png" group-title="KNOWLEDGE",Astro TVIQ
 http://139.99.71.104:8888/live/blink9/l17ht18oin/37398.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mThnlFK.png" group-title="KNOWLEDGE",Smithsonian Channel
@@ -1638,7 +1642,7 @@ https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/68Qfyma.png" tvg-url="https://raw.githubusercontent.com/samleong123/rtm-live/main/rtmklik.xml" group-title="MALAY NEWS",Berita RTM
 https://rtmlive02tv.secureswiftcontent.com/rtmchannel/03-manifest.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZIsWGuK.png" group-title="MALAY NEWS",Bernama
-http://wanicelife.com:8880/live/SWFAF1221601/5PT5WX5J/1717.m3u8
+https://nonton.site:8443/Thopani/Haidir/37378
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mzfSx2B.png" group-title="MALAY NEWS",Dewan Negara
@@ -1697,7 +1701,7 @@ https://ducg38fv680xm.cloudfront.net/yeonhap_3M.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b2/%C4%8CT24_logo.png" group-title="CZECH NEWS",ČT24
 http://ptv.is:2095/t9m28tPG/j4PdbhNF/31833
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Znax94k.png" group-title="NORDIC NEWS",TV2 News
-http://smartestv.vip:2095/ABHVYOP/2387998104/6694
+http://2690.ovh:25461/0sq3gfuu/n07z4gud/47519
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QeV1sma.png" group-title="NORDIC NEWS",TV2 Nyhetskanalen
 https://ws15-hls-live.akamaized.net/out/u/1153546.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/TVP_Info_logo.svg/1920px-TVP_Info_logo.svg.png" group-title="POLISH NEWS",TVP Info
@@ -2097,45 +2101,47 @@ https://m3u-editor.com/serve/50328070-93a4-11ec-bfe1-bfe07fb9faf4/505524559
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vhYstlz.png" group-title="BRITISH SPORTS",Sky Sports Racing
 https://m3u-editor.com/serve/50328070-93a4-11ec-bfe1-bfe07fb9faf4/505524536
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gwV31E0.png" group-title="DANISH SPORTS",Eurosport 1
-http://red.ipfox.org:8080/1234/12345678/30264
+http://2690.ovh:25461/0sq3gfuu/n07z4gud/47473
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lTnKDju.png" group-title="DANISH SPORTS",Eurosport 2
-http://red.ipfox.org:8080/1234/12345678/31966
+http://2690.ovh:25461/0sq3gfuu/n07z4gud/47475
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dACJ673.png" group-title="DANISH SPORTS",TV2 Sport
-http://smartestv.vip:2095/ABHVYOP/2387998104/21836
+http://2690.ovh:25461/0sq3gfuu/n07z4gud/47498
 #EXTINF:-1 tvg-logo="https://i.imgur.com/im3pS9j.png" group-title="DANISH SPORTS",TV2 Sport X
-http://smartestv.vip:2095/ABHVYOP/2387998104/92240
+http://2690.ovh:25461/0sq3gfuu/n07z4gud/47509
 #EXTINF:-1 tvg-logo="https://i.imgur.com/loVnWCY.png" group-title="DANISH SPORTS",TV3 Sport
-http://smartestv.vip:2095/ABHVYOP/2387998104/21837
+http://2690.ovh:25461/0sq3gfuu/n07z4gud/47505
 #EXTINF:-1 tvg-logo="https://i.imgur.com/59vX06V.png" group-title="DANISH SPORTS",V Sport Golf
-http://ipflix.click:8080/0m4keke5le/r5g49bfpo/672829
+http://2690.ovh:25461/0sq3gfuu/n07z4gud/47439
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fyqMQxW.png" group-title="SWEDISH SPORTS",C More Fotboll
-http://alemip.tv:5000/UNqzaa8aIv/olo9c4Tzap/7608
+http://2690.ovh:25461/0sq3gfuu/n07z4gud/47422
 #EXTINF:-1 tvg-logo="https://i.imgur.com/503xx1w.png" group-title="SWEDISH SPORTS",C More Golf
-http://server.sibfungold.info:8080/gaicu84/iVMawDNfwV@/3671
+http://2690.ovh:25461/0sq3gfuu/n07z4gud/47424
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BWkCvWF.png" group-title="SWEDISH SPORTS",C More Hockey
-http://alemip.tv:5000/UNqzaa8aIv/olo9c4Tzap/48
+http://2690.ovh:25461/0sq3gfuu/n07z4gud/47425
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gwV31E0.png" group-title="SWEDISH SPORTS",Eurosport 1
-http://server.sibfungold.info:8080/gaicu84/iVMawDNfwV@/3660
+http://2690.ovh:25461/0sq3gfuu/n07z4gud/47433
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lTnKDju.png" group-title="SWEDISH SPORTS",Eurosport 2
-http://server.sibfungold.info:8080/gaicu84/iVMawDNfwV@/48144
+http://2690.ovh:25461/0sq3gfuu/n07z4gud/47434
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4UMZF6H.png" group-title="SWEDISH SPORTS",Fight Sports
-http://server.sibfungold.info:8080/gaicu84/iVMawDNfwV@/48139
+http://2690.ovh:25461/0sq3gfuu/n07z4gud/47437
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HzROYev.png" group-title="SWEDISH SPORTS",Sportkanalen
-http://server.sibfungold.info:8080/gaicu84/iVMawDNfwV@/3667
+http://2690.ovh:25461/0sq3gfuu/n07z4gud/47435
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gpkbvuB.png" group-title="SWEDISH SPORTS",V Sport 1
-http://server.sibfungold.info:8080/gaicu84/iVMawDNfwV@/48134
+http://2690.ovh:25461/0sq3gfuu/n07z4gud/47442
 #EXTINF:-1 tvg-logo="https://i.imgur.com/77fMvyg.png" group-title="SWEDISH SPORTS",V Sport Extra
-http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/198403
+http://2690.ovh:25461/0sq3gfuu/n07z4gud/47445
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JkItNQZ.png" group-title="SWEDISH SPORTS",V Sport Football
-http://server.sibfungold.info:8080/gaicu84/iVMawDNfwV@/48138
+http://2690.ovh:25461/0sq3gfuu/n07z4gud/47438
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tArjH2F.png" group-title="SWEDISH SPORTS",V Sport Motor
-http://server.sibfungold.info:8080/gaicu84/iVMawDNfwV@/48135
+http://2690.ovh:25461/0sq3gfuu/n07z4gud/47441
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PCnmyha.png" group-title="SWEDISH SPORTS",V Sport Premium
-http://server.sibfungold.info:8080/gaicu84/iVMawDNfwV@/48132
+http://2690.ovh:25461/0sq3gfuu/n07z4gud/47443
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cXpkGct.png" group-title="SWEDISH SPORTS",V Sport Vinter
-http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/6274
+http://2690.ovh:25461/0sq3gfuu/n07z4gud/47440
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fbJWZvS.png" group-title="NORDIC SPORTS",Eurosport Norge
+http://2690.ovh:25461/0sq3gfuu/n07z4gud/47527
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RK7Ht8c.png" group-title="NORDIC SPORTS",TV2 Sport 1
-http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/170191
+http://2690.ovh:25461/0sq3gfuu/n07z4gud/47551
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FBj93dH.png" group-title="NORDIC SPORTS",TV2 Sport 2
 http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/21125
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WRqrN9t.png" group-title="NORDIC SPORTS",TV2 Sport Premium
@@ -2683,9 +2689,9 @@ http://ky-iptv.com:80/nicholas/123456789/1391038.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FieopQP.png" group-title="MALAY SPORTS",Astro Supersport 5
 http://crystalott.org:80/CKVRKUO4L3/IRTRILUKU7/287302
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ycxjpTX.png" group-title="MALAY SPORTS",Eurosport
-http://wanicelife.com:8880/live/SWFAF1221601/5PT5WX5J/71106.m3u8
+https://nonton.site:8443/Thopani/Haidir/37434
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kfPsml5.png" group-title="MALAY SPORTS",Premier Sports
-http://wanicelife.com:8880/live/SWFAF1221601/5PT5WX5J/71108.m3u8
+https://nonton.site:8443/Thopani/Haidir/37437
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8NC0zoQ.png" tvg-url="https://raw.githubusercontent.com/samleong123/rtm-live/main/rtmklik.xml" group-title="MALAY SPORTS",TV Sukan
 https://rtmlive06tv.secureswiftcontent.com/rtmchannel/06-manifest.mpd
@@ -3234,7 +3240,7 @@ http://livestream.biznetvideo.net/biznet_lifestyle/smil:lifestyle.smil/playlist.
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9y1nKoi.png" group-title="LIFESTYLE",Asian Food Network
 https://liveanevia.mncnow.id/live/eds/AFN-HD/sa_dash_vmx/AFN-HD.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/95lMoqu.png" group-title="LIFESTYLE",Food Network
-http://wanicelife.com:8880/live/SWFAF1221601/5PT5WX5J/71091.m3u8
+https://nonton.site:8443/Thopani/Haidir/37411
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/HGTV_2010.svg/1920px-HGTV_2010.svg.png" group-title="LIFESTYLE",HGTV
@@ -3272,7 +3278,7 @@ https://m3u-editor.com/serve/50328070-93a4-11ec-bfe1-bfe07fb9faf4/505524766
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RrIVJJY.png" group-title="MALAYSIA",Astro Ria
 https://m3u-editor.com/serve/sqwdwdqddddddddddd/480037660
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FZoK4df.png" group-title="MALAYSIA",Astro Prima
-http://wanicelife.com:8880/live/SWFAF1221601/5PT5WX5J/71020.ts
+https://nonton.site:8443/Thopani/Haidir/37333
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JCn7Yd0.png" group-title="MALAYSIA",Astro Warna
 https://m3u-editor.com/serve/sqwdwdqddddddddddd/480037662
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1d/Awesome_TV_Malaysia.png" group-title="MALAYSIA",Awesome TV
@@ -3660,31 +3666,33 @@ http://62.169.180.144:8002/play/a01j
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ahso9vh.png" group-title="CZECH REPUBLIC",Prima Zoom
 http://62.169.180.144:8002/play/a01k
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/64/6%27eren_2015.png" group-title="DENMARK",6'eren
-http://red.ipfox.org:8080/1234/12345678/31970
+http://2690.ovh:25461/0sq3gfuu/n07z4gud/47454
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/Canal_9_Denmark_2015.png" group-title="DENMARK",Canal 9
-http://red.ipfox.org:8080/1234/12345678/31967
+http://2690.ovh:25461/0sq3gfuu/n07z4gud/47459
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qqwtSX9.png" group-title="DENMARK",dk4
+http://2690.ovh:25461/0sq3gfuu/n07z4gud/47462
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/DR1_2017_logo.svg/800px-DR1_2017_logo.svg.png" group-title="DENMARK",DR 1
-http://red.ipfox.org:8080/1234/12345678/31975
+http://2690.ovh:25461/0sq3gfuu/n07z4gud/47465
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/DR2_2017_logo.png" group-title="DENMARK",DR 2
-http://red.ipfox.org:8080/1234/12345678/31974
+http://2690.ovh:25461/0sq3gfuu/n07z4gud/47467
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Kanal_4_logo_Danmark.png/800px-Kanal_4_logo_Danmark.png" group-title="DENMARK",Kanal 4
-http://smartestv.vip:2095/ABHVYOP/2387998104/23462
+http://2690.ovh:25461/0sq3gfuu/n07z4gud/47477
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Kanal_5_logo_Danmark.png/800px-Kanal_5_logo_Danmark.png" group-title="DENMARK",Kanal 5
-http://smartestv.vip:2095/ABHVYOP/2387998104/4214
+http://2690.ovh:25461/0sq3gfuu/n07z4gud/47478
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TV_2_logo_2013.svg/1920px-TV_2_logo_2013.svg.png" group-title="DENMARK",TV2
-http://red.ipfox.org:8080/1234/12345678/31973
+http://2690.ovh:25461/0sq3gfuu/n07z4gud/47492
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZOBNt2P.png" group-title="DENMARK",TV2 Charlie
-http://red.ipfox.org:8080/1234/12345678/31963
+http://2690.ovh:25461/0sq3gfuu/n07z4gud/47487
 #EXTINF:-1 tvg-logo="https://i.imgur.com/20eeoQR.png" group-title="DENMARK",TV2 Fri
-http://smartestv.vip:2095/ABHVYOP/2387998104/6693
+http://2690.ovh:25461/0sq3gfuu/n07z4gud/47490
 #EXTINF:-1 tvg-logo="https://i.imgur.com/x5andrD.png" group-title="DENMARK",TV3
-http://smartestv.vip:2095/ABHVYOP/2387998104/4215
+http://2690.ovh:25461/0sq3gfuu/n07z4gud/47517
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jVjTa7O.png" group-title="DENMARK",TV3 Max
-http://red.ipfox.org:8080/1234/12345678/31956
+http://2690.ovh:25461/0sq3gfuu/n07z4gud/47503
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dXxTp2Z.png" group-title="DENMARK",TV3 Puls
-http://smartestv.vip:2095/ABHVYOP/2387998104/4216
+http://2690.ovh:25461/0sq3gfuu/n07z4gud/47504
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZvD8FmS.png" group-title="DENMARK",TV3+
-http://smartestv.vip:2095/ABHVYOP/2387998104/31791
+http://2690.ovh:25461/0sq3gfuu/n07z4gud/47503
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kmiMeLn.png" group-title="DENMARK",Zulu
 http://red.ipfox.org:8080/1234/12345678/31958
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Ecuavisa_Logo_2019.png" group-title="ECUADOR",Ecuavisa
@@ -3951,25 +3959,25 @@ http://stariptv.org:8080/wael2021/123456/67277
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f5/SBS9_New_Logo_2018.png" group-title="NETHERLANDS",SBS 9
 http://stariptv.org:8080/wael2021/123456/67278
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/NRK1-Logo.svg/1920px-NRK1-Logo.svg.png" group-title="NORWAY",NRK 1
-http://s1.showplustv.com:1997/iptvtree2021/adAXCXhWuH9Mj515sda/61538
+http://2690.ovh:25461/0sq3gfuu/n07z4gud/47534
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/NRK2-Logo.svg/1920px-NRK2-Logo.svg.png" group-title="NORWAY",NRK 2
-http://s1.showplustv.com:1997/iptvtree2021/adAXCXhWuH9Mj515sda/61540
+http://2690.ovh:25461/0sq3gfuu/n07z4gud/47535
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/NRK3_logo.svg/1920px-NRK3_logo.svg.png" group-title="NORWAY",NRK 3
-http://s1.showplustv.com:1997/iptvtree2021/adAXCXhWuH9Mj515sda/61541
+http://2690.ovh:25461/0sq3gfuu/n07z4gud/47536
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ty4siDf.png" group-title="NORWAY",TV Norge
-http://smartestv.vip:2095/ABHVYOP/2387998104/3145
+http://2690.ovh:25461/0sq3gfuu/n07z4gud/47545
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EJtOocI.png" group-title="NORWAY",TV2
-http://smartestv.vip:2095/ABHVYOP/2387998104/3141
+http://2690.ovh:25461/0sq3gfuu/n07z4gud/47547
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KsmKK4n.png" group-title="NORWAY",TV2 Livsstil
-http://vt.protoniumtv.net:1997/iptvtree2021/POAIHfsmm525adA/61549
+http://2690.ovh:25461/0sq3gfuu/n07z4gud/47546
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JLLXAC2.png" group-title="NORWAY",TV2 Zebra
-http://vt.protoniumtv.net:1997/iptvtree2021/POAIHfsmm525adA/61552
+http://2690.ovh:25461/0sq3gfuu/n07z4gud/47553
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0VQDatQ.png" group-title="NORWAY",TV3
-http://s1.showplustv.com:1997/iptvtree2021/adAXCXhWuH9Mj515sda/61536
+http://2690.ovh:25461/0sq3gfuu/n07z4gud/47557
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LXgmPuf.png" group-title="NORWAY",TV6
-http://server.sibfungold.info:8080/gaicu84/iVMawDNfwV@/51520
+http://2690.ovh:25461/0sq3gfuu/n07z4gud/47559
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5fE1wJn.png" group-title="NORWAY",V4
-http://server.sibfungold.info:8080/gaicu84/iVMawDNfwV@/51519
+http://2690.ovh:25461/0sq3gfuu/n07z4gud/47563
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/b/bf/Kapamilya_Channel_%282020-.n.v.%29.png" group-title="PHILIPPINES",Kapamilya Channel
 https://abslive.akamaized.net/hls/live/2031050/kapcha-scte/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UrDMl5Z.png" group-title="PHILIPPINES",A2Z
@@ -4138,29 +4146,29 @@ http://showflix.org:5890/Berlin/Berlin/800
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Telecinco_2012_Large.svg/800px-Telecinco_2012_Large.svg.png" group-title="SPAIN",Telecinco
 http://91.126.141.13:1935/live/61/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Jq0EpFU.png" group-title="SWEDEN",Kanal 11
-http://smartestv.vip:2095/ABHVYOP/2387998104/3364
+http://2690.ovh:25461/0sq3gfuu/n07z4gud/47373
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nbJOSEG.png" group-title="SWEDEN",Kanal 5
-http://smartestv.vip:2095/ABHVYOP/2387998104/3361
+http://2690.ovh:25461/0sq3gfuu/n07z4gud/47363
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xha7Bsa.png" group-title="SWEDEN",Kanal 9
-http://smartestv.vip:2095/ABHVYOP/2387998104/3363
+http://2690.ovh:25461/0sq3gfuu/n07z4gud/47369
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Sjuan_2018.svg/800px-Sjuan_2018.svg.png" group-title="SWEDEN",Sjuan
-http://smartestv.vip:2095/ABHVYOP/2387998104/3362
+http://2690.ovh:25461/0sq3gfuu/n07z4gud/47367
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tvkMICz.png" group-title="SWEDEN",SVT 1
-http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbJWxjsHtg1sraz_VRIPVNhznQVsPfGvPbWMmBzW5rFKn/ts
+http://2690.ovh:25461/0sq3gfuu/n07z4gud/47349
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8Z1lYco.png" group-title="SWEDEN",SVT 2
-http://smartestv.vip:2095/ABHVYOP/2387998104/1626
+http://2690.ovh:25461/0sq3gfuu/n07z4gud/47352
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hwSCtwo.png" group-title="SWEDEN",TV10
-http://smartestv.vip:2095/ABHVYOP/2387998104/3360
+http://2690.ovh:25461/0sq3gfuu/n07z4gud/47371
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JfdAf2n.png" group-title="SWEDEN",TV12
-http://smartestv.vip:2095/ABHVYOP/2387998104/3356
+http://2690.ovh:25461/0sq3gfuu/n07z4gud/47375
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZTnyphX.png" group-title="SWEDEN",TV3
-http://line.pito-tv.com:80/MguaBxyVfO/QWHrjHjAtT/3321
+http://2690.ovh:25461/0sq3gfuu/n07z4gud/47357
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/TV4sweden_logo.svg/800px-TV4sweden_logo.svg.png" group-title="SWEDEN",TV4
-http://smartestv.vip:2095/ABHVYOP/2387998104/3359
+http://2690.ovh:25461/0sq3gfuu/n07z4gud/47361
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JYVqSfO.png" group-title="SWEDEN",TV6
-http://smartestv.vip:2095/ABHVYOP/2387998104/3358
+http://2690.ovh:25461/0sq3gfuu/n07z4gud/47366
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NoV7RNj.png" group-title="SWEDEN",TV8
-http://smartestv.vip:2095/ABHVYOP/2387998104/3357
+http://2690.ovh:25461/0sq3gfuu/n07z4gud/47368
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/de/thumb/a/a0/Logo_3plus.svg/1024px-Logo_3plus.svg.png" group-title="SWITZERLAND",3+
 http://188.155.8.185:3280/play/a021/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Logo_4plus.svg/1024px-Logo_4plus.svg.png" group-title="SWITZERLAND",4+
