@@ -961,7 +961,7 @@ http://vmp343.ddnsking.com:80/pari/pari/548880
 http://vmp343.ddnsking.com:80/pari/pari/548931
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dIoU3FG.png" group-title="AMERICAN SERIES",A&E
 http://shashe.dianshiwang.vip:27000/live/1G6TqszHmbSK/44rbL95yUhPE/55994.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/74Bs8Kn.png" group-title="AMERICAN SERIES",AMC
+#EXTINF:-1 tvg-logo="https://i.imgur.com/icFwjZ3.jpg" group-title="AMERICAN SERIES",AMC
 http://stariptv.org:8080/wael2021/123456/148495
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bQPc9pg.png" group-title="AMERICAN SERIES",Bravo
 http://stariptv.org:8080/wael2021/123456/148450
@@ -1086,7 +1086,7 @@ http://live.oldtvline.com:23000/mafrale3-150317/FiiH8aP54u/39071
 http://live.oldtvline.com:23000/mafrale3-150317/FiiH8aP54u/38620
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GCK0r0U.png" group-title="SPANISH SERIES",A3S
 https://mdstrm.com/live-stream-playlist/5cae562e0ca2f30815231c0f.m3u8?access_token=DST4b676d7da5a2a92ee15f8efcbcd00606
-#EXTINF:-1 tvg-logo="https://i.imgur.com/74Bs8Kn.png" group-title="SPANISH SERIES",AMC
+#EXTINF:-1 tvg-logo="https://i.imgur.com/icFwjZ3.jpg" group-title="SPANISH SERIES",AMC
 http://red.ipfox.org:8080/1234/12345678/2580
 #EXTINF:-1 tvg-logo="https://i.imgur.com/z7mc5A0.png" group-title="SPANISH SERIES",AXN White
 http://red.ipfox.org:8080/1234/12345678/2576
@@ -1102,6 +1102,32 @@ http://red.ipfox.org:8080/1234/12345678/2528
 http://red.ipfox.org:8080/1234/12345678/2515
 #EXTINF:-1 tvg-logo="https://i.imgur.com/umJbqNY.png" group-title="SPANISH SERIES",TNT
 http://red.ipfox.org:8080/1234/12345678/2509
+#EXTINF:-1 tvg-logo="https://i.imgur.com/icFwjZ3.jpg" group-title="PORTUGUESE SERIES",AMC
+http://red.ipfox.org:8080/1234/12345678/2728
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EZQZ2Dl.png" group-title="PORTUGUESE SERIES",AXN
+http://red.ipfox.org:8080/1234/12345678/2726
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ShvOQxY.png" group-title="PORTUGUESE SERIES",AXN White
+http://red.ipfox.org:8080/1234/12345678/2725
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/FOX_wordmark-red_2.svg/1920px-FOX_wordmark-red_2.svg.png" group-title="PORTUGUESE SERIES",Fox
+http://red.ipfox.org:8080/1234/12345678/2699
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1ZR70ff.png" group-title="PORTUGUESE SERIES",Fox Comedy
+http://red.ipfox.org:8080/1234/12345678/2703
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Fox_Crime_2017.svg/1280px-Fox_Crime_2017.svg.png" group-title="PORTUGUESE SERIES",Fox Crime
+http://red.ipfox.org:8080/1234/12345678/2702
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KJt6LM9.png" group-title="PORTUGUESE SERIES",Fox Life
+http://red.ipfox.org:8080/1234/12345678/2701
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QQafZlX.png" group-title="PORTUGUESE SERIES",SIC Caras
+http://red.ipfox.org:8080/1234/12345678/2678
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZwRFjOY.png" group-title="PORTUGUESE SERIES",SIC Mulher
+http://red.ipfox.org:8080/1234/12345678/2677
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/Logosicradical.png" group-title="PORTUGUESE SERIES",SIC Radical
+http://red.ipfox.org:8080/1234/12345678/2675
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LHXa485.png" group-title="PORTUGUESE SERIES",Syfy
+http://red.ipfox.org:8080/1234/12345678/2667
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTINF:-1 tvg-logo="https://i.imgur.com/D2PFTzV.png" group-title="PORTUGUESE SERIES",TVI Ficção
+https://video-auth2.iol.pt/live_tvi_ficcao/live_tvi_ficcao/edge_servers/tvificcao-720p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/F3KgZWU.png" group-title="POLISH SERIES",Canal+ Seriale
 http://internetowa.tv/?c=hlsPlay&channel=canalplusseriale&token=213f9b5775ca164e0a38ad1b1a7c0aa4298b76520ee40054d142e05e293641aaf6902aeb6898ea114526269b9f9f93c1d87132f929b455ea493237393a7e1ab3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9.0; MI 8 SE) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.119 Mobile Safari/537.36
@@ -3981,20 +4007,10 @@ https://streaming-live.rtp.pt/liverepeater/rtpClean1HD.smil/playlist.m3u8|user-a
 https://streaming-live.rtp.pt/liverepeater/rtpClean2HD.smil/playlist.m3u8|user-agent=RTP Play/2.0.26 (Linux;Android 11) ExoPlayerLib/2.11.8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4d/Sociedade_Independente_de_Comunica%C3%A7%C3%A3o_Logo_2018.png" group-title="PORTUGAL",SIC
 https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index_4.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/04/SIC_Caras_logo.png" group-title="PORTUGAL",SIC Caras
-http://red.ipfox.org:8080/1234/12345678/2678
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZwRFjOY.png" group-title="PORTUGAL",SIC Mulher
-http://red.ipfox.org:8080/1234/12345678/2677
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/Logosicradical.png" group-title="PORTUGAL",SIC Radical
-http://red.ipfox.org:8080/1234/12345678/2675
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dHSH6qh.png" group-title="PORTUGAL",TVI
 https://video-auth7.iol.pt/live_edge/tvi_abr/edge_servers/tvi-480p/chunks.m3u8?
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTINF:-1 tvg-logo="https://i.imgur.com/D2PFTzV.png" group-title="PORTUGAL",TVI Ficção
-https://video-auth2.iol.pt/live_tvi_ficcao/live_tvi_ficcao/edge_servers/tvificcao-720p/playlist.m3u8
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PFJ5gVQ.png" group-title="PORTUGAL",TVI Reality
