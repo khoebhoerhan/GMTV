@@ -346,7 +346,7 @@ https://livecdn.fptplay.net/sdb/kbs_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/cc/One_TV_Asia_logo_%282020%29.png" group-title="KOREAN ENTERTAINMENT",One
 https://liveanevia.mncnow.id/live/eds/SetOne/sa_dash_vmx/SetOne.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bZ6k1nA.png" group-title="JAPANESE ENTERTAINMENT",Gem
-http://rr.dens.tv/h/h19/index.m3u8
+http://group1-swiftservehd-1.dens.tv/h/h19/01.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QYR53ti.png" group-title="KOREAN ENTERTAINMENT",K+
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(6278b166-9632-42c3-b6e9-226edc1d3da6)/manifest.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/V2SeoXb.png" group-title="KOREAN ENTERTAINMENT",Oh!K
@@ -360,9 +360,9 @@ https://liveanevia.mncnow.id/live/eds/Lifetime/sa_dash_vmx/Lifetime.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FvBxSZV.png" group-title="GENERAL ENTERTAINMENT",Hits
 https://liveanevia.mncnow.id/live/eds/HITS/sa_dash_vmx/HITS.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rDncFFu.png" group-title="GENERAL ENTERTAINMENT",Rock Entertainment
-http://rr1.dens.tv/h/h16/index.m3u8
+http://group2-swiftservehd-1.dens.tv/h/h16/01.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FiVtTfA.png" group-title="GENERAL ENTERTAINMENT",Rock Extreme
-http://rr1.dens.tv/h/h15/index.m3u8
+http://group2-swiftservehd-1.dens.tv/h/h15/01.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nlzcTuZ.png" group-title="GENERAL ENTERTAINMENT",FMN
