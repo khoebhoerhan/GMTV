@@ -1393,6 +1393,8 @@ https://rt-esp.gcdn.co/live/rtesp/playlist_4500Kb.m3u8
 https://rt-fra.gcdn.co/live/rtfrance/playlist_4500Kb.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/o6B1ONQ.png" group-title="GERMAN NEWS",RT DE
 https://rt-ger.gcdn.co/live/rtdeutsch/playlist_4500Kb.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/800px-Russia-today-logo.svg.png" group-title="ARABIC NEWS",RT Arabia
+https://rt-arb.gcdn.co/live/rtarab/playlist_4500Kb.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7ENpOTr.png" group-title="WORLD NEWS",Euronews
@@ -3064,7 +3066,7 @@ https://d3awnlgqz0szay.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/in
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FbFe2uu.png" group-title="BRASILIAN SPORTS",Band Sports
 http://190.15.32.30:80/19/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ed/Canal-combate-logo.png" group-title="BRASILIAN SPORTS",Combate
-http://api.magiaiptv.com/live/800196/128093/m3_kxiCuVcr9XvcEbXgX_720p_2M
+http://ccdnblck.xyz:80/toninho2022/2022toninho/784
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1920px-ESPN_wordmark.svg.png" group-title="BRASILIAN SPORTS",ESPN
 http://50.7.34.155:2200/BR/ESPN_Brasil_HD-br/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ==?md5=null
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/1280px-ESPN2_logo.svg.png" group-title="BRASILIAN SPORTS",ESPN 2
@@ -3080,11 +3082,11 @@ http://50.7.34.155:2201/BR/Fox_Sports_2_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCn
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/a2/Logo_Premiere_FC_2018.png" group-title="BRASILIAN SPORTS",Premiere
 http://api.magiaiptv.com/live/800196/128093/m3_wjMT3HlXuP425f1ZGd0Uvtxh_720p_2M
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iweh0Li.png" group-title="BRASILIAN SPORTS",SporTV
-http://api.magiaiptv.com/live/800196/128093/m1_welG1zUJ8o7XxE78c_1080p
+http://ccdnblck.xyz:80/toninho2022/2022toninho/776
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AAdoNsr.png" group-title="BRASILIAN SPORTS",SporTV 2
-http://api.magiaiptv.com/live/800196/128093/m2_ylU0WsVR9po4ChFn7J3vkMxb_1080p
+http://ccdnblck.xyz:80/toninho2022/2022toninho/777
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RcpUcYG.png" group-title="BRASILIAN SPORTS",SporTV 3
-http://api.magiaiptv.com/live/800196/128093/m1_vzd4MQvFCKUahymwGL_1080p
+http://ccdnblck.xyz:80/toninho2022/2022toninho/778
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IyqLOSV.png" group-title="BRASILIAN SPORTS",TNT Sports
 http://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9Ja21Pr.png" group-title="ARABIC SPORTS",Al Kass 1
