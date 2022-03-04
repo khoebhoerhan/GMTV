@@ -1383,8 +1383,6 @@ https://liveanevia.mncnow.id/live/eds/RTEnglish/sa_dash_vmx/RTEnglish.mpd
 https://rt-glb.gcdn.co/live/rtnews/playlist_4500Kb.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/no4NhbQ.jpg" group-title="BRITISH NEWS",RT UK
 https://rt-uk.gcdn.co/live/rtuk/playlist_4500Kb.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/c7PfJdA.png" group-title="AMERICAN NEWS",RT America
-https://rt-usa.gcdn.co/live/rtusa/playlist_4500Kb.m3u8
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/800px-Russia-today-logo.svg.png" group-title="SPANISH NEWS",RT en Español
