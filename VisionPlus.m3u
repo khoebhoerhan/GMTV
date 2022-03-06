@@ -1332,7 +1332,7 @@ https://bit.ly/cnnBrasil?/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0XayB3p.png" group-title="INDIAN NEWS",CNN-News18
 https://m3u-editor.com/serve/50328070-93a4-11ec-bfe1-bfe07fb9faf4/505525032
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZLpwHsZ.png" group-title="CZECH NEWS",CNN Prima News
-http://103.194.169.171:8282/CZ_PRIMA_NEWS_HD/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
+https://prima-ott-live-sec.ssl.cdn.cra.cz/dnrjq4Bn7Oci79HyeBc3_Q==,1646600495/channels/prima_cnn/playlist/cze/live_hq.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8XIrrMN.png" group-title="ALBANIAN NEWS",A2 CNN
 http://185.204.32.4:9981/stream/channelid/107779299?ticket=5E8916A1A55BCB376BF4088CD0DB731673C73878&profile=pass
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JECWgUK.png" group-title="NON-ENGLISH NEWS",N1 CNN
@@ -1506,7 +1506,7 @@ http://stariptv.org:8080/wael2021/123456/148456
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IVvxmTv.png" group-title="AMERICAN NEWS",CBS News
-https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8?iu=/8264/vaw-can/mobile_web/cbsnews_mobile
+http://cbsnewshd-lh.akamaihd.net:80/i/CBSNHD_7@199302/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/R7d90sJ.png" group-title="AMERICAN NEWS",ABC News Live
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/HLN_%28TV_network%29_2017_logo.svg/800px-HLN_%28TV_network%29_2017_logo.svg.png" group-title="AMERICAN NEWS",HLN
