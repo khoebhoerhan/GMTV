@@ -1732,8 +1732,9 @@ http://freelive2.inwstream.com:1935/freelive-edge/nation/playlist.m3u8
 http://freelive2.inwstream.com:1935/freelive-edge/tnn24/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RQTi6Nm.jpg" group-title="THAI NEWS",Top News
 https://live.topnews.co.th/hls/topnews.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:97.0) Gecko/20100101 Firefox/97.0
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9odNJCy.png" group-title="PINOY NEWS",ANC
-http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/144833
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-anc-global-dash-abscbnono/07c8ad72-c3b4-4cb6-bab4-ced62449ba58/index.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HnS25Hi.png" group-title="PINOY NEWS",DZRH TV
 https://streaming.fotvnetwork.workers.dev/stream/UCcTiBX8js_djhSSlmJRI99A/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/OneNewsPH_logo.svg/1024px-OneNewsPH_logo.svg.png" group-title="PINOY NEWS",One News
