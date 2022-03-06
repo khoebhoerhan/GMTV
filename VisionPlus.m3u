@@ -1383,8 +1383,6 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m
 https://liveanevia.mncnow.id/live/eds/RTEnglish/sa_dash_vmx/RTEnglish.mpd
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/800px-Russia-today-logo.svg.png" group-title="WORLD NEWS",RT HD
 https://rt-glb.rttv.com/live/rtnews/playlist_4500Kb.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/no4NhbQ.jpg" group-title="BRITISH NEWS",RT UK
-https://rt-uk.rttv.com/live/rtuk/playlist_4500Kb.m3u8
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/800px-Russia-today-logo.svg.png" group-title="SPANISH NEWS",RT en Español
@@ -1392,7 +1390,7 @@ https://rt-esp.rttv.com/live/rtesp/playlist_4500Kb.m3u8
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/RT-France-logo.svg/800px-RT-France-logo.svg.png" group-title="FRENCH NEWS",RT France
-	https://rt-fra.rttv.com/live/rtfrance/playlist_4500Kb.m3u8
+https://rt-fra.rttv.com/live/rtfrance/playlist_4500Kb.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/o6B1ONQ.png" group-title="GERMAN NEWS",RT DE
 https://rt-ger.rttv.com/live/rtdeutsch/playlist_4500Kb.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/800px-Russia-today-logo.svg.png" group-title="ARABIC NEWS",RT Arabia
