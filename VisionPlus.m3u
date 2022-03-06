@@ -154,7 +154,7 @@ http://103.23.201.170:1935/live/livestream/chunklist_w1352763317.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/U5jiuuM.png" group-title="LOKAL",Dayak TV
 https://v4.siar.us/dayaktv/livestream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qio9YhR.png" group-title="LOKAL",Duta TV
-https://v2.siar.us/dutatv/live/playlist.m3u8
+https://dutatv.siar.us/dutatv/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9MLGhEL.png" group-title="LOKAL",Efarina TV
 https://d5ylslorfcw61.cloudfront.net/hls/6ax0fnygpcltf81k.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/ElshintaTV2019.png" group-title="LOKAL",Elshinta TV
@@ -197,6 +197,8 @@ http://122.248.43.138:1935/ch13/myStream/chunklist.m3u8
 http://122.248.43.138:1935/ch8/myStream/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/R8eg7kU.png" group-title="LOKAL",Pal TV
 https://v3.siar.us/paltv/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/i0vNdwG.png" group-title="LOKAL",PJTV
+http://122.248.43.138:1935/ch30/myStream/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/leO6MG8.png" group-title="LOKAL",PKTV
 https://wowza60.indostreamserver.com:1935/pktv/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xxCOG3o.png" group-title="LOKAL",Pon TV
