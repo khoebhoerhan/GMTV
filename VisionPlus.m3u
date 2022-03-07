@@ -221,6 +221,8 @@ http://103.30.246.34:1935/riautv/myStream/playlist.m3u8
 https://v2.siar.us/saktitv/livestream/playlist.m3u8#t=0.1
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/3/3c/Cakra-semarang-tv.png" group-title="LOKAL",Semarang TV
 http://116.254.112.74:80/hls/cakralive.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9AFLelt.png" group-title="LOKAL",Silampari TV
+https://v9.siar.us/siltv/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/6/61/SIMPANG5tv.png" group-title="LOKAL",Simpang5 TV
 http://122.248.43.138:1935/ch4/myStream/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MXDdIb6.png" group-title="LOKAL",SMTV
