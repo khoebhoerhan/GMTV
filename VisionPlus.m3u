@@ -61,6 +61,8 @@ https://cdnrrinet.rri.co.id/rrinet/live/playlist.m3u8
 https://m3u-editor.com/serve/50328070-93a4-11ec-bfe1-bfe07fb9faf4/505524129
 #EXTINF:-1 tvg-logo="https://i.imgur.com/X4RPowm.png" group-title="NASIONAL",JPM
 http://122.248.43.138:1935/ch6/myStream/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/s3HCVrO.png" group-title="NASIONAL",Garuda TV
+https://ms.digdaya.tv/live/digdayatv/chunklist_w1052587069.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MGRhNmU1M2UtNGE3Ni0zZGRkLWJhMmQtYTFmMzE2YTRlMTY3
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Logo_ntv.png/1200px-Logo_ntv.png" group-title="NASIONAL",Nusantara TV
@@ -111,8 +113,6 @@ https://b1world.beritasatumedia.com/Beritasatu/B1World_1280x720.m3u8
 https://b1english.beritasatumedia.com/Beritasatu/B1English_1280x720.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/42JzZAx.png" group-title="NATIONAL NEWS",TVR Parlemen
 http://103.18.181.69:1935/golive/livestream/chunklist_w1350607412.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/UzO0I4F.png" group-title="NATIONAL NEWS",GPR TV
-http://gprtv.id:1935/live/gprtv/chunklist_w1059915320.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WVz0jk4.png" group-title="VISUAL RADIO",MG Radio Network
 https://edge.medcom.id/live-edge/smil:mgradio.smil/chunklist_w1042457750_b192000_sleng.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -163,8 +163,6 @@ https://d5ylslorfcw61.cloudfront.net/hls/6ax0fnygpcltf81k.m3u8
 http://210.210.155.35/is6knm/s/s10/01.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5zdZADe.png" group-title="LOKAL",Fajar TV
 http://122.248.43.138:1935/ch27/myStream/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/s3HCVrO.png" group-title="LOKAL",Garuda TV
-https://ms.digdaya.tv/live/digdayatv/chunklist_w1052587069.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pposm6w.png" group-title="LOKAL",Huma Betang TV
 https://v3.siar.us/humabetangtv/live/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -181,8 +179,6 @@ http://122.248.43.138:1935/ch14/myStream/chunklist.m3u8
 https://mam.jogjaprov.go.id:1937/tv/jitv/chunklist_w163357330.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/5/58/Jogjatv3d.png/1200px-Jogjatv3d.png" group-title="LOKAL",Jogja TV
 https://stream.jogjatv.co.id/jtvlive/stream/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/LrwwyT0.png" group-title="LOKAL",Channel Jowo
-https://h1.intechmedia.net/intech/ch101.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/8/8e/JTV_%282012%29.svg/1094px-JTV_%282012%29.svg.png" group-title="LOKAL",JTV
@@ -239,7 +235,11 @@ http://wms.klikhost.com:1935/tegarjogja/live/playlist.m3u8
 http://103.30.1.14:8080/hls/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wHo2EvN.png" group-title="LOKAL",TVTPI
 http://103.30.246.47:1935/tvtpi/smil:live.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zgKW6bB.png" group-title="LOKAL",UGTV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LrwwyT0.png" group-title="KOMUNITAS",Channel Jowo
+https://h1.intechmedia.net/intech/ch101.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UzO0I4F.png" group-title="KOMUNITAS",GPR TV
+http://gprtv.id:1935/live/gprtv/chunklist_w1059915320.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zgKW6bB.png" group-title="KOMUNITAS",UGTV
 https://cdn.gunadarma.ac.id/streams/ugtv/ingestugtv.m3u8
 #EXTINF:-1 tvg-logo="http://staging.tvri.go.id/assets/img_gallery/daerah/ACEH.png" group-title="TVRI DAERAH",TVRI Aceh
 http://118.97.50.107/Content/HLS/Live/Channel(TVRIACEH)/index.m3u8
