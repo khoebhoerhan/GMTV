@@ -492,11 +492,19 @@ http://red.ipfox.org:8080/1234/12345678/30847
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TiYeY9R.png" group-title="BRASILIAN ENTERTAINMENT",Globo
 http://red.ipfox.org:8080/1234/12345678/2654
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ypwYHcA.png" group-title="PINOY ENTERTAINMENT",GMA Life TV
-http://crystalott.org:80/CKVRKUO4L3/IRTRILUKU7/7205
+http://hdhd.tk:80/Phone/Phone/23198
 #EXTINF:-1 tvg-logo="https://i.imgur.com/a8ISfyz.png" group-title="PINOY ENTERTAINMENT",GMA Pinoy TV
-http://crystalott.org:80/CKVRKUO4L3/IRTRILUKU7/7203
+http://hdhd.tk:80/Phone/Phone/23199
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SsTaXe8.png" group-title="PINOY ENTERTAINMENT",TFC
-http://crystalott.org:80/CKVRKUO4L3/IRTRILUKU7/7149
+http://hdhd.tk:80/Phone/Phone/23195
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SsTaXe8.png" group-title="PINOY ENTERTAINMENT",TFC Asia
+http://hdhd.tk:80/Phone/Phone/23194
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SsTaXe8.png" group-title="PINOY ENTERTAINMENT",TFC Australia
+http://hdhd.tk:80/Phone/Phone/23190
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SsTaXe8.png" group-title="PINOY ENTERTAINMENT",TFC Canada
+http://hdhd.tk:80/Phone/Phone/23193
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SsTaXe8.png" group-title="PINOY ENTERTAINMENT",TFC Middle East
+http://hdhd.tk:80/Phone/Phone/23191
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Fa0e2NH.png" group-title="RUSSIAN ENTERTAINMENT",Пятница! International
 https://sc.id-tv.kz:443/friday_34_35.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/1%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB-5.svg/800px-1%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB-5.svg.png" group-title="RUSSIAN ENTERTAINMENT",Первый канал Евразия
@@ -564,14 +572,16 @@ https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/playlist.m3u8
 https://livetv.powerapp.com.tr/powerTV/powerhd.smil/playlists.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/X7VxlBN.png" group-title="WORLD MUSIC",MTV
 https://nonton.site:8443/Thopani/Haidir/37460
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Myxphlogo.svg/1200px-Myxphlogo.svg.png" group-title="ASIAN MUSIC",Myx
+http://hdhd.tk:80/Phone/Phone/23188
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6R8N3z2.png" group-title="ASIAN MUSIC",SBS MTV
+https://www.navchina.cf/IPTV/sbs.php?id=S09
 #EXTINF:-1 tvg-logo="https://i.imgur.com/B9evyCe.png" group-title="WORLD MUSIC",Polsat Music
 http://crystalott.org:80/CKVRKUO4L3/IRTRILUKU7/3225
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c9/M6_Music_%282012%29.png" group-title="WORLD MUSIC",M6 Music
 http://190.2.155.162:8080/m6music/mpegts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6R8N3z2.png" group-title="WORLD MUSIC",SBS MTV
-https://www.navchina.cf/IPTV/sbs.php?id=S09
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zZCZb3P.png" group-title="WORLD MUSIC",4Music
-http://hdhd.tk:80/772299/772299/28303
+http://hdhd.tk:80/Phone/Phone/28303
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bNw4mXF.png" group-title="WORLD MUSIC",RTSH Muzikë
 https://tvlive.rtsh.dev/live/rtsh_muzike_mob/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1768,9 +1778,8 @@ http://freelive2.inwstream.com:1935/freelive-edge/tnn24/playlist.m3u8
 https://live.topnews.co.th/hls/topnews.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KIK1p0o.png" group-title="THAI NEWS",TPTV
 https://freelive.inwstream.com:1936/freelive-edge/tptv/chunks.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:97.0) Gecko/20100101 Firefox/97.0
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9odNJCy.png" group-title="PINOY NEWS",ANC
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-anc-global-dash-abscbnono/07c8ad72-c3b4-4cb6-bab4-ced62449ba58/index.mpd
+http://hdhd.tk:80/Phone/Phone/23201
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HnS25Hi.png" group-title="PINOY NEWS",DZRH TV
 https://streaming.fotvnetwork.workers.dev/stream/UCcTiBX8js_djhSSlmJRI99A/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/OneNewsPH_logo.svg/1024px-OneNewsPH_logo.svg.png" group-title="PINOY NEWS",One News
@@ -2303,7 +2312,7 @@ http://live4.tdm.com.mo/ch4/_definst_/sport_ch4.live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/One_Sports_logo.svg/1024px-One_Sports_logo.svg.png" group-title="PINOY SPORTS",One Sports
 http://gooserace.xyz:80/play/8RKaarZp2hb82YDzh8OYR9A5XmeCtLKWD8xLSKh_Jrc
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/OneSportsPlus_logo.svg/1024px-OneSportsPlus_logo.svg.png" group-title="PINOY SPORTS",One Sports+
-http://gooserace.xyz:80/play/8RKaarZp2hb82YDzh8OYRw-0GB_9D2Bdc7WwAPmDl6I
+http://hdhd.tk:80/Phone/Phone/23204
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/cd/PBA_Rush_logo.png" group-title="PINOY SPORTS",PBA Rush
 http://gooserace.xyz:80/play/8RKaarZp2hb82YDzh8OYR7wG0usFzwFnzMKtFeBBFkM
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1920px-ESPN_wordmark.svg.png" group-title="AUSTRALIAN SPORTS",ESPN
@@ -4048,7 +4057,7 @@ http://qqtv.nl:8080/simon99/simon99/273501
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/40/GTV_Philippines_Logo_Vector.svg/1280px-GTV_Philippines_Logo_Vector.svg.png" group-title="PHILIPPINES",GTV
 http://gooserace.xyz:80/play/8RKaarZp2hb82YDzh8OYR3DuTtwoe9Rp1FUFCHkC2h4
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/People%27s_Televsion_Network_Incorporated_%28PTV%29.svg/1200px-People%27s_Televsion_Network_Incorporated_%28PTV%29.svg.png" group-title="PHILIPPINES",PTV
-https://pcccw.github.io/Ark/M3U8/Token/PH/PTVPH.m3u8
+http://hdhd.tk:80/Phone/Phone/23207
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/30/Canal%2B_Family_PL.png" group-title="POLAND",Canal+ Family
 http://internetowa.tv/?c=hlsPlay&channel=canalplusfamily&token=213f9b5775ca164e0a38ad1b1a7c0aa4298b76520ee40054d142e05e293641aaf6902aeb6898ea114526269b9f9f93c1d87132f929b455ea493237393a7e1ab3
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0yf7vy8.png" group-title="POLAND",Canal+ Premium
