@@ -586,14 +586,16 @@ https://tv-trtmuzik.medya.trt.com.tr/master_720.m3u8
 https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/b/b5/Power_TV_logosu.png" group-title="TURKISH MUSIC",Power TV
 https://livetv.powerapp.com.tr/powerTV/powerhd.smil/playlists.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/X7VxlBN.png" group-title="ASIAN MUSIC",MTV Asia
-https://nonton.site:8443/Thopani/Haidir/37460
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/VH1_2020.svg/1200px-VH1_2020.svg.png" group-title="WORLD MUSIC",VH1 Italia
 https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/VH1_logonew.svg/1920px-VH1_logonew.svg.png" group-title="WORLD MUSIC",VH1 USA
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/VH1_logonew.svg/1920px-VH1_logonew.svg.png" group-title="AMERICAN MUSIC",VH1
 https://16live00.akamaized.net/VH1/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/X7VxlBN.png" group-title="WORLD MUSIC",MTV USA
+#EXTINF:-1 tvg-logo="https://i.imgur.com/X7VxlBN.png" group-title="AMERICAN MUSIC",MTV
 https://16live00.akamaized.net/MTV/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QZHYnKr.png" group-title="AMERICAN MUSIC",MTV Live
+https://16live00.akamaized.net/MTV_LIVE/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/X7VxlBN.png" group-title="ASIAN MUSIC",MTV Asia
+https://nonton.site:8443/Thopani/Haidir/37460
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Myxphlogo.svg/1200px-Myxphlogo.svg.png" group-title="ASIAN MUSIC",Myx
 http://hdhd.tk:80/772299/772299/23188
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6R8N3z2.png" group-title="ASIAN MUSIC",SBS MTV
@@ -603,7 +605,7 @@ http://crystalott.org:80/CKVRKUO4L3/IRTRILUKU7/3225
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c9/M6_Music_%282012%29.png" group-title="WORLD MUSIC",M6 Music
 http://190.2.155.162:8080/m6music/mpegts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zZCZb3P.png" group-title="WORLD MUSIC",4Music
-http://hdhd.tk:80/Phone/Phone/28303
+http://hdhd.tk:80/772299/772299/28303
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bNw4mXF.png" group-title="WORLD MUSIC",RTSH Muzikë
 https://tvlive.rtsh.dev/live/rtsh_muzike_mob/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
