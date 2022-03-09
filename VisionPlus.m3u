@@ -241,6 +241,8 @@ https://h1.intechmedia.net/intech/ch101.m3u8
 http://gprtv.id:1935/live/gprtv/chunklist_w1059915320.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zgKW6bB.png" group-title="KOMUNITAS",UGTV
 https://cdn.gunadarma.ac.id/streams/ugtv/ingestugtv.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xs3CMJA.png" group-title="KOMUNITAS",UN Web TV
+https://cdnapi.kaltura.com/p/2503451/sp/250345100/playManifest/entryId/1_gb6tjmle/protocol/https/format/applehttp/a.m3u8
 #EXTINF:-1 tvg-logo="http://staging.tvri.go.id/assets/img_gallery/daerah/ACEH.png" group-title="TVRI DAERAH",TVRI Aceh
 http://118.97.50.107/Content/HLS/Live/Channel(TVRIACEH)/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/TVRIBaliLogo2019.svg/567px-TVRIBaliLogo2019.svg.png" group-title="TVRI DAERAH",TVRI Bali
@@ -491,6 +493,18 @@ http://edge02-fdo-py.cvattv.com.ar/live/c4eds/TNT/SA_SAGEMCOM/TNT.m3u8
 http://red.ipfox.org:8080/1234/12345678/30847
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TiYeY9R.png" group-title="BRASILIAN ENTERTAINMENT",Globo
 http://red.ipfox.org:8080/1234/12345678/2654
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Game_Show_Network_2018.svg/1024px-Game_Show_Network_2018.svg.png" group-title="AMERICAN ENTERTAINMENT",Game Show Network
+https://16live00.akamaized.net/GAME_SHOW_NETWORK/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/1920px-USA_Network_logo_%282016%29.svg.png" group-title="AMERICAN ENTERTAINMENT",USA Network
+http://stariptv.org:8080/wael2021/123456/148491
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bQPc9pg.png" group-title="AMERICAN ENTERTAINMENT",Bravo
+http://stariptv.org:8080/wael2021/123456/148450
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JOCjq3R.png" group-title="AMERICAN ENTERTAINMENT",Comedy Central
+http://tv.fullytv.com:8080/lisa1/1lisa/17178
+#EXTINF:-1 tvg-logo="https://i.imgur.com/upM99h1.png" group-title="AMERICAN ENTERTAINMENT",TBS
+http://stariptv.org:8080/wael2021/123456/148479
+#EXTINF:-1 tvg-logo="https://i.imgur.com/umJbqNY.png" group-title="AMERICAN ENTERTAINMENT",TNT
+http://stariptv.org:8080/wael2021/123456/148474
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ypwYHcA.png" group-title="PINOY ENTERTAINMENT",GMA Life TV
 http://hdhd.tk:80/772299/772299/23198
 #EXTINF:-1 tvg-logo="https://i.imgur.com/a8ISfyz.png" group-title="PINOY ENTERTAINMENT",GMA Pinoy TV
@@ -570,8 +584,14 @@ https://tv-trtmuzik.medya.trt.com.tr/master_720.m3u8
 https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/b/b5/Power_TV_logosu.png" group-title="TURKISH MUSIC",Power TV
 https://livetv.powerapp.com.tr/powerTV/powerhd.smil/playlists.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/X7VxlBN.png" group-title="WORLD MUSIC",MTV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/X7VxlBN.png" group-title="ASIAN MUSIC",MTV Asia
 https://nonton.site:8443/Thopani/Haidir/37460
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/VH1_2020.svg/1200px-VH1_2020.svg.png" group-title="WORLD MUSIC",VH1 Italia
+https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/VH1_logonew.svg/1920px-VH1_logonew.svg.png" group-title="WORLD MUSIC",VH1 USA
+https://16live00.akamaized.net/VH1/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/X7VxlBN.png" group-title="WORLD MUSIC",MTV USA
+https://16live00.akamaized.net/MTV/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Myxphlogo.svg/1200px-Myxphlogo.svg.png" group-title="ASIAN MUSIC",Myx
 http://hdhd.tk:80/772299/772299/23188
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6R8N3z2.png" group-title="ASIAN MUSIC",SBS MTV
@@ -1021,20 +1041,12 @@ http://vmp343.ddnsking.com:80/pari/pari/548931
 http://shashe.dianshiwang.vip:27000/live/1G6TqszHmbSK/44rbL95yUhPE/55994.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/icFwjZ3.jpg" group-title="AMERICAN SERIES",AMC
 http://stariptv.org:8080/wael2021/123456/148495
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bQPc9pg.png" group-title="AMERICAN SERIES",Bravo
-http://stariptv.org:8080/wael2021/123456/148450
-#EXTINF:-1 tvg-logo="https://i.imgur.com/JOCjq3R.png" group-title="AMERICAN SERIES",Comedy Central
-http://tv.fullytv.com:8080/lisa1/1lisa/17178
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8dgknme.png" group-title="AMERICAN SERIES",FX
 http://stariptv.org:8080/wael2021/123456/148463
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/1920px-Showtime.svg.png" group-title="AMERICAN SERIES",Showtime
 http://stariptv.org:8080/wael2021/123456/148472
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LHXa485.png" group-title="AMERICAN SERIES",Syfy
 http://stariptv.org:8080/wael2021/123456/148451
-#EXTINF:-1 tvg-logo="https://i.imgur.com/upM99h1.png" group-title="AMERICAN SERIES",TBS
-http://stariptv.org:8080/wael2021/123456/148479
-#EXTINF:-1 tvg-logo="https://i.imgur.com/umJbqNY.png" group-title="AMERICAN SERIES",TNT
-http://stariptv.org:8080/wael2021/123456/148474
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/CTV_Comedy_Channel_2019.svg/1920px-CTV_Comedy_Channel_2019.svg.png" group-title="CANADIAN SERIES",CTV Comedy Channel
 http://hdhd.tk:80/772299/772299/18690
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/CTV_Drama_Channel_2019.svg/1920px-CTV_Drama_Channel_2019.svg.png" group-title="CANADIAN SERIES",CTV Drama Channel
@@ -1804,7 +1816,7 @@ https://live.playstop.me/LS-63503-4/index.m3u8
 https://sdm.telewebion.com/live/irinn/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/n5vWRjT.png" group-title="RUSSIAN NEWS",Известия ТВ
 http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.shockya.com/news/wp-content/uploads/rossiya_24.png" group-title="RUSSIAN NEWS",России 24
+#EXTINF:-1 tvg-logo="https://www.shockya.com/news/wp-content/uploads/rossiya_24.png" group-title="RUSSIAN NEWS",Россия-24
 http://cdnmg.secure.live.rtr-vesti.ru/live/smil:r24.smil/chunklist_b1200000.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HEQvGwJ.png" group-title="ROMANIAN NEWS",Antena 3
 http://1tv1.net:8080/hakim2021/123456/56116
@@ -2117,7 +2129,7 @@ http://93.152.174.144:4000/play/btsport2/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8IzsrMb.png" group-title="BRITISH SPORTS",BT Sport 3
 http://93.152.174.144:4000/play/btsport3/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YcrrywD.png" group-title="BRITISH SPORTS",BT Sport ESPN
-http://hdhd.tk:80/772299/772299/26359
+https://16live00.akamaized.net/BTSPORTS_ESPN/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gwV31E0.png" group-title="BRITISH SPORTS",Eurosport 1
 http://iptvfree1.com:8080/live:david.romok/4bteskwwjs342/4472
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lTnKDju.png" group-title="BRITISH SPORTS",Eurosport 2
@@ -3411,8 +3423,6 @@ https://v-ny.theus6tv.tk/hls/2.1/playlist.m3u8
 #EXTVLCOPT:network-caching=1000
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Q6AoC5h.png" group-title="USA",Fox
 https://v-ny.theus6tv.tk/hls/5.1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Game_Show_Network_2018.svg/1024px-Game_Show_Network_2018.svg.png" group-title="USA",Game Show Network
-http://n1.klowdtv.net/live2/gsn_720p/chunks.m3u8
 #EXTVLCOPT:network-caching=1000
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OzHkxwZ.png" group-title="USA",NBC
 https://v-ny.theus6tv.tk/hls/4.1/playlist.m3u8
@@ -3432,8 +3442,6 @@ http://tv.fullytv.com:8080/lisa1/1lisa/3757
 https://v-ny.theus6tv.tk/hls/41.1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Logo_UniM%C3%A1s_2021.svg/1920px-Logo_UniM%C3%A1s_2021.svg.png" group-title="USA",Unimás
 http://tv.fullytv.com:8080/lisa1/1lisa/18772
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/1920px-USA_Network_logo_%282016%29.svg.png" group-title="USA",USA Network
-http://stariptv.org:8080/wael2021/123456/148491
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HELzzCq.png" group-title="UK",4seven
 http://iptvfree1.com:8080/live:david.romok/4bteskwwjs342/388
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d4/5Action_logo.svg/1920px-5Action_logo.svg.png" group-title="UK",5Action
