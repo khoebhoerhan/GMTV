@@ -879,6 +879,8 @@ https://16live00.akamaized.net/FX_MOVIE/index.m3u8
 https://16live00.akamaized.net/HBO/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zbhlYmA.png" group-title="AMERICAN MOVIES",HBO 2
 https://16live00.akamaized.net/HBO2/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uTOwDpb.png" group-title="AMERICAN MOVIES",HBO Comedy
+http://stariptv.org:8080/wael2021/123456/148471
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xC9oedf.png" group-title="AMERICAN MOVIES",HBO Family
 http://38.127.211.18/live/c2eds/HBOFamily/HLS/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/b6F8nXT.png" group-title="AMERICAN MOVIES",HBO Signature
@@ -1681,7 +1683,7 @@ http://hls-m010.live-lv3.canalplus-cdn.net/live/disk/cnews-clair-hd/ios-v3-hd-cl
 #EXTINF:-1 tvg-logo="https://i.imgur.com/40Zq0TK.png" group-title="FRENCH NEWS",Franceinfo
 http://stariptv.org:8080/wael2021/123456/4928
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0c/La_Cha%C3%AEne_Info_%28logo%29.svg/1920px-La_Cha%C3%AEne_Info_%28logo%29.svg.png" group-title="FRENCH NEWS",LCI
-http://red.ipfox.org:8080/1234/12345678/2382
+http://stariptv.org:8080/wael2021/123456/4923
 #EXTINF:-1 tvg-logo="https://i.imgur.com/v7Zj0iJ.png" group-title="FRENCH NEWS",TV5 Monde Info
 http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wWHiR9B.png" group-title="FRENCH NEWS",LN24
@@ -1781,7 +1783,7 @@ https://v-sd.mybtv.net/event/521/1920x1080.m3u8?start_time=2021-05-16&end_time=2
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/TeleSUR.jpg" group-title="LATINO NEWS",teleSUR
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kI7pHMn.jpg" group-title="KOREAN NEWS",YTN
-http://108.136.37.52/m3u8/dm_YTN_News.m3u8
+http://ye23.win/iptv/korea2021.php?id=ytn
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SvbO21Y.png" group-title="KOREAN NEWS",Yonhap News TV
 https://ducg38fv680xm.cloudfront.net/yeonhap_3M.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b2/%C4%8CT24_logo.png" group-title="CZECH NEWS",ČT24
