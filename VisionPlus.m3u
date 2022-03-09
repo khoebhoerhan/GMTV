@@ -495,6 +495,8 @@ http://red.ipfox.org:8080/1234/12345678/30847
 http://red.ipfox.org:8080/1234/12345678/2654
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Game_Show_Network_2018.svg/1024px-Game_Show_Network_2018.svg.png" group-title="AMERICAN ENTERTAINMENT",Game Show Network
 https://16live00.akamaized.net/GAME_SHOW_NETWORK/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/71d2wEk.png" group-title="AMERICAN ENTERTAINMENT",Paramount Network
+https://16live00.akamaized.net/PARAMOUNT_NETWORK/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/1920px-USA_Network_logo_%282016%29.svg.png" group-title="AMERICAN ENTERTAINMENT",USA Network
 http://stariptv.org:8080/wael2021/123456/148491
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bQPc9pg.png" group-title="AMERICAN ENTERTAINMENT",Bravo
@@ -736,6 +738,8 @@ http://live.flixhub.net/hls/stargold2hd.m3u8
 http://103.153.39.36:8000/play/a014
 #EXTINF:-1 tvg-logo="https://i.imgur.com/34JhaxQ.jpg" group-title="EUROPEAN MOVIES",MyCinema Europe
 http://rr.dens.tv/h/h18/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cd/Nova_Cinema_logo.png" group-title="EUROPEAN MOVIES",Nova Cinema
+http://crystalott.org:80/CKVRKUO4L3/IRTRILUKU7/9658
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/2/2f/Action_%282014%29.svg/langfr-1920px-Action_%282014%29.svg.png" group-title="FRENCH MOVIES",Action
 http://stariptv.org:8080/wael2021/123456/4267
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/f/f8/Canal%2B_Cin%C3%A9ma_2013.svg/langfr-1920px-Canal%2B_Cin%C3%A9ma_2013.svg.png" group-title="FRENCH MOVIES",Canal+ Cinema
@@ -757,8 +761,6 @@ http://internetowa.tv/?c=hlsPlay&channel=canalplusfilm&token=213f9b5775ca164e0a3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9.0; MI 8 SE) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.119 Mobile Safari/537.36
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Polsat_Film_2021_gradient.svg/800px-Polsat_Film_2021_gradient.svg.png" group-title="POLISH MOVIES",Polsat Film
 http://83.238.167.113:8001/1:0:1:3398:3390:71:820000:0:0:0:
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cd/Nova_Cinema_logo.png" group-title="EUROPEAN MOVIES",Nova Cinema
-http://crystalott.org:80/CKVRKUO4L3/IRTRILUKU7/9658
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IqY4euu.png" group-title="PORTUGUESE MOVIES",AXN Movies
 http://hdhd.tk:80/772299/772299/27901
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3dQ4y7b.png" group-title="PORTUGUESE MOVIES",Cine Mundo
@@ -867,6 +869,28 @@ http://edge02-fdo-py.cvattv.com.ar/live/c4eds/HBO_Plus/SA_SAGEMCOM/HBO_Plus.m3u8
 http://edge02-fdo-py.cvattv.com.ar/live/live/FoxFamily/SA_SAGEMCOM/FoxFamily.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Eqe2ow2.png" group-title="LATINO MOVIES",Star Hits
 http://edge02-fdo-py.cvattv.com.ar/live/c3eds/FoxMoviesHD/SA_SAGEMCOM/FoxMoviesHD.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OpAB6Hs.png" group-title="AMERICAN MOVIES",Cinemax
+https://16live00.akamaized.net/CINEMAX/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1IX3wwk.png" group-title="AMERICAN MOVIES",FXM
+https://16live00.akamaized.net/FX_MOVIE/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9v0WUqt.png" group-title="AMERICAN MOVIES",HBO
+https://16live00.akamaized.net/HBO/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zbhlYmA.png" group-title="AMERICAN MOVIES",HBO 2
+https://16live00.akamaized.net/HBO2/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xC9oedf.png" group-title="AMERICAN MOVIES",HBO Family
+http://38.127.211.18/live/c2eds/HBOFamily/HLS/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/b6F8nXT.png" group-title="AMERICAN MOVIES",HBO Signature
+https://16live00.akamaized.net/HBO_SIGNATURE/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EYFQ2tt.png" group-title="AMERICAN MOVIES",HBO Zone
+https://16live00.akamaized.net/HBO_ZONE/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nB3vppg.png" group-title="AMERICAN MOVIES",Lifetime Movie Network
+https://16live00.akamaized.net/LIFETIME_MOVIE_NETWORK/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oy6rYcx.png" group-title="AMERICAN MOVIES",MoreMax
+https://16live00.akamaized.net/CINEMAX_MORE/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/51nuvo8.png" group-title="AMERICAN MOVIES",Showtime Family Zone
+https://16live00.akamaized.net/SHOWTIME_FAMILY/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/32pbfXZ.png" group-title="AMERICAN MOVIES",Showtime Next
+https://16live00.akamaized.net/SHOWTIME_NEXT/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7RKOLNG.png" group-title="ARABIC MOVIES",beIN Box Office 1
 http://jjkdomain123.one:80/Charlie/Charlie/658954
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gJVXKM6.png" group-title="ARABIC MOVIES",beIN Box Office 2
@@ -1043,6 +1067,8 @@ http://shashe.dianshiwang.vip:27000/live/1G6TqszHmbSK/44rbL95yUhPE/55994.ts
 http://stariptv.org:8080/wael2021/123456/148495
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8dgknme.png" group-title="AMERICAN SERIES",FX
 http://stariptv.org:8080/wael2021/123456/148463
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OFfkWQm.png" group-title="AMERICAN SERIES",FXX
+https://16live00.akamaized.net/FXX/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/1920px-Showtime.svg.png" group-title="AMERICAN SERIES",Showtime
 http://stariptv.org:8080/wael2021/123456/148472
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LHXa485.png" group-title="AMERICAN SERIES",Syfy
