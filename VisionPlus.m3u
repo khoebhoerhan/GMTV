@@ -451,12 +451,12 @@ http://93.157.62.180/ATVTurk/index.m3u8
 https://live.kanal7.com/live/kanal7AvrupaLive/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jQ3GkPA.png" group-title="TURKISH ENTERTAINMENT",Show Türk
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
-https://www.yilmaztv.com/beceroz/oz.php?channel=show-turk-izle-5&stream=1&type=m3u8
+https://www.yilmaztv.ru/beceroz/oz.php?channel=show-turk-izle-5&stream=1&type=m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Nh6c3KS.png" group-title="TURKISH ENTERTAINMENT",TRT Türk
 https://tv-trtturk.live.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fZU59wo.png" group-title="TURKISH ENTERTAINMENT",TV8 Int
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
-https://www.yilmaztv.com/beceroz/oz.php?channel=tv8-int-canli&stream=1&type=m3u8
+https://www.yilmaztv.ru/beceroz/oz.php?channel=tv8-int-canli&stream=1&type=m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RdIJVDs.png" group-title="ARABIC ENTERTAINMENT",Abu Dhabi TV
 https://admdn2.cdn.mangomolo.com/adtv/smil:adtv.stream.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gkv1Wpj.png" group-title="ARABIC ENTERTAINMENT",Al Emarat
@@ -1404,7 +1404,7 @@ https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_2_19
 https://streaming.cnnphilippines.com/live/myStream/chunklist_w1199238897.m3u8
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hi0D9Ut.png" group-title="TURKISH NEWS",CNN Türk
-https://www.yilmaztv.com/beceroz/oz.php?channel=cnn-turk-canli-yayin&stream=1&type=m3u8
+https://www.yilmaztv.ru/beceroz/oz.php?channel=cnn-turk-canli-yayin&stream=1&type=m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Jai0CTx.png" group-title="LATINO NEWS",CNN Chile
 http://tv.fullytv.com:8080/lisa1/1lisa/3749
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jCXODcU.png" group-title="SPANISH NEWS",CNN en Español
@@ -1633,7 +1633,7 @@ https://live1.presstv.ir/live/presstv.m3u8
 https://live1.presstv.ir/live/hispan.m3u8
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 #EXTINF:-1 tvg-logo="https://i.imgur.com/j5Zdyy9.png" group-title="WORLD NEWS",A News
-https://www.yilmaztv.com/beceroz/oz.php?channel=a-news&stream=1&type=m3u8
+https://www.yilmaztv.ru/beceroz/oz.php?channel=a-news&stream=1&type=m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/TeleSUR.jpg" group-title="WORLD NEWS",teleSUR
 https://cdnenmain.telesur.ultrabase.net/mblivev3/hd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jHJR3LN.png" group-title="AFRICAN NEWS",Africanews
@@ -1710,7 +1710,7 @@ https://rtvelivestreamv3.akamaized.net/24h/24h_main_720.m3u8
 https://turkmedya-live.ercdn.net/tv24/tv24_720p.m3u8
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 #EXTINF:-1 tvg-logo="https://i.imgur.com/k7oie6a.png" group-title="TURKISH NEWS",A Haber
-https://www.yilmaztv.com/beceroz/oz.php?channel=a-haber-izle-13&stream=1&type=m3u8
+https://www.yilmaztv.ru/beceroz/oz.php?channel=a-haber-izle-13&stream=1&type=m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/20kWdRa.png" group-title="TURKISH NEWS",Haber Global
 https://tv.ensonhaber.com/tv/tr/haberglobal/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/k7qxZSp.png" group-title="TURKISH NEWS",Haber Türk
@@ -1950,7 +1950,7 @@ http://stariptv.org:8080/wael2021/123456/148458
 https://livesx.canlitv.center/apara2.m3u8
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QgaTdiK.png" group-title="BUSINESS NEWS",EkoTürk
-https://www.yilmaztv.com/beceroz/oz.php?channel=ekoturk-tv&stream=1&type=m3u8
+https://www.yilmaztv.ru/beceroz/oz.php?channel=ekoturk-tv&stream=1&type=m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HRaROB0.png" group-title="BUSINESS NEWS",TVN 24 Bis
 http://vip.turksmart.org:15000/seko/seko/69865
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vPAwWou.png" group-title="BUSINESS NEWS",ET Now
@@ -4393,7 +4393,7 @@ https://turkmedya-live.ercdn.net/tv4/tv4_720p.m3u8
 https://livesx.canlitv.center/tv8hd.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nhl0SnT.png" group-title="TURKEY",TV8.5
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
-https://www.yilmaztv.com/beceroz/oz.php?channel=tv85-turkiye-1&stream=1&type=m3u8
+https://www.yilmaztv.ru/beceroz/oz.php?channel=tv85-turkiye-1&stream=1&type=m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3gFFRS2.png" group-title="UKRAINE",1+1
 http://iptv.prosto.tv:7000/ch1/video.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/2%2B2_logo_2017.svg/1920px-2%2B2_logo_2017.svg.png" group-title="UKRAINE",2+2
