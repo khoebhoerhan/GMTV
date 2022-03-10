@@ -2649,19 +2649,19 @@ http://stariptv.org:8080/wael2021/123456/33424
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/800px-NBA_TV.svg.png" group-title="PORTUGUESE SPORTS",NBA TV
 http://stariptv.org:8080/wael2021/123456/44058
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pcAhRs8.png" group-title="PORTUGUESE SPORTS",Sport TV 1
-http://stariptv.org:8080/wael2021/123456/4119
+http://api.magiaiptv.com/live/800261/138645/m3_DFwhzUuzfistv1_1080p
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CPt6Fsg.png" group-title="PORTUGUESE SPORTS",Sport TV 2
-http://stariptv.org:8080/wael2021/123456/4120
+http://api.magiaiptv.com/live/800261/138645/m3_FZukotDQWYstv2_1080p
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wbhOsK2.png" group-title="PORTUGUESE SPORTS",Sport TV 3
-http://stariptv.org:8080/wael2021/123456/4121
+http://api.magiaiptv.com/live/800261/138645/m3_eAb6FoNigKstv3_720p_2M
 #EXTINF:-1 tvg-logo="https://i.imgur.com/itYiAnd.png" group-title="PORTUGUESE SPORTS",Sport TV 4
-http://stariptv.org:8080/wael2021/123456/4122
+http://api.magiaiptv.com/live/800261/138645/m3_eargH0Pv9qstv4_720p_2M
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LblSggR.png" group-title="PORTUGUESE SPORTS",Sport TV 5
-http://stariptv.org:8080/wael2021/123456/4185
+http://api.magiaiptv.com/live/800261/138645/m3_L4QIjJorwjstv5_1080p
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RbFoVdH.png" group-title="PORTUGUESE SPORTS",Sport TV 6
 http://smartiptv.ddnsco.com:8080/iptvauthority131/iptvauthority131/146621
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Km9HrEA.png" group-title="PORTUGUESE SPORTS",Sport TV +
-http://stariptv.org:8080/wael2021/123456/4186
+http://api.magiaiptv.com/live/800261/138645/m3_UCWbpolpkgstvp_1080p
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4fCvNHl.png" group-title="BELGIAN SPORTS",Eleven Pro League 1
 http://crystalott.org:80/CKVRKUO4L3/IRTRILUKU7/28130
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kTXQVRD.png" group-title="BELGIAN SPORTS",Eleven Sports 1
@@ -3170,27 +3170,27 @@ https://d3awnlgqz0szay.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/in
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FbFe2uu.png" group-title="BRASILIAN SPORTS",Band Sports
 http://190.15.32.30:80/19/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ed/Canal-combate-logo.png" group-title="BRASILIAN SPORTS",Combate
-http://ccdnblck.xyz:80/toninho2022/2022toninho/784
+http://50.7.34.155:2200/BR/Combate_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhullfnNlfHJofQ%3Dn%3D%3Fmd5
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1920px-ESPN_wordmark.svg.png" group-title="BRASILIAN SPORTS",ESPN
-http://50.7.34.155:2200/BR/ESPN_Brasil_HD-br/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ==?md5=null
+http://50.7.34.155:2200/BR/ESPN_Brasil_HD-br/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ%3D%3D%3Fmd5
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/1280px-ESPN2_logo.svg.png" group-title="BRASILIAN SPORTS",ESPN 2
-http://50.7.34.155:2200/BR/ESPN_HD-br/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ==?md5=null
+http://50.7.34.155:2200/BR/ESPN_HD-br/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ%3D%3D%3Fmd5
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Crvxgth.png" group-title="BRASILIAN SPORTS",ESPN 3
-http://50.7.34.155:2201/BR/ESPN2_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ==?md5=null
+http://50.7.34.155:2201/BR/ESPN2_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ%3D%3D%3Fmd5
 #EXTINF:-1 tvg-logo="https://i.imgur.com/89RCPvg.png" group-title="BRASILIAN SPORTS",ESPN 4
-http://50.7.34.155:2200/BR/Fox_Sports_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ==?md5=null
+http://50.7.34.155:2200/BR/Fox_Sports_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ%3D%3D%3Fmd5
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sIUdUaB.png" group-title="BRASILIAN SPORTS",ESPN Extra
-http://50.7.34.155:2201/BR/espnextra-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ==?md5=null
+http://50.7.34.155:2201/BR/espnextra-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ%3D%3D%3Fmd5
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DpnatBM.png" group-title="BRASILIAN SPORTS",Fox Sports 2
-http://50.7.34.155:2201/BR/Fox_Sports_2_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ==?md5=null
+http://50.7.34.155:2201/BR/Fox_Sports_2_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ%3D%3D%3Fmd5
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/a2/Logo_Premiere_FC_2018.png" group-title="BRASILIAN SPORTS",Premiere
-http://api.magiaiptv.com/live/800196/128093/m3_wjMT3HlXuP425f1ZGd0Uvtxh_720p_2M
+http://50.7.34.155:2200/BR/Premiere_Clubes_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ%3Dm%3D%3Full5
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iweh0Li.png" group-title="BRASILIAN SPORTS",SporTV
-http://ccdnblck.xyz:80/toninho2022/2022toninho/776
+http://50.7.34.155:2200/BR/Sportv_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhullfnNlfHJofQ%3Dn%3D%3Fmd5
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AAdoNsr.png" group-title="BRASILIAN SPORTS",SporTV 2
-http://ccdnblck.xyz:80/toninho2022/2022toninho/777
+http://50.7.34.155:2200/BR/Sportv_2_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhullfnNlfHJofQ%3Dn%3D%3Fmd5
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RcpUcYG.png" group-title="BRASILIAN SPORTS",SporTV 3
-http://ccdnblck.xyz:80/toninho2022/2022toninho/778
+http://50.7.34.155:2200/BR/Sportv_3_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ%3D%3D%3Fmd5
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IyqLOSV.png" group-title="BRASILIAN SPORTS",TNT Sports
 http://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9Ja21Pr.png" group-title="ARABIC SPORTS",Al Kass 1
@@ -3461,7 +3461,7 @@ https://v-ny.theus6tv.tk/hls/4.1/playlist.m3u8
 https://v-ny.theus6tv.tk/hls/21.1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ydm3Ss2.png" group-title="USA",Telemundo
 #EXTVLCOPT:network-caching=1000
-https://wmaqlive-f.akamaihd.net/i/CHICAGO_STREAM4@24420/master.m3u8
+https://v-ny.theus6tv.tk/hls/47.1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/The_CW.svg/1920px-The_CW.svg.png" group-title="USA",The CW
 #EXTVLCOPT:network-caching=1000
 https://5e6cea03e25b6.streamlock.net/live/WTLHCW.stream/playlist.m3u8
@@ -3617,7 +3617,7 @@ hhttp://www.portalcultura.com.br/playerhtml/funtelpa/tv_funtelpa/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Canal_Futura.png/800px-Canal_Futura.png" group-title="BRASIL",Futura
 https://stmv1.transmissaodigital.com/ronald6259/ronald6259/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RCvAvtf.png" group-title="BRASIL",Globo
-http://50.7.34.155:2201/BR/Globo_HD_RJ-br/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ%3D%3D%3Fmd5%3Dnull
+http://50.7.34.155:2201/BR/Globo_HD_RJ-br/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ%3D%3D%3Fmd5
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/14/Logo_of_Rede_Record.png" group-title="BRASIL",Record
 http://tvconquistalrv.duckdns.org:8080/hls/tvconquistalrv.m3u8?ROGERIOTORRES
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/3/39/Logotipo_da_Rede_Brasil_de_Televis%C3%A3o.png" group-title="BRASIL",Rede Brasil
