@@ -1659,7 +1659,7 @@ https://itvoign.multitvsolution.com/hls/newsx_720p/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SOAzyhe.png" group-title="INDIAN NEWS",Republic TV
 https://republicworld.amagi.tv/hls/amagi_hls_data_samsungin-republictv-samsungindia/CDN/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6c/DDIndiaLogo.png" group-title="INDIAN NEWS",DD India
-http://jooli.in1.bitmana.io/JioTV/autoq.php?c=DD_India&q=1200&e=play.m3u8
+https://snehapi-march.in1.bitmana.io/z5api/snehz5api/ddindia.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nK04jlH.png" group-title="ARABIC NEWS",Al Alam News Network
 https://live2.alalam.ir/live/Alalam/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bAbmsFK.png" group-title="NON-ENGLISH NEWS",NPO Politiek En Nieuws
@@ -1895,7 +1895,7 @@ https://live-indiatvnews.akamaized.net/indiatv-origin/liveabr/indiatv-origin/liv
 #EXTINF:-1 tvg-logo="https://i.imgur.com/13hqQkh.png" group-title="HINDI NEWS",NDTV India
 https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/ndtvindiamaster.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/News_nation_logo.jpg" group-title="HINDI NEWS",News Nation
-http://crystalott.org:80/CKVRKUO4L3/IRTRILUKU7/3076
+https://snehapi-march.in1.bitmana.io/z5api/snehz5api/170.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1Oze9HT.png" group-title="HINDI NEWS",News18 India
 https://news18india-lh.akamaihd.net/i/news18india_1@174951/index_5_av-p.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/News24_Logo.jpg" group-title="HINDI NEWS",News24
@@ -1903,7 +1903,7 @@ https://vidcdn.vidgyor.com/news24-origin/liveabr/news24-origin/live1/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0fFuH3n.png" group-title="HINDI NEWS",Republic Bharat
 https://republicworld.amagi.tv/hls/amagi_hls_data_samsungin-republicbharat-samsungindia/CDN/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hMGFK9v.jpg" group-title="HINDI NEWS",Times Now Navbharat
-https://pubads.g.doubleclick.net/ssai/event/nRWQsGoJSzmcErJFgAy67g/master.m3u8
+https://snehapi-march.in1.bitmana.io/z5api/snehz5api/9z583386.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aUfDyOT.png" group-title="HINDI NEWS",TV9 Bharatvarsh
 https://vidcdn.vidgyor.com/tv9bharatvarsh-origin/live/tv9bharatvarsh-origin/live1/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zwN5Oz0.png" group-title="HINDI NEWS",Zee Hindustan
@@ -3258,7 +3258,7 @@ http://stariptv.org:8080/wael2021/123456/143626
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9cDvxwA.png" group-title="ARABIC SPORTS",SSC 7
 http://stariptv.org:8080/wael2021/123456/141941
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/GAORA_SPORTS_logo.svg/2560px-GAORA_SPORTS_logo.svg.png" group-title="JAPANESE SPORTS",Gaora Sports
-http://50.7.74.29:8880/hlsok/j00045/index.m3u8
+http://211.21.12.236:11935/live/cs01.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BvSZdB0.png" group-title="JAPANESE SPORTS",Golf Network
 http://211.21.12.236:11935/live/cs03.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hPOoa7L.png" group-title="JAPANESE SPORTS",Green Channel
@@ -4395,9 +4395,9 @@ https://livesx.canlitv.center/tv8hd.m3u8
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 https://www.yilmaztv.com/beceroz/oz.php?channel=tv85-turkiye-1&stream=1&type=m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3gFFRS2.png" group-title="UKRAINE",1+1
-http://212.115.255.196/Jfd85Hf/1plus1.m3u8
+http://iptv.prosto.tv:7000/ch1/video.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/2%2B2_logo_2017.svg/1920px-2%2B2_logo_2017.svg.png" group-title="UKRAINE",2+2
-http://212.115.255.196/Jfd85Hf/2plus2.m3u8
+http://iptv.prosto.tv:7000/ch8/video.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/ICTV_2017_horizontal.svg/1920px-ICTV_2017_horizontal.svg.png" group-title="UKRAINE",ICTV
 https://kv-k21-mc02.ollcdn.net/trku-live/20/a5d0f259a48c6bef7e875a438724b9c6/61eb41f8/ictv/ictv.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/%D0%86%D0%BD%D1%82%D0%B5%D1%80_TV_Channel_logo.svg/800px-%D0%86%D0%BD%D1%82%D0%B5%D1%80_TV_Channel_logo.svg.png" group-title="UKRAINE",Iнтер
@@ -4405,11 +4405,11 @@ https://edge1.iptv.macc.com.ua/img/inter_3/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3npVEwz.png" group-title="UKRAINE",К1
 http://109.68.40.67/life/k1_3/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qY4fLwE.png" group-title="UKRAINE",К2
-http://212.115.255.196/Jfd85Hf/k2.m3u8
+http://iptv.prosto.tv:7000/ch10/video.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KYBGmbA.png" group-title="UKRAINE",НЛО ТВ
 https://kv-k21-mc02.ollcdn.net/trku-live/20/a5d0f259a48c6bef7e875a438724b9c6/61eb41f8/nlotv/nlotv.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Novyi_kanal_logo.svg/800px-Novyi_kanal_logo.svg.png" group-title="UKRAINE",Новый канал
-http://37.187.28.95:2022/Noviy/mpegts
+http://iptv.prosto.tv:7000/ch6/video.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/56/Logotipe_ntn_tv.png" group-title="UKRAINE",HTH
 https://edge3.iptv.macc.com.ua/img/ntn_3/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jLMKQr6.png" group-title="UKRAINE",Прямий
