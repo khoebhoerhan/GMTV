@@ -1408,7 +1408,7 @@ https://www.yilmaztv.ru/beceroz/oz.php?channel=cnn-turk-canli-yayin&stream=1&typ
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Jai0CTx.png" group-title="LATINO NEWS",CNN Chile
 http://tv.fullytv.com:8080/lisa1/1lisa/3749
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jCXODcU.png" group-title="SPANISH NEWS",CNN en Español
-http://tv.fullytv.com:8080/lisa1/1lisa/4014
+http://190.61.102.67:2000/play/a00x/index.m3u8
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/CNN_Portugal.svg/800px-CNN_Portugal.svg.png" group-title="PORTUGUESE NEWS",CNN Portugal
