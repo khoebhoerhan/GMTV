@@ -503,10 +503,16 @@ http://stariptv.org:8080/wael2021/123456/148491
 http://stariptv.org:8080/wael2021/123456/148450
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JOCjq3R.png" group-title="AMERICAN ENTERTAINMENT",Comedy Central East
 http://tv.fullytv.com:8080/lisa1/1lisa/17178
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/1920px-Logo_Lifetime_2020.svg.png" group-title="AMERICAN ENTERTAINMENT",Lifetime East
+http://38.127.211.18/live/c2eds/Lifetime/HLS/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/OWN_2011_logo.svg/1920px-OWN_2011_logo.svg.png" group-title="AMERICAN ENTERTAINMENT",Oprah Winfrey Network East
+https://16live00.akamaized.net/OWN/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/upM99h1.png" group-title="AMERICAN ENTERTAINMENT",TBS East
 http://stariptv.org:8080/wael2021/123456/148479
 #EXTINF:-1 tvg-logo="https://i.imgur.com/umJbqNY.png" group-title="AMERICAN ENTERTAINMENT",TNT East
 http://stariptv.org:8080/wael2021/123456/148474
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Hg5CBlW.png" group-title="AMERICAN ENTERTAINMENT",TruTV East
+https://16live00.akamaized.net/TRU_TV/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ypwYHcA.png" group-title="PINOY ENTERTAINMENT",GMA Life TV
 http://hdhd.tk:80/772299/772299/23198
 #EXTINF:-1 tvg-logo="https://i.imgur.com/a8ISfyz.png" group-title="PINOY ENTERTAINMENT",GMA Pinoy TV
@@ -1922,7 +1928,7 @@ https://d19vc4shchm9pr.cloudfront.net/out/v1/a67ad47be66f4c3ea4a14c8f22984fa7/in
 https://liveanevia.mncnow.id/live/eds/CNBC/sa_dash_vmx/CNBC.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HlXhqyY.png" group-title="BUSINESS NEWS",CNBC World
 http://hdhd.tk:80/772299/772299/1652
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KxxvR2X.png" group-title="BUSINESS NEWS",CNBC USA
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KxxvR2X.png" group-title="BUSINESS NEWS",CNBC US
 http://stariptv.org:8080/wael2021/123456/148457
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4XhULAV.png" group-title="BUSINESS NEWS",CNBC Arabiya
 https://cnbcarabia.hibridcdn.net/cnbc/cnbc_abr/cnbc/cnbc_480p/chunks.m3u8?
@@ -3456,7 +3462,7 @@ https://v-ny.theus6tv.tk/hls/21.1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ydm3Ss2.png" group-title="USA",Telemundo Este
 #EXTVLCOPT:network-caching=1000
 https://v-ny.theus6tv.tk/hls/47.1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/The_CW.svg/1920px-The_CW.svg.png" group-title="USA",The CW
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/The_CW.svg/1920px-The_CW.svg.png" group-title="USA",The CW East
 #EXTVLCOPT:network-caching=1000
 https://5e6cea03e25b6.streamlock.net/live/WTLHCW.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/l3iqIit.png" group-title="USA",Universo
