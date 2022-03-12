@@ -399,7 +399,7 @@ https://liveanevia.mncnow.id/live/eds/TV5/sa_dash_vmx/TV5.mpd
 http://ert-live-bcbs15228.siliconweb.com/media/ert_world/ert_worldmedium.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-logo="https://i.imgur.com/IEncbNb.png" group-title="WORLD ENTERTAINMENT",ABC Australia
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IEncbNb.png" group-title="WORLD ENTERTAINMENT",ABC Australia Asia
 https://liveanevia.mncnow.id/live/eds/AustraliaPlus/sa_dash_vmx/AustraliaPlus.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
@@ -503,6 +503,8 @@ http://stariptv.org:8080/wael2021/123456/148491
 http://stariptv.org:8080/wael2021/123456/148450
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JOCjq3R.png" group-title="AMERICAN ENTERTAINMENT",Comedy Central East
 http://tv.fullytv.com:8080/lisa1/1lisa/17178
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/2019_Disney_Channel_logo.svg/1920px-2019_Disney_Channel_logo.svg.png" group-title="AMERICAN ENTERTAINMENT",Disney Channel East
+https://16live00.akamaized.net/DISNEY_CHANNEL/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/1920px-Logo_Lifetime_2020.svg.png" group-title="AMERICAN ENTERTAINMENT",Lifetime East
 http://38.127.211.18/live/c2eds/Lifetime/HLS/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/OWN_2011_logo.svg/1920px-OWN_2011_logo.svg.png" group-title="AMERICAN ENTERTAINMENT",Oprah Winfrey Network East
@@ -1323,6 +1325,10 @@ http://tvn.x10.bz/xchannel/master-5.m3u8
 http://108.136.37.52/m3u8/uc_IndiKids.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HLr5Qi4.png" group-title="KIDS",My Kidz
 http://rr.dens.tv/h/h98/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Disney_Junior.svg/1920px-Disney_Junior.svg.png" group-title="KIDS",Disney Junior
+https://16live00.akamaized.net/DISNEY_JR/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Disney_XD_-_2015.svg/1280px-Disney_XD_-_2015.svg.png" group-title="KIDS",Disney XD East
+https://16live00.akamaized.net/DISNEY_XD/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/f/f2/Logo_tvedukasi_baru.png" group-title="KNOWLEDGE",TV Edukasi
 http://118.98.229.118:1935/live/tve.stream/chunklist_w36933799.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/x1sG33k.png" group-title="KNOWLEDGE",Indonesiana TV
