@@ -616,7 +616,7 @@ http://190.2.155.162:8080/m6music/mpegts
 http://hdhd.tk:80/772299/772299/28303
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bNw4mXF.png" group-title="WORLD MUSIC",RTSH Muzikë
 https://tvlive.rtsh.dev/live/rtsh_muzike_mob/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/X7VxlBN.png" group-title="WORLD MUSIC",MTV Argentina
+#EXTINF:-1 tvg-logo="https://i.imgur.com/X7VxlBN.png" group-title="WORLD MUSIC",MTV Latino Sud
 https://edge2-ccast-sl.cvattv.com.ar/live/c6eds/MTV_HD/SA_SAGEMCOM/MTV_HD.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
@@ -1200,7 +1200,7 @@ http://live.oldtvline.com:23000/mafrale3-150317/FiiH8aP54u/6644
 http://live.oldtvline.com:23000/mafrale3-150317/FiiH8aP54u/39071
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dJTyVaU.png" group-title="ITALIAN SERIES",Top Crime
 http://live.oldtvline.com:23000/mafrale3-150317/FiiH8aP54u/38620
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GCK0r0U.png" group-title="SPANISH SERIES",A3S
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GCK0r0U.png" group-title="SPANISH SERIES",Atreseries
 https://mdstrm.com/live-stream-playlist/5cae562e0ca2f30815231c0f.m3u8?access_token=DST4b676d7da5a2a92ee15f8efcbcd00606
 #EXTINF:-1 tvg-logo="https://i.imgur.com/icFwjZ3.jpg" group-title="SPANISH SERIES",AMC España
 http://red.ipfox.org:8080/1234/12345678/2580
@@ -1358,7 +1358,7 @@ https://liveanevia.mncnow.id/live/eds/History/sa_dash_vmx/History.mpd
 http://45.91.134.57:25461/sweet/7749/279
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-logo="https://i.imgur.com/O13uMvJ.png" group-title="KNOWLEDGE",National Geographic
+#EXTINF:-1 tvg-logo="https://i.imgur.com/O13uMvJ.png" group-title="KNOWLEDGE",National Geographic Asia
 https://liveanevia.mncnow.id/live/eds/NatGeoChannel/sa_dash_vmx/NatGeoChannel.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
@@ -1420,7 +1420,7 @@ https://streaming.cnnphilippines.com/live/myStream/chunklist_w1199238897.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hi0D9Ut.png" group-title="TURKISH NEWS",CNN Türk
 https://www.yilmaztv.ru/beceroz/oz.php?channel=cnn-turk-canli-yayin&stream=1&type=m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Jai0CTx.png" group-title="LATINO NEWS",CNN Chile
-http://tv.fullytv.com:8080/lisa1/1lisa/3749
+http://45.236.175.117:9600/play/a01x
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jCXODcU.png" group-title="SPANISH NEWS",CNN en Español
 http://190.61.102.67:2000/play/a00x/index.m3u8
 #KODIPROP:inputstream=inputstream.adaptive
@@ -1716,14 +1716,14 @@ http://103.194.169.171:8282/IT_TGCOM24/mono.m3u8?token=93a611c10082e5eec57f8bec5
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/1024px-Logo_TVE-24h.svg.png" group-title="SPANISH NEWS",24h
 https://rtvelivestreamv3.akamaized.net/24h/24h_main_720.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/a/a6/24_TV_logosu.png" group-title="TURKISH NEWS",24
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/a/a6/24_TV_logosu.png" group-title="TURKISH NEWS",24 TV
 https://turkmedya-live.ercdn.net/tv24/tv24_720p.m3u8
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 #EXTINF:-1 tvg-logo="https://i.imgur.com/k7oie6a.png" group-title="TURKISH NEWS",A Haber
 https://www.yilmaztv.ru/beceroz/oz.php?channel=a-haber-izle-13&stream=1&type=m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/20kWdRa.png" group-title="TURKISH NEWS",Haber Global
 https://tv.ensonhaber.com/tv/tr/haberglobal/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/k7qxZSp.png" group-title="TURKISH NEWS",Haber Türk
+#EXTINF:-1 tvg-logo="https://i.imgur.com/k7qxZSp.png" group-title="TURKISH NEWS",Habertürk
 https://tv.ensonhaber.com/tv/tr/haberturk/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/NTV_logo.png" group-title="TURKISH NEWS",NTV
 https://dogus-live.daioncdn.net/ntv/ntv_720p.m3u8
@@ -1731,7 +1731,7 @@ https://dogus-live.daioncdn.net/ntv/ntv_720p.m3u8
 https://tv.ensonhaber.com/tv/tr/tgrthaber/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Qq58W0E.png" group-title="TURKISH NEWS",TRT Haber
 https://tv-trthaber.medya.trt.com.tr/master_720.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/34/Tvnet_Logo.jpg" group-title="TURKISH NEWS",tvnet
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/34/Tvnet_Logo.jpg" group-title="TURKISH NEWS",TV Net
 https://tv.ensonhaber.com/tv/tr/tvnet/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/34/Astro_Awani_501.png" group-title="MALAY NEWS",Astro Awani
 https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
@@ -3563,11 +3563,11 @@ https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IS4LViL.png" group-title="ARGENTINA",El Nueve
 https://delivery.cdn.rcs.net.ar/mnp/elnueve/output.mpd
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/Logo_de_eltrece_lanzado_en_2016.png" group-title="ARGENTINA",El Trece
-http://cdn.stg.cvattv.com.ar/live/live2/ArtearHD/SA_Live_fta/ArtearHD.m3u8
+https://live-01-02-eltrece.vodgc.net/eltrecetv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Net_TV_logo.png/120px-Net_TV_logo.png" group-title="ARGENTINA",Net TV
 https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Oo5v6l5.png" group-title="ARGENTINA",Telefe
-http://edge1.stg.cvattv.com.ar/live/live2/TelefeHD/SA_Live_fta/index.m3u8
+https://edge2-ccast-sl.cvattv.com.ar/live/c3eds/TelefeHD/SA_SAGEMCOM/TelefeHD.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JVkemCh.png" group-title="ARGENTINA",Telemax
 http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://i.imgur.com/srtddlN.png" group-title="ARGENTINA",TV Publica
@@ -3711,11 +3711,11 @@ http://183.207.248.71:80/cntv/live1/n-cctv-15/n-cctv-15
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QB3l5HH.png" group-title="CHINA",CCTV 17
 http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv17/HD-8000k-1080P-cctv17
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Logotipo_de_Canal_13.png/1024px-Logotipo_de_Canal_13.png" group-title="CHILE",Canal 13
-https://marine2.miplay.cl/canal13/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zUykSnY.png" group-title="CHILE",CHV
+https://marine2.miplay.cl/megaplus/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zUykSnY.png" group-title="CHILE",ChileVisión
 https://marine2.miplay.cl/chilevision/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FvVU1mC.png" group-title="CHILE",La Red
-https://d2tr4gdfol9ja.cloudfront.net/lared/lared.smil/chunklist_b1000000.m3u8
+https://marine2.miplay.cl/lared/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Mega_Chile_2020.png/1280px-Mega_Chile_2020.png" group-title="CHILE",Mega
 https://marine2.miplay.cl/mega/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Telecanal_-_2011_logo_%283D_variant%29.png" group-title="CHILE",Telecanal
@@ -4397,11 +4397,11 @@ https://dogus-live.daioncdn.net/startv/startv_720p.m3u8
 https://tv-trt1.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Uu1Iwqc.png" group-title="TURKEY",TRT 2
 http://167.114.115.233:8080/trt2fhd/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6t0F8zO.jpg" group-title="TURKEY",TV4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6t0F8zO.jpg" group-title="TURKEY",TV 4
 https://turkmedya-live.ercdn.net/tv4/tv4_720p.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/35/Tv8_new_logo.png" group-title="TURKEY",TV8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/35/Tv8_new_logo.png" group-title="TURKEY",TV 8
 https://livesx.canlitv.center/tv8hd.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/nhl0SnT.png" group-title="TURKEY",TV8.5
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nhl0SnT.png" group-title="TURKEY",TV 8.5
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 https://www.yilmaztv.ru/beceroz/oz.php?channel=tv85-turkiye-1&stream=1&type=m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3gFFRS2.png" group-title="UKRAINE",1+1
