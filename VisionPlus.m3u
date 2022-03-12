@@ -1293,7 +1293,7 @@ https://liveanevia.mncnow.id/live/eds/Cbeebies/sa_dash_vmx/Cbeebies.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/5/5a/BabyFirst.svg/langfr-800px-BabyFirst.svg.png" group-title="KIDS",Baby First
 https://livecdn.fptplay.net/hda1/babyfirst_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/OqXi7AW.png" group-title="KIDS",ZooMoo
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OqXi7AW.png" group-title="KIDS",Zoo Moo Asia
 http://203.154.177.124:8899/live/ch20/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EVNoaz5.png" group-title="KIDS",Ta-daa!
 https://nonton.site:8443/Thopani/Haidir/37445
@@ -3367,9 +3367,11 @@ https://vips-livecdn.fptplay.net/hda1/outdoorfhd_vhls.smil/playlist.m3u8
 https://livecdn.fptplay.net/sdb/bbclifestyle_2000.stream/chunklist.m3u8
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CGzC3fK.png" group-title="LIFESTYLE",Fashion TV
-https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg13_zw9_27065_ftv_pg13_196_hls.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/lMSp60D.png" group-title="LIFESTYLE",Fashion TV Midnight Secrets
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CGzC3fK.png" group-title="LIFESTYLE",Fashion TV L'Original
+https://fash2043.cloudycdn.services/slive/ftv_ftv_asia_ada_xiv_42149_default_137_hls.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CGzC3fK.png" group-title="LIFESTYLE",Fashion TV Asia
+https://fash1043.cloudycdn.services/slive/ftv_pg13_adaptive.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lMSp60D.png" group-title="LIFESTYLE",Fashion TV Midnite Secret
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist_b2800000_t64NzIwcA==.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/keL4CuH.png" group-title="LIFESTYLE",TV5 Monde Style
 https://tv5styleen-i.akamaihd.net/hls/live/631650/tv5styleen/tv5style_eng_1200.m3u8
