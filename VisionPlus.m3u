@@ -311,6 +311,10 @@ https://liveanevia.mncnow.id/live/eds/VisionPrime/sa_dash_vmx/VisionPrime.mpd
 https://liveanevia.mncnow.id/live/eds/MNCEntertainment/sa_dash_vmx/MNCEntertainment.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/D3L1y0F.png" group-title="NATIONAL ENTERTAINMENT",ie
+https://liveanevia.mncnow.id/live/eds/MNCInfotainment/sa_dash_vmx/MNCInfotainment.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IrS5AOC.png" group-title="NATIONAL ENTERTAINMENT",OK TV
 https://liveanevia.mncnow.id/live/eds/OKTV/sa_dash_vmx/OKTV.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xtt7582.png" group-title="NATIONAL ENTERTAINMENT",Usee Prime
@@ -322,6 +326,8 @@ https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(20baf7aa-fd51-4
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ibh5oCE.png" group-title="NATIONAL ENTERTAINMENT",Citra Entertainment
 http://tvn.x10.bz/xchannel/master-11.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KiRHdpz.png" group-title="NATIONAL ENTERTAINMENT",Citra Drama
+http://tvn.x10.bz/xchannel/master-2.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cyIsVd7.png" group-title="NATIONAL ENTERTAINMENT",Astro Aura
 https://nonton.site:8443/Thopani/Haidir/37468
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/12/Astro_Rania_NEW.png" group-title="NATIONAL ENTERTAINMENT",Astro Rania
@@ -1878,9 +1884,9 @@ http://ye23.win/iptv/korea2021.php?id=ytn
 https://ducg38fv680xm.cloudfront.net/yeonhap_3M.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b2/%C4%8CT24_logo.png" group-title="CZECH NEWS",ČT24
 http://crystalott.org:80/CKVRKUO4L3/IRTRILUKU7/9633
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Znax94k.png" group-title="NORDIC NEWS",TV2 News
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Znax94k.png" group-title="NORDIC NEWS",TV 2 News
 http://stariptv.org:8080/wael2021/123456/58244
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QeV1sma.png" group-title="NORDIC NEWS",TV2 Nyhetskanalen
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QeV1sma.png" group-title="NORDIC NEWS",TV 2 Nyhetskanalen
 https://ws15-hls-live.akamaized.net/out/u/1153546.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/TVP_Info_logo.svg/1920px-TVP_Info_logo.svg.png" group-title="POLISH NEWS",TVP Info
 http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpinfo
@@ -2134,7 +2140,7 @@ https://bit.ly/nbatvusa?/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/Olympic_Channel_logo.png" group-title="AMERICAN SPORTS",Olympic Channel
 http://66.70.176.103:8081/USA%7COLYMPICCHANNEL/USA%7COLYMPICCHANNEL/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
-#EXTINF:-1 tvg-logo="https://i.imgur.com/iZ1rMGW.png" group-title="WORLD SPORTS",Motorvision.TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iZ1rMGW.png" group-title="WORLD SPORTS",Motorvision TV
 http://rr.dens.tv/h/h09/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/j1ipsRz.png" group-title="WORLD SPORTS",Ginx eSports TV International
 http://bestsave.ltd:2052/141414/151515/131939
@@ -2286,53 +2292,55 @@ http://185.152.66.55/98776/tracks-v1a1/mono.m3u8
 http://185.152.66.55/98774/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vhYstlz.png" group-title="BRITISH SPORTS",Sky Sports Racing
 https://16live00.akamaized.net/SKYSPORTSRACES/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gwV31E0.png" group-title="DANISH SPORTS",Eurosport 1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gwV31E0.png" group-title="DANISH SPORTS",Eurosport 1 Norge
 http://bestsave.ltd:2052/141414/151515/148845
-#EXTINF:-1 tvg-logo="https://i.imgur.com/lTnKDju.png" group-title="DANISH SPORTS",Eurosport 2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lTnKDju.png" group-title="DANISH SPORTS",Eurosport 2 Danmark
 http://bestsave.ltd:2052/141414/151515/148844
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dACJ673.png" group-title="DANISH SPORTS",TV2 Sport
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dACJ673.png" group-title="DANISH SPORTS",TV 2 Sport
 http://stariptv.org:8080/wael2021/123456/58206
-#EXTINF:-1 tvg-logo="https://i.imgur.com/im3pS9j.png" group-title="DANISH SPORTS",TV2 Sport X
+#EXTINF:-1 tvg-logo="https://i.imgur.com/im3pS9j.png" group-title="DANISH SPORTS",TV 2 Sport X
 http://2690.ovh:25461/0sq3gfuu/n07z4gud/47509
-#EXTINF:-1 tvg-logo="https://i.imgur.com/loVnWCY.png" group-title="DANISH SPORTS",TV3 Sport
+#EXTINF:-1 tvg-logo="https://i.imgur.com/loVnWCY.png" group-title="DANISH SPORTS",TV 3 Sport
 http://stariptv.org:8080/wael2021/123456/58198
 #EXTINF:-1 tvg-logo="https://i.imgur.com/59vX06V.png" group-title="DANISH SPORTS",V Sport Golf
 http://2690.ovh:25461/0sq3gfuu/n07z4gud/47439
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fyqMQxW.png" group-title="SWEDISH SPORTS",C More Fotboll
-http://2690.ovh:25461/0sq3gfuu/n07z4gud/47422
+http://5gfksa.ltd:2052/334455/554433/149897
 #EXTINF:-1 tvg-logo="https://i.imgur.com/503xx1w.png" group-title="SWEDISH SPORTS",C More Golf
-http://2690.ovh:25461/0sq3gfuu/n07z4gud/47424
+http://5gfksa.ltd:2052/334455/554433/149898
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BWkCvWF.png" group-title="SWEDISH SPORTS",C More Hockey
-http://2690.ovh:25461/0sq3gfuu/n07z4gud/47425
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gwV31E0.png" group-title="SWEDISH SPORTS",Eurosport 1
-http://2690.ovh:25461/0sq3gfuu/n07z4gud/47433
-#EXTINF:-1 tvg-logo="https://i.imgur.com/lTnKDju.png" group-title="SWEDISH SPORTS",Eurosport 2
-http://2690.ovh:25461/0sq3gfuu/n07z4gud/47434
+http://5gfksa.ltd:2052/334455/554433/128020
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gwV31E0.png" group-title="SWEDISH SPORTS",Eurosport 1 Sverige
+http://5gfksa.ltd:2052/334455/554433/128054
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lTnKDju.png" group-title="SWEDISH SPORTS",Eurosport 2 Sverige
+http://5gfksa.ltd:2052/334455/554433/128011
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4UMZF6H.png" group-title="SWEDISH SPORTS",Fight Sports
-http://2690.ovh:25461/0sq3gfuu/n07z4gud/47437
+http://5gfksa.ltd:2052/334455/554433/128010
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HzROYev.png" group-title="SWEDISH SPORTS",Sportkanalen
 http://2690.ovh:25461/0sq3gfuu/n07z4gud/47435
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gpkbvuB.png" group-title="SWEDISH SPORTS",V Sport 1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gpkbvuB.png" group-title="SWEDISH SPORTS",V Sport 1 Sverige
 http://2690.ovh:25461/0sq3gfuu/n07z4gud/47442
 #EXTINF:-1 tvg-logo="https://i.imgur.com/77fMvyg.png" group-title="SWEDISH SPORTS",V Sport Extra
-http://2690.ovh:25461/0sq3gfuu/n07z4gud/47445
+http://5gfksa.ltd:2052/334455/554433/149933
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JkItNQZ.png" group-title="SWEDISH SPORTS",V Sport Football
-http://2690.ovh:25461/0sq3gfuu/n07z4gud/47438
+http://5gfksa.ltd:2052/334455/554433/149934
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tArjH2F.png" group-title="SWEDISH SPORTS",V Sport Motor
-http://2690.ovh:25461/0sq3gfuu/n07z4gud/47441
+http://5gfksa.ltd:2052/334455/554433/149937
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PCnmyha.png" group-title="SWEDISH SPORTS",V Sport Premium
-http://2690.ovh:25461/0sq3gfuu/n07z4gud/47443
+http://5gfksa.ltd:2052/334455/554433/149938
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cXpkGct.png" group-title="SWEDISH SPORTS",V Sport Vinter
-http://2690.ovh:25461/0sq3gfuu/n07z4gud/47440
+http://5gfksa.ltd:2052/334455/554433/149936
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gwV31E0.png" group-title="NORDIC SPORTS",Eurosport 1 Norge
+http://5gfksa.ltd:2052/334455/554433/128072
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fbJWZvS.png" group-title="NORDIC SPORTS",Eurosport Norge
-http://2690.ovh:25461/0sq3gfuu/n07z4gud/47527
-#EXTINF:-1 tvg-logo="https://i.imgur.com/RK7Ht8c.png" group-title="NORDIC SPORTS",TV2 Sport 1
+http://5gfksa.ltd:2052/334455/554433/128070
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RK7Ht8c.png" group-title="NORDIC SPORTS",TV 2 Sport 1
 http://2690.ovh:25461/0sq3gfuu/n07z4gud/47551
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FBj93dH.png" group-title="NORDIC SPORTS",TV2 Sport 2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FBj93dH.png" group-title="NORDIC SPORTS",TV 2 Sport 2
 http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/21125
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WRqrN9t.png" group-title="NORDIC SPORTS",TV2 Sport Premium
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WRqrN9t.png" group-title="NORDIC SPORTS",TV 2 Sport Premium
 http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/170131
-#EXTINF:-1 tvg-logo="https://i.imgur.com/LFx6tP9.png" group-title="NORDIC SPORTS",TV2 Sport Premium 2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LFx6tP9.png" group-title="NORDIC SPORTS",TV 2 Sport Premium 2
 http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/264547
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gpkbvuB.png" group-title="NORDIC SPORTS",V Sport 1
 http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/264451
@@ -2545,7 +2553,7 @@ http://83.238.167.113:8001/1:0:1:3E25:2EE0:13E:820000:0:0:0:
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9.0; MI 8 SE) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.119 Mobile Safari/537.36
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lTnKDju.png" group-title="POLISH SPORTS",Eurosport 2 Polska
 http://83.238.167.113:8001/1:0:1:290c:1edc:71:820000:0:0:0:
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4ePEZ0H.png" group-title="POLISH SPORTS",n Sport+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4ePEZ0H.png" group-title="POLISH SPORTS",n Sport +
 http://internetowa.tv/?c=hlsPlay&channel=nsportplus&token=04930f46ae574effac95f6edf37c5d2cfcf7e20168d6de081e120cf9311d1f44051cdf2b4e0c327af5d01747e36b74f60e62f9f349d99bf22662ed631d52eedb
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pM6Q5n1.png" group-title="POLISH SPORTS",Polsat Sport
 http://internetowa.tv/?c=hlsPlay&channel=polsatsport&token=04930f46ae574effac95f6edf37c5d2cfcf7e20168d6de081e120cf9311d1f44051cdf2b4e0c327af5d01747e36b74f60e62f9f349d99bf22662ed631d52eedb
@@ -2560,7 +2568,7 @@ http://internetowa.tv/?c=hlsPlay&channel=polsatsportpremium&token=04930f46ae574e
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xf6o9Go.png" group-title="POLISH SPORTS",Polsat Sport Premium 2
 http://internetowa.tv/?c=hlsPlay&channel=polsatsportpremium2&token=04930f46ae574effac95f6edf37c5d2cfcf7e20168d6de081e120cf9311d1f44051cdf2b4e0c327af5d01747e36b74f60e62f9f349d99bf22662ed631d52eedb
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9.0; MI 8 SE) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.119 Mobile Safari/537.36
-#EXTINF:-1 tvg-logo="https://i.imgur.com/IZWOLiJ.png" group-title="POLISH SPORTS",Sport Klub
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IZWOLiJ.png" group-title="POLISH SPORTS",Sport Klub Polska
 http://83.238.167.113:8001/1:0:1:DAF:2D50:13E:820000:0:0:0:
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Logo_TVP_Sport.jpg" group-title="POLISH SPORTS",TVP Sport
 http://internetowa.tv/?c=hlsPlay&channel=tvpsport&token=04930f46ae574effac95f6edf37c5d2cfcf7e20168d6de081e120cf9311d1f44051cdf2b4e0c327af5d01747e36b74f60e62f9f349d99bf22662ed631d52eedb
@@ -2584,13 +2592,13 @@ http://showflix.org:5890/123456789/123456789/628
 http://stariptv.org:8080/wael2021/123456/4299
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5Rh2s8k.png" group-title="FRENCH SPORTS",RMC Sport 2
 http://stariptv.org:8080/wael2021/123456/4300
-#EXTINF:-1 tvg-logo="https://i.imgur.com/kaUN9Uw.png" group-title="ROMANIAN SPORTS",Digi Sport 1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kaUN9Uw.png" group-title="ROMANIAN SPORTS",Digi Sport 1 Romania
 http://1tv1.net:8080/hakim2021/123456/56158
-#EXTINF:-1 tvg-logo="https://i.imgur.com/xxLvKJD.png" group-title="ROMANIAN SPORTS",Digi Sport 2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xxLvKJD.png" group-title="ROMANIAN SPORTS",Digi Sport 2 Romania
 http://1tv1.net:8080/hakim2021/123456/56145
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WiynV2K.png" group-title="ROMANIAN SPORTS",Digi Sport 3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WiynV2K.png" group-title="ROMANIAN SPORTS",Digi Sport 3 Romania
 http://1tv1.net:8080/hakim2021/123456/56148
-#EXTINF:-1 tvg-logo="https://i.imgur.com/kBsQd2d.png" group-title="ROMANIAN SPORTS",Digi Sport 4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kBsQd2d.png" group-title="ROMANIAN SPORTS",Digi Sport 4 Romania
 http://1tv1.net:8080/hakim2021/123456/56159
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gwV31E0.png" group-title="ROMANIAN SPORTS",Eurosport 1 Romania
 http://1tv1.net:8080/hakim2021/123456/56062
@@ -3435,10 +3443,6 @@ http://cld01ibi16.wz.tv2000.it/tv2000_alfa.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/I0xoFhv.png" group-title="LIFESTYLE",Lifestyle & Fashion
 https://liveanevia.mncnow.id/live/eds/LifeStyleFashion/sa_dash_vmx/LifeStyleFashion.mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-logo="https://i.imgur.com/D3L1y0F.png" group-title="LIFESTYLE",ie
-https://liveanevia.mncnow.id/live/eds/MNCInfotainment/sa_dash_vmx/MNCInfotainment.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lzaV3z4.png" group-title="LIFESTYLE",Biznet Lifestyle
 http://livestream.biznetvideo.net/biznet_lifestyle/smil:lifestyle.smil/playlist.m3u8?bizkeylivestarttime=0&bizkeyliveendtime=0&bizkeyliveCustomParameter=myParameter&bizkeylivehash=jgDKPclcGdZfvrIDxfMdpT7v_srMWCbubntGo9cCYWpcBBQalMlLQxHswm43PbVR
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -3887,21 +3891,21 @@ http://bestsave.ltd:2052/141414/151515/148849
 http://bestsave.ltd:2052/141414/151515/148835
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Kanal_5_logo_Danmark.png/800px-Kanal_5_logo_Danmark.png" group-title="DENMARK",Kanal 5
 http://bestsave.ltd:2052/141414/151515/148834
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TV_2_logo_2013.svg/1920px-TV_2_logo_2013.svg.png" group-title="DENMARK",TV2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TV_2_logo_2013.svg/1920px-TV_2_logo_2013.svg.png" group-title="DENMARK",TV 2
 http://2690.ovh:25461/0sq3gfuu/n07z4gud/47492
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZOBNt2P.png" group-title="DENMARK",TV2 Charlie
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZOBNt2P.png" group-title="DENMARK",TV 2 Charlie
 http://bestsave.ltd:2052/141414/151515/148797
-#EXTINF:-1 tvg-logo="https://i.imgur.com/20eeoQR.png" group-title="DENMARK",TV2 Fri
+#EXTINF:-1 tvg-logo="https://i.imgur.com/20eeoQR.png" group-title="DENMARK",TV 2 Fri
 http://bestsave.ltd:2052/141414/151515/148796
-#EXTINF:-1 tvg-logo="https://i.imgur.com/x5andrD.png" group-title="DENMARK",TV3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/x5andrD.png" group-title="DENMARK",TV 3 Danmark
 http://bestsave.ltd:2052/141414/151515/148787
-#EXTINF:-1 tvg-logo="https://i.imgur.com/jVjTa7O.png" group-title="DENMARK",TV3 Max
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jVjTa7O.png" group-title="DENMARK",TV 3 Max
 http://bestsave.ltd:2052/141414/151515/148786
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dXxTp2Z.png" group-title="DENMARK",TV3 Puls
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dXxTp2Z.png" group-title="DENMARK",TV 3 Puls
 http://bestsave.ltd:2052/141414/151515/148785
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZvD8FmS.png" group-title="DENMARK",TV3+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZvD8FmS.png" group-title="DENMARK",TV 3+
 http://2690.ovh:25461/0sq3gfuu/n07z4gud/47503
-#EXTINF:-1 tvg-logo="https://i.imgur.com/kmiMeLn.png" group-title="DENMARK",Zulu
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kmiMeLn.png" group-title="DENMARK",TV 2 Zulu
 http://red.ipfox.org:8080/1234/12345678/31958
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Ecuavisa_Logo_2019.png" group-title="ECUADOR",Ecuavisa
 http://tv.fullytv.com:8080/lisa1/1lisa/3433
@@ -4170,26 +4174,26 @@ http://showflix.org:5890/123456789/123456789/968
 http://showflix.org:5890/123456789/123456789/970
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f5/SBS9_New_Logo_2018.png" group-title="NETHERLANDS",SBS 9
 http://bestsave.ltd:2052/141414/151515/125228
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/NRK1-Logo.svg/1920px-NRK1-Logo.svg.png" group-title="NORWAY",NRK 1
-http://2690.ovh:25461/0sq3gfuu/n07z4gud/47534
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/NRK2-Logo.svg/1920px-NRK2-Logo.svg.png" group-title="NORWAY",NRK 2
-http://2690.ovh:25461/0sq3gfuu/n07z4gud/47535
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/NRK3_logo.svg/1920px-NRK3_logo.svg.png" group-title="NORWAY",NRK 3
-http://2690.ovh:25461/0sq3gfuu/n07z4gud/47536
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/NRK1-Logo.svg/1920px-NRK1-Logo.svg.png" group-title="NORWAY",NRK1
+http://5gfksa.ltd:2052/334455/554433/128117
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/NRK2-Logo.svg/1920px-NRK2-Logo.svg.png" group-title="NORWAY",NRK2
+http://5gfksa.ltd:2052/334455/554433/128115
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/NRK3_logo.svg/1920px-NRK3_logo.svg.png" group-title="NORWAY",NRK3
+http://5gfksa.ltd:2052/334455/554433/128114
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ty4siDf.png" group-title="NORWAY",TV Norge
-http://2690.ovh:25461/0sq3gfuu/n07z4gud/47545
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EJtOocI.png" group-title="NORWAY",TV2
-http://2690.ovh:25461/0sq3gfuu/n07z4gud/47547
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KsmKK4n.png" group-title="NORWAY",TV2 Livsstil
-http://2690.ovh:25461/0sq3gfuu/n07z4gud/47546
-#EXTINF:-1 tvg-logo="https://i.imgur.com/JLLXAC2.png" group-title="NORWAY",TV2 Zebra
-http://2690.ovh:25461/0sq3gfuu/n07z4gud/47553
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0VQDatQ.png" group-title="NORWAY",TV3
-http://2690.ovh:25461/0sq3gfuu/n07z4gud/47557
-#EXTINF:-1 tvg-logo="https://i.imgur.com/LXgmPuf.png" group-title="NORWAY",TV6
-http://2690.ovh:25461/0sq3gfuu/n07z4gud/47559
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5fE1wJn.png" group-title="NORWAY",V4
-http://2690.ovh:25461/0sq3gfuu/n07z4gud/47563
+http://5gfksa.ltd:2052/334455/554433/128120
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EJtOocI.png" group-title="NORWAY",TV 2
+http://5gfksa.ltd:2052/334455/554433/128105
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KsmKK4n.png" group-title="NORWAY",TV 2 Livsstil
+http://5gfksa.ltd:2052/334455/554433/128106
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JLLXAC2.png" group-title="NORWAY",TV 2 Zebra
+http://5gfksa.ltd:2052/334455/554433/128103
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0VQDatQ.png" group-title="NORWAY",TV 3 Norge
+http://5gfksa.ltd:2052/334455/554433/128119
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LXgmPuf.png" group-title="NORWAY",TV 6 Norge
+http://5gfksa.ltd:2052/334455/554433/128118
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5fE1wJn.png" group-title="NORWAY",V 4
+http://5gfksa.ltd:2052/334455/554433/128113
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/b/bf/Kapamilya_Channel_%282020-.n.v.%29.png" group-title="PHILIPPINES",Kapamilya Channel
 http://ky-iptv.com:80/nicholas/123456789/949333.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UrDMl5Z.png" group-title="PHILIPPINES",A2Z Channel 11
@@ -4388,29 +4392,29 @@ http://showflix.org:5890/Berlin/Berlin/800
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Telecinco_2012_Large.svg/800px-Telecinco_2012_Large.svg.png" group-title="SPAIN",Telecinco
 http://91.126.141.13:1935/live/61/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Jq0EpFU.png" group-title="SWEDEN",Kanal 11
-http://2690.ovh:25461/0sq3gfuu/n07z4gud/47373
+http://5gfksa.ltd:2052/334455/554433/128052
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nbJOSEG.png" group-title="SWEDEN",Kanal 5
-http://2690.ovh:25461/0sq3gfuu/n07z4gud/47363
+http://5gfksa.ltd:2052/334455/554433/149908
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xha7Bsa.png" group-title="SWEDEN",Kanal 9
-http://2690.ovh:25461/0sq3gfuu/n07z4gud/47369
+http://5gfksa.ltd:2052/334455/554433/128050
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Sjuan_2018.svg/800px-Sjuan_2018.svg.png" group-title="SWEDEN",Sjuan
 http://2690.ovh:25461/0sq3gfuu/n07z4gud/47367
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tvkMICz.png" group-title="SWEDEN",SVT 1
-http://2690.ovh:25461/0sq3gfuu/n07z4gud/47349
+http://5gfksa.ltd:2052/334455/554433/128048
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8Z1lYco.png" group-title="SWEDEN",SVT 2
-http://2690.ovh:25461/0sq3gfuu/n07z4gud/47352
+http://5gfksa.ltd:2052/334455/554433/128047
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hwSCtwo.png" group-title="SWEDEN",TV10
 http://2690.ovh:25461/0sq3gfuu/n07z4gud/47371
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JfdAf2n.png" group-title="SWEDEN",TV12
 http://2690.ovh:25461/0sq3gfuu/n07z4gud/47375
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZTnyphX.png" group-title="SWEDEN",TV3
-http://2690.ovh:25461/0sq3gfuu/n07z4gud/47357
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/TV4sweden_logo.svg/800px-TV4sweden_logo.svg.png" group-title="SWEDEN",TV4
-http://2690.ovh:25461/0sq3gfuu/n07z4gud/47361
-#EXTINF:-1 tvg-logo="https://i.imgur.com/JYVqSfO.png" group-title="SWEDEN",TV6
-http://2690.ovh:25461/0sq3gfuu/n07z4gud/47366
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NoV7RNj.png" group-title="SWEDEN",TV8
-http://2690.ovh:25461/0sq3gfuu/n07z4gud/47368
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZTnyphX.png" group-title="SWEDEN",TV 3 Sverige
+http://5gfksa.ltd:2052/334455/554433/128043
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/TV4sweden_logo.svg/800px-TV4sweden_logo.svg.png" group-title="SWEDEN",TV 4
+http://5gfksa.ltd:2052/334455/554433/128039
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JYVqSfO.png" group-title="SWEDEN",TV 6 Sverige
+http://5gfksa.ltd:2052/334455/554433/128038
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NoV7RNj.png" group-title="SWEDEN",TV 8 Sverige
+http://5gfksa.ltd:2052/334455/554433/128037
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/de/thumb/a/a0/Logo_3plus.svg/1024px-Logo_3plus.svg.png" group-title="SWITZERLAND",3+
 http://showflix.org:5890/123456789/123456789/141885
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Logo_4plus.svg/1024px-Logo_4plus.svg.png" group-title="SWITZERLAND",4+
