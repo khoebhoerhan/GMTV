@@ -2139,6 +2139,8 @@ https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(ec41a5e2-09e4-4
 https://bit.ly/nbatvusa?/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/Olympic_Channel_logo.png" group-title="AMERICAN SPORTS",Olympic Channel
 http://66.70.176.103:8081/USA%7COLYMPICCHANNEL/USA%7COLYMPICCHANNEL/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Y4dOfan.png" group-title="CLUBS OF SPORTS",Barça TV
+http://red.ipfox.org:8080/1234/12345678/2574
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RCyM7W9.png" group-title="CLUBS OF SPORTS",Benfica TV
 http://5gfksa.ltd:2052/334455/554433/131630
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ULcjgX4.png" group-title="CLUBS OF SPORTS",FB TV
@@ -2155,6 +2157,10 @@ http://5gfksa.ltd:2052/334455/554433/80810
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTINF:-1 tvg-logo="https://i.imgur.com/g2qWOoB.png" group-title="CLUBS OF SPORTS,Porto Canal
 https://streamer-a03.videos.sapo.pt/live/portocanal/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KFwSXaG.png" group-title="CLUBS OF SPORTS,Real Madrid TV Español
+http://stariptv.org:8080/wael2021/123456/34062
+#EXTINF:-1 tvg-logo="https://i.imgur.com/g2qWOoB.png" group-title="CLUBS OF SPORTS,Sevilla FC TV
+https://open.http.mp.streamamg.com/p/3001314/sp/300131400/playManifest/entryId/0_ye0b8tc0/format/applehttp/protocol/https/uiConfId/30026292/a.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/r2XCRmO.png" group-title="CLUBS OF SPORTS",Sporting TV
 http://5gfksa.ltd:2052/334455/554433/131583
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
