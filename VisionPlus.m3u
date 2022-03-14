@@ -508,9 +508,9 @@ http://5gfksa.ltd:2052/334455/554433/84368
 #EXTINF:-1 tvg-logo="https://i.imgur.com/71d2wEk.png" group-title="BRASILIAN ENTERTAINMENT",Paramount Network Brasil
 http://5gfksa.ltd:2052/334455/554433/84276
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/1920px-SpaceLogo.svg.png" group-title="BRASILIAN ENTERTAINMENT",Space Brasil
-http://5gfksa.ltd:2052/334455/554433/84274
+http://170.82.200.38:8080/space/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/umJbqNY.png" group-title="BRASILIAN ENTERTAINMENT",TNT Brasil
-http://5gfksa.ltd:2052/334455/554433/84298
+http://170.82.200.38:8080/tnt/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Canal_Viva_2018_wordmark.svg/1280px-Canal_Viva_2018_wordmark.svg.png" group-title="BRASILIAN ENTERTAINMENT",Canal Viva
 http://5gfksa.ltd:2052/334455/554433/84369
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Game_Show_Network_2018.svg/1024px-Game_Show_Network_2018.svg.png" group-title="AMERICAN ENTERTAINMENT",Game Show Network
@@ -1182,11 +1182,11 @@ http://edge02-fdo-py.cvattv.com.ar/live/c4eds/Universal_Channel_HD/SA_SAGEMCOM/U
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png" group-title="LATINO SERIES",Warner TV
 http://edge02-fdo-py.cvattv.com.ar/live/c4eds/WarnerHD/SA_SAGEMCOM/WarnerHD.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8dgknme.png" group-title="BRASILIAN SERIES",FX Brasil
-http://5gfksa.ltd:2052/334455/554433/84280
+http://170.82.200.38:8080/fx/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SodO9DE.png" group-title="BRASILIAN SERIES",Studio Universal Brasil
 http://5gfksa.ltd:2052/334455/554433/84273
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png" group-title="BRASILIAN SERIES",TNT Series Brasil
-http://5gfksa.ltd:2052/334455/554433/84297
+http://170.82.200.38:8080/tnt_series/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/9/95/Canal%2B_S%C3%A9ries.svg/langfr-1920px-Canal%2B_S%C3%A9ries.svg.png" group-title="FRENCH SERIES",Canal+Series
 http://stariptv.org:8080/wael2021/123456/56237
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/69/TF1_S%C3%A9ries_Films.svg/1920px-TF1_S%C3%A9ries_Films.svg.png" group-title="FRENCH SERIES",TF1 Séries Films
@@ -3306,17 +3306,17 @@ http://5gfksa.ltd:2052/334455/554433/84277
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ed/Canal-combate-logo.png" group-title="BRASILIAN SPORTS",Combate
 http://bestsave.ltd:2052/141414/151515/84246
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1920px-ESPN_wordmark.svg.png" group-title="BRASILIAN SPORTS",ESPN Brasil
-http://bestsave.ltd:2052/141414/151515/84250
+http://170.82.200.38:8080/espn_brasil/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/1280px-ESPN2_logo.svg.png" group-title="BRASILIAN SPORTS",ESPN 2 Brasil
-http://bestsave.ltd:2052/141414/151515/84247
+http://168.205.87.198:8555/live/adriana/123456/60.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Crvxgth.png" group-title="BRASILIAN SPORTS",ESPN 3 Brasil
-http://bestsave.ltd:2052/141414/151515/84248
+http://170.82.200.38:8080/espn_2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/89RCPvg.png" group-title="BRASILIAN SPORTS",ESPN 4 Brasil
-http://bestsave.ltd:2052/141414/151515/84252
+http://170.82.200.38:8080/fox_sports_1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sIUdUaB.png" group-title="BRASILIAN SPORTS",ESPN Extra Brasil
-http://bestsave.ltd:2052/141414/151515/84249
+http://168.205.87.198:8555/live/adriana/123456/51.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DpnatBM.png" group-title="BRASILIAN SPORTS",Fox Sports 2 Brasil
-http://bestsave.ltd:2052/141414/151515/84251
+http://170.82.200.38:8080/fox_sports_2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/a2/Logo_Premiere_FC_2018.png" group-title="BRASILIAN SPORTS",Premiere Clubes
 http://bestsave.ltd:2052/141414/151515/84307
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iweh0Li.png" group-title="BRASILIAN SPORTS",SporTV
@@ -3769,7 +3769,7 @@ hhttp://www.portalcultura.com.br/playerhtml/funtelpa/tv_funtelpa/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Canal_Futura.png/800px-Canal_Futura.png" group-title="BRASIL",Futura
 https://stmv1.transmissaodigital.com/ronald6259/ronald6259/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RCvAvtf.png" group-title="BRASIL",TV Globo Rio de Janeiro
-http://bestsave.ltd:2052/141414/151515/127835
+http://170.82.200.38:8080/globo/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/14/Logo_of_Rede_Record.png" group-title="BRASIL",Record São Paulo
 http://tvconquistalrv.duckdns.org:8080/hls/tvconquistalrv.m3u8?ROGERIOTORRES
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/3/39/Logotipo_da_Rede_Brasil_de_Televis%C3%A3o.png" group-title="BRASIL",Rede Brasil
