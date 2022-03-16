@@ -108,7 +108,7 @@ https://liveanevia.mncnow.id/live/eds/KompasTV/sa_dash_vmx/KompasTV.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RrjCro1.png" group-title="NATIONAL NEWS",BeritaSatu
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/m0ZTn47.png" group-title="NATIONAL NEWS",BeritaSatu World
-http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsworld/playlist.m3u8
+https://b1world.beritasatumedia.com/Beritasatu/B1World_1280x720.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VMokxOy.png" group-title="NATIONAL NEWS",Jakarta Globe News Channel
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsenglish/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/42JzZAx.png" group-title="NATIONAL NEWS",TVR Parlemen
@@ -1518,7 +1518,7 @@ http://ky-iptv.com:80/nicholas/123456789/176290.ts
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/CNN_Portugal.svg/800px-CNN_Portugal.svg.png" group-title="PORTUGUESE NEWS",CNN Portugal
-http://stariptv.org:8080/wael2021/123456/4101
+http://red.ipfox.org:8080/1234/12345678/2663
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zcaYBfX.png" group-title="BRASILIAN NEWS",CNN Brasil
 https://bit.ly/cnnBrasil?/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0XayB3p.png" group-title="INDIAN NEWS",CNN News 18
@@ -1684,7 +1684,7 @@ https://liveru.cgtn.com/1000r/prog_index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/800px-Fox_News_Channel_logo.svg.png" group-title="AMERICAN NEWS",Fox News Channel
 https://liveanevia.mncnow.id/live/eds/FoxNews/sa_dash_vmx/FoxNews.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cMM9MAg.png" group-title="AMERICAN NEWS",MSNBC
-http://stariptv.org:8080/wael2021/123456/148456
+https://16live00.akamaized.net/MSNBC/index.m3u8
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IVvxmTv.png" group-title="AMERICAN NEWS",CBS News
@@ -1903,7 +1903,7 @@ http://1tv1.net:8080/omnia2021/123456/15888
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cojVDUx.png" group-title="POLISH NEWS",Wydarzenia 24
 http://83.238.167.113:8001/1:0:1:1cbe:1ce8:71:820000:0:0:0:
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TpBpUU4.png" group-title="PORTUGUESE NEWS",SIC Notícias
-http://stariptv.org:8080/wael2021/123456/4769
+http://93.152.174.144:4000/play/sicnotiacias/index.m3u8
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Rtp3.png/1920px-Rtp3.png" group-title="PORTUGUESE NEWS",RTP 3
@@ -2015,7 +2015,7 @@ https://tv.ensonhaber.com/tv/tr/bloomberght/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/32Mdh4F.png" group-title="BUSINESS NEWS",BNN Bloomberg
 http://fortv.cc:8080/rose/rose123/57358
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CFpTDcg.png" group-title="BUSINESS NEWS",Bloomberg TV Bulgaria
-https://edge17.cdn.bg:20910/fls/bloomberg.stream/chunklist_w1598348163.m3u8?at=c347c93b96bf99301f7f56600b55d6db
+https://e106-ts.evpn.bg/2091/fls/bloomberg.stream/chunklist_w1051049640.m3u8?at=a096136d1a4bf158cd24f89a1d5e2703
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mU3kLEF.png" group-title="BUSINESS NEWS",El Financiero Bloomberg
 https://d19vc4shchm9pr.cloudfront.net/out/v1/a67ad47be66f4c3ea4a14c8f22984fa7/index.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -2025,7 +2025,7 @@ https://liveanevia.mncnow.id/live/eds/CNBC/sa_dash_vmx/CNBC.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HlXhqyY.png" group-title="BUSINESS NEWS",CNBC World
 http://hdhd.tk:80/772299/772299/1652
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KxxvR2X.png" group-title="BUSINESS NEWS",CNBC US
-http://stariptv.org:8080/wael2021/123456/148457
+https://16live00.akamaized.net/CNBC/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4XhULAV.png" group-title="BUSINESS NEWS",CNBC Arabiya
 https://cnbcarabia.hibridcdn.net/cnbc/cnbc_abr/cnbc/cnbc_480p/chunks.m3u8?
 #EXTINF:-1 tvg-logo="https://i.imgur.com/K4v9gj2.png" group-title="BUSINESS NEWS",CNBC Awaaz
@@ -2041,7 +2041,7 @@ https://5be2f59e715dd.streamlock.net/CNBC/smil:CNBCSandton.smil/HasBahCa.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Y3vQaf5.png" group-title="BUSINESS NEWS",Yahoo! Finance
 https://yahoo-samsung.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Fox_Business.svg/1920px-Fox_Business.svg.png" group-title="BUSINESS NEWS",Fox Business
-http://stariptv.org:8080/wael2021/123456/148458
+http://ky-iptv.com:80/nicholas/123456789/176949.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UrRif3p.png" group-title="BUSINESS NEWS",A Para
 https://livesx.canlitv.center/apara2.m3u8
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
@@ -2185,43 +2185,43 @@ https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/39bwyGI.png" group-title="ARABIC SPORTS",beIN Sports
 http://stariptv.org:8080/wael2021/123456/22186
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MRULdc8.png" group-title="ARABIC SPORTS",beIN Sports 1
-http://stariptv.org:8080/wael2021/123456/141566
+http://red.ipfox.org:8080/1234/12345678/31493
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NDp6TlM.png" group-title="ARABIC SPORTS",beIN Sports 2
-http://stariptv.org:8080/wael2021/123456/141567
+http://red.ipfox.org:8080/1234/12345678/31492
 #EXTINF:-1 tvg-logo="https://i.imgur.com/j8VC6nB.png" group-title="ARABIC SPORTS",beIN Sports 3
-http://stariptv.org:8080/wael2021/123456/141568
+http://red.ipfox.org:8080/1234/12345678/31491
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Lu26Yho.png" group-title="ARABIC SPORTS",beIN Sports 4
-http://stariptv.org:8080/wael2021/123456/141569
+http://red.ipfox.org:8080/1234/12345678/31490
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pA5by2y.png" group-title="ARABIC SPORTS",beIN Sports 5
-http://stariptv.org:8080/wael2021/123456/141570
+http://red.ipfox.org:8080/1234/12345678/31489
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mbFoSUX.png" group-title="ARABIC SPORTS",beIN Sports 6
-http://stariptv.org:8080/wael2021/123456/141571
+http://red.ipfox.org:8080/1234/12345678/31488
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eHCosqi.png" group-title="ARABIC SPORTS",beIN Sports 7
-http://stariptv.org:8080/wael2021/123456/141572
+http://red.ipfox.org:8080/1234/12345678/31487
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BZ5jcea.png" group-title="ARABIC SPORTS",beIN Sports NBA
-http://stariptv.org:8080/wael2021/123456/150160
+http://5gfksa.ltd:2052/334455/554433/90311
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TG2eNPO.png" group-title="ARABIC SPORTS",beIN Sports News
-http://stariptv.org:8080/wael2021/123456/22185
+http://5gfksa.ltd:2052/334455/554433/16001
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uYcwFSD.png" group-title="ARABIC SPORTS",beIN Sports Xtra 1
-http://stariptv.org:8080/wael2021/123456/15721
+http://5gfksa.ltd:2052/334455/554433/115183
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Q9ACq0T.png" group-title="ARABIC SPORTS",beIN Sports Xtra 2
-http://stariptv.org:8080/wael2021/123456/15722
+http://5gfksa.ltd:2052/334455/554433/115182
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MRULdc8.png" group-title="FRENCH SPORTS",beIN Sports 1
-http://stariptv.org:8080/wael2021/123456/56225
+http://5gfksa.ltd:2052/334455/554433/82465
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NDp6TlM.png" group-title="FRENCH SPORTS",beIN Sports 2
-http://stariptv.org:8080/wael2021/123456/56226
+http://5gfksa.ltd:2052/334455/554433/82464
 #EXTINF:-1 tvg-logo="https://i.imgur.com/j8VC6nB.png" group-title="FRENCH SPORTS",beIN Sports 3
-http://stariptv.org:8080/wael2021/123456/56227
+http://5gfksa.ltd:2052/334455/554433/82463
 #EXTINF:-1 tvg-logo="https://i.imgur.com/o8zT78o.png" group-title="ARABIC SPORTS",beIN Sports English 1
-http://stariptv.org:8080/wael2021/123456/112461
+http://5gfksa.ltd:2052/334455/554433/90309
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RJ17vOc.png" group-title="ARABIC SPORTS",beIN Sports English 2
-http://stariptv.org:8080/wael2021/123456/112462
+hhttp://5gfksa.ltd:2052/334455/554433/90308
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sKFx2QF.png" group-title="ARABIC SPORTS",beIN Sports English 3
-http://stariptv.org:8080/wael2021/123456/112463
+http://5gfksa.ltd:2052/334455/554433/90307
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NOOEDFi.png" group-title="ARABIC SPORTS",beIN Sports French 1
-http://stariptv.org:8080/wael2021/123456/112464
+http://5gfksa.ltd:2052/334455/554433/90306
 #EXTINF:-1 tvg-logo="https://i.imgur.com/n6iA4cg.png" group-title="ARABIC SPORTS",beIN Sports French 2
-http://stariptv.org:8080/wael2021/123456/112465
+http://5gfksa.ltd:2052/334455/554433/90305
 #EXTINF:-1 tvg-logo="https://i.imgur.com/srteRe1.png" group-title="ARABIC SPORTS",beIN Sports French 3
 http://stariptv.org:8080/wael2021/123456/112466
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CwlNjXQ.png" group-title="ARABIC SPORTS",beIN Sports Premium 1
@@ -2231,13 +2231,13 @@ http://130.193.166.18:80/cache/Bein-Prem-2-HEVC/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/T7UlxCI.png" group-title="ARABIC SPORTS",beIN Sports Premium 3
 http://130.193.166.18:80/cache/Bein-Prem-3-HEVC/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MRULdc8.png" group-title="TURKISH SPORTS",beIN Sports 1 Türkiye
-http://stariptv.org:8080/wael2021/123456/93304
+http://red.ipfox.org:8080/1234/12345678/2810
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NDp6TlM.png" group-title="TURKISH SPORTS",beIN Sports 2 Türkiye
-http://stariptv.org:8080/wael2021/123456/93303
+http://red.ipfox.org:8080/1234/12345678/2817
 #EXTINF:-1 tvg-logo="https://i.imgur.com/j8VC6nB.png" group-title="TURKISH SPORTS",beIN Sports 3 Türkiye
-http://stariptv.org:8080/wael2021/123456/93302
+http://red.ipfox.org:8080/1234/12345678/2809
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Lu26Yho.png" group-title="TURKISH SPORTS",beIN Sports 4 Türkiye
-http://stariptv.org:8080/wael2021/123456/93301
+http://red.ipfox.org:8080/1234/12345678/2808
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fBWCN2V.png" group-title="TURKISH SPORTS",beIN Sports Haber
 https://livesx.canlitv.center/beinsportshaber.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MRULdc8.png" group-title="AUSTRALIAN SPORTS",beIN Sports 1
@@ -2271,7 +2271,7 @@ http://status.tehw00t.net/miniProxy.php/https://bein-xtra-samsung-canada.amagi.t
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/MLBNetworkLogo.svg/800px-MLBNetworkLogo.svg.png" group-title="AMERICAN SPORTS",MLB Network
 http://stariptv.org:8080/wael2021/123456/148503
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gZXSAhf.png" group-title="AMERICAN SPORTS",NFL Network
-http://stariptv.org:8080/wael2021/123456/148506
+https://16live00.akamaized.net/NFL_NETWORK/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LH4EVbg.png" group-title="AMERICAN SPORTS",NHL Network
 http://stariptv.org:8080/wael2021/123456/148502
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JApkfiF.png" group-title="AMERICAN SPORTS",Tennis Channel
@@ -2425,21 +2425,21 @@ http://crystalott.org:80/CKVRKUO4L3/IRTRILUKU7/234260
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gGRqRoy.png" group-title="GREEK SPORTS",Nova Sport Prime
 http://crystalott.org:80/CKVRKUO4L3/IRTRILUKU7/234259
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1g9mYwr.png" group-title="AMERICAN SPORTS",CBS Sports Network
-http://iptvfree1.com:8080/live:david.romok/4bteskwwjs342/6760
+http://ky-iptv.com:80/nicholas/123456789/176607.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1920px-ESPN_wordmark.svg.png" group-title="AMERICAN SPORTS",ESPN
 https://16live00.akamaized.net/ESPN/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/1280px-ESPN2_logo.svg.png" group-title="AMERICAN SPORTS",ESPN 2
 https://16live00.akamaized.net/ESPN2/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YhuEewa.png" group-title="AMERICAN SPORTS",ESPN Deportes
-http://tv.fullytv.com:8080/lisa1/1lisa/3613
+http://ky-iptv.com:80/nicholas/123456789/220408.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/ESPNews.svg/1920px-ESPNews.svg.png" group-title="AMERICAN SPORTS",ESPNews
-http://hdhd.tk:80/772299/772299/870
+http://ky-iptv.com:80/nicholas/123456789/220410.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qimdreM.png" group-title="AMERICAN SPORTS",FS1
-http://stariptv.org:8080/wael2021/123456/148446
+https://16live00.akamaized.net/FOXSPORTS/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jxLMBZt.png" group-title="AMERICAN SPORTS",FS2
-http://stariptv.org:8080/wael2021/123456/148447
+https://16live00.akamaized.net/FOX_SPORTS2/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kL3DvWM.png" group-title="AMERICAN SPORTS",Fox Deportes
-http://tv.fullytv.com:8080/lisa1/1lisa/3753
+http://ky-iptv.com:80/nicholas/123456789/220415.ts
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 #EXTINF:-1 tvg-logo="https://i.imgur.com/E3OjM1k.png" group-title="VIETNAMESE SPORTS",HTV Thể Thao
 https://livecdn.fptplay.net/sdb/htvcthethao_hls.smil/chunklist_b2500000.m3u8
@@ -2607,13 +2607,13 @@ http://83.238.167.113:8001/1:0:1:DAF:2D50:13E:820000:0:0:0:
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Logo_TVP_Sport.jpg" group-title="POLISH SPORTS",TVP Sport
 http://internetowa.tv/?c=hlsPlay&channel=tvpsport&token=04930f46ae574effac95f6edf37c5d2cfcf7e20168d6de081e120cf9311d1f44051cdf2b4e0c327af5d01747e36b74f60e62f9f349d99bf22662ed631d52eedb
 #EXTINF:-1 tvg-logo="https://i.imgur.com/p0k54D9.png" group-title="FRENCH SPORTS",Canal+Sport
-http://stariptv.org:8080/wael2021/123456/629
+http://red.ipfox.org:8080/1234/12345678/2422
 #EXTINF:-1 tvg-logo="https://i.imgur.com/D1nuT7j.png" group-title="FRENCH SPORTS",Infosport+
-http://stariptv.org:8080/wael2021/123456/10207
+http://red.ipfox.org:8080/1234/12345678/2384
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hyjk6Wx.png" group-title="FRENCH SPORTS",Foot+ 24/24
 http://showflix.org:5890/123456789/123456789/634
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0FJ92Bp.png" group-title="FRENCH SPORTS",Golf Channel
-http://stariptv.org:8080/wael2021/123456/10212
+http://red.ipfox.org:8080/1234/12345678/2386
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vU6Y5Of.png" group-title="FRENCH SPORTS",Golf+
 http://showflix.org:5890/123456789/123456789/632
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/L%27%C3%89quipe_wordmark.svg/1920px-L%27%C3%89quipe_wordmark.svg.png" group-title="FRENCH SPORTS",L'Equipe
@@ -2623,9 +2623,9 @@ http://showflix.org:5890/123456789/123456789/626
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lTnKDju.png" group-title="FRENCH SPORTS",Eurosport 2
 http://showflix.org:5890/123456789/123456789/628
 #EXTINF:-1 tvg-logo="https://i.imgur.com/30785UJ.png" group-title="FRENCH SPORTS",RMC Sport 1
-http://stariptv.org:8080/wael2021/123456/4299
+http://red.ipfox.org:8080/1234/12345678/2355
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5Rh2s8k.png" group-title="FRENCH SPORTS",RMC Sport 2
-http://stariptv.org:8080/wael2021/123456/4300
+http://red.ipfox.org:8080/1234/12345678/2354
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kaUN9Uw.png" group-title="ROMANIAN SPORTS",Digi Sport 1 Romania
 http://1tv1.net:8080/hakim2021/123456/56158
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xxLvKJD.png" group-title="ROMANIAN SPORTS",Digi Sport 2 Romania
@@ -2767,17 +2767,17 @@ http://stariptv.org:8080/wael2021/123456/4108
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lTnKDju.png" group-title="PORTUGUESE SPORTS",Eurosport 2
 http://stariptv.org:8080/wael2021/123456/4750
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kTXQVRD.png" group-title="PORTUGUESE SPORTS",Eleven Sports 1 Portugal
-http://stariptv.org:8080/wael2021/123456/33429
+http://red.ipfox.org:8080/1234/12345678/2645
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MomX4fY.png" group-title="PORTUGUESE SPORTS",Eleven Sports 2 Portugal
-http://stariptv.org:8080/wael2021/123456/33428
+http://red.ipfox.org:8080/1234/12345678/2646
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xs4DM6q.png" group-title="PORTUGUESE SPORTS",Eleven Sports 3 Portugal
-http://stariptv.org:8080/wael2021/123456/33427
+http://red.ipfox.org:8080/1234/12345678/2647
 #EXTINF:-1 tvg-logo="https://i.imgur.com/33qWa8r.png" group-title="PORTUGUESE SPORTS",Eleven Sports 4 Portugal
-http://stariptv.org:8080/wael2021/123456/33426
+http://red.ipfox.org:8080/1234/12345678/2648
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uwcqzPm.png" group-title="PORTUGUESE SPORTS",Eleven Sports 5 Portugal
-http://stariptv.org:8080/wael2021/123456/33425
+http://red.ipfox.org:8080/1234/12345678/2649
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YweD3ZH.png" group-title="PORTUGUESE SPORTS",Eleven Sports 6 Portugal
-http://stariptv.org:8080/wael2021/123456/33424
+http://red.ipfox.org:8080/1234/12345678/2650
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/800px-NBA_TV.svg.png" group-title="PORTUGUESE SPORTS",NBA TV
 http://stariptv.org:8080/wael2021/123456/44058
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pcAhRs8.png" group-title="PORTUGUESE SPORTS",Sport TV 1
