@@ -635,9 +635,11 @@ https://www.navchina.cf/IPTV/sbs.php?id=S09
 #EXTINF:-1 tvg-logo="https://i.imgur.com/X7VxlBN.png" group-title="WORLD MUSIC",MTV Brasil
 http://5gfksa.ltd:2052/334455/554433/84238
 #EXTINF:-1 tvg-logo="https://i.imgur.com/B9evyCe.png" group-title="WORLD MUSIC",Polsat Music
-http://crystalott.org:80/CKVRKUO4L3/IRTRILUKU7/3225
+http://ky-iptv.com:80/nicholas/123456789/219099.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c9/M6_Music_%282012%29.png" group-title="WORLD MUSIC",M6 Music
 http://190.2.155.162:8080/m6music/mpegts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eI3QgAz.png" group-title="WORLD MUSIC",NRJ Hits
+http://ky-iptv.com:80/nicholas/123456789/226595.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zZCZb3P.png" group-title="WORLD MUSIC",4Music
 http://hdhd.tk:80/772299/772299/28303
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bNw4mXF.png" group-title="WORLD MUSIC",RTSH Muzikë
@@ -799,10 +801,10 @@ http://ky-iptv.com:80/nicholas/123456789/182434.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/5/55/CinePlusClassic.svg/1920px-CinePlusClassic.svg.png" group-title="FRENCH MOVIES",Cine+ Classic
 http://ky-iptv.com:80/nicholas/123456789/182431.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Z6AeyI5.png" group-title="POLISH MOVIES",Canal + Film
-http://internetowa.tv/?c=hlsPlay&channel=canalplusfilm&token=213f9b5775ca164e0a38ad1b1a7c0aa4298b76520ee40054d142e05e293641aaf6902aeb6898ea114526269b9f9f93c1d87132f929b455ea493237393a7e1ab3
+http://ky-iptv.com:80/nicholas/123456789/219015.ts
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9.0; MI 8 SE) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.119 Mobile Safari/537.36
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Polsat_Film_2021_gradient.svg/800px-Polsat_Film_2021_gradient.svg.png" group-title="POLISH MOVIES",Polsat Film
-http://83.238.167.113:8001/1:0:1:3398:3390:71:820000:0:0:0:
+http://ky-iptv.com:80/nicholas/123456789/219096.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IqY4euu.png" group-title="PORTUGUESE MOVIES",AXN Movies
 http://ky-iptv.com:80/nicholas/123456789/399231.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3dQ4y7b.png" group-title="PORTUGUESE MOVIES",Cine Mundo
@@ -1333,15 +1335,15 @@ http://red.ipfox.org:8080/1234/12345678/2667
 #EXTINF:-1 tvg-logo="https://i.imgur.com/D2PFTzV.png" group-title="PORTUGUESE SERIES",TVI Ficção
 https://video-auth2.iol.pt/live_tvi_ficcao/live_tvi_ficcao/edge_servers/tvificcao-720p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/F3KgZWU.png" group-title="POLISH SERIES",Canal+ Seriale
-http://internetowa.tv/?c=hlsPlay&channel=canalplusseriale&token=213f9b5775ca164e0a38ad1b1a7c0aa4298b76520ee40054d142e05e293641aaf6902aeb6898ea114526269b9f9f93c1d87132f929b455ea493237393a7e1ab3
+http://ky-iptv.com:80/nicholas/123456789/219016.ts
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9.0; MI 8 SE) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.119 Mobile Safari/537.36
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Polsat_Seriale_2021_gradient.svg/800px-Polsat_Seriale_2021_gradient.svg.png" group-title="POLISH SERIES",Polsat Seriale
-http://83.238.167.113:8001/1:0:19:1CAC:1CE8:71:820000:0:0:0:
+http://ky-iptv.com:80/nicholas/123456789/219105.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Gb2eYpv.png" group-title="POLISH SERIES",Epic Drama
 https://kv-k21-mc02.ollcdn.net/trku-live/20/a5d0f259a48c6bef7e875a438724b9c6/61eb41f8/epicdrama/epicdrama.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9.0; MI 8 SE) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.119 Mobile Safari/537.36
 #EXTINF:-1 tvg-logo="https://i.imgur.com/czeiGFt.png" group-title="POLISH SERIES",TVP Seriale
-http://83.238.167.113:8001/1:0:1:3d5c:2c88:13e:820000:0:0:0:
+http://ky-iptv.com:80/nicholas/123456789/219161.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2gbx538.png" group-title="THAI SERIES",True Asian More
 http://45.91.134.57:25461/sweet/7749/11138
 #EXTINF:-1 tvg-logo="https://i.imgur.com/V5wdetY.png" group-title="THAI SERIES",True Chinese More
@@ -1772,7 +1774,7 @@ https://kv-k21-mc02.ollcdn.net/trku-live/20/a5d0f259a48c6bef7e875a438724b9c6/61e
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b6/Logo_BFM_TV_%282019%29.png" group-title="FRENCH NEWS",BFM TV
 http://callofliberty.fr/stream/BFMTV/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Canal_News_logo.svg/1920px-Canal_News_logo.svg.png" group-title="FRENCH NEWS",CNews
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Canal_News_logo.svg/1920px-Canal_News_logo.svg.png" group-title="FRENCH NEWS",C News
 http://hls-m010.live-lv3.canalplus-cdn.net/live/disk/cnews-clair-hd/ios-v3-hd-clair/cnews-clair-hd-audio_20000=96000-video=3400000.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/40Zq0TK.png" group-title="FRENCH NEWS",Franceinfo:
 http://ky-iptv.com:80/nicholas/123456789/182276.ts
@@ -1890,14 +1892,14 @@ https://ws15-hls-live.akamaized.net/out/u/1153546.m3u8
 http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpinfo
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9.0; MI 8 SE) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.119 Mobile Safari/537.36
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Polsat_News_2021_gradient.svg/800px-Polsat_News_2021_gradient.svg.png" group-title="POLISH NEWS",Polsat News
-http://83.238.167.113:8001/1:0:1:33c9:3390:71:820000:0:0:0:
+http://ky-iptv.com:80/nicholas/123456789/219101.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Polsat_News_2_2021_gradient.svg/800px-Polsat_News_2_2021_gradient.svg.png" group-title="POLISH NEWS",Polsat News 2
-http://smartestv.vip:2095/ABHVYOP/2387998104/39308
+http://ky-iptv.com:80/nicholas/123456789/219100.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Tvn24_Logo.svg/800px-Tvn24_Logo.svg.png" group-title="POLISH NEWS",TVN 24
-http://1tv1.net:8080/omnia2021/123456/15888
+http://ky-iptv.com:80/nicholas/123456789/219144.ts
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9.0; MI 8 SE) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.119 Mobile Safari/537.36
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cojVDUx.png" group-title="POLISH NEWS",Wydarzenia 24
-http://83.238.167.113:8001/1:0:1:1cbe:1ce8:71:820000:0:0:0:
+http://ky-iptv.com:80/nicholas/123456789/219130.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TpBpUU4.png" group-title="PORTUGUESE NEWS",SIC Notícias
 http://93.152.174.144:4000/play/sicnotiacias/index.m3u8
 #KODIPROP:inputstream=inputstream.adaptive
@@ -2044,7 +2046,7 @@ https://livesx.canlitv.center/apara2.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QgaTdiK.png" group-title="BUSINESS NEWS",EkoTürk
 https://www.yilmaztv.ru/beceroz/oz.php?channel=ekoturk-tv&stream=1&type=m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HRaROB0.png" group-title="BUSINESS NEWS",TVN 24 Bis
-http://vip.turksmart.org:15000/seko/seko/69865
+http://ky-iptv.com:80/nicholas/123456789/219149.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vPAwWou.png" group-title="BUSINESS NEWS",ET Now
 http://etnowweblive-lh.akamaihd.net/i/ETN_1@348070/index_576_av-b.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/59kbGww.jpg" group-title="BUSINESS NEWS",ET Now Swadesh
@@ -2202,11 +2204,11 @@ http://ky-iptv.com:80/nicholas/123456789/515996.ts
 http://5gfksa.ltd:2052/334455/554433/115183
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Q9ACq0T.png" group-title="ARABIC SPORTS",beIN Sports Xtra 2
 http://5gfksa.ltd:2052/334455/554433/115182
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MRULdc8.png" group-title="FRENCH SPORTS",beIN Sports 1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MRULdc8.png" group-title="FRENCH SPORTS",beIN Sports 1 France
 http://ky-iptv.com:80/nicholas/123456789/1782980.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NDp6TlM.png" group-title="FRENCH SPORTS",beIN Sports 2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NDp6TlM.png" group-title="FRENCH SPORTS",beIN Sports 2 France
 http://ky-iptv.com:80/nicholas/123456789/182319.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/j8VC6nB.png" group-title="FRENCH SPORTS",beIN Sports 3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/j8VC6nB.png" group-title="FRENCH SPORTS",beIN Sports 3 France
 http://ky-iptv.com:80/nicholas/123456789/182322.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/o8zT78o.png" group-title="ARABIC SPORTS",beIN Sports English 1
 http://ky-iptv.com:80/nicholas/123456789/1400762.ts
@@ -2560,63 +2562,63 @@ http://38.91.57.12:2082/tsn4/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uoy75nW.png" group-title="CANADIAN SPORTS",TSN5
 http://38.91.57.12:2082/tsn5/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/p0k54D9.png" group-title="POLISH SPORTS",Canal + Sport Polska
-http://internetowa.tv/?c=hlsPlay&channel=canalplussport&token=04930f46ae574effac95f6edf37c5d2cfcf7e20168d6de081e120cf9311d1f44051cdf2b4e0c327af5d01747e36b74f60e62f9f349d99bf22662ed631d52eedb
+http://ky-iptv.com:80/nicholas/123456789/219170.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Xz33IHR.png" group-title="POLISH SPORTS",Canal + Sport 2 Polska
-http://internetowa.tv/?c=hlsPlay&channel=canalplussport2&token=04930f46ae574effac95f6edf37c5d2cfcf7e20168d6de081e120cf9311d1f44051cdf2b4e0c327af5d01747e36b74f60e62f9f349d99bf22662ed631d52eedb
+http://ky-iptv.com:80/nicholas/123456789/219017.ts
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9.0; MI 8 SE) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.119 Mobile Safari/537.36
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bxUcIv5.png" group-title="POLISH SPORTS",Canal + Sport 3 Polska
-http://83.238.167.113:8001/1:0:1:12c2:2e7c:13e:820000:0:0:0:
+http://ky-iptv.com:80/nicholas/123456789/219018.ts
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9.0; MI 8 SE) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.119 Mobile Safari/537.36
 #EXTINF:-1 tvg-logo="https://i.imgur.com/orMTq6A.png" group-title="POLISH SPORTS",Canal + Sport 4 Polska
 http://83.238.167.113:8001/1:0:1:12c3:2e7c:13e:820000:0:0:0:
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cSVAkg0.png" group-title="POLISH SPORTS",Eleven Sports 1 Polska
-http://internetowa.tv/?c=hlsPlay&channel=eleven&token=04930f46ae574effac95f6edf37c5d2cfcf7e20168d6de081e120cf9311d1f44051cdf2b4e0c327af5d01747e36b74f60e62f9f349d99bf22662ed631d52eedb
+http://ky-iptv.com:80/nicholas/123456789/219041.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TlNAO45.png" group-title="POLISH SPORTS",Eleven Sports 2 Polska
-http://internetowa.tv/?c=hlsPlay&channel=eleven2&token=04930f46ae574effac95f6edf37c5d2cfcf7e20168d6de081e120cf9311d1f44051cdf2b4e0c327af5d01747e36b74f60e62f9f349d99bf22662ed631d52eedb
+http://ky-iptv.com:80/nicholas/123456789/219042.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fI2Hazk.png" group-title="POLISH SPORTS",Eleven Sports 3 Polska
-http://internetowa.tv/?c=hlsPlay&channel=eleven3&token=04930f46ae574effac95f6edf37c5d2cfcf7e20168d6de081e120cf9311d1f44051cdf2b4e0c327af5d01747e36b74f60e62f9f349d99bf22662ed631d52eedb
+http://ky-iptv.com:80/nicholas/123456789/219043.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wF8dohc.png" group-title="POLISH SPORTS",Eleven Sports 4 Polska
-http://internetowa.tv/?c=hlsPlay&channel=eleven4&token=04930f46ae574effac95f6edf37c5d2cfcf7e20168d6de081e120cf9311d1f44051cdf2b4e0c327af5d01747e36b74f60e62f9f349d99bf22662ed631d52eedb
+http://ky-iptv.com:80/nicholas/123456789/219044.ts
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9.0; MI 8 SE) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.119 Mobile Safari/537.36
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gwV31E0.png" group-title="POLISH SPORTS",Eurosport 1 Polska
-http://83.238.167.113:8001/1:0:1:3E25:2EE0:13E:820000:0:0:0:
+http://ky-iptv.com:80/nicholas/123456789/219048.ts
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9.0; MI 8 SE) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.119 Mobile Safari/537.36
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lTnKDju.png" group-title="POLISH SPORTS",Eurosport 2 Polska
-http://83.238.167.113:8001/1:0:1:290c:1edc:71:820000:0:0:0:
+http://ky-iptv.com:80/nicholas/123456789/219049.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4ePEZ0H.png" group-title="POLISH SPORTS",n Sport +
-http://internetowa.tv/?c=hlsPlay&channel=nsportplus&token=04930f46ae574effac95f6edf37c5d2cfcf7e20168d6de081e120cf9311d1f44051cdf2b4e0c327af5d01747e36b74f60e62f9f349d99bf22662ed631d52eedb
+http://ky-iptv.com:80/nicholas/123456789/219087.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pM6Q5n1.png" group-title="POLISH SPORTS",Polsat Sport
-http://internetowa.tv/?c=hlsPlay&channel=polsatsport&token=04930f46ae574effac95f6edf37c5d2cfcf7e20168d6de081e120cf9311d1f44051cdf2b4e0c327af5d01747e36b74f60e62f9f349d99bf22662ed631d52eedb
+http://ky-iptv.com:80/nicholas/123456789/219107.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mnohjlI.png" group-title="POLISH SPORTS",Polsat Sport Extra
-http://internetowa.tv/?c=hlsPlay&channel=polsatsportextra&token=04930f46ae574effac95f6edf37c5d2cfcf7e20168d6de081e120cf9311d1f44051cdf2b4e0c327af5d01747e36b74f60e62f9f349d99bf22662ed631d52eedb
+http://ky-iptv.com:80/nicholas/123456789/219106.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eEQxLTd.png" group-title="POLISH SPORTS",Polsat Sport Fight
-http://internetowa.tv/?c=hlsPlay&channel=polsatsportfight&token=04930f46ae574effac95f6edf37c5d2cfcf7e20168d6de081e120cf9311d1f44051cdf2b4e0c327af5d01747e36b74f60e62f9f349d99bf22662ed631d52eedb
+http://ky-iptv.com:80/nicholas/123456789/219108.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QJIzCGa.png" group-title="POLISH SPORTS",Polsat Sport News
-http://internetowa.tv/?c=hlsPlay&channel=polsatsportnews&token=04930f46ae574effac95f6edf37c5d2cfcf7e20168d6de081e120cf9311d1f44051cdf2b4e0c327af5d01747e36b74f60e62f9f349d99bf22662ed631d52eedb
+http://ky-iptv.com:80/nicholas/123456789/219109.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IgONH1a.png" group-title="POLISH SPORTS",Polsat Sport Premium 1
-http://internetowa.tv/?c=hlsPlay&channel=polsatsportpremium&token=04930f46ae574effac95f6edf37c5d2cfcf7e20168d6de081e120cf9311d1f44051cdf2b4e0c327af5d01747e36b74f60e62f9f349d99bf22662ed631d52eedb
+http://ky-iptv.com:80/nicholas/123456789/219110.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xf6o9Go.png" group-title="POLISH SPORTS",Polsat Sport Premium 2
-http://internetowa.tv/?c=hlsPlay&channel=polsatsportpremium2&token=04930f46ae574effac95f6edf37c5d2cfcf7e20168d6de081e120cf9311d1f44051cdf2b4e0c327af5d01747e36b74f60e62f9f349d99bf22662ed631d52eedb
+http://ky-iptv.com:80/nicholas/123456789/219111.ts
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9.0; MI 8 SE) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.119 Mobile Safari/537.36
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IZWOLiJ.png" group-title="POLISH SPORTS",Sport Klub Polska
 http://83.238.167.113:8001/1:0:1:DAF:2D50:13E:820000:0:0:0:
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Logo_TVP_Sport.jpg" group-title="POLISH SPORTS",TVP Sport
-http://internetowa.tv/?c=hlsPlay&channel=tvpsport&token=04930f46ae574effac95f6edf37c5d2cfcf7e20168d6de081e120cf9311d1f44051cdf2b4e0c327af5d01747e36b74f60e62f9f349d99bf22662ed631d52eedb
+http://ky-iptv.com:80/nicholas/123456789/219162.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/p0k54D9.png" group-title="FRENCH SPORTS",Canal+Sport
 http://ky-iptv.com:80/nicholas/123456789/182428.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/D1nuT7j.png" group-title="FRENCH SPORTS",Infosport+
 http://ky-iptv.com:80/nicholas/123456789/182382.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hyjk6Wx.png" group-title="FRENCH SPORTS",Foot+ 24/24
 http://ky-iptv.com:80/nicholas/123456789/182375.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0FJ92Bp.png" group-title="FRENCH SPORTS",Golf Channel
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0FJ92Bp.png" group-title="FRENCH SPORTS",Golf Channel France
 http://ky-iptv.com:80/nicholas/123456789/182377.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vU6Y5Of.png" group-title="FRENCH SPORTS",Golf+
 http://ky-iptv.com:80/nicholas/123456789/182379.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/L%27%C3%89quipe_wordmark.svg/1920px-L%27%C3%89quipe_wordmark.svg.png" group-title="FRENCH SPORTS",L'Equipe
 http://callofliberty.fr/stream/LEQUIPE/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gwV31E0.png" group-title="FRENCH SPORTS",Eurosport 1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gwV31E0.png" group-title="FRENCH SPORTS",Eurosport 1 France
 http://ky-iptv.com:80/nicholas/123456789/182370.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/lTnKDju.png" group-title="FRENCH SPORTS",Eurosport 2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lTnKDju.png" group-title="FRENCH SPORTS",Eurosport 2 France
 http://ky-iptv.com:80/nicholas/123456789/182372.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/30785UJ.png" group-title="FRENCH SPORTS",RMC Sport 1
 http://ky-iptv.com:80/nicholas/123456789/1345663.ts
@@ -3761,11 +3763,11 @@ http://callofliberty.fr/stream/TiPiK/04.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/VTM_2020.svg/1920px-VTM_2020.svg.png" group-title="BELGIUM",VTM
 http://ky-iptv.com:80/nicholas/123456789/227553.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/42/VTM_2_Logo.png" group-title="BELGIUM",VTM 2
-http://bestsave.ltd:2052/141414/151515/131463
+http://ky-iptv.com:80/nicholas/123456789/227476.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/29/VTM_3_Logo.png" group-title="BELGIUM",VTM 3
 http://bestsave.ltd:2052/141414/151515/131462
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/VTM_4_Logo.png" group-title="BELGIUM",VTM 4
-http://bestsave.ltd:2052/141414/151515/131461
+http://ky-iptv.com:80/nicholas/123456789/1807502.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Rede_Bandeirantes_logo_2018.svg/1920px-Rede_Bandeirantes_logo_2018.svg.png" group-title="BRASIL",Band São Paulo
 https://streaming.gruporba.com.br/rba.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Cultura_logo_2013.svg/1024px-Cultura_logo_2013.svg.png" group-title="BRASIL",Cultura
@@ -4245,52 +4247,50 @@ http://gooserace.xyz:80/play/8RKaarZp2hb82YDzh8OYR3DuTtwoe9Rp1FUFCHkC2h4
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/People%27s_Televsion_Network_Incorporated_%28PTV%29.svg/1200px-People%27s_Televsion_Network_Incorporated_%28PTV%29.svg.png" group-title="PHILIPPINES",PTV
 http://hdhd.tk:80/772299/772299/23207
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/30/Canal%2B_Family_PL.png" group-title="POLAND",Canal + Family
-http://internetowa.tv/?c=hlsPlay&channel=canalplusfamily&token=213f9b5775ca164e0a38ad1b1a7c0aa4298b76520ee40054d142e05e293641aaf6902aeb6898ea114526269b9f9f93c1d87132f929b455ea493237393a7e1ab3
+http://ky-iptv.com:80/nicholas/123456789/219013.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0yf7vy8.png" group-title="POLAND",Canal + Premium
-http://internetowa.tv/?c=hlsPlay&channel=canalplus&token=213f9b5775ca164e0a38ad1b1a7c0aa4298b76520ee40054d142e05e293641aaf6902aeb6898ea114526269b9f9f93c1d87132f929b455ea493237393a7e1ab3
+http://ky-iptv.com:80/nicholas/123456789/219012.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Polsat_2021_gradient.svg/1200px-Polsat_2021_gradient.svg.png" group-title="POLAND",Polsat
-http://stariptv.org:8080/wael2021/123456/71566
+http://ky-iptv.com:80/nicholas/123456789/219095.ts
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9.0; MI 8 SE) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.119 Mobile Safari/537.36
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Polsat_2_2021_gradient.svg/1024px-Polsat_2_2021_gradient.svg.png" group-title="POLAND",Polsat 2
-http://83.238.167.113:8001/1:0:1:33aa:3390:71:820000:0:0:0:
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Polsat_Doku_2021_gradient.svg/800px-Polsat_Doku_2021_gradient.svg.png" group-title="POLAND",Polsat Doku
-http://vip.turksmart.org:15000/seko/seko/69773
+http://ky-iptv.com:80/nicholas/123456789/219092.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EiveaZi.png" group-title="POLAND",Polsat Games
 http://91.226.51.126:8000/udp/239.100.10.93:2234
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Polsat_Rodzina_2021_gradient.svg/800px-Polsat_Rodzina_2021_gradient.svg.png" group-title="POLAND",Polsat Rodzina
-http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/26591
+http://ky-iptv.com:80/nicholas/123456789/219104.ts
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9.0; MI 8 SE) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.119 Mobile Safari/537.36
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Polsat_Caf%C3%A9_2021_gradient.svg/800px-Polsat_Caf%C3%A9_2021_gradient.svg.png" group-title="POLAND",Polsat Café
-http://83.238.167.113:8001/1:0:1:33a6:3390:71:820000:0:0:0:
+http://ky-iptv.com:80/nicholas/123456789/219093.ts
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9.0; MI 8 SE) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.119 Mobile Safari/537.36
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Polsat_Play_2021_gradient.svg/800px-Polsat_Play_2021_gradient.svg.png" group-title="POLAND",Polsat Play
-http://83.238.167.113:8001/1:0:1:3392:3390:71:820000:0:0:0:
+http://ky-iptv.com:80/nicholas/123456789/219102.ts
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9.0; MI 8 SE) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.119 Mobile Safari/537.36
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Super_Polsat_2021_gradient.svg/800px-Super_Polsat_2021_gradient.svg.png" group-title="POLAND",Super Polsat
-http://83.238.167.113:8001/1:0:1:339b:3390:71:820000:0:0:0:
+http://ky-iptv.com:80/nicholas/123456789/219115.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/TV4_pol.svg/800px-TV4_pol.svg.png" group-title="POLAND",TV4
-http://internetowa.tv/?c=hlsPlay&channel=tv4&token=213f9b5775ca164e0a38ad1b1a7c0aa4298b76520ee40054d142e05e293641aaf6902aeb6898ea114526269b9f9f93c1d87132f929b455ea493237393a7e1ab3
+http://ky-iptv.com:80/nicholas/123456789/219138.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/TV6_logo.svg/800px-TV6_logo.svg.png" group-title="POLAND",TV6
-http://internetowa.tv/?c=hlsPlay&channel=tv6&token=213f9b5775ca164e0a38ad1b1a7c0aa4298b76520ee40054d142e05e293641aaf6902aeb6898ea114526269b9f9f93c1d87132f929b455ea493237393a7e1ab3
+http://ky-iptv.com:80/nicholas/123456789/219142.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/TVN_logo.svg/1200px-TVN_logo.svg.png" group-title="POLAND",TVN
-http://internetowa.tv/?c=hlsPlay&channel=tvn&token=213f9b5775ca164e0a38ad1b1a7c0aa4298b76520ee40054d142e05e293641aaf6902aeb6898ea114526269b9f9f93c1d87132f929b455ea493237393a7e1ab3
+http://ky-iptv.com:80/nicholas/123456789/219146.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/TVN7_logo_2021.svg/1280px-TVN7_logo_2021.svg.png" group-title="POLAND",TVN 7
-http://internetowa.tv/?c=hlsPlay&channel=tvn7&token=213f9b5775ca164e0a38ad1b1a7c0aa4298b76520ee40054d142e05e293641aaf6902aeb6898ea114526269b9f9f93c1d87132f929b455ea493237393a7e1ab3
+http://ky-iptv.com:80/nicholas/123456789/219143.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6C5y1nO.png" group-title="POLAND",TVN Fabula
-http://internetowa.tv/?c=hlsPlay&channel=tvnfabula&token=213f9b5775ca164e0a38ad1b1a7c0aa4298b76520ee40054d142e05e293641aaf6902aeb6898ea114526269b9f9f93c1d87132f929b455ea493237393a7e1ab3
+http://ky-iptv.com:80/nicholas/123456789/219145.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/Tvn_style.png" group-title="POLAND",TVN Style
-http://internetowa.tv/?c=hlsPlay&channel=tvnstyle&token=213f9b5775ca164e0a38ad1b1a7c0aa4298b76520ee40054d142e05e293641aaf6902aeb6898ea114526269b9f9f93c1d87132f929b455ea493237393a7e1ab3
+http://ky-iptv.com:80/nicholas/123456789/219147.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/TVN_turbo.svg/1920px-TVN_turbo.svg.png" group-title="POLAND",TVN Turbo
-http://internetowa.tv/?c=hlsPlay&channel=tvnturbo&token=213f9b5775ca164e0a38ad1b1a7c0aa4298b76520ee40054d142e05e293641aaf6902aeb6898ea114526269b9f9f93c1d87132f929b455ea493237393a7e1ab3
+http://ky-iptv.com:80/nicholas/123456789/219148.ts
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9.0; MI 8 SE) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.119 Mobile Safari/537.36
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TVP1_2021_box-1.svg/1920px-TVP1_2021_box-1.svg.png" group-title="POLAND",TVP 1
-http://83.238.167.113:8001/1:0:1:3abd:514:13e:820000:0:0:0:
+http://ky-iptv.com:80/nicholas/123456789/219150.ts
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9.0; MI 8 SE) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.119 Mobile Safari/537.36
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/TVP2_2021_box-1.svg/1920px-TVP2_2021_box-1.svg.png" group-title="POLAND",TVP 2
-http://83.238.167.113:8001/1:0:1:c22:1e78:71:820000:0:0:0:
+http://ky-iptv.com:80/nicholas/123456789/219151.ts
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9.0; MI 8 SE) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.119 Mobile Safari/537.36
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gBFUIRT.png" group-title="POLAND",TVP Rozrywka
-http://83.238.167.113:8001/1:0:1:4288:2bc0:13e:820000:0:0:0:
+http://ky-iptv.com:80/nicholas/123456789/219160.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Rkw85FP.jpg" group-title="PORTUGAL",CM TV
 http://hdhd.tk:80/772299/772299/27920
 #KODIPROP:inputstream=inputstream.adaptive
