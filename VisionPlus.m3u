@@ -525,6 +525,8 @@ http://stariptv.org:8080/wael2021/123456/148450
 http://tv.fullytv.com:8080/lisa1/1lisa/17178
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/2019_Disney_Channel_logo.svg/1920px-2019_Disney_Channel_logo.svg.png" group-title="AMERICAN ENTERTAINMENT",Disney Channel East
 https://16live00.akamaized.net/DISNEY_CHANNEL/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/E%21_Logo_2012.svg/320px-E%21_Logo_2012.svg.png" group-title="AMERICAN ENTERTAINMENT",E! East
+https://16live00.akamaized.net/E/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/1920px-Logo_Lifetime_2020.svg.png" group-title="AMERICAN ENTERTAINMENT",Lifetime East
 http://38.127.211.18/live/c2eds/Lifetime/HLS/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/OWN_2011_logo.svg/1920px-OWN_2011_logo.svg.png" group-title="AMERICAN ENTERTAINMENT",Oprah Winfrey Network East
@@ -1490,12 +1492,18 @@ https://smithsonianaus-samsungau.amagi.tv/playlist.m3u8
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5QGgJe8.png" group-title="KNOWLEDGE",Love Nature Asia
 http://45.91.134.57:25461/sweet/7749/283
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/American_Heroes_Channel_logo.svg/1200px-American_Heroes_Channel_logo.svg.png" group-title="KNOWLEDGE",American Heroes
+https://16live00.akamaized.net/AMERICAN_HEROES_CHANNEL/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/1920px-InvestigationDiscoveryLogo2020.svg.png" group-title="KNOWLEDGE",Investigation Discovery East
+https://16live00.akamaized.net/INVESTIGATION_DISCOVERY/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XD8Vr0d.jpg" group-title="KNOWLEDGE",NASA TV Public
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XD8Vr0d.jpg" group-title="KNOWLEDGE",NASA TV Media
 https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VaoRtdn.png" group-title="KNOWLEDGE",Lingua Channel
 https://nonton.site:8443/Thopani/Haidir/14944
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bc/Science_Channel_2016.png" group-title="KNOWLEDGE",Science
+https://16live00.akamaized.net/DISCOVERY_SCIENCE/index.m3u8
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ae/RTD-TV-logo.png" group-title="KNOWLEDGE",RT Documentary
@@ -2138,7 +2146,7 @@ http://1tv1.net:8080/omnia2021/123456/148493
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0FJ92Bp.png" group-title="NATIONAL SPORTS",Golf Channel
 https://nonton.site:8443/Thopani/Haidir/561
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0g1cseU.png" group-title="NATIONAL SPORTS",eGG Network
-http://rr.dens.tv/h/h22/index.m3u8
+https://m3u-editor.com/serve/x3u5j2jr6i/513650629.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/o0WVl7b.png" group-title="NATIONAL SPORTS",Dunia Games
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(ec41a5e2-09e4-431d-b92e-383fa7abe25c)/manifest.mpd
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/800px-NBA_TV.svg.png" group-title="AMERICAN SPORTS",NBA TV
@@ -3524,7 +3532,9 @@ https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_mi
 #EXTINF:-1 tvg-logo="https://i.imgur.com/keL4CuH.png" group-title="LIFESTYLE",TV5 Monde Style
 https://tv5styleen-i.akamaihd.net/hls/live/631650/tv5styleen/tv5style_eng_1200.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hR8zIIs.png" group-title="LIFESTYLE",Destination America
-http://mlsh1.com:2086/malcolm1/malcolm/6732
+http://ky-iptv.com:80/nicholas/123456789/391193.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/FYI%2C_logo.svg/1280px-FYI%2C_logo.svg.png" group-title="LIFESTYLE",FYI
+http://ky-iptv.com:80/nicholas/123456789/175859.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WPHqjLK.png" group-title="LIFESTYLE",TravelXP
 https://m3u-editor.com/serve/50328070-93a4-11ec-bfe1-bfe07fb9faf4/505525025
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/2018_Travel_Channel_logo.svg/1920px-2018_Travel_Channel_logo.svg.png" group-title="LIFESTYLE",Travel Channel Asia
@@ -4079,11 +4089,11 @@ http://server.sibfungold.info:8080/gaicu84/iVMgaicu84DNfwV/48964
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/TG4_logo.svg/1200px-TG4_logo.svg.png" group-title="IRELAND",TG4
 https://dx4452e0qv6r9.cloudfront.net/tg4_vod_national_3000_.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c9/Virgin_Media_One_logo.png" group-title="IRELAND",Virgin Media One
-http://bestsave.ltd:2052/141414/151515/80934
+http://ky-iptv.com:80/nicholas/123456789/391164.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4f/Virgin_Media_Two_logo.png" group-title="IRELAND",Virgin Media Two
-http://bestsave.ltd:2052/141414/151515/80842
+http://ky-iptv.com:80/nicholas/123456789/391165.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/09/Virgin_Media_Three_logo.png" group-title="IRELAND",Virgin Media Three
-http://bestsave.ltd:2052/141414/151515/80841
+http://ky-iptv.com:80/nicholas/123456789/391166.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yPrJ4wh.png" group-title="ITALY",Canale 5
 http://live.oldtvline.com:23000/mafrale3-150317/FiiH8aP54u/5318
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8b/Logo_cielo.png" group-title="ITALY",Cielo
