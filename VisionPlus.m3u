@@ -1294,6 +1294,8 @@ http://live.oldtvline.com:23000/mafrale3-150317/FiiH8aP54u/38620
 https://mdstrm.com/live-stream-playlist/5cae562e0ca2f30815231c0f.m3u8?access_token=DST4b676d7da5a2a92ee15f8efcbcd00606
 #EXTINF:-1 tvg-logo="https://i.imgur.com/icFwjZ3.jpg" group-title="SPANISH SERIES",AMC España
 http://red.ipfox.org:8080/1234/12345678/2580
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EZQZ2Dl.png" group-title="SPANISH SERIES",AXN España
+http://ky-iptv.com:80/nicholas/123456789/514328.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/z7mc5A0.png" group-title="SPANISH SERIES",AXN White España
 http://red.ipfox.org:8080/1234/12345678/2576
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LfJXlVZ.png" group-title="SPANISH SERIES",Crimen + Investigación
@@ -1336,6 +1338,8 @@ http://red.ipfox.org:8080/1234/12345678/2667
 https://video-auth2.iol.pt/live_tvi_ficcao/live_tvi_ficcao/edge_servers/tvificcao-720p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/F3KgZWU.png" group-title="POLISH SERIES",Canal+ Seriale
 http://ky-iptv.com:80/nicholas/123456789/219016.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JOCjq3R.png" group-title="POLISH SERIES",Comedy Central Polska
+http://ky-iptv.com:80/nicholas/123456789/219026.ts
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9.0; MI 8 SE) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.119 Mobile Safari/537.36
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Polsat_Seriale_2021_gradient.svg/800px-Polsat_Seriale_2021_gradient.svg.png" group-title="POLISH SERIES",Polsat Seriale
 http://ky-iptv.com:80/nicholas/123456789/219105.ts
@@ -2585,6 +2589,12 @@ http://ky-iptv.com:80/nicholas/123456789/219048.ts
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9.0; MI 8 SE) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.119 Mobile Safari/537.36
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lTnKDju.png" group-title="POLISH SPORTS",Eurosport 2 Polska
 http://ky-iptv.com:80/nicholas/123456789/219049.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UlsXKUP.png" group-title="POLISH SPORTS",Extreme Sports Channel Polska
+http://ky-iptv.com:80/nicholas/123456789/219051.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rrGlnOO.png" group-title="POLISH SPORTS",FightBox HD
+http://ky-iptv.com:80/nicholas/123456789/219052.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0FJ92Bp.png" group-title="POLISH SPORTS",Golf Channel Polska
+http://ky-iptv.com:80/nicholas/123456789/219062.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4ePEZ0H.png" group-title="POLISH SPORTS",n Sport +
 http://ky-iptv.com:80/nicholas/123456789/219087.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pM6Q5n1.png" group-title="POLISH SPORTS",Polsat Sport
