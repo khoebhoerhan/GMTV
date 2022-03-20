@@ -1090,13 +1090,13 @@ http://103.194.169.171:8282/SW:TC_EMOTION_HD/mono.m3u8?token=93a611c10082e5eec57
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qTtPp15.png" group-title="SPANISH MOVIES",Acción por Movistar+
 http://red.ipfox.org:8080/1234/12345678/2582
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CWlrCiU.png" group-title="SPANISH MOVIES",Cine Ñ por Movistar+
-http://ky-iptv.com:80/nicholas/123456789/388032.ts
+http://stariptv.org:8080/wael2021/123456/34058
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BySshuJ.png" group-title="SPANISH MOVIES",Comedia por Movistar+
-http://ky-iptv.com:80/nicholas/123456789/387974.ts
+http://red.ipfox.org:8080/1234/12345678/2534
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mY1iUOP.png" group-title="SPANISH MOVIES",Drama por Movistar+
-http://ky-iptv.com:80/nicholas/123456789/387978.ts
+http://stariptv.org:8080/wael2021/123456/34081
 #EXTINF:-1 tvg-logo="https://i.imgur.com/udApPPa.png" group-title="SPANISH MOVIES",Estrenos por Movistar+
-http://ky-iptv.com:80/nicholas/123456789/387982.ts
+http://red.ipfox.org:8080/1234/12345678/2531
 #EXTINF:-1 tvg-logo="https://i.imgur.com/l98cwXx.png" group-title="SPANISH MOVIES",Estrenos 2 por Movistar+
 http://146.19.16.206:8000/play/a045/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ony7sq0.png" group-title="SPANISH MOVIES",Fest por Movistar+
@@ -1365,7 +1365,7 @@ https://liveanevia.mncnow.id/live/eds/KidsChannel/sa_dash_vmx/KidsChannel.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aBg0Ge4.png" group-title="KIDS",Biznet Kids
 http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/playlist.m3u8?bizkeylivestarttime=0&bizkeyliveendtime=0&bizkeyliveCustomParameter=myParameter&bizkeylivehash=qAri1M2xu_MAlnHwVRtOs24lR8Y_HSDijN2CRNghifUllhYqQSDlkd0qE8CkZwxC
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BgIUxdy.png" group-title="KIDS",Mentari TV
-http://108.136.37.52/m3u8/vid_Mentari_TV.m3u8
+https://m3u-editor.com/serve/0nqddwyh1g/508957600.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/V2n8iDR.png" group-title="KIDS",Spacetoon
 http://stream1.ninmedia.tv:1935/spacetoon/udp.stream_360p/chunklist_w1596438578.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
