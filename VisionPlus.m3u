@@ -105,9 +105,9 @@ https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w1843433135_b
 https://liveanevia.mncnow.id/live/eds/KompasTV/sa_dash_vmx/KompasTV.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-logo="https://i.imgur.com/RrjCro1.png" group-title="NATIONAL NEWS",BeritaSatu
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RrjCro1.png" group-title="NATIONAL NEWS",Berita Satu News Channel
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/m0ZTn47.png" group-title="NATIONAL NEWS",BeritaSatu World
+#EXTINF:-1 tvg-logo="https://i.imgur.com/m0ZTn47.png" group-title="NATIONAL NEWS",Berita Satu World
 https://b1world.beritasatumedia.com/Beritasatu/B1World_1280x720.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VMokxOy.png" group-title="NATIONAL NEWS",Jakarta Globe News Channel
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsenglish/playlist.m3u8
@@ -514,11 +514,11 @@ http://170.82.200.38:8080/tnt/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Canal_Viva_2018_wordmark.svg/1280px-Canal_Viva_2018_wordmark.svg.png" group-title="BRASILIAN ENTERTAINMENT",Canal Viva
 http://5gfksa.ltd:2052/334455/554433/84369
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Game_Show_Network_2018.svg/1024px-Game_Show_Network_2018.svg.png" group-title="AMERICAN ENTERTAINMENT",Game Show Network
-https://16live00.akamaized.net/GAME_SHOW_NETWORK/index.m3u8
+http://server.sibfungold.info:8080/gaicu84/iVMgaicu84DNfwV/46786
 #EXTINF:-1 tvg-logo="https://i.imgur.com/71d2wEk.png" group-title="AMERICAN ENTERTAINMENT",Paramount Network
-https://16live00.akamaized.net/PARAMOUNT_NETWORK/index.m3u8
+http://server.sibfungold.info:8080/gaicu84/iVMgaicu84DNfwV/52734
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/1920px-USA_Network_logo_%282016%29.svg.png" group-title="AMERICAN ENTERTAINMENT",USA Network East
-http://38.127.211.18/live/c2eds/USA/HLS/index.m3u8
+http://server.sibfungold.info:8080/gaicu84/iVMgaicu84DNfwV/46719
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bQPc9pg.png" group-title="AMERICAN ENTERTAINMENT",Bravo East
 http://stariptv.org:8080/wael2021/123456/148450
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JOCjq3R.png" group-title="AMERICAN ENTERTAINMENT",Comedy Central East
@@ -1722,7 +1722,7 @@ https://liveru.cgtn.com/1000r/prog_index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/800px-Fox_News_Channel_logo.svg.png" group-title="AMERICAN NEWS",Fox News Channel
 https://liveanevia.mncnow.id/live/eds/FoxNews/sa_dash_vmx/FoxNews.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cMM9MAg.png" group-title="AMERICAN NEWS",MSNBC
-http://38.127.211.18/live/c2eds/MSNBC/HLS/index.m3u8
+http://stariptv.org:8080/wael2021/123456/148456
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IVvxmTv.png" group-title="AMERICAN NEWS",CBS News
@@ -2046,7 +2046,7 @@ https://m3u-editor.com/serve/50328070-93a4-11ec-bfe1-bfe07fb9faf4/505524881
 https://d233nwklwv8p4.cloudfront.net/out/v1/860cb318d23a4c64b58c9d625281170c/index_3.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-logo="https://i.imgur.com/u4zDsl3.png" group-title="BUSINESS NEWS",Bloomberg
+#EXTINF:-1 tvg-logo="https://i.imgur.com/u4zDsl3.png" group-title="BUSINESS NEWS",Bloomberg TV Asia
 https://liveanevia.mncnow.id/live/eds/Bloomberg/sa_dash_vmx/Bloomberg.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5M3233w.png" group-title="BUSINESS NEWS",Bloomberg HT
 https://tv.ensonhaber.com/tv/tr/bloomberght/index.m3u8
@@ -2166,7 +2166,7 @@ https://liveanevia.mncnow.id/live/eds/FightSports/sa_dash_vmx/FightSports.mpd
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/800px-NBA_TV.svg.png" group-title="NATIONAL SPORTS",NBA TV
 http://84.22.33.215/nbatv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0FJ92Bp.png" group-title="AMERICAN SPORTS",Golf Channel US
-http://1tv1.net:8080/omnia2021/123456/148493
+http://server.sibfungold.info:8080/gaicu84/iVMgaicu84DNfwV/46787
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0FJ92Bp.png" group-title="NATIONAL SPORTS",Golf Channel
 https://nonton.site:8443/Thopani/Haidir/561
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0g1cseU.png" group-title="NATIONAL SPORTS",eGG Network
@@ -2305,7 +2305,7 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df975e2b27cf500092
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oGyeYgb.png" group-title="AMERICAN SPORTS",beIN Sports Xtra en Español
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60492fdd9989d30007ccd30a/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a121ad30-ae69-11eb-a87c-2ba0b5b8041d&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=ac3bc3c0-b26f-4c9c-8c94-988af191404a&userId=&serverSideAds=true
 #EXTINF:-1 tvg-logo="https://i.imgur.com/39bwyGI.png" group-title="AMERICAN SPORTS",beIN Sports
-https://16live00.akamaized.net/BEIN_SPORTSSD/index.m3u8
+http://myhosting.one:8080/arsenal1/arsenal1/261241
 #EXTINF:-1 tvg-logo="https://i.imgur.com/39bwyGI.png" group-title="CANADIAN SPORTS",beIN Sports
 http://ky-iptv.com:80/nicholas/123456789/181827.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/x8049OP.png" group-title="CANADIAN SPORTS",beIN Sports Xtra
@@ -2313,9 +2313,9 @@ http://status.tehw00t.net/miniProxy.php/https://bein-xtra-samsung-canada.amagi.t
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/MLBNetworkLogo.svg/800px-MLBNetworkLogo.svg.png" group-title="AMERICAN SPORTS",MLB Network
 http://stariptv.org:8080/wael2021/123456/148503
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gZXSAhf.png" group-title="AMERICAN SPORTS",NFL Network
-https://16live00.akamaized.net/NFL_NETWORK/index.m3u8
+http://server.sibfungold.info:8080/gaicu84/iVMgaicu84DNfwV/46722
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LH4EVbg.png" group-title="AMERICAN SPORTS",NHL Network
-http://stariptv.org:8080/wael2021/123456/148502
+http://server.sibfungold.info:8080/gaicu84/iVMgaicu84DNfwV/46763
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JApkfiF.png" group-title="AMERICAN SPORTS",Tennis Channel
 http://stariptv.org:8080/wael2021/123456/148496
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lcpZ5CC.png" group-title="AMERICAN SPORTS",WWE Network
@@ -2467,13 +2467,13 @@ http://crystalott.org:80/CKVRKUO4L3/IRTRILUKU7/234259
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1g9mYwr.png" group-title="AMERICAN SPORTS",CBS Sports Network
 http://ky-iptv.com:80/nicholas/123456789/176607.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1920px-ESPN_wordmark.svg.png" group-title="AMERICAN SPORTS",ESPN
-http://38.127.211.18/live/c2eds/ESPN1USA/HLS/index.m3u8
+http://stariptv.org:8080/wael2021/123456/148465
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/1280px-ESPN2_logo.svg.png" group-title="AMERICAN SPORTS",ESPN 2
-http://38.127.211.18/live/c2eds/ESPN2USA/HLS/index.m3u8
+http://stariptv.org:8080/wael2021/123456/148466
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YhuEewa.png" group-title="AMERICAN SPORTS",ESPN Deportes
-http://ky-iptv.com:80/nicholas/123456789/220408.ts
+http://server.sibfungold.info:8080/gaicu84/iVMgaicu84DNfwV/46867
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/ESPNews.svg/1920px-ESPNews.svg.png" group-title="AMERICAN SPORTS",ESPNews
-http://ky-iptv.com:80/nicholas/123456789/220410.ts
+http://server.sibfungold.info:8080/gaicu84/iVMgaicu84DNfwV/50865
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qimdreM.png" group-title="AMERICAN SPORTS",FS1
 http://stariptv.org:8080/wael2021/123456/148446
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jxLMBZt.png" group-title="AMERICAN SPORTS",FS2
@@ -3633,19 +3633,19 @@ https://tglmp03.akamaized.net/out/v1/1057d89ee3d94148b430b5866e3a540a/manifest.m
 https://tglmp04.akamaized.net/out/v1/b200e885125f4787bd2329952ff28fa1/manifest.mpd
 #EXTVLCOPT:network-caching=1000
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8DZL1sg.png" group-title="USA",ABC East
-http://38.127.211.18/live/c2eds/ABC/HLS/index.m3u8
+http://stariptv.org:8080/wael2021/123456/148478
 #EXTVLCOPT:network-caching=1000
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VBD4ugr.png" group-title="USA",Azteca America
 https://v-ny.theus6tv.tk/hls/42.1/playlist.m3u8
 #EXTVLCOPT:network-caching=1000
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KJR6lt0.png" group-title="USA",CBS East
-http://38.127.211.18/live/c2eds/CBS/HLS/index.m3u8
+http://stariptv.org:8080/wael2021/123456/148460
 #EXTVLCOPT:network-caching=1000
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Q6AoC5h.png" group-title="USA",Fox East
-http://ky-iptv.com:80/nicholas/123456789/517246.ts
+http://stariptv.org:8080/wael2021/123456/148461
 #EXTVLCOPT:network-caching=1000
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OzHkxwZ.png" group-title="USA",NBC East
-http://38.127.211.18/live/c2eds/NBC/HLS/index.m3u8
+http://stariptv.org:8080/wael2021/123456/148462
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/33/PBS_logo.svg/1920px-PBS_logo.svg.png" group-title="USA",PBS East
 #EXTVLCOPT:network-caching=1000
 https://v-ny.theus6tv.tk/hls/21.1/playlist.m3u8
