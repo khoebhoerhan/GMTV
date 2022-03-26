@@ -2283,7 +2283,8 @@ http://server.sibfungold.info:8080/gaicu84/iVMgaicu84DNfwV/1549
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Lu26Yho.png" group-title="TURKISH SPORTS",beIN Sports 4 Türkiye
 http://server.sibfungold.info:8080/gaicu84/iVMgaicu84DNfwV/49946
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fBWCN2V.png" group-title="TURKISH SPORTS",beIN Sports Haber
-https://livesx.canlitv.center/beinsportshaber.m3u8
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+https://www.yilmaztv.ru/beceroz/oz.php?channel=bein-sports-haber&stream=1&type=m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MRULdc8.png" group-title="AUSTRALIAN SPORTS",beIN Sports 1
 http://stariptv.org:8080/hakim2021/123456/163779
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NDp6TlM.png" group-title="AUSTRALIAN SPORTS",beIN Sports 2
@@ -3056,7 +3057,8 @@ http://server.sibfungold.info:8080/gaicu84/iVMgaicu84DNfwV/48239
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QxrbzI6.png" group-title="TURKISH SPORTS",Tivibu Spor 4
 http://myhosting.one:8080/arsenal1/arsenal1/255673
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0Nu5hMy.png" group-title="TURKISH SPORTS",TRT Spor
-http://server.sibfungold.info:8080/gaicu84/iVMgaicu84DNfwV/48323
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+https://www.yilmaztv.ru/beceroz/oz.php?channel=trt-spor&stream=1&type=m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Sfu3Y7S.png" group-title="TURKISH SPORTS",TRT Spor Yıldız
 http://myhosting.one:8080/arsenal1/arsenal1/255684
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8A0aYWf.png" group-title="SERBIAN SPORTS",Arena 1 Premium
@@ -4572,7 +4574,8 @@ http://freelive.inwstream.com:1935/freelive-edge/workpointtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c3/360_tv.png" group-title="TURKEY",360
 https://tv.ensonhaber.com/tv/tr/360tv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/c3RgcaI.png" group-title="TURKEY",a2
-http://84.22.33.214/A2/index.m3u8
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+https://www.yilmaztv.ru/beceroz/oz.php?channel=a2&stream=1&type=m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Atv_logosu.png" group-title="TURKEY",atv Türkiye
 https://trkvz-live.daioncdn.net/atv/atv_1080p.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dl5oTth.png" group-title="TURKEY",beIN IZ
@@ -4582,7 +4585,8 @@ http://93.157.62.180/FoxTurk/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6OYvfnf.png" group-title="TURKEY",Kanal 7
 https://live.kanal7.com/live/kanal7LiveDesktop/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0c8iZq8.png" group-title="TURKEY",Kanal D
-http://93.157.62.180/KanalD/index.m3u8
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+https://www.yilmaztv.ru/beceroz/oz.php?channel=kanal-d&stream=1&type=m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3SQqZXU.png" group-title="TURKEY",Show Max
 http://iptvmasterlink.dyndns.org:8080/ShowMax/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4b/Show_TV.svg/800px-Show_TV.svg.png" group-title="TURKEY",Show TV
@@ -4596,7 +4600,8 @@ http://167.114.115.233:8080/trt2fhd/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6t0F8zO.jpg" group-title="TURKEY",TV 4
 https://turkmedya-live.ercdn.net/tv4/tv4_720p.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/35/Tv8_new_logo.png" group-title="TURKEY",TV 8
-https://livesx.canlitv.center/tv8hd.m3u8
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+https://www.yilmaztv.ru/beceroz/oz.php?channel=tv-8&stream=1&type=m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nhl0SnT.png" group-title="TURKEY",TV 8.5
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 https://www.yilmaztv.ru/beceroz/oz.php?channel=tv85-turkiye-1&stream=1&type=m3u8
