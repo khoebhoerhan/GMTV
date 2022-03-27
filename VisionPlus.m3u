@@ -431,8 +431,10 @@ http://iptv.tvfix.org/hls/tvbxh2.m3u8
 http://iptv.tvfix.org/hls/tvbs.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-logo="https://i.imgur.com/44aJ4YV.png" group-title="CHINESE ENTERTAINMENT",Xing Kong
+#EXTINF:-1 tvg-logo="https://i.imgur.com/44aJ4YV.png" group-title="CHINESE ENTERTAINMENT",Xing Kong TV
 https://liveanevia.mncnow.id/live/eds/XingKongTV/sa_dash_vmx/XingKongTV.mpd
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/b/b0/Star_Chinese_Channel_20161218.png" group-title="CHINESE ENTERTAINMENT",Star Chinese Channel
+http://easy_001.ztpfuoodzsthwn.xyz:8888/mylive/103/333660/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Rai_Italia_-_Logo_2017.svg/1920px-Rai_Italia_-_Logo_2017.svg.png" group-title="WORLD ENTERTAINMENT",Rai Italia
 http://rr3.dens.tv/s/s63/index2.m3u8
 #KODIPROP:inputstream=inputstream.adaptive
@@ -540,9 +542,11 @@ http://stariptv.org:8080/wael2021/123456/148474
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Hg5CBlW.png" group-title="AMERICAN ENTERTAINMENT",TruTV East
 https://16live00.akamaized.net/TRU_TV/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ypwYHcA.png" group-title="PINOY ENTERTAINMENT",GMA Life TV
-http://ky-iptv.com:80/nicholas/123456789/398646.m3u8
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/144867
 #EXTINF:-1 tvg-logo="https://i.imgur.com/a8ISfyz.png" group-title="PINOY ENTERTAINMENT",GMA Pinoy TV USA & Canada
-http://ky-iptv.com:80/nicholas/123456789/499293.m3u8
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/147238
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VR0vk60.png" group-title="PINOY ENTERTAINMENT",Kapatid 5
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/171991
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SsTaXe8.png" group-title="PINOY ENTERTAINMENT",TFC USA West
 http://ky-iptv.com:80/nicholas/123456789/1695250.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SsTaXe8.png" group-title="PINOY ENTERTAINMENT",TFC Asia-Pacific
@@ -728,7 +732,7 @@ http://live.flixhub.net/hls/utvaction.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Uctv8BF.png" group-title="MOVIES",Showcase Movies
 https://m3u-editor.com/serve/50328070-93a4-11ec-bfe1-bfe07fb9faf4/505524618
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GA2ny64.png" group-title="ASIAN MOVIES",Star Chinese Movies
-https://m3u-editor.com/serve/hlzt5h5k2o/513640362.ts
+http://59.125.101.187:8596/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/duaKL8I.png" group-title="ASIAN MOVIES",Thrill
@@ -1963,7 +1967,7 @@ http://ky-iptv.com:80/nicholas/123456789/1806749.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HnS25Hi.png" group-title="PINOY NEWS",DZRH TV
 http://ky-iptv.com:80/nicholas/123456789/1806766.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mUtDgqk.png" group-title="PINOY NEWS",GMA News TV International
-http://5gfksa.ltd:2052/334455/554433/91263
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/144859
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/OneNewsPH_logo.svg/1024px-OneNewsPH_logo.svg.png" group-title="PINOY NEWS",One News
 http://gooserace.xyz:80/play/8RKaarZp2hb82YDzh8OYR54ydKyYz9YgUUD-d3ginEQ
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c6/OnePHCignal.svg/1024px-OnePHCignal.svg.png" group-title="PINOY NEWS",One PH
@@ -4175,7 +4179,7 @@ http://50.7.74.29:8880/hlsok/j00014/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Tokyo_Broadcasting_System_logo_2020.svg/1920px-Tokyo_Broadcasting_System_logo_2020.svg.png" group-title="JAPAN",TBS
 http://50.7.74.29:8880/hlsok/j00031/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/TV_Tokyo_logo_20110629.svg/1920px-TV_Tokyo_logo_20110629.svg.png" group-title="JAPAN",TV Tokyo
-http://50.7.74.29:8880/hlsok/j00012/index.m3u8
+http://211.21.12.236:11935/live/gd07.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZGeU8K9.png" group-title="JAPAN",Fuji TV
 https://fujitv1.mov3.co/hls/fujitv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AkM9Xjl.png" group-title="JAPAN",NHK BSP
