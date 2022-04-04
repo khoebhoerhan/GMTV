@@ -22,15 +22,15 @@ https://video.detik.com/trans7/smil:trans7.smil/chunklist_w1791373024_b744100_sl
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=N2NlNGIzZDgtMDIzYi0zZjU4LTg3ZDMtZjVjNDJlMzQwNjJh
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/1280px-SCTV_Logo.svg.png" group-title="NASIONAL",SCTV
-http://tvn.x10.bz/xchannel/master-24.m3u8
+http://tvn.x10.bz/TvN_ID/master-24.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=N2NlNGIzZDgtMDIzYi0zZjU4LTg3ZDMtZjVjNDJlMzQwNjJh
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/1000px-Indosiar_2015.svg.png" group-title="NASIONAL",Indosiar
-http://tvn.x10.bz/xchannel/master.m3u8
+http://tvn.x10.bz/TvN_ID/master.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MGRhNmU1M2UtNGE3Ni0zZGRkLWJhMmQtYTFmMzE2YTRlMTY3
 #EXTINF:-1 tvg-logo="https://i.imgur.com/w2eOFdH.png" group-title="NASIONAL",O Channel
-http://tvn.x10.bz/xchannel/master-18.m3u8
+http://tvn.x10.bz/TvN_ID/master-18.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sDmXVSm.png" group-title="NASIONAL",ANTV
@@ -325,9 +325,9 @@ https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(20baf7aa-fd51-4
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ibh5oCE.png" group-title="NATIONAL ENTERTAINMENT",Citra Entertainment
-http://tvn.x10.bz/xchannel/master-11.m3u8
+http://tvn.x10.bz/TvN_ID/master-11.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KiRHdpz.png" group-title="NATIONAL ENTERTAINMENT",Citra Drama
-http://tvn.x10.bz/xchannel/master-2.m3u8
+http://tvn.x10.bz/TvN_ID/master-2.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cyIsVd7.png" group-title="NATIONAL ENTERTAINMENT",Astro Aura
 https://m3u-editor.com/serve/x3u5j2jr6i/513650656.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/12/Astro_Rania_NEW.png" group-title="NATIONAL ENTERTAINMENT",Astro Rania
@@ -684,7 +684,7 @@ http://indo.on-site.x10.mx/Sebuah-Usee/chunklist.m3u8?id=bioskopindonesia&bandwi
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lN20Oy7.png" group-title="NATIONAL MOVIES",Citra Bioskop
-http://tvn.x10.bz/xchannel/master-1.m3u8
+http://tvn.x10.bz/TvN_ID/master-1.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/khhBdiS.png" group-title="NATIONAL MOVIES",Flik
 https://nonton.site:8443/Thopani/Haidir/29592
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1558,7 +1558,7 @@ http://ky-iptv.com:80/nicholas/123456789/176290.ts
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/CNN_Portugal.svg/800px-CNN_Portugal.svg.png" group-title="PORTUGUESE NEWS",CNN Portugal
-http://server.sibfungold.info:8080/gaicu84/iVMgaicu84DNfwV/265
+http://stariptv.org:8080/hakim2021/123456/4101
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zcaYBfX.png" group-title="BRASILIAN NEWS",CNN Brasil
 http://170.82.200.38:8080/cnn_brasil/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0XayB3p.png" group-title="INDIAN NEWS",CNN News 18
@@ -1724,7 +1724,7 @@ https://liveru.cgtn.com/1000r/prog_index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/800px-Fox_News_Channel_logo.svg.png" group-title="AMERICAN NEWS",Fox News Channel
 https://liveanevia.mncnow.id/live/eds/FoxNews/sa_dash_vmx/FoxNews.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cMM9MAg.png" group-title="AMERICAN NEWS",MSNBC
-http://stariptv.org:8080/wael2021/123456/148456
+http://stariptv.org:8080/hakim2021/123456/148456
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IVvxmTv.png" group-title="AMERICAN NEWS",CBS News
@@ -1819,7 +1819,7 @@ http://callofliberty.fr/stream/BFMTV/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Canal_News_logo.svg/1920px-Canal_News_logo.svg.png" group-title="FRENCH NEWS",C News
 http://hls-m010.live-lv3.canalplus-cdn.net/live/disk/cnews-clair-hd/ios-v3-hd-clair/cnews-clair-hd-audio_20000=96000-video=3400000.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/40Zq0TK.png" group-title="FRENCH NEWS",Franceinfo
-http://server.sibfungold.info:8080/gaicu84/iVMgaicu84DNfwV/48877
+http://stariptv.org:8080/hakim2021/123456/4928
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0c/La_Cha%C3%AEne_Info_%28logo%29.svg/1920px-La_Cha%C3%AEne_Info_%28logo%29.svg.png" group-title="FRENCH NEWS",LCI
 http://server.sibfungold.info:8080/gaicu84/iVMgaicu84DNfwV/50065
 #EXTINF:-1 tvg-logo="https://i.imgur.com/v7Zj0iJ.png" group-title="FRENCH NEWS",TV5 Monde Info
@@ -1943,7 +1943,7 @@ http://ky-iptv.com:80/nicholas/123456789/219144.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cojVDUx.png" group-title="POLISH NEWS",Wydarzenia 24
 http://ky-iptv.com:80/nicholas/123456789/219130.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TpBpUU4.png" group-title="PORTUGUESE NEWS",SIC Notícias
-http://server.sibfungold.info:8080/gaicu84/iVMgaicu84DNfwV/275
+http://stariptv.org:8080/hakim2021/123456/4769
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Rtp3.png/1920px-Rtp3.png" group-title="PORTUGUESE NEWS",RTP 3
@@ -2065,7 +2065,7 @@ https://liveanevia.mncnow.id/live/eds/CNBC/sa_dash_vmx/CNBC.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HlXhqyY.png" group-title="BUSINESS NEWS",CNBC World
 http://hdhd.tk:80/772299/772299/1652
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KxxvR2X.png" group-title="BUSINESS NEWS",CNBC US
-http://stariptv.org:8080/wael2021/123456/148457
+http://stariptv.org:8080/hakim2021/123456/148457
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4XhULAV.png" group-title="BUSINESS NEWS",CNBC Arabiya
 https://cnbcarabia.hibridcdn.net/cnbc/cnbc_abr/cnbc/cnbc_480p/chunks.m3u8?
 #EXTINF:-1 tvg-logo="https://i.imgur.com/K4v9gj2.png" group-title="BUSINESS NEWS",CNBC Awaaz
@@ -2081,7 +2081,7 @@ https://5be2f59e715dd.streamlock.net/CNBC/smil:CNBCSandton.smil/HasBahCa.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Y3vQaf5.png" group-title="BUSINESS NEWS",Yahoo! Finance
 https://yahoo-samsung.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Fox_Business.svg/1920px-Fox_Business.svg.png" group-title="BUSINESS NEWS",Fox Business
-http://stariptv.org:8080/wael2021/123456/148458
+http://stariptv.org:8080/hakim2021/123456/148458
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UrRif3p.png" group-title="BUSINESS NEWS",A Para
 https://livesx.canlitv.center/apara2.m3u8
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
@@ -2131,17 +2131,17 @@ https://liveanevia.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ffWoTF9.png" group-title="NATIONAL SPORTS",Champions TV 1
-http://tvn.x10.bz/xchannel/master-6.m3u8
+http://tvn.x10.bz/TvN_ID/master-6.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/r2aPCX8.png" group-title="NATIONAL SPORTS",Champions TV 2
-http://tvn.x10.bz/xchannel/master-7.m3u8
+http://tvn.x10.bz/TvN_ID/master-7.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/26Jar5R.png" group-title="NATIONAL SPORTS",Champions TV 3
-http://tvn.x10.bz/xchannel/master-8.m3u8
+http://tvn.x10.bz/TvN_ID/master-8.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
@@ -2196,7 +2196,7 @@ http://server.sibfungold.info:8080/gaicu84/iVMgaicu84DNfwV/4095
 #EXTINF:-1 tvg-logo="https://i.imgur.com/reeopjn.png" group-title="CLUBS OF SPORTS",Lazio Style Channel
 http://live.oldtvline.com:23000/mafrale3-150317/FiiH8aP54u/8970
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1f/LFC_TV_logo.png" group-title="CLUBS OF SPORTS",LFC TV
-http://tvn.x10.bz/xchannel/master-3.m3u8
+http://tvn.x10.bz/TvN_ID/master-3.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YvrL9uO.jpg" group-title="CLUBS OF SPORTS",Milan TV
 http://live.oldtvline.com:23000/mafrale3-150317/FiiH8aP54u/8972
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3zyVm7l.png" group-title="CLUBS OF SPORTS",MUTV
@@ -2227,61 +2227,61 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JApkfiF.png" group-title="WORLD SPORTS",Tennis Channel International
 https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/39bwyGI.png" group-title="ARABIC SPORTS",beIN Sports
-http://1tv1.net:8080/hakim2021/123456/22186
+http://stariptv.org:8080/hakim2021/123456/22186
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MRULdc8.png" group-title="ARABIC SPORTS",beIN Sports 1
-http://server.sibfungold.info:8080/gaicu84/iVMgaicu84DNfwV/3244
+http://154.53.60.93:25461/live/BEIN/SPORT/5.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NDp6TlM.png" group-title="ARABIC SPORTS",beIN Sports 2
-http://server.sibfungold.info:8080/gaicu84/iVMgaicu84DNfwV/3245
+http://154.53.60.93:25461/live/BEIN/SPORT/6.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/j8VC6nB.png" group-title="ARABIC SPORTS",beIN Sports 3
-http://server.sibfungold.info:8080/gaicu84/iVMgaicu84DNfwV/3246
+http://154.53.60.93:25461/live/BEIN/SPORT/7.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Lu26Yho.png" group-title="ARABIC SPORTS",beIN Sports 4
-http://server.sibfungold.info:8080/gaicu84/iVMgaicu84DNfwV/3247
+http://154.53.60.93:25461/live/BEIN/SPORT/8.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pA5by2y.png" group-title="ARABIC SPORTS",beIN Sports 5
-http://server.sibfungold.info:8080/gaicu84/iVMgaicu84DNfwV/49383
+http://154.53.60.93:25461/live/BEIN/SPORT/9.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mbFoSUX.png" group-title="ARABIC SPORTS",beIN Sports 6
-http://server.sibfungold.info:8080/gaicu84/iVMgaicu84DNfwV/49384
+http://154.53.60.93:25461/live/BEIN/SPORT/10.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eHCosqi.png" group-title="ARABIC SPORTS",beIN Sports 7
-http://server.sibfungold.info:8080/gaicu84/iVMgaicu84DNfwV/49385
+http://154.53.60.93:25461/live/BEIN/SPORT/11.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BZ5jcea.png" group-title="ARABIC SPORTS",beIN Sports NBA
-http://server.sibfungold.info:8080/gaicu84/iVMgaicu84DNfwV/49691
+http://king-tv.net:8080/zakiabdulal/2vDMiza9XO/170433.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TG2eNPO.png" group-title="ARABIC SPORTS",beIN Sports News
 http://server.sibfungold.info:8080/gaicu84/iVMgaicu84DNfwV/2296
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uYcwFSD.png" group-title="ARABIC SPORTS",beIN Sports Xtra 1
-http://server.sibfungold.info:8080/gaicu84/iVMgaicu84DNfwV/10
+http://king-tv.net:8080/zakiabdulal/2vDMiza9XO/238062.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Q9ACq0T.png" group-title="ARABIC SPORTS",beIN Sports Xtra 2
-http://server.sibfungold.info:8080/gaicu84/iVMgaicu84DNfwV/53670
+http://king-tv.net:8080/zakiabdulal/2vDMiza9XO/238063.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MRULdc8.png" group-title="FRENCH SPORTS",beIN Sports 1 France
-http://server.sibfungold.info:8080/gaicu84/iVMgaicu84DNfwV/3682
+http://iptvtree.net:8080/oMnFdj88ij/uQjzzncJGN/144
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NDp6TlM.png" group-title="FRENCH SPORTS",beIN Sports 2 France
-http://server.sibfungold.info:8080/gaicu84/iVMgaicu84DNfwV/47302
+http://iptvtree.net:8080/oMnFdj88ij/uQjzzncJGN/145
 #EXTINF:-1 tvg-logo="https://i.imgur.com/j8VC6nB.png" group-title="FRENCH SPORTS",beIN Sports 3 France
-http://server.sibfungold.info:8080/gaicu84/iVMgaicu84DNfwV/3680
+http://iptvtree.net:8080/oMnFdj88ij/uQjzzncJGN/146
 #EXTINF:-1 tvg-logo="https://i.imgur.com/o8zT78o.png" group-title="ARABIC SPORTS",beIN Sports English 1
-http://stariptv.org:8080/wael2021/123456/112461
+http://stariptv.org:8080/hakim2021/123456/112461
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RJ17vOc.png" group-title="ARABIC SPORTS",beIN Sports English 2
-http://stariptv.org:8080/wael2021/123456/112462
+http://stariptv.org:8080/hakim2021/123456/112462
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sKFx2QF.png" group-title="ARABIC SPORTS",beIN Sports English 3
-http://stariptv.org:8080/wael2021/123456/112463
+http://stariptv.org:8080/hakim2021/123456/112463
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NOOEDFi.png" group-title="ARABIC SPORTS",beIN Sports French 1
-http://stariptv.org:8080/wael2021/123456/112464
+http://stariptv.org:8080/hakim2021/123456/112464
 #EXTINF:-1 tvg-logo="https://i.imgur.com/n6iA4cg.png" group-title="ARABIC SPORTS",beIN Sports French 2
-http://stariptv.org:8080/wael2021/123456/112465
+http://stariptv.org:8080/hakim2021/123456/112465
 #EXTINF:-1 tvg-logo="https://i.imgur.com/srteRe1.png" group-title="ARABIC SPORTS",beIN Sports French 3
-http://stariptv.org:8080/wael2021/123456/112466
+http://stariptv.org:8080/hakim2021/123456/112466
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CwlNjXQ.png" group-title="ARABIC SPORTS",beIN Sports Premium 1
-http://server.sibfungold.info:8080/gaicu84/iVMgaicu84DNfwV/9
+http://154.53.60.93:25461/live/BEIN/SPORT/2.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ns7isEP.png" group-title="ARABIC SPORTS",beIN Sports Premium 2
-http://server.sibfungold.info:8080/gaicu84/iVMgaicu84DNfwV/8
+http://154.53.60.93:25461/live/BEIN/SPORT/3.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/T7UlxCI.png" group-title="ARABIC SPORTS",beIN Sports Premium 3
-http://server.sibfungold.info:8080/gaicu84/iVMgaicu84DNfwV/11
+http://154.53.60.93:25461/live/BEIN/SPORT/4.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MRULdc8.png" group-title="TURKISH SPORTS",beIN Sports 1 Türkiye
-http://server.sibfungold.info:8080/gaicu84/iVMgaicu84DNfwV/469
+http://king-tv.net:8080/zakiabdulal/2vDMiza9XO/336209.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NDp6TlM.png" group-title="TURKISH SPORTS",beIN Sports 2 Türkiye
-http://server.sibfungold.info:8080/gaicu84/iVMgaicu84DNfwV/1547
+http://king-tv.net:8080/zakiabdulal/2vDMiza9XO/336881.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/j8VC6nB.png" group-title="TURKISH SPORTS",beIN Sports 3 Türkiye
-http://server.sibfungold.info:8080/gaicu84/iVMgaicu84DNfwV/1549
+http://king-tv.net:8080/zakiabdulal/2vDMiza9XO/336886.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Lu26Yho.png" group-title="TURKISH SPORTS",beIN Sports 4 Türkiye
-http://server.sibfungold.info:8080/gaicu84/iVMgaicu84DNfwV/49946
+http://king-tv.net:8080/zakiabdulal/2vDMiza9XO/336891.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fBWCN2V.png" group-title="TURKISH SPORTS",beIN Sports Haber
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 https://www.yilmaztv.ru/beceroz/oz.php?channel=bein-sports-haber&stream=1&type=m3u8
@@ -2292,15 +2292,15 @@ http://stariptv.org:8080/hakim2021/123456/163781
 #EXTINF:-1 tvg-logo="https://i.imgur.com/j8VC6nB.png" group-title="AUSTRALIAN SPORTS",beIN Sports 3
 http://stariptv.org:8080/hakim2021/123456/163783
 #EXTINF:-1 tvg-logo="https://i.imgur.com/39bwyGI.png" group-title="MALAY SPORTS",beIN Sports Malaysia & Singapore
-https://nonton.site:8443/Thopani/Haidir/37432
+http://king-tv.net:8080/zakiabdulal/2vDMiza9XO/240975.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NDp6TlM.png" group-title="MALAY SPORTS",beIN Sports 2 Malaysia & Singapore
-https://m3u-editor.com/serve/11hkjpa3t5/508568935
+http://king-tv.net:8080/zakiabdulal/2vDMiza9XO/240976.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/j8VC6nB.png" group-title="MALAY SPORTS",beIN Sports 3 Malaysia & Singapore
-https://m3u-editor.com/serve/11hkjpa3t5/508568939
+http://king-tv.net:8080/zakiabdulal/2vDMiza9XO/241027.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MRULdc8.png" group-title="THAI SPORTS",beIN Sports 1 Thailand
-http://45.91.134.57:25461/sweet/7749/18847
+http://king-tv.net:8080/zakiabdulal/2vDMiza9XO/204654.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NDp6TlM.png" group-title="THAI SPORTS",beIN Sports 2 Thailand
-http://45.91.134.57:25461/sweet/7749/18848
+http://king-tv.net:8080/zakiabdulal/2vDMiza9XO/204655.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LfzLKei.png" group-title="AMERICAN SPORTS",beIN Sports en Español
 http://ky-iptv.com:80/nicholas/123456789/176306.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/x8049OP.png" group-title="AMERICAN SPORTS",beIN Sports Xtra
@@ -2326,47 +2326,47 @@ https://nonton.site:8443/Thopani/Haidir/37435
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c8/BoxNation2014Logo.png" group-title="BRITISH SPORTS",Box Nation
 http://archive.simpletv.eu:8080/boxnation/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7dg7EB7.png" group-title="BRITISH SPORTS",BT Sport 1
-http://server.sibfungold.info:8080/gaicu84/iVMgaicu84DNfwV/3600
+http://stariptv.org:8080/hakim2021/123456/9342
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sIIFREX.png" group-title="BRITISH SPORTS",BT Sport 2
-http://server.sibfungold.info:8080/gaicu84/iVMgaicu84DNfwV/3601
+http://stariptv.org:8080/hakim2021/123456/9341
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8IzsrMb.png" group-title="BRITISH SPORTS",BT Sport 3
-http://server.sibfungold.info:8080/gaicu84/iVMgaicu84DNfwV/3602
+http://stariptv.org:8080/hakim2021/123456/9272
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YcrrywD.png" group-title="BRITISH SPORTS",BT Sport / ESPN
-http://server.sibfungold.info:8080/gaicu84/iVMgaicu84DNfwV/255
+http://stariptv.org:8080/hakim2021/123456/9258
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gwV31E0.png" group-title="BRITISH SPORTS",Eurosport 1 UK
-http://server.sibfungold.info:8080/gaicu84/iVMgaicu84DNfwV/2056
+http://stariptv.org:8080/hakim2021/123456/16127
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lTnKDju.png" group-title="BRITISH SPORTS",Eurosport 2 UK
-http://server.sibfungold.info:8080/gaicu84/iVMgaicu84DNfwV/2057
+http://stariptv.org:8080/hakim2021/123456/16126
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LwYHFLx.png" group-title="BRITISH SPORTS",Free Sports
 http://server.sibfungold.info:8080/gaicu84/iVMgaicu84DNfwV/52843
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qbjcgcS.png" group-title="BRITISH SPORTS",La Liga TV
 http://server.sibfungold.info:8080/gaicu84/iVMgaicu84DNfwV/52816
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tPxIkmd.png" group-title="BRITISH SPORTS",Premier Sports 1
-http://server.sibfungold.info:8080/gaicu84/iVMgaicu84DNfwV/793
+http://stariptv.org:8080/hakim2021/123456/16098
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PhUx6yK.png" group-title="BRITISH SPORTS",Premier Sports 2
-http://server.sibfungold.info:8080/gaicu84/iVMgaicu84DNfwV/52815
+http://stariptv.org:8080/hakim2021/123456/9320
 #EXTINF:-1 tvg-logo="https://i.imgur.com/d81P4qV.jpg" group-title="BRITISH SPORTS",Racing TV
-http://server.sibfungold.info:8080/gaicu84/iVMgaicu84DNfwV/2055
+http://stariptv.org:8080/hakim2021/123456/9385
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jM1FeOX.png" group-title="BRITISH SPORTS",Sky Sports Action
-http://server.sibfungold.info:8080/gaicu84/iVMgaicu84DNfwV/48933
+http://stariptv.org:8080/hakim2021/123456/55389
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eZwExGu.png" group-title="BRITISH SPORTS",Sky Sports Arena
-http://server.sibfungold.info:8080/gaicu84/iVMgaicu84DNfwV/4558
+http://stariptv.org:8080/hakim2021/123456/55388
 #EXTINF:-1 tvg-logo="https://i.imgur.com/J8zzS2v.png" group-title="BRITISH SPORTS",Sky Sports Cricket
-http://server.sibfungold.info:8080/gaicu84/iVMgaicu84DNfwV/4697
+http://stariptv.org:8080/hakim2021/123456/55387
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2kPW5qw.png" group-title="BRITISH SPORTS",Sky Sports F1
-http://server.sibfungold.info:8080/gaicu84/iVMgaicu84DNfwV/52055
+http://stariptv.org:8080/hakim2021/123456/55383
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EcFwNdj.png" group-title="BRITISH SPORTS",Sky Sports Football
-http://server.sibfungold.info:8080/gaicu84/iVMgaicu84DNfwV/50826
+http://stariptv.org:8080/hakim2021/123456/55390
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Q2ztKWZ.png" group-title="BRITISH SPORTS",Sky Sports Golf
-http://server.sibfungold.info:8080/gaicu84/iVMgaicu84DNfwV/48925
+http://stariptv.org:8080/hakim2021/123456/55386
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KHiae2e.png" group-title="BRITISH SPORTS",Sky Sports Main Event
-http://server.sibfungold.info:8080/gaicu84/iVMgaicu84DNfwV/4699
+http://stariptv.org:8080/hakim2021/123456/55382
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PRF0DsV.png" group-title="BRITISH SPORTS",Sky Sports Mix
-http://server.sibfungold.info:8080/gaicu84/iVMgaicu84DNfwV/48932
+http://stariptv.org:8080/hakim2021/123456/55385
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jcFnVbi.png" group-title="BRITISH SPORTS",Sky Sports News
-http://server.sibfungold.info:8080/gaicu84/iVMgaicu84DNfwV/791
+http://stariptv.org:8080/hakim2021/123456/11667
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wA3DieO.png" group-title="BRITISH SPORTS",Sky Sports Premier League
-http://server.sibfungold.info:8080/gaicu84/iVMgaicu84DNfwV/4701
+http://stariptv.org:8080/hakim2021/123456/55384
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vhYstlz.png" group-title="BRITISH SPORTS",Sky Sports Racing
 https://16live00.akamaized.net/SKYSPORTSRACES/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gwV31E0.png" group-title="DANISH SPORTS",Eurosport 1 Norge
@@ -2656,25 +2656,25 @@ http://server.sibfungold.info:8080/gaicu84/iVMgaicu84DNfwV/47424
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Logo_TVP_Sport.jpg" group-title="POLISH SPORTS",TVP Sport
 http://server.sibfungold.info:8080/gaicu84/iVMgaicu84DNfwV/1727
 #EXTINF:-1 tvg-logo="https://i.imgur.com/p0k54D9.png" group-title="FRENCH SPORTS",Canal + Sport France
-http://server.sibfungold.info:8080/gaicu84/iVMgaicu84DNfwV/50145
+http://stariptv.org:8080/hakim2021/123456/56238
 #EXTINF:-1 tvg-logo="https://i.imgur.com/D1nuT7j.png" group-title="FRENCH SPORTS",Infosport+
-http://server.sibfungold.info:8080/gaicu84/iVMgaicu84DNfwV/91
+http://stariptv.org:8080/hakim2021/123456/56278
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hyjk6Wx.png" group-title="FRENCH SPORTS",Foot+ 24/24
-http://server.sibfungold.info:8080/gaicu84/iVMgaicu84DNfwV/51646
+http://stariptv.org:8080/hakim2021/123456/56265
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0FJ92Bp.png" group-title="FRENCH SPORTS",Golf Channel France
-http://server.sibfungold.info:8080/gaicu84/iVMgaicu84DNfwV/49862
+http://stariptv.org:8080/hakim2021/123456/56275
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vU6Y5Of.png" group-title="FRENCH SPORTS",Golf+
-http://server.sibfungold.info:8080/gaicu84/iVMgaicu84DNfwV/2452
+http://stariptv.org:8080/hakim2021/123456/56274
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/L%27%C3%89quipe_wordmark.svg/1920px-L%27%C3%89quipe_wordmark.svg.png" group-title="FRENCH SPORTS",L'Equipe
 http://callofliberty.fr/stream/LEQUIPE/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gwV31E0.png" group-title="FRENCH SPORTS",Eurosport 1 France
-http://server.sibfungold.info:8080/gaicu84/iVMgaicu84DNfwV/51512
+http://stariptv.org:8080/hakim2021/123456/56261
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lTnKDju.png" group-title="FRENCH SPORTS",Eurosport 2 France
-http://server.sibfungold.info:8080/gaicu84/iVMgaicu84DNfwV/51513
+http://stariptv.org:8080/hakim2021/123456/56262
 #EXTINF:-1 tvg-logo="https://i.imgur.com/30785UJ.png" group-title="FRENCH SPORTS",RMC Sport 1
-http://server.sibfungold.info:8080/gaicu84/iVMgaicu84DNfwV/2252
+http://stariptv.org:8080/hakim2021/123456/56311
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5Rh2s8k.png" group-title="FRENCH SPORTS",RMC Sport 2
-http://server.sibfungold.info:8080/gaicu84/iVMgaicu84DNfwV/2103
+http://stariptv.org:8080/hakim2021/123456/56312
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kaUN9Uw.png" group-title="ROMANIAN SPORTS",Digi Sport 1 Romania
 http://server.sibfungold.info:8080/gaicu84/iVMgaicu84DNfwV/46984
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xxLvKJD.png" group-title="ROMANIAN SPORTS",Digi Sport 2 Romania
@@ -2780,37 +2780,37 @@ http://live.oldtvline.com:23000/mafrale3-150317/FiiH8aP54u/35278
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GhwEqNU.png" group-title="AUSTRIAN SPORTS",ORF Sport+
 http://live.oldtvline.com:23000/mafrale3-150317/FiiH8aP54u/35284
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fubqEnF.png" group-title="SPANISH SPORTS",#Vamos
-http://server.sibfungold.info:8080/gaicu84/iVMgaicu84DNfwV/53662
+http://stariptv.org:8080/hakim2021/123456/55971
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gTjSyWH.png" group-title="SPANISH SPORTS",Caza y Pesca
 http://red.ipfox.org:8080/1234/12345678/2566
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CSBS4Ff.png" group-title="SPANISH SPORTS",DAZN 1
-http://server.sibfungold.info:8080/gaicu84/iVMgaicu84DNfwV/53387
+http://stariptv.org:8080/hakim2021/123456/45212
 #EXTINF:-1 tvg-logo="https://i.imgur.com/m5c18XU.png" group-title="SPANISH SPORTS",DAZN 2
-http://server.sibfungold.info:8080/gaicu84/iVMgaicu84DNfwV/53388
+http://stariptv.org:8080/hakim2021/123456/84599
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YiFmUxC.png" group-title="SPANISH SPORTS",DAZN 3
-http://server.sibfungold.info:8080/gaicu84/iVMgaicu84DNfwV/53389
+http://stariptv.org:8080/hakim2021/123456/163630
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aiZCV4i.png" group-title="SPANISH SPORTS",DAZN 4
-http://red.ipfox.org:8080/1234/12345678/36210
+http://stariptv.org:8080/hakim2021/123456/163631
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rqSPxoU.png" group-title="SPANISH SPORTS",DAZN F1
 http://66.70.176.103:8081/SPAIN%7CMOVISTARF1/SPAIN%7CMOVISTARF1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gwV31E0.png" group-title="SPANISH SPORTS",Eurosport 1
-http://server.sibfungold.info:8080/gaicu84/iVMgaicu84DNfwV/53661
+http://stariptv.org:8080/hakim2021/123456/34053
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lTnKDju.png" group-title="SPANISH SPORTS",Eurosport 2
-http://server.sibfungold.info:8080/gaicu84/iVMgaicu84DNfwV/53660
+http://stariptv.org:8080/hakim2021/123456/34052
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Gol.svg/1920px-Gol.svg.png" group-title="SPANISH SPORTS",Gol
 http://91.126.138.141:1935/live/gol/chunklist_w2146311915.m3u8?mvk
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xsYGFyy.png" group-title="SPANISH SPORTS",Deportes por Movistar+
-http://server.sibfungold.info:8080/gaicu84/iVMgaicu84DNfwV/351
+http://stariptv.org:8080/hakim2021/123456/12073
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WYIpWC0.png" group-title="SPANISH SPORTS",Golf por Movistar+
-http://server.sibfungold.info:8080/gaicu84/iVMgaicu84DNfwV/350
+http://stariptv.org:8080/hakim2021/123456/12072
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QlDOQ7i.png" group-title="SPANISH SPORTS",La Liga por Movistar+
-http://server.sibfungold.info:8080/gaicu84/iVMgaicu84DNfwV/1210
+http://stariptv.org:8080/hakim2021/123456/12077
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vnKI1Oo.png" group-title="SPANISH SPORTS",Liga de Campeones por Movistar+
-http://server.sibfungold.info:8080/gaicu84/iVMgaicu84DNfwV/50955
+http://stariptv.org:8080/hakim2021/123456/30029
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Teledeporte.svg/1280px-Teledeporte.svg.png" group-title="SPANISH SPORTS",Teledeporte
 http://91.126.141.13:1935/live/91/1800-def.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2cDxHdn.png" group-title="SPANISH SPORTS",Toros
-http://red.ipfox.org:8080/1234/12345678/2508
+http://stariptv.org:8080/hakim2021/123456/57427
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qfVunzp.png" group-title="PORTUGUESE SPORTS",Canal 11
 https://d2ve4fchffi4n1.cloudfront.net/out/v1/df356edd16f3434ab417f2c48cb1d516/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gwV31E0.png" group-title="PORTUGUESE SPORTS",Eurosport 1
@@ -2832,19 +2832,19 @@ http://62.28.71.186:45678/http/192.168.150.137:7137/eleven6
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/800px-NBA_TV.svg.png" group-title="PORTUGUESE SPORTS",NBA TV
 http://server.sibfungold.info:8080/gaicu84/iVMgaicu84DNfwV/49979
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pcAhRs8.png" group-title="PORTUGUESE SPORTS",Sport TV 1
-http://server.sibfungold.info:8080/gaicu84/iVMgaicu84DNfwV/280
+http://stariptv.org:8080/hakim2021/123456/4119
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CPt6Fsg.png" group-title="PORTUGUESE SPORTS",Sport TV 2
-http://server.sibfungold.info:8080/gaicu84/iVMgaicu84DNfwV/281
+http://stariptv.org:8080/hakim2021/123456/4120
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wbhOsK2.png" group-title="PORTUGUESE SPORTS",Sport TV 3
-http://server.sibfungold.info:8080/gaicu84/iVMgaicu84DNfwV/282
+http://stariptv.org:8080/hakim2021/123456/4121
 #EXTINF:-1 tvg-logo="https://i.imgur.com/itYiAnd.png" group-title="PORTUGUESE SPORTS",Sport TV 4
-http://server.sibfungold.info:8080/gaicu84/iVMgaicu84DNfwV/283
+http://stariptv.org:8080/hakim2021/123456/4122
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LblSggR.png" group-title="PORTUGUESE SPORTS",Sport TV 5
-http://server.sibfungold.info:8080/gaicu84/iVMgaicu84DNfwV/284
+http://stariptv.org:8080/hakim2021/123456/4185
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RbFoVdH.png" group-title="PORTUGUESE SPORTS",Sport TV 6
 http://149.62.183.203:8000/play/a05e/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Km9HrEA.png" group-title="PORTUGUESE SPORTS",Sport TV +
-http://1tv1.net:8080/hakim2021/123456/4186
+http://stariptv.org:8080/hakim2021/123456/4186
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4fCvNHl.png" group-title="BELGIAN SPORTS",Eleven Pro League 1
 http://crystalott.org:80/CKVRKUO4L3/IRTRILUKU7/28130
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kTXQVRD.png" group-title="BELGIAN SPORTS",Eleven Sports 1
@@ -2952,27 +2952,27 @@ http://fortv.cc:8080/Rob/Rob2021/122345
 #EXTINF:-1 tvg-logo="https://i.imgur.com/O9XcGr8.png" group-title="HK SPORTS",Now Sports Premier League 6
 http://fortv.cc:8080/Rob/Rob2021/122346
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7bPCw4Q.png" group-title="MALAY SPORTS",Astro Arena
-https://nonton.site:8443/Thopani/Haidir/37422
+http://king-tv.net:8080/zakiabdulal/2vDMiza9XO/240967.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/meHW06l.png" group-title="MALAY SPORTS",Astro Arena 2
-http://iptv.tvmalaysia.cc:80/114048/114048/9028
+http://king-tv.net:8080/zakiabdulal/2vDMiza9XO/240995.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DhbmBsD.png" group-title="MALAY SPORTS",Astro Cricket
 https://voxlive.jokertvapp.club/staklive.m3u8?id=18458
 #EXTINF:-1 tvg-logo="https://i.imgur.com/X2WVnWr.png" group-title="MALAY SPORTS",Astro Supersport
-https://m3u-editor.com/serve/75835610-a7ed-11ec-86dd-4356fc7056f7/528015734
+http://king-tv.net:8080/zakiabdulal/2vDMiza9XO/240968.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AZQ0xgp.png" group-title="MALAY SPORTS",Astro Supersport 2
-https://m3u-editor.com/serve/75835610-a7ed-11ec-86dd-4356fc7056f7/528015736
+http://king-tv.net:8080/zakiabdulal/2vDMiza9XO/240969.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cMYSM6e.png" group-title="MALAY SPORTS",Astro Supersport 3
-https://m3u-editor.com/serve/75835610-a7ed-11ec-86dd-4356fc7056f7/528015739
+http://king-tv.net:8080/zakiabdulal/2vDMiza9XO/240970.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PlwrDwx.png" group-title="MALAY SPORTS",Astro Supersport 4
-https://m3u-editor.com/serve/75835610-a7ed-11ec-86dd-4356fc7056f7/528015742
+http://king-tv.net:8080/zakiabdulal/2vDMiza9XO/240971.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FieopQP.png" group-title="MALAY SPORTS",Astro Supersport 5
-http://iptv.tvmalaysia.cc:80/114048/114048/9029
+http://king-tv.net:8080/zakiabdulal/2vDMiza9XO/241138.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ycxjpTX.png" group-title="MALAY SPORTS",Eurosport Asia
-https://m3u-editor.com/serve/11hkjpa3t5/508568958
+http://king-tv.net:8080/zakiabdulal/2vDMiza9XO/240977.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kfPsml5.png" group-title="MALAY SPORTS",Premier Sports Asia
-https://m3u-editor.com/serve/11hkjpa3t5/508568951
+http://king-tv.net:8080/zakiabdulal/2vDMiza9XO/240980.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Bj0MyZQ.png" group-title="MALAY SPORTS",SPOTV
-http://iptv.tvmalaysia.cc:80/114048/114048/9033
+http://king-tv.net:8080/zakiabdulal/2vDMiza9XO/240994.ts
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8NC0zoQ.png" tvg-url="https://raw.githubusercontent.com/samleong123/rtm-live/main/rtmklik.xml" group-title="MALAY SPORTS",TV Sukan
 https://rtmlive06tv.secureswiftcontent.com/rtmchannel/06-manifest.mpd
@@ -3480,31 +3480,31 @@ http://45.91.134.57:25461/sweet/7749/64
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/800px-NBA_TV.svg.png" group-title="THAI SPORTS",NBA TV
 http://45.91.134.57:25461/sweet/7749/11111
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Bj0MyZQ.png" group-title="THAI SPORTS",SPOTV
-http://45.91.134.57:25461/sweet/7749/11135
+http://king-tv.net:8080/zakiabdulal/2vDMiza9XO/204651.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WbPfNOb.png" group-title="THAI SPORTS",SPOTV 2
-http://45.91.134.57:25461/sweet/7749/58
+http://king-tv.net:8080/zakiabdulal/2vDMiza9XO/204652.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lop2PUy.png" group-title="THAI SPORTS",True Sports 1
-http://45.91.134.57:25461/sweet/7749/35
+http://king-tv.net:8080/zakiabdulal/2vDMiza9XO/204641.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/p6H4JPp.png" group-title="THAI SPORTS",True Sports 2
-http://45.91.134.57:25461/sweet/7749/36
+http://king-tv.net:8080/zakiabdulal/2vDMiza9XO/204642.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/760fLOg.png" group-title="THAI SPORTS",True Sports 3
-http://45.91.134.57:25461/sweet/7749/37
+http://king-tv.net:8080/zakiabdulal/2vDMiza9XO/204643.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6MUEjll.png" group-title="THAI SPORTS",True Sports 4
-http://45.91.134.57:25461/sweet/7749/5028
+http://king-tv.net:8080/zakiabdulal/2vDMiza9XO/204644.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Wi8PvKB.png" group-title="THAI SPORTS",True Sports 5
-http://45.91.134.57:25461/sweet/7749/38
+http://king-tv.net:8080/zakiabdulal/2vDMiza9XO/204648.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6SfqnBv.png" group-title="THAI SPORTS",True Sports 7
-http://45.91.134.57:25461/sweet/7749/39
+http://king-tv.net:8080/zakiabdulal/2vDMiza9XO/204650.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9FJknMK.png" group-title="THAI SPORTS",True Premier Football 1
-http://45.91.134.57:25461/sweet/7749/17806
+http://king-tv.net:8080/zakiabdulal/2vDMiza9XO/204637.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yS94g00.png" group-title="THAI SPORTS",True Premier Football 2
-http://45.91.134.57:25461/sweet/7749/27
+http://king-tv.net:8080/zakiabdulal/2vDMiza9XO/204638.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xBmmgXe.png" group-title="THAI SPORTS",True Premier Football 3
-http://45.91.134.57:25461/sweet/7749/30
+http://king-tv.net:8080/zakiabdulal/2vDMiza9XO/204634.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HOfAIeF.png" group-title="THAI SPORTS",True Premier Football 4
-http://45.91.134.57:25461/sweet/7749/33
+http://king-tv.net:8080/zakiabdulal/2vDMiza9XO/204635.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IAvYAOR.png" group-title="THAI SPORTS",True Premier Football 5
-http://45.91.134.57:25461/sweet/7749/34
+http://king-tv.net:8080/zakiabdulal/2vDMiza9XO/204636.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yDxztEe.png" group-title="THAI SPORTS",True Tennis
 http://45.91.134.57:25461/sweet/7749/276
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -4012,21 +4012,21 @@ http://ky-iptv.com:80/nicholas/123456789/181689.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/Teleamazonas_Logo.png" group-title="ECUADOR",Teleamazonas
 http://ky-iptv.com:80/nicholas/123456789/181691.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8a/M6_6ter_2012.png" group-title="FRANCE",6ter
-http://ky-iptv.com:80/nicholas/123456789/182257.ts
+http://stariptv.org:8080/hakim2021/123456/56216
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/47/C8_logo.jpg" group-title="FRANCE",C8
 http://callofliberty.fr/stream/C8/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Canal%2B.svg/1920px-Canal%2B.svg.png" group-title="FRANCE",Canal + France
-http://server.sibfungold.info:8080/gaicu84/iVMgaicu84DNfwV/3326
+http://stariptv.org:8080/hakim2021/123456/56236
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/CStar_vector.svg/1920px-CStar_vector.svg.png" group-title="FRANCE",C Star
 http://callofliberty.fr/stream/CSTAR/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nU3uBzG.png" group-title="FRANCE",France 2
-http://server.sibfungold.info:8080/gaicu84/iVMgaicu84DNfwV/3217
+http://stariptv.org:8080/hakim2021/123456/56268
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MDwoxj5.png" group-title="FRANCE",France 3
-http://server.sibfungold.info:8080/gaicu84/iVMgaicu84DNfwV/2500
+http://stariptv.org:8080/hakim2021/123456/56269
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5TrhpoO.png" group-title="FRANCE",France 4
-http://server.sibfungold.info:8080/gaicu84/iVMgaicu84DNfwV/3218
+http://stariptv.org:8080/hakim2021/123456/56270
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RIZfLwR.png" group-title="FRANCE",France 5
-http://server.sibfungold.info:8080/gaicu84/iVMgaicu84DNfwV/4005
+http://stariptv.org:8080/hakim2021/123456/56271
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/4/43/18._Gulli.png/1024px-18._Gulli.png" group-title="FRANCE",Gulli
@@ -4034,18 +4034,18 @@ https://origin-live-6play.video.bedrock.tech/6play/short/clr/gulli/hdeindex.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/M6_logo_2020.svg/1024px-M6_logo_2020.svg.png" group-title="FRANCE",M6
 https://shls-m6-france-prod-dub.shahid.net/out/v1/c8a9f6e000cd4ebaa4d2fc7d18c15988/index_1.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/50/NRJ12_logo.png" group-title="FRANCE",NRJ 12
-http://server.sibfungold.info:8080/gaicu84/iVMgaicu84DNfwV/1456
+http://stariptv.org:8080/hakim2021/123456/56295
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d1/Paris_Premi%C3%A8re_2011.svg/1920px-Paris_Premi%C3%A8re_2011.svg.png" group-title="FRANCE",Paris Première
-http://ky-iptv.com:80/nicholas/123456789/182455.ts
+http://stariptv.org:8080/hakim2021/123456/56304
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dc/TF1_logo_2013.png" group-title="FRANCE",TF 1
-http://server.sibfungold.info:8080/gaicu84/iVMgaicu84DNfwV/3316
+http://stariptv.org:8080/hakim2021/123456/56327
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TFX_logo.svg/1920px-TFX_logo.svg.png" group-title="FRANCE",TFX
 #EXTVLCOPT:network-caching=1000
-http://server.sibfungold.info:8080/gaicu84/iVMgaicu84DNfwV/376
+http://stariptv.org:8080/hakim2021/123456/56330
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/54/TMC_logo.svg/1920px-TMC_logo.svg.png" group-title="FRANCE",TMC
 http://stream.suboroiptv.tv/TMC/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a7/W9_logo_2018.png" group-title="FRANCE",W9
-http://ky-iptv.com:80/nicholas/123456789/182305.ts
+http://stariptv.org:8080/hakim2021/123456/598
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ujQVb6l.png" group-title="GERMANY",Das Erste
