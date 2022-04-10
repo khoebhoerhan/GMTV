@@ -2279,26 +2279,20 @@ http://luxtv.one:8080/kadiri/123456/23455
 http://luxtv.one:8080/kadiri/123456/23456
 #EXTINF:-1 tvg-logo="https://i.imgur.com/srteRe1.png" group-title="ARABIC SPORTS",beIN Sports French 3
 http://luxtv.one:8080/kadiri/123456/23457
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CwlNjXQ.png" group-title="ARABIC SPORTS",beIN Sports Premium 1
-https://www.mireasa-live.com/cdn/premium98/chunks.m3u8|user-agent=Android ExoPlayer/2.17.0
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+http://luxtv.one:8080/kadiri/123456/1024
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ns7isEP.png" group-title="ARABIC SPORTS",beIN Sports Premium 2
-https://www.mireasa-live.com/cdn/premium99/chunks.m3u8|user-agent=Android ExoPlayer/2.17.0
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+http://luxtv.one:8080/kadiri/123456/1023
 #EXTINF:-1 tvg-logo="https://i.imgur.com/T7UlxCI.png" group-title="ARABIC SPORTS",beIN Sports Premium 3
-https://www.mireasa-live.com/cdn/premium100/chunks.m3u8|user-agent=Android ExoPlayer/2.17.0
+http://luxtv.one:8080/kadiri/123456/7272
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MRULdc8.png" group-title="TURKISH SPORTS",beIN Sports 1 Türkiye
-http://king-tv.net:8080/zakiabdulal/2vDMiza9XO/336209.ts
+http://luxtv.one:8080/kadiri/123456/2049
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NDp6TlM.png" group-title="TURKISH SPORTS",beIN Sports 2 Türkiye
-http://king-tv.net:8080/zakiabdulal/2vDMiza9XO/336881.ts
+http://luxtv.one:8080/kadiri/123456/2048
 #EXTINF:-1 tvg-logo="https://i.imgur.com/j8VC6nB.png" group-title="TURKISH SPORTS",beIN Sports 3 Türkiye
-http://king-tv.net:8080/zakiabdulal/2vDMiza9XO/336886.ts
+http://luxtv.one:8080/kadiri/123456/2047
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Lu26Yho.png" group-title="TURKISH SPORTS",beIN Sports 4 Türkiye
-http://king-tv.net:8080/zakiabdulal/2vDMiza9XO/336891.ts
+http://luxtv.one:8080/kadiri/123456/2046
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fBWCN2V.png" group-title="TURKISH SPORTS",beIN Sports Haber
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 https://www.yilmaztv.ru/beceroz/oz.php?channel=bein-sports-haber&stream=1&type=m3u8
@@ -2342,22 +2336,14 @@ http://stariptv.org:8080/wael2021/123456/148496
 https://nonton.site:8443/Thopani/Haidir/37435
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c8/BoxNation2014Logo.png" group-title="BRITISH SPORTS",Box Nation
 http://archive.simpletv.eu:8080/boxnation/index.m3u8
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7dg7EB7.png" group-title="BRITISH SPORTS",BT Sport 1
-https://www.mireasa-live.com/cdn/premium31/chunks.m3u8|user-agent=Android ExoPlayer/2.17.0
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+http://luxtv.one:8080/kadiri/123456/406
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sIIFREX.png" group-title="BRITISH SPORTS",BT Sport 2
-https://www.mireasa-live.com/cdn/premium32/chunks.m3u8|user-agent=Android ExoPlayer/2.17.0
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+http://luxtv.one:8080/kadiri/123456/405
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8IzsrMb.png" group-title="BRITISH SPORTS",BT Sport 3
-https://www.mireasa-live.com/cdn/premium33/chunks.m3u8|user-agent=Android ExoPlayer/2.17.0
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+http://luxtv.one:8080/kadiri/123456/404
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YcrrywD.png" group-title="BRITISH SPORTS",BT Sport / ESPN
-https://www.mireasa-live.com/cdn/premium34/chunks.m3u8|user-agent=Android ExoPlayer/2.17.0
+http://luxtv.one:8080/kadiri/123456/402
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gwV31E0.png" group-title="BRITISH SPORTS",Eurosport 1 UK
 http://stariptv.org:8080/hakim2021/123456/16127
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lTnKDju.png" group-title="BRITISH SPORTS",Eurosport 2 UK
@@ -3074,9 +3060,9 @@ http://live.flixhub.net/hls/select2.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e9/A_Spor_logosu.png" group-title="TURKISH SPORTS",A Spor
 https://trkvz-live.daioncdn.net/aspor/aspor_1080p.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gwV31E0.png" group-title="TURKISH SPORTS",Eurosport 1
-http://server.sibfungold.info:8080/gaicu84/iVMgaicu84DNfwV/48253
+http://luxtv.one:8080/kadiri/123456/2028
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lTnKDju.png" group-title="TURKISH SPORTS",Eurosport 2
-http://server.sibfungold.info:8080/gaicu84/iVMgaicu84DNfwV/48252
+http://luxtv.one:8080/kadiri/123456/2027
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/800px-NBA_TV.svg.png" group-title="TURKISH SPORTS",NBA TV
 http://ky-iptv.com:80/nicholas/123456789/221015.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/57JkDml.png" group-title="TURKISH SPORTS",S Sport
@@ -3088,16 +3074,15 @@ http://server.sibfungold.info:8080/gaicu84/iVMgaicu84DNfwV/48243
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3Y3BxxS.png" group-title="TURKISH SPORTS",Spor Smart 2
 http://server.sibfungold.info:8080/gaicu84/iVMgaicu84DNfwV/48242
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QxrbzI6.png" group-title="TURKISH SPORTS",Tivibu Spor
-https://lives2.canlitv.center/tivibus.m3u8
+http://luxtv.one:8080/kadiri/123456/4636
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QxrbzI6.png" group-title="TURKISH SPORTS",Tivibu Spor 2
-http://server.sibfungold.info:8080/gaicu84/iVMgaicu84DNfwV/48240
+http://luxtv.one:8080/kadiri/123456/4633
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QxrbzI6.png" group-title="TURKISH SPORTS",Tivibu Spor 3
-http://server.sibfungold.info:8080/gaicu84/iVMgaicu84DNfwV/48239
+http://luxtv.one:8080/kadiri/123456/4634
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QxrbzI6.png" group-title="TURKISH SPORTS",Tivibu Spor 4
-http://myhosting.one:8080/arsenal1/arsenal1/255673
+http://luxtv.one:8080/kadiri/123456/4635
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0Nu5hMy.png" group-title="TURKISH SPORTS",TRT Spor
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-https://www.yilmaztv.ru/beceroz/oz.php?channel=trt-spor&stream=1&type=m3u8
+http://luxtv.one:8080/kadiri/123456/2026
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Sfu3Y7S.png" group-title="TURKISH SPORTS",TRT Spor Yıldız
 http://myhosting.one:8080/arsenal1/arsenal1/255684
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8A0aYWf.png" group-title="SERBIAN SPORTS",Arena 1 Premium
