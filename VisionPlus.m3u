@@ -2951,22 +2951,36 @@ http://fortv.cc:8080/Rob/Rob2021/122344
 http://fortv.cc:8080/Rob/Rob2021/122345
 #EXTINF:-1 tvg-logo="https://i.imgur.com/O9XcGr8.png" group-title="HK SPORTS",Now Sports Premier League 6
 http://fortv.cc:8080/Rob/Rob2021/122346
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7bPCw4Q.png" group-title="MALAY SPORTS",Astro Arena
-http://king-tv.net:8080/zakiabdulal/2vDMiza9XO/240967.ts
+https://tvmalaysia.cyou/hls/arena.m3u8|user-agent=Android ExoPlayer/2.17.0
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/meHW06l.png" group-title="MALAY SPORTS",Astro Arena 2
-http://king-tv.net:8080/zakiabdulal/2vDMiza9XO/240995.ts
+https://tvmalaysia.cyou/hls/arena2.m3u8|user-agent=ExoPlayer
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DhbmBsD.png" group-title="MALAY SPORTS",Astro Cricket
 https://voxlive.jokertvapp.club/staklive.m3u8?id=18458
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/X2WVnWr.png" group-title="MALAY SPORTS",Astro Supersport
-http://king-tv.net:8080/zakiabdulal/2vDMiza9XO/240968.ts
+https://www.mireasa-live.com/cdn/premium123/chunks.m3u8|user-agent=Android ExoPlayer/2.17.0
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AZQ0xgp.png" group-title="MALAY SPORTS",Astro Supersport 2
-http://king-tv.net:8080/zakiabdulal/2vDMiza9XO/240969.ts
+https://www.mireasa-live.com/cdn/premium124/chunks.m3u8|user-agent=Android ExoPlayer/2.17.0
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cMYSM6e.png" group-title="MALAY SPORTS",Astro Supersport 3
-http://king-tv.net:8080/zakiabdulal/2vDMiza9XO/240970.ts
+https://www.mireasa-live.com/cdn/premium125/chunks.m3u8|user-agent=Android ExoPlayer/2.17.0
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PlwrDwx.png" group-title="MALAY SPORTS",Astro Supersport 4
-http://king-tv.net:8080/zakiabdulal/2vDMiza9XO/240971.ts
+https://www.mireasa-live.com/cdn/premium126/chunks.m3u8|user-agent=Android ExoPlayer/2.17.0
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FieopQP.png" group-title="MALAY SPORTS",Astro Supersport 5
-http://king-tv.net:8080/zakiabdulal/2vDMiza9XO/241138.ts
+https://lengo-sentir.xyz/Live/Sports/Assp5.m3u8|user-agent=ExoPlayer
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ycxjpTX.png" group-title="MALAY SPORTS",Eurosport Asia
 http://king-tv.net:8080/zakiabdulal/2vDMiza9XO/240977.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kfPsml5.png" group-title="MALAY SPORTS",Premier Sports Asia
