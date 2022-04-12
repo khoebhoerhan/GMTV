@@ -1553,7 +1553,7 @@ https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_2_19
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/CNN_Philippines_Logo.svg/800px-CNN_Philippines_Logo.svg.png" group-title="PINOY NEWS",CNN Philippines
 https://streaming.cnnphilippines.com/live/myStream/chunklist_w1199238897.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hi0D9Ut.png" group-title="TURKISH NEWS",CNN Türk
-http://new-pro.tv:8080/Fernando/123321/13141
+https://live.duhnet.tv/S2/HLS_LIVE/cnnturknp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Jai0CTx.png" group-title="LATINO NEWS",CNN Chile
 http://45.236.175.117:9600/play/a01x
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jCXODcU.png" group-title="SPANISH NEWS",CNN en Español
@@ -1851,7 +1851,7 @@ https://rtvelivestreamv3.akamaized.net/24h/24h_main_720.m3u8
 https://turkmedya-live.ercdn.net/tv24/tv24_720p.m3u8
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 #EXTINF:-1 tvg-logo="https://i.imgur.com/k7oie6a.png" group-title="TURKISH NEWS",A Haber
-http://new-pro.tv:8080/Fernando/123321/2167
+http://mfe.cliptv.az/dash/A_Haber_HD.ism/playlist.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/20kWdRa.png" group-title="TURKISH NEWS",Haber Global
 https://tv.ensonhaber.com/tv/tr/haberglobal/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/k7qxZSp.png" group-title="TURKISH NEWS",Habertürk
@@ -4581,11 +4581,11 @@ https://trkvz-live.daioncdn.net/atv/atv_1080p.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dl5oTth.png" group-title="TURKEY",beIN IZ
 http://smartestv.vip:2095/ABHVYOP/2387998104/33473
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nPTmcny.png" group-title="TURKEY",Fox Türkiye
-http://93.157.62.180/FoxTurk/index.m3u8
+http://luxtv.one:8080/kadiri/123456/2032
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6OYvfnf.png" group-title="TURKEY",Kanal 7
 https://live.kanal7.com/live/kanal7LiveDesktop/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0c8iZq8.png" group-title="TURKEY",Kanal D
-http://new-pro.tv:8080/Fernando/123321/293444
+https://live.duhnet.tv/S2/HLS_LIVE/kanaldnp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3SQqZXU.png" group-title="TURKEY",Show Max
 http://iptvmasterlink.dyndns.org:8080/ShowMax/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4b/Show_TV.svg/800px-Show_TV.svg.png" group-title="TURKEY",Show TV
@@ -4599,7 +4599,7 @@ http://167.114.115.233:8080/trt2fhd/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6t0F8zO.jpg" group-title="TURKEY",TV 4
 https://turkmedya-live.ercdn.net/tv4/tv4_720p.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/35/Tv8_new_logo.png" group-title="TURKEY",TV 8
-http://new-pro.tv:8080/Fernando/123321/293448
+http://mfe.cliptv.az/dash/TV_8_HD.ism/playlist.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nhl0SnT.png" group-title="TURKEY",TV 8.5
 http://new-pro.tv:8080/Fernando/123321/2181
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3gFFRS2.png" group-title="UKRAINE",1+1
