@@ -1950,13 +1950,13 @@ https://streaming-live.rtp.pt/livetvhlsDVR/rtpnHDdvr.smil/playlist.m3u8|user-age
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pdWajHP.png" group-title="THAI NEWS",News1
 http://news1.live14.com/stream/news1_hi.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Nationtv.png" group-title="THAI NEWS",Nation TV
-http://freelive2.inwstream.com:1935/freelive-edge/nation/playlist.m3u8
+http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/22/22.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sqcfD3Q.jpg" group-title="THAI NEWS",TNN 16
-http://freelive2.inwstream.com:1935/freelive-edge/tnn24/playlist.m3u8
+http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/16/16.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RQTi6Nm.jpg" group-title="THAI NEWS",Top News
 https://live.topnews.co.th/hls/topnews.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KIK1p0o.png" group-title="THAI NEWS",TPTV
-https://freelive.inwstream.com:1936/freelive-edge/tptv/chunks.m3u8
+http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/10/10.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9odNJCy.png" group-title="PINOY NEWS",ANC
 http://ky-iptv.com:80/Bobby12345/Bobby12345/1806749.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HnS25Hi.png" group-title="PINOY NEWS",DZRH TV
@@ -3480,6 +3480,8 @@ https://smart-tv.livedoomovies.com:4431/02_nbahd_720p/chunklist.m3u8|Referer=htt
 https://smart-tv.livedoomovies.com:4431/02_foxsport_720p/chunklist.m3u8|Referer=https://www.movie87hd.com/?r=ajax
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WbPfNOb.png" group-title="THAI SPORTS",SPOTV 2
 https://smart-tv.livedoomovies.com:4431/02_FoxSport3_TH_720p/chunklist.m3u8|Referer=https://www.movie87hd.com/?r=ajax
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dfcJkab.png" group-title="THAI SPORTS",T Sports
+http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/7/7.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lop2PUy.png" group-title="THAI SPORTS",True Sports 1
 https://smart-tv.livedoomovies.com:4431/02_2sporthd1_720p/chunklist.m3u8|Referer=https://www.movie87hd.com/?r=ajax
 #EXTINF:-1 tvg-logo="https://i.imgur.com/p6H4JPp.png" group-title="THAI SPORTS",True Sports 2
@@ -4545,13 +4547,13 @@ http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/33/33.mpd
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c6/Logo_tv5.png" group-title="THAILAND",Thai TV 5 HD1
 https://tc-live1.sanook.com/live/22302_ch5.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Ch_8_2016.svg/1200px-Ch_8_2016.svg.png" group-title="THAILAND",Channel 8
-https://freelive2.inwstream.com:1936/freelive-edge/ch8/chunks.m3u8
+http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/27/27.mpd
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a9/GMM_25_Logo.png" group-title="THAILAND",GMM 25
 http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/25/25.mpd
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Jkn18.png/1200px-Jkn18.png" group-title="THAILAND",JKN 18
-https://5f27aa1f6ef91.streamlock.net/jkncnbc/myStream/playlist.m3u8
+http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/18/18.mpd
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Mono_29_Logo.png" group-title="THAILAND",Mono 29
-https://edge2-bkk.3bb.co.th:9443/MONO29_HLS_1080P/mono29hls_1080TH.stream/chunklist_w1021782105.m3u8
+http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/29/29.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/i52auTN.png" group-title="THAILAND",MCOT
 http://mcotdigital-pnnouc.cdn.byteark.com/mcothd1080p_edge/smil:mcothd1080p.smil/chunklist_w534518664_b3000000.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/NBT_2009.png" group-title="THAILAND",NBT 2
