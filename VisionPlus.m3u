@@ -772,7 +772,7 @@ http://221.120.204.4/SONY-MAX-LOCKLE/tracks-v1a1/mono.m3u8
 http://103.153.39.36:8000/play/a01s
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NywlkDO.png" group-title="HINDI MOVIES",Zee Cinema Asia
 http://221.120.204.4/zee-cinema-LOCKLE/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0kOCNmi.png" group-title="HINDI MOVIES",Rishtey Cineplex
+#EXTINF:-1 tvg-logo="https://i.imgur.com/edSWk3d.png" group-title="HINDI MOVIES",Colors Cineplex Superhits
 https://viacom-b.multitvsolution.com/viacomhls/rishteycineplex.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IM8X6Ui.png" group-title="HINDI MOVIES",Colors Cineplex
 http://live.flixhub.net/hls/colorscineplex.m3u8
@@ -1570,9 +1570,9 @@ http://185.204.32.4:9981/stream/channelid/107779299?ticket=5E8916A1A55BCB376BF40
 https://best-str.umn.cdn.united.cloud/stream?stream=sp1400&sp=n1info&channel=n1hrv&u=n1info&p=n1Sh4redSecre7iNf0
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WdC4rbi.png" group-title="WORLD NEWS",BBC World News Asia Pacific
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/BBC_World_News_2022_%28Boxed%29.svg/800px-BBC_World_News_2022_%28Boxed%29.svg.png" group-title="WORLD NEWS",BBC World News Asia Pacific
 https://liveanevia.mncnow.id/live/eds/BBCWorldNews/sa_dash_vmx/BBCWorldNews.mpd
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/BBC_News_2019.svg/800px-BBC_News_2019.svg.png" group-title="BRITISH NEWS",BBC News
+#EXTINF:-1 tvg-logo="https://i.imgur.com/j449MD4.png" group-title="BRITISH NEWS",BBC News
 http://prox.x86.co.uk/index.php/https://cdnuk001.broadcastcdn.net/KUK-BBCNEWSHD/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/BBC_Parliament_Logo.svg/1280px-BBC_Parliament_Logo.svg.png" group-title="BRITISH NEWS",BBC Parliament
 http://194.76.186.39:8000/play/a00y
@@ -1835,7 +1835,7 @@ https://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/master.m3u8
 http://stariptv.org:8080/hakim2021/123456/102123
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Rai_News_24_-_Logo_2013.svg/1200px-Rai_News_24_-_Logo_2013.svg.png" group-title="ITALIAN NEWS",Rai News 24
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Rai_News_24_logo_%282022%29.svg/1920px-Rai_News_24_logo_%282022%29.svg.png" group-title="ITALIAN NEWS",Rai News 24
 https://streamcdnb1-8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/rainews1/hls/rainews_1200/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/1/1a/Mediaset_TGCom24.png/1200px-Mediaset_TGCom24.png" group-title="ITALIAN NEWS",Mediaset TGCom24
 http://103.194.169.171:8282/IT_TGCOM24/mono.m3u8?token=93a611c10082e5eec57f8bec55d8dc4c
@@ -1913,7 +1913,7 @@ http://pubads.g.doubleclick.net/ssai/event/XZLLJIhJRNqz33DGp6NdkA/master.m3u8
 http://live-edge01.telecentro.net.ar/live/smil:c26.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/49pK1bB.png" group-title="LATINO NEWS",Información Periodística
 https://d1nmqgphjn0y4.cloudfront.net/live/ip/live.isml/live-audio_1=128000-video=4499968.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PgHGG5b.png" group-title="LATINO NEWS",Foro TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CxJN3qj.png" group-title="LATINO NEWS",Foro
 https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index_6.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QGnD2tq.png" group-title="LATINO NEWS",Milenio TV
 https://v-sd.mybtv.net/event/521/1920x1080.m3u8?start_time=2021-05-16&end_time=2023-05-17&uid=33630
@@ -2695,16 +2695,14 @@ https://stream1.1616.ro:1945/looksport2/livestream/playlist.m3u8?wowzatokenhash=
 https://stream1.1616.ro:1945/looksport3/livestream/playlist.m3u8?wowzatokenhash=NqSD4qaHc94SbTW05NBB-lXC78ZiAOIbnbUBOHj1DAM=
 #EXTINF:-1 tvg-logo="https://i.imgur.com/H9m776N.png" group-title="ROMANIAN SPORTS",LookSport +
 https://stream1.1616.ro:1945/lookplus/livestream/playlist.m3u8?wowzatokenhash=NqSD4qaHc94SbTW05NBB-lXC78ZiAOIbnbUBOHj1DAM=
-#EXTINF:-1 tvg-logo="https://i.imgur.com/AlQ4dnX.png" group-title="ROMANIAN SPORTS",Telekom Sport 1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4mc9xs0.png" group-title="ROMANIAN SPORTS",Orange Sport 1
 http://server.sibfungold.info:8080/gaicu84/iVMgaicu84DNfwV/52351
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Sinj4NO.png" group-title="ROMANIAN SPORTS",Telekom Sport 2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2DY6BwT.png" group-title="ROMANIAN SPORTS",Orange Sport 2
 http://server.sibfungold.info:8080/gaicu84/iVMgaicu84DNfwV/52352
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XiYQDPl.png" group-title="ROMANIAN SPORTS",Telekom Sport 3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gSQTD0Q.png" group-title="ROMANIAN SPORTS",Orange Sport 3
 http://server.sibfungold.info:8080/gaicu84/iVMgaicu84DNfwV/52353
-#EXTINF:-1 tvg-logo="https://i.imgur.com/UEPQ1Wo.png" group-title="ROMANIAN SPORTS",Telekom Sport 4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/M6o25QC.png" group-title="ROMANIAN SPORTS",Orange Sport 4
 http://server.sibfungold.info:8080/gaicu84/iVMgaicu84DNfwV/52354
-#EXTINF:-1 tvg-logo="https://i.imgur.com/H21i9Pb.png" group-title="ROMANIAN SPORTS",Telekom Sport 5
-http://crystalott.org:80/CKVRKUO4L3/IRTRILUKU7/9938
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Mzh8IIq.png" group-title="SWITZERLAND SPORTS",Blue Sport 1
 http://live.oldtvline.com:23000/mafrale3-150317/FiiH8aP54u/35478
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JfUrAfj.png" group-title="SWITZERLAND SPORTS",Blue Sport 2
