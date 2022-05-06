@@ -502,9 +502,13 @@ http://5gfksa.ltd:2052/334455/554433/84283
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/E%21_Logo_2012.svg/320px-E%21_Logo_2012.svg.png" group-title="BRASILIAN ENTERTAINMENT",E! Brasil
 http://5gfksa.ltd:2052/334455/554433/84368
 #EXTINF:-1 tvg-logo="https://i.imgur.com/71d2wEk.png" group-title="BRASILIAN ENTERTAINMENT",Paramount Network Brasil
-http://5gfksa.ltd:2052/334455/554433/84276
+http://200.24.92.20:4000/play/a045
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/1920px-SpaceLogo.svg.png" group-title="BRASILIAN ENTERTAINMENT",Space Brasil
 http://170.82.200.38:8080/space/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wzmQrcy.png" group-title="BRASILIAN ENTERTAINMENT",Star Channel Brasil
+http://187.85.237.3:8220/ipvt_002
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5Llmjym.png" group-title="BRASILIAN ENTERTAINMENT",Star Life Brasil
+http://200.4.96.59:8002/play/ufgd/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/umJbqNY.png" group-title="BRASILIAN ENTERTAINMENT",TNT Brasil
 http://170.82.200.38:8080/tnt/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Canal_Viva_2018_wordmark.svg/1280px-Canal_Viva_2018_wordmark.svg.png" group-title="BRASILIAN ENTERTAINMENT",Canal Viva
@@ -830,35 +834,35 @@ http://5gfksa.ltd:2052/334455/554433/84361
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OpAB6Hs.png" group-title="BRASILIAN MOVIES",Cinemax Brasil
 http://5gfksa.ltd:2052/334455/554433/84284
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9v0WUqt.png" group-title="BRASILIAN MOVIES",HBO Brasil
-http://5gfksa.ltd:2052/334455/554433/84316
+http://189.91.128.146:4444/udp/227.10.20.94:1234
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fcP6f19.png" group-title="BRASILIAN MOVIES",HBO 2 Brasil
-http://5gfksa.ltd:2052/334455/554433/84315
+http://189.91.128.146:4444/udp/227.10.20.95:1234
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5KBj7MH.png" group-title="BRASILIAN MOVIES",HBO Family Brasil
-http://5gfksa.ltd:2052/334455/554433/84314
+http://189.91.128.146:4444/udp/227.10.20.97:1234
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Y3ICK7d.png" group-title="BRASILIAN MOVIES",HBO Xtreme Brasil
-http://5gfksa.ltd:2052/334455/554433/84313
+http://189.91.128.146:4444/udp/227.10.20.100:1234
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UmlQZyK.png" group-title="BRASILIAN MOVIES",HBO Plus Brasil
-http://5gfksa.ltd:2052/334455/554433/84312
+http://189.91.128.146:4444/udp/227.10.20.96:1234
 #EXTINF:-1 tvg-logo="https://i.imgur.com/426Kgas.png" group-title="BRASILIAN MOVIES",HBO Signature Brasil
-http://5gfksa.ltd:2052/334455/554433/84311
+http://189.91.128.146:4444/udp/227.10.20.98:1234
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lQNj7hA.png" group-title="BRASILIAN MOVIES",HBO Mundi Brasil
-http://5gfksa.ltd:2052/334455/554433/84310
+http://200.4.96.59:8002/play/a0f0/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sGWVIb9.png" group-title="BRASILIAN MOVIES",HBO Pop Brasil
-http://5gfksa.ltd:2052/334455/554433/84309
+http://189.91.128.146:4444/udp/227.10.20.99:1234
 #EXTINF:-1 tvg-logo="https://i.imgur.com/78NqEVQ.png" group-title="BRASILIAN MOVIES",Megapix
-http://5gfksa.ltd:2052/334455/554433/84279
+http://189.91.128.146:4444/udp/227.10.20.89:1234
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JDZiNg1.png" group-title="BRASILIAN MOVIES",Telecine Action
-http://5gfksa.ltd:2052/334455/554433/84296
+http://187.85.237.26:8825/ipvt_004
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2DJqQ7r.png" group-title="BRASILIAN MOVIES",Telecine Cult
-http://5gfksa.ltd:2052/334455/554433/84295
+http://187.85.237.34:8825/ipvt_001
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8Lzde0u.png" group-title="BRASILIAN MOVIES",Telecine Fun
-http://5gfksa.ltd:2052/334455/554433/84294
+http://200.4.96.59:8003/play/a04m/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zSpqK3P.png" group-title="BRASILIAN MOVIES",Telecine Pipoca
-http://5gfksa.ltd:2052/334455/554433/84293
+http://187.85.237.25:8825/ipvt_005
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CpwgnVd.png" group-title="BRASILIAN MOVIES",Telecine Premium
-http://5gfksa.ltd:2052/334455/554433/84299
+http://187.85.237.34:8825/ipvt_002
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cXPKcqP.png" group-title="BRASILIAN MOVIES",Telecine Touch
-http://5gfksa.ltd:2052/334455/554433/84292
+http://187.85.237.3:8220/ipvt_005
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HGtsnIL.png" group-title="ALBANIAN MOVIES",RTSH Film
 https://tvlive.rtsh.dev/live/rtsh_film_ott/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0ue1WNG.png" group-title="ALBANIAN MOVIES",Tring Action
@@ -1203,12 +1207,14 @@ http://edge02-fdo-py.cvattv.com.ar/live/c3eds/TNTSeries/SA_SAGEMCOM/TNTSeries.m3
 http://edge02-fdo-py.cvattv.com.ar/live/c4eds/Universal_Channel_HD/SA_SAGEMCOM/Universal_Channel_HD.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png" group-title="LATINO SERIES",Warner TV
 http://edge02-fdo-py.cvattv.com.ar/live/c4eds/WarnerHD/SA_SAGEMCOM/WarnerHD.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EZQZ2Dl.png" group-title="BRASILIAN SERIES",AXN Brasil
+http://187.85.237.8:8825/ipvt_005
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8dgknme.png" group-title="BRASILIAN SERIES",FX Brasil
-http://170.82.200.38:8080/fx/tracks-v1a1/mono.m3u8
+http://189.91.128.146:4444/udp/227.10.20.138:1234
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SodO9DE.png" group-title="BRASILIAN SERIES",Studio Universal Brasil
 http://5gfksa.ltd:2052/334455/554433/84273
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png" group-title="BRASILIAN SERIES",TNT Series Brasil
-http://170.82.200.38:8080/tnt_series/tracks-v1a1/mono.m3u8
+http://45.232.196.7:5000/live/TNTSERIES/720p.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/2/29/Logo_13e_Rue_%282017%29.svg/langfr-800px-Logo_13e_Rue_%282017%29.svg.png" group-title="FRENCH SERIES",13ème Rue
 http://new-pro.tv:8080/Fernando/123321/70623
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/9/9a/Logo_AB1_2021.png" group-title="FRENCH SERIES",AB1
@@ -3353,23 +3359,23 @@ https://d3awnlgqz0szay.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/in
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FbFe2uu.png" group-title="BRASILIAN SPORTS",Band Sports
 http://190.15.32.30:80/19/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kRyf79U.png" group-title="BRASILIAN SPORTS",Canal Off
-http://5gfksa.ltd:2052/334455/554433/84277
+http://200.4.96.59:8002/play/a0eu/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ed/Canal-combate-logo.png" group-title="BRASILIAN SPORTS",Combate
-http://50.7.34.155:2200/BR/Combate_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhullfnNlfHJofQ%3Dn%3D%3Fmd5
+http://200.4.96.59:8002/play/a0em/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1920px-ESPN_wordmark.svg.png" group-title="BRASILIAN SPORTS",ESPN Brasil
-http://50.7.34.155:2201/BR/ESPN_Brasil_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ==
+http://189.91.128.146:4444/udp/227.10.20.81:1234
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/1280px-ESPN2_logo.svg.png" group-title="BRASILIAN SPORTS",ESPN 2 Brasil
-http://50.7.34.155:2201/BR/ESPN_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ==
+http://189.91.128.146:4444/udp/227.10.20.152:1234?PEDROJUNIORTUTORIAIS
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Crvxgth.png" group-title="BRASILIAN SPORTS",ESPN 3 Brasil
-http://50.7.34.155:2201/BR/ESPN2_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ==
+http://189.91.128.146:4444/udp/227.10.20.153:1234?PEDROJUNIORTUTORIAIS
 #EXTINF:-1 tvg-logo="https://i.imgur.com/89RCPvg.png" group-title="BRASILIAN SPORTS",ESPN 4 Brasil
-http://50.7.34.155:2201/BR/Fox_Sports_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ==
+http://189.91.128.146:4444/udp/227.10.20.116:1234
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sIUdUaB.png" group-title="BRASILIAN SPORTS",ESPN Extra Brasil
-http://168.205.87.198:8555/live/adriana/123456/51.m3u8
+http://200.4.96.59:8002/play/a0d99/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DpnatBM.png" group-title="BRASILIAN SPORTS",Fox Sports 2 Brasil
 http://170.82.200.38:8080/fox_sports_2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/a2/Logo_Premiere_FC_2018.png" group-title="BRASILIAN SPORTS",Premiere Clubes
-http://50.7.34.155:2200/BR/Premiere_Clubes_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ%3Dm%3D%3Full5
+http://189.91.128.146:4444/udp/227.10.20.102:1234
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iweh0Li.png" group-title="BRASILIAN SPORTS",SporTV
 http://server.sibfungold.info:8080/gaicu84/iVMgaicu84DNfwV/3854
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AAdoNsr.png" group-title="BRASILIAN SPORTS",SporTV 2
