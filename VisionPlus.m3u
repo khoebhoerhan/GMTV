@@ -4176,7 +4176,7 @@ http://new-pro.tv:8080/Fernando/123321/67196
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VmTkdjC.png" group-title="ITALY",TV 8
 http://new-pro.tv:8080/Fernando/123321/67034
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png/800px-NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png" group-title="JAPAN",NHK G
-https://nhk1.mov3.co/hls/nhk.m3u8
+http://jptv.dinhluong.jp:8080/hls/nhkg/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.png/800px-NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.png" group-title="JAPAN",NHK E
 http://51.79.193.108:8080/hls/j00034/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bOT4gT8.png" group-title="JAPAN",Nippon TV
