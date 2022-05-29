@@ -3363,11 +3363,11 @@ http://tv.fullytv.com:8080/lisa1/1lisa/3751
 #EXTINF:-1 tvg-logo="https://i.imgur.com/I7Lhgej.png" group-title="LATINO SPORTS",TyC Sports
 https://d3awnlgqz0szay.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index_9.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FbFe2uu.png" group-title="BRASILIAN SPORTS",Band Sports
-http://190.15.32.30:80/19/tracks-v1a1/mono.m3u8
+http://189.91.128.146:4444/udp/227.10.20.119:1234
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kRyf79U.png" group-title="BRASILIAN SPORTS",Canal Off
 http://200.4.96.59:8002/play/a0eu/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ed/Canal-combate-logo.png" group-title="BRASILIAN SPORTS",Combate
-http://200.4.96.59:8002/play/a0em/index.m3u8
+http://189.91.128.146:4444/udp/227.10.20.172:1234
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1920px-ESPN_wordmark.svg.png" group-title="BRASILIAN SPORTS",ESPN Brasil
 http://189.91.128.146:4444/udp/227.10.20.81:1234
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/1280px-ESPN2_logo.svg.png" group-title="BRASILIAN SPORTS",ESPN 2 Brasil
@@ -3377,19 +3377,17 @@ http://189.91.128.146:4444/udp/227.10.20.153:1234?PEDROJUNIORTUTORIAIS
 #EXTINF:-1 tvg-logo="https://i.imgur.com/89RCPvg.png" group-title="BRASILIAN SPORTS",ESPN 4 Brasil
 http://189.91.128.146:4444/udp/227.10.20.116:1234
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sIUdUaB.png" group-title="BRASILIAN SPORTS",ESPN Extra Brasil
-http://200.4.96.59:8002/play/a0d99/index.m3u8
+http://ccdn.pw:80/WY1NB/Felialagoas10/71915.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DpnatBM.png" group-title="BRASILIAN SPORTS",Fox Sports 2 Brasil
 http://170.82.200.38:8080/fox_sports_2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/a2/Logo_Premiere_FC_2018.png" group-title="BRASILIAN SPORTS",Premiere Clubes
 http://189.91.128.146:4444/udp/227.10.20.102:1234
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iweh0Li.png" group-title="BRASILIAN SPORTS",SporTV
-http://server.sibfungold.info:8080/gaicu84/iVMgaicu84DNfwV/3854
+http://ccdn.pw:80/WY1NB/Felialagoas10/72329.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AAdoNsr.png" group-title="BRASILIAN SPORTS",SporTV 2
-http://server.sibfungold.info:8080/gaicu84/iVMgaicu84DNfwV/3855
+http://ccdn.pw:80/WY1NB/Felialagoas10/72321.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RcpUcYG.png" group-title="BRASILIAN SPORTS",SporTV 3
-http://server.sibfungold.info:8080/gaicu84/iVMgaicu84DNfwV/3856
-#EXTINF:-1 tvg-logo="https://i.imgur.com/IyqLOSV.png" group-title="BRASILIAN SPORTS",TNT Sports
-http://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8
+http://ccdn.pw:80/WY1NB/Felialagoas10/72325.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9Ja21Pr.png" group-title="ARABIC SPORTS",Al Kass 1
 http://gplus.live:8080/168573780756/N9UFR0P64W/83763
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9Ja21Pr.png" group-title="ARABIC SPORTS",Al Kass 2
