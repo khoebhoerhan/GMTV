@@ -2174,8 +2174,10 @@ https://liveanevia.mncnow.id/live/eds/FightSports/sa_dash_vmx/FightSports.mpd
 http://84.22.33.215/nbatv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0FJ92Bp.png" group-title="AMERICAN SPORTS",Golf Channel US
 http://new-pro.tv:8080/Fernando/123321/70547
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=bef29d5caac3628eb1efae8a215fae10&key=645a0014ea459a86cfa72cf8137bb4a7
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0FJ92Bp.png" group-title="NATIONAL SPORTS",Golf Channel
-http://139.99.56.106:2082/sakinah1/sakinah1/7516
+https://linearjitp-playback.astro.com.my/dash-wv/linear/1003/default_primary.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0g1cseU.png" group-title="NATIONAL SPORTS",eGG Network
 http://playlist.urfan.web.id/uq2663/h/h22/02.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/o0WVl7b.png" group-title="NATIONAL SPORTS",Dunia Games
@@ -2301,12 +2303,18 @@ http://stariptv.org:8080/nour2020/123456/163779
 http://stariptv.org:8080/nour2020/123456/163781
 #EXTINF:-1 tvg-logo="https://i.imgur.com/j8VC6nB.png" group-title="AUSTRALIAN SPORTS",beIN Sports 3
 http://stariptv.org:8080/nour2020/123456/163783
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=d96d4ec1a73623b5789d78a48b829d10&key=1ca8dd93af16c84fa1ef5f1b761a03e3
 #EXTINF:-1 tvg-logo="https://i.imgur.com/39bwyGI.png" group-title="MALAY SPORTS",beIN Sports Malaysia & Singapore
-http://139.99.56.106:2082/sakinah1/sakinah1/8414
+http://linearjitp-playback.astro.com.my/dash-wv/linear/408/default_ott.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=7d2ba38cc488e535fa42059493357c10&key=c48de9b1683be561fa63ab547391975d
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NDp6TlM.png" group-title="MALAY SPORTS",beIN Sports 2 Malaysia & Singapore
-http://king-tv.net:8080/zakiabdulal/2vDMiza9XO/240976.ts
+http://linearjitp-playback.astro.com.my/dash-wv/linear/5013/default_ott.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=ec837724b4265d2e127e65c542aee410&key=0ce930620687ab1df1cf6544f2dc0013
 #EXTINF:-1 tvg-logo="https://i.imgur.com/j8VC6nB.png" group-title="MALAY SPORTS",beIN Sports 3 Malaysia & Singapore
-http://139.99.56.106:2082/sakinah1/sakinah1/8413
+http://linearjitp-playback.astro.com.my/dash-wv/linear/2705/default_ott.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MRULdc8.png" group-title="THAI SPORTS",beIN Sports 1 Thailand
 https://smart-tv.livedoomovies.com:4431/02_epl1_720p/chunklist.m3u8|Referer=https://www.movie87hd.com/?r=ajax
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NDp6TlM.png" group-title="THAI SPORTS",beIN Sports 2 Thailand
@@ -2331,8 +2339,10 @@ http://server.sibfungold.info:8080/gaicu84/iVMgaicu84DNfwV/46722
 http://server.sibfungold.info:8080/gaicu84/iVMgaicu84DNfwV/46763
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JApkfiF.png" group-title="AMERICAN SPORTS",Tennis Channel
 http://stariptv.org:8080/wael2021/123456/148496
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=782f32d9501ac50dfd783671ade95210&key=9690dcf2368b1664680a8099125ccca9
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lcpZ5CC.png" group-title="AMERICAN SPORTS",WWE Network
-http://139.99.56.106:2082/sakinah1/sakinah1/7169
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2603/default_primary.mpd
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c8/BoxNation2014Logo.png" group-title="BRITISH SPORTS",Box Nation
 http://stariptv.org:8080/nour2020/123456/9395
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7dg7EB7.png" group-title="BRITISH SPORTS",BT Sport 1
@@ -2965,12 +2975,18 @@ http://fortv.cc:8080/Rob/Rob2021/122344
 http://fortv.cc:8080/Rob/Rob2021/122345
 #EXTINF:-1 tvg-logo="https://i.imgur.com/O9XcGr8.png" group-title="HK SPORTS",Now Sports Premier League 6
 http://fortv.cc:8080/Rob/Rob2021/122346
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=40c958ab268862f44ca7169a0a634710&key=d83ccdb2a5a66a9653009dab9490e617
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7bPCw4Q.png" group-title="MALAY SPORTS",Astro Arena
-http://platinumxmedia.xyz:8080/live/Instahub/bxL8msMEF2V3/100614.m3u8
+http://linearjitp-playback.astro.com.my/dash-wv/linear/2604/default_ott.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=a35c43ff90d667ba1285ad0ae34ae810&key=99191e99138dc6aca5ed5febe3a817a4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/meHW06l.png" group-title="MALAY SPORTS",Astro Arena 2
-http://platinumxmedia.xyz:8080/live/Instahub/bxL8msMEF2V3/130090.m3u8
+http://linearjitp-playback.astro.com.my/dash-wv/linear/5057/default_ott.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=0a5ce785d63f164f5be079a0aa9b6210&key=d388cbf715f1bb08901a55a7db7f26c0
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DhbmBsD.png" group-title="MALAY SPORTS",Astro Cricket
-http://139.99.56.106:2082/sakinah1/sakinah1/7517
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2504/default_primary.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/X2WVnWr.png" group-title="MALAY SPORTS",Astro Supersport
 http://xtmm.live:8080/play/9wPeUuHmYezoUNyJfpNPH6UosiaxRL-Ou3V_pUxu24Y/ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AZQ0xgp.png" group-title="MALAY SPORTS",Astro Supersport 2
@@ -2979,14 +2995,22 @@ http://xtmm.live:8080/play/9wPeUuHmYezoUNyJfpNPH-7vvdJHaB-x-xtu3--MHsE/ts
 http://xtmm.live:8080/play/9wPeUuHmYezoUNyJfpNPH4YGE2NvT26inecEY8Pft_E/ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PlwrDwx.png" group-title="MALAY SPORTS",Astro Supersport 4
 http://xtmm.live:8080/play/9wPeUuHmYezoUNyJfpNPH23e-bb2dSP98OVOQwcz8wg/ts
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=113d6e58ea7e223e3fb4a9af3e927010&key=dc86f5d82e5dfaa0fbb22d220e023b7c
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FieopQP.png" group-title="MALAY SPORTS",Astro Supersport 5
-http://platinumxmedia.xyz:8080/live/Instahub/bxL8msMEF2V3/92012.m3u8
+http://linearjitp-playback.astro.com.my/dash-wv/linear/5059/default_ott.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=7299bdb9de13b235cda94cd5063ab810&key=247ed97854d185349998873672294cad
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ycxjpTX.png" group-title="MALAY SPORTS",Eurosport Asia
-http://platinumxmedia.xyz:8080/live/Instahub/bxL8msMEF2V3/92001.m3u8
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2100/default_primary.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=cfc32f4dc3dac49b34708ded20364610&key=025dcec778861dd1e40cce4dd35e73a4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kfPsml5.png" group-title="MALAY SPORTS",Premier Sports Asia
-http://139.99.56.106:2082/sakinah1/sakinah1/12215
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2601/default_primary.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=01cde7c31b1a3ea2aa7a6f579a0f4610&key=710f5ebe6bb2d50978ef0e5aa5fc69d4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Bj0MyZQ.png" group-title="MALAY SPORTS",SPOTV
-http://139.99.56.106:2082/sakinah1/sakinah1/8650
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5058/default_primary.mpd
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8NC0zoQ.png" tvg-url="https://raw.githubusercontent.com/samleong123/rtm-live/main/rtmklik.xml" group-title="MALAY SPORTS",TV Sukan
 https://rtmlive06tv.secureswiftcontent.com/rtmchannel/06-manifest.mpd
