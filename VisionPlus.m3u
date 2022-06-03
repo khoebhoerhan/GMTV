@@ -62,7 +62,7 @@ https://ms.digdaya.tv/live/digdayatv/chunklist_w1052587069.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MGRhNmU1M2UtNGE3Ni0zZGRkLWJhMmQtYTFmMzE2YTRlMTY3
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Logo_ntv.png/1200px-Logo_ntv.png" group-title="NASIONAL",Nusantara TV
-https://v6.siar.us/nusantaratv/live/playlist.m3u8
+https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/c1VTy2h.png" group-title="NASIONAL",Da Ai TV
@@ -784,8 +784,10 @@ http://live.flixhub.net/hls/andpictures.m3u8
 https://m3u-editor.com/serve/50328070-93a4-11ec-bfe1-bfe07fb9faf4/505524953
 #EXTINF:-1 tvg-logo="https://i.imgur.com/If0036I.png" group-title="MOVIES",MyCinema
 http://rr.dens.tv/h/h90/index.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=09e9d9037bbc6d4eac45bdee4b718b10:05db97174848670a152d0b15f3dab994
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fD8G2Ug.png" group-title="ASIAN MOVIES",Boo
-http://139.99.56.106:2082/sakinah1/sakinah1/12224
+http://linearjitp-playback.astro.com.my/dash-wv/linear/2407/default_ott.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/r2mKJH2.png" group-title="ASIAN MOVIES",MyCinema Asia
 https://m3u-editor.com/serve/hlzt5h5k2o/513640320.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/U44NZzJ.png" group-title="ASIAN MOVIES",Viva Cinema
@@ -3013,14 +3015,22 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/5057/default_ott.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=0a5ce785d63f164f5be079a0aa9b6210&key=d388cbf715f1bb08901a55a7db7f26c0
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DhbmBsD.png" group-title="MALAY SPORTS",Astro Cricket
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2504/default_primary.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/601
 #EXTINF:-1 tvg-logo="https://i.imgur.com/X2WVnWr.png" group-title="MALAY SPORTS",Astro Supersport
-http://xtmm.live:8080/play/9wPeUuHmYezoUNyJfpNPH6UosiaxRL-Ou3V_pUxu24Y/ts
+https://tv.kpsvpn.com/sport1.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/2104
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AZQ0xgp.png" group-title="MALAY SPORTS",Astro Supersport 2
-http://xtmm.live:8080/play/9wPeUuHmYezoUNyJfpNPH-7vvdJHaB-x-xtu3--MHsE/ts
+https://tv.kpsvpn.com/sport2.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/2701
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cMYSM6e.png" group-title="MALAY SPORTS",Astro Supersport 3
-http://xtmm.live:8080/play/9wPeUuHmYezoUNyJfpNPH4YGE2NvT26inecEY8Pft_E/ts
+https://tv.kpsvpn.com/sport3.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/2506
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PlwrDwx.png" group-title="MALAY SPORTS",Astro Supersport 4
-http://xtmm.live:8080/play/9wPeUuHmYezoUNyJfpNPH23e-bb2dSP98OVOQwcz8wg/ts
+https://tv.kpsvpn.com/sport4.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=113d6e58ea7e223e3fb4a9af3e927010&key=dc86f5d82e5dfaa0fbb22d220e023b7c
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FieopQP.png" group-title="MALAY SPORTS",Astro Supersport 5
@@ -3037,6 +3047,10 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2601/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=01cde7c31b1a3ea2aa7a6f579a0f4610&key=710f5ebe6bb2d50978ef0e5aa5fc69d4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Bj0MyZQ.png" group-title="MALAY SPORTS",SPOTV
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5058/default_primary.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=fb9d78b1c5776744014935bb3fe4ea10&key=0dc6d298bc48c0de11dc6bf9ede30323
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WbPfNOb.png" group-title="MALAY SPORTS",SPOTV 2
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5068/default.mpd
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8NC0zoQ.png" tvg-url="https://raw.githubusercontent.com/samleong123/rtm-live/main/rtmklik.xml" group-title="MALAY SPORTS",TV Sukan
 https://rtmlive06tv.secureswiftcontent.com/rtmchannel/06-manifest.mpd
