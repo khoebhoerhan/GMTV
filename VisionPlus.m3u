@@ -1793,7 +1793,7 @@ https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master_2500.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/35/GB_News_Logo.svg/1920px-GB_News_Logo.svg.png" group-title="BRITISH NEWS",GB News
 https://live-gbnews.simplestreamcdn.com/gbnews/gbnews/bitrate1.isml/bitrate1-audio_0=192000-video=4499968.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4o0oDKk.jpeg" group-title="BRITISH NEWS",RTÉ News
-http://iptvfree1.com:8080/live:david.romok/4bteskwwjs342/8631
+https://live.rte.ie/live/a/channel3/news.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/96ZwfZt.png" group-title="BRITISH NEWS",Talk TV
 https://newsuk-talkradiotv-brightcove.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jtPPRFX.png" group-title="AUSTRALIAN NEWS",ABC News
@@ -1826,7 +1826,7 @@ https://d2xqcdx4c8vu9s.cloudfront.net/out/v1/15b8393e9a9240b8bedd4c79ccefb301/in
 #EXTINF:-1 tvg-logo="https://i.imgur.com/r38Camc.png" group-title="INDIAN NEWS",India Today
 https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/indiatoday_5/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/aa/Times_Now_2010.png" group-title="INDIAN NEWS",Times Now
-http://premium-iptv.link:8080/eclipse2000inflatables/HGSgcjY6sR/6367
+https://timesnow-lh.akamaihd.net/i/TNHD_1@129288/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dt5xRpi.png" group-title="INDIAN NEWS",Mirror Now
 http://mbnowweb-lh.akamaihd.net/i/MRN_1@346545/index_576_av-p.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Atn4Ppt.png" group-title="INDIAN NEWS",India Ahead
@@ -4150,7 +4150,7 @@ http://stariptv.org:8080/nour2020/123456/598
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ujQVb6l.png" group-title="GERMANY",Das Erste
-https://mcdn.daserste.de:443/daserste/de/master_3744.m3u8
+https://mcdn.daserste.de/daserste/de/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/ProSieben_Logo_2015.svg/800px-ProSieben_Logo_2015.svg.png" group-title="GERMANY",ProSieben Deutschland
 http://stariptv.org:8080/nour2020/123456/44577
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SXlhZZY.png" group-title="GERMANY",ProSieben Fun
@@ -4166,7 +4166,7 @@ http://stariptv.org:8080/nour2020/123456/44578
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Super_RTL_2019.png" group-title="GERMANY",Super RTL Deutschland
 http://stariptv.org:8080/nour2020/123456/44581
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/ZDF_logo.svg/1920px-ZDF_logo.svg.png" group-title="GERMANY",ZDF
-http://stariptv.org:8080/nour2020/123456/44573
+https://zdf-hls-15.akamaized.net/hls/live/2016498/de/high/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/eb/Alpha_TV_logo.svg/800px-Alpha_TV_logo.svg.png" group-title="GREECE",Alpha TV
 https://alphalive-i.akamaihd.net/hls/live/682300/live/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/1/11/Ant1_Logo.png" group-title="GREECE",ANT1
@@ -4230,15 +4230,15 @@ http://ky-iptv.com:80/Bobby12345/Bobby12345/391165.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/09/Virgin_Media_Three_logo.png" group-title="IRELAND",Virgin Media Three
 http://ky-iptv.com:80/Bobby12345/Bobby12345/391166.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yPrJ4wh.png" group-title="ITALY",Canale 5
-http://new-pro.tv:8080/Fernando/123321/67169
+https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(C5)/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8b/Logo_cielo.png" group-title="ITALY",Cielo
 http://new-pro.tv:8080/Fernando/123321/67038
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/Focus_channel.png" group-title="ITALY",Focus
 http://new-pro.tv:8080/Fernando/123321/67041
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e2/Italia_1.svg/800px-Italia_1.svg.png" group-title="ITALY",Italia 1
-http://new-pro.tv:8080/Fernando/123321/67170
+https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(i1)/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/btlaJ2Z.png" group-title="ITALY",Italia 2
-http://new-pro.tv:8080/Fernando/123321/86734
+https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(i2)/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/6/64/La5_Italy.svg/1280px-La5_Italy.svg.png" group-title="ITALY", La 5
 http://new-pro.tv:8080/Fernando/123321/67037
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/LA7_-_Logo_2011.svg/1024px-LA7_-_Logo_2011.svg.png" group-title="ITALY",La 7
@@ -4250,17 +4250,17 @@ http://new-pro.tv:8080/Fernando/123321/67043
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Nove_-_Logo_2017.svg/1920px-Nove_-_Logo_2017.svg.png" group-title="ITALY",Nove
 https://sbshdlu5-lh.akamaihd.net/i/sbshdl_3@810997/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Rai_1_-_Logo_2016.svg/1024px-Rai_1_-_Logo_2016.svg.png" group-title="ITALY",Rai 1
-http://new-pro.tv:8080/Fernando/123321/67158
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=2606803
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Rai_2_-_Logo_2016.svg/1280px-Rai_2_-_Logo_2016.svg.png" group-title="ITALY",Rai 2
-http://new-pro.tv:8080/Fernando/123321/67159
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308718
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Rai_3_-_Logo_2016.svg/1280px-Rai_3_-_Logo_2016.svg.png" group-title="ITALY",Rai 3
-http://new-pro.tv:8080/Fernando/123321/67160
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308709
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Rai_4_-_Logo_2016.svg/1280px-Rai_4_-_Logo_2016.svg.png" group-title="ITALY",Rai 4
-http://new-pro.tv:8080/Fernando/123321/67161
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746966
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Rai_5_-_Logo_2017.svg/1280px-Rai_5_-_Logo_2017.svg.png" group-title="ITALY",Rai 5
 http://new-pro.tv:8080/Fernando/123321/67162
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/5f/Rete_4_2018.svg/800px-Rete_4_2018.svg.png" group-title="ITALY",Rete 4
-http://new-pro.tv:8080/Fernando/123321/67168
+https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(r4)/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Sky_Uno_-_Logo_2021.svg/1920px-Sky_Uno_-_Logo_2021.svg.png" group-title="ITALY",Sky Uno
 http://new-pro.tv:8080/Fernando/123321/67196
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VmTkdjC.png" group-title="ITALY",TV 8
