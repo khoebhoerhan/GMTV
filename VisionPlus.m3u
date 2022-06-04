@@ -698,15 +698,19 @@ https://liveanevia.mncnow.id/live/eds/tvNMovies/sa_dash_vmx/tvNMovies.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=73e84f91bd9ae20412e370f98fd3a110&key=d5b52aabca5afe002eb495804f8ec944
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Vmdbbo5.png" group-title="ASIAN MOVIES",Astro Citra
 https://tv.kpsvpn.com/citra.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://seulangatv.com/license/bioskopindonesia
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EX7AKlL.png" group-title="NATIONAL MOVIES",Bioskop Indonesia
-http://axcestv.vip:8080/live/freeview/axcestv/716.ts
+https://seulangatv.com/useeTV/mpd/bioskopindonesia.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lN20Oy7.png" group-title="NATIONAL MOVIES",Citra Bioskop
 https://seulangatv.xyz/vd/get.m3u8?id=6684
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://seulangatv.com/license/flik
 #EXTINF:-1 tvg-logo="https://i.imgur.com/khhBdiS.png" group-title="NATIONAL MOVIES",Flik
-http://139.99.56.106:2082/sakinah1/sakinah1/7140
+https://seulangatv.com/useeTV/mpd/flik.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UWCKaJw.png" group-title="NATIONAL MOVIES",IMC
