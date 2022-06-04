@@ -448,7 +448,7 @@ https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8|user-age
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f8/SIC_Internacional.png" group-title="PORTUGUESE ENTERTAINMENT",SIC Internacional
-http://200.4.96.59:8004/play/a0f4/index.m3u8
+https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index.m3u8
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pAcflJ5.png" group-title="PORTUGUESE ENTERTAINMENT",TVI Internacional
@@ -1978,7 +1978,7 @@ http://ky-iptv.com:80/Bobby12345/Bobby12345/219144.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cojVDUx.png" group-title="POLISH NEWS",Wydarzenia 24
 http://ky-iptv.com:80/Bobby12345/Bobby12345/219130.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TpBpUU4.png" group-title="PORTUGUESE NEWS",SIC Notícias
-http://stariptv.org:8080/nour2020/123456/4769
+https://sicnot.live.impresa.pt/sicnot.m3u8
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Rtp3.png/1920px-Rtp3.png" group-title="PORTUGUESE NEWS",RTP 3
@@ -4457,7 +4457,7 @@ https://streaming-live.rtp.pt/liverepeater/smil:rtp1HD.smil/playlist.m3u8|user-a
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/RTP2_logo_2016.png" group-title="PORTUGAL",RTP 2
 https://streaming-live.rtp.pt/liverepeater/smil:rtp2HD.smil/playlist.m3u8|user-agent=RTP Play/2.0.36 (Linux;Android 11) ExoPlayerLib/2.17.1
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4d/Sociedade_Independente_de_Comunica%C3%A7%C3%A3o_Logo_2018.png" group-title="PORTUGAL",SIC
-https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index_4.m3u8
+https://sic.live.impresa.pt/sic.m3u8
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dHSH6qh.png" group-title="PORTUGAL",TVI
@@ -4668,35 +4668,35 @@ https://live.thairath.co.th/trtv2/playlist_720p/index.m3u8
 http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/24/24.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Kh2YHBE.png" group-title="THAILAND",Workpoint 23
 http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/23/23.mpd
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c3/360_tv.png" group-title="TURKEY",360
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c3/360_tv.png" group-title="TÜRKIYE",360
 https://tv.ensonhaber.com/tv/tr/360tv/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/c3RgcaI.png" group-title="TURKEY",a2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/c3RgcaI.png" group-title="TÜRKIYE",a2
 http://new-pro.tv:8080/Fernando/123321/2182
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Atv_logosu.png" group-title="TURKEY",atv Türkiye
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Atv_logosu.png" group-title="TÜRKIYE",atv Türkiye
 https://trkvz-live.daioncdn.net/atv/atv_1080p.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dl5oTth.png" group-title="TURKEY",beIN IZ
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dl5oTth.png" group-title="TÜRKIYE",beIN IZ
 http://smartestv.vip:2095/ABHVYOP/2387998104/33473
-#EXTINF:-1 tvg-logo="https://i.imgur.com/nPTmcny.png" group-title="TURKEY",Fox Türkiye
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nPTmcny.png" group-title="TÜRKIYE",Fox Türkiye
 http://luxtv.one:8080/kadiri/123456/2032
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6OYvfnf.png" group-title="TURKEY",Kanal 7
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6OYvfnf.png" group-title="TÜRKIYE",Kanal 7
 https://live.kanal7.com/live/kanal7LiveDesktop/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0c8iZq8.png" group-title="TURKEY",Kanal D
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0c8iZq8.png" group-title="TÜRKIYE",Kanal D
 https://live.duhnet.tv/S2/HLS_LIVE/kanaldnp/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3SQqZXU.png" group-title="TURKEY",Show Max
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3SQqZXU.png" group-title="TÜRKIYE",Show Max
 http://iptvmasterlink.dyndns.org:8080/ShowMax/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4b/Show_TV.svg/800px-Show_TV.svg.png" group-title="TURKEY",Show TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4b/Show_TV.svg/800px-Show_TV.svg.png" group-title="TÜRKIYE",Show TV
 https://tv.ensonhaber.com/tv/tr/showtv/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/StarTV.svg/800px-StarTV.svg.png" group-title="TURKEY",Star TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/StarTV.svg/800px-StarTV.svg.png" group-title="TÜRKIYE",Star TV
 https://dogus-live.daioncdn.net/startv/startv_720p.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/j3tlVKo.png" group-title="TURKEY",TRT 1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/j3tlVKo.png" group-title="TÜRKIYE",TRT 1
 https://tv-trt1.medya.trt.com.tr/master_720.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Uu1Iwqc.png" group-title="TURKEY",TRT 2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Uu1Iwqc.png" group-title="TÜRKIYE",TRT 2
 http://167.114.115.233:8080/trt2fhd/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6t0F8zO.jpg" group-title="TURKEY",TV 4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6t0F8zO.jpg" group-title="TÜRKIYE",TV 4
 https://turkmedya-live.ercdn.net/tv4/tv4_720p.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/35/Tv8_new_logo.png" group-title="TURKEY",TV 8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/35/Tv8_new_logo.png" group-title="TÜRKIYE",TV 8
 http://mfe.cliptv.az/dash/TV_8_HD.ism/playlist.mpd
-#EXTINF:-1 tvg-logo="https://i.imgur.com/nhl0SnT.png" group-title="TURKEY",TV 8.5
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nhl0SnT.png" group-title="TÜRKIYE",TV 8.5
 http://new-pro.tv:8080/Fernando/123321/2181
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3gFFRS2.png" group-title="UKRAINE",1+1
 http://iptv.prosto.tv:7000/ch1/video.m3u8
