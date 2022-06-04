@@ -1613,7 +1613,7 @@ https://liveanevia.mncnow.id/live/eds/BBCWorldNews/sa_dash_vmx/BBCWorldNews.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/j449MD4.png" group-title="BRITISH NEWS",BBC News
 http://prox.x86.co.uk/index.php/https://cdnuk001.broadcastcdn.net/KUK-BBCNEWSHD/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/BBC_Parliament_Logo.svg/1280px-BBC_Parliament_Logo.svg.png" group-title="BRITISH NEWS",BBC Parliament
-http://194.76.186.39:8000/play/a00y
+https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_parliament/mobile_wifi_main_sd_abr_v2_akamai_hls_live_http.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b8/Logo_BBC_Arabic.png" group-title="ARABIC NEWS",BBC Arabic
 https://vs-cmaf-pushb-ww-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2_akamai_dash_live_http.mpd
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_News_Persian_Logo.jpg" group-title="PERSIAN NEWS",BBC Persian
@@ -1783,7 +1783,7 @@ https://skystreams-lh.akamaihd.net/i/SkyC2_1@500807/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/d9scAyX.png" group-title="AMERICAN NEWS",C-SPAN 3
 https://skystreams-lh.akamaihd.net/i/SkyC3_1@500808/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YvWkxuj.png" group-title="CANADIAN NEWS",CBC News Network
-http://ky-iptv.com:80/nicholas/123456789/181854.ts
+https://livecbcdai-i.akamaihd.net/hls/live/567245/event2/CBCNN/master5.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5svjRRG.png" group-title="CANADIAN NEWS",CTV News Channel
 http://ky-iptv.com:80/nicholas/123456789/181909.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IZFEJsu.png" group-title="CANADIAN NEWS",Global News
@@ -1794,6 +1794,8 @@ https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master_2500.m3u8
 https://live-gbnews.simplestreamcdn.com/gbnews/gbnews/bitrate1.isml/bitrate1-audio_0=192000-video=4499968.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4o0oDKk.jpeg" group-title="BRITISH NEWS",RTÉ News
 http://iptvfree1.com:8080/live:david.romok/4bteskwwjs342/8631
+#EXTINF:-1 tvg-logo="https://i.imgur.com/96ZwfZt.png" group-title="BRITISH NEWS",Talk TV
+https://newsuk-talkradiotv-brightcove.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jtPPRFX.png" group-title="AUSTRALIAN NEWS",ABC News
 https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index_45.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Jg51UFG.png" group-title="AUSTRALIAN NEWS",Australia Channel
@@ -2607,13 +2609,13 @@ https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sKnWF8h.png" group-title="AUSTRALIAN SPORTS",Optus Sport 1
 http://ky-iptv.com:80/Bobby12345/Bobby12345/1391039.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IMAeAVz.jpg" group-title="AUSTRALIAN SPORTS",Racing.com
-http://stariptv.org:8080/nour2020/123456/163799
+https://i.mjh.nz/au/Sydney/tv.101305020528.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/s2wciz8.png" group-title="AUSTRALIAN SPORTS",Sky 1
-https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/sky1_extreme@569780.m3u8
+https://skylivetab-i.akamaihd.net/hls/live/569779/tablive/sky1.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BwFNwuH.png" group-title="AUSTRALIAN SPORTS",Sky 2
-https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/sky2_extreme@569780.m3u8
+https://skylivetab-i.akamaihd.net/hls/live/569779/tablive/sky2.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vPoYbHR.png" group-title="AUSTRALIAN SPORTS",Sky Thoroughbred Central
-https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/stcsd_extreme@569780.m3u8
+https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/stcsd.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/awjQNUP.png" group-title="NZ SPORTS",Sky Sport 1
 http://vstreams.tv:2082/rb0zYNF5GQ/FGWoCyPvwt/2182417
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GzVPLwN.png" group-title="NZ SPORTS",Sky Sport 2
@@ -3772,17 +3774,17 @@ http://ky-iptv.com:80/nicholas/123456789/391500.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/5Star_logo_2019.svg/1920px-5Star_logo_2019.svg.png" group-title="UK",5 Star
 http://ky-iptv.com:80/nicholas/123456789/189874.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Nvme1rf.png" group-title="UK",BBC Alba
-http://ky-iptv.com:80/nicholas/123456789/189893.ts
+https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_alba/mobile_wifi_main_sd_abr_v2_akamai_hls_live_http.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oGzLsiq.png" group-title="UK",BBC One
-http://45.153.35.210:8000/play/UK_bbc_1_sd/index.m3u8
+https://vs-hls-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_one_hd/t=3840/v=pv14/b=5070016/main.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iMfng6J.png" group-title="UK",BBC Two
-http://45.153.35.210:8000/play/UK_bbc_2_sd/index.m3u8
+https://vs-hls-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_two_hd/t=3840/v=pv14/b=5070016/main.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gcpSDKf.png" group-title="UK",BBC Three
-http://ky-iptv.com:80/nicholas/123456789/1851507.ts
+https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_three_hd/t=3840/v=pv14/b=5070016/main.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nywptTp.png" group-title="UK",BBC Four
-http://ky-iptv.com:80/nicholas/123456789/1858077.ts
+https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_four_hd/t=3840/v=pv14/b=5070016/main.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kr2UTHB.png" group-title="UK",BBC Scotland
-http://ky-iptv.com:80/nicholas/123456789/1447404.ts
+https://vs-hls-pushb-uk-live.akamaized.net/content/x=3/v=pv14/b=5070016/t=3840/i=urn:bbc:pips:service:bbc_scotland_hd/main.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/37/CBBC_2016_logo.svg/800px-CBBC_2016_logo.svg.png" group-title="UK",CBBC
 http://ott.riotelecomm.es:4513/m3u8/CBBCHDFIBRA.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XJ9qgU9.png" group-title="UK",Challenge
@@ -3854,13 +3856,13 @@ http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/playlist.m3u8?PlaylistM3
 #EXTINF:-1 tvg-logo="https://i.imgur.com/srtddlN.png" group-title="ARGENTINA",TV Publica
 https://delivery.cdn.rcs.net.ar/mnp/tvp/output.mpd
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Seven_Network_logo.svg/800px-Seven_Network_logo.svg.png" group-title="AUSTRALIA",Seven
-http://stariptv.org:8080/hakim2021/123456/163737
+https://i.mjh.nz/au/Sydney/tv.101305020520.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/96/7two_logo_2020.svg/1920px-7two_logo_2020.svg.png" group-title="AUSTRALIA",7 two
-http://stariptv.org:8080/hakim2021/123456/163739
+https://i.mjh.nz/au/Sydney/tv.101305020522.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/7mate_logo_2020.svg/1920px-7mate_logo_2020.svg.png" group-title="AUSTRALIA",7 mate
-http://stariptv.org:8080/hakim2021/123456/163740
+https://i.mjh.nz/au/Sydney/tv.101305020523.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a3/7flix_logo_2020.svg/1920px-7flix_logo_2020.svg.png" group-title="AUSTRALIA",7 flix
-http://stariptv.org:8080/hakim2021/123456/163741
+https://i.mjh.nz/au/Sydney/tv.101305020525.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/52/Nine2012_Glossed_Logo.png" group-title="AUSTRALIA",Nine
 http://117.20.65.254:9981/stream/channelid/42747721
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BwfInJN.png" group-title="AUSTRALIA",9 Gem
@@ -3870,9 +3872,9 @@ http://117.20.65.254:9981/stream/channelid/1720794045
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5d/9Life_logo.png" group-title="AUSTRALIA",9 Life
 http://58.96.43.228:9981/stream/channelid/1716833621?ticket=CA20F6419ED4C5757185C4AAFF4AFA705CCBC778&profile=pass
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kc6o5Fb.png" group-title="AUSTRALIA",9 Rush
-http://ky-iptv.com:80/nicholas/123456789/189706.ts
+https://i.mjh.nz/au/Sydney/tv.101204200429.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/86/Network_10_logo_2018.svg/800px-Network_10_logo_2018.svg.png" group-title="AUSTRALIA",Ten
-http://stariptv.org:8080/hakim2021/123456/163747
+https://i.mjh.nz/au/Sydney/tv.101406020625.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/10_Peach_logo_2018.svg/1920px-10_Peach_logo_2018.svg.png" group-title="AUSTRALIA",10 Peach
 http://58.96.43.228:9981/stream/channelid/945361245?ticket=94AA6B01B1461FAF2F3C934E67855AFFC40B7E40&profile=pass
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/10_Bold_2018.svg/1920px-10_Bold_2018.svg.png" group-title="AUSTRALIA",10 Bold
@@ -3886,7 +3888,9 @@ https://c.mjh.nz/101002210221
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cavkp7M.png" group-title="AUSTRALIA",ABC TV Plus
 https://c.mjh.nz/abc2
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JjL3rq1.png" group-title="AUSTRALIA",SBS
-http://ky-iptv.com:80/nicholas/123456789/189831.ts
+https://i.mjh.nz/au/Sydney/tv.320203000301.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3OGUuv1.png" group-title="AUSTRALIA",SBS Viceland
+https://i.mjh.nz/au/Sydney/tv.320203000303.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HYAUiPc.png" group-title="AUSTRIA",ATV
 http://live.oldtvline.com:23000/mafrale3-150317/FiiH8aP54u/35341
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Oz5UD3V.png" group-title="AUSTRIA",ATV II
@@ -3948,7 +3952,7 @@ https://d1211whpimeups.cloudfront.net/smil:rtb1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/ABC_Spark_Logo.png" group-title="CANADA",ABC Spark
 http://ky-iptv.com:80/nicholas/123456789/181812.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/w2IwLlA.png" group-title="CANADA",CBC
-http://ky-iptv.com:80/nicholas/123456789/181863.ts
+http://encodercdn1.frontline.ca/encoder181/output/CBC_Toronto_720p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/h1GAgKq.png" group-title="CANADA",City TV
 http://fortv.cc:8080/Rob/Rob2021/57307
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/CTV_logo_2018.svg/1920px-CTV_logo_2018.svg.png" group-title="CANADA",CTV
@@ -3958,9 +3962,9 @@ http://ky-iptv.com:80/nicholas/123456789/181901.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/CTV_Life_Channel_2019.svg/800px-CTV_Life_Channel_2019.svg.png" group-title="CANADA",CTV Life Channel
 http://hdhd.tk:80/772299/772299/18689
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lxbuF5X.png" group-title="CANADA",Global
-http://ky-iptv.com:80/nicholas/123456789/181964.ts
+http://encodercdn1.frontline.ca/encoder184/output/Global_Toronto_720p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cf/Current_Logo_of_Ici_Radio-Canada_T%C3%A9l%C3%A9_%282016-present%29.svg/1920px-Current_Logo_of_Ici_Radio-Canada_T%C3%A9l%C3%A9_%282016-present%29.svg.png" group-title="CANADA",Ici Télé
-https://rcavlive.akamaized.net/hls/live/696615/xcancbft/master.m3u8
+https://rcavlive-dai.akamaized.net/hls/live/696614/cancbftprem/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RyHlWek.png" group-title="CANADA",Omni 1
 http://ky-iptv.com:80/nicholas/123456789/182036.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RyHlWek.png" group-title="CANADA",Omni 2
