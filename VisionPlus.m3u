@@ -482,9 +482,9 @@ http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/playlist.m3
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BWVqlXp.png" group-title="ARABIC ENTERTAINMENT",Dubai TV
 https://dmisxthvll.cdn.mgmlcdn.com/dubaitvht/smil:dubaitv.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/Mbc1logo.png" group-title="ARABIC ENTERTAINMENT",MBC
-http://red.ipfox.org:8080/1234/12345678/32831
+https://shls-mbc1ksa-prod-dub.shahid.net/out/v1/451b666db1fb41c7a4bbecf7b4865107/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xMVcCdM.png" group-title="ARABIC ENTERTAINMENT",MBC 4 
-http://red.ipfox.org:8080/elsayed/elsayed123/32841
+https://shls-mbc4-prod-dub.shahid.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lX1MaAm.png" group-title="ARABIC ENTERTAINMENT",MBC Variety
 http://yassooo.com:8080/Manaf/Manaf123/80268
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fbujCa7.png" group-title="ARABIC ENTERTAINMENT",Fox Life
@@ -1286,7 +1286,7 @@ http://new-pro.tv:8080/Fernando/123321/7584
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0frdE7f.png" group-title="ARABIC SERIES",OSN Series First
 http://new-pro.tv:8080/Fernando/123321/131
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xkx0Vcq.png" group-title="ARABIC SERIES",MBC Action
-http://zinachannels.zinamedia.net/ar-s/mbc-Action/index.m3u8
+https://shls-mbcaction-prod-dub.shahid.net/out/v1/68dd761538e5460096c42422199d050b/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/drJ8hLn.png" group-title="ARABIC SERIES",MBC Drama
 https://shls-mbcdramaksa-prod-dub.shahid.net/out/v1/ce0f0762d89e4394a856c5fd13e43645/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2LCZGGw.png" group-title="ARABIC SERIES",MBC Drama+
@@ -2831,7 +2831,7 @@ http://live.oldtvline.com:23000/mafrale3-150317/FiiH8aP54u/35281
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xjrVVNR.png" group-title="AUSTRIAN SPORTS",Sky Sport Austria 1
 http://live.oldtvline.com:23000/mafrale3-150317/FiiH8aP54u/35278
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GhwEqNU.png" group-title="AUSTRIAN SPORTS",ORF Sport+
-http://live.oldtvline.com:23000/mafrale3-150317/FiiH8aP54u/35284
+https://orfs.mdn.ors.at/out/u/orfs/qxb/manifest.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fubqEnF.png" group-title="SPANISH SPORTS",#Vamos
 http://stariptv.org:8080/nour2020/123456/55971
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gTjSyWH.png" group-title="SPANISH SPORTS",Caza y Pesca
@@ -3901,15 +3901,15 @@ http://live.oldtvline.com:23000/mafrale3-150317/FiiH8aP54u/35341
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Oz5UD3V.png" group-title="AUSTRIA",ATV II
 http://live.oldtvline.com:23000/mafrale3-150317/FiiH8aP54u/35343
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EbcBV8D.png" group-title="AUSTRIA",ORF 1
-http://live.oldtvline.com:23000/mafrale3-150317/FiiH8aP54u/35336
+https://orf1.mdn.ors.at/out/u/orf1/qxb/manifest.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/ORF2_logo_n.svg/1920px-ORF2_logo_n.svg.png" group-title="AUSTRIA",ORF 2
-http://live.oldtvline.com:23000/mafrale3-150317/FiiH8aP54u/35337
+https://orf2.mdn.ors.at/out/u/orf2/qxb/manifest.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BmEjvpp.png" group-title="AUSTRIA",ORF III
-http://live.oldtvline.com:23000/mafrale3-150317/FiiH8aP54u/35338
+https://orf3.mdn.ors.at/out/u/orf3/qxb/manifest.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6fbAshV.png" group-title="AUSTRIA",Puls 4
 http://live.oldtvline.com:23000/mafrale3-150317/FiiH8aP54u/35340
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jefHLMD.png" group-title="AUSTRIA",Servus TV
-http://live.oldtvline.com:23000/mafrale3-150317/FiiH8aP54u/35362
+ttps://stv-live.akamaized.net/hls/live/2031011/lingeoSTVATwebPri/master_6692.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/VRT_Canvas_logo.svg/langfr-1920px-VRT_Canvas_logo.svg.png" group-title="BELGIUM",Canvas
 https://live-vrt.akamaized.net/groupc/live/14a2c0f6-3043-4850-88a5-7fb062fe7f05/live_aes.isml/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b7/E%C3%A9n_public_station_logo_2019.svg/800px-E%C3%A9n_public_station_logo_2019.svg.png" group-title="BELGIUM",Eén
