@@ -543,12 +543,15 @@ https://16live00.akamaized.net/E/index.m3u8
 http://38.127.211.18/live/c2eds/Lifetime/HLS/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/OWN_2011_logo.svg/1920px-OWN_2011_logo.svg.png" group-title="AMERICAN ENTERTAINMENT",Oprah Winfrey Network East
 https://16live00.akamaized.net/OWN/index.m3u8
+#EXTVLCOPT:network-caching=1000
 #EXTINF:-1 tvg-logo="https://i.imgur.com/upM99h1.png" group-title="AMERICAN ENTERTAINMENT",TBS East
-http://stariptv.org:8080/wael2021/123456/148479
+https://tve-live-lln.warnermediacdn.com/hls/live/2023172/tbseast/slate/VIDEO_0_3564000.m3u8
+#EXTVLCOPT:network-caching=1000
 #EXTINF:-1 tvg-logo="https://i.imgur.com/umJbqNY.png" group-title="AMERICAN ENTERTAINMENT",TNT East
-http://stariptv.org:8080/wael2021/123456/148474
+https://tve-live-lln.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_3564000.m3u8
+#EXTVLCOPT:network-caching=1000
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Hg5CBlW.png" group-title="AMERICAN ENTERTAINMENT",TruTV East
-https://16live00.akamaized.net/TRU_TV/index.m3u8
+https://tve-live-lln.warnermediacdn.com/hls/live/2023176/trueast/slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ypwYHcA.png" group-title="PINOY ENTERTAINMENT",GMA Life TV
 http://platinumxmedia.xyz:8080/live/Instahub/bxL8msMEF2V3/49289.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/a8ISfyz.png" group-title="PINOY ENTERTAINMENT",GMA Pinoy TV USA & Canada
@@ -3742,16 +3745,18 @@ https://tvnow.best/api/stream/mjma7584@icloud.com/472796/livetv.epg/abc.wabc.new
 https://v-ny.mybtv.net/live/645.m3u8
 #EXTVLCOPT:network-caching=1000
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KJR6lt0.png" group-title="USA",CBS East
-https://tvnow.best/api/stream/mjma7584@icloud.com/472796/livetv.epg/cbs.wcbs.new.york.ny.us.m3u8
+#EXTVLCOPT:network-caching=1000
+https://v-ny.theus6tv.tk/hls/2.1/playlist.m3u8
 #EXTVLCOPT:network-caching=1000
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Q6AoC5h.png" group-title="USA",Fox East
 https://tvnow.best/api/stream/mjma7584@icloud.com/472796/livetv.epg/fox.wnyw.new.york.ny.us.m3u8
 #EXTVLCOPT:network-caching=1000
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OzHkxwZ.png" group-title="USA",NBC East
-https://tvnow.best/api/stream/mjma7584@icloud.com/472796/livetv.epg/nbc.wnbc.new.york.ny.us.m3u8
+#EXTVLCOPT:network-caching=1000
+https://v-ny.theus6tv.tk/hls/4.1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/33/PBS_logo.svg/1920px-PBS_logo.svg.png" group-title="USA",PBS East
 #EXTVLCOPT:network-caching=1000
-https://v-ny.mybtv.net/live/575.m3u8
+https://v-ny.theus6tv.tk/hls/21.1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ydm3Ss2.png" group-title="USA",Telemundo Este
 #EXTVLCOPT:network-caching=1000
 https://wmaqlive-f.akamaihd.net/i/CHICAGO_STREAM4@24420/master.m3u8
