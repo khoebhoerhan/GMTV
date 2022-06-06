@@ -514,7 +514,7 @@ http://5gfksa.ltd:2052/334455/554433/84283
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/E%21_Logo_2012.svg/320px-E%21_Logo_2012.svg.png" group-title="BRASILIAN ENTERTAINMENT",E! Brasil
 http://5gfksa.ltd:2052/334455/554433/84368
 #EXTINF:-1 tvg-logo="https://i.imgur.com/71d2wEk.png" group-title="BRASILIAN ENTERTAINMENT",Paramount Network Brasil
-http://200.24.92.20:4000/play/a045
+http://200.220.133.82:8000/play/PARAMOUNT
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/1920px-SpaceLogo.svg.png" group-title="BRASILIAN ENTERTAINMENT",Space Brasil
 http://170.82.200.38:8080/space/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wzmQrcy.png" group-title="BRASILIAN ENTERTAINMENT",Star Channel Brasil
@@ -658,7 +658,7 @@ http://ky-iptv.com:80/Bobby12345/Bobby12345/1806798.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6R8N3z2.png" group-title="ASIAN MUSIC",SBS MTV
 https://www.navchina.cf/IPTV/sbs.php?id=S09
 #EXTINF:-1 tvg-logo="https://i.imgur.com/X7VxlBN.png" group-title="WORLD MUSIC",MTV Brasil
-http://5gfksa.ltd:2052/334455/554433/84238
+http://187.85.237.8:8825/ipvt_004
 #EXTINF:-1 tvg-logo="https://i.imgur.com/B9evyCe.png" group-title="WORLD MUSIC",Polsat Music
 http://ky-iptv.com:80/Bobby12345/Bobby12345/219099.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c9/M6_Music_%282012%29.png" group-title="WORLD MUSIC",M6 Music
@@ -3454,15 +3454,15 @@ http://ccdn.ai:80/J5yx1/679TQJtyy/72211.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ed/Canal-combate-logo.png" group-title="BRASILIAN SPORTS",Combate
 http://cdn.teambr.live:80/4659753/6536874/59
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1920px-ESPN_wordmark.svg.png" group-title="BRASILIAN SPORTS",ESPN Brasil
-http://cdn.teambr.live:80/4659753/6536874/77
+http://200.220.133.82:8000/play/ESPN_BRASIL
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/1280px-ESPN2_logo.svg.png" group-title="BRASILIAN SPORTS",ESPN 2 Brasil
-http://cdn.teambr.live:80/4659753/6536874/40692
+http://200.220.133.82:8000/play/ESPN
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Crvxgth.png" group-title="BRASILIAN SPORTS",ESPN 3 Brasil
-http://cdn.teambr.live:80/4659753/6536874/76
+http://200.220.133.82:8000/play/ESPN_2
 #EXTINF:-1 tvg-logo="https://i.imgur.com/89RCPvg.png" group-title="BRASILIAN SPORTS",ESPN 4 Brasil
-http://cdn.teambr.live:80/4659753/6536874/87
+http://200.220.133.82:8000/play/FOX_SPORTS
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sIUdUaB.png" group-title="BRASILIAN SPORTS",ESPN Extra Brasil
-http://cdn.teambr.live:80/4659753/6536874/514
+http://200.220.133.82:8000/play/ESPN_EXTRA
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DpnatBM.png" group-title="BRASILIAN SPORTS",Fox Sports 2 Brasil
 http://170.82.200.38:8080/fox_sports_2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/a2/Logo_Premiere_FC_2018.png" group-title="BRASILIAN SPORTS",Premiere Clubes
