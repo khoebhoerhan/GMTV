@@ -427,6 +427,14 @@ https://liveanevia.mncnow.id/live/eds/NHKWorldPremium/sa_dash_vmx/NHKWorldPremiu
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=fb764610dca2eaf4a4ea4fa216af8110&key=6a9fca876b7b999b1a7b414a0bd44b4e
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kTEWNTp.png" group-title="CHINESE ENTERTAINMENT",Astro AEC
 https://tv.kpsvpn.com/aec.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=5886987a4cd069a764fb582186383810&key=8bf71b113d30e7edc53e2b55864fe039
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FTvi5XK.png" group-title="CHINESE ENTERTAINMENT",Astro Quan Jia HD
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2507/default_primary.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=2019dd03e75adfc2f58ec94eff26d810&key=79dc64991db24e051b3cb7b39e59e8c3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1gcbcVx.png" group-title="CHINESE ENTERTAINMENT",Astro Shuang Xing
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2403/default_primary.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BQoyBoS.png" group-title="CHINESE ENTERTAINMENT",CCTV 4 Asia
 http://183.207.248.71:80/cntv/live1/cctv-4/cctv-4
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/8/87/TDM_Ou_Mun_Macau_logo.png" group-title="CHINESE ENTERTAINMENT",TDM Macau
@@ -3056,6 +3064,10 @@ https://tv.kpsvpn.com/sport4.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=113d6e58ea7e223e3fb4a9af3e927010&key=dc86f5d82e5dfaa0fbb22d220e023b7c
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FieopQP.png" group-title="MALAY SPORTS",Astro Supersport 5
 http://linearjitp-playback.astro.com.my/dash-wv/linear/5059/default_ott.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/1602/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LYiJwL9.png" group-title="MALAY SPORTS",Astro UHD
+https://linearjitp-playback.astro.com.my/dash-wv/linear/1602/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=7299bdb9de13b235cda94cd5063ab810&key=247ed97854d185349998873672294cad
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ycxjpTX.png" group-title="MALAY SPORTS",Eurosport Asia
