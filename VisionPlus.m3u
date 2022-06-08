@@ -428,6 +428,10 @@ https://liveanevia.mncnow.id/live/eds/NHKWorldPremium/sa_dash_vmx/NHKWorldPremiu
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kTEWNTp.png" group-title="CHINESE ENTERTAINMENT",Astro AEC
 https://tv.kpsvpn.com/aec.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=d8cc914692987662d5beeed2a84ecf10&key=1ad7af3abe78cece01e7a772dd88a09b
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Jr8Wlar.png" group-title="CHINESE ENTERTAINMENT",Astro AOD 311
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2706/default_primary.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=5886987a4cd069a764fb582186383810&key=8bf71b113d30e7edc53e2b55864fe039
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FTvi5XK.png" group-title="CHINESE ENTERTAINMENT",Astro Quan Jia HD
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2507/default_primary.mpd
@@ -1474,6 +1478,10 @@ http://203.154.177.124:8899/live/ch20/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=6b398595696c2d609a8a1c3dc27af710&key=cf14a926974812acaadcc2c986f7ed4d
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EVNoaz5.png" group-title="KIDS",Ta-daa!
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5024/default_primary.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=f5f27fe9eb27df6fc1baf702421edb10&key=3942434ec0c37db16af8908d3b65ad61
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zrhBDR6.png" group-title="KIDS",Moonbug Kids
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5067/default_primary.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6d/Da_Vinci_Kids_logo.svg/1920px-Da_Vinci_Kids_logo.svg.png" group-title="KIDS",Da Vinci Asia
 https://vips-livecdn.fptplay.net/hda2/davincihd_vhls.smil/playlist.m3u8
