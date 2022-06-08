@@ -1555,8 +1555,6 @@ https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(abe4ead2-1a88-4
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=ea24fcf5a4e5a1a25a8d118c088dc510&key=effd0dfaddcd0e533314d5305abe031c
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/DMAX_Logo_16_05_2011.jpg" group-title="KNOWLEDGE",DMAX Southeast Asia
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2610/default_primary.mpd
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0AmSSFS.png" group-title="KNOWLEDGE",Astro TVIQ
-http://139.99.71.104:8888/live/blink9/l17ht18oin/37398.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mThnlFK.png" group-title="KNOWLEDGE",Smithsonian Channel
 https://smithsonianaus-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5QGgJe8.png" group-title="KNOWLEDGE",Love Nature 4K
