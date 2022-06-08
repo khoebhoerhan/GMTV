@@ -1865,7 +1865,7 @@ https://monchyxd.herokuapp.com/iptv-query?streaming-ip=https://www.dailymotion.c
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0c/La_Cha%C3%AEne_Info_%28logo%29.svg/1920px-La_Cha%C3%AEne_Info_%28logo%29.svg.png" group-title="FRENCH NEWS",LCI
 https://lci-das-live-ssl.tf1.fr/video/b6eS7WiIVdG2jBJ-AkZ96A/1654667229/out/v1/3949f9922e0046a0926e11f8687e1c1a/index.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/v7Zj0iJ.png" group-title="FRENCH NEWS",TV5 Monde Info
-http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/index.m3u8
+https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wWHiR9B.png" group-title="FRENCH NEWS",LN24
 https://hls-origin01-ln24.cdn01.rambla.be/adliveorigin-ln24/_definst_/ApYjOq.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/RTS_Info_logo_2019.svg/1920px-RTS_Info_logo_2019.svg.png" group-title="FRENCH NEWS",RTS Info
@@ -1875,7 +1875,7 @@ http://stariptv.org:8080/nour2020/123456/44582
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eqE5cJ6.png" group-title="GERMAN NEWS",tagesschau 24
 https://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1c/SRF_info_logo.svg/1920px-SRF_info_logo.svg.png" group-title="GERMAN NEWS",SRF Info
-http://stariptv.org:8080/hakim2021/123456/102123
+http://stariptv.org:8080/nour2020/123456/102123
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Rai_News_24_logo_%282022%29.svg/1920px-Rai_News_24_logo_%282022%29.svg.png" group-title="ITALIAN NEWS",Rai News 24
@@ -4126,7 +4126,7 @@ http://stariptv.org:8080/nour2020/123456/56236
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/CStar_vector.svg/1920px-CStar_vector.svg.png" group-title="FRANCE",C Star
 http://callofliberty.fr/stream/CSTAR/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nU3uBzG.png" group-title="FRANCE",France 2
-http://stariptv.org:8080/nour2020/123456/56268
+http://callofliberty.fr/stream/france.2/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MDwoxj5.png" group-title="FRANCE",France 3
 http://stariptv.org:8080/nour2020/123456/56269
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5TrhpoO.png" group-title="FRANCE",France 4
