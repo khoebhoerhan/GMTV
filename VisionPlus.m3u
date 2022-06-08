@@ -150,11 +150,11 @@ http://103.23.201.170:1935/live/livestream/chunklist_w1352763317.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/U5jiuuM.png" group-title="LOKAL",Dayak TV
 https://v4.siar.us/dayaktv/livestream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qio9YhR.png" group-title="LOKAL",Duta TV
-https://dutatv.siar.us/dutatv/live/playlist.m3u8
+https://o1.siar.us/dutatv/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9MLGhEL.png" group-title="LOKAL",Efarina TV
 https://d5ylslorfcw61.cloudfront.net/hls/6ax0fnygpcltf81k.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/ElshintaTV2019.png" group-title="LOKAL",Elshinta TV
-http://210.210.155.35/is6knm/s/s10/01.m3u8
+http://rrelshinta.dens.tv/s/s10/index2.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5zdZADe.png" group-title="LOKAL",Fajar TV
 http://122.248.43.138:1935/ch27/myStream/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pposm6w.png" group-title="LOKAL",Huma Betang TV
@@ -166,7 +166,7 @@ https://liveanevia.mncnow.id/live/eds/JakTV/sa_dash_vmx/JakTV.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/T3As0Kq.png" group-title="LOKAL",Jambi TV
 http://wowza58.indostreamserver.com:1935/jambitv/live/chunklist_w1308495282.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4eGZB6u.png" group-title="LOKAL",Jawa Pos TV
-https://jawapostv.siar.us/jawapostv/live/playlist.m3u8
+https://v2.siar.us/jawapostv/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ljPmr26.png" group-title="LOKAL",Jaya TV
 https://h1.intechmedia.net/intech/ch52.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QlYYQ9q.png" group-title="LOKAL",Jek TV
@@ -201,6 +201,8 @@ http://wowza58.indostreamserver.com:1935/pktv/live/manifest_w1744789008.mpd
 https://v3.siar.us/pontianaktelevisi/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1rRqAqG.png" group-title="LOKAL",Prima TV
 http://primatv.onlivestreaming.net/primatv/livestream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/M7qY8bU.png" group-title="LOKAL",Puja TV
+https://v6.siar.us/pujatv/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1azIvKT.png" group-title="LOKAL",Radar TV Lampung
 http://122.248.43.138:1935/ch17/myStream/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/t3LLTum.png" group-title="LOKAL",RBTV
@@ -221,12 +223,16 @@ http://122.248.43.138:1935/ch4/myStream/live.m3u8
 http://122.248.43.138:1935/ch25/myStream/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/L8miEQe.png" group-title="VISUAL RADIO",Suara Surabaya
 https://ssfm.siar.us/ssfm/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8U6jg6T.png" group-title="LOKAL",Surabaya TV
+https://v3.siar.us/surabayatv/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/a/af/TATV_logo.svg/400px-TATV_logo.svg.png" group-title="LOKAL",TATV
 https://v2.siar.us/tatv/live.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lWB1g9s.png" group-title="LOKAL",Tegar TV Lampung
 http://wms.klikhost.com:1935/tegartv/tegartv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/t6LL3kr.png" group-title="LOKAL",Tegar TV Jogja
 http://wms.klikhost.com:1935/tegarjogja/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NftAUY4.png" group-title="LOKAL",TV Tabalong
+https://5bf7b725107e5.streamlock.net/tvtabalong/tvtabalong/chunklist_w1395725734.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/9/91/TVKU-BChannel.png" group-title="LOKAL",TVKU
 http://103.30.1.14:8080/hls/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wHo2EvN.png" group-title="LOKAL",TVTPI
