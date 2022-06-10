@@ -25,10 +25,9 @@ https://ott-navigator.my.id/vidio/vidio_master.m3u8?channel=sctv
 #EXTVLCOPT:http-user-agent=otto-aplikasi
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/1000px-Indosiar_2015.svg.png" group-title="NASIONAL",Indosiar
 https://ott-navigator.my.id/vidio/vidio_master.m3u8?channel=indosiar
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MGRhNmU1M2UtNGE3Ni0zZGRkLWJhMmQtYTFmMzE2YTRlMTY3
+#EXTVLCOPT:http-user-agent=otto-aplikasi
 #EXTINF:-1 tvg-logo="https://i.imgur.com/w2eOFdH.png" group-title="NASIONAL",O Channel
-http://playlist.urfan.web.id/qwr9ew/s/s41/01.m3u8
+https://ott-navigator.my.id/vidio/vidio_master.m3u8?channel=ochannel
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MjhkOWZkZjYtOGViOC0zNTkzLWFhOWEtNGFhMzJkMDk3NGE2
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sDmXVSm.png" group-title="NASIONAL",ANTV
