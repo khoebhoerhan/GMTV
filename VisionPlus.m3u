@@ -19,14 +19,12 @@ https://video.detik.com/transtv/smil:transtv.smil/chunklist_w962267898_b744100_s
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=N2NlNGIzZDgtMDIzYi0zZjU4LTg3ZDMtZjVjNDJlMzQwNjJh
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/7/79/Trans_7_2013.svg/1280px-Trans_7_2013.svg.png" group-title="NASIONAL",Trans 7
 https://video.detik.com/trans7/smil:trans7.smil/chunklist_w1791373024_b744100_sleng.m3u8
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=N2NlNGIzZDgtMDIzYi0zZjU4LTg3ZDMtZjVjNDJlMzQwNjJh
+#EXTVLCOPT:http-user-agent=otto-aplikasi
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/1280px-SCTV_Logo.svg.png" group-title="NASIONAL",SCTV
-http://playlist.urfan.web.id/qwr9ew/s/s03/01.m3u8
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=N2NlNGIzZDgtMDIzYi0zZjU4LTg3ZDMtZjVjNDJlMzQwNjJh
+https://ott-navigator.my.id/vidio/vidio_master.m3u8?channel=sctv
+#EXTVLCOPT:http-user-agent=otto-aplikasi
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/1000px-Indosiar_2015.svg.png" group-title="NASIONAL",Indosiar
-http://playlist.urfan.web.id/qwr9ew/s/s04/01.m3u8
+https://ott-navigator.my.id/vidio/vidio_master.m3u8?channel=indosiar
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MGRhNmU1M2UtNGE3Ni0zZGRkLWJhMmQtYTFmMzE2YTRlMTY3
 #EXTINF:-1 tvg-logo="https://i.imgur.com/w2eOFdH.png" group-title="NASIONAL",O Channel
@@ -2705,16 +2703,26 @@ http://ky-iptv.com:80/nicholas/123456789/182053.ts
 http://showflix.org:5890/123456789/123456789/141984
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/97/Rds_info.svg/1920px-Rds_info.svg.png" group-title="CANADIAN SPORTS",RDS Info
 http://showflix.org:5890/123456789/123456789/141985
+#EXTVLCOPT:http-user-agent=otto-aplikasi
+#EXTVLCOPT:http-referrer=https://player.licenses4.me
 #EXTINF:-1 tvg-logo="https://i.imgur.com/v48ueao.png" group-title="CANADIAN SPORTS",TSN1
-http://38.91.57.12:2082/tsn1/tracks-v1a1/mono.m3u8
+https://ott-navigator.my.id/sports/tsn/master.m3u8?id=001
+#EXTVLCOPT:http-user-agent=otto-aplikasi
+#EXTVLCOPT:http-referrer=https://player.licenses4.me
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HvPyPov.png" group-title="CANADIAN SPORTS",TSN2
-http://38.91.57.12:2082/tsn2/tracks-v1a1/mono.m3u8
+https://ott-navigator.my.id/sports/tsn/master.m3u8?id=002
+#EXTVLCOPT:http-user-agent=otto-aplikasi
+#EXTVLCOPT:http-referrer=https://player.licenses4.me
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NwjWSff.png" group-title="CANADIAN SPORTS",TSN3
-http://38.91.57.12:2082/tsn3/tracks-v1a1/mono.m3u8
+https://ott-navigator.my.id/sports/tsn/master.m3u8?id=003
+#EXTVLCOPT:http-user-agent=otto-aplikasi
+#EXTVLCOPT:http-referrer=https://player.licenses4.me
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5aQ01F1.png" group-title="CANADIAN SPORTS",TSN4
-http://38.91.57.12:2082/tsn4/tracks-v1a1/mono.m3u8
+https://ott-navigator.my.id/sports/tsn/master.m3u8?id=004
+#EXTVLCOPT:http-user-agent=otto-aplikasi
+#EXTVLCOPT:http-referrer=https://player.licenses4.me
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uoy75nW.png" group-title="CANADIAN SPORTS",TSN5
-http://38.91.57.12:2082/tsn5/tracks-v1a1/mono.m3u8
+https://ott-navigator.my.id/sports/tsn/master.m3u8?id=005
 #EXTINF:-1 tvg-logo="https://i.imgur.com/p0k54D9.png" group-title="POLISH SPORTS",Canal + Sport Polska
 http://stariptv.org:8080/nour2020/123456/71523
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Xz33IHR.png" group-title="POLISH SPORTS",Canal + Sport 2 Polska
