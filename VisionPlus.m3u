@@ -323,13 +323,12 @@ https://liveanevia.mncnow.id/live/eds/OKTV/sa_dash_vmx/OKTV.mpd
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(18564c27-ff44-4d62-9fab-dcb417fcb93f)/manifest.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WS8GnIB.png" group-title="NATIONAL ENTERTAINMENT",The Indonesia Channel
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(20baf7aa-fd51-480f-87b3-dc4198090e86)/manifest.mpd
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTVLCOPT:http-user-agent=otto-aplikasi
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ibh5oCE.png" group-title="NATIONAL ENTERTAINMENT",Citra Entertainment
-https://seulangatv.xyz/vd/get.m3u8?id=6402
+https://ott-navigator.my.id/vidio/vidio_master.m3u8?channel=citraentertainment
+#EXTVLCOPT:http-user-agent=otto-aplikasi
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KiRHdpz.png" group-title="NATIONAL ENTERTAINMENT",Citra Drama
-https://seulangatv.xyz/vd/get.m3u8?id=6401
+https://ott-navigator.my.id/vidio/vidio_master.m3u8?channel=citradrama
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=217e77e40cf4ec1269ea1e278eb2c610&key=b2a2333955933b7dc3d71e7685971f71
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cyIsVd7.png" group-title="NATIONAL ENTERTAINMENT",Astro Aura
@@ -717,11 +716,9 @@ https://tv.kpsvpn.com/citra.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://seulangatv.com/license/bioskopindonesia
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EX7AKlL.png" group-title="NATIONAL MOVIES",Bioskop Indonesia
 https://seulangatv.com/useeTV/mpd/bioskopindonesia.mpd
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTVLCOPT:http-user-agent=otto-aplikasi
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lN20Oy7.png" group-title="NATIONAL MOVIES",Citra Bioskop
-https://seulangatv.xyz/vd/get.m3u8?id=6684
+https://ott-navigator.my.id/vidio/vidio_master.m3u8?channel=citrabioskop
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://seulangatv.com/license/flik
 #EXTINF:-1 tvg-logo="https://i.imgur.com/khhBdiS.png" group-title="NATIONAL MOVIES",Flik
@@ -1441,8 +1438,9 @@ http://45.91.134.57:25461/sweet/7749/11137
 https://liveanevia.mncnow.id/live/eds/KidsChannel/sa_dash_vmx/KidsChannel.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aBg0Ge4.png" group-title="KIDS",Biznet Kids
 http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/playlist.m3u8?bizkeylivestarttime=0&bizkeyliveendtime=0&bizkeyliveCustomParameter=myParameter&bizkeylivehash=qAri1M2xu_MAlnHwVRtOs24lR8Y_HSDijN2CRNghifUllhYqQSDlkd0qE8CkZwxC
+#EXTVLCOPT:http-user-agent=otto-aplikasi
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BgIUxdy.png" group-title="KIDS",Mentari TV
-ttps://seulangatv.xyz/vd/get.m3u8?id=8237
+https://ott-navigator.my.id/vidio4/master.m3u8?channel=MENTARITV
 #EXTINF:-1 tvg-logo="https://i.imgur.com/V2n8iDR.png" group-title="KIDS",Spacetoon
 http://stream1.ninmedia.tv:1935/spacetoon/udp.stream_360p/chunklist_w1596438578.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1587,6 +1585,8 @@ https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
 https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VaoRtdn.png" group-title="KNOWLEDGE",Lingua Channel
 https://nonton.site:8443/Thopani/Haidir/14944
+#EXTINF:-1 tvg-logo="https://i.imgur.com/X5hWh3L.png" group-title="KNOWLEDGE",Pet TV
+https://ott-navigator.my.id/vidio/vidio_master.m3u8?channel=pettv
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bc/Science_Channel_2016.png" group-title="KNOWLEDGE",Science
 https://16live00.akamaized.net/DISCOVERY_SCIENCE/index.m3u8
 #KODIPROP:inputstream=inputstream.adaptive
@@ -1869,11 +1869,11 @@ http://streamvideol1.luxnet.ua/news24/news24.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Rada_TV_%282021%29.svg/1920px-Rada_TV_%282021%29.svg.png" group-title="UKRAINIAN NEWS",Рада
 https://rada-rtmp.adamant.net/hls/rada.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Ukraine24_logo.svg/1920px-Ukraine24_logo.svg.png" group-title="UKRAINIAN NEWS",Україна 24
-https://kv-k21-mc02.ollcdn.net/trku-live/20/a5d0f259a48c6bef7e875a438724b9c6/61eb41f8/ukraina24/ukraina24.m3u8
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCMp5Buw-6LpbbV9r9Sl_5yg/live
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b6/Logo_BFM_TV_%282019%29.png" group-title="FRENCH NEWS",BFM TV
-http://callofliberty.fr/stream/BFMTV/index.m3u8
+http://callofliberty.fr/stream/BFMTV/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Canal_News_logo.svg/1920px-Canal_News_logo.svg.png" group-title="FRENCH NEWS",C News
 http://hls-m010.live-lv3.canalplus-cdn.net/live/disk/cnews-clair-hd/ios-v3-hd-clair/cnews-clair-hd-audio_20000=96000-video=3400000.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/40Zq0TK.png" group-title="FRENCH NEWS",Franceinfo
@@ -2183,21 +2183,15 @@ https://liveanevia.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MjhkOWZkZjYtOGViOC0zNTkzLWFhOWEtNGFhMzJkMDk3NGE2
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WbPfNOb.png" group-title="NATIONAL SPORTS",SPOTV 2
 https://liveanevia.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTVLCOPT:http-user-agent=otto-aplikasi
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ffWoTF9.png" group-title="NATIONAL SPORTS",Champions TV 1
-https://www.seulangatv.xyz/vd/get.m3u8?id=6685
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+https://ott-navigator.my.id/vidio/vidio_master.m3u8?channel=championstv1
+#EXTVLCOPT:http-user-agent=otto-aplikasi
 #EXTINF:-1 tvg-logo="https://i.imgur.com/r2aPCX8.png" group-title="NATIONAL SPORTS",Champions TV 2
-https://www.seulangatv.xyz/vd/get.m3u8?id=6686
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+https://ott-navigator.my.id/vidio/vidio_master.m3u8?channel=championstv2
+#EXTVLCOPT:http-user-agent=otto-aplikasi
 #EXTINF:-1 tvg-logo="https://i.imgur.com/26Jar5R.png" group-title="NATIONAL SPORTS",Champions TV 3
-https://www.seulangatv.xyz/vd/get.m3u8?id=6786
+https://ott-navigator.my.id/vidio/vidio_master.m3u8?channel=championstv3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
@@ -2286,20 +2280,34 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
 https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/39bwyGI.png" group-title="ARABIC SPORTS",beIN Sports
 http://stariptv.org:8080/nour2020/123456/22186
+#EXTVLCOPT:http-user-agent=otto-aplikasi
+#EXTVLCOPT:http-referrer=https://player.licenses4.me
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MRULdc8.png" group-title="ARABIC SPORTS",beIN Sports 1
-http://stariptv.org:8080/nour2020/123456/141548
+https://ott-navigator.my.id/sports/beinsports/master_beinsports.m3u8?id=Bein1
+#EXTVLCOPT:http-user-agent=otto-aplikasi
+#EXTVLCOPT:http-referrer=https://player.licenses4.me
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NDp6TlM.png" group-title="ARABIC SPORTS",beIN Sports 2
-http://stariptv.org:8080/nour2020/123456/141549
+https://ott-navigator.my.id/sports/beinsports/master_beinsports.m3u8?id=Bein2
+#EXTVLCOPT:http-user-agent=otto-aplikasi
+#EXTVLCOPT:http-referrer=https://player.licenses4.me
 #EXTINF:-1 tvg-logo="https://i.imgur.com/j8VC6nB.png" group-title="ARABIC SPORTS",beIN Sports 3
-http://stariptv.org:8080/nour2020/123456/141550
+https://ott-navigator.my.id/sports/beinsports/master_beinsports.m3u8?id=Bein3
+#EXTVLCOPT:http-user-agent=otto-aplikasi
+#EXTVLCOPT:http-referrer=https://player.licenses4.me
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Lu26Yho.png" group-title="ARABIC SPORTS",beIN Sports 4
-http://stariptv.org:8080/nour2020/123456/141551
+https://ott-navigator.my.id/sports/beinsports/master_beinsports.m3u8?id=Bein4
+#EXTVLCOPT:http-user-agent=otto-aplikasi
+#EXTVLCOPT:http-referrer=https://player.licenses4.me
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pA5by2y.png" group-title="ARABIC SPORTS",beIN Sports 5
-http://stariptv.org:8080/nour2020/123456/141552
+https://ott-navigator.my.id/sports/beinsports/master_beinsports.m3u8?id=Bein5
+#EXTVLCOPT:http-user-agent=otto-aplikasi
+#EXTVLCOPT:http-referrer=https://player.licenses4.me
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mbFoSUX.png" group-title="ARABIC SPORTS",beIN Sports 6
-http://stariptv.org:8080/nour2020/123456/141553
+https://ott-navigator.my.id/sports/beinsports/master_beinsports.m3u8?id=Bein6
+#EXTVLCOPT:http-user-agent=otto-aplikasi
+#EXTVLCOPT:http-referrer=https://player.licenses4.me
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eHCosqi.png" group-title="ARABIC SPORTS",beIN Sports 7
-http://stariptv.org:8080/nour2020/123456/141554
+https://ott-navigator.my.id/sports/beinsports/master_beinsports.m3u8?id=Bein7
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BZ5jcea.png" group-title="ARABIC SPORTS",beIN Sports NBA
 http://stariptv.org:8080/nour2020/123456/150161
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TG2eNPO.png" group-title="ARABIC SPORTS",beIN Sports News
@@ -2326,12 +2334,18 @@ http://stariptv.org:8080/nour2020/123456/165083
 http://stariptv.org:8080/nour2020/123456/165084
 #EXTINF:-1 tvg-logo="https://i.imgur.com/srteRe1.png" group-title="ARABIC SPORTS",beIN Sports French 3
 http://stariptv.org:8080/nour2020/123456/165085
+#EXTVLCOPT:http-user-agent=otto-aplikasi
+#EXTVLCOPT:http-referrer=https://player.licenses4.me
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CwlNjXQ.png" group-title="ARABIC SPORTS",beIN Sports Premium 1
-http://stariptv.org:8080/nour2020/123456/141563
+https://ott-navigator.my.id/sports/beinsports/master_beinsports.m3u8?id=Premium1
+#EXTVLCOPT:http-user-agent=otto-aplikasi
+#EXTVLCOPT:http-referrer=https://player.licenses4.me
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ns7isEP.png" group-title="ARABIC SPORTS",beIN Sports Premium 2
-http://stariptv.org:8080/nour2020/123456/141564
+https://ott-navigator.my.id/sports/beinsports/master_beinsports.m3u8?id=Premium2
+#EXTVLCOPT:http-user-agent=otto-aplikasi
+#EXTVLCOPT:http-referrer=https://player.licenses4.me
 #EXTINF:-1 tvg-logo="https://i.imgur.com/T7UlxCI.png" group-title="ARABIC SPORTS",beIN Sports Premium 3
-http://stariptv.org:8080/nour2020/123456/141565
+https://ott-navigator.my.id/sports/beinsports/master_beinsports.m3u8?id=Premium3
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MRULdc8.png" group-title="TURKISH SPORTS",beIN Sports 1 Türkiye
 http://new-pro.tv:8080/Fernando/123321/33497
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NDp6TlM.png" group-title="TURKISH SPORTS",beIN Sports 2 Türkiye
@@ -2360,8 +2374,14 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/5013/default_ott.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=ec837724b4265d2e127e65c542aee410&key=0ce930620687ab1df1cf6544f2dc0013
 #EXTINF:-1 tvg-logo="https://i.imgur.com/j8VC6nB.png" group-title="MALAY SPORTS",beIN Sports 3 Malaysia & Singapore
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2705/default_ott.mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MRULdc8.png" group-title="THAI SPORTS",beIN Sports 1 Thailand
 https://smart-tv.livedoomovies.com:4431/02_epl1_720p/chunklist.m3u8|Referer=https://www.movie87hd.com/?r=ajax
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NDp6TlM.png" group-title="THAI SPORTS",beIN Sports 2 Thailand
 https://smart-tv.livedoomovies.com:4431/02_epl2_720p/chunklist.m3u8|Referer=https://www.movie87hd.com/?r=ajax
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LfzLKei.png" group-title="AMERICAN SPORTS",beIN Sports en Español
@@ -2390,18 +2410,28 @@ http://stariptv.org:8080/wael2021/123456/148496
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2603/default_primary.mpd
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c8/BoxNation2014Logo.png" group-title="BRITISH SPORTS",Box Nation
 http://stariptv.org:8080/nour2020/123456/9395
+#EXTVLCOPT:http-user-agent=otto-aplikasi
+#EXTVLCOPT:http-referrer=https://player.licenses4.me
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7dg7EB7.png" group-title="BRITISH SPORTS",BT Sport 1
-http://stariptv.org:8080/nour2020/123456/9342
+https://ott-navigator.my.id/sports/btsports/master_btsports.m3u8?id=001
+#EXTVLCOPT:http-user-agent=otto-aplikasi
+#EXTVLCOPT:http-referrer=https://player.licenses4.me
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sIIFREX.png" group-title="BRITISH SPORTS",BT Sport 2
-http://stariptv.org:8080/nour2020/123456/9341
+https://ott-navigator.my.id/sports/btsports/master_btsports.m3u8?id=002
+#EXTVLCOPT:http-user-agent=otto-aplikasi
+#EXTVLCOPT:http-referrer=https://player.licenses4.me
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8IzsrMb.png" group-title="BRITISH SPORTS",BT Sport 3
-http://stariptv.org:8080/nour2020/123456/9272
+https://ott-navigator.my.id/sports/btsports/master_btsports.m3u8?id=003
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YcrrywD.png" group-title="BRITISH SPORTS",BT Sport / ESPN
 http://stariptv.org:8080/nour2020/123456/9258
+#EXTVLCOPT:http-user-agent=otto-aplikasi
+#EXTVLCOPT:http-referrer=https://player.licenses4.me
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gwV31E0.png" group-title="BRITISH SPORTS",Eurosport 1 UK
-http://stariptv.org:8080/nour2020/123456/16127
+https://ott-navigator.my.id/sports/eurosport/master.m3u8?id=eurosport1
+#EXTVLCOPT:http-user-agent=otto-aplikasi
+#EXTVLCOPT:http-referrer=https://player.licenses4.me
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lTnKDju.png" group-title="BRITISH SPORTS",Eurosport 2 UK
-http://stariptv.org:8080/nour2020/123456/16126
+https://ott-navigator.my.id/sports/eurosport/master.m3u8?id=eurosport2
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LwYHFLx.png" group-title="BRITISH SPORTS",Free Sports
 http://server.sibfungold.info:8080/gaicu84/iVMgaicu84DNfwV/52843
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qbjcgcS.png" group-title="BRITISH SPORTS",La Liga TV
@@ -2414,24 +2444,38 @@ http://stariptv.org:8080/nour2020/123456/9320
 http://new-pro.tv:8080/Fernando/123321/68553
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jM1FeOX.png" group-title="BRITISH SPORTS",Sky Sports Action
 http://stariptv.org:8080/nour2020/123456/55389
+#EXTVLCOPT:http-user-agent=otto-aplikasi
+#EXTVLCOPT:http-referrer=https://player.licenses4.me
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eZwExGu.png" group-title="BRITISH SPORTS",Sky Sports Arena
-http://stariptv.org:8080/nour2020/123456/55388
+https://ott-navigator.my.id/sports/skysports/master_skysports.m3u8?id=arena
+#EXTVLCOPT:http-user-agent=otto-aplikasi
+#EXTVLCOPT:http-referrer=https://player.licenses4.me
 #EXTINF:-1 tvg-logo="https://i.imgur.com/J8zzS2v.png" group-title="BRITISH SPORTS",Sky Sports Cricket
-http://stariptv.org:8080/nour2020/123456/55387
+https://ott-navigator.my.id/sports/skysports/master_skysports.m3u8?id=cricket
+#EXTVLCOPT:http-user-agent=otto-aplikasi
+#EXTVLCOPT:http-referrer=https://player.licenses4.me
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2kPW5qw.png" group-title="BRITISH SPORTS",Sky Sports F1
-http://stariptv.org:8080/nour2020/123456/55383
+https://ott-navigator.my.id/sports/skysports/master_skysports.m3u8?id=skysportF1
+#EXTVLCOPT:http-user-agent=otto-aplikasi
+#EXTVLCOPT:http-referrer=https://player.licenses4.me
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EcFwNdj.png" group-title="BRITISH SPORTS",Sky Sports Football
-http://stariptv.org:8080/nour2020/123456/55390
+https://ott-navigator.my.id/sports/skysports/master_skysports.m3u8?id=skysportFootball
+#EXTVLCOPT:http-user-agent=otto-aplikasi
+#EXTVLCOPT:http-referrer=https://player.licenses4.me
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Q2ztKWZ.png" group-title="BRITISH SPORTS",Sky Sports Golf
-http://stariptv.org:8080/nour2020/123456/55386
+https://ott-navigator.my.id/sports/skysports/master_skysports.m3u8?id=skysportGolf
+#EXTVLCOPT:http-user-agent=otto-aplikasi
+#EXTVLCOPT:http-referrer=https://player.licenses4.me
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KHiae2e.png" group-title="BRITISH SPORTS",Sky Sports Main Event
-http://stariptv.org:8080/nour2020/123456/55382
+https://ott-navigator.my.id/sports/skysports/master_skysports.m3u8?id=mainevent
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PRF0DsV.png" group-title="BRITISH SPORTS",Sky Sports Mix
 http://stariptv.org:8080/nour2020/123456/55385
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jcFnVbi.png" group-title="BRITISH SPORTS",Sky Sports News
 http://stariptv.org:8080/nour2020/123456/11667
+#EXTVLCOPT:http-user-agent=otto-aplikasi
+#EXTVLCOPT:http-referrer=https://player.licenses4.me
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wA3DieO.png" group-title="BRITISH SPORTS",Sky Sports Premier League
-http://stariptv.org:8080/nour2020/123456/55384
+https://ott-navigator.my.id/sports/skysports/master_skysports.m3u8?id=premier
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vhYstlz.png" group-title="BRITISH SPORTS",Sky Sports Racing
 http://new-pro.tv:8080/Fernando/123321/68573
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gwV31E0.png" group-title="DANISH SPORTS",Eurosport 1 Norge
@@ -2689,12 +2733,14 @@ http://server.sibfungold.info:8080/gaicu84/iVMgaicu84DNfwV/47455
 http://server.sibfungold.info:8080/gaicu84/iVMgaicu84DNfwV/47454
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wF8dohc.png" group-title="POLISH SPORTS",Eleven Sports 4 Polska
 http://server.sibfungold.info:8080/gaicu84/iVMgaicu84DNfwV/50293
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9.0; MI 8 SE) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.119 Mobile Safari/537.36
+#EXTVLCOPT:http-user-agent=otto-aplikasi
+#EXTVLCOPT:http-referrer=https://player.licenses4.me
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gwV31E0.png" group-title="POLISH SPORTS",Eurosport 1 Polska
-http://server.sibfungold.info:8080/gaicu84/iVMgaicu84DNfwV/50966
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9.0; MI 8 SE) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.119 Mobile Safari/537.36
+https://ott-navigator.my.id/sports/eurosport/master.m3u8?id=eurosport1-POL
+#EXTVLCOPT:http-user-agent=otto-aplikasi
+#EXTVLCOPT:http-referrer=https://player.licenses4.me
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lTnKDju.png" group-title="POLISH SPORTS",Eurosport 2 Polska
-http://server.sibfungold.info:8080/gaicu84/iVMgaicu84DNfwV/47449
+https://ott-navigator.my.id/sports/eurosport/master.m3u8?id=eurosport2-POL
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UlsXKUP.png" group-title="POLISH SPORTS",Extreme Sports Channel Polska
 http://ky-iptv.com:80/nicholas/123456789/219051.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rrGlnOO.png" group-title="POLISH SPORTS",FightBox HD
@@ -3032,26 +3078,26 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/5057/default_ott.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=0a5ce785d63f164f5be079a0aa9b6210&key=d388cbf715f1bb08901a55a7db7f26c0
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DhbmBsD.png" group-title="MALAY SPORTS",Astro Cricket
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2504/default_primary.mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/601
+#EXTVLCOPT:http-user-agent=otto-aplikasi
+#EXTVLCOPT:http-referrer=https://player.licenses4.me
 #EXTINF:-1 tvg-logo="https://i.imgur.com/X2WVnWr.png" group-title="MALAY SPORTS",Astro Supersport
-https://tv.kpsvpn.com/sport1.mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/2104
+https://ott-navigator.my.id/sports/assp/master_astro.m3u8?id=assp1
+#EXTVLCOPT:http-user-agent=otto-aplikasi
+#EXTVLCOPT:http-referrer=https://player.licenses4.me
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AZQ0xgp.png" group-title="MALAY SPORTS",Astro Supersport 2
-https://tv.kpsvpn.com/sport2.mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/2701
+https://ott-navigator.my.id/sports/assp/master_astro.m3u8?id=assp2
+#EXTVLCOPT:http-user-agent=otto-aplikasi
+#EXTVLCOPT:http-referrer=https://player.licenses4.me
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cMYSM6e.png" group-title="MALAY SPORTS",Astro Supersport 3
-https://tv.kpsvpn.com/sport3.mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/2506
+https://ott-navigator.my.id/sports/assp/master_astro.m3u8?id=assp3
+#EXTVLCOPT:http-user-agent=otto-aplikasi
+#EXTVLCOPT:http-referrer=https://player.licenses4.me
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PlwrDwx.png" group-title="MALAY SPORTS",Astro Supersport 4
-https://tv.kpsvpn.com/sport4.mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=113d6e58ea7e223e3fb4a9af3e927010&key=dc86f5d82e5dfaa0fbb22d220e023b7c
+https://ott-navigator.my.id/sports/assp/master_astro.m3u8?id=assp4
+#EXTVLCOPT:http-user-agent=otto-aplikasi
+#EXTVLCOPT:http-referrer=https://player.licenses4.me
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FieopQP.png" group-title="MALAY SPORTS",Astro Supersport 5
-http://linearjitp-playback.astro.com.my/dash-wv/linear/5059/default_ott.mpd
+https://ott-navigator.my.id/sports/assp/master_astro.m3u8?id=assp5
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/1602/
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LYiJwL9.png" group-title="MALAY SPORTS",Astro UHD
@@ -3561,40 +3607,80 @@ http://ye23.win/iptv/sbs5.1.php?id=S02
 http://211.203.0.244:9981/stream/channelid/32768418.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WbPfNOb.png" group-title="KOREAN SPORTS",SPOTV 2
 http://211.203.0.244:9981/stream/channelid/784633781.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/r27965c.png" group-title="THAI SPORTS",Golf Channel Thailand
 https://smart-tv.livedoomovies.com:4431/02_golfhd_720p/chunklist.m3u8|Referer=https://www.movie87hd.com/?r=ajax
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mQnEVYf.png" group-title="THAI SPORTS",Golf Channel+ Thailand
 http://45.91.134.57:25461/sweet/7749/64
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/800px-NBA_TV.svg.png" group-title="THAI SPORTS",NBA TV
 https://smart-tv.livedoomovies.com:4431/02_nbahd_720p/chunklist.m3u8|Referer=https://www.movie87hd.com/?r=ajax
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Bj0MyZQ.png" group-title="THAI SPORTS",SPOTV
 https://smart-tv.livedoomovies.com:4431/02_foxsport_720p/chunklist.m3u8|Referer=https://www.movie87hd.com/?r=ajax
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WbPfNOb.png" group-title="THAI SPORTS",SPOTV 2
 https://smart-tv.livedoomovies.com:4431/02_FoxSport3_TH_720p/chunklist.m3u8|Referer=https://www.movie87hd.com/?r=ajax
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dfcJkab.png" group-title="THAI SPORTS",T Sports
 http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/7/7.mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lop2PUy.png" group-title="THAI SPORTS",True Sports 1
 https://smart-tv.livedoomovies.com:4431/02_2sporthd1_720p/chunklist.m3u8|Referer=https://www.movie87hd.com/?r=ajax
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/p6H4JPp.png" group-title="THAI SPORTS",True Sports 2
 https://smart-tv.livedoomovies.com:4431/02_2sporthd2_720p/chunklist.m3u8|Referer=https://www.movie87hd.com/?r=ajax
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/760fLOg.png" group-title="THAI SPORTS",True Sports 3
 https://smart-tv.livedoomovies.com:4431/02_2sporthd3_720p/chunklist.m3u8|Referer=https://www.movie87hd.com/?r=ajax
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6MUEjll.png" group-title="THAI SPORTS",True Sports 4
 https://smart-tv.livedoomovies.com:4431/02_2sporthd4_720p/chunklist.m3u8|Referer=https://www.movie87hd.com/?r=ajax
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Wi8PvKB.png" group-title="THAI SPORTS",True Sports 5
 https://smart-tv.livedoomovies.com:4431/02_sport5_480p/chunklist.m3u8|Referer=https://www.movie87hd.com/?r=ajax
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6SfqnBv.png" group-title="THAI SPORTS",True Sports 7
 https://smart-tv.livedoomovies.com:4431/02_sport7_480p/chunklist.m3u8|Referer=https://www.movie87hd.com/?r=ajax
+#EXTVLCOPT:http-user-agent=otto-aplikasi
+#EXTVLCOPT:http-referrer=https://www.movie87hd.com/
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9FJknMK.png" group-title="THAI SPORTS",True Premier Football 1
-https://smart-tv.livedoomovies.com:4431/02_PremierHD1_720p/chunklist.m3u8|Referer=https://www.movie87hd.com/?r=ajax
+http://ott-navigator.my.id/thailand/truepremier1.m3u8
+#EXTVLCOPT:http-user-agent=otto-aplikasi
+#EXTVLCOPT:http-referrer=https://www.movie87hd.com/
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yS94g00.png" group-title="THAI SPORTS",True Premier Football 2
-https://smart-tv.livedoomovies.com:4431/02_PremierHD2_720p/chunklist.m3u8|Referer=https://www.movie87hd.com/?r=ajax
+http://ott-navigator.my.id/thailand/truepremier2.m3u8
+#EXTVLCOPT:http-user-agent=otto-aplikasi
+#EXTVLCOPT:http-referrer=https://www.movie87hd.com/
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xBmmgXe.png" group-title="THAI SPORTS",True Premier Football 3
-https://smart-tv.livedoomovies.com:4431/02_PremierHD3_720p/chunklist.m3u8|Referer=https://www.movie87hd.com/?r=ajax
+http://ott-navigator.my.id/thailand/truepremier3.m3u8
+#EXTVLCOPT:http-user-agent=otto-aplikasi
+#EXTVLCOPT:http-referrer=https://www.movie87hd.com/
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HOfAIeF.png" group-title="THAI SPORTS",True Premier Football 4
-https://smart-tv.livedoomovies.com:4431/02_PremierHD4_720p/chunklist.m3u8|Referer=https://www.movie87hd.com/?r=ajax
+http://ott-navigator.my.id/thailand/truepremier4.m3u8
+#EXTVLCOPT:http-user-agent=otto-aplikasi
+#EXTVLCOPT:http-referrer=https://www.movie87hd.com/
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IAvYAOR.png" group-title="THAI SPORTS",True Premier Football 5
-https://smart-tv.livedoomovies.com:4431/02_PremierHD5_720p/chunklist.m3u8|Referer=https://www.movie87hd.com/?r=ajax
+http://ott-navigator.my.id/thailand/truepremier5.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yDxztEe.png" group-title="THAI SPORTS",True Tennis
 https://smart-tv.livedoomovies.com:4431/02_TennisHD_720p/chunklist.m3u8|Referer=https://www.movie87hd.com/?r=ajax
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -3632,7 +3718,7 @@ https://raw.githubusercontent.com/fgillusi/IPTV-Argentina/main/Playboy.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/I0xoFhv.png" group-title="LIFESTYLE",Lifestyle & Fashion
 https://liveanevia.mncnow.id/live/eds/LifeStyleFashion/sa_dash_vmx/LifeStyleFashion.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/el4gofT.png" group-title="LIFESTYLE",Citra Culinary & Travel
-https://seulangatv.xyz/vd/get.m3u8?id=8558
+https://ott-navigator.my.id/vidio/vidio_master.m3u8?channel=citraculinary
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lzaV3z4.png" group-title="LIFESTYLE",Biznet Lifestyle
 http://livestream.biznetvideo.net/biznet_lifestyle/smil:lifestyle.smil/playlist.m3u8?bizkeylivestarttime=0&bizkeyliveendtime=0&bizkeyliveCustomParameter=myParameter&bizkeylivehash=jgDKPclcGdZfvrIDxfMdpT7v_srMWCbubntGo9cCYWpcBBQalMlLQxHswm43PbVR
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
