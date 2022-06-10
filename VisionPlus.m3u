@@ -2335,10 +2335,8 @@ http://stariptv.org:8080/nour2020/123456/165085
 #EXTVLCOPT:http-referrer=https://player.licenses4.me
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CwlNjXQ.png" group-title="ARABIC SPORTS",beIN Sports Premium 1
 https://ott-navigator.my.id/sports/beinsports/master_beinsports.m3u8?id=Premium1
-#EXTVLCOPT:http-user-agent=otto-aplikasi
-#EXTVLCOPT:http-referrer=https://player.licenses4.me
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ns7isEP.png" group-title="ARABIC SPORTS",beIN Sports Premium 2
-https://ott-navigator.my.id/sports/beinsports/master_beinsports.m3u8?id=Premium2
+http://stariptv.org:8080/nour2020/123456/141564
 #EXTVLCOPT:http-user-agent=otto-aplikasi
 #EXTVLCOPT:http-referrer=https://player.licenses4.me
 #EXTINF:-1 tvg-logo="https://i.imgur.com/T7UlxCI.png" group-title="ARABIC SPORTS",beIN Sports Premium 3
@@ -2469,10 +2467,8 @@ https://ott-navigator.my.id/sports/skysports/master_skysports.m3u8?id=mainevent
 http://stariptv.org:8080/nour2020/123456/55385
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jcFnVbi.png" group-title="BRITISH SPORTS",Sky Sports News
 http://stariptv.org:8080/nour2020/123456/11667
-#EXTVLCOPT:http-user-agent=otto-aplikasi
-#EXTVLCOPT:http-referrer=https://player.licenses4.me
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wA3DieO.png" group-title="BRITISH SPORTS",Sky Sports Premier League
-https://ott-navigator.my.id/sports/skysports/master_skysports.m3u8?id=premier
+http://stariptv.org:8080/nour2020/123456/55384
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vhYstlz.png" group-title="BRITISH SPORTS",Sky Sports Racing
 http://new-pro.tv:8080/Fernando/123321/68573
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gwV31E0.png" group-title="DANISH SPORTS",Eurosport 1 Norge
