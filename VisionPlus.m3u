@@ -1615,7 +1615,7 @@ http://stariptv.org:8080/nour2020/123456/4101
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zcaYBfX.png" group-title="BRASILIAN NEWS",CNN Brasil
 http://170.82.200.38:8080/cnn_brasil/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0XayB3p.png" group-title="INDIAN NEWS",CNN News 18
-http://dnyanesh.in1.bitmana.io/autoq.php?c=CNN_NEWS_18
+http://10june-dnyanesh.in1.bitmana.io/autoq.php?c=CNN_NEWS_18
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZLpwHsZ.png" group-title="CZECH NEWS",CNN Prima News
 https://prima-ott-live-sec.ssl.cdn.cra.cz/UfNMb7YNO2meLWsGXofEdw==,1647387570/channels/prima_cnn/playlist/cze/live_hq.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8XIrrMN.png" group-title="ALBANIAN NEWS",A2 CNN
@@ -1842,7 +1842,7 @@ https://d2xqcdx4c8vu9s.cloudfront.net/out/v1/15b8393e9a9240b8bedd4c79ccefb301/in
 #EXTINF:-1 tvg-logo="https://i.imgur.com/r38Camc.png" group-title="INDIAN NEWS",India Today
 https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/indiatoday_5/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/aa/Times_Now_2010.png" group-title="INDIAN NEWS",Times Now
-http://dnyanesh.in1.bitmana.io/autoq.php?c=Times_NOW
+http://10june-dnyanesh.in1.bitmana.io/autoq.php?c=Times_NOW
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dt5xRpi.png" group-title="INDIAN NEWS",Mirror Now
 http://mbnowweb-lh.akamaihd.net/i/MRN_1@346545/index_576_av-p.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Atn4Ppt.png" group-title="INDIAN NEWS",India Ahead
@@ -1876,7 +1876,7 @@ http://hls-m010.live-lv3.canalplus-cdn.net/live/disk/cnews-clair-hd/ios-v3-hd-cl
 #EXTINF:-1 tvg-logo="https://i.imgur.com/40Zq0TK.png" group-title="FRENCH NEWS",Franceinfo
 https://monchyxd.herokuapp.com/iptv-query?streaming-ip=https://www.dailymotion.com/francetvinfo&quality=720p
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0c/La_Cha%C3%AEne_Info_%28logo%29.svg/1920px-La_Cha%C3%AEne_Info_%28logo%29.svg.png" group-title="FRENCH NEWS",LCI
-https://lci-das-live-ssl.tf1.fr/video/b6eS7WiIVdG2jBJ-AkZ96A/1654667229/out/v1/3949f9922e0046a0926e11f8687e1c1a/index.mpd
+http://stariptv.org:8080/nour2020/123456/4923
 #EXTINF:-1 tvg-logo="https://i.imgur.com/v7Zj0iJ.png" group-title="FRENCH NEWS",TV5 Monde Info
 https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wWHiR9B.png" group-title="FRENCH NEWS",LN24
@@ -2126,7 +2126,7 @@ https://cnbcawaaz-lh.akamaihd.net/i/cnbcawaaz_1@174872/index_5_av-p.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2W3OUr8.png" group-title="BUSINESS NEWS",CNBC TV 18
 https://cnbctv18-lh.akamaihd.net/i/cnbctv18_1@174868/index_5_av-p.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZfYHLFe.png" group-title="BUSINESS NEWS",CNBC TV 18 Prime HD
-http://dnyanesh.in1.bitmana.io/autoq.php?c=CNBC_Tv18_Prime_HD
+http://10june-dnyanesh.in1.bitmana.io/autoq.php?c=CNBC_Tv18_Prime_HD
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qsmHgJ1.png" group-title="BUSINESS NEWS",Class CNBC
 https://streamcdnb10-859c1818ed614cc5b0047439470927b0.msvdn.net/live/S76890577/tDoFkZD3T1Lw/chunklist_b1728000.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/R9Qa14T.png" group-title="BUSINESS NEWS",CNBC Africa
@@ -2143,7 +2143,7 @@ http://new-pro.tv:8080/Fernando/123321/180105
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HRaROB0.png" group-title="BUSINESS NEWS",TVN 24 Bis
 http://ky-iptv.com:80/Bobby12345/Bobby12345/219149.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vPAwWou.png" group-title="BUSINESS NEWS",ET Now
-http://dnyanesh.in1.bitmana.io/autoq.php?c=ET_Now
+http://10june-dnyanesh.in1.bitmana.io/autoq.php?c=ET_Now
 #EXTINF:-1 tvg-logo="https://i.imgur.com/59kbGww.jpg" group-title="BUSINESS NEWS",ET Now Swadesh
 https://pubads.g.doubleclick.net/ssai/event/Pj6A7e21SN64xv6g4sssCA/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/i1qQWS1.png" group-title="BUSINESS NEWS",Zee Business
