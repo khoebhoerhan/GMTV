@@ -3826,7 +3826,7 @@ https://tglmp03.akamaized.net/out/v1/1057d89ee3d94148b430b5866e3a540a/manifest.m
 https://tglmp04.akamaized.net/out/v1/b200e885125f4787bd2329952ff28fa1/manifest.mpd
 #EXTVLCOPT:network-caching=1000
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8DZL1sg.png" group-title="USA",ABC East
-https://tvnow.best/api/stream/mjma7584@icloud.com/472796/livetv.epg/abc.wabc.new.york.ny.us.m3u8
+https://d2jh36pi0ck39m.cloudfront.net:443/hls/abc/chunks.m3u8
 #EXTVLCOPT:network-caching=1000
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VBD4ugr.png" group-title="USA",Azteca America
 https://v-ny.mybtv.net/live/645.m3u8
