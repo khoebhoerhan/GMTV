@@ -4736,16 +4736,18 @@ https://thaipbs-ujxrch.cdn.byteark.com/live/playlist.m3u8
 http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/34/34.mpd
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f3/BBTV_Channel_7.png" group-title="THAILAND",BBTV Channel 7
 https://bcovlive-a.akamaihd.net/efdfa4b2dfc54cb38fdb120d52973e95/ap-southeast-1/5282994675001/profile_5/chunklist.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/Ch3HDLogo.png" group-title="THAILAND",Channel 3
-http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/33/33.mpd
+https://p0.cdn.vet/live/ch3/i/ch3i.m3u8?sid=cjeNWExZjcxOWYyZWVmMTRjODMxZgNDg4MDk2NGM3OTdkMzNi|Referer=https://www.adintrend.tv/
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c6/Logo_tv5.png" group-title="THAILAND",Thai TV 5 HD1
 https://tc-live1.sanook.com/live/22302_ch5.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Ch_8_2016.svg/1200px-Ch_8_2016.svg.png" group-title="THAILAND",Channel 8
 http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/27/27.mpd
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a9/GMM_25_Logo.png" group-title="THAILAND",GMM 25
 http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/25/25.mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Jkn18.png/1200px-Jkn18.png" group-title="THAILAND",JKN 18
-http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/18/18.mpd
+https://embed-dev.blackboxsys.net/player.php?channel=sd-new&api_key=hmcb4rf66f|Referer=https://dooball66.com/
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Mono_29_Logo.png" group-title="THAILAND",Mono 29
 http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/29/29.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/i52auTN.png" group-title="THAILAND",MCOT
@@ -4754,8 +4756,9 @@ http://mcotdigital-pnnouc.cdn.byteark.com/mcothd1080p_edge/smil:mcothd1080p.smil
 http://122.155.92.8:1935/live/ch1_L.sdp/chunklist_w1503718698.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nIrPNQ4.png" group-title="THAILAND",One 31
 http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/31/31.mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6GpsVJd.png" group-title="THAILAND",PPTV HD 36
-http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/36/36.mpd
+https://p0.cdn.vet/live/ch25/i/ch25i.m3u8?sid=cjeNzBhZTZhNTViZjQxNGM0NjMwYwMTg5MjIxYTE0MGVlZDQy|Referer=https://www.adintrend.tv/
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5a/Thai_PBS_logo.png" group-title="THAILAND",Thai PBS 3
 https://thaipbs-live.cdn.byteark.com/live/playlist_720p/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ougQaDE.png" group-title="THAILAND",Thairath TV 32
