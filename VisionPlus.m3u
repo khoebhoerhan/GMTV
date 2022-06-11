@@ -4260,23 +4260,23 @@ http://stariptv.org:8080/nour2020/123456/44581
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/ZDF_logo.svg/1920px-ZDF_logo.svg.png" group-title="GERMANY",ZDF
 https://zdf-hls-15.akamaized.net/hls/live/2016498/de/high/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/eb/Alpha_TV_logo.svg/800px-Alpha_TV_logo.svg.png" group-title="GREECE",Alpha TV
-https://alphalive-i.akamaihd.net/hls/live/682300/live/master.m3u8
+http://alphatvlive.siliconweb.com/1/Y2Rsd1lUcUVoajcv/UVdCN25h/hls/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/1/11/Ant1_Logo.png" group-title="GREECE",ANT1
 https://antennaamdnoenc.akamaized.net/ant1_akamai/abr/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/ERT1_logo_2020.svg/1920px-ERT1_logo_2020.svg.png" group-title="GREECE",ERT 1
-http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/3
+https://ert1-live.ert.insyscd.net/out/v1/bc7e22e489c7452280769c91743cc2f3/ert1-live_1.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/ERT2_logo_2020.svg/1920px-ERT2_logo_2020.svg.png" group-title="GREECE",ERT 2
-http://probox.mio4ever.eu:7575/m1roxbr0x012/gs7z2Ghs51x8q/38103
+https://ert2-live.ert.insyscd.net/out/v1/617370f6ad1447ca8efdc795e4e960a3/ert2-live_1.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/ERT3_logo_2020.svg/1920px-ERT3_logo_2020.svg.png" group-title="GREECE",ERT 3
-http://probox.mio4ever.eu:7575/m1roxbr0x012/gs7z2Ghs51x8q/38104
+https://ert3-live.ert.insyscd.net/out/v1/d43a7f932f524c83b6102efa0580b454/ert3-live_1.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/txSfwGs.png" group-title="GREECE",Mega TV
-https://streamcdnb7-c98db5952cb54b358365984178fb898a.msvdn.net/live/S86713049/gonOwuUacAxM/playlist.m3u8
+https://streamcdnm17-c98db5952cb54b358365984178fb898a.msvdn.net/live/S86713049/gonOwuUacAxM/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ws2V9WC.png" group-title="GREECE",Open Beyond TV
 http://liveopencloud.siliconweb.com/1/ZlRza2R6L2tFRnFJ/eWVLSlQx/hls/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Tja6xR5.png" group-title="GREECE",Skaï
-https://skai-live-gr-cy-back.siliconweb.com/media/cambria4/index.m3u8
+http://skai-live-gr-cy-back.siliconweb.com/media/cambria4/index_bitrate2000K.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Lo5k7Dm.png" group-title="GREECE",Star Channel
-http://livestar.siliconweb.com/media/star1/star1.m3u8
+https://livestar.siliconweb.com/media/star1/star1mediumhd.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bL6rOV4.png" group-title="HONG KONG",TVB Jade
 http://iptv.tvfix.org/hls/jade_v.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/J0waOhK.png" group-title="HONG KONG",TVB J2
