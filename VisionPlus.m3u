@@ -1834,7 +1834,7 @@ https://live1.presstv.ir/live/presstv.m3u8
 https://live1.presstv.ir/live/hispan.m3u8
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 #EXTINF:-1 tvg-logo="https://i.imgur.com/j5Zdyy9.png" group-title="WORLD NEWS",A News
-http://new-pro.tv:8080/Fernando/123321/293470
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/ANewsGlobal/live
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/TeleSUR.jpg" group-title="WORLD NEWS",teleSUR English
 https://cdnenmain.telesur.ultrabase.net/mblivev3/hd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jHJR3LN.png" group-title="AFRICAN NEWS",Africanews
@@ -1850,7 +1850,7 @@ https://d2xqcdx4c8vu9s.cloudfront.net/out/v1/15b8393e9a9240b8bedd4c79ccefb301/in
 #EXTINF:-1 tvg-logo="https://i.imgur.com/r38Camc.png" group-title="INDIAN NEWS",India Today
 https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/indiatoday_5/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/aa/Times_Now_2010.png" group-title="INDIAN NEWS",Times Now
-http://10june-dnyanesh.in1.bitmana.io/autoq.php?c=Times_NOW
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/TimesNow/live
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dt5xRpi.png" group-title="INDIAN NEWS",Mirror Now
 http://mbnowweb-lh.akamaihd.net/i/MRN_1@346545/index_576_av-p.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Atn4Ppt.png" group-title="INDIAN NEWS",India Ahead
@@ -1860,7 +1860,7 @@ https://itvoign.multitvsolution.com/hls/newsx_720p/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SOAzyhe.png" group-title="INDIAN NEWS",Republic TV
 https://republicworld.amagi.tv/hls/amagi_hls_data_samsungin-republictv-samsungindia/CDN/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aME56Hq.png" group-title="INDIAN NEWS",DD India
-https://snehapi-march.in1.bitmana.io/z5api/snehz5api/ddindia.m3u8
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/DDIndia/live
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nK04jlH.png" group-title="ARABIC NEWS",Al Alam News Network
 https://live2.alalam.ir/live/Alalam/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bAbmsFK.png" group-title="NON-ENGLISH NEWS",NPO Politiek En Nieuws
@@ -2078,9 +2078,9 @@ https://deb10stream.duckdns.org/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tSE3Kmy.png" group-title="ALBANIAN NEWS",RTSH 24
 http://93.157.62.180/RTSH24/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kWfyxZM.png" group-title="ALBANIAN NEWS",Syri
-https://tv.syri.net/syrilive/webtv/playlist.m3u8
+https://stream.syritv.al/out/u/47_1.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oiJLVxt.png" group-title="ALBANIAN NEWS",Top News
-http://api.iptveditor.com/ForumiIPTV_SHQIP/Kanale-shqiptare/1056
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x6inuzo
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fd/AlArabiya2020.png" group-title="ARABIC NEWS",Al Arabiya
 https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/o3rBa0e.png" group-title="HINDI NEWS",Aaj Tak
@@ -2099,7 +2099,7 @@ https://live-indiatvnews.akamaized.net/indiatv-origin/liveabr/indiatv-origin/liv
 #EXTINF:-1 tvg-logo="https://i.imgur.com/13hqQkh.png" group-title="HINDI NEWS",NDTV India
 https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/ndtvindiamaster.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/News_nation_logo.jpg" group-title="HINDI NEWS",News Nation
-http://dnyanesh.in1.bitmana.io/autoq.php?c=News_Nation
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/NewsNationTV/live
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1Oze9HT.png" group-title="HINDI NEWS",News 18 India
 https://news18india-lh.akamaihd.net/i/news18india_1@174951/index_5_av-p.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/News24_Logo.jpg" group-title="HINDI NEWS",News 24
@@ -2111,12 +2111,10 @@ https://pubads.g.doubleclick.net/ssai/event/nRWQsGoJSzmcErJFgAy67g/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aUfDyOT.png" group-title="HINDI NEWS",TV9 Bharatvarsh
 https://vidcdn.vidgyor.com/tv9bharatvarsh-origin/live/tv9bharatvarsh-origin/live1/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zwN5Oz0.png" group-title="HINDI NEWS",Zee Hindustan
-http://dnyanesh.in1.bitmana.io/autoq.php?c=Zee_SANGAM
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/ZeeHindustan/live
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ebqagsj.png" group-title="HINDI NEWS",Zee News
 https://d233nwklwv8p4.cloudfront.net/out/v1/860cb318d23a4c64b58c9d625281170c/index_3.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wHNzQ4U.png" group-title="PARLIAMENTARY",Sansad TV
-https://hls.media.nic.in/hls/live/lstv/lstv.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wHNzQ4U.png" group-title="PARLIAMENTARY",Sansad TV HD
 https://hls.media.nic.in/hls/live/rstv/rstv.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MjhkOWZkZjYtOGViOC0zNTkzLWFhOWEtNGFhMzJkMDk3NGE2
@@ -2155,14 +2153,14 @@ https://yahoo-samsung.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Fox_Business.svg/1920px-Fox_Business.svg.png" group-title="BUSINESS NEWS",Fox Business
 http://stariptv.org:8080/nour2020/123456/148458
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UrRif3p.png" group-title="BUSINESS NEWS",A Para
-https://livesx.canlitv.center/apara2.m3u8
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/UCzrGg6iyRDuUSnO0cQ5oLcA/live
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QgaTdiK.png" group-title="BUSINESS NEWS",EkoTürk
 http://new-pro.tv:8080/Fernando/123321/180105
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HRaROB0.png" group-title="BUSINESS NEWS",TVN 24 Bis
 http://ky-iptv.com:80/Bobby12345/Bobby12345/219149.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vPAwWou.png" group-title="BUSINESS NEWS",ET Now
-http://10june-dnyanesh.in1.bitmana.io/autoq.php?c=ET_Now
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/ETNow/live
 #EXTINF:-1 tvg-logo="https://i.imgur.com/59kbGww.jpg" group-title="BUSINESS NEWS",ET Now Swadesh
 https://pubads.g.doubleclick.net/ssai/event/Pj6A7e21SN64xv6g4sssCA/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/i1qQWS1.png" group-title="BUSINESS NEWS",Zee Business
@@ -2274,7 +2272,7 @@ http://new-pro.tv:8080/Fernando/123321/68571
 #EXTINF:-1 tvg-logo="https://i.imgur.com/g2qWOoB.png" group-title="CLUBS OF SPORTS",Porto Canal
 https://streamer-a03.videos.sapo.pt/live/portocanal/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KFwSXaG.png" group-title="CLUBS OF SPORTS",Real Madrid TV Español
-http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/49982
+https://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VBxa15t.png" group-title="CLUBS OF SPORTS",Roma TV
 http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/4089
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9yN2IIT.png" group-title="CLUBS OF SPORTS",Sevilla FC TV
@@ -2938,8 +2936,10 @@ http://stariptv.org:8080/nour2020/123456/12072
 http://stariptv.org:8080/nour2020/123456/12077
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vnKI1Oo.png" group-title="SPANISH SPORTS",Liga de Campeones por Movistar+
 http://stariptv.org:8080/nour2020/123456/30029
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Teledeporte.svg/1280px-Teledeporte.svg.png" group-title="SPANISH SPORTS",Teledeporte
-http://91.126.141.13:1935/live/91/1800-def.m3u8
+https://rtvelivestreamv3.akamaized.net/tdp/tdp_main_dvr.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2cDxHdn.png" group-title="SPANISH SPORTS",Toros
 http://luxtv.one:8080/kadiri/123456/868
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qfVunzp.png" group-title="PORTUGUESE SPORTS",Canal 11
@@ -3933,9 +3933,9 @@ https://live-uk.s4c-cdn.co.uk/out/v1/a0134f1fd5a2461b9422b574566d4442/live_uk.m3
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Sky_Showcase_2021.svg/1920px-Sky_Showcase_2021.svg.png" group-title="UK",Sky Showcase
 http://server.sibfungold.info:8080/gaicu84/iVMgaicu84DNfwV/2862
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/TV_Klan.svg/1920px-TV_Klan.svg.png" group-title="ALBANIA",Klan
-http://185.226.88.3:1036/live/backup/backup/106.m3u8
+http://199.127.60.117:8081/live/klan/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/u9bj8ZK.png" group-title="ALBANIA",Klan Plus
-http://185.204.32.4:9981/stream/channelid/1280613217?ticket=E2C4A2B3E1AA9DDDB9101C1FC6501523070456B6&profile=pass
+http://199.127.60.117:8081/live/klanplus/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cUAgIUf.png" group-title="ALBANIA",Ora TV
 https://live1.mediadesk.al/oratv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/15saRSI.png" group-title="ALBANIA",RTSH 1
@@ -3949,11 +3949,11 @@ http://185.204.32.4:9981/stream/channelid/914839179?ticket=EE6BA35254A97A72FC0BB
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1diHeU5.png" group-title="ALBANIA",RTSH Shqip
 http://185.204.32.4:9981/stream/channelid/847076243?ticket=93BB3B5BD5FF43D73C15ED2BEFCE73F308C6B7E4&profile=pass
 #EXTINF:-1 tvg-logo="https://i.imgur.com/X4lzdK3.png" group-title="ALBANIA",Smile
-http://93.157.62.180/TringSmile/index.m3u8
+http://95.107.132.105/out/u/349_2.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Top_Channel.svg/1920px-Top_Channel.svg.png" group-title="ALBANIA",Top Channel
 http://190.115.29.22:8080/carter/GUV1bMq2VK/1050
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4asrpwB.png" group-title="ALBANIA",Tring 3+
-http://185.226.88.3:1036/live/backup/backup/76.m3u8
+http://199.127.60.117:8081/live/tring3plus/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LwUAEdK.png" group-title="ALBANIA",Tring Jolly
 http://93.157.62.180/JollyHD/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Vizion_Plus.svg/1280px-Vizion_Plus.svg.png" group-title="ALBANIA",Vizion Plus
