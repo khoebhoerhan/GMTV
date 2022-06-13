@@ -1812,14 +1812,18 @@ https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master_2500.m3u8
 https://d7z3qjdsxbwoq.cloudfront.net/groupa/live/f9809cea-1e07-47cd-a94d-2ddd3e1351db/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/35/GB_News_Logo.svg/1920px-GB_News_Logo.svg.png" group-title="BRITISH NEWS",GB News
 https://live-gbnews.simplestreamcdn.com/gbnews/gbnews/bitrate1.isml/bitrate1-audio_0=192000-video=4499968.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4o0oDKk.jpeg" group-title="BRITISH NEWS",RTÉ News
-https://live.rte.ie/live/a/channel3/news.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/96ZwfZt.png" group-title="BRITISH NEWS",Talk TV
 https://newsuk-talkradiotv-brightcove.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4o0oDKk.jpeg" group-title="BRITISH NEWS",RTÉ News
+https://live.rte.ie/live/a/channel3/news.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VSDcaAB.png" group-title="PARLIAMENTARY",Oireachtas TV
+https://d33zah5htxvoxb.cloudfront.net/el/live/oirtv/hls.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jtPPRFX.png" group-title="AUSTRALIAN NEWS",ABC News
 https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index_45.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Jg51UFG.png" group-title="AUSTRALIAN NEWS",Australia Channel
 https://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nEHL1S1.png" group-title="PARLIAMENTARY",Parliament TV
+https://ptvlive.kordia.net.nz/out/v1/daf20b9a9ec5449dadd734e50ce52b74/index.m3u8
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTINF:-1 tvg-logo="https://i.imgur.com/orZX92w.png" group-title="WORLD NEWS",Press TV
@@ -2029,6 +2033,8 @@ http://platinumxmedia.xyz:8080/live/Instahub/bxL8msMEF2V3/49290.m3u8
 http://gooserace.xyz:80/play/8RKaarZp2hb82YDzh8OYR54ydKyYz9YgUUD-d3ginEQ
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c6/OnePHCignal.svg/1024px-OnePHCignal.svg.png" group-title="PINOY NEWS",One PH
 http://n2086.securepoint.io:25461/live/Marseille/UET4RmYa8j/57405.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HUxC09L.png" group-title="PINOY NEWS",SMNI News Channel
+https://api.new.livestream.com/accounts/19079954/events/7831871/live.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/99/UNTV-Logo-2016.svg/1920px-UNTV-Logo-2016.svg.png" group-title="PINOY NEWS",UNTV
 https://cdn.untvweb.com/live-stream/chunklist_b732000.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/X2aEThR.png" group-title="BRASILIAN NEWS",Globo News
@@ -2279,7 +2285,7 @@ http://new-pro.tv:8080/Fernando/123321/72027
 http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/4565
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iZ1rMGW.png" group-title="WORLD SPORTS",Motorvision TV
-http://playlist.urfan.web.id/uq2663/h/h09/02.m3u8
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=535
 #EXTINF:-1 tvg-logo="https://i.imgur.com/j1ipsRz.png" group-title="WORLD SPORTS",Ginx eSports TV International
 http://bestsave.ltd:2052/141414/151515/131939
 #KODIPROP:inputstream=inputstream.adaptive
@@ -3715,8 +3721,10 @@ https://liveanevia.mncnow.id/live/eds/EWTN/sa_dash_vmx/EWTN.mpd
 http://catholictvhd-lh.akamaihd.net/i/ctvhd_1@88148/index_1_av-p.m3u8?sd=10&rebase=on
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MjhkOWZkZjYtOGViOC0zNTkzLWFhOWEtNGFhMzJkMDk3NGE2
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZaaKf4E.jpg" group-title="RELIGION",Reformed 21
+#EXTINF:-1 tvg-logo="https://i.imgur.com/exef3eh.png" group-title="RELIGION",Reformed 21
 https://liveanevia.mncnow.id/live/eds/Reformed21/sa_dash_vmx/Reformed21.mpd
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c1/TV_MARIA_logo.png" group-title="RELIGION",TV Maria
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/TVMariaLIVE/live
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/0/0d/Logo_tv2000_2015.svg/260px-Logo_tv2000_2015.svg.png" group-title="RELIGION",TV2000
 http://cld01ibi16.wz.tv2000.it/tv2000_alfa.m3u8
 #KODIPROP:inputstream=inputstream.adaptive
@@ -3921,7 +3929,7 @@ http://ott.riotelecomm.es:4513/m3u8/ITV4FIBRA.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4f/ITVBe_logo_2014-.svg/1920px-ITVBe_logo_2014-.svg.png" group-title="UK",ITV Be
 http://hdhd.tk:80/772299/772299/28287
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/S4C_logo_2014.svg/1024px-S4C_logo_2014.svg.png" group-title="UK",S4C
-http://ky-iptv.com:80/nicholas/123456789/189997.ts
+https://live-uk.s4c-cdn.co.uk/out/v1/a0134f1fd5a2461b9422b574566d4442/live_uk.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Sky_Showcase_2021.svg/1920px-Sky_Showcase_2021.svg.png" group-title="UK",Sky Showcase
 http://server.sibfungold.info:8080/gaicu84/iVMgaicu84DNfwV/2862
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/TV_Klan.svg/1920px-TV_Klan.svg.png" group-title="ALBANIA",Klan
@@ -4476,6 +4484,14 @@ http://stariptv.org:8080/nour2020/123456/57468
 http://stariptv.org:8080/nour2020/123456/57461
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f5/SBS9_New_Logo_2018.png" group-title="NETHERLANDS",SBS 9
 http://stariptv.org:8080/nour2020/123456/57460
+#EXTINF:-1 tvg-logo="https://i.imgur.com/04KKLEb.png" group-title="NEW ZEALAND",TVNZ 1
+https://d2ce82tpc3p734.cloudfront.net/v1/master/b1f4432f8f95be9e629d97baabfed15b8cacd1f8/TVNZ_1/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vjyOmw7.png" group-title="NEW ZEALAND",TVNZ 2
+https://duoak7vltfob0.cloudfront.net/v1/master/b1f4432f8f95be9e629d97baabfed15b8cacd1f8/TVNZ_2/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GvngKb7.png" group-title="NEW ZEALAND",TVNZ Duke
+https://dayqb844napyo.cloudfront.net/v1/master/b1f4432f8f95be9e629d97baabfed15b8cacd1f8/TVNZ_Duke/master.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e7/Three_%28New_Zealand%29_logo.svg/1920px-Three_%28New_Zealand%29_logo.svg.png" group-title="NEW ZEALAND",Three
+https://livestreamdirect-three.mediaworks.nz/three.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/NRK1-Logo.svg/1920px-NRK1-Logo.svg.png" group-title="NORWAY",NRK1
 http://5gfksa.ltd:2052/334455/554433/128117
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/NRK2-Logo.svg/1920px-NRK2-Logo.svg.png" group-title="NORWAY",NRK2
@@ -4498,6 +4514,8 @@ http://5gfksa.ltd:2052/334455/554433/128118
 http://5gfksa.ltd:2052/334455/554433/128113
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/b/bf/Kapamilya_Channel_%282020-.n.v.%29.png" group-title="PHILIPPINES",Kapamilya Channel
 http://platinumxmedia.xyz:8080/live/Instahub/bxL8msMEF2V3/49242.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h9P390M.png" group-title="PHILIPPINES",Kapamilya Online Live
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCstEtN0pgOmCf02EdXsGChw/live
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UrDMl5Z.png" group-title="PHILIPPINES",A2Z Channel 11
 http://95.214.235.96:8880/SFL122431/N6EG15T0/50128
 #EXTINF:-1 tvg-logo="https://www.tv5.com.ph/assets/images/five-logo-red.png" group-title="PHILIPPINES",TV5
@@ -4766,7 +4784,7 @@ http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/25/25.mpd
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Jkn18.png/1200px-Jkn18.png" group-title="THAILAND",JKN 18
 https://embed-dev.blackboxsys.net/player.php?channel=sd-new&api_key=hmcb4rf66f|Referer=https://dooball66.com/
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Mono_29_Logo.png" group-title="THAILAND",Mono 29
-http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/29/29.mpd
+https://edge2-bkk.3bb.co.th:9443/MONO29_HLS_1080P/mono29hls_1080TH.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/i52auTN.png" group-title="THAILAND",MCOT
 http://mcotdigital-pnnouc.cdn.byteark.com/mcothd1080p_edge/smil:mcothd1080p.smil/chunklist_w534518664_b3000000.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/NBT_2009.png" group-title="THAILAND",NBT 2
