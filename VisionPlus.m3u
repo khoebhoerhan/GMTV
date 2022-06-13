@@ -218,6 +218,8 @@ https://v9.siar.us/siltv/live/playlist.m3u8
 http://122.248.43.138:1935/ch4/myStream/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MXDdIb6.png" group-title="LOKAL",SMTV
 http://122.248.43.138:1935/ch25/myStream/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lFmmEjR.png" group-title="LOKAL",Sriwijaya TV
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/sriwijayatvonline
 #EXTINF:-1 tvg-logo="https://i.imgur.com/L8miEQe.png" group-title="VISUAL RADIO",Suara Surabaya
 https://ssfm.siar.us/ssfm/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8U6jg6T.png" group-title="LOKAL",Surabaya TV
