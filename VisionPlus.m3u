@@ -102,7 +102,7 @@ http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/playlist
 https://b1world.beritasatumedia.com/Beritasatu/B1World_1280x720.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VMokxOy.png" group-title="NATIONAL NEWS",Jakarta Globe News Channel
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsenglish/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/42JzZAx.png" group-title="NATIONAL NEWS",TVR Parlemen
+#EXTINF:-1 tvg-logo="https://i.imgur.com/42JzZAx.png" group-title="PARLIAMENTARY",TVR Parlemen
 http://103.18.181.69:1935/golive/livestream/chunklist_w1350607412.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WVz0jk4.png" group-title="VISUAL RADIO",MG Radio Network
 https://edge.medcom.id/live-edge/smil:mgradio.smil/chunklist_w1042457750_b192000_sleng.m3u8
@@ -667,6 +667,8 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5014/default_ott.mpd
 http://ky-iptv.com:80/Bobby12345/Bobby12345/1806798.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6R8N3z2.png" group-title="ASIAN MUSIC",SBS MTV
 https://www.navchina.cf/IPTV/sbs.php?id=S09
+#EXTINF:-1 tvg-logo="https://i.imgur.com/X7VxlBN.png" group-title="ASIAN MUSIC",MTV Japan
+http://cdn.us195.jpnettv.live:1935/jptv/mtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/X7VxlBN.png" group-title="WORLD MUSIC",MTV Brasil
 http://187.85.237.8:8825/ipvt_004
 #EXTINF:-1 tvg-logo="https://i.imgur.com/B9evyCe.png" group-title="WORLD MUSIC",Polsat Music
@@ -1081,17 +1083,17 @@ http://93.184.1.247/MBC_MAX/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WA8rOnL.png" group-title="JAPANESE MOVIES",日本映画専門チャンネル
 http://50.7.74.29:8880/hls/j00003/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hnVBUzT.png" group-title="JAPANESE MOVIES",Star 1
-https://stream01.willfonk.com/live_playlist.m3u8?cid=BS200&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+http://cdn.us195.jpnettv.live:1935/jptv/starch1_720/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hnVBUzT.png" group-title="JAPANESE MOVIES",Star 2
-https://stream01.willfonk.com/live_playlist.m3u8?cid=BS201&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+http://cdn.us195.jpnettv.live:1935/jptv/starch2_720/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hnVBUzT.png" group-title="JAPANESE MOVIES",Star 3
-https://stream01.willfonk.com/live_playlist.m3u8?cid=BS202&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+http://cdn.us195.jpnettv.live:1935/jptv/starch3_720/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/s8oAVs8.png" group-title="JAPANESE MOVIES",Wowow Cinema
-https://stream01.willfonk.com/live_playlist.m3u8?cid=BS193&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+http://cdn.us195.jpnettv.live:1935/jptv/wowcinema_720/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sP1m0wl.png" group-title="JAPANESE MOVIES",Wowow Prime
-https://stream01.willfonk.com/live_playlist.m3u8?cid=BS191&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+http://cdn.us195.jpnettv.live:1935/jptv/wowprime_720/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9XiSzoQ.png" group-title="JAPANESE MOVIES",Wowow Plus
-https://stream01.willfonk.com/live_playlist.m3u8?cid=BS192&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+http://cdn.us195.jpnettv.live:1935/jptv/wowlive_720/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7RKOLNG.png" group-title="TURKISH MOVIES",beIN Box Office 1 Türkiye
 http://new-pro.tv:8080/Fernando/123321/58669
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gJVXKM6.png" group-title="TURKISH MOVIES",beIN Box Office 2 Türkiye
@@ -1628,7 +1630,7 @@ https://best-str.umn.cdn.united.cloud/stream?stream=sp1400&sp=n1info&channel=n1h
 https://liveanevia.mncnow.id/live/eds/BBCWorldNews/sa_dash_vmx/BBCWorldNews.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/j449MD4.png" group-title="BRITISH NEWS",BBC News
 http://prox.x86.co.uk/index.php/https://cdnuk001.broadcastcdn.net/KUK-BBCNEWSHD/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/BBC_Parliament_Logo.svg/1280px-BBC_Parliament_Logo.svg.png" group-title="BRITISH NEWS",BBC Parliament
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/BBC_Parliament_Logo.svg/1280px-BBC_Parliament_Logo.svg.png" group-title="PARLIAMENTARY",BBC Parliament
 https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_parliament/mobile_wifi_main_sd_abr_v2_akamai_hls_live_http.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b8/Logo_BBC_Arabic.png" group-title="ARABIC NEWS",BBC Arabic
 https://vs-cmaf-pushb-ww-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2_akamai_dash_live_http.mpd
@@ -1792,11 +1794,11 @@ https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 http://nbcnews2.akamaized.net/hls/live/723426-b/NBCNewsPlaymaker24x7Linear99a3a827-ua/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4nMN9xm.png" group-title="AMERICAN NEWS",Newsmax
 https://nmxlive.akamaized.net/hls/live/529965/Live_1/index_1080.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/C-SPAN_Logo_%282019%29.svg/1920px-C-SPAN_Logo_%282019%29.svg.png" group-title="AMERICAN NEWS",C-SPAN
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/C-SPAN_Logo_%282019%29.svg/1920px-C-SPAN_Logo_%282019%29.svg.png" group-title="PARLIAMENTARY",C-SPAN
 http://trn03.tulix.tv/teleup-cspan/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/xqi6VLY.png" group-title="AMERICAN NEWS",C-SPAN 2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xqi6VLY.png" group-title="PARLIAMENTARY",C-SPAN 2
 https://skystreams-lh.akamaihd.net/i/SkyC2_1@500807/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/d9scAyX.png" group-title="AMERICAN NEWS",C-SPAN 3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/d9scAyX.png" group-title="PARLIAMENTARY",C-SPAN 3
 https://skystreams-lh.akamaihd.net/i/SkyC3_1@500808/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YvWkxuj.png" group-title="CANADIAN NEWS",CBC News Network
 https://livecbcdai-i.akamaihd.net/hls/live/567245/event2/CBCNN/master5.m3u8
@@ -1806,6 +1808,8 @@ http://ky-iptv.com:80/nicholas/123456789/181909.ts
 https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Pf8hnQK.png" group-title="CANADIAN NEWS",Ici RDI
 https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master_2500.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8jIPUgH.png" group-title="PARLIAMENTARY",CPAC
+https://d7z3qjdsxbwoq.cloudfront.net/groupa/live/f9809cea-1e07-47cd-a94d-2ddd3e1351db/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/35/GB_News_Logo.svg/1920px-GB_News_Logo.svg.png" group-title="BRITISH NEWS",GB News
 https://live-gbnews.simplestreamcdn.com/gbnews/gbnews/bitrate1.isml/bitrate1-audio_0=192000-video=4499968.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4o0oDKk.jpeg" group-title="BRITISH NEWS",RTÉ News
@@ -1879,6 +1883,10 @@ https://monchyxd.herokuapp.com/iptv-query?streaming-ip=https://www.dailymotion.c
 http://stariptv.org:8080/nour2020/123456/4923
 #EXTINF:-1 tvg-logo="https://i.imgur.com/v7Zj0iJ.png" group-title="FRENCH NEWS",TV5 Monde Info
 https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SKRL1MQ.png" group-title="PARLIAMENTARY",LCP
+http://callofliberty.fr/stream/LCP/master.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/4/4b/Logo_Public_S%C3%A9nat_%282019%29.svg/langfr-1920px-Logo_Public_S%C3%A9nat_%282019%29.svg.png" group-title="PARLIAMENTARY",Public Sénat
+http://callofliberty.fr/stream/PublicSenat/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wWHiR9B.png" group-title="FRENCH NEWS",LN24
 https://hls-origin01-ln24.cdn01.rambla.be/adliveorigin-ln24/_definst_/ApYjOq.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/RTS_Info_logo_2019.svg/1920px-RTS_Info_logo_2019.svg.png" group-title="FRENCH NEWS",RTS Info
@@ -1926,11 +1934,11 @@ https://rtmlive02tv.secureswiftcontent.com/rtmchannel/03-manifest.mpd
 https://raw.githubusercontent.com/AqFad2811/BernamaHDYT/main/youtube.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mzfSx2B.png" group-title="MALAY NEWS",Dewan Negara
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mzfSx2B.png" group-title="PARLIAMENTARY",Dewan Negara
 https://rtmlive08tv.secureswiftcontent.com/rtmchannel/08-manifest.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mzfSx2B.png" group-title="MALAY NEWS",Dewan Rakyat
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mzfSx2B.png" group-title="PARLIAMENTARY",Dewan Rakyat
 https://rtmlive04tv.secureswiftcontent.com/rtmchannel/04-manifest.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/11xpNSu.jpg" group-title="VISUAL RADIO",TeleRadyo
 https://abscbn-ono.akamaized.net/midroll/amagi_hls_data_abscbnAAA-abscbn-teleradyo-oando/CDN/playlist.m3u8
@@ -2073,8 +2081,9 @@ https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
 https://aajtakhdlive-amd.akamaized.net/hls/live/2014415-b/aajtakhd/aajtakhdlive/aajtakhd_5/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3MeMPyJ.png" group-title="HINDI NEWS",ABP News India
 https://abplivetv.akamaized.net/hls/live/2043010/hindi/master_720p.m3u8
+#EXTVLCOPT:http-referrer=https://webcast.gov.in/
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XY90ZZQ.png" group-title="HINDI NEWS",DD News
-https://nicls1-lh.akamaihd.net/i/ddnews_1@409133/master.m3u8?checkedby:hlscat.com
+https://playhls.media.nic.in/hls/live/ddnews/ddnews.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dLoKNoF.png" group-title="HINDI NEWS",Good News Today
 https://tezlive-amd.akamaized.net/hls/live/2016145/tez/tezlive/tez_5/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mgkIqLN.png" group-title="HINDI NEWS",India News
@@ -2099,6 +2108,10 @@ https://vidcdn.vidgyor.com/tv9bharatvarsh-origin/live/tv9bharatvarsh-origin/live
 http://dnyanesh.in1.bitmana.io/autoq.php?c=Zee_SANGAM
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ebqagsj.png" group-title="HINDI NEWS",Zee News
 https://d233nwklwv8p4.cloudfront.net/out/v1/860cb318d23a4c64b58c9d625281170c/index_3.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wHNzQ4U.png" group-title="PARLIAMENTARY",Sansad TV
+https://hls.media.nic.in/hls/live/lstv/lstv.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wHNzQ4U.png" group-title="PARLIAMENTARY",Sansad TV HD
+https://hls.media.nic.in/hls/live/rstv/rstv.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MjhkOWZkZjYtOGViOC0zNTkzLWFhOWEtNGFhMzJkMDk3NGE2
 #EXTINF:-1 tvg-logo="https://i.imgur.com/u4zDsl3.png" group-title="BUSINESS NEWS",Bloomberg TV Asia
@@ -3602,12 +3615,16 @@ https://stream01.willfonk.com/live_playlist.m3u8?cid=BS245&r=HD&ccode=JP&m=d0:20
 https://stream01.willfonk.com/live_playlist.m3u8?cid=CS257&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8TcSkND.png" group-title="JAPANESE SPORTS",Sky A
 https://stream01.willfonk.com/live_playlist.m3u8?cid=CS250&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/x4dJGb7.png" group-title="KOREAN SPORTS",KBS N Sports
+http://51.81.66.195:1935/krtv/kbs_n_sports_540/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/MBC_SportsPlus.svg/1200px-MBC_SportsPlus.svg.png" group-title="KOREAN SPORTS",MBC Sports+
+http://51.81.66.195:1935/krtv/mbc_sports_540/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/SBS_Golf_logo_2018.svg/1920px-SBS_Golf_logo_2018.svg.png" group-title="KOREAN SPORTS",SBS Golf
 http://ye23.win/iptv/sbs5.1.php?id=S05
 #EXTINF:-1 tvg-logo="https://i.imgur.com/R5gsdt5.png" group-title="KOREAN SPORTS",SBS Sports
 http://ye23.win/iptv/sbs5.1.php?id=S02
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Bj0MyZQ.png" group-title="KOREAN SPORTS",SPOTV
-http://211.203.0.244:9981/stream/channelid/32768418.m3u8
+http://51.81.66.195:1935/krtv/spotv_540/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WbPfNOb.png" group-title="KOREAN SPORTS",SPOTV 2
 http://211.203.0.244:9981/stream/channelid/784633781.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
@@ -4358,45 +4375,45 @@ http://new-pro.tv:8080/Fernando/123321/67196
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VmTkdjC.png" group-title="ITALY",TV 8
 http://new-pro.tv:8080/Fernando/123321/67034
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png/800px-NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png" group-title="JAPAN",NHK G
-http://jptv.dinhluong.jp:8080/hls/nhkg/index.m3u8
+http://cdn.us195.jpnettv.live:1935/jptv/kansi_nhk_g_540/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.png/800px-NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.png" group-title="JAPAN",NHK E
-http://51.79.193.108:8080/hls/j00034/index.m3u8
+https://cdn.us195.jpnettv.live/jptv/kanto_nhk_edu_540/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bOT4gT8.png" group-title="JAPAN",Nippon TV
-http://50.7.74.29:8880/hlsok/j00004/index.m3u8
+https://ntv2.mov3.co/hls/ntv.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/TV_Asahi_Logo.svg/1920px-TV_Asahi_Logo.svg.png" group-title="JAPAN",TV Asahi
 http://50.7.74.29:8880/hlsok/j00014/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Tokyo_Broadcasting_System_logo_2020.svg/1920px-Tokyo_Broadcasting_System_logo_2020.svg.png" group-title="JAPAN",TBS
-http://50.7.74.29:8880/hlsok/j00031/index.m3u8
+https://tbs1.mov3.co/hls/tbs.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/TV_Tokyo_logo_20110629.svg/1920px-TV_Tokyo_logo_20110629.svg.png" group-title="JAPAN",TV Tokyo
 http://211.21.12.236:11935/live/gd07.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZGeU8K9.png" group-title="JAPAN",Fuji TV
 https://fujitv1.mov3.co/hls/fujitv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AkM9Xjl.png" group-title="JAPAN",NHK BSP
-https://stream01.willfonk.com/live_playlist.m3u8?cid=BS103&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+http://cdn.us195.jpnettv.live:1935/jptv/bspremium_720/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rCwG8Jr.png" group-title="JAPAN",NHK BS1
-https://stream01.willfonk.com/live_playlist.m3u8?cid=BS101&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+http://cdn.us195.jpnettv.live:1935/jptv/nhkbs1_720/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ol4pu18.png" group-title="JAPAN",BS Nippon TV
-https://stream01.willfonk.com/live_playlist.m3u8?cid=BS141&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+http://cdn.us195.jpnettv.live:1935/jptv/bsnihontv_720/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OqFXMUF.png" group-title="JAPAN",BS Asahi
-https://stream01.willfonk.com/live_playlist.m3u8?cid=BS151&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+http://cdn.us195.jpnettv.live:1935/jptv/bsasahi_720/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/BS-TBS_2020.svg/1280px-BS-TBS_2020.svg.png" group-title="JAPAN",BS TBS
-https://stream01.willfonk.com/live_playlist.m3u8?cid=BS161&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+http://cdn.us195.jpnettv.live:1935/jptv/bstbs_720/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7uL65t7.png" group-title="JAPAN",BS Tokyo
-https://stream01.willfonk.com/live_playlist.m3u8?cid=BS171&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+http://cdn.us195.jpnettv.live:1935/jptv/bsjapan_720/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MmTbzAf.png" group-title="JAPAN",BS Fuji
-https://stream01.willfonk.com/live_playlist.m3u8?cid=BS181&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+http://cdn.us195.jpnettv.live:1935/jptv/bsfuji_720/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/KaJNjF1.png" group-title="KOREA",Channel A
 http://ye23.win/iptv/korea2021.php?id=Channel
 #EXTINF:0 tvg-logo="https://i.imgur.com/mGIO50z.png" group-title="KOREA",JTBC
-https://ppmk.my.id/korea/jtbc.m3u8
+http://51.81.66.195:1935/krtv/jtbc_540/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/r9gNY5R.png" group-title="KOREA",MBC
 https://5ddfd163bd00d.streamlock.net/nHDTV/nHDTV/chunklist_w2017323832.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/KBS_1_logo.svg/1920px-KBS_1_logo.svg.png" group-title="KOREA",KBS 1
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/KBS_1_logo.svg/1920px-KBS_1_logo.svg.png" group-title="KOREA",KBS 1TV
 http://itskoi.dothome.co.kr/kbs.php?id=11
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/KBS_2_logo.svg/1920px-KBS_2_logo.svg.png" group-title="KOREA",KBS 2
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/KBS_2_logo.svg/1920px-KBS_2_logo.svg.png" group-title="KOREA",KBS 2TV
 http://itskoi.dothome.co.kr/kbs.php?id=12
 #EXTINF:0 tvg-logo="https://i.imgur.com/4CRXneT.png" group-title="KOREA",KBS Joy
-http://ppmk.my.id/korea/kor.m3u8?id=kbsjoy
+http://51.81.66.195:1935/krtv/kbs_joy_540/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/7XCSOFp.png" group-title="KOREA",KBS Life
 http://ppmk.my.id/korea/kor.m3u8?id=kbslife
 #EXTINF:0 tvg-logo="https://i.imgur.com/BzqSUVF.png" group-title="KOREA",SBS
@@ -4406,9 +4423,9 @@ http://ye23.win/iptv/sbs5.1.php?id=S04
 #EXTINF:0 tvg-logo="https://i.imgur.com/tzTx3Ta.png" group-title="KOREA",SBS Plus
 http://ye23.win/iptv/sbs5.1.php?id=S03
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ho02Nl2.png" group-title="KOREA",MNet
-https://andistores.online/shelby/korea.m3u8?shelby=mnet
+http://51.81.66.195:1935/krtv/mnet_540/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Logo_tvN.svg/1920px-Logo_tvN.svg.png" group-title="KOREA",tvN
-https://andistores.online/shelby/korea.m3u8?shelby=tvn_kr
+https://tvn-seezn.pip.cjenm.com/tvn/_definst_/s5/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2MjI4OTQ5OTUsInBhdGgiOiIvdHZuL19kZWZpbnN0Xy9zNSIsInVubyI6IjE2MjI4OTQ2OTU0MzQzNTU1NSIsImlhdCI6MTYyMjg5NDY5NX0.uTI9slMSRoAbTQ0zGWoEWepnugD9iC-LumyD4dUMJSE
 #EXTINF:-1 tvg-logo="https://i.imgur.com/L0E2Mtw.png" group-title="KOREA",tvN Show
 https://xtvn-seezn.pip.cjenm.com/xtvn/_definst_/s5/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2MjI4NDEzOTcsInBhdGgiOiIveHR2bi9fZGVmaW5zdF8vczUiLCJ1bm8iOiIxNjIyODQxMDk3Mzc3ODk1NDkiLCJpYXQiOjE2MjI4NDEwOTd9.9pi9B9edYbRI9XfkmAzB_Eo1bYiv9ubHtljPhMNAKfM
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XALETXe.png" group-title="KOSOVO",RTK 1
