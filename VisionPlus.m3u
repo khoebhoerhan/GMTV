@@ -1591,7 +1591,7 @@ https://nonton.site:8443/Thopani/Haidir/14944
 #EXTINF:-1 tvg-logo="https://i.imgur.com/X5hWh3L.png" group-title="KNOWLEDGE",Pet TV
 https://ott-navigator.my.id/vidio/vidio_master.m3u8?channel=pettv
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bc/Science_Channel_2016.png" group-title="KNOWLEDGE",Science
-https://16live00.akamaized.net/DISCOVERY_SCIENCE/index.m3u8
+http://38.127.211.18/live/c2eds/Science/HLS/index.m3u8
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ae/RTD-TV-logo.png" group-title="KNOWLEDGE",RT Documentary
@@ -1711,7 +1711,7 @@ http://evronovosti.mediacdn.ru/sr1/evronovosti/playlist_2m.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ovw6IZk.jpg" group-title="ALBANIAN NEWS",Euronews Albania
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/EuronewsAlbania/live
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tXzX8Rs.png" group-title="NON-ENGLISH NEWS",Euronews Serbia
-https://d1ei8ofhgfmkac.cloudfront.net/app-19518-1306/ngrp:QoZfNjsg_all/chunklist_w1302619168_b6256000.m3u8
+https://d1ei8ofhgfmkac.cloudfront.net/app-19518-1306/ngrp:QoZfNjsg_all/chunklist_w1797442721_b6256000.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bolSFJw.png" group-title="NON-ENGLISH NEWS",Euronews Georgia
 https://live2.tvg.ge/eng/EURONEWSGEORGIA/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -4164,7 +4164,7 @@ http://195.29.70.67/PLTV/88888888/224/3221226195/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/RTL_2_Logo.svg/1024px-RTL_2_Logo.svg.png" group-title="CROATIA",RTL 2 Hrvatska
 http://red.ipfox.org:8080/1234/12345678/26409
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/%C4%8CT1_logo_2012.svg/1920px-%C4%8CT1_logo_2012.svg.png" group-title="CZECH REPUBLIC",ČT1
-http://crystalott.org:80/CKVRKUO4L3/IRTRILUKU7/9694
+http://213.151.233.20:8000/dna-5100-tv-pc.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/%C4%8CT2_logo_2012.svg/1920px-%C4%8CT2_logo_2012.svg.png" group-title="CZECH REPUBLIC",ČT2
 http://crystalott.org:80/CKVRKUO4L3/IRTRILUKU7/9693
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/%C4%8CT3_logo_2020.svg/1920px-%C4%8CT3_logo_2020.svg.png" group-title="CZECH REPUBLIC",ČT3
@@ -4172,7 +4172,7 @@ http://ptv.is:2095/t9m28tPG/j4PdbhNF/106586
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9tMBhM5.png" group-title="CZECH REPUBLIC",Markiza
 http://ntv-st01-vod01-bts10-stage.orange.sk:8000/dna-5106-tv-pc/hls/4001v102.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/TV_Nova_logo_2017.png" group-title="CZECH REPUBLIC",Nova
-http://crystalott.org:80/CKVRKUO4L3/IRTRILUKU7/9682
+https://nova-live.ssl.cdn.cra.cz/channels/nova_avod/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b6/Nova_Action_logo_2021.png" group-title="CZECH REPUBLIC",Nova Action
 http://crystalott.org:80/CKVRKUO4L3/IRTRILUKU7/9659
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e1/Logo_Nova_FUN.png" group-title="CZECH REPUBLIC",Nova Fun
