@@ -2944,14 +2944,18 @@ http://62.28.71.186:45678/http/192.168.150.137:7137/eleven5
 http://62.28.71.186:45678/http/192.168.150.137:7137/eleven6
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/800px-NBA_TV.svg.png" group-title="PORTUGUESE SPORTS",NBA TV
 http://stariptv.org:8080/nour2020/123456/44058
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pcAhRs8.png" group-title="PORTUGUESE SPORTS",Sport TV 1
-http://stariptv.org:8080/nour2020/123456/4119
+https://smart-tv.livedoomovie.com:4431/02_SPORTTV_1_720p/chunklist.m3u8|Referer=https://www.movie87hd.com/?r=ajax
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CPt6Fsg.png" group-title="PORTUGUESE SPORTS",Sport TV 2
-http://stariptv.org:8080/nour2020/123456/4120
+https://smart-tv.livedoomovie.com:4431/02_SPORTTV_2_720p/chunklist.m3u8|Referer=https://www.movie87hd.com/?r=ajax
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wbhOsK2.png" group-title="PORTUGUESE SPORTS",Sport TV 3
-http://stariptv.org:8080/nour2020/123456/4121
+https://smart-tv.livedoomovie.com:4431/02_SPORTTV_3_720p/chunklist.m3u8|Referer=https://www.movie87hd.com/?r=ajax
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTINF:-1 tvg-logo="https://i.imgur.com/itYiAnd.png" group-title="PORTUGUESE SPORTS",Sport TV 4
-http://stariptv.org:8080/nour2020/123456/4122
+https://smart-tv.livedoomovie.com:4431/02_SPORTTV_4_720p/chunklist.m3u8|Referer=https://www.movie87hd.com/?r=ajax
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LblSggR.png" group-title="PORTUGUESE SPORTS",Sport TV 5
 http://stariptv.org:8080/nour2020/123456/4185
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RbFoVdH.png" group-title="PORTUGUESE SPORTS",Sport TV 6
