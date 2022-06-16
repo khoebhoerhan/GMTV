@@ -92,8 +92,6 @@ https://edge.medcom.id/live-edge/smil:mgradio.smil/chunklist_w1042457750_b192000
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MjhkOWZkZjYtOGViOC0zNTkzLWFhOWEtNGFhMzJkMDk3NGE2
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/2/20/TvOne_logo_2012.svg/1280px-TvOne_logo_2012.svg.png" group-title="NATIONAL NEWS",tvOne
 https://stream-cdn.mncnow.id/live/eds/TVOne-2/sa_dash_vmx/TVOne-2.mpd
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mhdiCHb.png" group-title="NATIONAL NEWS",Liputan 6 Live
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UC1QpnGo11epfexw1bIiTHTg/live
 #EXTINF:-1 tvg-logo="https://i.imgur.com/I6uzeS6.png" group-title="LOKAL",Agropolitan TV
 http://45.80.181.150:8080/hls/agropolitantv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PgOce2p.png" group-title="LOKAL",Arek TV
@@ -1411,8 +1409,9 @@ https://kv-k21-mc02.ollcdn.net/trku-live/20/a5d0f259a48c6bef7e875a438724b9c6/61e
 http://ky-iptv.com:80/nicholas/123456789/219161.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2gbx538.png" group-title="THAI SERIES",True Asian More
 http://45.91.134.57:25461/sweet/7749/11138
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTINF:-1 tvg-logo="https://i.imgur.com/V5wdetY.png" group-title="THAI SERIES",True Chinese More
-http://45.91.134.57:25461/sweet/7749/11136
+https://smart-tv.livedoomovie.com/02_FoxMoviesHD_720p/chunklist.m3u8|Referer=https://www.movie87hd.com/?r=ajax
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZXjC5Vz.png" group-title="THAI SERIES",True Korean More
 http://45.91.134.57:25461/sweet/7749/11137
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1518,8 +1517,9 @@ http://wanicelife.com:8880/live/SWFAF1221601/5PT5WX5J/71073.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MjhkOWZkZjYtOGViOC0zNTkzLWFhOWEtNGFhMzJkMDk3NGE2
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hKn75WG.png" group-title="KNOWLEDGE",History Asia
 https://stream-cdn.mncnow.id/live/eds/History/sa_dash_vmx/History.mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9EFDndr.png" group-title="KNOWLEDGE",History 2
-http://45.91.134.57:25461/sweet/7749/279
+https://smart-tv.livedoomovie.com/02_H2HD_720p/chunklist.m3u8|Referer=https://www.movie87hd.com/?r=ajax
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MjhkOWZkZjYtOGViOC0zNTkzLWFhOWEtNGFhMzJkMDk3NGE2
 #EXTINF:-1 tvg-logo="https://i.imgur.com/O13uMvJ.png" group-title="KNOWLEDGE",National Geographic Asia
@@ -4496,8 +4496,6 @@ http://5gfksa.ltd:2052/334455/554433/128118
 http://5gfksa.ltd:2052/334455/554433/128113
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/b/bf/Kapamilya_Channel_%282020-.n.v.%29.png" group-title="PHILIPPINES",Kapamilya Channel
 http://platinumxmedia.xyz:8080/live/Instahub/bxL8msMEF2V3/49242.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/h9P390M.png" group-title="PHILIPPINES",Kapamilya Online Live
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCstEtN0pgOmCf02EdXsGChw/live
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UrDMl5Z.png" group-title="PHILIPPINES",A2Z Channel 11
 http://95.214.235.96:8880/SFL122431/N6EG15T0/50128
 #EXTINF:-1 tvg-logo="https://www.tv5.com.ph/assets/images/five-logo-red.png" group-title="PHILIPPINES",TV5
