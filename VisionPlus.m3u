@@ -1852,7 +1852,7 @@ https://d2xqcdx4c8vu9s.cloudfront.net/out/v1/15b8393e9a9240b8bedd4c79ccefb301/in
 #EXTINF:-1 tvg-logo="https://i.imgur.com/r38Camc.png" group-title="INDIAN NEWS",India Today
 https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/indiatoday_5/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/aa/Times_Now_2010.png" group-title="INDIAN NEWS",Times Now
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=VzwQZAQ69tM
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/TimesNow/live
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dt5xRpi.png" group-title="INDIAN NEWS",Mirror Now
 http://mbnowweb-lh.akamaihd.net/i/MRN_1@346545/index_576_av-p.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Atn4Ppt.png" group-title="INDIAN NEWS",India Ahead
@@ -2011,6 +2011,14 @@ http://ky-iptv.com:80/Bobby12345/Bobby12345/219144.ts
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9.0; MI 8 SE) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.119 Mobile Safari/537.36
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cojVDUx.png" group-title="POLISH NEWS",Wydarzenia 24
 http://ky-iptv.com:80/Bobby12345/Bobby12345/219130.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yAlJZEW.png" group-title="POLISH NEWS",Republika
+https://ec08.luz1.cache.orange.pl/jupiter/o2-cl7/live/tvrepublika/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uQVqEIH.png" group-title="PARLIAMENTARY",TVP Parlament 1
+http://hbbtvlive3.v3.tvp.pl/hbbtvlive/livestream.php?app_id=kanal1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uQVqEIH.png" group-title="PARLIAMENTARY",TVP Parlament 2
+http://hbbtvlive3.v3.tvp.pl/hbbtvlive/livestream.php?app_id=kanal2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uQVqEIH.png" group-title="PARLIAMENTARY",TVP Parlament Senat
+http://hbbtvlive3.v3.tvp.pl/hbbtvlive/livestream.php?app_id=senat
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TpBpUU4.png" group-title="PORTUGUESE NEWS",SIC Notícias
 https://sicnot.live.impresa.pt/sicnot.m3u8
 #KODIPROP:inputstream=inputstream.adaptive
@@ -4521,7 +4529,7 @@ http://5gfksa.ltd:2052/334455/554433/128113
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/b/bf/Kapamilya_Channel_%282020-.n.v.%29.png" group-title="PHILIPPINES",Kapamilya Channel
 http://platinumxmedia.xyz:8080/live/Instahub/bxL8msMEF2V3/49242.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/h9P390M.png" group-title="PHILIPPINES",Kapamilya Online Live
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/abscbnentertainment/live
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCstEtN0pgOmCf02EdXsGChw/live
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UrDMl5Z.png" group-title="PHILIPPINES",A2Z Channel 11
 http://95.214.235.96:8880/SFL122431/N6EG15T0/50128
 #EXTINF:-1 tvg-logo="https://www.tv5.com.ph/assets/images/five-logo-red.png" group-title="PHILIPPINES",TV5
