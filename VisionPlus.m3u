@@ -76,8 +76,10 @@ http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRI3)/index.m3u8
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w891045790_b384000_sleng.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qdJUDL8.png" group-title="NATIONAL NEWS",CNBC Indonesia
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w1843433135_b384000_sleng.m3u8
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MjhkOWZkZjYtOGViOC0zNTkzLWFhOWEtNGFhMzJkMDk3NGE2
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/7/7a/KOMPAS_TV_%282017%29.png/1197px-KOMPAS_TV_%282017%29.png" group-title="NATIONAL NEWS",Kompas TV
-https://live-kg.jixie.media/live/kompastv_lhd.m3u8
+https://stream-cdn.mncnow.id/live/eds/KompasTV/sa_dash_vmx/KompasTV.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RrjCro1.png" group-title="NATIONAL NEWS",Berita Satu
 https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/m0ZTn47.png" group-title="NATIONAL NEWS",Berita Satu World
@@ -650,7 +652,7 @@ https://16live00.akamaized.net/MTV_LIVE/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/X7VxlBN.png" group-title="ASIAN MUSIC",MTV South East Asia
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5014/default_ott.mpd
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Myxphlogo.svg/1200px-Myxphlogo.svg.png" group-title="ASIAN MUSIC",Myx
-http://ky-iptv.com:80/Bobby12345/Bobby12345/1806798.ts
+https://abscbn-ono.akamaized.net/midroll/amagi_hls_data_abscbnAAA-abscbn-myxnola/CDN/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6R8N3z2.png" group-title="ASIAN MUSIC",SBS MTV
 https://www.navchina.cf/IPTV/sbs.php?id=S09
 #EXTINF:-1 tvg-logo="https://i.imgur.com/X7VxlBN.png" group-title="ASIAN MUSIC",MTV Japan
@@ -2008,7 +2010,7 @@ https://live.topnews.co.th/hls/topnews.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KIK1p0o.png" group-title="THAI NEWS",TPTV
 http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/10/10.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9odNJCy.png" group-title="PINOY NEWS",ANC
-http://platinumxmedia.xyz:8080/live/Instahub/bxL8msMEF2V3/49243.m3u8
+https://abscbn-ono.akamaized.net/midroll/amagi_hls_data_abscbnAAA-abscbn-anc-global/CDN/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HnS25Hi.png" group-title="PINOY NEWS",DZRH TV
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/DZRHNewsTelevision/live
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mUtDgqk.png" group-title="PINOY NEWS",GMA News TV International
