@@ -752,6 +752,8 @@ http://live.flixhub.net/hls/utvaction.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=e95c72a41b5ea9957b07facd95542410&key=a5e0de041ca2766754a37952b3468eb2
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Uctv8BF.png" group-title="MOVIES",Showcase Movies
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5054/default_primary.mpd
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6d/Cinema_One_2013_logo.svg/1200px-Cinema_One_2013_logo.svg.png" group-title="ASIAN MOVIES",Cinema One
+https://abscbn-ono.akamaized.net/midroll/amagi_hls_data_abscbnAAA-abscbn-cinemaone/CDN/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GA2ny64.png" group-title="ASIAN MOVIES",Star Chinese Movies
 http://59.125.101.187:8596/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -2637,9 +2639,6 @@ http://gooserace.xyz:80/play/8RKaarZp2hb82YDzh8OYR9A5XmeCtLKWD8xLSKh_Jrc
 http://hdhd.tk:80/772299/772299/23204
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/cd/PBA_Rush_logo.png" group-title="PINOY SPORTS",PBA Rush
 http://gooserace.xyz:80/play/8RKaarZp2hb82YDzh8OYR7wG0usFzwFnzMKtFeBBFkM
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wHtr2oq.png" group-title="PINOY SPORTS",UAAP Varsity
-https://d34ze94kpk7ff2.cloudfront.net/out/v1/01965b49a4994ac4aa3838db2b7be200/index.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UEFLKbr.png" group-title="PINOY SPORTS",NCAA Philippines
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/NCAAPhilippines/live
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1920px-ESPN_wordmark.svg.png" group-title="AUSTRALIAN SPORTS",ESPN Australia
@@ -4518,7 +4517,7 @@ http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eep
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WeMtQ9y.png" group-title="PHILIPPINES",Net 25
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/Net25Tv/live
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QTHVWGZ.png" group-title="PHILIPPINES",Cine Mo!
-http://platinumxmedia.xyz:8080/live/Instahub/bxL8msMEF2V3/61573.m3u8
+https://abscbn-ono.akamaized.net/midroll/amagi_hls_data_abscbnAAA-abscbn-cinemo/CDN/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wy3Q2iq.png" group-title="PHILIPPINES",Sari Sari Channel
 http://ky-iptv.com:80/nicholas/123456789/1806811.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/40/GTV_Philippines_Logo_Vector.svg/1280px-GTV_Philippines_Logo_Vector.svg.png" group-title="PHILIPPINES",GTV
