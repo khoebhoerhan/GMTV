@@ -338,6 +338,10 @@ https://stream-cdn.mncnow.id/live/eds/KIX/sa_dash_vmx/KIX.mpd
 https://stream-cdn.mncnow.id/live/eds/WarnerTV/sa_dash_vmx/WarnerTV.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MjhkOWZkZjYtOGViOC0zNTkzLWFhOWEtNGFhMzJkMDk3NGE2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VGjVGdU.png" group-title="GENERAL ENTERTAINMENT",Crime + Investigation Asia
+https://stream-cdn.mncnow.id/live/eds/CrimeInvestigation/sa_dash_vmx/CrimeInvestigation.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MjhkOWZkZjYtOGViOC0zNTkzLWFhOWEtNGFhMzJkMDk3NGE2
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EZQZ2Dl.png" group-title="GENERAL ENTERTAINMENT",AXN East Asia
 https://stream-cdn.mncnow.id/live/eds/AXN/sa_dash_vmx/AXN.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
@@ -755,11 +759,11 @@ https://stream-cdn.mncnow.id/live/eds/Thrill/sa_dash_vmx/Thrill.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MjhkOWZkZjYtOGViOC0zNTkzLWFhOWEtNGFhMzJkMDk3NGE2
 #EXTINF:-1 tvg-language="" tvg-logo="https://i.imgur.com/XMAtMiv.png" group-title="ASIAN MOVIES",Celestial Movies Indonesia
-https://liveanevia.mncnow.id/live/eds/CelestialMovie/sa_dash_vmx/CelestialMovie.mpd
+https://stream-cdn.mncnow.id/live/eds/CelestialMovie/sa_dash_vmx/CelestialMovie.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MjhkOWZkZjYtOGViOC0zNTkzLWFhOWEtNGFhMzJkMDk3NGE2
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kjrJpJg.png" group-title="ASIAN MOVIES",Celestial Classic Movies
-https://liveanevia.mncnow.id/live/eds/CelestialClassic/sa_dash_vmx/CelestialClassic.mpd
+https://stream-cdn.mncnow.id/live/eds/CelestialClassic/sa_dash_vmx/CelestialClassic.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cSho1qa.png" group-title="ASIAN MOVIES",K+ Cine
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -768,7 +772,7 @@ http://s28214.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd?c=vstv339&offset=1&nodelay=1
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MjhkOWZkZjYtOGViOC0zNTkzLWFhOWEtNGFhMzJkMDk3NGE2
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Krk8Lxa.png" group-title="HINDI MOVIES",Zee Bioskop
-https://liveanevia.mncnow.id/live/eds/ZeeBIOSKOP/sa_dash_vmx/ZeeBIOSKOP.mpd
+https://stream-cdn.mncnow.id/live/eds/ZeeBIOSKOP/sa_dash_vmx/ZeeBIOSKOP.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OmibwXx.png" group-title="HINDI MOVIES",Zee Action
 http://208.115.215.42/ZEE_ActIon_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NXCjJ9n.png" group-title="HINDI MOVIES",Zee Anmol Cinema
@@ -995,7 +999,7 @@ http://stariptv.org:8080/wael2021/123456/148470
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EYFQ2tt.png" group-title="AMERICAN MOVIES",HBO Zone
 http://myhosting.one:8080/arsenal1/arsenal1/261308
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nB3vppg.png" group-title="AMERICAN MOVIES",Lifetime Movie Network
-https://16live00.akamaized.net/LIFETIME_MOVIE_NETWORK/index.m3u8
+http://38.127.211.18/live/c2eds/LMN/HLS/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oy6rYcx.png" group-title="AMERICAN MOVIES",MoreMax
 https://16live00.akamaized.net/CINEMAX_MORE/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/F21GI0s.png" group-title="AMERICAN MOVIES",Showtime Extreme
@@ -1536,10 +1540,6 @@ https://stream-cdn.mncnow.id/live/eds/AnimalPlanet/sa_dash_vmx/AnimalPlanet.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MjhkOWZkZjYtOGViOC0zNTkzLWFhOWEtNGFhMzJkMDk3NGE2
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png" group-title="KNOWLEDGE",BBC Earth Asia
 https://stream-cdn.mncnow.id/live/eds/BBCEarth-HD/sa_dash_vmx/BBCEarth-HD.mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MjhkOWZkZjYtOGViOC0zNTkzLWFhOWEtNGFhMzJkMDk3NGE2
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VGjVGdU.png" group-title="KNOWLEDGE",Crime + Investigation Asia
-https://stream-cdn.mncnow.id/live/eds/CrimeInvestigation/sa_dash_vmx/CrimeInvestigation.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VzXQDtW.png" group-title="KNOWLEDGE",Sky Arts
 http://crystalott.org:80/CKVRKUO4L3/IRTRILUKU7/4839
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Sky_Documentaries.svg/1920px-Sky_Documentaries.svg.png" group-title="KNOWLEDGE",Sky Documentaries
@@ -1656,32 +1656,32 @@ https://rt-fra.rttv.com/live/rtfrance/playlist.m3u8
 https://rt-ger.rttv.com/live/rtdeutsch/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/800px-Russia-today-logo.svg.png" group-title="ARABIC NEWS",RT Arabic
 https://rt-arb.rttv.com/live/rtarab/playlist.m3u8
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MjhkOWZkZjYtOGViOC0zNTkzLWFhOWEtNGFhMzJkMDk3NGE2
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7ENpOTr.png" group-title="WORLD NEWS",Euronews English
-https://stream-cdn.mncnow.id/live/eds/EuroNews/sa_dash_vmx/EuroNews.mpd
+https://euronews.alteox.app/hls/en_stream.m3u8
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7ENpOTr.png" group-title="GERMAN NEWS",Euronews Deutsch
-https://rakuten-euronews-5-de.samsung.wurl.com/manifest/playlist.m3u8
+https://euronews.alteox.app/hls/de_stream.m3u8
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7ENpOTr.png" group-title="SPANISH NEWS",Euronews Español
-https://rakuten-euronews-4-es.samsung.wurl.com/manifest/playlist.m3u8
+https://euronews.alteox.app/hls/es_stream.m3u8
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7ENpOTr.png" group-title="FRENCH NEWS",Euronews Français
-https://rakuten-euronews-2-fr.samsung.wurl.com/manifest/playlist.m3u8
+https://euronews.alteox.app/hls/fr_stream.m3u8
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7ENpOTr.png" group-title="ITALIAN NEWS",Euronews Italiano
-https://rakuten-euronews-3-it.samsung.wurl.com/manifest/playlist.m3u8
+https://euronews.alteox.app/hls/it_stream.m3u8
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7ENpOTr.png" group-title="PORTUGUESE NEWS",Euronews Português
-https://rakuten-euronews-8-pt.samsung.wurl.com/manifest/playlist.m3u8
+https://euronews.alteox.app/hls/pt_stream.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7ENpOTr.png" group-title="RUSSIAN NEWS",Euronews Русский
-http://evronovosti.mediacdn.ru/sr1/evronovosti/playlist_2m.m3u8
+https://euronews.alteox.app/hls/ru_stream.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ovw6IZk.jpg" group-title="ALBANIAN NEWS",Euronews Albania
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/EuronewsAlbania/live
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tXzX8Rs.png" group-title="NON-ENGLISH NEWS",Euronews Serbia
@@ -2571,9 +2571,9 @@ http://crystalott.org:80/CKVRKUO4L3/IRTRILUKU7/234259
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1g9mYwr.png" group-title="AMERICAN SPORTS",CBS Sports Network
 http://new-pro.tv:8080/Fernando/123321/70380
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1920px-ESPN_wordmark.svg.png" group-title="AMERICAN SPORTS",ESPN
-http://stariptv.org:8080/nour2020/123456/148465
+http://38.127.211.18/live/c2eds/ESPN1USA/HLS/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/1280px-ESPN2_logo.svg.png" group-title="AMERICAN SPORTS",ESPN 2
-http://stariptv.org:8080/nour2020/123456/148466
+http://38.127.211.18/live/c2eds/ESPN2USA/HLS/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YhuEewa.png" group-title="AMERICAN SPORTS",ESPN Deportes
 http://new-pro.tv:8080/Fernando/123321/90152
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/ESPNews.svg/1920px-ESPNews.svg.png" group-title="AMERICAN SPORTS",ESPNews
@@ -3617,10 +3617,12 @@ http://51.81.66.195:1935/krtv/mbc_sports_540/playlist.m3u8
 http://ye23.win/iptv/sbs5.1.php?id=S05
 #EXTINF:-1 tvg-logo="https://i.imgur.com/R5gsdt5.png" group-title="KOREAN SPORTS",SBS Sports
 http://ye23.win/iptv/sbs5.1.php?id=S02
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LAdhx1A.png" group-title="KOREAN SPORTS",Sky Sports
+http://51.81.66.195:1935/krtv/sky_sports_540/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Bj0MyZQ.png" group-title="KOREAN SPORTS",SPOTV
 http://51.81.66.195:1935/krtv/spotv_540/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WbPfNOb.png" group-title="KOREAN SPORTS",SPOTV 2
-http://211.203.0.244:9981/stream/channelid/784633781.m3u8
+http://51.81.66.195:1935/krtv/spotv_2_540/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
