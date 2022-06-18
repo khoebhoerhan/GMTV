@@ -529,8 +529,10 @@ http://server.sibfungold.info:8080/gaicu84/iVMgaicu84DNfwV/46786
 http://server.sibfungold.info:8080/gaicu84/iVMgaicu84DNfwV/52734
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/1920px-USA_Network_logo_%282016%29.svg.png" group-title="AMERICAN ENTERTAINMENT",USA Network East
 http://38.127.211.18/live/c2eds/USA/HLS/index.m3u8
+#EXTVLCOPT:http-user-agent=otto-aplikasi
+#EXTVLCOPT:http-referrer=https://player.licenses4.me
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bQPc9pg.png" group-title="AMERICAN ENTERTAINMENT",Bravo East
-http://stariptv.org:8080/wael2021/123456/148450
+https://ott-navigator.my.id/ind_provider/master_ind.php?id=bravo
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JOCjq3R.png" group-title="AMERICAN ENTERTAINMENT",Comedy Central East
 https://16live00.akamaized.net/COMEDY_CENTRAL/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/2019_Disney_Channel_logo.svg/1920px-2019_Disney_Channel_logo.svg.png" group-title="AMERICAN ENTERTAINMENT",Disney Channel East
@@ -544,9 +546,10 @@ https://16live00.akamaized.net/OWN/index.m3u8
 #EXTVLCOPT:network-caching=1000
 #EXTINF:-1 tvg-logo="https://i.imgur.com/upM99h1.png" group-title="AMERICAN ENTERTAINMENT",TBS East
 http://38.127.211.18/live/c2eds/TBS/HLS/index.m3u8
-#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=otto-aplikasi
+#EXTVLCOPT:http-referrer=https://player.licenses4.me
 #EXTINF:-1 tvg-logo="https://i.imgur.com/umJbqNY.png" group-title="AMERICAN ENTERTAINMENT",TNT East
-https://tve-live-lln.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_3564000.m3u8
+https://ott-navigator.my.id/ind_provider/master_ind.php?id=tnt
 #EXTVLCOPT:network-caching=1000
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Hg5CBlW.png" group-title="AMERICAN ENTERTAINMENT",TruTV East
 https://tve-live-lln.warnermediacdn.com/hls/live/2023176/trueast/slate/VIDEO_0_3564000.m3u8
@@ -1202,12 +1205,16 @@ http://bestsave.ltd:2052/141414/151515/80792
 http://bestsave.ltd:2052/141414/151515/75453
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pIg6iHW.png" group-title="BRITISH SERIES",Sky Crime
 http://ky-iptv.com:80/Bobby12345/Bobby12345/190019.ts
+#EXTVLCOPT:http-user-agent=otto-aplikasi
+#EXTVLCOPT:http-referrer=https://player.licenses4.me
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dIoU3FG.png" group-title="AMERICAN SERIES",A&E
-https://16live00.akamaized.net/A&E/index.m3u8
+https://ott-navigator.my.id/ind_provider/master_ind.php?id=ae
 #EXTINF:-1 tvg-logo="https://i.imgur.com/icFwjZ3.jpg" group-title="AMERICAN SERIES",AMC East
 http://38.127.211.18/live/c2eds/AMC/HLS/index.m3u8
+#EXTVLCOPT:http-user-agent=otto-aplikasi
+#EXTVLCOPT:http-referrer=https://player.licenses4.me
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8dgknme.png" group-title="AMERICAN SERIES",FX East
-https://16live00.akamaized.net/FX/index.m3u8
+https://ott-navigator.my.id/ind_provider/master_ind.php?id=fx
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OFfkWQm.png" group-title="AMERICAN SERIES",FXX East
 https://16live00.akamaized.net/FXX/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/1920px-Showtime.svg.png" group-title="AMERICAN SERIES",Showtime East
@@ -3389,38 +3396,60 @@ http://platinumxmedia.xyz:8080/live/Instahub/bxL8msMEF2V3/63691.m3u8
 http://platinumxmedia.xyz:8080/live/Instahub/bxL8msMEF2V3/63694.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nCzOSks.png" group-title="AFRICAN SPORTS",Supersport Cricket Africa
 http://platinumxmedia.xyz:8080/live/Instahub/bxL8msMEF2V3/63685.m3u8
+#EXTVLCOPT:http-user-agent=otto-aplikasi
+#EXTVLCOPT:http-referrer=https://player.licenses4.me
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Vt3RvFA.png" group-title="AFRICAN SPORTS",Supersport Football Africa
-http://platinumxmedia.xyz:8080/live/Instahub/bxL8msMEF2V3/63692.m3u8
+https://ott-navigator.my.id/sports/supersport/master_supersport.php?id=ssfootball
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Vt3RvFA.png" group-title="AFRICAN SPORTS",Supersport Football Plus
 https://free.one24tv.com:443/live/55011644137601/55011644137601/15201.ts
+#EXTVLCOPT:http-user-agent=otto-aplikasi
+#EXTVLCOPT:http-referrer=https://player.licenses4.me
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YcxFkX8.png" group-title="AFRICAN SPORTS",Supersport Golf Africa
-http://xtmm.live:8080/play/9wPeUuHmYezoUNyJfpNPH49MouttdLxFSFl3jJFgakg/ts
+https://ott-navigator.my.id/sports/supersport/master_supersport.php?id=ssgolf
+#EXTVLCOPT:http-user-agent=otto-aplikasi
+#EXTVLCOPT:http-referrer=https://player.licenses4.me
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3bXUFkP.png" group-title="AFRICAN SPORTS",Supersport Grandstand Africa
-http://platinumxmedia.xyz:8080/live/Instahub/bxL8msMEF2V3/63689.m3u8
+https://ott-navigator.my.id/sports/supersport/master_supersport.php?id=ssgrandstand
+#EXTVLCOPT:http-user-agent=otto-aplikasi
+#EXTVLCOPT:http-referrer=https://player.licenses4.me
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qavBxmu.png" group-title="AFRICAN SPORTS",Supersport LaLiga Africa
-http://platinumxmedia.xyz:8080/live/Instahub/bxL8msMEF2V3/63682.m3u8
+https://ott-navigator.my.id/sports/supersport/master_supersport.php?id=sslaliga
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Vgt96sG.png" group-title="AFRICAN SPORTS",Supersport Máximo 1 Africa
 http://xtmm.live:8080/play/9wPeUuHmYezoUNyJfpNPH7GWsCiBoaP82R0G4wPeW78/ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/37EjPV3.png" group-title="AFRICAN SPORTS",Supersport Motorsport Africa
 http://xtmm.live:8080/play/9wPeUuHmYezoUNyJfpNPH2VKtqPs3dDln4pTAdLX_AM/ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Wwi4DHd.png" group-title="AFRICAN SPORTS",Supersport Play
 http://server.sibfungold.info:8080/gaicu84/iVMgaicu84DNfwV/53022
+#EXTVLCOPT:http-user-agent=otto-aplikasi
+#EXTVLCOPT:http-referrer=https://player.licenses4.me
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jIjBIhH.png" group-title="AFRICAN SPORTS",Supersport Premier League Africa
-http://platinumxmedia.xyz:8080/live/Instahub/bxL8msMEF2V3/63688.m3u8
+https://ott-navigator.my.id/sports/supersport/master_supersport.php?id=sspremierleague
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cXB0iFd.png" group-title="AFRICAN SPORTS",Supersport PSL
 http://xtmm.live:8080/play/9wPeUuHmYezoUNyJfpNPH__UHBGbMMheqSXfRqDao_8/ts
+#EXTVLCOPT:http-user-agent=otto-aplikasi
+#EXTVLCOPT:http-referrer=https://player.licenses4.me
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sglWngc.png" group-title="AFRICAN SPORTS",Supersport Rugby Africa
-http://platinumxmedia.xyz:8080/live/Instahub/bxL8msMEF2V3/63684.m3u8
+https://ott-navigator.my.id/sports/supersport/master_supersport.php?id=ssrugby
+#EXTVLCOPT:http-user-agent=otto-aplikasi
+#EXTVLCOPT:http-referrer=https://player.licenses4.me
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uBflRxR.png" group-title="AFRICAN SPORTS",Supersport Tennis Africa
-http://xtmm.live:8080/play/9wPeUuHmYezoUNyJfpNPH-DiBh5TuERJN8ywdXaUTU4/ts
+https://ott-navigator.my.id/sports/supersport/master_supersport.php?id=sstennis
+#EXTVLCOPT:http-user-agent=otto-aplikasi
+#EXTVLCOPT:http-referrer=https://player.licenses4.me
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LD6Yrnx.png" group-title="AFRICAN SPORTS",Supersport Variety 1 Africa
-http://platinumxmedia.xyz:8080/live/Instahub/bxL8msMEF2V3/63793.m3u8
+https://ott-navigator.my.id/sports/supersport/master_supersport.php?id=ssvariety1
+#EXTVLCOPT:http-user-agent=otto-aplikasi
+#EXTVLCOPT:http-referrer=https://player.licenses4.me
 #EXTINF:-1 tvg-logo="https://i.imgur.com/samKsMn.png" group-title="AFRICAN SPORTS",Supersport Variety 2 Africa
-http://platinumxmedia.xyz:8080/live/Instahub/bxL8msMEF2V3/63690.m3u8
+https://ott-navigator.my.id/sports/supersport/master_supersport.php?id=ssvariety2
+#EXTVLCOPT:http-user-agent=otto-aplikasi
+#EXTVLCOPT:http-referrer=https://player.licenses4.me
 #EXTINF:-1 tvg-logo="https://i.imgur.com/neD5gBe.png" group-title="AFRICAN SPORTS",Supersport Variety 3 Africa
-http://platinumxmedia.xyz:8080/live/Instahub/bxL8msMEF2V3/63683.m3u8
+https://ott-navigator.my.id/sports/supersport/master_supersport.php?id=ssvariety3
+#EXTVLCOPT:http-user-agent=otto-aplikasi
+#EXTVLCOPT:http-referrer=https://player.licenses4.me
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Xn5UCd8.png" group-title="AFRICAN SPORTS",Supersport Variety 4 Africa
-http://platinumxmedia.xyz:8080/live/Instahub/bxL8msMEF2V3/63693.m3u8
+https://ott-navigator.my.id/sports/supersport/master_supersport.php?id=ssvariety4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lzmhX3a.png" group-title="AFRICAN SPORTS",Supersport WWE
 http://red.ipfox.org:8080/elsayed/elsayed123/25512
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fOOqLPb.png" group-title="LATINO SPORTS",Claro Sports
@@ -3841,16 +3870,17 @@ https://tglmp03.akamaized.net/out/v1/1057d89ee3d94148b430b5866e3a540a/manifest.m
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=7a9ea6df52044841b0c562766e602610&key=b9380188b4896b25e8d419dfce938c6e
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fDftLuO.png" group-title="SINGAPORE",Suria
 https://tglmp04.akamaized.net/out/v1/b200e885125f4787bd2329952ff28fa1/manifest.mpd
-#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=otto-aplikasi
+#EXTVLCOPT:http-referrer=https://player.licenses4.me
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8DZL1sg.png" group-title="USA",ABC East
-https://d2jh36pi0ck39m.cloudfront.net:443/hls/abc/chunks.m3u8
+https://ott-navigator.my.id/ind_provider/master_ind.php?id=abc
 #EXTVLCOPT:network-caching=1000
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VBD4ugr.png" group-title="USA",Azteca America
 https://v-ny.mybtv.net/live/645.m3u8
-#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=otto-aplikasi
+#EXTVLCOPT:http-referrer=https://player.licenses4.me
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KJR6lt0.png" group-title="USA",CBS East
-#EXTVLCOPT:network-caching=1000
-https://v-ny.theus6tv.tk/hls/2.1/playlist.m3u8
+https://ott-navigator.my.id/ind_provider/master_ind.php?id=cbs
 #EXTVLCOPT:network-caching=1000
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Q6AoC5h.png" group-title="USA",Fox East
 https://tvnow.best/api/stream/mjma7584@icloud.com/472796/livetv.epg/fox.wnyw.new.york.ny.us.m3u8
