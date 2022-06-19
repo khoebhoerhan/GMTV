@@ -1509,6 +1509,8 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/1003/default_primary.mpd
 http://playlist.urfan.web.id/uq2663/h/h22/02.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/o0WVl7b.png" group-title="NATIONAL SPORTS",Dunia Games
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(ec41a5e2-09e4-431d-b92e-383fa7abe25c)/manifest.mpd
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Y4dOfan.png" group-title="CLUBS OF SPORTS",Barça TV
+http://93.152.174.144:4000/play/barcatv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ULcjgX4.png" group-title="CLUBS OF SPORTS",FB TV
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x21oo10
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YdipfBb.png" group-title="CLUBS OF SPORTS",GS TV
@@ -1519,8 +1521,6 @@ https://owifavo5.rocketcdn.com/gstv/gstv.smil/chunklist_b846000_sltur.m3u8
 https://streamer-a03.videos.sapo.pt/live/portocanal/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KFwSXaG.png" group-title="CLUBS OF SPORTS",Real Madrid TV Español
 https://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VBxa15t.png" group-title="CLUBS OF SPORTS",Roma TV
-http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/4089
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9yN2IIT.png" group-title="CLUBS OF SPORTS",Sevilla FC TV
 https://open.http.mp.streamamg.com/p/3001314/sp/300131400/playManifest/entryId/0_ye0b8tc0/format/applehttp/protocol/https/uiConfId/30026292/a.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
@@ -1951,7 +1951,7 @@ http://stariptv.org:8080/nour2020/123456/34053
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lTnKDju.png" group-title="SPANISH SPORTS",Eurosport 2
 http://stariptv.org:8080/nour2020/123456/34052
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Gol.svg/1920px-Gol.svg.png" group-title="SPANISH SPORTS",Gol
-http://91.126.138.141:1935/live/gol/chunklist_w2146311915.m3u8?mvk
+http://stariptv.org:8080/nour2020/123456/34051
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xsYGFyy.png" group-title="SPANISH SPORTS",Deportes por Movistar+
 http://stariptv.org:8080/nour2020/123456/12073
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WYIpWC0.png" group-title="SPANISH SPORTS",Golf por Movistar+
@@ -3140,9 +3140,9 @@ https://21-rtvslo-tv-slo2-int.cdn.eurovisioncdn.net/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/XyhzJ2F.png" group-title="SLOVENIA",TV Slo 3
 https://16-rtvslo-tv-slo3-int.cdn.eurovisioncdn.net/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Antena_3_%282017%29.svg/1024px-Antena_3_%282017%29.svg.png" group-title="SPAIN",Antena 3
-http://91.126.141.13:1935/live/11/playlist.m3u8
+http://stariptv.org:8080/nour2020/123456/12104
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Cuatro.svg/1920px-Cuatro.svg.png" group-title="SPAIN",Cuatro
-http://91.126.141.13:1935/live/51/1800-def.m3u8
+http://stariptv.org:8080/nour2020/123456/12103
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Logo_TVE-1.svg/1024px-Logo_TVE-1.svg.png" group-title="SPAIN",La 1
@@ -3152,9 +3152,9 @@ https://rtvelivestreamv3.akamaized.net/la1/la1_main_720.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Logo_TVE-2.svg/1024px-Logo_TVE-2.svg.png" group-title="SPAIN",La 2
 http://hlsliveamdgl0-lh.akamaihd.net/i/hlsdvrlive_1@60531/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/La_Sexta_%28A3M%29.svg/188px-La_Sexta_%28A3M%29.svg.png" group-title="SPAIN",La Sexta
-http://91.126.141.13:1935/live/21/playlist.m3u8
+http://stariptv.org:8080/nour2020/123456/12101
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Telecinco_2012_Large.svg/800px-Telecinco_2012_Large.svg.png" group-title="SPAIN",Telecinco
-http://91.126.141.13:1935/live/61/playlist.m3u8
+http://stariptv.org:8080/nour2020/123456/12102
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/8/8a/CTS_Logo.png" group-title="TAIWAN",CTS 華視
 rtmp://59.124.75.157/sat/tv111
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/2/22/CTV_text.png" group-title="TAIWAN",CTV 中視
