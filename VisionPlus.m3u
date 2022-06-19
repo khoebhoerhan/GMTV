@@ -124,8 +124,6 @@ https://h1.intechmedia.net/intech/ch58.m3u8
 http://bmstv.onlivestreaming.net/bmstv/livestream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xH5sP7j.png" group-title="LOKAL",Citra TV
 http://122.248.43.138:1935/ch28/myStream/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/3/3f/CTV_Banten.png/1200px-CTV_Banten.png" group-title="LOKAL",CTV Banten
-http://103.23.201.170:1935/live/livestream/chunklist_w1352763317.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/U5jiuuM.png" group-title="LOKAL",Dayak TV
 https://v4.siar.us/dayaktv/livestream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qio9YhR.png" group-title="LOKAL",Duta TV
@@ -377,8 +375,6 @@ https://stream-cdn.mncnow.id/live/eds/FMN/sa_dash_vmx/FMN.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=063689e84408a4542e3a158073182210&key=fd205780495645c7334cbdea0dc94f17
 #EXTINF:-1 tvg-logo="https://i.imgur.com/71d2wEk.png" group-title="GENERAL ENTERTAINMENT",Paramount Network Asia
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5056/default_primary.mpd
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tjQJ9Fx.png" group-title="INDIAN ENTERTAINMENT",Comedy Central
-http://crystalott.org:80/CKVRKUO4L3/IRTRILUKU7/2927
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oe4Woe7.png" group-title="INDIAN ENTERTAINMENT",Star World
 http://221.120.204.4/star-world-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kBiWPbB.png" group-title="INDIAN ENTERTAINMENT",Colors Infinity
@@ -551,8 +547,6 @@ http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/musicindia/musicindia.isml/.m3u8
 http://144.217.70.181:9587/hin2/MTVINDIA/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JcYIz4J.png" group-title="INDIAN MUSIC",MTV Beats
 http://144.217.70.181:9587/hin2/MTVBEATSHD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QwS3Qmx.png" group-title="INDIAN MUSIC",VH1 India
-http://crystalott.org:80/CKVRKUO4L3/IRTRILUKU7/2901
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/5/55/Kral_TV_logosu.png" group-title="TURKISH MUSIC",Kral
 https://dogus-live.daioncdn.net/kraltv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Fru1lVT.png" group-title="TURKISH MUSIC",Kral Pop
@@ -1149,8 +1143,6 @@ https://d2xqcdx4c8vu9s.cloudfront.net/out/v1/15b8393e9a9240b8bedd4c79ccefb301/in
 https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/indiatoday_5/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/aa/Times_Now_2010.png" group-title="INDIAN NEWS",Times Now
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/TimesNow/live
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dt5xRpi.png" group-title="INDIAN NEWS",Mirror Now
-http://mbnowweb-lh.akamaihd.net/i/MRN_1@346545/index_576_av-p.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Atn4Ppt.png" group-title="INDIAN NEWS",India Ahead
 https://d3a9l0u5hgmgjl.cloudfront.net/01.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/83CZGrB.png" group-title="INDIAN NEWS",NewsX
