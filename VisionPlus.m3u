@@ -1541,11 +1541,11 @@ http://stariptv.org:8080/nour2020/123456/56226
 #EXTINF:-1 tvg-logo="https://i.imgur.com/j8VC6nB.png" group-title="FRENCH SPORTS",beIN Sports 3 France
 http://stariptv.org:8080/nour2020/123456/56227
 #EXTINF:-1 tvg-logo="https://i.imgur.com/o8zT78o.png" group-title="ARABIC SPORTS",beIN Sports1 English
-http://stariptv.org:8080/nour2020/123456/112461
+https://punya.dukun.masuk.id/premium61/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RJ17vOc.png" group-title="ARABIC SPORTS",beIN Sports2 English
-http://stariptv.org:8080/nour2020/123456/112462
+https://punya.dukun.masuk.id/premium90/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sKFx2QF.png" group-title="ARABIC SPORTS",beIN Sports3 English
-http://stariptv.org:8080/nour2020/123456/112463
+https://punya.dukun.masuk.id/premium46/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NOOEDFi.png" group-title="ARABIC SPORTS",beIN Sports1 French
 http://stariptv.org:8080/nour2020/123456/165083
 #EXTINF:-1 tvg-logo="https://i.imgur.com/n6iA4cg.png" group-title="ARABIC SPORTS",beIN Sports2 French
@@ -1553,11 +1553,11 @@ http://stariptv.org:8080/nour2020/123456/165084
 #EXTINF:-1 tvg-logo="https://i.imgur.com/srteRe1.png" group-title="ARABIC SPORTS",beIN Sports3 French
 http://stariptv.org:8080/nour2020/123456/165085
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CwlNjXQ.png" group-title="ARABIC SPORTS",beIN Sports1 Premium
-http://stariptv.org:8080/nour2020/123456/15563
+https://punya.dukun.masuk.id/premium98/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ns7isEP.png" group-title="ARABIC SPORTS",beIN Sports2 Premium
-http://stariptv.org:8080/nour2020/123456/141564
+https://punya.dukun.masuk.id/premium99/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/T7UlxCI.png" group-title="ARABIC SPORTS",beIN Sports3 Premium
-http://stariptv.org:8080/nour2020/123456/15561
+https://punya.dukun.masuk.id/premium100/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MRULdc8.png" group-title="TURKISH SPORTS",beIN Sports 1 Türkiye
 http://stariptv.org:8080/nour2020/123456/93420
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NDp6TlM.png" group-title="TURKISH SPORTS",beIN Sports 2 Türkiye
@@ -1642,8 +1642,10 @@ https://punya.dukun.masuk.id/premium38/chunks.m3u8
 http://stariptv.org:8080/nour2020/123456/55385
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jcFnVbi.png" group-title="BRITISH SPORTS",Sky Sports News
 http://stariptv.org:8080/nour2020/123456/11667
+#EXTVLCOPT:http-user-agent=otto-aplikasi
+#EXTVLCOPT:http-referrer=https://player.licenses4.me
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wA3DieO.png" group-title="BRITISH SPORTS",Sky Sports Premier League
-http://stariptv.org:8080/nour2020/123456/55384
+https://ott-navigator.my.id/sports/skysports/master_skysports.m3u8?id=premier
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vhYstlz.png" group-title="BRITISH SPORTS",Sky Sports Racing
 https://punya.dukun.masuk.id/premium34/chunks.m3u8
 #EXTVLCOPT:http-user-agent=otto-aplikasi
@@ -1732,18 +1734,26 @@ https://ott-navigator.my.id/sports/tsn/master.m3u8?id=005
 http://stariptv.org:8080/nour2020/123456/71523
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Xz33IHR.png" group-title="POLISH SPORTS",Canal + Sport 2 Polska
 http://stariptv.org:8080/nour2020/123456/71524
+#EXTVLCOPT:http-user-agent=otto-aplikasi
+#EXTVLCOPT:http-referrer=https://player.licenses4.me
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cSVAkg0.png" group-title="POLISH SPORTS",Eleven Sports 1 Polska
-http://stariptv.org:8080/nour2020/123456/34522
+https://ott-navigator.my.id/sports/eleven/master_eleven.php?id=eleven1
+#EXTVLCOPT:http-user-agent=otto-aplikasi
+#EXTVLCOPT:http-referrer=https://player.licenses4.me
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TlNAO45.png" group-title="POLISH SPORTS",Eleven Sports 2 Polska
-http://stariptv.org:8080/nour2020/123456/34521
+https://ott-navigator.my.id/sports/eleven/master_eleven.php?id=eleven2
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fI2Hazk.png" group-title="POLISH SPORTS",Eleven Sports 3 Polska
 http://stariptv.org:8080/nour2020/123456/34520
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wF8dohc.png" group-title="POLISH SPORTS",Eleven Sports 4 Polska
 http://stariptv.org:8080/nour2020/123456/34519
+#EXTVLCOPT:http-user-agent=otto-aplikasi
+#EXTVLCOPT:http-referrer=https://player.licenses4.me
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gwV31E0.png" group-title="POLISH SPORTS",Eurosport 1 Polska
-http://stariptv.org:8080/nour2020/123456/71075
+https://ott-navigator.my.id/sports/eurosport/master.m3u8?id=eurosport1-POL
+#EXTVLCOPT:http-user-agent=otto-aplikasi
+#EXTVLCOPT:http-referrer=https://player.licenses4.me
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lTnKDju.png" group-title="POLISH SPORTS",Eurosport 2 Polska
-http://stariptv.org:8080/nour2020/123456/71556
+https://ott-navigator.my.id/sports/eurosport/master.m3u8?id=eurosport2-POL
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pM6Q5n1.png" group-title="POLISH SPORTS",Polsat Sport
 http://stariptv.org:8080/nour2020/123456/71540
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mnohjlI.png" group-title="POLISH SPORTS",Polsat Sport Extra
