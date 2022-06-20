@@ -1669,6 +1669,9 @@ http://stariptv.org:8080/nour2020/123456/11667
 #EXTVLCOPT:http-referrer=https://player.licenses4.me
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wA3DieO.png" group-title="BRITISH SPORTS",Sky Sports Premier League
 https://ott-navigator.my.id/sports/skysports/master_skysports.m3u8?id=premier
+#EXTVLCOPT:http-referrer=https://player.licenses4.me
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vhYstlz.png" group-title="BRITISH SPORTS",Sky Sports Racing
+https://netwrk.ru.com/cdn/premium554/chunks.m3u8
 #EXTVLCOPT:http-user-agent=otto-aplikasi
 #EXTVLCOPT:http-referrer=https://player.licenses4.me
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1g9mYwr.png" group-title="AMERICAN SPORTS",CBS Sports Network
