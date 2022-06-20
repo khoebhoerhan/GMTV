@@ -1481,16 +1481,18 @@ http://203.154.243.89:28008/nakhon/golf
 http://playlist.urfan.web.id/uq2663/h/h22/02.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/o0WVl7b.png" group-title="NATIONAL SPORTS",Dunia Games
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(ec41a5e2-09e4-431d-b92e-383fa7abe25c)/manifest.mpd
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FbFe2uu.png" group-title="WORLD SPORTS",Band Sports
+http://168.205.87.198:8555/live/4666/123456/176.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Y4dOfan.png" group-title="CLUBS OF SPORTS",Barça TV
-https://punya.dukun.masuk.id/premium522/chunks.m3u8
+http://93.152.174.144:4000/play/barcatv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ULcjgX4.png" group-title="CLUBS OF SPORTS",FB TV
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x21oo10
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YdipfBb.png" group-title="CLUBS OF SPORTS",GS TV
 https://owifavo5.rocketcdn.com/gstv/gstv.smil/chunklist_b846000_sltur.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1f/LFC_TV_logo.png" group-title="CLUBS OF SPORTS",LFC TV
-https://dukun.masuk.id/olahraga/lfc.m3u8
+http://stariptv.org:8080/nour2020/123456/9363
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3zyVm7l.png" group-title="CLUBS OF SPORTS",MUTV
-https://punya.dukun.masuk.id/premium377/chunks.m3u8
+http://stariptv.org:8080/nour2020/123456/9383
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTINF:-1 tvg-logo="https://i.imgur.com/g2qWOoB.png" group-title="CLUBS OF SPORTS",Porto Canal
@@ -2229,26 +2231,6 @@ https://edge2-sl.cvattv.com.ar/live/c6eds/Golf_Channel/SA_SAGEMCOM/Golf_Channel.
 https://5g9s179kfgx9wn8tqwj9-cul47i-edc.p5cdn.com/dlive/transcode-92-211/nqefwinooiewpeof/1646158252/src/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/I7Lhgej.png" group-title="LATINO SPORTS",TyC Sports
 https://d3awnlgqz0szay.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index_9.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FbFe2uu.png" group-title="BRASILIAN SPORTS",Band Sports
-http://168.205.87.198:8555/live/4666/123456/176.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ed/Canal-combate-logo.png" group-title="BRASILIAN SPORTS",Combate
-https://networkbest.ru.com/cdn/premium89/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1920px-ESPN_wordmark.svg.png" group-title="BRASILIAN SPORTS",ESPN Brasil
-https://networkbest.ru.com/cdn/premium81/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/1280px-ESPN2_logo.svg.png" group-title="BRASILIAN SPORTS",ESPN 2 Brasil
-https://networkbest.ru.com/cdn/premium82/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Crvxgth.png" group-title="BRASILIAN SPORTS",ESPN 3 Brasil
-https://networkbest.ru.com/cdn/premium83/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/89RCPvg.png" group-title="BRASILIAN SPORTS",ESPN 4 Brasil
-https://networkbest.ru.com/cdn/premium85/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/a2/Logo_Premiere_FC_2018.png" group-title="BRASILIAN SPORTS",Premiere Clubes
-https://networkbest.ru.com/cdn/premium88/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/iweh0Li.png" group-title="BRASILIAN SPORTS",SporTV
-https://networkbest.ru.com/cdn/premium78/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/AAdoNsr.png" group-title="BRASILIAN SPORTS",SporTV 2
-https://networkbest.ru.com/cdn/premium79/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/RcpUcYG.png" group-title="BRASILIAN SPORTS",SporTV 3
-https://networkbest.ru.com/cdn/premium80/chunks.m3u8
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b2/AbuDhabiSports2020.jpg" group-title="ARABIC SPORTS",Abu Dhabi Sports 1
