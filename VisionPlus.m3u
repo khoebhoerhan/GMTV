@@ -1552,12 +1552,18 @@ http://stariptv.org:8080/nour2020/123456/165083
 http://stariptv.org:8080/nour2020/123456/165084
 #EXTINF:-1 tvg-logo="https://i.imgur.com/srteRe1.png" group-title="ARABIC SPORTS",beIN Sports3 French
 http://stariptv.org:8080/nour2020/123456/165085
+#EXTVLCOPT:http-user-agent=otto-aplikasi
+#EXTVLCOPT:http-referrer=https://player.licenses4.me
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CwlNjXQ.png" group-title="ARABIC SPORTS",beIN Sports1 Premium
-https://punya.dukun.masuk.id/premium98/chunks.m3u8
+https://ott-navigator.my.id/sports/beinsports/master_beinsports.m3u8?id=Premium1
+#EXTVLCOPT:http-user-agent=otto-aplikasi
+#EXTVLCOPT:http-referrer=https://player.licenses4.me
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ns7isEP.png" group-title="ARABIC SPORTS",beIN Sports2 Premium
-https://punya.dukun.masuk.id/premium99/chunks.m3u8
+https://ott-navigator.my.id/sports/beinsports/master_beinsports.m3u8?id=Premium2
+#EXTVLCOPT:http-user-agent=otto-aplikasi
+#EXTVLCOPT:http-referrer=https://player.licenses4.me
 #EXTINF:-1 tvg-logo="https://i.imgur.com/T7UlxCI.png" group-title="ARABIC SPORTS",beIN Sports3 Premium
-https://punya.dukun.masuk.id/premium100/chunks.m3u8
+https://ott-navigator.my.id/sports/beinsports/master_beinsports.m3u8?id=Premium3
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MRULdc8.png" group-title="TURKISH SPORTS",beIN Sports 1 Türkiye
 http://stariptv.org:8080/nour2020/123456/93420
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NDp6TlM.png" group-title="TURKISH SPORTS",beIN Sports 2 Türkiye
