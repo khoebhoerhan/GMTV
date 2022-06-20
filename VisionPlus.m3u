@@ -1624,36 +1624,58 @@ http://status.tehw00t.net/miniProxy.php/https://bein-xtra-samsung-canada.amagi.t
 https://punya.dukun.masuk.id/premium376/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c8/BoxNation2014Logo.png" group-title="BRITISH SPORTS",Box Nation
 http://stariptv.org:8080/nour2020/123456/9395
+#EXTVLCOPT:http-user-agent=otto-aplikasi
+#EXTVLCOPT:http-referrer=https://player.licenses4.me
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7dg7EB7.png" group-title="BRITISH SPORTS",BT Sport 1
-https://dukun.masuk.id/olahraga/bt1.m3u8
+https://ott-navigator.my.id/sports/btsports/master_btsports.m3u8?id=001
+#EXTVLCOPT:http-user-agent=otto-aplikasi
+#EXTVLCOPT:http-referrer=https://player.licenses4.me
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sIIFREX.png" group-title="BRITISH SPORTS",BT Sport 2
-https://dukun.masuk.id/olahraga/bt2.m3u8
+https://ott-navigator.my.id/sports/btsports/master_btsports.m3u8?id=002
+#EXTVLCOPT:http-user-agent=otto-aplikasi
+#EXTVLCOPT:http-referrer=https://player.licenses4.me
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8IzsrMb.png" group-title="BRITISH SPORTS",BT Sport 3
-https://dukun.masuk.id/olahraga/bt3.m3u8
+https://ott-navigator.my.id/sports/btsports/master_btsports.m3u8?id=003
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YcrrywD.png" group-title="BRITISH SPORTS",BT Sport / ESPN
 https://punya.dukun.masuk.id/premium34/chunks.m3u8
+#EXTVLCOPT:http-user-agent=otto-aplikasi
+#EXTVLCOPT:http-referrer=https://player.licenses4.me
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gwV31E0.png" group-title="BRITISH SPORTS",Eurosport 1 UK
-https://punya.dukun.masuk.id/premium41/chunks.m3u8
+https://ott-navigator.my.id/sports/eurosport/master.m3u8?id=eurosport1
+#EXTVLCOPT:http-user-agent=otto-aplikasi
+#EXTVLCOPT:http-referrer=https://player.licenses4.me
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lTnKDju.png" group-title="BRITISH SPORTS",Eurosport 2 UK
-https://punya.dukun.masuk.id/premium42/chunks.m3u8
+https://ott-navigator.my.id/sports/eurosport/master.m3u8?id=eurosport2
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tPxIkmd.png" group-title="BRITISH SPORTS",Premier Sports 1
 http://stariptv.org:8080/nour2020/123456/16098
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PhUx6yK.png" group-title="BRITISH SPORTS",Premier Sports 2
 http://stariptv.org:8080/nour2020/123456/9320
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jM1FeOX.png" group-title="BRITISH SPORTS",Sky Sports Action
-https://punya.dukun.masuk.id/premium37/chunks.m3u8
+http://stariptv.org:8080/nour2020/123456/55389
+#EXTVLCOPT:http-user-agent=otto-aplikasi
+#EXTVLCOPT:http-referrer=https://player.licenses4.me
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eZwExGu.png" group-title="BRITISH SPORTS",Sky Sports Arena
-https://punya.dukun.masuk.id/premium36/chunks.m3u8
+https://ott-navigator.my.id/sports/skysports/master_skysports.m3u8?id=arena
+#EXTVLCOPT:http-user-agent=otto-aplikasi
+#EXTVLCOPT:http-referrer=https://player.licenses4.me
 #EXTINF:-1 tvg-logo="https://i.imgur.com/J8zzS2v.png" group-title="BRITISH SPORTS",Sky Sports Cricket
-https://punya.dukun.masuk.id/premium65/chunks.m3u8
+https://ott-navigator.my.id/sports/skysports/master_skysports.m3u8?id=cricket
+#EXTVLCOPT:http-user-agent=otto-aplikasi
+#EXTVLCOPT:http-referrer=https://player.licenses4.me
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2kPW5qw.png" group-title="BRITISH SPORTS",Sky Sports F1
-https://punya.dukun.masuk.id/premium60/chunks.m3u8
+https://ott-navigator.my.id/sports/skysports/master_skysports.m3u8?id=skysportF1
+#EXTVLCOPT:http-user-agent=otto-aplikasi
+#EXTVLCOPT:http-referrer=https://player.licenses4.me
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EcFwNdj.png" group-title="BRITISH SPORTS",Sky Sports Football
-https://punya.dukun.masuk.id/premium35/chunks.m3u8
+https://ott-navigator.my.id/sports/skysports/master_skysports.m3u8?id=skysportFootball
+#EXTVLCOPT:http-user-agent=otto-aplikasi
+#EXTVLCOPT:http-referrer=https://player.licenses4.me
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Q2ztKWZ.png" group-title="BRITISH SPORTS",Sky Sports Golf
-https://punya.dukun.masuk.id/premium70/chunks.m3u8
+https://ott-navigator.my.id/sports/skysports/master_skysports.m3u8?id=skysportGolf
+#EXTVLCOPT:http-user-agent=otto-aplikasi
+#EXTVLCOPT:http-referrer=https://player.licenses4.me
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KHiae2e.png" group-title="BRITISH SPORTS",Sky Sports Main Event
-https://punya.dukun.masuk.id/premium38/chunks.m3u8
+https://ott-navigator.my.id/sports/skysports/master_skysports.m3u8?id=mainevent
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PRF0DsV.png" group-title="BRITISH SPORTS",Sky Sports Mix
 http://stariptv.org:8080/nour2020/123456/55385
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jcFnVbi.png" group-title="BRITISH SPORTS",Sky Sports News
