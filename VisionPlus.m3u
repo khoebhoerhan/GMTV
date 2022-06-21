@@ -1497,6 +1497,8 @@ https://open.http.mp.streamamg.com/p/3001314/sp/300131400/playManifest/entryId/0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iZ1rMGW.png" group-title="WORLD SPORTS",Motorvision TV
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=535
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NlAfKJ5.png" group-title="LIVE SPORTS",MotoGP on Trans 7
+https://streamhuawei.detik.com/gstream/smil:gstream.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UEFLKbr.png" group-title="LIVE SPORTS",NCAA Philippines
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/NCAAPhilippines/live
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/IPC_logo_%282019%29.svg/1024px-IPC_logo_%282019%29.svg.png" group-title="LIVE SPORTS",Paralympic Games
