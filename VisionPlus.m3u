@@ -401,7 +401,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2507/default_primary.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1gcbcVx.png" group-title="CHINESE ENTERTAINMENT",Astro Shuang Xing
 https://Astro.kpsboyserver.com/AstroShuangxing.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BQoyBoS.png" group-title="CHINESE ENTERTAINMENT",CCTV 4 Asia
-http://183.207.248.71:80/cntv/live1/cctv-4/cctv-4
+http://39.135.32.236:6610/PLTV/77777777/224/3221225753/index.m3u8?$广西移动
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/8/87/TDM_Ou_Mun_Macau_logo.png" group-title="CHINESE ENTERTAINMENT",TDM Macau
 http://live4.tdm.com.mo/ch3/_definst_/ch3.live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DZaD1Lf.png" group-title="CHINESE ENTERTAINMENT",TVB Xing He
@@ -560,6 +560,8 @@ https://abscbn-ono.akamaized.net/midroll/amagi_hls_data_abscbnAAA-abscbn-myxnola
 https://www.navchina.cf/IPTV/sbs.php?id=S09
 #EXTINF:-1 tvg-logo="https://i.imgur.com/X7VxlBN.png" group-title="ASIAN MUSIC",MTV Japan
 http://cdn.us195.jpnettv.live:1935/jptv/mtv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/M4EZGYP.png" group-title="ASIAN MUSIC",CCTV 15
+http://39.135.32.236:6610/PLTV/77777777/224/3221225693/index.m3u8?
 #EXTINF:-1 tvg-logo="https://i.imgur.com/X7VxlBN.png" group-title="WORLD MUSIC",MTV Brasil
 http://187.85.237.8:8825/ipvt_004
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c9/M6_Music_%282012%29.png" group-title="EUROPEAN MUSIC",M6 Music
@@ -664,6 +666,8 @@ http://rr.dens.tv/h/h90/index.m3u8
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2407/default_ott.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/r2mKJH2.png" group-title="ASIAN MOVIES",MyCinema Asia
 http://rr.dens.tv/h/h193/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YJbg11S.png" group-title="ASIAN MOVIES",CCTV 6
+http://39.135.32.236:6610/PLTV/77777777/224/3221225683/index.m3u8?
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Sony_MAX.svg/800px-Sony_MAX.svg.png" group-title="HINDI MOVIES",Sony Max
 http://221.120.204.4/SONY-MAX-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NywlkDO.png" group-title="HINDI MOVIES",Zee Cinema Asia
@@ -1217,7 +1221,7 @@ https://rtmlive04tv.secureswiftcontent.com/rtmchannel/04-manifest.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CId9ifi.png" group-title="VISUAL RADIO",TeleRadyo
 https://abscbn-ono.akamaized.net/midroll/amagi_hls_data_abscbnAAA-abscbn-teleradyo-oando/CDN/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KrpIbzA.png" group-title="MANDARIN NEWS",CCTV 13
-http://39.135.138.60:18890/PLTV/88888910/224/3221225638/index.m3u8
+http://39.135.32.236:6610/PLTV/77777777/224/3221225787/index.m3u8?
 #EXTINF:-1 tvg-logo="https://i.imgur.com/j2pKcAe.png" group-title="MANDARIN NEWS",CTS News
 https://raw.githubusercontent.com/etag2000/IPTV/YTlive/ctsnews.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/6/67/CTV_News_logo.png" group-title="MANDARIN NEWS",CTV News
@@ -1682,9 +1686,9 @@ http://cvmvietnix.duckdns.org:9981/stream/channelid/56826019
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bPkn38j.png" group-title="VIETNAMESE SPORTS", SCTV 22
 http://cvmvietnix.duckdns.org:9981/stream/channelid/1887557632
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Dt4IDCL.png" group-title="CHINESE SPORTS",CCTV 5
-http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv5/HD-8000k-1080P-cctv5
+http://39.135.32.236:6610/PLTV/77777777/224/3221225801/index.m3u8?
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qvfq4yw.png" group-title="CHINESE SPORTS",CCTV 5+
-http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv05plus/HD-8000k-1080P-cctv05plus
+http://39.135.32.236:6610/PLTV/77777777/224/3221225621/index.m3u8?
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YwI3gyn.png" group-title="CHINESE SPORTS",CCTV 16
 http://ott.js.chinamobile.com/PLTV/3/224/3221228144/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/TDMSport.png" group-title="CHINESE SPORTS",TDM 澳門體育頻道
@@ -2631,31 +2635,25 @@ http://encodercdn1.frontline.ca/encoder184/output/Global_Toronto_720p/playlist.m
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cf/Current_Logo_of_Ici_Radio-Canada_T%C3%A9l%C3%A9_%282016-present%29.svg/1920px-Current_Logo_of_Ici_Radio-Canada_T%C3%A9l%C3%A9_%282016-present%29.svg.png" group-title="CANADA",Ici Télé
 https://rcavlive-dai.akamaized.net/hls/live/696614/cancbftprem/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iNhSs8x.png" group-title="CHINA",CCTV 1
-http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv1/HD-8000k-1080P-cctv1
+http://39.135.32.236:6610/PLTV/77777777/224/3221225674/index.m3u8?
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qLJrcum.png" group-title="CHINA",CCTV 2
-http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv2/HD-8000k-1080P-cctv2
+http://39.135.32.236:6610/PLTV/77777777/224/3221225676/index.m3u8?
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fGrT16W.png" group-title="CHINA",CCTV 3
-http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv3/HD-8000k-1080P-cctv3
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YJbg11S.png" group-title="CHINA",CCTV 6
-http://183.207.248.71:80/cntv/live1/cctv-6/cctv-6
+http://39.135.32.236:6610/PLTV/77777777/224/3221225677/index.m3u8?
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0ccx2jW.png" group-title="CHINA",CCTV 7
-http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv7/HD-8000k-1080P-cctv7
+http://39.135.32.236:6610/PLTV/77777777/224/3221225627/index.m3u8?
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YyBxwYF.png" group-title="CHINA",CCTV 8
-http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv8/HD-8000k-1080P-cctv8
+http://39.135.32.236:6610/PLTV/77777777/224/3221225630/index.m3u8?
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2LVQYWY.png" group-title="CHINA",CCTV 9
-http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv9/HD-8000k-1080P-cctv9
+http://39.135.32.236:6610/PLTV/77777777/224/3221225633/index.m3u8?
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nJTepm9.png" group-title="CHINA",CCTV 10
-http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv10/HD-8000k-1080P-cctv10
+http://39.135.32.236:6610/PLTV/77777777/224/3221225624/index.m3u8?$广西移动
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1n03BMt.png" group-title="CHINA",CCTV 11
-http://183.207.248.71:80/cntv/live1/n-cctv-11/n-cctv-11
+http://39.135.32.236:6610/PLTV/77777777/224/3221225750/index.m3u8?$广西移动
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZTOlFA0.png" group-title="CHINA",CCTV 12
-http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv12/HD-8000k-1080P-cctv12
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ujiEeuE.png" group-title="CHINA",CCTV 14
-http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv14/HD-8000k-1080P-cctv14
-#EXTINF:-1 tvg-logo="https://i.imgur.com/M4EZGYP.png" group-title="CHINA",CCTV 15
-http://183.207.248.71:80/cntv/live1/n-cctv-15/n-cctv-15
+http://39.135.32.236:6610/PLTV/77777777/224/3221225787/index.m3u8?
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QB3l5HH.png" group-title="CHINA",CCTV 17
-http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv17/HD-8000k-1080P-cctv17
+http://39.135.32.236:6610/PLTV/77777777/224/3221225766/index.m3u8?
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Logotipo_de_Canal_13.png/1024px-Logotipo_de_Canal_13.png" group-title="CHILE",Canal 13
 https://marine2.miplay.cl/megaplus/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zUykSnY.png" group-title="CHILE",ChileVisión
