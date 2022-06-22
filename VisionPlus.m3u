@@ -938,7 +938,7 @@ https://best-str.umn.cdn.united.cloud/stream?stream=sp1400&sp=n1info&channel=n1h
 https://stream-cdn.mncnow.id/live/eds/BBCWorldNews/sa_dash_vmx/BBCWorldNews.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/j449MD4.png" group-title="BRITISH NEWS",BBC News
 http://prox.x86.co.uk/index.php/https://cdnuk001.broadcastcdn.net/KUK-BBCNEWSHD/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/BBC_Parliament_Logo.svg/1280px-BBC_Parliament_Logo.svg.png" group-title="PARLIAMENTARY",BBC Parliament
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/BBC_Parliament_Logo.svg/1280px-BBC_Parliament_Logo.svg.png" group-title="NEWS VPN",BBC Parliament
 https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_parliament/mobile_wifi_main_sd_abr_v2_akamai_hls_live_http.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b8/Logo_BBC_Arabic.png" group-title="ARABIC NEWS",BBC Arabic
 https://vs-cmaf-pushb-ww-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2_akamai_dash_live_http.mpd
@@ -1273,7 +1273,7 @@ http://hbbtvlive3.v3.tvp.pl/hbbtvlive/livestream.php?app_id=kanal1
 http://hbbtvlive3.v3.tvp.pl/hbbtvlive/livestream.php?app_id=kanal2
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uQVqEIH.png" group-title="PARLIAMENTARY",TVP Parlament Senat
 http://hbbtvlive3.v3.tvp.pl/hbbtvlive/livestream.php?app_id=senat
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TpBpUU4.png" group-title="PORTUGUESE NEWS",SIC Notícias
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TpBpUU4.png" group-title="NEWS VPN",SIC Notícias
 https://sicnot.live.impresa.pt/sicnot.m3u8
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
