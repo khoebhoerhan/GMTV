@@ -1103,8 +1103,14 @@ https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea09
 https://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nEHL1S1.png" group-title="PARLIAMENTARY",Parliament TV
 https://ptvlive.kordia.net.nz/out/v1/daf20b9a9ec5449dadd734e50ce52b74/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Logo_CHV_NOTICIAS.svg/1024px-Logo_CHV_NOTICIAS.svg.png" group-title="LIVE NEWS",CHV Noticias
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/CHVNoticiasTV/live
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IxBVaUO.png" group-title="LIVE NEWS",CTV News Live
 https://pe-fa-lp02a.9c9media.com/live/News1Digi/p/hls/00000201/38ef78f479b07aa0/index/0c6a10a2/live/stream/h264/v1/3500000/manifest.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OmuIBUp.png" group-title="LIVE NEWS",GMA News Live
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/gmanews/live
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mhdiCHb.png" group-title="LIVE NEWS",Liputan 6
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UC1QpnGo11epfexw1bIiTHTg/live
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qCvbocn.png" group-title="LIVE NEWS",Sky News Extra 1
 https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qCvbocn.png" group-title="LIVE NEWS",Sky News Extra 2
@@ -1234,6 +1240,8 @@ https://g2.mc-slo.transport.edge-access.net:443/a15/ngrp:a24-100056_all/a24-1000
 http://pubads.g.doubleclick.net/ssai/event/XZLLJIhJRNqz33DGp6NdkA/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wrh58Qz.png" group-title="LATINO NEWS",Canal 26
 http://live-edge01.telecentro.net.ar/live/smil:c26.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/svLEZiX.png" group-title="LATINO NEWS",Meganoticias
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/Meganoticiasoficial/live
 #EXTINF:-1 tvg-logo="https://i.imgur.com/49pK1bB.png" group-title="LATINO NEWS",Información Periodística
 https://d1nmqgphjn0y4.cloudfront.net/live/ip/live.isml/live-audio_1=128000-video=4499968.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CxJN3qj.png" group-title="LATINO NEWS",Foro
