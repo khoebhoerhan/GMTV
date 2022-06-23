@@ -1126,12 +1126,8 @@ https://rakuten-africanews-1-eu.rakuten.wurl.tv/playlist.m3u8
 https://d2xqcdx4c8vu9s.cloudfront.net/out/v1/15b8393e9a9240b8bedd4c79ccefb301/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/r38Camc.png" group-title="INDIAN NEWS",India Today
 https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/indiatoday_5/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/aa/Times_Now_2010.png" group-title="INDIAN NEWS",Times Now
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/TimesNow/live
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Atn4Ppt.png" group-title="INDIAN NEWS",India Ahead
 https://d3a9l0u5hgmgjl.cloudfront.net/01.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/83CZGrB.png" group-title="INDIAN NEWS",NewsX
-https://itvoign.multitvsolution.com/hls/newsx_720p/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SOAzyhe.png" group-title="INDIAN NEWS",Republic TV
 https://republicworld.amagi.tv/hls/amagi_hls_data_samsungin-republictv-samsungindia/CDN/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aME56Hq.png" group-title="INDIAN NEWS",DD India
@@ -1307,7 +1303,7 @@ https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/ind
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Iran_International.svg/1200px-Iran_International.svg.png" group-title="PERSIAN NEWS",Iran International
 https://live.playstop.me/LS-63503-4/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cZ5z621.png" group-title="PERSIAN NEWS",IRINN
-https://sdm.telewebion.com/live/irinn/playlist.m3u8
+https://cdnw.telewebion.com/irinn/live/480p/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/n5vWRjT.png" group-title="RUSSIAN NEWS",Известия ТВ
 http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.shockya.com/news/wp-content/uploads/rossiya_24.png" group-title="RUSSIAN NEWS",Россия-24
@@ -1361,8 +1357,6 @@ https://republicworld.amagi.tv/hls/amagi_hls_data_samsungin-republicbharat-samsu
 https://pubads.g.doubleclick.net/ssai/event/nRWQsGoJSzmcErJFgAy67g/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aUfDyOT.png" group-title="HINDI NEWS",TV9 Bharatvarsh
 https://vidcdn.vidgyor.com/tv9bharatvarsh-origin/live/tv9bharatvarsh-origin/live1/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zwN5Oz0.png" group-title="HINDI NEWS",Zee Hindustan
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/ZeeHindustan/live
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ebqagsj.png" group-title="HINDI NEWS",Zee News
 https://d233nwklwv8p4.cloudfront.net/out/v1/860cb318d23a4c64b58c9d625281170c/index_3.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wHNzQ4U.png" group-title="PARLIAMENTARY",Sansad TV
