@@ -1210,13 +1210,13 @@ https://rtmlive04tv.secureswiftcontent.com/rtmchannel/04-manifest.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CId9ifi.png" group-title="VISUAL RADIO",TeleRadyo
 https://abscbn-ono.akamaized.net/midroll/amagi_hls_data_abscbnAAA-abscbn-teleradyo-oando/CDN/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KrpIbzA.png" group-title="MANDARIN NEWS",CCTV 13
-http://39.135.32.236:6610/PLTV/77777777/224/3221225787/index.m3u8?
+https://cctvwbcdcnchw.v.cdn20.com/cctvwbcd/cdrmcctv13_1_576P/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/j2pKcAe.png" group-title="MANDARIN NEWS",CTS News
 https://raw.githubusercontent.com/etag2000/IPTV/YTlive/ctsnews.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/6/67/CTV_News_logo.png" group-title="MANDARIN NEWS",CTV News
 https://raw.githubusercontent.com/etag2000/IPTV/YTlive/ctvnews.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/e/e2/FTV_News_Logo.png" group-title="MANDARIN NEWS",FTV News
-http://50.7.61.148:30080/Entry/ftvnews
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/FTVLIVE/live
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eSNdW3n.png" group-title="MANDARIN NEWS",Phoenix InfoNews Channel
 https://playtv-live.ifeng.com/live/06OLEEWQKN4_tv1.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Aw2dGfj.png" group-title="MANDARIN NEWS",Phoenix Chinese Channel
@@ -1230,7 +1230,7 @@ http://live4.tdm.com.mo/ch5/_definst_/info_ch5.live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5gGkYuD.png" group-title="MANDARIN NEWS",TVB News
 http://iptv.tvfix.org/hls/inews_v.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/1/1c/Tvbsnews.png" group-title="MANDARIN NEWS",TVBS News
-http://iptv.tvfix.org/hls/tvbsnews_v.m3u8
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/TVBSNEWS01/live
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Logo_24HorasTVN.svg/1920px-Logo_24HorasTVN.svg.png" group-title="LATINO NEWS",24 Horas
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/user/24HORAS/live
 #EXTVLCOPT:http-user-agent=Samsung SM-G550T stagefright/Beyonce/12.12.9 (Linux;Android 6.0.12)
