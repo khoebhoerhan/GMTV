@@ -91,6 +91,38 @@ https://edge.medcom.id/live-edge/smil:mgradio.smil/chunklist_w1042457750_b192000
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MjhkOWZkZjYtOGViOC0zNTkzLWFhOWEtNGFhMzJkMDk3NGE2
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/2/20/TvOne_logo_2012.svg/1280px-TvOne_logo_2012.svg.png" group-title="NATIONAL NEWS",tvOne
 https://stream-cdn.mncnow.id/live/eds/TVOne-2/sa_dash_vmx/TVOne-2.mpd
+#EXTINF:-1 tvg-logo="https://i.imgur.com/42JzZAx.png" group-title="PARLIAMENTARY",TVR Parlemen-Badan Anggaran
+http://103.18.181.69:1935/golive/livestreambanggar/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/42JzZAx.png" group-title="PARLIAMENTARY",TVR Parlemen-Badan Legislatif
+http://103.18.181.69:1935/golive/livestreambaleg/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/42JzZAx.png" group-title="PARLIAMENTARY",TVR Parlemen-Badan Musyawarah
+http://103.18.181.69:1935/golive/livestreambamus/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/42JzZAx.png" group-title="PARLIAMENTARY",TVR Parlemen-BAKN
+http://103.18.181.69:1935/golive/livestreambakn/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/42JzZAx.png" group-title="PARLIAMENTARY",TVR Parlemen-BKSAP
+http://103.18.181.69:1935/golive/livestreambksap/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/42JzZAx.png" group-title="PARLIAMENTARY",TVR Parlemen-Komisi I
+http://103.18.181.69:1935/golive/livestream1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/42JzZAx.png" group-title="PARLIAMENTARY",TVR Parlemen-Komisi II
+http://103.18.181.69:1935/golive/livestream2/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/42JzZAx.png" group-title="PARLIAMENTARY",TVR Parlemen-Komisi III
+http://103.18.181.69:1935/golive/livestream3/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/42JzZAx.png" group-title="PARLIAMENTARY",TVR Parlemen-Komisi IV
+http://103.18.181.69:1935/golive/livestream4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/42JzZAx.png" group-title="PARLIAMENTARY",TVR Parlemen-Komisi IX
+http://103.18.181.69:1935/golive/livestream9/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/42JzZAx.png" group-title="PARLIAMENTARY",TVR Parlemen-Komisi V
+http://103.18.181.69:1935/golive/livestream5/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/42JzZAx.png" group-title="PARLIAMENTARY",TVR Parlemen-Komisi VI
+http://103.18.181.69:1935/golive/livestream6/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/42JzZAx.png" group-title="PARLIAMENTARY",TVR Parlemen-Komisi VII
+http://103.18.181.69:1935/golive/livestream7/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/42JzZAx.png" group-title="PARLIAMENTARY",TVR Parlemen-Komisi VIII
+http://103.18.181.69:1935/golive/livestream8/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/42JzZAx.png" group-title="PARLIAMENTARY",TVR Parlemen Komisi-X
+http://103.18.181.69:1935/golive/livestream10/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/42JzZAx.png" group-title="PARLIAMENTARY",TVR Parlemen Komisi-XI
+http://103.18.181.69:1935/golive/livestream11/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/I6uzeS6.png" group-title="LOKAL",Agropolitan TV
 http://45.80.181.150:8080/hls/agropolitantv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PgOce2p.png" group-title="LOKAL",Arek TV
