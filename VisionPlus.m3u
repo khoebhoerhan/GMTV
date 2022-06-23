@@ -567,8 +567,6 @@ https://abscbn-ono.akamaized.net/midroll/amagi_hls_data_abscbnAAA-abscbn-myxnola
 https://www.navchina.cf/IPTV/sbs.php?id=S09
 #EXTINF:-1 tvg-logo="https://i.imgur.com/X7VxlBN.png" group-title="ASIAN MUSIC",MTV Japan
 http://cdn.us195.jpnettv.live:1935/jptv/mtv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/M4EZGYP.png" group-title="ASIAN MUSIC",CCTV 15
-http://39.135.32.236:6610/PLTV/77777777/224/3221225693/index.m3u8?
 #EXTINF:-1 tvg-logo="https://i.imgur.com/X7VxlBN.png" group-title="WORLD MUSIC",MTV Brasil
 http://187.85.237.8:8825/ipvt_004
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c9/M6_Music_%282012%29.png" group-title="EUROPEAN MUSIC",M6 Music
@@ -672,8 +670,6 @@ http://rr.dens.tv/h/h90/index.m3u8
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2407/default_ott.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/r2mKJH2.png" group-title="ASIAN MOVIES",MyCinema Asia
 http://rr.dens.tv/h/h193/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YJbg11S.png" group-title="ASIAN MOVIES",CCTV 6
-http://39.135.32.236:6610/PLTV/77777777/224/3221225683/index.m3u8?
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Sony_MAX.svg/800px-Sony_MAX.svg.png" group-title="HINDI MOVIES",Sony Max
 http://221.120.204.4/SONY-MAX-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NywlkDO.png" group-title="HINDI MOVIES",Zee Cinema Asia
@@ -1140,8 +1136,6 @@ https://d3a9l0u5hgmgjl.cloudfront.net/01.m3u8
 https://republicworld.amagi.tv/hls/amagi_hls_data_samsungin-republictv-samsungindia/CDN/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aME56Hq.png" group-title="INDIAN NEWS",DD India
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/DDIndia/live
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/aa/Times_Now_2010.png" group-title="INDIAN NEWS",Times Now
-https://query-streamlink.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/c/TimesNow/live
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nK04jlH.png" group-title="ARABIC NEWS",Al Alam News Network
 https://live2.alalam.ir/live/Alalam/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MA4V35n.png" group-title="NON-ENGLISH NEWS",NTV News 24
@@ -1219,8 +1213,6 @@ https://rtmlive08tv.secureswiftcontent.com/rtmchannel/08-manifest.mpd
 https://rtmlive04tv.secureswiftcontent.com/rtmchannel/04-manifest.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CId9ifi.png" group-title="VISUAL RADIO",TeleRadyo
 https://abscbn-ono.akamaized.net/midroll/amagi_hls_data_abscbnAAA-abscbn-teleradyo-oando/CDN/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KrpIbzA.png" group-title="MANDARIN NEWS",CCTV 13
-https://cctvwbcdcnchw.v.cdn20.com/cctvwbcd/cdrmcctv13_1_576P/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/j2pKcAe.png" group-title="MANDARIN NEWS",CTS News
 https://raw.githubusercontent.com/etag2000/IPTV/YTlive/ctsnews.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/6/67/CTV_News_logo.png" group-title="MANDARIN NEWS",CTV News
@@ -1231,18 +1223,10 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/FTVLI
 https://playtv-live.ifeng.com/live/06OLEEWQKN4_tv1.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Aw2dGfj.png" group-title="MANDARIN NEWS",Phoenix Chinese Channel
 https://playtv-live.ifeng.com/live/06OLEGEGM4G_tv1.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Now_News_logo.svg/1920px-Now_News_logo.svg.png" group-title="MANDARIN NEWS",now News
-http://livetv.dnsfor.me:80/channel.4.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/RTHK_TV_31.svg/1280px-RTHK_TV_31.svg.png" group-title="MANDARIN NEWS",RTHK 31
-https://cdn.hkdtmb.com/hls/31/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/9d/TDM_Informa%C3%A7%C3%A3o.jpg" group-title="MANDARIN NEWS",TDM 澳門資訊頻道
 http://live4.tdm.com.mo/ch5/_definst_/info_ch5.live/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5gGkYuD.png" group-title="MANDARIN NEWS",TVB News
-http://iptv.tvfix.org/hls/inews_v.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/1/1c/Tvbsnews.png" group-title="MANDARIN NEWS",TVBS News
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=2mCSYvcfhtc
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Logo_24HorasTVN.svg/1920px-Logo_24HorasTVN.svg.png" group-title="LATINO NEWS",24 Horas
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/user/24HORAS/live
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/24horasCl/live
 #EXTVLCOPT:http-user-agent=Samsung SM-G550T stagefright/Beyonce/12.12.9 (Linux;Android 6.0.12)
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XyKKCz3.png" group-title="LATINO NEWS",A24
 https://g2.mc-slo.transport.edge-access.net:443/a15/ngrp:a24-100056_all/a24-100056_720p.m3u8
@@ -1680,13 +1664,7 @@ http://cvmvietnix.duckdns.org:9981/stream/channelid/828048628
 http://cvmvietnix.duckdns.org:9981/stream/channelid/56826019
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bPkn38j.png" group-title="VIETNAMESE SPORTS", SCTV 22
 http://cvmvietnix.duckdns.org:9981/stream/channelid/1887557632
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Dt4IDCL.png" group-title="CHINESE SPORTS",CCTV 5
-http://39.135.32.236:6610/PLTV/77777777/224/3221225801/index.m3u8?
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qvfq4yw.png" group-title="CHINESE SPORTS",CCTV 5+
-http://39.135.32.236:6610/PLTV/77777777/224/3221225621/index.m3u8?
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YwI3gyn.png" group-title="CHINESE SPORTS",CCTV 16
-http://ott.js.chinamobile.com/PLTV/3/224/3221228144/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/TDMSport.png" group-title="CHINESE SPORTS",TDM 澳門體育頻道
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/TDMSport.png" group-title="WORLD SPORTS",TDM 澳門體育頻道
 http://live4.tdm.com.mo/ch4/_definst_/sport_ch4.live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1920px-ESPN_wordmark.svg.png" group-title="AUSTRALIAN SPORTS",ESPN Australia
 http://stariptv.org:8080/nour2020/123456/163785
@@ -2601,26 +2579,6 @@ http://rtmp.cdn.upx.net.br/723b/myStream.sdp/playlist.m3u8
 https://d1211whpimeups.cloudfront.net/smil:rtb2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c0/RTB_Sukmaindera.png" group-title="BRUNEI",RTB Sukmaindera
 https://d1211whpimeups.cloudfront.net/smil:rtb1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/iNhSs8x.png" group-title="CHINA",CCTV 1
-http://39.135.32.236:6610/PLTV/77777777/224/3221225674/index.m3u8?
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qLJrcum.png" group-title="CHINA",CCTV 2
-http://39.135.32.236:6610/PLTV/77777777/224/3221225676/index.m3u8?
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fGrT16W.png" group-title="CHINA",CCTV 3
-http://39.135.32.236:6610/PLTV/77777777/224/3221225677/index.m3u8?
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0ccx2jW.png" group-title="CHINA",CCTV 7
-http://39.135.32.236:6610/PLTV/77777777/224/3221225627/index.m3u8?
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YyBxwYF.png" group-title="CHINA",CCTV 8
-http://39.135.32.236:6610/PLTV/77777777/224/3221225630/index.m3u8?
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2LVQYWY.png" group-title="CHINA",CCTV 9
-http://39.135.32.236:6610/PLTV/77777777/224/3221225633/index.m3u8?
-#EXTINF:-1 tvg-logo="https://i.imgur.com/nJTepm9.png" group-title="CHINA",CCTV 10
-http://39.135.32.236:6610/PLTV/77777777/224/3221225624/index.m3u8?$广西移动
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1n03BMt.png" group-title="CHINA",CCTV 11
-http://39.135.32.236:6610/PLTV/77777777/224/3221225750/index.m3u8?$广西移动
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZTOlFA0.png" group-title="CHINA",CCTV 12
-http://39.135.32.236:6610/PLTV/77777777/224/3221225787/index.m3u8?
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QB3l5HH.png" group-title="CHINA",CCTV 17
-http://39.135.32.236:6610/PLTV/77777777/224/3221225766/index.m3u8?
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XwhAUmO.png" user-agent="Mozilla/5.0 (X11; Linux i686; rv:90.0) Gecko/20100101 Firefox/90.0" group-title="CROATIA",HRT 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux i686; rv:90.0) Gecko/20100101 Firefox/90.0
 http://195.29.70.67/PLTV/88888888/224/3221226139/index.m3u8
