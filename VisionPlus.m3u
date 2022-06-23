@@ -121,6 +121,8 @@ https://h1.intechmedia.net/intech/ch58.m3u8
 http://bmstv.onlivestreaming.net/bmstv/livestream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xH5sP7j.png" group-title="LOKAL",Citra TV
 http://122.248.43.138:1935/ch28/myStream/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/3/3f/CTV_Banten.png/1200px-CTV_Banten.png" group-title="LOKAL",CTV Banten
+https://bravo.kugo.id/ctv/rtmp.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/U5jiuuM.png" group-title="LOKAL",Dayak TV
 https://v4.siar.us/dayaktv/livestream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qio9YhR.png" group-title="LOKAL",Duta TV
@@ -156,7 +158,7 @@ https://wms.klikhost.net/kaltaratv/kaltaratv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/77jvbJY.png" group-title="LOKAL",Kawanua TV
 http://122.248.43.138:1935/ch18/myStream/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/X5YoCdN.png" group-title="LOKAL",Lombok TV
-http://103.23.201.170:1935/live/lbtv/chunklist_w1995349508.m3u8
+https://bravo.kugo.id/lomboktv/rtmp.stream/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/53OjK6n.png" group-title="LOKAL",MGS TV
 https://cdn.gunadarma.ac.id/streams/mgstv/ingestmgstv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/R8eg7kU.png" group-title="LOKAL",Pal TV
@@ -177,6 +179,8 @@ https://v10.siar.us/rctv/live/playlist.m3u8
 http://122.248.43.138:1935/ch11/myStream/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/Logo-saktitv.png" group-title="LOKAL",Sakti TV
 https://v2.siar.us/saktitv/livestream/playlist.m3u8#t=0.1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YUIIiAC.png" group-title="LOKAL",Sampit TV
+https://alfa.kugo.id/sampittv/rtmp.stream/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/3/3c/Cakra-semarang-tv.png" group-title="LOKAL",Semarang TV
 http://116.254.112.74:80/hls/cakralive.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9AFLelt.png" group-title="LOKAL",Silampari TV
@@ -207,6 +211,8 @@ http://103.30.246.47:1935/tvtpi/live/playlist.m3u8
 http://gprtv.id:1935/live/gprtv/chunklist_w1059915320.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zgKW6bB.png" group-title="KOMUNITAS",UGTV
 https://cdn.gunadarma.ac.id/streams/ugtv/ingestugtv.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gdwCbB6.png" group-title="KOMUNITAS",Unas TV
+https://ltun.siar.us/ltun/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xs3CMJA.png" group-title="KOMUNITAS",UN Web TV
 https://cdnapi.kaltura.com/p/2503451/sp/250345100/playManifest/entryId/1_gb6tjmle/protocol/https/format/applehttp/a.m3u8
 #EXTINF:-1 tvg-logo="http://staging.tvri.go.id/assets/img_gallery/daerah/ACEH.png" group-title="TVRI DAERAH",TVRI Aceh
@@ -792,7 +798,7 @@ http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/playlist.m3u8?bizke
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BgIUxdy.png" group-title="KIDS",Mentari TV
 https://ott-navigator.my.id/vidio4/master.m3u8?channel=MENTARITV
 #EXTINF:-1 tvg-logo="https://i.imgur.com/V2n8iDR.png" group-title="KIDS",Spacetoon
-http://stream1.ninmedia.tv:1935/spacetoon/udp.stream_360p/chunklist_w1596438578.m3u8
+https://bravo.kugo.id/spacetoon/udp.stream/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MjhkOWZkZjYtOGViOC0zNTkzLWFhOWEtNGFhMzJkMDk3NGE2
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/1920px-Nickelodeon_2009_logo.svg.png" group-title="KIDS",Nickelodeon South East Asia
@@ -1484,6 +1490,8 @@ https://owifavo5.rocketcdn.com/gstv/gstv.smil/chunklist_b846000_sltur.m3u8
 http://stariptv.org:8080/nour2020/123456/9363
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3zyVm7l.png" group-title="CLUBS OF SPORTS",MUTV
 http://stariptv.org:8080/nour2020/123456/9383
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4CPFHlX.png" group-title="CLUBS OF SPORTS",Persija TV
+https://bravo.kugo.id/persijatv/udp.stream/playlist.m3u8
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTINF:-1 tvg-logo="https://i.imgur.com/g2qWOoB.png" group-title="CLUBS OF SPORTS",Porto Canal
@@ -2340,6 +2348,10 @@ https://catholictvhd-lh.akamaized.net/hls/live/2043390/CTVLiveHD/master_5.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MjhkOWZkZjYtOGViOC0zNTkzLWFhOWEtNGFhMzJkMDk3NGE2
 #EXTINF:-1 tvg-logo="https://i.imgur.com/exef3eh.png" group-title="RELIGION",Reformed 21
 https://stream-cdn.mncnow.id/live/eds/Reformed21/sa_dash_vmx/Reformed21.mpd
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Z1INnSH.png" group-title="RELIGION",GBI TV
+https://bravo.kugo.id/gbitv/rtmp.stream/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/324pS6A.png" group-title="RELIGION",Pijar TV
+ttp://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/pijartv
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c1/TV_MARIA_logo.png" group-title="RELIGION",TV Maria
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/TVMariaLIVE/live
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Vatican_Media_reduced.svg/1200px-Vatican_Media_reduced.svg.png" group-title="RELIGION",Vatican Media Live
