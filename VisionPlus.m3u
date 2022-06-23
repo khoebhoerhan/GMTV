@@ -439,13 +439,9 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2507/default_primary.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1gcbcVx.png" group-title="CHINESE ENTERTAINMENT VPN",Astro Shuang Xing
 https://Astro.kpsboyserver.com/AstroShuangxing.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BQoyBoS.png" group-title="CHINESE ENTERTAINMENT",CCTV 4 Asia
-http://39.135.32.236:6610/PLTV/77777777/224/3221225753/index.m3u8?$广西移动
+http://210.210.155.35:80/qwr9ew/s/s19/01.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/8/87/TDM_Ou_Mun_Macau_logo.png" group-title="CHINESE ENTERTAINMENT",TDM Macau
 http://live4.tdm.com.mo/ch3/_definst_/ch3.live/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DZaD1Lf.png" group-title="CHINESE ENTERTAINMENT",TVB Xing He
-http://iptv.tvfix.org/hls/tvbxh2.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e9/TVBS_Asia_logo_2017.png" group-title="CHINESE ENTERTAINMENT",TVBS Asia
-http://iptv.tvfix.org/hls/tvbs.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MjhkOWZkZjYtOGViOC0zNTkzLWFhOWEtNGFhMzJkMDk3NGE2
 #EXTINF:-1 tvg-logo="https://i.imgur.com/44aJ4YV.png" group-title="CHINESE ENTERTAINMENT",Xing Kong TV
@@ -462,9 +458,6 @@ https://shls-lbci-prod-dub.shahid.net/out/v1/d8cce30036e743318a7f338539689968/in
 https://mn-nl.mncdn.com/tvri_test/smil:tvri_test.smil/chunklist_b1120000.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OSEdWCp.png" group-title="TURKISH ENTERTAINMENT",Kanal 7 Avrupa
 https://live.kanal7.com/live/kanal7AvrupaLive/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/jQ3GkPA.png" group-title="TURKISH ENTERTAINMENT",Show Türk
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-https://www.yilmaztv.ru/beceroz/oz.php?channel=show-turk-izle-5&stream=1&type=m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Nh6c3KS.png" group-title="TURKISH ENTERTAINMENT",TRT Türk
 https://tv-trtturk.live.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RdIJVDs.png" group-title="ARABIC ENTERTAINMENT",Abu Dhabi TV
@@ -2718,16 +2711,6 @@ http://liveopencloud.siliconweb.com/1/ZlRza2R6L2tFRnFJ/eWVLSlQx/hls/live/playlis
 http://skai-live-gr-cy-back.siliconweb.com/media/cambria4/index_bitrate2000K.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Lo5k7Dm.png" group-title="GREECE",Star Channel
 https://livestar.siliconweb.com/media/star1/star1mediumhd.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bL6rOV4.png" group-title="HONG KONG",TVB Jade
-http://iptv.tvfix.org/hls/jade_v.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/J0waOhK.png" group-title="HONG KONG",TVB J2
-http://iptv.tvfix.org/hls/j2_v.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EPl3Ico.png" group-title="HONG KONG",TVB Pearl
-http://iptv.tvfix.org/hls/pearl2.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/ViuTV_logo.svg/640px-ViuTV_logo.svg.png" group-title="HONG KONG",Viu TV
-https://cdn.hkdtmb.com/hls/99/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ViuTVsix-logo.svg/2560px-ViuTVsix-logo.svg.png" group-title="HONG KONG",Viu TV 6
-https://cdn-cn.hkdtmb.com/hls/96/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HxXyffb.png" group-title="INDIA",& tv
 http://208.86.19.13:81/703.stream/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Eg91jHK.png" group-title="INDIA",Colors
@@ -2878,18 +2861,10 @@ https://video-auth7.iol.pt/live_edge/tvi_abr/edge_servers/tvi-480p/chunks.m3u8?
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PFJ5gVQ.png" group-title="PORTUGAL",TVI Reality
 https://video-auth2.iol.pt/live_tvi_direct/live_tvi_direct/edge_servers/tvireality-480p/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ro/6/69/Euforia-logo.png" group-title="ROMANIA",Happy Channel
-http://1tv1.net:8080/hakim2021/123456/56167
 #EXTINF:-1 tvg-logo="https://i.imgur.com/i7fz8xt.png" group-title="ROMANIA",Kanal D Romania
 https://stream1.kanald.ro/iphone/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/q77TwiP.png" group-title="ROMANIA",Prima TV
 https://stream1.1616.ro:1945/prima/livestream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Logo_Pro_2_%282017%29.svg/1920px-Logo_Pro_2_%282017%29.svg.png" group-title="ROMANIA",Pro 2
-https://cmero-ott-live.ssl.cdn.cra.cz/channels/cme-ro-pro2/playlist/rum/live_hq.m3u8?offsetSeconds=0&url=0
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Logo_Pro_TV_%282017%29.svg/1200px-Logo_Pro_TV_%282017%29.svg.png" group-title="ROMANIA",Pro TV
-https://cmero-ott-live.ssl.cdn.cra.cz/channels/cme-ro-protv/playlist/rum/live_fullhd.m3u8?offsetSeconds=0&url=0
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Logo_Pro_X_%282017%29.svg/1200px-Logo_Pro_X_%282017%29.svg.png" group-title="ROMANIA",Pro X
-https://cmero-ott-live.ssl.cdn.cra.cz/channels/cme-ro-prox/playlist/rum/live_hq.m3u8?offsetSeconds=0&url=0
 #EXTINF:-1 tvg-logo="https://i.imgur.com/I37k5Z6.png" group-title="ROMANIA",TVR 1
 http://5.254.16.186:80/TVR1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/myDcDzY.png" group-title="RUSSIA",Мир
