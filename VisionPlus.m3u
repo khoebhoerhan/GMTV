@@ -790,6 +790,10 @@ http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/playlist.m3u8?bizke
 https://dukun.masuk.id/terserahguelah/hiburan/mentari.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/V2n8iDR.png" group-title="KIDS",Spacetoon
 https://bravo.kugo.id/spacetoon/udp.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TMAQTQC.png" group-title="KIDS",Hip Hip Horee!
+https://tvn10.xyz/vidio/hiphore.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GCeS1xO.png" group-title="KIDS",Horee!
+https://tvn10.xyz/vidio/hore.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MjhkOWZkZjYtOGViOC0zNTkzLWFhOWEtNGFhMzJkMDk3NGE2
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/1920px-Nickelodeon_2009_logo.svg.png" group-title="KIDS",Nickelodeon South East Asia
