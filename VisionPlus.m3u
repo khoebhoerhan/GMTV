@@ -715,6 +715,10 @@ http://rr.dens.tv/h/h90/index.m3u8
 #KODIPROP:inputstream.adaptive.license_key=09e9d9037bbc6d4eac45bdee4b718b10:05db97174848670a152d0b15f3dab994
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fD8G2Ug.png" group-title="MOVIES VPN",Boo
 https://links.aqfadtv.xyz/boo.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=cb6c0c34cd3b22efd444edfd21393c10&key=84750873ded43774b06b43b67717a708
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MsO0A7c.png" group-title="MOVIES VPN",Astro BollyOne HD
+https://links.aqfadtv.xyz/bollyone.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/r2mKJH2.png" group-title="ASIAN MOVIES",MyCinema Asia
 http://rr.dens.tv/h/h193/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Sony_MAX.svg/800px-Sony_MAX.svg.png" group-title="HINDI MOVIES",Sony Max
