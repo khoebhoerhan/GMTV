@@ -123,6 +123,8 @@ http://103.18.181.69:1935/golive/livestream8/playlist.m3u8
 http://103.18.181.69:1935/golive/livestream10/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/42JzZAx.png" group-title="PARLIAMENTARY",TVR Parlemen-Komisi XI
 http://103.18.181.69:1935/golive/livestream11/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mGUrtge.png" group-title="LOKAL",AFB TV
+http://5e396e0211d7a.streamlock.net:1935/afbtv/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/I6uzeS6.png" group-title="LOKAL",Agropolitan TV
 http://45.80.181.150:8080/hls/agropolitantv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PgOce2p.png" group-title="LOKAL",Arek TV
