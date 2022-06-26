@@ -923,7 +923,7 @@ https://stream-cdn.mncnow.id/live/eds/Discovery/sa_dash_vmx/Discovery.mpd
 https://livecdn.fptplay.net/hda2/discoveryasia_vhls.smil/chunklist_b5000000.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MjhkOWZkZjYtOGViOC0zNTkzLWFhOWEtNGFhMzJkMDk3NGE2
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hKn75WG.png" group-title="KNOWLEDGE",History Asia
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wtqtwPg.png" group-title="KNOWLEDGE",History Asia
 https://stream-cdn.mncnow.id/live/eds/History/sa_dash_vmx/History.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9EFDndr.png" group-title="KNOWLEDGE",History 2
@@ -3148,9 +3148,9 @@ https://s3.vinhostmedia.com:10995/;stream/1
 http://115.178.48.43:9990/;
 #EXTINF:-1 tvg-logo="https://i.imgur.com/u09ERA9.png" group-title="RADIO INDONESIA",Phoenix Radio
 https://live.phoenixradiobali.com:8250/phoenixradio
-#EXTINF:-1 tvg-logo="https://i.imgur.com/iUGpY3U.png" group-title="RADIO INDONESIA",Play 99ers Bandung
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kTkgpyE.png" group-title="RADIO INDONESIA",Play 99ers Bandung
 https://a2.siar.us/radio/8060/radio.mp3
-#EXTINF:-1 tvg-logo="https://i.imgur.com/iUGpY3U.png" group-title="RADIO INDONESIA",Play FM Palembang
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RYXs3ln.png" group-title="RADIO INDONESIA",Play FM Palembang
 http://66.96.237.109:8000/
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XD4fyZS.png" group-title="RADIO INDONESIA",Prambors Radio
 https://playerservices.streamtheworld.com/api/livestream-redirect/PRAMBORS_FM.mp3?dist=onlineradiobox
@@ -3252,25 +3252,56 @@ http://901fm.swaratimor.com:8089/;radio.mp3?1614086637681
 http://taradio.onlivestreaming.net:10350/stream
 #EXTINF:-1 tvg-logo="https://i.imgur.com/R35XjWy.jpg" group-title="RADIO INDONESIA",Top FM Semarang
 http://server-by.antoners.com:8020/topfm
-#EXTINF:-1 tvg-logo="https://i.imgur.com/iUGpY3U.png" group-title="RADIO INDONESIA",Trax FM Palembang
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7j1c3tr.png" group-title="RADIO INDONESIA",Trax FM Palembang
 http://stream.radiojar.com/qv4muvhswk8uv
-#EXTINF:-1 tvg-logo="https://i.imgur.com/iUGpY3U.png" group-title="RADIO INDONESIA",Trax FM Semarang
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VQewXh7.png" group-title="RADIO INDONESIA",Trax FM Semarang
 http://stream.radiojar.com/fr9zqhv80k8uv
-#EXTINF:-1 tvg-logo="https://i.imgur.com/iUGpY3U.png" group-title="RADIO INDONESIA",Trax Jakarta
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RNEmhym.png" group-title="RADIO INDONESIA",Trax Jakarta
 https://n11.radiojar.com:443/rrqf78p3bnzuv.mp3?1613798267=&rj-tok=AAABd73ok20AEvV31cQDN-_2tg&rj-ttl=5
-#EXTINF:-1 tvg-logo="https://i.imgur.com/iUGpY3U.png" group-title="RADIO INDONESIA",Trendy FM
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uQ5dmbm.png" group-title="RADIO INDONESIA",Trendy FM
 http://i.klikhost.net:8018/;
-#EXTINF:-1 tvg-logo="https://i.imgur.com/iUGpY3U.png" group-title="RADIO INDONESIA",UB Radio
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jDbQUDx.png" group-title="RADIO INDONESIA",UB Radio
 http://175.45.185.215:8000/admin
-#EXTINF:-1 tvg-logo="https://i.imgur.com/iUGpY3U.png" group-title="RADIO INDONESIA",Unisi Radio
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ma0HYSM.png" group-title="RADIO INDONESIA",Unisi Radio
 http://202.162.32.23:8000/stream/1/
-#EXTINF:-1 tvg-logo="https://i.imgur.com/iUGpY3U.png" group-title="RADIO INDONESIA",Urban Radio Bandung
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/9/9d/Urban106%2C3FM.png" group-title="RADIO INDONESIA",Urban Radio Bandung
 http://live.indostreamserver.com/8250/stream
-#EXTINF:-1 tvg-logo="https://i.imgur.com/iUGpY3U.png" group-title="RADIO INDONESIA",Urban Yudha Bali
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Bd3maAJ.png" group-title="RADIO INDONESIA",Urban Yudha Bali
 http://live.indostreamserver.com:8090/;
-#EXTINF:-1 tvg-logo="https://i.imgur.com/iUGpY3U.png" group-title="RADIO INDONESIA",UTY FM Medari
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BP4Fztw.png" group-title="RADIO INDONESIA",UTY FM Medari
 http://utyfmedari.us.myradio.web.id:8000/utyfmedari
-#EXTINF:-1 tvg-logo="https://i.imgur.com/iUGpY3U.png" group-title="RADIO INDONESIA",Venus FM
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5qqCWbZ.png" group-title="RADIO INDONESIA",Venus FM
 http://node-02.zeno.fm:80/1n8mba13zqruv?rj-ttl=5&rj-tok=AAABd71VoMIAqmerQClkP_PCZg
-#EXTINF:-1 tvg-logo="https://i.imgur.com/iUGpY3U.png" group-title="RADIO INDONESIA",Visi FM
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FBB0zD5.png" group-title="RADIO INDONESIA",Visi FM
 https://i.klikhost.com/8274/;stream.mp3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kLfKFH5.png" group-title="PINOY RADIO",DZRH News
+https://streamingv2.shoutcast.com/dzrhmanila?type=.mp3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ByOI2bA.png" group-title="PINOY RADIO",Energy 106.7
+https://onlineradiobox.com/json/ph/dwet/play?platform=web
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YfKA5Lx.png" group-title="PINOY RADIO",Home Radio
+https://onlineradiobox.com/json/ph/dwqz/play?platform=web
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9ZBq7Fq.png" group-title="PINOY RADIO",Love Radio
+https://s3.radio.co/sd43d6cc6d/listen
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1XVJfE5.png" group-title="PINOY RADIO",Magic 89.9
+https://stream.zeno.fm/fw1368t3vc9uv
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BlQSMz7.png" group-title="PINOY RADIO",Monster RX 93.1
+https://ph-icecast-win.eradioportal.com:8443/monsterrx
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vXkHVUH.png" group-title="PINOY RADIO",Play FM
+https://stream.zenolive.com/ktsuntffnpeuv
+#EXTINF:-1 tvg-logo="https://i.imgur.com/I3cW8CO.png" group-title="PINOY RADIO",Star FM
+http://node-22.zeno.fm/n51d54pctrquv?rj-ttl=5&rj-tok=AAABd8KK9r4AH0xsfAgNsn51Xw
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/56/DZBB594.svg/1200px-DZBB594.svg.png" group-title="PINOY RADIO",Super Radyo DZBB
+http://stream.gmanews.tv/ioslive/livestream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CId9ifi.png" group-title="PINOY RADIO",Teleradyo
+http://node-27.zeno.fm/vcv559su7mruv?rj-ttl=5&rj-tok=AAABd84ATQkAGayGAIHdxnRsZQ
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mSjoJf0.jpg" group-title="PINOY RADIO",V81 Radio
+http://162.244.80.52:5960/;stream.aac
+#EXTINF:-1 tvg-logo="https://i.imgur.com/U6mBsac.png" group-title="PINOY RADIO",Wild FM
+https://stream.zeno.fm/257h4znsgy8uv
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9dIWYDB.jpg" group-title="PINOY RADIO",Win Radio
+https://streamingv2.shoutcast.com/915-win-radio-manila
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Wish_107.5_%282015%29.svg/1200px-Wish_107.5_%282015%29.svg.png" group-title="PINOY RADIO",Wish 107.5
+https://play.wishfm.com/radio/wish.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UeUuSYh.png" group-title="PINOY RADIO",Yes 101.1
+https://s2.radio.co/sa85100da7/listen
+
