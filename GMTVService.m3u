@@ -60,7 +60,7 @@ https://lnk.ec/shareext@sctvUCliga
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/1000px-Indosiar_2015.svg.png" tvg-id="Indosiar.id" group-title="NASIONAL",Indosiar
 https://lnk.ec/shareext@id_digital.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/w2eOFdH.png" tvg-id="OChannel.id" group-title="NASIONAL",O Channel
-https://dukun.masuk.id/terserahguelah/lokal/ochanneldukun.m3u8
+https://tvn10.xyz/vidio/master-13.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MjhkOWZkZjYtOGViOC0zNTkzLWFhOWEtNGFhMzJkMDk3NGE2
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sDmXVSm.png" tvg-id="ANTV.id" group-title="NASIONAL",ANTV
@@ -370,9 +370,9 @@ https://stream-cdn.mncnow.id/live/eds/MNCInfotainment/sa_dash_vmx/MNCInfotainmen
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IrS5AOC.png" tvg-id="OKTV.id" group-title="NATIONAL ENTERTAINMENT",OK TV
 https://stream-cdn.mncnow.id/live/eds/OKTV/sa_dash_vmx/OKTV.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KiRHdpz.png" tvg-id="CitraDrama.id" group-title="NATIONAL ENTERTAINMENT",Citra Drama
-https://dukun.masuk.id/terserahguelah/hiburan/cdrama.m3u8
+https://tvn10.xyz/vidio/master-3.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ibh5oCE.png" tvg-id="CitraEntertainment.id" group-title="NATIONAL ENTERTAINMENT",Citra Entertainment
-https://dukun.masuk.id/terserahguelah/hiburan/centertainment.m3u8
+https://tvn10.xyz/vidio/master-12.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xtt7582.png" group-title="NATIONAL ENTERTAINMENT",Usee Prime
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(18564c27-ff44-4d62-9fab-dcb417fcb93f)/manifest.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WS8GnIB.png" group-title="NATIONAL ENTERTAINMENT",The Indonesia Channel
@@ -656,7 +656,7 @@ https://m3u-editor.com/serve/251f4150-88de-11ec-8657-6776f99ecd96/494142671
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UWCKaJw.png" group-title="NATIONAL MOVIES",IMC
 https://stream-cdn.mncnow.id/live/eds/IndonesiaMovieChannels-HD/sa_dash_vmx/IndonesiaMovieChannels-HD.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lN20Oy7.png" group-title="NATIONAL MOVIES",Citra Bioskop
-https://dukun.masuk.id/terserahguelah/hiburan/cbioskop.m3u8
+https://tvn10.xyz/vidio/master-2.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MjhkOWZkZjYtOGViOC0zNTkzLWFhOWEtNGFhMzJkMDk3NGE2
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Q9PQKk6.png" group-title="MOVIES",Hits Movies
@@ -849,13 +849,13 @@ https://liveanevia.mncnow.id/live/eds/KidsChannel/sa_dash_vmx/KidsChannel.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aBg0Ge4.png" group-title="KIDS",Biznet Kids
 http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/playlist.m3u8?bizkeylivestarttime=0&bizkeyliveendtime=0&bizkeyliveCustomParameter=myParameter&bizkeylivehash=qAri1M2xu_MAlnHwVRtOs24lR8Y_HSDijN2CRNghifUllhYqQSDlkd0qE8CkZwxC
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BgIUxdy.png" group-title="KIDS",Mentari TV
-https://dukun.masuk.id/terserahguelah/hiburan/mentari.m3u8
+https://tvn10.xyz/vidio/master-23.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/V2n8iDR.png" group-title="KIDS",Spacetoon
 https://bravo.kugo.id/spacetoon/udp.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TMAQTQC.png" group-title="KIDS",Hip Hip Horee!
-https://tvn10.xyz/vidio/hiphore.m3u8
+https://tvn10.xyz/vidio/master-4.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GCeS1xO.png" group-title="KIDS",Horee!
-https://tvn10.xyz/vidio/hore.m3u8
+https://tvn10.xyz/vidio/master-6.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MjhkOWZkZjYtOGViOC0zNTkzLWFhOWEtNGFhMzJkMDk3NGE2
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/1920px-Nickelodeon_2009_logo.svg.png" group-title="KIDS",Nickelodeon South East Asia
@@ -1490,15 +1490,15 @@ https://stream-cdn.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5QHtJQw.png" group-title="NATIONAL SPORTS",SPOTV 2
 https://stream-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ffWoTF9.png" group-title="NATIONAL SPORTS",Champions TV 1
-https://lnk.ec/shareext@champ1
+https://tvn10.xyz/vidio/master-7.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/r2aPCX8.png" group-title="NATIONAL SPORTS",Champions TV 2
-https://lnk.ec/shareext@champ2
+https://tvn10.xyz/vidio/master-8.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/26Jar5R.png" group-title="NATIONAL SPORTS",Champions TV 3
-https://dukun.masuk.id/terserahguelah/olahraga/champ3.m3u8
+https://tvn10.xyz/vidio/master-9.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4J586mw.png" group-title="NATIONAL SPORTS",Champions TV 4
 https://lnk.ec/shareext@tvjuara4.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AcBSHlM.png" group-title="NATIONAL SPORTS",Champions TV Goal
-https://dukun.masuk.id/terserahguelah/olahraga/champgoal.m3u8
+https://tvn10.xyz/vidio/master-10.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3openq8.png" group-title="NATIONAL SPORTS",TVRI Sport
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRI4)/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DWog3fR.png" group-title="NATIONAL SPORTS",Usee Sports
@@ -1540,7 +1540,7 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/vid
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YdipfBb.png" group-title="CLUBS OF SPORTS",GS TV
 https://owifavo5.rocketcdn.com/gstv/gstv.smil/chunklist_b846000_sltur.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1f/LFC_TV_logo.png" group-title="CLUBS OF SPORTS",LFC TV
-http://stariptv.org:8080/nour2020/123456/9363
+https://tvn10.xyz/vidio/master-22.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3zyVm7l.png" group-title="CLUBS OF SPORTS",MUTV
 http://stariptv.org:8080/nour2020/123456/9383
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4CPFHlX.png" group-title="CLUBS OF SPORTS",Persija TV
