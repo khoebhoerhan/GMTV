@@ -842,6 +842,9 @@ https://mdstrm.com/live-stream-playlist/5cae562e0ca2f30815231c0f.m3u8?access_tok
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTINF:-1 tvg-logo="https://i.imgur.com/D2PFTzV.png" group-title="EUROPEAN SERIES",TVI Ficção
 https://video-auth2.iol.pt/live_tvi_ficcao/live_tvi_ficcao/edge_servers/tvificcao-720p/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/69/TF1_S%C3%A9ries_Films.svg/1920px-TF1_S%C3%A9ries_Films.svg.png" group-title="EUROPEAN SERIES",TF 1 Séries Films
+#EXTVLCOPT:network-caching=1000
+https://s13.tntendirect.com/hd1/live/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MjhkOWZkZjYtOGViOC0zNTkzLWFhOWEtNGFhMzJkMDk3NGE2
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/7/7f/Kids_TV_%282020%29.png" group-title="KIDS",Kids TV
@@ -2674,7 +2677,7 @@ http://ntv-st01-vod01-bts10-stage.orange.sk:8000/dna-5106-tv-pc/hls/4001v102.m3u
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/TV_Nova_logo_2017.png" group-title="CZECH REPUBLIC",Nova
 https://nova-live.ssl.cdn.cra.cz/channels/nova_avod/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8a/M6_6ter_2012.png" group-title="FRANCE",6ter
-http://stariptv.org:8080/nour2020/123456/56216
+https://s13.tntendirect.com/6ter/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/47/C8_logo.jpg" group-title="FRANCE",C8
 http://callofliberty.fr/stream/C8/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Canal%2B.svg/1920px-Canal%2B.svg.png" group-title="FRANCE",Canal + France
@@ -2688,7 +2691,7 @@ http://callofliberty.fr/stream/france.3alpes/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5TrhpoO.png" group-title="FRANCE",France 4
 http://stariptv.org:8080/nour2020/123456/56270
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RIZfLwR.png" group-title="FRANCE",France 5
-http://stariptv.org:8080/nour2020/123456/56271
+https://s13.tntendirect.com/france5/live/playlist.m3u8
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/4/43/18._Gulli.png/1024px-18._Gulli.png" group-title="FRANCE",Gulli
@@ -2696,18 +2699,18 @@ https://origin-live-6play.video.bedrock.tech/6play/short/clr/gulli/hdeindex.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/M6_logo_2020.svg/1024px-M6_logo_2020.svg.png" group-title="FRANCE",M6
 https://shls-m6-france-prod-dub.shahid.net/out/v1/c8a9f6e000cd4ebaa4d2fc7d18c15988/index_1.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/50/NRJ12_logo.png" group-title="FRANCE",NRJ 12
-http://new-pro.tv:8080/Fernando/123321/300632
+https://s13.tntendirect.com/nrj12/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d1/Paris_Premi%C3%A8re_2011.svg/1920px-Paris_Premi%C3%A8re_2011.svg.png" group-title="FRANCE",Paris Première
 http://stariptv.org:8080/nour2020/123456/56304
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dc/TF1_logo_2013.png" group-title="FRANCE",TF 1
-http://stariptv.org:8080/nour2020/123456/56327
+https://s13.tntendirect.com/tf1/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TFX_logo.svg/1920px-TFX_logo.svg.png" group-title="FRANCE",TFX
 #EXTVLCOPT:network-caching=1000
-http://new-pro.tv:8080/Fernando/123321/70565
+https://s13.tntendirect.com/nt1/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/54/TMC_logo.svg/1920px-TMC_logo.svg.png" group-title="FRANCE",TMC
 http://stream.suboroiptv.tv/TMC/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a7/W9_logo_2018.png" group-title="FRANCE",W9
-http://stariptv.org:8080/nour2020/123456/598
+https://s13.tntendirect.com/w9/live/playlist.m3u8
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ujQVb6l.png" group-title="GERMANY VPN",Das Erste
