@@ -1531,8 +1531,6 @@ http://203.154.243.89:28008/nakhon/golf
 http://playlist.urfan.web.id/uq2663/h/h22/02.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/o0WVl7b.png" group-title="NATIONAL SPORTS",Dunia Games
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(ec41a5e2-09e4-431d-b92e-383fa7abe25c)/manifest.mpd
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FbFe2uu.png" group-title="WORLD SPORTS",Band Sports
-http://168.205.87.198:8555/live/4666/123456/176.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Y4dOfan.png" group-title="CLUBS OF SPORTS",Barça TV
 http://93.152.174.144:4000/play/barcatv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ULcjgX4.png" group-title="CLUBS OF SPORTS",FB TV
@@ -1560,6 +1558,26 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=535
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/NCAAPhilippines/live
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/IPC_logo_%282019%29.svg/1024px-IPC_logo_%282019%29.svg.png" group-title="LIVE SPORTS",Paralympic Games
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/paralympics/live
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xpzkzLT.png" group-title="LIVE SPORTS",Eleven Sports Brasil 1
+http://limetv.me:80/live/4719wil/452540/95504.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xpzkzLT.png" group-title="LIVE SPORTS",Eleven Sports Brasil 2
+http://limetv.me:80/live/4719wil/452540/95505.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xpzkzLT.png" group-title="LIVE SPORTS",Eleven Sports Brasil 3
+http://limetv.me:80/live/4719wil/452540/95506.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xpzkzLT.png" group-title="LIVE SPORTS",Eleven Sports Brasil 4
+http://limetv.me:80/live/4719wil/452540/95507.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xpzkzLT.png" group-title="LIVE SPORTS",Eleven Sports Brasil 5
+http://limetv.me:80/live/4719wil/452540/95508.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IyqLOSV.png" group-title="LIVE SPORTS",TNT Sports Brasil
+https://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IyqLOSV.png" group-title="LIVE SPORTS",TNT Sports Brasil 2
+https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IyqLOSV.png" group-title="LIVE SPORTS",TNT Sports Brasil 3
+https://glxlmn026c.singularcdn.net.br/playout_03/playlist-720p.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IyqLOSV.png" group-title="LIVE SPORTS",TNT Sports Brasil 4
+https://glxlmn026c.singularcdn.net.br/playout_04/playlist-720p.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IyqLOSV.png" group-title="LIVE SPORTS",TNT Sports Brasil 5
+https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZmeQGa8.png" group-title="LIVE SPORTS",SPOTV Now 1
 https://bcovlive-a.akamaihd.net/7376a505249549cc89769a2115f20846/ap-northeast-1/6271486521001/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZmeQGa8.png" group-title="LIVE SPORTS",SPOTV Now 2
@@ -1574,8 +1592,6 @@ https://bcovlive-a.akamaihd.net/48eee16919834d3b97df1082a649bcfa/ap-northeast-1/
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JApkfiF.png" group-title="WORLD SPORTS",Tennis Channel International
 https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/JApkfiF.png" group-title="AMERICAN SPORTS",Tennis Channel
-https://dukun.masuk.id/olahraga/t.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/39bwyGI.png" group-title="ARABIC SPORTS",beIN Sports FTA
 http://stariptv.org:8080/nour2020/123456/22186
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MRULdc8.png" group-title="ARABIC SPORTS",beIN Sports1
@@ -1681,7 +1697,7 @@ http://status.tehw00t.net/miniProxy.php/https://bein-xtra-samsung-canada.amagi.t
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lcpZ5CC.png" group-title="AMERICAN SPORTS",WWE Network
 https://networkbest.ru.com/cdn/premium376/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c8/BoxNation2014Logo.png" group-title="BRITISH SPORTS",Box Nation
-http://stariptv.org:8080/nour2020/123456/9395
+http://51.222.25.50:25461/bulln3w/s0beron/186
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7dg7EB7.png" group-title="BRITISH SPORTS",BT Sport 1
 http://stariptv.org:8080/nour2020/123456/9342
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sIIFREX.png" group-title="BRITISH SPORTS",BT Sport 2
@@ -1699,27 +1715,27 @@ http://stariptv.org:8080/nour2020/123456/16098
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PhUx6yK.png" group-title="BRITISH SPORTS",Premier Sports 2
 http://stariptv.org:8080/nour2020/123456/9320
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jM1FeOX.png" group-title="BRITISH SPORTS",Sky Sports Action
-http://stariptv.org:8080/nour2020/123456/55389
+http://51.222.25.50:25461/bulln3w/s0beron/3553
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eZwExGu.png" group-title="BRITISH SPORTS",Sky Sports Arena
-http://stariptv.org:8080/nour2020/123456/55388
+http://51.222.25.50:25461/bulln3w/s0beron/475
 #EXTINF:-1 tvg-logo="https://i.imgur.com/J8zzS2v.png" group-title="BRITISH SPORTS",Sky Sports Cricket
-http://stariptv.org:8080/nour2020/123456/55387
+http://51.222.25.50:25461/bulln3w/s0beron/476
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2kPW5qw.png" group-title="BRITISH SPORTS",Sky Sports F1
-http://stariptv.org:8080/nour2020/123456/55383
+http://51.222.25.50:25461/bulln3w/s0beron/3554
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EcFwNdj.png" group-title="BRITISH SPORTS",Sky Sports Football
-http://stariptv.org:8080/nour2020/123456/55390
+http://51.222.25.50:25461/bulln3w/s0beron/3555
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Q2ztKWZ.png" group-title="BRITISH SPORTS",Sky Sports Golf
-http://stariptv.org:8080/nour2020/123456/55386
+http://51.222.25.50:25461/bulln3w/s0beron/3556
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KHiae2e.png" group-title="BRITISH SPORTS",Sky Sports Main Event
-http://stariptv.org:8080/nour2020/123456/55382
+http://51.222.25.50:25461/bulln3w/s0beron/3557
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PRF0DsV.png" group-title="BRITISH SPORTS",Sky Sports Mix
-http://stariptv.org:8080/nour2020/123456/55385
+http://51.222.25.50:25461/bulln3w/s0beron/3558
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jcFnVbi.png" group-title="BRITISH SPORTS",Sky Sports News
-http://stariptv.org:8080/nour2020/123456/11667
+http://51.222.25.50:25461/bulln3w/s0beron/3559
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wA3DieO.png" group-title="BRITISH SPORTS",Sky Sports Premier League
 http://stariptv.org:8080/nour2020/123456/55384
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vhYstlz.png" group-title="BRITISH SPORTS",Sky Sports Racing
-https://networkbest.ru.com/cdn/premium34/chunks.m3u8
+http://51.222.25.50:25461/bulln3w/s0beron/3561
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1920px-ESPN_wordmark.svg.png" group-title="AMERICAN SPORTS",ESPN
 http://38.127.211.18/live/c2eds/ESPN1USA/HLS/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/1280px-ESPN2_logo.svg.png" group-title="AMERICAN SPORTS",ESPN 2 US
@@ -1887,16 +1903,16 @@ http://stariptv.org:8080/nour2020/123456/44566
 http://stariptv.org:8080/nour2020/123456/55971
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gTjSyWH.png" group-title="SPANISH SPORTS",Caza y Pesca
 http://luxtv.one:8080/kadiri/123456/842
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CSBS4Ff.png" group-title="SPANISH SPORTS",DAZN 1
-http://stariptv.org:8080/nour2020/123456/45212
-#EXTINF:-1 tvg-logo="https://i.imgur.com/m5c18XU.png" group-title="SPANISH SPORTS",DAZN 2
-http://stariptv.org:8080/nour2020/123456/84599
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YiFmUxC.png" group-title="SPANISH SPORTS",DAZN 3
-http://stariptv.org:8080/nour2020/123456/163630
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aiZCV4i.png" group-title="SPANISH SPORTS",DAZN 4
-http://stariptv.org:8080/nour2020/123456/163631
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CSBS4Ff.png" group-title="SPANISH SPORTS",DAZN 1 España
+http://51.222.25.50:25461/bulln3w/s0beron/3322
+#EXTINF:-1 tvg-logo="https://i.imgur.com/m5c18XU.png" group-title="SPANISH SPORTS",DAZN 2 España
+http://51.222.25.50:25461/bulln3w/s0beron/3323
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YiFmUxC.png" group-title="SPANISH SPORTS",DAZN 3 España
+http://51.222.25.50:25461/bulln3w/s0beron/3324
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aiZCV4i.png" group-title="SPANISH SPORTS",DAZN 4 España
+http://51.222.25.50:25461/bulln3w/s0beron/3325
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rqSPxoU.png" group-title="SPANISH SPORTS",DAZN F1
-http://stariptv.org:8080/nour2020/123456/12071
+http://51.222.25.50:25461/bulln3w/s0beron/3326
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gwV31E0.png" group-title="SPANISH SPORTS",Eurosport 1
 http://stariptv.org:8080/nour2020/123456/34053
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lTnKDju.png" group-title="SPANISH SPORTS",Eurosport 2
@@ -1908,7 +1924,7 @@ http://stariptv.org:8080/nour2020/123456/12073
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WYIpWC0.png" group-title="SPANISH SPORTS",Movistar Golf
 http://stariptv.org:8080/nour2020/123456/12072
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QlDOQ7i.png" group-title="SPANISH SPORTS",Movistar LaLiga
-http://stariptv.org:8080/nour2020/123456/12077
+http://51.222.25.50:25461/bulln3w/s0beron/3321
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vnKI1Oo.png" group-title="SPANISH SPORTS",Movistar Liga de Campeones
 http://stariptv.org:8080/nour2020/123456/30029
 #KODIPROP:inputstream=inputstream.adaptive
@@ -2152,6 +2168,30 @@ https://edge2-sl.cvattv.com.ar/live/c6eds/Golf_Channel/SA_SAGEMCOM/Golf_Channel.
 https://5g9s179kfgx9wn8tqwj9-cul47i-edc.p5cdn.com/dlive/transcode-92-211/nqefwinooiewpeof/1646158252/src/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/I7Lhgej.png" group-title="LATINO SPORTS",TyC Sports
 https://d3awnlgqz0szay.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index_9.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FbFe2uu.png" group-title="BRASILIAN SPORTS",Band Sports
+http://168.205.87.198:8555/live/4666/123456/176.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ed/Canal-combate-logo.png" group-title="BRASILIAN SPORTS",Combate
+http://limetv.me:80/live/4719wil/452540/89877.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1920px-ESPN_wordmark.svg.png" group-title="BRASILIAN SPORTS",ESPN Brasil
+http://limetv.me:80/live/4719wil/452540/89962.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/1280px-ESPN2_logo.svg.png" group-title="BRASILIAN SPORTS",ESPN 2 Brasil
+http://limetv.me:80/live/4719wil/452540/89970.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Crvxgth.png" group-title="BRASILIAN SPORTS",ESPN 3 Brasil
+http://limetv.me:80/live/4719wil/452540/89974.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/89RCPvg.png" group-title="BRASILIAN SPORTS",ESPN 4 Brasil
+http://limetv.me:80/live/4719wil/452540/95437.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sIUdUaB.png" group-title="BRASILIAN SPORTS",ESPN Extra Brasil
+http://limetv.me:80/live/4719wil/452540/89966.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DpnatBM.png" group-title="BRASILIAN SPORTS",Fox Sports 2 Brasil
+http://170.82.200.38:8080/fox_sports_2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/a2/Logo_Premiere_FC_2018.png" group-title="BRASILIAN SPORTS",Premiere Clubes
+http://limetv.me:80/live/4719wil/452540/90236.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iweh0Li.png" group-title="BRASILIAN SPORTS",SporTV
+http://limetv.me:80/live/4719wil/452540/90328.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AAdoNsr.png" group-title="BRASILIAN SPORTS",SporTV 2
+http://limetv.me:80/live/4719wil/452540/90320.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RcpUcYG.png" group-title="BRASILIAN SPORTS",SporTV 3
+http://limetv.me:80/live/4719wil/452540/90324.m3u8
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b2/AbuDhabiSports2020.jpg" group-title="ARABIC SPORTS",Abu Dhabi Sports 1
