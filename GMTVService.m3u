@@ -1381,7 +1381,7 @@ https://edge-live12-sl.cvattv.com.ar/live/c6eds/CNN_en_Espanol/SA_SAGEMCOM/CNN_e
 #EXTINF:-1 tvg-id="CNNPortugal.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/CNN_Portugal.svg/800px-CNN_Portugal.svg.png" group-title="PORTUGUESE NEWS",CNN Portugal
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yOC8yMDIyIDEyOjg6NDAgUE0maGFzaF92YWx1ZT1RVUlleklwL2JhQ3BjZXZ2aEIyVjZnPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9NWZmMmIxMGEtMjBjOS00YzU4LWE0ZjktMzJmOGFhNzk2OTNk/
+https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yOC8yMDIyIDE6NDA6NTUgUE0maGFzaF92YWx1ZT1iU05LYW9HTzBHTVB1RFdINS9jZWVBPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9MzU0NWM4ZWEtMWUzMC00YjA1LWFhMGEtMGFjNDUyNDgzMzJi/
 
 #EXTINF:-1 tvg-id="CNNBrasil.br" tvg-logo="https://i.imgur.com/zcaYBfX.png" group-title="BRASILIAN NEWS",CNN Brasil
 http://170.82.200.38:8080/cnn_brasil/tracks-v1a1/mono.m3u8
@@ -1761,7 +1761,7 @@ https://rtmlive08tv.secureswiftcontent.com/rtmchannel/08-manifest.mpd
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
 https://rtmlive04tv.secureswiftcontent.com/rtmchannel/04-manifest.mpd
 
-#EXTINF:-1 tvg-id="TeleRadyoGlobal.ph" tvg-id=tvg-logo="https://i.imgur.com/CId9ifi.png" group-title="VISUAL RADIO",TeleRadyo Global
+#EXTINF:-1 tvg-id="TeleRadyoGlobal.ph" tvg-logo="https://i.imgur.com/CId9ifi.png" group-title="VISUAL RADIO",TeleRadyo Global
 https://abscbn-ono.akamaized.net/midroll/amagi_hls_data_abscbnAAA-abscbn-teleradyo-oando/CDN/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/j2pKcAe.png" group-title="MANDARIN NEWS",CTS News
