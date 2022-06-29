@@ -5013,3 +5013,23 @@ https://cdnyogyakartapro4.rri.co.id/web-rrijogjapro4.mp3
 https://stream.streamaudio.de:8000/teststream3
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rg7aoFb.png" group-title="RRI RADIO",RRI Voice of Indonesia
 http://streaming.rri.co.id:9125/voi.mp3
+#EXTINF:-1 tvg-logo="http://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/antena1.png" group-title="PORTUGUESE RADIO",Antena 1
+https://streaming-live.rtp.pt/liveradio/antena180a/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/antena2.png" group-title="PORTUGUESE RADIO",Antena 2
+https://streaming-live.rtp.pt/liveradio/antena280a/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/antena3.png" group-title="PORTUGUESE RADIO",Antena 3
+https://streaming-live.rtp.pt/liveradio/antena380a/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://media.rtp.pt/institucional/wp-content/uploads/sites/31/2015/07/rdpInternacional_positivo_horiz_RGB.png" group-title="PORTUGUESE RADIO",RDP Internacional
+https://streaming-live.rtp.pt/liveradio/rdpint80a/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XU7JrA3.png" group-title="PORTUGUESE RADIO",Rádio Comercial
+https://media1.mcr.iol.pt/livefm/comercial/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rpTiRqh.png" group-title="PORTUGUESE RADIO",Cidade FM
+https://media1.mcr.iol.pt/livefm/cidade/livefm/cidade_128k/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HNj5eFy.png" group-title="SINGAPOREAN RADIO",987
+https://playerservices.streamtheworld.com/api/livestream-redirect/987FMAAC.aac
+#EXTINF:-1 tvg-logo="https://i.imgur.com/T2wEgwg.png" group-title="SINGAPOREAN RADIO",CNA 938
+https://playerservices.streamtheworld.com/api/livestream-redirect/938NOWAAC.aac
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SBHvmDv.png" group-title="SINGAPOREAN RADIO",Money FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/MONEY_893AAC.aac
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sCWH9BS.png" group-title="SINGAPOREAN RADIO",Ria 89.7
+https://playerservices.streamtheworld.com/api/livestream-redirect/RIA897FMAAC.aac
