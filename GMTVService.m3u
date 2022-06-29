@@ -1863,7 +1863,7 @@ http://187.85.237.3:8220/ipvt_004
 https://canal1.proxy.tokplay.com.br/streams/RECORD_NEWS/auto.m3u8
 
 #EXTINF:-1 tvg-id="BandNews.br" tvg-logo="https://i.imgur.com/BWkhQDM.png" group-title="BRASILIAN NEWS",Band News
-http://168.205.87.198:8555/live/4666/123456/174.m3u8
+http://189.91.128.146:4444/udp/227.10.20.131:1234
 
 #EXTINF:-1 tvg-id="JovemPanNews.br" tvg-logo="https://i.imgur.com/QWazNSS.png" group-title="BRASILIAN NEWS",Jovem Pan News
 https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index_4.m3u8
@@ -3123,7 +3123,7 @@ https://5g9s179kfgx9wn8tqwj9-cul47i-edc.p5cdn.com/dlive/transcode-92-211/nqefwin
 https://d3awnlgqz0szay.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index_9.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FbFe2uu.png" group-title="BRASILIAN SPORTS",Band Sports
-http://168.205.87.198:8555/live/4666/123456/176.m3u8
+http://189.91.128.146:4444/udp/227.10.20.119:1234
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ed/Canal-combate-logo.png" group-title="BRASILIAN SPORTS",Combate
 http://limetv.me:80/live/4719wil/452540/89877.m3u8
