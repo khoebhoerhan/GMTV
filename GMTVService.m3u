@@ -990,6 +990,21 @@ http://rr.dens.tv/h/h90/index.m3u8
 #KODIPROP:inputstream.adaptive.license_key=09e9d9037bbc6d4eac45bdee4b718b10:05db97174848670a152d0b15f3dab994
 https://links.aqfadtv.xyz/boo.mpd
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Q2Avbgx.png" group-title="ITALIAN MOVIES VPN",20 Mediaset
+https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(lb)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Cine34_logo.svg/800px-Cine34_logo.svg.png" group-title="ITALIAN MOVIES VPN",Cine 34
+https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(b6)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/archive/c/cd/20210322112407%21Logo_Iris_TV.png" group-title="ITALIAN MOVIES VPN",Iris
+https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(ki)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Rai_Movie_-_Logo_2017.svg/1920px-Rai_Movie_-_Logo_2017.svg.png" group-title="ITALIAN MOVIES VPN",Rai Movie
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747002
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Rai_Premium_-_Logo_2017.svg/1920px-Rai_Premium_-_Logo_2017.svg.png" group-title="ITALIAN MOVIES VPN",Rai Premium
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746992
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9v0WUqt.png" group-title="ASIAN MOVIES",HBO Taiwan
 http://50.7.220.74:8278/hbohd_twn/playlist.m3u8?tid=m8d785f4e022616401837&ct=17877&tsum=56e767abfc65234db52b017576b00403
 
@@ -4045,6 +4060,40 @@ https://d15umi5iaezxgx.cloudfront.net/LA7/CLN/HLS/Live_1280x720_.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Nove_-_Logo_2017.svg/1920px-Nove_-_Logo_2017.svg.png" group-title="ITALY",Nove
 https://sbshdlu5-lh.akamaihd.net/i/sbshdl_3@810997/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yPrJ4wh.png" group-title="ITALY VPN",Canale 5
+https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(C5)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e2/Italia_1.svg/800px-Italia_1.svg.png" group-title="ITALY VPN",Italia 1
+https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(i1)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/btlaJ2Z.png" group-title="ITALY VPN",Italia 2
+https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(i2)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/6/64/La5_Italy.svg/1280px-La5_Italy.svg.png" group-title="ITALY VPN", La 5
+https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(ka)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Mediaset_Extra_logo.svg/1920px-Mediaset_Extra_logo.svg.png" group-title="ITALY VPN",Mediaset Extra
+https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(kq)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Rai_1_-_Logo_2016.svg/1024px-Rai_1_-_Logo_2016.svg.png" group-title="ITALY",Rai 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+http://ott-cdn.ucom.am/s29/04.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Rai_2_-_Logo_2016.svg/1280px-Rai_2_-_Logo_2016.svg.png" group-title="ITALY VPN",Rai 2
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308718
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Rai_3_-_Logo_2016.svg/1280px-Rai_3_-_Logo_2016.svg.png" group-title="ITALY VPN",Rai 3
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308709
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Rai_4_-_Logo_2016.svg/1280px-Rai_4_-_Logo_2016.svg.png" group-title="ITALY VPN",Rai 4
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746966
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Rai_5_-_Logo_2017.svg/1280px-Rai_5_-_Logo_2017.svg.png" group-title="ITALY VPN",Rai 5
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=395276
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/5f/Rete_4_2018.svg/800px-Rete_4_2018.svg.png" group-title="ITALY VPN",Rete 4
+https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(r4)/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png/800px-NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png" group-title="JAPAN",NHK G
 http://cdn.us195.jpnettv.live:1935/jptv/kansi_nhk_g_540/playlist.m3u8
