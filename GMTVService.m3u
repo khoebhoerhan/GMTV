@@ -3934,13 +3934,16 @@ http://new-pro.tv:8080/mazen1/123456/27645
 http://new-pro.tv:8080/mazen1/123456/27638
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/RTL_DE_Logo_2021_blau_petrol_lila.png" group-title="GERMANY",RTL Deutschland
-http://new-pro.tv:8080/mazen1/123456/27637
+http://80.24.75.92:5555/udp/239.110.17.1:1234
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/RTLZWEI_Logo_2019.svg/1024px-RTLZWEI_Logo_2019.svg.png" group-title="GERMANY",RTL Zwei Deutschland
+http://80.24.75.92:5555/udp/239.110.17.2:1234
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a3/SAT.1_logo_2016.png" group-title="GERMANY",Sat. 1 Deutschland
-http://new-pro.tv:8080/mazen1/123456/27619
+http://80.24.75.92:5555/udp/239.110.20.1:1234
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Super_RTL_2019.png" group-title="GERMANY",Super RTL Deutschland
-http://stariptv.org:8080/nour2020/123456/44581
+http://80.24.75.92:5555/udp/239.110.17.3:1234
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/ZDF_logo.svg/1920px-ZDF_logo.svg.png" group-title="GERMANY VPN",ZDF
 https://zdf-hls-15.akamaized.net/hls/live/2016498/de/high/master.m3u8
@@ -4061,7 +4064,7 @@ https://cdn.us195.jpnettv.live/jptv/kanto_nhk_edu_540/playlist.m3u8
 https://ntv2.mov3.co/hls/ntv.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/TV_Asahi_Logo.svg/1920px-TV_Asahi_Logo.svg.png" group-title="JAPAN",TV Asahi
-http://50.7.74.29:8880/hlsok/j00014/index.m3u8
+http://203.162.235.41:16906
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Tokyo_Broadcasting_System_logo_2020.svg/1920px-Tokyo_Broadcasting_System_logo_2020.svg.png" group-title="JAPAN",TBS
 https://tbs1.mov3.co/hls/tbs.m3u8
@@ -4160,34 +4163,34 @@ http://edge-vod02-sl.cvattv.com.ar/live/c6eds/Canal_de_las_estrellas/SA_SAGEMCOM
 http://51.79.18.128:8081/LATINO%7CNUEVE/LATINO%7CNUEVE/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bb/Net5_logo_2019.png" group-title="NETHERLANDS",Net 5
-http://new-pro.tv:8080/mazen1/123456/21340
+http://80.24.75.92:5555/udp/239.111.0.2:1234
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/NPO_1_logo_2014.svg/1280px-NPO_1_logo_2014.svg.png" group-title="NETHERLANDS",NPO 1
-http://new-pro.tv:8080/mazen1/123456/17518
+http://80.24.75.92:5555/udp/239.111.0.1:1234
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/NPO_2_logo_2014.svg/1280px-NPO_2_logo_2014.svg.png" group-title="NETHERLANDS",NPO 2
-http://new-pro.tv:8080/mazen1/123456/17517
+http://80.24.75.92:5555/udp/239.111.1.1:1234
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/NPO_3_logo_2014.svg/1280px-NPO_3_logo_2014.svg.png" group-title="NETHERLANDS",NPO 3
-http://new-pro.tv:8080/mazen1/123456/17516
+http://80.24.75.92:5555/udp/239.111.0.3:1234
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4c/RTL4_Logo_2016.png" group-title="NETHERLANDS",RTL 4
-http://new-pro.tv:8080/mazen1/123456/17513
+http://80.24.75.92:5555/udp/239.111.2.1:1234
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/99/RTL_5_logo_2017.png" group-title="NETHERLANDS",RTL 5
-http://new-pro.tv:8080/mazen1/123456/17512
+http://80.24.75.92:5555/udp/239.111.2.2:1234
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/c8Rk43x.png" group-title="NETHERLANDS",RTL 7
 https://networkbest.ru.com/cdn/premium390/chunks.m3u8|Referer=https://player.licenses4.me
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/92/RTL_8_logo_2017.png" group-title="NETHERLANDS",RTL 8
-http://new-pro.tv:8080/mazen1/123456/17510
+http://80.24.75.92:5555/udp/239.111.2.4:1234
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yQ3irXL.png" group-title="NETHERLANDS",SBS 6
-http://new-pro.tv:8080/mazen1/123456/17504
+http://80.24.75.92:5555/udp/239.111.1.2:1234
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f5/SBS9_New_Logo_2018.png" group-title="NETHERLANDS",SBS 9
-http://new-pro.tv:8080/mazen1/123456/17503
+http://80.24.75.92:5555/udp/239.111.3.1:1234
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/04KKLEb.png" group-title="NEW ZEALAND VPN",TVNZ 1
 https://d2ce82tpc3p734.cloudfront.net/v1/master/b1f4432f8f95be9e629d97baabfed15b8cacd1f8/TVNZ_1/master.m3u8
