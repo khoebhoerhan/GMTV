@@ -780,6 +780,9 @@ https://sc.id-tv.kz/RenTV_34_35.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/EURO_LOGO_FINALE.png/1920px-EURO_LOGO_FINALE.png" group-title="WORLD ENTERTAINMENT",Eurochannel
 http://84.22.33.214/EuroChannel/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SsTaXe8.png" group-title="WORLD ENTERTAINMENT",TFC Asia-Pacific
+http://clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=41224&extension=ts&play_token=CFtsNf5dfQ
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/V4w3rhD.png" group-title="ENTERTAINMENT VPN",PRIMEtime
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=eaaa02f58d19457c6385bf2831706f10&key=7294ff05390550e09df76ef3b697f8da
@@ -4250,6 +4253,12 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/Net25
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QTHVWGZ.png" group-title="PHILIPPINES",Cine Mo!
 https://abscbn-ono.akamaized.net/midroll/amagi_hls_data_abscbnAAA-abscbn-cinemo/CDN/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/b/bf/Kapamilya_Channel_%282020-.n.v.%29.png" group-title="PHILIPPINES",Kapamilya Channel
+http://clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=31053&extension=ts&play_token=TQ6cftyhX8
+
+#EXTINF:-1 tvg-logo="https://www.gmanetwork.com/res/portal_revamp/img/logo.png" group-title="PHILIPPINES",GMA
+http://wayforward.xyz:25461/Stacy1/Stacy1/200488
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/People%27s_Televsion_Network_Incorporated_%28PTV%29.svg/1200px-People%27s_Televsion_Network_Incorporated_%28PTV%29.svg.png" group-title="PHILIPPINES",PTV
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/PTVPhilippines/live
