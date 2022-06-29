@@ -2125,6 +2125,9 @@ https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(ec41a5e2-09e4-4
 #EXTINF:-1 tvg-id="BarcaTV.es" tvg-logo="https://i.imgur.com/Y4dOfan.png" group-title="CLUBS OF SPORTS",Barça TV
 http://93.152.174.144:4000/play/barcatv/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RCyM7W9.png" group-title="CLUBS OF SPORTS",Benfica TV
+https://networkbest.ru.com/cdn/premium380/chunks.m3u8|Referer=https://player.licenses4.me
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ULcjgX4.png" group-title="CLUBS OF SPORTS",FB TV
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x21oo10
 
@@ -2135,7 +2138,7 @@ https://owifavo5.rocketcdn.com/gstv/gstv.smil/chunklist_b846000_sltur.m3u8
 https://tvn10.xyz/vidio/master-22.m3u8
 
 #EXTINF:-1 tvg-id="MUTV.uk" tvg-logo="https://i.imgur.com/3zyVm7l.png" group-title="CLUBS OF SPORTS",MUTV
-http://stariptv.org:8080/nour2020/123456/9383
+https://networkbest.ru.com/cdn/premium377/chunks.m3u8|Referer=https://player.licenses4.me
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4CPFHlX.png" group-title="CLUBS OF SPORTS",Persija TV
 https://bravo.kugo.id/persijatv/udp.stream/playlist.m3u8
@@ -2146,7 +2149,7 @@ https://bravo.kugo.id/persijatv/udp.stream/playlist.m3u8
 https://streamer-a03.videos.sapo.pt/live/portocanal/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KFwSXaG.png" group-title="CLUBS OF SPORTS",Real Madrid TV Español
-http://stariptv.org:8080/nour2020/123456/34062
+https://networkbest.ru.com/cdn/premium523/chunks.m3u8|Referer=https://player.licenses4.me
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9yN2IIT.png" group-title="CLUBS OF SPORTS",Sevilla FC TV
 https://open.http.mp.streamamg.com/p/3001314/sp/300131400/playManifest/entryId/0_ye0b8tc0/format/applehttp/protocol/https/uiConfId/30026292/a.m3u8
@@ -2399,6 +2402,9 @@ https://networkbest.ru.com/cdn/premium451/chunks.m3u8|Referer=https://player.lic
 #EXTINF:-1 tvg-id="PremierSports2.ie" tvg-logo="https://i.imgur.com/PhUx6yK.png" group-title="BRITISH SPORTS",Premier Sports 2
 https://networkbest.ru.com/cdn/premium550/chunks.m3u8|Referer=https://player.licenses4.me
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/d81P4qV.jpg" group-title="BRITISH SPORTS",Racing TV
+https://networkbest.ru.com/cdn/premium555/chunks.m3u8|Referer=https://player.licenses4.me
+
 #EXTINF:-1 tvg-id="SkySportsNFL.uk" tvg-logo="https://i.imgur.com/jM1FeOX.png" group-title="BRITISH SPORTS",Sky Sports Action
 http://51.222.25.50:25461/bulln3w/s0beron/3553
 
@@ -2441,6 +2447,9 @@ http://38.127.211.18/live/c2eds/ESPN1USA/HLS/index.m3u8
 #EXTINF:-1 tvg-id="ESPN2.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/1280px-ESPN2_logo.svg.png" group-title="AMERICAN SPORTS",ESPN 2 US
 http://38.127.211.18/live/c2eds/ESPN2USA/HLS/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YhuEewa.png" group-title="AMERICAN SPORTS",ESPN Deportes
+https://networkbest.ru.com/cdn/premium375/chunks.m3u8|Referer=https://player.licenses4.me
+
 #EXTINF:-1 tvg-id="ESPNews.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/ESPNews.svg/1920px-ESPNews.svg.png" group-title="AMERICAN SPORTS",ESPNews
 http://stariptv.org:8080/nour2020/123456/148467
 
@@ -2449,6 +2458,12 @@ https://networkbest.ru.com/cdn/premium39/chunks.m3u8|Referer=https://player.lice
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jxLMBZt.png" group-title="AMERICAN SPORTS",FS2
 http://new-pro.tv:8080/mazen1/123456/116154
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/MLBNetworkLogo.svg/800px-MLBNetworkLogo.svg.png" group-title="AMERICAN SPORTS",MLB Network
+https://networkbest.ru.com/cdn/premium399/chunks.m3u8|Referer=https://player.licenses4.me
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gZXSAhf.png" group-title="AMERICAN SPORTS",NFL Network
+https://networkbest.ru.com/cdn/premium405/chunks.m3u8|Referer=https://player.licenses4.me
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/1920px-TUDN_Logo.svg.png" group-title="AMERICAN SPORTS",TUDN USA
 https://networkbest.ru.com/cdn/premium66/chunks.m3u8|Referer=https://player.licenses4.me
@@ -2721,6 +2736,9 @@ http://new-pro.tv:8080/mazen1/123456/116079
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gCggEAF.png" group-title="GERMAN SPORTS",Sport1
 http://stariptv.org:8080/nour2020/123456/44566
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Sport-Digital.svg/1920px-Sport-Digital.svg.png" group-title="GERMAN SPORTS",sportdigital
+https://networkbest.ru.com/cdn/premium571/chunks.m3u8|Referer=https://player.licenses4.me
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fubqEnF.png" group-title="SPANISH SPORTS",#Vamos
 http://gratuita.mrzutv.net:25461/FJFJHJHUIWJKNSKJBtututuJHeeBNS8787878787K8777877000444jdjdjjd8787MUEEUEEUN88888888UECIUEEFJFJHJHUIWJKNSKJBJHBNSKMUEEUEEUNUECIUEEFJFJHJHUIWJKNSKJBJHBNSKMUEEUEEUNUECIUEEFJFJHJHUIWJKNSKJBJHBNSKMUEEUEEUNUECIUEEFJFJHJHUIWJKNSKJBJHBNSKMUEEUEEUNUECIUEEFJFJHJHUIW/FJFJHJHUIWJKNSKJBtututuJHBNSKMUEEUEEUNUECIUEEFJFJHJHUIWJKNSKJBJHBNSKMUEEUEEUNUECIUEEFJFJHJHUIWJKNSKJBJHBNSKMUEEUEEUNUECIUEEFJFJHJHUIWJKNSKJBJHBNSKMUEEUEEUNUECIUEEFJFJHJHUIWJKNSKJBJHBNSKMUEEUEEUNUECIUEEFJFJHJHUIWJKNSKJBJHBNSKMUEEUEEUNUECIUEEFJFJHJHUIWJKNSK/921
 
@@ -2965,7 +2983,7 @@ http://stariptv.org:8080/nour2020/123456/101895
 http://stariptv.org:8080/nour2020/123456/101894
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zKcn8DZ.png" group-title="SERBIAN SPORTS",Sport Klub
-http://stariptv.org:8080/nour2020/123456/101909
+https://networkbest.ru.com/cdn/premium453/chunks.m3u8|Referer=https://player.licenses4.me
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HjhiW62.png" group-title="SERBIAN SPORTS",Sport Klub 1
 http://stariptv.org:8080/nour2020/123456/101919
@@ -3158,6 +3176,54 @@ http://limetv.me:80/live/4719wil/452540/90320.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RcpUcYG.png" group-title="BRASILIAN SPORTS",SporTV 3
 http://limetv.me:80/live/4719wil/452540/90324.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XO9yr6R.png" group-title="AFRICAN SPORTS",Supersport Action Africa
+https://networkbest.ru.com/cdn/premium420/chunks.m3u8|Referer=https://player.licenses4.me
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nCzOSks.png" group-title="AFRICAN SPORTS",Supersport Cricket Africa
+https://networkbest.ru.com/cdn/premium78/chunks.m3u8|Referer=https://player.licenses4.me
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Vt3RvFA.png" group-title="AFRICAN SPORTS",Supersport Football Africa
+https://networkbest.ru.com/cdn/premium56/chunks.m3u8|Referer=https://player.licenses4.me
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YcxFkX8.png" group-title="AFRICAN SPORTS",Supersport Golf Africa
+https://networkbest.ru.com/cdn/premium422/chunks.m3u8|Referer=https://player.licenses4.me
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3bXUFkP.png" group-title="AFRICAN SPORTS",Supersport Grandstand Africa
+https://networkbest.ru.com/cdn/premium412/chunks.m3u8|Referer=https://player.licenses4.me
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qavBxmu.png" group-title="AFRICAN SPORTS",Supersport LaLiga Africa
+https://networkbest.ru.com/cdn/premium415/chunks.m3u8|Referer=https://player.licenses4.me
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Vgt96sG.png" group-title="AFRICAN SPORTS",Supersport Máximo 1 Africa
+https://networkbest.ru.com/cdn/premium572/chunks.m3u8|Referer=https://player.licenses4.me
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/37EjPV3.png" group-title="AFRICAN SPORTS",Supersport Motorsport Africa
+https://networkbest.ru.com/cdn/premium424/chunks.m3u8|Referer=https://player.licenses4.me
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jIjBIhH.png" group-title="AFRICAN SPORTS",Supersport Premier League Africa
+https://networkbest.ru.com/cdn/premium414/chunks.m3u8|Referer=https://player.licenses4.me
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cXB0iFd.png" group-title="AFRICAN SPORTS",Supersport PSL
+https://networkbest.ru.com/cdn/premium413/chunks.m3u8|Referer=https://player.licenses4.me
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sglWngc.png" group-title="AFRICAN SPORTS",Supersport Rugby Africa
+https://networkbest.ru.com/cdn/premium421/chunks.m3u8|Referer=https://player.licenses4.me
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uBflRxR.png" group-title="AFRICAN SPORTS",Supersport Tennis Africa
+https://networkbest.ru.com/cdn/premium423/chunks.m3u8|Referer=https://player.licenses4.me
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LD6Yrnx.png" group-title="AFRICAN SPORTS",Supersport Variety 1 Africa
+https://networkbest.ru.com/cdn/premium416/chunks.m3u8|Referer=https://player.licenses4.me
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/samKsMn.png" group-title="AFRICAN SPORTS",Supersport Variety 2 Africa
+https://networkbest.ru.com/cdn/premium417/chunks.m3u8|Referer=https://player.licenses4.me
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/neD5gBe.png" group-title="AFRICAN SPORTS",Supersport Variety 3 Africa
+https://networkbest.ru.com/cdn/premium418/chunks.m3u8|Referer=https://player.licenses4.me
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Xn5UCd8.png" group-title="AFRICAN SPORTS",Supersport Variety 4 Africa
+https://networkbest.ru.com/cdn/premium419/chunks.m3u8|Referer=https://player.licenses4.me
 
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
@@ -3962,8 +4028,14 @@ http://221.120.204.4/zee-tv-LOCKLE/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XCqP0Dm.png" group-title="INDIA",Zoom
 http://144.217.70.181:9587/hin2/ZOOM/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/TG4_logo.svg/1200px-TG4_logo.svg.png" group-title="EUROPE",TG4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/TG4_logo.svg/1200px-TG4_logo.svg.png" group-title="IRELAND",TG4
 https://dx4452e0qv6r9.cloudfront.net/tg4_vod_national_3000_.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e4/RT%C3%89_One_2014.svg/1920px-RT%C3%89_One_2014.svg.png" group-title="IRELAND",RTÉ One
+https://networkbest.ru.com/cdn/premium364/chunks.m3u8|Referer=https://player.licenses4.me
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/11/RT%C3%892_logo.svg/1920px-RT%C3%892_logo.svg.png" group-title="IRELAND",RTÉ2
+https://networkbest.ru.com/cdn/premium365/chunks.m3u8|Referer=https://player.licenses4.me
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Nove_-_Logo_2017.svg/1920px-Nove_-_Logo_2017.svg.png" group-title="EUROPE",Nove
 https://sbshdlu5-lh.akamaihd.net/i/sbshdl_3@810997/master.m3u8
@@ -4215,7 +4287,7 @@ https://21-rtvslo-tv-slo2-int.cdn.eurovisioncdn.net/playlist.m3u8
 https://16-rtvslo-tv-slo3-int.cdn.eurovisioncdn.net/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Antena_3_%282017%29.svg/1024px-Antena_3_%282017%29.svg.png" group-title="SPAIN",Antena 3
-http://gratuita.mrzutv.net:25461/FJFJHJHUIWJKNSKJBtututuJHeeBNS8787878787K8777877000444jdjdjjd8787MUEEUEEUN88888888UECIUEEFJFJHJHUIWJKNSKJBJHBNSKMUEEUEEUNUECIUEEFJFJHJHUIWJKNSKJBJHBNSKMUEEUEEUNUECIUEEFJFJHJHUIWJKNSKJBJHBNSKMUEEUEEUNUECIUEEFJFJHJHUIWJKNSKJBJHBNSKMUEEUEEUNUECIUEEFJFJHJHUIW/FJFJHJHUIWJKNSKJBtututuJHBNSKMUEEUEEUNUECIUEEFJFJHJHUIWJKNSKJBJHBNSKMUEEUEEUNUECIUEEFJFJHJHUIWJKNSKJBJHBNSKMUEEUEEUNUECIUEEFJFJHJHUIWJKNSKJBJHBNSKMUEEUEEUNUECIUEEFJFJHJHUIWJKNSKJBJHBNSKMUEEUEEUNUECIUEEFJFJHJHUIWJKNSKJBJHBNSKMUEEUEEUNUECIUEEFJFJHJHUIWJKNSK/990
+https://networkbest.ru.com/cdn/premium531/chunks.m3u8|Referer=https://player.licenses4.me
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Cuatro.svg/1920px-Cuatro.svg.png" group-title="SPAIN",Cuatro
 https://networkbest.ru.com/cdn/premium535/chunks.m3u8|Referer=https://player.licenses4.me
