@@ -1396,7 +1396,7 @@ https://edge-live12-sl.cvattv.com.ar/live/c6eds/CNN_en_Espanol/SA_SAGEMCOM/CNN_e
 #EXTINF:-1 tvg-id="CNNPortugal.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/CNN_Portugal.svg/800px-CNN_Portugal.svg.png" group-title="PORTUGUESE NEWS",CNN Portugal
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yOC8yMDIyIDE6NDA6NTUgUE0maGFzaF92YWx1ZT1iU05LYW9HTzBHTVB1RFdINS9jZWVBPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9MzU0NWM4ZWEtMWUzMC00YjA1LWFhMGEtMGFjNDUyNDgzMzJi/
+https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yOC8yMDIyIDEyOjg6NDAgUE0maGFzaF92YWx1ZT1RVUlleklwL2JhQ3BjZXZ2aEIyVjZnPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9NWZmMmIxMGEtMjBjOS00YzU4LWE0ZjktMzJmOGFhNzk2OTNk/
 
 #EXTINF:-1 tvg-id="CNNBrasil.br" tvg-logo="https://i.imgur.com/zcaYBfX.png" group-title="BRASILIAN NEWS",CNN Brasil
 http://170.82.200.38:8080/cnn_brasil/tracks-v1a1/mono.m3u8
