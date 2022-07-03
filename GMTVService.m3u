@@ -4214,19 +4214,19 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/Net25
 https://abscbn-ono.akamaized.net/midroll/amagi_hls_data_abscbnAAA-abscbn-cinemo/CDN/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/b/bf/Kapamilya_Channel_%282020-.n.v.%29.png" group-title="PHILIPPINES",Kapamilya Channel
-http://clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=31053&extension=ts&play_token=TQ6cftyhX8
+https://abscbn-ono.akamaized.net/midroll/amagi_hls_data_abscbnAAA-abscbn-kapcha/CDN/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.gmanetwork.com/res/portal_revamp/img/logo.png" group-title="PHILIPPINES",GMA
-http://103.105.213.251:8443/live/-dufdE1R42mDVA7bzjToFQ/1656764966/5.m3u8
+http://103.105.213.251:8443/live/CEwU0C9IXw9Nu010hpoYiQ/1656883006/5.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/40/GTV_Philippines_Logo_Vector.svg/1280px-GTV_Philippines_Logo_Vector.svg.png" group-title="PHILIPPINES",GTV
-http://103.105.213.251:8443/live/-dufdE1R42mDVA7bzjToFQ/1656764966/7.m3u8
+http://103.105.213.251:8443/live/CEwU0C9IXw9Nu010hpoYiQ/1656883006/7.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/People%27s_Televsion_Network_Incorporated_%28PTV%29.svg/1200px-People%27s_Televsion_Network_Incorporated_%28PTV%29.svg.png" group-title="PHILIPPINES",PTV
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/PTVPhilippines/live
 
 #EXTINF:-1 tvg-logo="https://www.tv5.com.ph/assets/images/five-logo-red.png" group-title="PHILIPPINES",TV5
-http://103.105.213.251:8443/live/-dufdE1R42mDVA7bzjToFQ/1656764966/8.m3u8
+http://103.105.213.251:8443/live/CEwU0C9IXw9Nu010hpoYiQ/1656883006/8.m3u8
 
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
