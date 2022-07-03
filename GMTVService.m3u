@@ -23,13 +23,13 @@ https://video.detik.com/transtv/smil:transtv.smil/chunklist_w962267898_b744100_s
 https://video.detik.com/trans7/smil:trans7.smil/chunklist_w1791373024_b744100_sleng.m3u8
 
 #EXTINF:-1 tvg-id="SCTV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/1280px-SCTV_Logo.svg.png" group-title="NASIONAL",SCTV
-https://tvn10.xyz/vidio/master-1.m3u8
+https://tvn10.xyz/djgidotktkfkdkgkkgkdkfkgktkdkgkg/master-1.m3u8
 
 #EXTINF:-1 tvg-id="Indosiar.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/1000px-Indosiar_2015.svg.png" group-title="NASIONAL",Indosiar
 https://lnk.ec/shareext@id_digital.ts
 
 #EXTINF:-1 tvg-id="OChannel.id" tvg-logo="https://i.imgur.com/w2eOFdH.png" group-title="NASIONAL",O Channel
-https://tvn10.xyz/vidio/master-13.m3u8
+https://tvn10.xyz/djgidotktkfkdkgkkgkdkfkgktkdkgkg/master-13.m3u8
 
 #EXTINF:0 tvg-id="ANTV.id" tvg-logo="https://i.imgur.com/sDmXVSm.png" group-title="NASIONAL",ANTV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -478,10 +478,10 @@ https://stream-cdn.mncnow.id/live/eds/MNCInfotainment/sa_dash_vmx/MNCInfotainmen
 https://stream-cdn.mncnow.id/live/eds/OKTV/sa_dash_vmx/OKTV.mpd
 
 #EXTINF:-1 tvg-id="CitraDrama.id" tvg-logo="https://i.imgur.com/KiRHdpz.png" group-title="NATIONAL ENTERTAINMENT",Citra Drama
-https://tvn10.xyz/vidio/master-3.m3u8
+https://tvn10.xyz/djgidotktkfkdkgkkgkdkfkgktkdkgkg/master-3.m3u8
 
 #EXTINF:-1 tvg-id="CitraEntertainment.id" tvg-logo="https://i.imgur.com/Ibh5oCE.png" group-title="NATIONAL ENTERTAINMENT",Citra Entertainment
-https://tvn10.xyz/vidio/master-12.m3u8
+https://tvn10.xyz/djgidotktkfkdkgkkgkdkfkgktkdkgkg/master-12.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xtt7582.png" group-title="NATIONAL ENTERTAINMENT",Usee Prime
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(18564c27-ff44-4d62-9fab-dcb417fcb93f)/manifest.mpd
@@ -875,7 +875,7 @@ https://m3u-editor.com/serve/251f4150-88de-11ec-8657-6776f99ecd96/494142671
 https://stream-cdn.mncnow.id/live/eds/IndonesiaMovieChannels-HD/sa_dash_vmx/IndonesiaMovieChannels-HD.mpd
 
 #EXTINF:-1 tvg-id="CitraBioskop.id" tvg-logo="https://i.imgur.com/lN20Oy7.png" group-title="NATIONAL MOVIES",Citra Bioskop
-https://tvn10.xyz/vidio/master-2.m3u8
+https://tvn10.xyz/djgidotktkfkdkgkkgkdkfkgktkdkgkg/master-2.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2Suxbkb.png" group-title="NATIONAL MOVIES",Sinema Indonesia
 http://203.77.246.50:5000/udp/239.1.1.74:5000
@@ -1178,16 +1178,16 @@ https://liveanevia.mncnow.id/live/eds/KidsChannel/sa_dash_vmx/KidsChannel.mpd
 http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/playlist.m3u8?bizkeylivestarttime=0&bizkeyliveendtime=0&bizkeyliveCustomParameter=myParameter&bizkeylivehash=qAri1M2xu_MAlnHwVRtOs24lR8Y_HSDijN2CRNghifUllhYqQSDlkd0qE8CkZwxC
 
 #EXTINF:-1 tvg-id="MentariTV.id" tvg-logo="https://i.imgur.com/BgIUxdy.png" group-title="KIDS",Mentari TV
-https://tvn10.xyz/vidio/master-23.m3u8
+https://tvn10.xyz/djgidotktkfkdkgkkgkdkfkgktkdkgkg/master-23.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/V2n8iDR.png" group-title="KIDS",Spacetoon
 https://bravo.kugo.id/spacetoon/udp.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="HipHiphoree.id" tvg-logo="https://i.imgur.com/TMAQTQC.png" group-title="KIDS",Hip Hip Horee!
-https://tvn10.xyz/vidio/master-4.m3u8
+https://tvn10.xyz/djgidotktkfkdkgkkgkdkfkgktkdkgkg/master-4.m3u8
 
 #EXTINF:-1 tvg-id="Horee.id" tvg-logo="https://i.imgur.com/GCeS1xO.png" group-title="KIDS",Horee!
-https://tvn10.xyz/vidio/master-6.m3u8
+https://tvn10.xyz/djgidotktkfkdkgkkgkdkfkgktkdkgkg/master-6.m3u8
 
 #EXTINF:0 tvg-id="NickelodeonAsia.sg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/1920px-Nickelodeon_2009_logo.svg.png" group-title="KIDS",Nickelodeon
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1315,6 +1315,14 @@ https://stream-cdn.mncnow.id/live/eds/BBCEarth-HD/sa_dash_vmx/BBCEarth-HD.mpd
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DFbrYzh.png" group-title="KNOWLEDGE",TechStorm
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(abe4ead2-1a88-4330-9f41-382fcf94bba2)/manifest.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla&Referrer=https%3A%2F%2Ftfc.tv%2F&X-Forwarded-For=175.176.0.236
+#EXTVLCOPT:http-referrer=https://tfc.tv/
+#EXTVLCOPT:http-user-agent=Mozilla
+#EXTINF:-1 tvg-id="KnowledgeChannel.ph" tvg-name="Knowledge Channel" tvg-logo="https://i.ibb.co/kBQSvsJ/IMG-20201226-104652.png" group-title="KNOWLEDGE",Knowledge Channel
+https://amdottlive.akamaized.net/hls/live/2018990/iwantknowledge/master480p.m3u8
 
 #EXTINF:-1 tvg-id="DMAXAsia.sg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/DMAX_Logo_16_05_2011.jpg" group-title="KNOWLEDGE",DMAX Southeast Asia
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -2063,16 +2071,16 @@ https://lnk.ec/shareext@champ3
 https://lnk.ec/shareext@juara4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AcBSHlM.png" group-title="NATIONAL SPORTS",Champions TV Goal
-https://tvn10.xyz/vidio/master-10.m3u8
+https://tvn10.xyz/djgidotktkfkdkgkkgkdkfkgktkdkgkg/master-10.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3openq8.png" group-title="NATIONAL SPORTS",TVRI Sport
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRI4)/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DWog3fR.png" group-title="NATIONAL SPORTS",Usee Sports
-https://lnk.ec/shareext@USP1
+https://lnk.ec/SHAREEXT@us1.ts
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jJY4VIw.png" group-title="NATIONAL SPORTS",Usee Sports 2
-https://lnk.ec/shareext@USP2
+https://lnk.ec/SHAREEXT@us2.ts
 
 #EXTINF:0 tvg-id="beINSports1Indonesia.id" tvg-logo="https://i.imgur.com/MRULdc8.png" group-title="NATIONAL SPORTS",beIN Sports 1 Indonesia
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -2122,7 +2130,7 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/vid
 https://owifavo5.rocketcdn.com/gstv/gstv.smil/chunklist_b846000_sltur.m3u8
 
 #EXTINF:-1 tvg-id="LFCTV.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1f/LFC_TV_logo.png" group-title="CLUBS OF SPORTS",LFC TV
-https://tvn10.xyz/vidio/master-22.m3u8
+https://tvn10.xyz/djgidotktkfkdkgkkgkdkfkgktkdkgkg/master-22.m3u8
 
 #EXTINF:-1 tvg-id="MUTV.uk" tvg-logo="https://i.imgur.com/3zyVm7l.png" group-title="CLUBS OF SPORTS",MUTV
 https://networkbest.ru.com/cdn/premium377/chunks.m3u8|Referer=https://player.licenses4.me
