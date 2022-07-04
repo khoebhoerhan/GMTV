@@ -747,6 +747,9 @@ https://derste247liveint.akamaized.net/hls/live/662735/daserste_int/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SsTaXe8.png" group-title="WORLD ENTERTAINMENT",TFC Asia-Pacific
 http://clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=41224&extension=ts&play_token=CFtsNf5dfQ
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SsTaXe8.png" group-title="WORLD ENTERTAINMENT",TFC Guam
+https://tfcguam2-abscbn-ono.amagi.tv/index_5.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/V4w3rhD.png" group-title="ENTERTAINMENT VPN",PRIMEtime
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=eaaa02f58d19457c6385bf2831706f10&key=7294ff05390550e09df76ef3b697f8da
@@ -868,6 +871,9 @@ https://stream-cdn.mncnow.id/live/eds/tvNMovies/sa_dash_vmx/tvNMovies.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=73e84f91bd9ae20412e370f98fd3a110&key=d5b52aabca5afe002eb495804f8ec944
 https://m3u-editor.com/serve/251f4150-88de-11ec-8657-6776f99ecd96/494142671
+
+#EXTINF:-1 tvg-id="VivaCinema.ph" tvg-logo="https://i.imgur.com/OFgisvM.png" group-title="ASIAN MOVIES",Viva Cinema
+http://103.105.213.251:8443/live/ZAGFvm0n0NE3IDDgw6-bvg/1657025705/13.m3u8
 
 #EXTINF:0 tvg-id="IMC.id" tvg-logo="https://i.imgur.com/UWCKaJw.png" group-title="NATIONAL MOVIES",IMC
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1867,6 +1873,9 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/DZRHN
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HUxC09L.png" group-title="PINOY NEWS",SMNI News Channel
 https://api.new.livestream.com/accounts/19079954/events/7831871/live.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c6/OnePHCignal.svg/1200px-OnePHCignal.svg.png" group-title="PINOY NEWS",One PH
+https://raw.githubusercontent.com/fotvnetwork/iptv-free/master/M3U8/Locals/oneph.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/99/UNTV-Logo-2016.svg/1920px-UNTV-Logo-2016.svg.png" group-title="PINOY NEWS",UNTV
 https://cdn.untvweb.com/live-stream/chunklist_b732000.m3u8
 
@@ -1980,6 +1989,9 @@ https://stream-cdn.mncnow.id/live/eds/Bloomberg/sa_dash_vmx/Bloomberg.mpd
 
 #EXTINF:-1 tvg-id="BloombergHT.tr" tvg-logo="https://i.imgur.com/5M3233w.png" group-title="BUSINESS NEWS",Bloomberg HT
 https://tv.ensonhaber.com/tv/tr/bloomberght/index.m3u8
+
+#EXTINF:-1 tvg-id="BloombergTVMongolia.mn" tvg-logo="https://i.imgur.com/nSj18g1.png" group-title="BUSINESS NEWS",Bloomberg TV Mongolia
+https://cdn3.skygo.mn/live/disk1/BloombergMon/HLS-FTA/BloombergMon.m3u8
 
 #EXTINF:-1 tvg-id="CNBCAsia.sg" tvg-logo="https://i.imgur.com/KxxvR2X.png" group-title="BUSINESS NEWS",CNBC Asia-Pacific
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -4225,16 +4237,16 @@ https://abscbn-ono.akamaized.net/midroll/amagi_hls_data_abscbnAAA-abscbn-cinemo/
 https://abscbn-ono.akamaized.net/midroll/amagi_hls_data_abscbnAAA-abscbn-kapcha/CDN/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.gmanetwork.com/res/portal_revamp/img/logo.png" group-title="PHILIPPINES",GMA
-http://103.105.213.251:8443/live/CEwU0C9IXw9Nu010hpoYiQ/1656883006/5.m3u8
+http://103.105.213.251:8443/live/ZAGFvm0n0NE3IDDgw6-bvg/1657025705/5.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/40/GTV_Philippines_Logo_Vector.svg/1280px-GTV_Philippines_Logo_Vector.svg.png" group-title="PHILIPPINES",GTV
-http://103.105.213.251:8443/live/CEwU0C9IXw9Nu010hpoYiQ/1656883006/7.m3u8
+http://103.105.213.251:8443/live/ZAGFvm0n0NE3IDDgw6-bvg/1657025705/7.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/People%27s_Televsion_Network_Incorporated_%28PTV%29.svg/1200px-People%27s_Televsion_Network_Incorporated_%28PTV%29.svg.png" group-title="PHILIPPINES",PTV
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/PTVPhilippines/live
 
 #EXTINF:-1 tvg-logo="https://www.tv5.com.ph/assets/images/five-logo-red.png" group-title="PHILIPPINES",TV5
-http://103.105.213.251:8443/live/CEwU0C9IXw9Nu010hpoYiQ/1656883006/8.m3u8
+http://103.105.213.251:8443/live/ZAGFvm0n0NE3IDDgw6-bvg/1657025705/8.m3u8
 
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
