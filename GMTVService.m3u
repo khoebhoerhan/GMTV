@@ -1655,6 +1655,9 @@ https://republicworld.amagi.tv/hls/amagi_hls_data_samsungin-republictv-samsungin
 #EXTINF:-1 tvg-id="DDIndia.in" tvg-logo="https://i.imgur.com/aME56Hq.png" group-title="INDIAN NEWS",DD India
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/DDIndia/live
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/aa/Times_Now_2010.png" group-title="INDIAN NEWS",Times Now
+http://skylogic.site:8080/live/Unplugged83/F75DCxx397DMKop5388mM/76961.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nK04jlH.png" group-title="ARABIC NEWS",Al Alam News Network
 https://live2.alalam.ir/live/Alalam/index.m3u8
 
@@ -2818,7 +2821,7 @@ http://62.28.71.186:45678/http/192.168.150.137:7137/eleven5
 http://62.28.71.186:45678/http/192.168.150.137:7137/eleven6
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/800px-NBA_TV.svg.png" group-title="PORTUGUESE SPORTS",NBA TV
-http://new-pro.tv:8080/mazen1/123456/105086
+http://skylogic.site:8080/live/Unplugged83/F75DCxx397DMKop5388mM/2051.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pcAhRs8.png" group-title="PORTUGUESE SPORTS",Sport TV 1
 https://networkbest.ru.com/cdn/premium49/chunks.m3u8|Referer=https://player.licenses4.me
@@ -2827,16 +2830,19 @@ https://networkbest.ru.com/cdn/premium49/chunks.m3u8|Referer=https://player.lice
 https://networkbest.ru.com/cdn/premium74/chunks.m3u8|Referer=https://player.licenses4.me
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wbhOsK2.png" group-title="PORTUGUESE SPORTS",Sport TV 3
-http://new-pro.tv:8080/mazen1/123456/70847
+http://skylogic.site:8080/live/Unplugged83/F75DCxx397DMKop5388mM/1489.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/itYiAnd.png" group-title="PORTUGUESE SPORTS",Sport TV 4
-http://new-pro.tv:8080/mazen1/123456/70849
+http://skylogic.site:8080/live/Unplugged83/F75DCxx397DMKop5388mM/1492.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LblSggR.png" group-title="PORTUGUESE SPORTS",Sport TV 5
-http://new-pro.tv:8080/mazen1/123456/70850
+http://skylogic.site:8080/live/Unplugged83/F75DCxx397DMKop5388mM/1495.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RbFoVdH.png" group-title="PORTUGUESE SPORTS",Sport TV 6
+http://skylogic.site:8080/live/Unplugged83/F75DCxx397DMKop5388mM/281487.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Km9HrEA.png" group-title="PORTUGUESE SPORTS",Sport TV +
-http://new-pro.tv:8080/mazen1/123456/70842
+http://skylogic.site:8080/live/Unplugged83/F75DCxx397DMKop5388mM/1481.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kTXQVRD.png" group-title="TAIWANESE SPORTS",Eleven Sports 1
 rtmp://59.124.75.138/sat/tv731
@@ -2939,28 +2945,34 @@ https://cdn-01.toffeelive.com/origin-09/live-origin/smil:sony_ten3_hd.smil/manif
 https://trkvz-live.daioncdn.net/aspor/aspor_1080p.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gwV31E0.png" group-title="TURKISH SPORTS",Eurosport 1
-http://new-pro.tv:8080/mazen1/123456/33489
+http://skylogic.site:8080/live/Unplugged83/F75DCxx397DMKop5388mM/1755.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lTnKDju.png" group-title="TURKISH SPORTS",Eurosport 2
-http://new-pro.tv:8080/mazen1/123456/33490
+http://skylogic.site:8080/live/Unplugged83/F75DCxx397DMKop5388mM/1756.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/57JkDml.png" group-title="TURKISH SPORTS",S Sport
-http://stariptv.org:8080/nour2020/123456/93294
+http://skylogic.site:8080/live/Unplugged83/F75DCxx397DMKop5388mM/1753.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UnaxGa6.png" group-title="TURKISH SPORTS",S Sport 2
+http://skylogic.site:8080/live/Unplugged83/F75DCxx397DMKop5388mM/10167.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QxrbzI6.png" group-title="TURKISH SPORTS",Tivibu Spor
-http://new-pro.tv:8080/mazen1/123456/33491
+http://skylogic.site:8080/live/Unplugged83/F75DCxx397DMKop5388mM/1746.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QxrbzI6.png" group-title="TURKISH SPORTS",Tivibu Spor 2
-http://new-pro.tv:8080/mazen1/123456/33492
+http://skylogic.site:8080/live/Unplugged83/F75DCxx397DMKop5388mM/1748.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QxrbzI6.png" group-title="TURKISH SPORTS",Tivibu Spor 3
-http://new-pro.tv:8080/mazen1/123456/33493
+http://skylogic.site:8080/live/Unplugged83/F75DCxx397DMKop5388mM/1749.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QxrbzI6.png" group-title="TURKISH SPORTS",Tivibu Spor 4
+http://skylogic.site:8080/live/Unplugged83/F75DCxx397DMKop5388mM/286778.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0Nu5hMy.png" group-title="TURKISH SPORTS",TRT Spor
-http://new-pro.tv:8080/mazen1/123456/33525
+http://skylogic.site:8080/live/Unplugged83/F75DCxx397DMKop5388mM/528.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Sfu3Y7S.png" group-title="TURKISH SPORTS",TRT Spor Yıldız
-http://new-pro.tv:8080/mazen1/123456/180131
+http://skylogic.site:8080/live/Unplugged83/F75DCxx397DMKop5388mM/32095.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8A0aYWf.png" group-title="SERBIAN SPORTS",Arena 1 Premium
 https://networkbest.ru.com/cdn/premium134/chunks.m3u8|Referer=https://player.licenses4.me
@@ -4425,6 +4437,9 @@ https://tv.ensonhaber.com/tv/tr/360tv/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Atv_logosu.png" group-title="TÜRKIYE",atv Türkiye
 https://trkvz-live.daioncdn.net/atv/atv_1080p.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nPTmcny.png" group-title="TÜRKIYE",Fox Türkiye
+http://skylogic.site:8080/live/Unplugged83/F75DCxx397DMKop5388mM/514.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6OYvfnf.png" group-title="TÜRKIYE",Kanal 7
 https://live.kanal7.com/live/kanal7LiveDesktop/index.m3u8
