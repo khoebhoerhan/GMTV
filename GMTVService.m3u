@@ -870,7 +870,7 @@ https://stream-cdn.mncnow.id/live/eds/tvNMovies/sa_dash_vmx/tvNMovies.mpd
 https://m3u-editor.com/serve/251f4150-88de-11ec-8657-6776f99ecd96/494142671
 
 #EXTINF:-1 tvg-id="VivaCinema.ph" tvg-logo="https://i.imgur.com/OFgisvM.png" group-title="ASIAN MOVIES",Viva Cinema
-http://103.105.213.251:8443/live/PTC689ya_4FFwXCsrXgzhQ/1657068802/13.m3u8
+http://103.105.213.251:8443/live/8UImczLjMzb5gttSJFVELQ/1657205967/13.m3u8
 
 #EXTINF:0 tvg-id="IMC.id" tvg-logo="https://i.imgur.com/UWCKaJw.png" group-title="NATIONAL MOVIES",IMC
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -4246,16 +4246,16 @@ https://abscbn-ono.akamaized.net/midroll/amagi_hls_data_abscbnAAA-abscbn-cinemo/
 https://abscbn-ono.akamaized.net/midroll/amagi_hls_data_abscbnAAA-abscbn-kapcha/CDN/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.gmanetwork.com/res/portal_revamp/img/logo.png" group-title="PHILIPPINES",GMA
-http://103.105.213.251:8443/live/PTC689ya_4FFwXCsrXgzhQ/1657068802/5.m3u8
+http://103.105.213.251:8443/live/8UImczLjMzb5gttSJFVELQ/1657205967/5.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/40/GTV_Philippines_Logo_Vector.svg/1280px-GTV_Philippines_Logo_Vector.svg.png" group-title="PHILIPPINES",GTV
-http://103.105.213.251:8443/live/PTC689ya_4FFwXCsrXgzhQ/1657068802/7.m3u8
+http://103.105.213.251:8443/live/8UImczLjMzb5gttSJFVELQ/1657205967/7.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/People%27s_Televsion_Network_Incorporated_%28PTV%29.svg/1200px-People%27s_Televsion_Network_Incorporated_%28PTV%29.svg.png" group-title="PHILIPPINES",PTV
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/PTVPhilippines/live
 
 #EXTINF:-1 tvg-logo="https://www.tv5.com.ph/assets/images/five-logo-red.png" group-title="PHILIPPINES",TV5
-http://103.105.213.251:8443/live/PTC689ya_4FFwXCsrXgzhQ/1657068802/8.m3u8
+http://103.105.213.251:8443/live/8UImczLjMzb5gttSJFVELQ/1657205967/8.m3u8
 
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
