@@ -837,8 +837,11 @@ http://84.17.61.200:8085/udp/238.2.0.46:1234
 #EXTINF:-1 tvg-id="M6Music.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c9/M6_Music_%282012%29.png" group-title="EUROPEAN MUSIC",M6 Music
 http://190.2.155.162:8080/m6music/mpegts
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/X7VxlBN.png" group-title="WORLD MUSIC",MTV Latino Sud
+#EXTINF:-1 tvg-logo="https://i.imgur.com/X7VxlBN.png" group-title="LATINO MUSIC",MTV Latino Sud
 https://edge2-ccast-sl.cvattv.com.ar/live/c6eds/MTV_HD/SA_SAGEMCOM/MTV_HD.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/TRACE_Latina_Logo.png/800px-TRACE_Latina_Logo.png" group-title="LATINO MUSIC",Trace Latina
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracelatinach-samsungch/playlist.m3u8
 
 #EXTINF:0 tvg-id="HBOSingapore.sg" tvg-logo="https://i.imgur.com/9v0WUqt.png" group-title="MOVIES",HBO Asia
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1975,7 +1978,7 @@ https://tezlive-amd.akamaized.net/hls/live/2016145/tez/tezlive/tez_5/chunklist.m
 #EXTINF:-1 tvg-id="IndiaNews.in" tvg-logo="https://i.imgur.com/mgkIqLN.png" group-title="HINDI NEWS",India News
 https://itvoign.multitvsolution.com/hls/inkhabar_itv_720_900k.m3u8
 
-#EXTINF:-1 tvg-id="IndiaTV.in" tvg-logo="https://static.indiatvnews.com/ins-web/images/IndiaTV_500x500.png" group-title="HINDI NEWS",India TV
+#EXTINF:-1 tvg-id="IndiaTV.in" tvg-logo="https://i.imgur.com/BFsM05S.png" group-title="HINDI NEWS",India TV
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCttspZesZIDEwwpVIgoZtWQ/live
 
 #EXTINF:-1 tvg-id="NDTVIndia.in" tvg-logo="https://i.imgur.com/13hqQkh.png" group-title="HINDI NEWS",NDTV India
