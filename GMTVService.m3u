@@ -1683,7 +1683,7 @@ https://republicworld.amagi.tv/hls/amagi_hls_data_samsungin-republictv-samsungin
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/DDIndia/live
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/aa/Times_Now_2010.png" group-title="INDIAN NEWS",Times Now
-http://skylogic.site:8080/live/Unplugged83/F75DCxx397DMKop5388mM/76961.m3u8
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/TimesNow/live
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nK04jlH.png" group-title="ARABIC NEWS",Al Alam News Network
 https://live2.alalam.ir/live/Alalam/index.m3u8
@@ -1992,7 +1992,7 @@ https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/ndtvindiam
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x7t0g3i
 
 #EXTINF:-1 tvg-id="News18India.in" tvg-logo="https://i.imgur.com/1Oze9HT.png" group-title="HINDI NEWS",News 18 India
-https://news18india-lh.akamaihd.net/i/news18india_1@174951/index_5_av-p.m3u8
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/news18India/live
 
 #EXTINF:-1 tvg-id="News24.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/News24_Logo.jpg" group-title="HINDI NEWS",News 24
 https://vidcdn.vidgyor.com/news24-origin/liveabr/news24-origin/live1/chunks.m3u8
@@ -2035,10 +2035,7 @@ https://networkbest.ru.com/cdn/premium309/chunks.m3u8|Referer=https://player.lic
 https://cnbcarabia.hibridcdn.net/cnbc/cnbc_abr/cnbc/cnbc_480p/chunks.m3u8?
 
 #EXTINF:-1 tvg-id="CNBCAwaaz.in" tvg-logo="https://i.imgur.com/K4v9gj2.png" group-title="BUSINESS NEWS",CNBC Awaaz
-https://cnbcawaaz-lh.akamaihd.net/i/cnbcawaaz_1@174872/index_5_av-p.m3u8
-
-#EXTINF:-1 tvg-id="CNBCTV18.in" tvg-logo="https://i.imgur.com/2W3OUr8.png" group-title="BUSINESS NEWS",CNBC TV 18
-https://cnbctv18-lh.akamaihd.net/i/cnbctv18_1@174868/index_5_av-p.m3u8
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/cnbcawaaz/live
 
 #EXTINF:-1 tvg-id="ClassCNBC.it" tvg-logo="https://i.imgur.com/qsmHgJ1.png" group-title="BUSINESS NEWS",Class CNBC
 https://streamcdnb10-859c1818ed614cc5b0047439470927b0.msvdn.net/live/S76890577/tDoFkZD3T1Lw/chunklist_b1728000.m3u8
