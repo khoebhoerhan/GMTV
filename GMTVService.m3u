@@ -4269,6 +4269,9 @@ https://iptv-sniper.herokuapp.com/localtv.php?channel=5
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/40/GTV_Philippines_Logo_Vector.svg/1280px-GTV_Philippines_Logo_Vector.svg.png" group-title="PHILIPPINES",GTV
 https://iptv-sniper.herokuapp.com/localtv.php?channel=7
 
+#EXTINF:-1 tvg-id="JeepneyTV.ph" tvg-logo="https://i.imgur.com/exXrVlp.png" group-title="PHILIPPINES",Jeepney TV
+https://iptv-sniper.herokuapp.com/localtv.php?channel=76
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/People%27s_Televsion_Network_Incorporated_%28PTV%29.svg/1200px-People%27s_Televsion_Network_Incorporated_%28PTV%29.svg.png" group-title="PHILIPPINES",PTV
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/PTVPhilippines/live
 
