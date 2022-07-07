@@ -571,10 +571,8 @@ http://playlist.urfan.web.id/dr9445/h/h15/01.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MjhkOWZkZjYtOGViOC0zNTkzLWFhOWEtNGFhMzJkMDk3NGE2
 https://stream-cdn.mncnow.id/live/eds/FMN/sa_dash_vmx/FMN.mpd
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/71d2wEk.png" group-title="ENTERTAINMENT VPN",Paramount Network Asia
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=063689e84408a4542e3a158073182210&key=fd205780495645c7334cbdea0dc94f17
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5056/default_primary.mpd
+#EXTINF:-1 tvg-logo="https://i.imgur.com/71d2wEk.png" group-title="GENERAL ENTERTAINMENT",Paramount Network Asia
+https://iptv-sniper.herokuapp.com/localtv.php?channel=59
 
 #EXTINF:-1 tvg-id="StarWorldIndia.in" tvg-logo="https://i.imgur.com/oe4Woe7.png" group-title="INDIAN ENTERTAINMENT",Star World
 http://221.120.204.4/star-world-LOCKLE/tracks-v1a1/mono.m3u8
@@ -816,8 +814,11 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5014/default_ott.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/X7VxlBN.png" group-title="ASIAN MUSIC",MTV Vietnam
 https://livecdn.fptplay.net/sdb/mtv_hls.smil/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="MyxUSA.us" tvg-logo="https://i.imgur.com/qyxbTj5.png" group-title="ASIAN MUSIC",Myx
+#EXTINF:-1 tvg-id="MyxUSA.us" tvg-logo="https://i.imgur.com/qyxbTj5.png" group-title="ASIAN MUSIC",Myx USA
 https://abscbn-ono.akamaized.net/midroll/amagi_hls_data_abscbnAAA-abscbn-myxnola/CDN/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MyxPhilippines.ph" tvg-logo="https://i.imgur.com/qyxbTj5.png" group-title="ASIAN MUSIC",Myx Philippines
+https://iptv-sniper.herokuapp.com/localtv.php?channel=75
 
 #EXTINF:-1 tvg-id="SBSMTV.kr" tvg-logo="https://i.imgur.com/6R8N3z2.png" group-title="ASIAN MUSIC",SBS MTV
 https://www.navchina.cf/IPTV/sbs.php?id=S09
@@ -879,7 +880,10 @@ https://stream-cdn.mncnow.id/live/eds/tvNMovies/sa_dash_vmx/tvNMovies.mpd
 https://m3u-editor.com/serve/251f4150-88de-11ec-8657-6776f99ecd96/494142671
 
 #EXTINF:-1 tvg-id="VivaCinema.ph" tvg-logo="https://i.imgur.com/OFgisvM.png" group-title="ASIAN MOVIES",Viva Cinema
-http://103.105.213.251:8443/live/8UImczLjMzb5gttSJFVELQ/1657205967/13.m3u8
+https://iptv-sniper.herokuapp.com/localtv.php?channel=13
+
+#EXTINF:-1 tvg-id="PBO.ph" tvg-logo="https://i.imgur.com/UgllBq4.png" group-title="ASIAN MOVIES",PBO
+https://iptv-sniper.herokuapp.com/localtv.php?channel=12
 
 #EXTINF:0 tvg-id="IMC.id" tvg-logo="https://i.imgur.com/UWCKaJw.png" group-title="NATIONAL MOVIES",IMC
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1900,10 +1904,10 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/DZRHN
 https://api.new.livestream.com/accounts/19079954/events/7831871/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c6/OnePHCignal.svg/1200px-OnePHCignal.svg.png" group-title="PINOY NEWS",One PH
-https://raw.githubusercontent.com/fotvnetwork/iptv-free/master/M3U8/Locals/oneph.m3u8
+https://iptv-sniper.herokuapp.com/localtv.php?channel=42
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/99/UNTV-Logo-2016.svg/1920px-UNTV-Logo-2016.svg.png" group-title="PINOY NEWS",UNTV
-https://cdn.untvweb.com/live-stream/chunklist_b732000.m3u8
+https://vid.untv.co/live-stream/chunklist_b732000.m3u8
 
 #EXTINF:-1 tvg-id="GloboNews.br" tvg-logo="https://i.imgur.com/X2aEThR.png" group-title="BRASILIAN NEWS",Globo News
 http://187.85.237.3:8220/ipvt_004
@@ -2383,14 +2387,10 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/5013/default_ott.mpd
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2705/default_ott.mpd
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-id="beINSports1Thailand.th" tvg-logo="https://i.imgur.com/MRULdc8.png" group-title="THAI SPORTS",beIN Sports 1 Thailand
 https://smart-tv.livedoomovies.com:4431/02_epl1_720p/chunklist.m3u8|Referer=https://www.movie87hd.com/?r=ajax
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-id="beINSports3Thailand.th" tvg-logo="https://i.imgur.com/j8VC6nB.png" group-title="THAI SPORTS",beIN Sports 3 Thailand
 https://smart-tv.livedoomovies.com:4431/02_epl2_720p/chunklist.m3u8|Referer=https://www.movie87hd.com/?r=ajax
 
@@ -3394,26 +3394,18 @@ http://51.81.66.195:1935/krtv/spotv_540/playlist.m3u8
 http://51.81.66.195:1935/krtv/spotv_2_540/playlist.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/r27965c.png" group-title="THAI SPORTS",Golf Channel Thailand
 https://smart-tv.livedoomovies.com:4431/02_golfhd_720p/chunklist.m3u8|Referer=https://www.movie87hd.com/?r=ajax
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/800px-NBA_TV.svg.png" group-title="THAI SPORTS",NBA TV
 https://smart-tv.livedoomovies.com:4431/02_nbahd_720p/chunklist.m3u8|Referer=https://www.movie87hd.com/?r=ajax
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Bj0MyZQ.png" group-title="THAI SPORTS",SPOTV
 https://smart-tv.livedoomovies.com:4431/02_foxsport_720p/chunklist.m3u8|Referer=https://www.movie87hd.com/?r=ajax
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5QHtJQw.png" group-title="THAI SPORTS",SPOTV 2
 https://smart-tv.livedoomovies.com:4431/02_FoxSport3_TH_720p/chunklist.m3u8|Referer=https://www.movie87hd.com/?r=ajax
 
@@ -3421,32 +3413,22 @@ https://smart-tv.livedoomovies.com:4431/02_FoxSport3_TH_720p/chunklist.m3u8|Refe
 http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/7/7.mpd
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lop2PUy.png" group-title="THAI SPORTS",True Sports 1
 https://smart-tv.livedoomovies.com:4431/02_2sporthd1_720p/chunklist.m3u8|Referer=https://www.movie87hd.com/?r=ajax
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/p6H4JPp.png" group-title="THAI SPORTS",True Sports 2
 https://smart-tv.livedoomovies.com:4431/02_2sporthd2_720p/chunklist.m3u8|Referer=https://www.movie87hd.com/?r=ajax
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/760fLOg.png" group-title="THAI SPORTS",True Sports 3
 https://smart-tv.livedoomovies.com:4431/02_2sporthd3_720p/chunklist.m3u8|Referer=https://www.movie87hd.com/?r=ajax
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6MUEjll.png" group-title="THAI SPORTS",True Sports 4
 https://smart-tv.livedoomovies.com:4431/02_2sporthd4_720p/chunklist.m3u8|Referer=https://www.movie87hd.com/?r=ajax
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Wi8PvKB.png" group-title="THAI SPORTS",True Sports 5
 https://smart-tv.livedoomovies.com:4431/02_sport5_480p/chunklist.m3u8|Referer=https://www.movie87hd.com/?r=ajax
 
@@ -3466,8 +3448,6 @@ https://smart-tv.livedoomovies.com:4431/02_PremierHD4_720p/chunklist.m3u8|Refere
 https://smart-tv.livedoomovies.com:4431/02_PremierHD5_720p/chunklist.m3u8|Referer=https://www.movie87hd.com/?r=ajax
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yDxztEe.png" group-title="THAI SPORTS",True Tennis
 https://smart-tv.livedoomovies.com:4431/02_TennisHD_720p/chunklist.m3u8|Referer=https://www.movie87hd.com/?r=ajax
 
@@ -3540,6 +3520,9 @@ http://livestream.biznetvideo.net/biznet_lifestyle/smil:lifestyle.smil/playlist.
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/el4gofT.png" group-title="LIFESTYLE",Citra Culinary & Travel
 https://dukun.masuk.id/terserahguelah/hiburan/ctravel.m3u8
+
+#EXTINF:-1 tvg-id="MetroChannel.ph" tvg-logo="https://i.imgur.com/b5CiVYt.png" group-title="LIFESTYLE",Metro Channel
+https://iptv-sniper.herokuapp.com/localtv.php?channel=58
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MjhkOWZkZjYtOGViOC0zNTkzLWFhOWEtNGFhMzJkMDk3NGE2
@@ -4278,16 +4261,16 @@ https://abscbn-ono.akamaized.net/midroll/amagi_hls_data_abscbnAAA-abscbn-cinemo/
 https://abscbn-ono.akamaized.net/midroll/amagi_hls_data_abscbnAAA-abscbn-kapcha/CDN/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.gmanetwork.com/res/portal_revamp/img/logo.png" group-title="PHILIPPINES",GMA
-http://103.105.213.251:8443/live/8UImczLjMzb5gttSJFVELQ/1657205967/5.m3u8
+https://iptv-sniper.herokuapp.com/localtv.php?channel=5
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/40/GTV_Philippines_Logo_Vector.svg/1280px-GTV_Philippines_Logo_Vector.svg.png" group-title="PHILIPPINES",GTV
-http://103.105.213.251:8443/live/8UImczLjMzb5gttSJFVELQ/1657205967/7.m3u8
+https://iptv-sniper.herokuapp.com/localtv.php?channel=7
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/People%27s_Televsion_Network_Incorporated_%28PTV%29.svg/1200px-People%27s_Televsion_Network_Incorporated_%28PTV%29.svg.png" group-title="PHILIPPINES",PTV
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/PTVPhilippines/live
 
 #EXTINF:-1 tvg-logo="https://www.tv5.com.ph/assets/images/five-logo-red.png" group-title="PHILIPPINES",TV5
-http://103.105.213.251:8443/live/8UImczLjMzb5gttSJFVELQ/1657205967/8.m3u8
+https://iptv-sniper.herokuapp.com/localtv.php?channel=8
 
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
