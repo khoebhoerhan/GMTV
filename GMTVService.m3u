@@ -3711,8 +3711,7 @@ http://51.161.118.146:8080/ISG03_FOX_ORLANDO_FL_WOFL/video.m3u8
 
 #EXTVLCOPT:network-caching=1000
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OzHkxwZ.png" group-title="USA",NBC East
-#EXTVLCOPT:network-caching=1000
-http://51.161.118.146:8080/ISG03_NBC_INDIANAPOLIS_IN_WTHR/video.m3u8
+http://51.161.118.146:8080/ISG03_NBC_ORLANDO_FL_WESH/video.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/33/PBS_logo.svg/1920px-PBS_logo.svg.png" group-title="USA",PBS East
 #EXTVLCOPT:network-caching=1000
