@@ -2682,9 +2682,6 @@ http://new-pro.tv:8080/mazen1/123456/145779
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lTnKDju.png" group-title="ROMANIAN SPORTS",Eurosport 2 Romania
 http://new-pro.tv:8080/mazen1/123456/145780
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/UlsXKUP.png" group-title="ROMANIAN SPORTS",Extreme Sports
-http://stariptv.org:8080/nour2020/123456/56069
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/J5DHUdV.png" group-title="ROMANIAN SPORTS",LookSport
 https://stream1.1616.ro:1945/look/livestream/playlist.m3u8?wowzatokenhash=NqSD4qaHc94SbTW05NBB-lXC78ZiAOIbnbUBOHj1DAM=
 
@@ -2698,16 +2695,16 @@ https://stream1.1616.ro:1945/looksport3/livestream/playlist.m3u8?wowzatokenhash=
 https://stream1.1616.ro:1945/lookplus/livestream/playlist.m3u8?wowzatokenhash=NqSD4qaHc94SbTW05NBB-lXC78ZiAOIbnbUBOHj1DAM=
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4mc9xs0.png" group-title="ROMANIAN SPORTS",Orange Sport 1
-http://188.212.125.190:8866/live?channel_id=7159
+http://new-pro.tv:8080/mazen1/123456/33429
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2DY6BwT.png" group-title="ROMANIAN SPORTS",Orange Sport 2
-http://188.212.125.190:8866/live?channel_id=7160
+http://new-pro.tv:8080/mazen1/123456/33430
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gSQTD0Q.png" group-title="ROMANIAN SPORTS",Orange Sport 3
-http://188.212.125.190:8866/live?channel_id=7161
+http://new-pro.tv:8080/mazen1/123456/33431
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/M6o25QC.png" group-title="ROMANIAN SPORTS",Orange Sport 4
-http://188.212.125.190:8866/live?channel_id=7162
+http://new-pro.tv:8080/mazen1/123456/33432
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gwV31E0.png" group-title="ITALIAN SPORTS",Eurosport 1 Italia
 http://new-pro.tv:8080/mazen1/123456/67146
@@ -2853,7 +2850,7 @@ http://62.28.71.186:45678/http/192.168.150.137:7137/eleven5
 http://62.28.71.186:45678/http/192.168.150.137:7137/eleven6
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/800px-NBA_TV.svg.png" group-title="PORTUGUESE SPORTS",NBA TV
-http://skylogic.site:8080/live/Unplugged83/F75DCxx397DMKop5388mM/2051.m3u8
+http://new-pro.tv:8080/mazen1/123456/72025
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pcAhRs8.png" group-title="PORTUGUESE SPORTS",Sport TV 1
 https://networkbest.ru.com/cdn/premium49/chunks.m3u8|Referer=https://player.licenses4.me
@@ -2862,19 +2859,19 @@ https://networkbest.ru.com/cdn/premium49/chunks.m3u8|Referer=https://player.lice
 https://networkbest.ru.com/cdn/premium74/chunks.m3u8|Referer=https://player.licenses4.me
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wbhOsK2.png" group-title="PORTUGUESE SPORTS",Sport TV 3
-http://skylogic.site:8080/live/Unplugged83/F75DCxx397DMKop5388mM/1489.m3u8
+http://new-pro.tv:8080/mazen1/123456/72022
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/itYiAnd.png" group-title="PORTUGUESE SPORTS",Sport TV 4
-http://skylogic.site:8080/live/Unplugged83/F75DCxx397DMKop5388mM/1492.m3u8
+http://new-pro.tv:8080/mazen1/123456/72023
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LblSggR.png" group-title="PORTUGUESE SPORTS",Sport TV 5
-http://skylogic.site:8080/live/Unplugged83/F75DCxx397DMKop5388mM/1495.m3u8
+http://new-pro.tv:8080/mazen1/123456/72024
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RbFoVdH.png" group-title="PORTUGUESE SPORTS",Sport TV 6
 http://skylogic.site:8080/live/Unplugged83/F75DCxx397DMKop5388mM/281487.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Km9HrEA.png" group-title="PORTUGUESE SPORTS",Sport TV +
-http://skylogic.site:8080/live/Unplugged83/F75DCxx397DMKop5388mM/1481.m3u8
+http://new-pro.tv:8080/mazen1/123456/72017
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kTXQVRD.png" group-title="TAIWANESE SPORTS",Eleven Sports 1
 rtmp://59.124.75.138/sat/tv731
@@ -3034,37 +3031,37 @@ https://networkbest.ru.com/cdn/premium430/chunks.m3u8|Referer=https://player.lic
 https://networkbest.ru.com/cdn/premium431/chunks.m3u8|Referer=https://player.licenses4.me
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/a3Rma7Z.png" group-title="SERBIAN SPORTS",Arena Sport 4
-http://stariptv.org:8080/nour2020/123456/101895
+http://new-pro.tv:8080/mazen1/123456/57094
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oYXOq46.png" group-title="SERBIAN SPORTS",Arena Sport 5
-http://stariptv.org:8080/nour2020/123456/101894
+http://new-pro.tv:8080/mazen1/123456/57099
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zKcn8DZ.png" group-title="SERBIAN SPORTS",Sport Klub
 https://networkbest.ru.com/cdn/premium453/chunks.m3u8|Referer=https://player.licenses4.me
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HjhiW62.png" group-title="SERBIAN SPORTS",Sport Klub 1
-http://stariptv.org:8080/nour2020/123456/101919
+http://new-pro.tv:8080/mazen1/123456/116131
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bqtc41i.png" group-title="SERBIAN SPORTS",Sport Klub 2
-http://stariptv.org:8080/nour2020/123456/101921
+http://new-pro.tv:8080/mazen1/123456/116132
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7CvFh8W.png" group-title="SERBIAN SPORTS",Sport Klub 3
-http://stariptv.org:8080/nour2020/123456/101923
+http://new-pro.tv:8080/mazen1/123456/116133
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5PBRYFZ.png" group-title="SERBIAN SPORTS",Sport Klub 4
-http://stariptv.org:8080/nour2020/123456/101925
+http://new-pro.tv:8080/mazen1/123456/116134
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XfdFwph.png" group-title="SERBIAN SPORTS",Sport Klub 5
 http://stariptv.org:8080/nour2020/123456/101926
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/etqRDUr.png" group-title="SERBIAN SPORTS",Sport Klub 6
-http://stariptv.org:8080/nour2020/123456/101927
+http://new-pro.tv:8080/mazen1/123456/101488
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zKcn8DZ.png" group-title="SERBIAN SPORTS",Sport Klub eSports
 http://stariptv.org:8080/nour2020/123456/101907
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4mkAAJk.png" group-title="SERBIAN SPORTS",Sport Klub Golf
-http://stariptv.org:8080/nour2020/123456/101908
+http://new-pro.tv:8080/mazen1/123456/116135
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/50ZGo5V.png" group-title="CROATIAN SPORTS",Arena Sport 1 Hrvatska
 https://networkbest.ru.com/cdn/premium432/chunks.m3u8|Referer=https://player.licenses4.me
@@ -3076,25 +3073,25 @@ https://networkbest.ru.com/cdn/premium433/chunks.m3u8|Referer=https://player.lic
 https://networkbest.ru.com/cdn/premium434/chunks.m3u8|Referer=https://player.licenses4.me
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/a3Rma7Z.png" group-title="CROATIAN SPORTS",Arena Sport 4 Hrvatska
-http://stariptv.org:8080/nour2020/123456/101903
+http://new-pro.tv:8080/mazen1/123456/33347
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oYXOq46.png" group-title="CROATIAN SPORTS",Arena Sport 5 Hrvatska
 http://stariptv.org:8080/nour2020/123456/101904
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BWFXNI6.png" group-title="CROATIAN SPORTS",Arena Sport 6 Hrvatska
-http://stariptv.org:8080/nour2020/123456/101906
+http://new-pro.tv:8080/mazen1/123456/296758
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HjhiW62.png" group-title="CROATIAN SPORTS",Sport Klub 1 Hrvatska
-http://stariptv.org:8080/nour2020/123456/101910
+http://new-pro.tv:8080/mazen1/123456/33191
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bqtc41i.png" group-title="CROATIAN SPORTS",Sport Klub 2
 http://stariptv.org:8080/nour2020/123456/101912
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7CvFh8W.png" group-title="CROATIAN SPORTS",Sport Klub 3
-http://stariptv.org:8080/nour2020/123456/101914
+http://new-pro.tv:8080/mazen1/123456/33196
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5PBRYFZ.png" group-title="CROATIAN SPORTS",Sport Klub 4
-http://stariptv.org:8080/nour2020/123456/101916
+http://new-pro.tv:8080/mazen1/123456/101491
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XfdFwph.png" group-title="CROATIAN SPORTS",Sport Klub 5
 http://stariptv.org:8080/nour2020/123456/101917
@@ -3968,7 +3965,7 @@ http://callofliberty.fr/stream/france.2/master.m3u8
 http://callofliberty.fr/stream/france.3alpes/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5TrhpoO.png" group-title="FRANCE",France 4
-http://stariptv.org:8080/nour2020/123456/56270
+http://new-pro.tv:8080/mazen1/123456/70558
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RIZfLwR.png" group-title="FRANCE",France 5
 https://s13.tntendirect.com/france5/live/playlist.m3u8
