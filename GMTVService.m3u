@@ -641,7 +641,7 @@ http://rr3.dens.tv/s/s63/index2.m3u8
 #EXTINF:-1 tvg-id="RTPInternacional.pt" tvg-logo="https://i.imgur.com/H4NjQUJ.png" group-title="WORLD ENTERTAINMENT",RTP Internacional
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8|user-agent=RTP Play/2.0.26 (Linux;Android 11) ExoPlayerLib/2.11.8
+https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8|user-agent=Opera
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9d/LBC_INTERNATIONAL.png" group-title="WORLD ENTERTAINMENT",LBC International
 https://shls-lbci-prod-dub.shahid.net/out/v1/d8cce30036e743318a7f338539689968/index.m3u8
@@ -1872,7 +1872,7 @@ http://hbbtvlive3.v3.tvp.pl/hbbtvlive/livestream.php?app_id=kanal2
 http://hbbtvlive3.v3.tvp.pl/hbbtvlive/livestream.php?app_id=senat
 
 #EXTINF:-1 tvg-id="SICNoticias.pt" tvg-logo="https://i.imgur.com/TpBpUU4.png" tvg-id="SICNoticias.pt" group-title="PORTUGUESE NEWS",SIC Notícias
-https://bit.ly/sicnotici?/index.m3u8
+http://45.92.69.72:8000/play/a0ga
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Rkw85FP.jpg" group-title="PORTUGUESE NEWS",CM TV
 http://45.92.69.72:8001/play/a03x
@@ -1880,7 +1880,7 @@ http://45.92.69.72:8001/play/a03x
 #EXTINF:-1 tvg-id="RTP3.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Rtp3.png/1920px-Rtp3.png" group-title="PORTUGUESE NEWS",RTP 3
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-https://streaming-live.rtp.pt/livetvhlsDVR/rtpnHDdvr.smil/playlist.m3u8|user-agent=RTP Play/2.0.26 (Linux;Android 11) ExoPlayerLib/2.11.8
+https://streaming-live.rtp.pt/livetvhlsDVR/rtpnHDdvr.smil/playlist.m3u8|user-agent=Opera
 
 #EXTINF:-1 tvg-id="ARTVCanalParlemento.pt" tvg-logo="https://i.imgur.com/wfOFbMy.png" group-title="PARLIAMENTARY",AR TV Canal Parlemento
 https://playout172.livextend.cloud/liveiframe/_definst_/ngrp:liveartvabr_abr/playlist.m3u8
@@ -4306,12 +4306,12 @@ https://iptv-sniper.herokuapp.com/localtv.php?channel=8
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/RTP1_-_Logo_2016.svg/1920px-RTP1_-_Logo_2016.svg.png" group-title="PORTUGAL",RTP 1
-https://streaming-live.rtp.pt/liverepeater/smil:rtp1HD.smil/playlist.m3u8|user-agent=RTP Play/2.0.36 (Linux;Android 11) ExoPlayerLib/2.17.1
+https://streaming-live.rtp.pt/liverepeater/smil:rtp1HD.smil/playlist.m3u8|user-agent=Opera
 
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/RTP2_logo_2016.png" group-title="PORTUGAL",RTP 2
-https://streaming-live.rtp.pt/liverepeater/smil:rtp2HD.smil/playlist.m3u8|user-agent=RTP Play/2.0.36 (Linux;Android 11) ExoPlayerLib/2.17.1
+https://streaming-live.rtp.pt/liverepeater/smil:rtp2HD.smil/playlist.m3u8|user-agent=Opera
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4d/Sociedade_Independente_de_Comunica%C3%A7%C3%A3o_Logo_2018.png" group-title="PORTUGAL",SIC
 https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index.m3u8
