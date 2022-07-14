@@ -1685,8 +1685,8 @@ https://republicworld.amagi.tv/hls/amagi_hls_data_samsungin-republictv-samsungin
 #EXTINF:-1 tvg-id="DDIndia.in" tvg-logo="https://i.imgur.com/aME56Hq.png" group-title="INDIAN NEWS",DD India
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/DDIndia/live
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/aa/Times_Now_2010.png" group-title="INDIAN NEWS",Times Now
-http://103.139.171.5:5001/live.php?c=Times_NOW&q=1200&e=junk.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KkKbf1c.png" group-title="INDIAN NEWS",Times Now World
+http://103.139.171.5:5001/live.php?c=Times_Now_HD&q=1200&e=junk.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dt5xRpi.png" group-title="INDIAN NEWS",Mirror Now
 http://103.139.171.5:5001/live.php?c=Mirror_Now&q=1200&e=junk.m3u8
