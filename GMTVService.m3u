@@ -179,7 +179,7 @@ http://103.18.181.69:1935/golive/livestream11/playlist.m3u8
 http://5e396e0211d7a.streamlock.net:1935/afbtv/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/I6uzeS6.png" group-title="LOKAL",Agropolitan TV
-http://45.80.181.150:8080/hls/agropolitantv.m3u8
+https://atv.siar.us/atv/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PgOce2p.png" group-title="LOKAL",Arek TV
 http://wowza58.indostreamserver.com:1935/arektv/live/chunklist_w256507641.m3u8
@@ -4462,10 +4462,8 @@ http://122.155.92.8:1935/live/ch1_L.sdp/chunklist_w1503718698.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nIrPNQ4.png" group-title="THAILAND",One 31
 http://freelive2.inwstream.com:1935/freelive-edge/onehd/playlist.m3u8
 
-#EXTVLCOPT:http-user-agent=otto-aplikasi
-#EXTVLCOPT:http-referrer=https://www.movie87hd.com/
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6GpsVJd.png" group-title="THAILAND",PPTV HD 36
-http://ott-navigator.my.id/thailand/pptv.m3u8
+http://freelive2.inwstream.com:1935/freelive-edge/pptvhd/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Thai_PBS_2015.svg/1024px-Thai_PBS_2015.svg.png" group-title="THAILAND",Thai PBS 3
 https://thaipbs-live.cdn.byteark.com/live/playlist_720p/index.m3u8
