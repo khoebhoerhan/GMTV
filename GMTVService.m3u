@@ -1989,9 +1989,7 @@ https://tezlive-amd.akamaized.net/hls/live/2016145/tez/tezlive/tez_5/chunklist.m
 https://itvoign.multitvsolution.com/hls/inkhabar_itv_720_900k.m3u8
 
 #EXTINF:-1 tvg-id="IndiaTV.in" tvg-logo="https://i.imgur.com/BFsM05S.png" group-title="HINDI NEWS",India TV
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-#EXTVLCOPT:network-caching=1000
-https://star7.seulangatv.com/get.m3u8?id=48185
+https://iamsom5.vercel.app/api/autoq.php?c=India_TV
 
 #EXTINF:-1 tvg-id="NDTVIndia.in" tvg-logo="https://i.imgur.com/13hqQkh.png" group-title="HINDI NEWS",NDTV India
 https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/ndtvindiamaster.m3u8
