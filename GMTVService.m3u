@@ -1766,9 +1766,6 @@ https://d1nmqgphjn0y4.cloudfront.net/live/ip/live.isml/live-audio_1=128000-video
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CxJN3qj.png" group-title="LATINO NEWS",Foro
 https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index_6.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QGnD2tq.png" group-title="LATINO NEWS",Milenio TV
-https://v-sd.mybtv.net/event/521/1920x1080.m3u8?start_time=2021-05-16&end_time=2023-05-17&uid=33630
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/TeleSUR.jpg" group-title="LATINO NEWS",teleSUR
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
 
@@ -4172,7 +4169,7 @@ http://freelive2.inwstream.com:1935/freelive-edge/gmmchannel/playlist.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1
 #EXTINF:-1 tvg-id="JKN18.th" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Jkn18.png/1200px-Jkn18.png" group-title="THAILAND",JKN 18
-https://embed-dev.blackboxsys.net/player.php?channel=sd-new&api_key=hmcb4rf66f|Referer=https://dooball66.com/
+https://5f27aa1f6ef91.streamlock.net/jkncnbc/myStream/chunklist_w1477849682.m3u8
 
 #EXTINF:-1 tvg-id="Mono29.th" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Mono_29_Logo.png" group-title="THAILAND",Mono 29
 http://freelive2.inwstream.com:1935/freelive-edge/mono29/playlist.m3u8
