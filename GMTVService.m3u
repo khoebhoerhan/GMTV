@@ -561,10 +561,10 @@ https://stream-cdn.mncnow.id/live/eds/Lifetime/sa_dash_vmx/Lifetime.mpd
 https://stream-cdn.mncnow.id/live/eds/HITS/sa_dash_vmx/HITS.mpd
 
 #EXTINF:-1 tvg-id="RockEntertainment.sg" tvg-logo="https://i.imgur.com/rDncFFu.png" group-title="GENERAL ENTERTAINMENT",Rock Entertainment
-http://playlist.urfan.web.id/dr9445/h/h16/01.m3u8
+https://iptv-sniper.herokuapp.com/localtv.php?channel=56
 
 #EXTINF:-1 tvg-id="RockExtreme.sg" tvg-logo="https://i.imgur.com/FiVtTfA.png" group-title="GENERAL ENTERTAINMENT",Rock Extreme
-http://playlist.urfan.web.id/dr9445/h/h15/01.m3u8
+https://iptv-sniper.herokuapp.com/localtv.php?channel=57
 
 #EXTINF:0 tvg-id="FMN.id" tvg-logo="https://i.imgur.com/nlzcTuZ.png" group-title="GENERAL ENTERTAINMENT",FMN
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
