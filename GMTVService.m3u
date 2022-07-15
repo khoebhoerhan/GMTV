@@ -3271,18 +3271,6 @@ http://51.81.66.195:1935/krtv/spotv_2_540/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/r27965c.png" group-title="THAI SPORTS",Golf Channel Thailand
 https://smart-tv.livedoomovies.com:4431/02_golfhd_720p/chunklist.m3u8|Referer=https://www.movie87hd.com/?r=ajax
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/800px-NBA_TV.svg.png" group-title="THAI SPORTS",NBA TV
-https://smart-tv.livedoomovies.com:4431/02_nbahd_720p/chunklist.m3u8|Referer=https://www.movie87hd.com/?r=ajax
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Bj0MyZQ.png" group-title="THAI SPORTS",SPOTV
-https://smart-tv.livedoomovies.com:4431/02_foxsport_720p/chunklist.m3u8|Referer=https://www.movie87hd.com/?r=ajax
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5QHtJQw.png" group-title="THAI SPORTS",SPOTV 2
-https://smart-tv.livedoomovies.com:4431/02_FoxSport3_TH_720p/chunklist.m3u8|Referer=https://www.movie87hd.com/?r=ajax
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dfcJkab.png" group-title="THAI SPORTS",T Sports
 http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/7/7.mpd
 
