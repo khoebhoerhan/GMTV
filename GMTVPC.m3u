@@ -2,13 +2,13 @@
 
 ######################################################################TV CHANNELS#############################################################################################################################################
 #EXTINF:0 tvg-id="RCTI.id" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/dd/RCTI_logo_2015.svg/1280px-RCTI_logo_2015.svg.png" group-title="NASIONAL",RCTI
-http://iptv12k.com:35461/live/80301070602/456776/2185.m3u8
+https://d35d0ifx19oopq.cloudfront.net/RCTI_2021-avc1_800000=7-mp4a_96000=2.m3u8|User-Agent=android-R+
 
 #EXTINF:0 tvg-id="MNCTV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/MNCTV_logo_2015.svg/1600px-MNCTV_logo_2015.svg.png" group-title="NASIONAL",MNC TV
-http://iptv12k.com:35461/live/80301070602/456776/2175.m3u8
+https://d33j155pv2xyba.cloudfront.net/MNCTV_2021-avc1_800000=6-mp4a_96000=2.m3u8|User-Agent=android-R+
 
 #EXTINF:0 tvg-id="GTV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/GTV_%282017%29.svg/1000px-GTV_%282017%29.svg.png" group-title="NASIONAL",GTV
-http://iptv12k.com:35461/live/80301070602/456776/4290.m3u8
+https://d322b885qvsbxg.cloudfront.net/GTV2021-avc1_800000=6-mp4a_96000=2.m3u8|User-Agent=android-R+
 
 #EXTINF:0 tvg-id="TransTV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/6/62/Trans_TV_2013.svg/1280px-Trans_TV_2013.svg.png" group-title="NASIONAL",Trans TV
 https://video.detik.com/transtv/smil:transtv.smil/chunklist_w962267898_b744100_sleng.m3u8
@@ -56,7 +56,7 @@ https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
 http://rr2.dens.tv/s/s13/index.m3u8
 
 #EXTINF:0 tvg-id="INews.id" tvg-logo="https://i.imgur.com/sojdCIg.png" group-title="NATIONAL NEWS",iNews
-http://iptv12k.com:35461/live/80301070602/456776/1799.m3u8
+https://d2hfpzcndkyscp.cloudfront.net/INEWS_2021-avc1_800000=8-mp4a_96000=2.m3u8|User-Agent=android-R+
 
 #EXTINF:0 tvg-id="IDXChannel.id" tvg-logo="https://i.imgur.com/TDXhTzO.png" group-title="NATIONAL NEWS",IDX Channel
 http://iptv12k.com:35461/live/80301070602/456776/2171.m3u8
