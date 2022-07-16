@@ -2191,8 +2191,8 @@ http://new-pro.tv:8080/live/mazen1/123456/271536.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zeywLXs.png" group-title="AUSTRALIAN SPORTS",Fox Sports News
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/IMAeAVz.jpg" group-title="AUSTRALIAN SPORTS VPN",Racing.com
-https://i.mjh.nz/au/Sydney/tv.101305020528.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IMAeAVz.jpg" group-title="AUSTRALIAN SPORTS",Racing.com
+http://new-pro.tv:8080/mazen1/123456/86754
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/s2wciz8.png" group-title="AUSTRALIAN SPORTS",Sky 1
 https://skylivetab-i.akamaihd.net/hls/live/569779/tablive/sky1.m3u8
@@ -3398,6 +3398,32 @@ http://evpp.mm.uol.com.br:1935/ne10/ne10-tvjornal-caruaru-video-web.sdp/playlist
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/TV_Brasil_logo_2019.svg/1920px-TV_Brasil_logo_2019.svg.png" group-title="BRASIL",TV Brasil
 http://rtmp.cdn.upx.net.br/723b/myStream.sdp/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XwhAUmO.png" user-agent="Mozilla/5.0 (X11; Linux i686; rv:90.0) Gecko/20100101 Firefox/90.0" group-title="CROATIA",HRT 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux i686; rv:90.0) Gecko/20100101 Firefox/90.0
+http://195.29.70.67/PLTV/88888888/224/3221226139/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JDBMIcV.png" user-agent="Mozilla/5.0 (X11; Linux i686; rv:90.0) Gecko/20100101 Firefox/90.0" group-title="CROATIA",HRT 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux i686; rv:90.0) Gecko/20100101 Firefox/90.0
+http://195.29.70.67/PLTV/88888888/224/3221226140/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7zTulwe.png" user-agent="Mozilla/5.0 (X11; Linux i686; rv:90.0) Gecko/20100101 Firefox/90.0" group-title="CROATIA",HRT 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux i686; rv:90.0) Gecko/20100101 Firefox/90.0
+http://195.29.70.67/PLTV/88888888/224/3221226280/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dlFxESc.png" user-agent="Mozilla/5.0 (X11; Linux i686; rv:90.0) Gecko/20100101 Firefox/90.0" group-title="CROATIA",HRT 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux i686; rv:90.0) Gecko/20100101 Firefox/90.0
+http://195.29.70.89/PLTV/88888888/224/3221226281/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/NOVA-LOGO-CORPORATE_WITH-TEXT-CMYK_Red.png/800px-NOVA-LOGO-CORPORATE_WITH-TEXT-CMYK_Red.png" group-title="CROATIA",Nova TV
+http://new-pro.tv:8080/mazen1/123456/21410
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Rtl-logo.svg/1920px-Rtl-logo.svg.png" user-agent="Mozilla/5.0 (X11; Linux i686; rv:90.0) Gecko/20100101 Firefox/90.0" group-title="CROATIA",RTL Hrvatska
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux i686; rv:90.0) Gecko/20100101 Firefox/90.0
+http://195.29.70.67/PLTV/88888888/224/3221226195/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/RTL_2_Logo.svg/1024px-RTL_2_Logo.svg.png" group-title="CROATIA",RTL 2 Hrvatska
+http://new-pro.tv:8080/mazen1/123456/21424
+
 #EXTINF:-1 tvg-id="6ter.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8a/M6_6ter_2012.png" group-title="FRANCE",6ter
 https://s13.tntendirect.com/6ter/live/playlist.m3u8
 
@@ -3767,6 +3793,36 @@ https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/in
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://video-auth7.iol.pt/live_edge/tvi_abr/edge_servers/tvi-480p/chunks.m3u8?
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vhO8CMi.png" group-title="ROMANIA",Antena 1
+http://new-pro.tv:8080/mazen1/123456/21130
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xVfoUDU.png" group-title="ROMANIA",Antena Stars
+http://new-pro.tv:8080/mazen1/123456/21128
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/i7fz8xt.png" group-title="ROMANIA",Kanal D Romania
+https://stream1.kanald.ro/iphone/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qUlvjaj.png" group-title="ROMANIA",National TV
+http://new-pro.tv:8080/mazen1/123456/21083
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/q77TwiP.png" group-title="ROMANIA",Prima TV
+https://stream1.1616.ro:1945/prima/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Logo_Pro_2_%282017%29.svg/1920px-Logo_Pro_2_%282017%29.svg.png" group-title="ROMANIA",Pro 2
+http://new-pro.tv:8080/mazen1/123456/21079
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Logo_Pro_TV_%282017%29.svg/1200px-Logo_Pro_TV_%282017%29.svg.png" group-title="ROMANIA",Pro TV
+http://new-pro.tv:8080/mazen1/123456/21075
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/I37k5Z6.png" group-title="ROMANIA",TVR 1
+http://new-pro.tv:8080/mazen1/123456/21061
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QzGVoaM.png" group-title="ROMANIA",TVR 2
+http://new-pro.tv:8080/mazen1/123456/21059
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DUPqWuO.png" group-title="ROMANIA",TVR 3
+http://new-pro.tv:8080/mazen1/123456/21058
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/myDcDzY.png" group-title="RUSSIA",Мир
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
