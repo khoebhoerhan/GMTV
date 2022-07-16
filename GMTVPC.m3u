@@ -838,21 +838,6 @@ http://rr.dens.tv/h/h90/index.m3u8
 #KODIPROP:inputstream.adaptive.license_key=09e9d9037bbc6d4eac45bdee4b718b10:05db97174848670a152d0b15f3dab994
 http://51.81.208.129:35461/live/80301062102/732099/722.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Q2Avbgx.png" group-title="ITALIAN MOVIES VPN",20 Mediaset
-https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(lb)/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Cine34_logo.svg/800px-Cine34_logo.svg.png" group-title="ITALIAN MOVIES VPN",Cine 34
-https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(b6)/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/archive/c/cd/20210322112407%21Logo_Iris_TV.png" group-title="ITALIAN MOVIES VPN",Iris
-https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(ki)/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Rai_Movie_-_Logo_2017.svg/1920px-Rai_Movie_-_Logo_2017.svg.png" group-title="ITALIAN MOVIES VPN",Rai Movie
-https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747002
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Rai_Premium_-_Logo_2017.svg/1920px-Rai_Premium_-_Logo_2017.svg.png" group-title="ITALIAN MOVIES VPN",Rai Premium
-https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746992
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9v0WUqt.png" group-title="ASIAN MOVIES",HBO Taiwan
 http://50.7.220.74:8278/hbohd_twn/playlist.m3u8?tid=m8d785f4e022616401837&ct=17877&tsum=56e767abfc65234db52b017576b00403
 
@@ -862,7 +847,7 @@ http://50.7.220.74:8278/cinemax_twn/playlist.m3u8?tid=mf18038aaba6311485855&ct=1
 #EXTINF:-1 tvg-id="AstroBollyOneHD.my" tvg-logo="https://i.imgur.com/MsO0A7c.png" group-title="MOVIES VPN",Astro BollyOne HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=cb6c0c34cd3b22efd444edfd21393c10&key=84750873ded43774b06b43b67717a708
-https://links.aqfadtv.xyz/bollyone.mpd
+http://iptv12k.com:35461/live/80301070602/456776/685.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/r2mKJH2.png" group-title="ASIAN MOVIES",MyCinema Asia
 http://rr.dens.tv/h/h193/index.m3u8
@@ -1016,9 +1001,9 @@ http://45.92.69.72:8001/play/a042
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://video-auth2.iol.pt/live_tvi_ficcao/live_tvi_ficcao/edge_servers/tvificcao-720p/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PFJ5gVQ.png" group-title="PORTUGUESE SERIES",TVI Reality
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PFJ5gVQ.png" group-title="PORTUGUESE SERIES",TVI Reality
 https://video-auth2.iol.pt/live_tvi_direct/live_tvi_direct/edge_servers/tvireality-480p/chunks.m3u8
 
 #EXTINF:-1 tvg-id="TF1SeriesFilms.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/69/TF1_S%C3%A9ries_Films.svg/1920px-TF1_S%C3%A9ries_Films.svg.png" group-title="EUROPEAN SERIES",TF1 Series Films
@@ -1082,6 +1067,11 @@ https://vips-livecdn.fptplay.net/hda3/dreamworks_vhls.smil/chunklist_b5000000.m3
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=39b114b7ebecd9d4a7f1c797dd885b10&key=8d2be29307bb382c8c6c286cc9cd07c6
 http://iptv12k.com:35461/live/80301070602/456776/730.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EVNoaz5.png" group-title="KIDS",Ta-daa!
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=6b398595696c2d609a8a1c3dc27af710&key=cf14a926974812acaadcc2c986f7ed4d
+http://iptv12k.com:35461/80301070602/456776/744
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HLr5Qi4.png" group-title="KIDS",My Kidz
 http://rr.dens.tv/h/h98/index.m3u8
@@ -1203,7 +1193,7 @@ http://ott-cdn.ucom.am/s24/index.m3u8
 #EXTINF:-1 tvg-id="BBCNews.uk" tvg-logo="https://i.imgur.com/j449MD4.png" group-title="BRITISH NEWS",BBC News
 http://prox.x86.co.uk/index.php/https://cdnuk001.broadcastcdn.net/KUK-BBCNEWSHD/index.m3u8
 
-#EXTINF:-1 tvg-id="BBCParliament.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/BBC_Parliament_Logo.svg/1280px-BBC_Parliament_Logo.svg.png" group-title="PARLIAMENTARY VPN",BBC Parliament
+#EXTINF:-1 tvg-id="BBCParliament.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/BBC_Parliament_Logo.svg/1280px-BBC_Parliament_Logo.svg.png" group-title="PARLIAMENTARY",BBC Parliament
 http://iptv12k.com:35461/live/80301070602/456776/5435.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b8/Logo_BBC_Arabic.png" group-title="ARABIC NEWS",BBC Arabic
@@ -2422,7 +2412,7 @@ http://new-pro.tv:8080/live/mazen1/123456/116076.m3u8
 http://new-pro.tv:8080/live/mazen1/123456/116079.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Sport-Digital.svg/1920px-Sport-Digital.svg.png" group-title="GERMAN SPORTS",sportdigital
-https://networkbest.ru.com/cdn/premium571/chunks.m3u8|Referer=https://player.licenses4.me
+http://new-pro.tv:8080/mazen1/123456/294945
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fubqEnF.png" group-title="SPANISH SPORTS",#Vamos
 http://new-pro.tv:8080/live/mazen1/123456/71662.m3u8
@@ -2560,10 +2550,10 @@ http://iptv12k.com:35461/live/80301070602/456776/7984.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=113d6e58ea7e223e3fb4a9af3e927010&key=dc86f5d82e5dfaa0fbb22d220e023b7c
 http://iptv12k.com:35461/live/80301070602/456776/7981.m3u8
 
+#EXTINF:-1 tvg-id="PremierSportsAsia.ie" tvg-logo="https://i.imgur.com/kfPsml5.png" group-title="MALAY SPORTS",Premier Sports Asia
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=cfc32f4dc3dac49b34708ded20364610&key=025dcec778861dd1e40cce4dd35e73a4
-#EXTINF:-1 tvg-id="PremierSportsAsia.ie" tvg-logo="https://i.imgur.com/kfPsml5.png" group-title="MALAY SPORTS VPN",Premier Sports Asia
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2601/default_primary.mpd
+http://iptv12k.com:35461/live/80301070602/456776/687.m3u8
 
 #EXTINF:-1 tvg-id="RTMK05" tvg-logo="https://i.imgur.com/8NC0zoQ.png" tvg-url="https://raw.githubusercontent.com/samleong123/rtm-live/main/rtmklik.xml" group-title="MALAY SPORTS",TV Sukan
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
@@ -3151,6 +3141,11 @@ https://unifi-live05.secureswiftcontent.com/UnifiHD/live03.mpd
 #EXTVLCOPT:http-referer=https://www.dailymotion.com
 https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/TV9.m3u8
 
+#EXTINF:-1 tvg-id="TVS.my" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/92/TVS_Sarawak.jpg" group-title="MALAYSIA",TVS
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=dd600869fd5f4bfee286825f6d778b10&key=eb5b83acbbd79af479a00db92935a34b
+http://iptv12k.com:35461/live/80301070602/456776/745.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rdLxnli.png" group-title="VISUAL RADIO",Buletin FM
 https://raw.githubusercontent.com/AqFad2811/RadioYTLive/main/BuletinFM.m3u8
 
@@ -3168,11 +3163,6 @@ https://raw.githubusercontent.com/AqFad2811/RadioYTLive/main/HotFM.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/p88EiHn.png" group-title="VISUAL RADIO",Suria
 https://raw.githubusercontent.com/AqFad2811/RadioYTLive/main/SuriaFM.m3u8
-
-#EXTINF:-1 tvg-id="TVS.my" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/92/TVS_Sarawak.jpg" group-title="MALAYSIA VPN",TVS
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=dd600869fd5f4bfee286825f6d778b10&key=eb5b83acbbd79af479a00db92935a34b
-http://linearjitp-playback.astro.com.my/dash-wv/linear/5021/default_ott.mpd
 
 #EXTINF:-1 tvg-id="Ch 5" tvg-logo="https://i.imgur.com/fakV73e.png" group-title="SINGAPORE",Channel 5
 #KODIPROP:inputstream.adaptive.license_type=clearkey
