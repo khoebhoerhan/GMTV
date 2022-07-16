@@ -1141,7 +1141,7 @@ https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(abe4ead2-1a88-4
 #EXTVLCOPT:http-user-agent=Mozilla
 https://amdottlive.akamaized.net/hls/live/2018990/iwantknowledge/master480p.m3u8
 
-#EXTINF:-1 tvg-id="DMAXAsia.sg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/DMAX_Logo_16_05_2011.jpg" group-title="KNOWLEDGE VPN",DMAX Southeast Asia
+#EXTINF:-1 tvg-id="DMAXAsia.sg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/DMAX_Logo_16_05_2011.jpg" group-title="KNOWLEDGE",DMAX Southeast Asia
 http://iptv12k.com:35461/live/80301070602/456776/636.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mThnlFK.png" group-title="KNOWLEDGE",Smithsonian Channel
@@ -3069,7 +3069,7 @@ https://iptv-sniper.herokuapp.com/localtv.php?channel=58
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9y1nKoi.png" group-title="LIFESTYLE",Asian Food Network
 https://iptv-sniper.herokuapp.com/localtv.php?channel=63
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/95lMoqu.png" group-title="LIFESTYLE VPN",Food Network Asia
+#EXTINF:-1 tvg-logo="https://i.imgur.com/95lMoqu.png" group-title="LIFESTYLE",Food Network Asia
 http://iptv12k.com:35461/live/80301070602/456776/285.m3u8
 
 #EXTINF:-1 tvg-id="HGTVAsia.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/HGTV_2010.svg/1920px-HGTV_2010.svg.png" group-title="LIFESTYLE",HGTV Asia
@@ -3109,10 +3109,10 @@ http://iptv12k.com:35461/live/80301070602/456776/734.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=40bb94cdb1c90f6cc15073d9a500c810&key=264de3f18e64770e92a2d29f2b177701
 https://m3u-editor.com/serve/251f4150-88de-11ec-8657-6776f99ecd96/494142670
 
-#EXTINF:-1 tvg-id="AwesomeTV.my" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1d/Awesome_TV_Malaysia.png" group-title="MALAYSIA VPN",Awesome TV
+#EXTINF:-1 tvg-id="AwesomeTV.my" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1d/Awesome_TV_Malaysia.png" group-title="MALAYSIA",Awesome TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/211
-https://linearjitp-playback.astro.com.my/dash-wv/linear/211/default_primary.mpd
+http://iptv12k.com:35461/live/80301070602/456776/743.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gAZfzvh.png" group-title="MALAYSIA",Drama Sangat
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/93.0.4577.82 Safari/537.36
@@ -3235,14 +3235,14 @@ http://new-pro.tv:8080/live/mazen1/123456/68605.m3u8
 #EXTINF:-1 tvg-id="BBCTwoHD.uk" tvg-logo="https://i.imgur.com/iMfng6J.png" group-title="UK",BBC Two HD
 http://new-pro.tv:8080/live/mazen1/123456/68617.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gcpSDKf.png" group-title="UK VPN",BBC Three
-https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_three_hd/t=3840/v=pv14/b=5070016/main.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gcpSDKf.png" group-title="UK",BBC Three
+http://iptv12k.com:35461/live/80301070602/456776/4308.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/nywptTp.png" group-title="UK VPN",BBC Four
-https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_four_hd/t=3840/v=pv14/b=5070016/main.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nywptTp.png" group-title="UK",BBC Four
+http://iptv12k.com:35461/live/80301070602/456776/4307.m3u8
 
-#EXTINF:-1 tvg-id="BBCFour.uk" tvg-logo="https://i.imgur.com/kr2UTHB.png" group-title="UK VPN",BBC Scotland
-https://vs-hls-pushb-uk-live.akamaized.net/content/x=3/v=pv14/b=5070016/t=3840/i=urn:bbc:pips:service:bbc_scotland_hd/main.m3u8
+#EXTINF:-1 tvg-id="BBCFour.uk" tvg-logo="https://i.imgur.com/kr2UTHB.png" group-title="UK",BBC Scotland
+http://new-pro.tv:8080/live/mazen1/123456/68597.m3u8
 
 #EXTINF:-1 tvg-id="CBBC.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/37/CBBC_2016_logo.svg/800px-CBBC_2016_logo.svg.png" group-title="UK",CBBC
 http://ott.riotelecomm.es:4513/m3u8/CBBCHDFIBRA.m3u8
@@ -3274,8 +3274,8 @@ http://ott.riotelecomm.es:4513/m3u8/ITV3FIBRA.m3u8
 #EXTINF:-1 tvg-id="ITV4.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d3/ITV4_logo_2013.svg/1920px-ITV4_logo_2013.svg.png" group-title="UK",ITV 4
 http://ott.riotelecomm.es:4513/m3u8/ITV4FIBRA.m3u8
 
-#EXTINF:-1 tvg-id="S4C.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/S4C_logo_2014.svg/1024px-S4C_logo_2014.svg.png" group-title="UK VPN",S4C
-https://live-uk.s4c-cdn.co.uk/out/v1/a0134f1fd5a2461b9422b574566d4442/live_uk.m3u8
+#EXTINF:-1 tvg-id="S4C.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/S4C_logo_2014.svg/1024px-S4C_logo_2014.svg.png" group-title="UK",S4C
+http://new-pro.tv:8080/live/mazen1/123456/98187.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RKkYHR9.png" group-title="ARGENTINA",América TV
 https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
@@ -3298,17 +3298,17 @@ http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/playlist.m3u8?PlaylistM3
 #EXTINF:-1 tvg-logo="https://i.imgur.com/srtddlN.png" group-title="ARGENTINA",TV Publica
 https://delivery.cdn.rcs.net.ar/mnp/tvp/output.mpd
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Seven_Network_logo.svg/800px-Seven_Network_logo.svg.png" group-title="AUSTRALIA VPN",Seven
-https://i.mjh.nz/au/Sydney/tv.101305020520.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Seven_Network_logo.svg/800px-Seven_Network_logo.svg.png" group-title="AUSTRALIA",Seven
+http://new-pro.tv:8080/mazen1/123456/86747
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/96/7two_logo_2020.svg/1920px-7two_logo_2020.svg.png" group-title="AUSTRALIA VPN",7 two
-https://i.mjh.nz/au/Sydney/tv.101305020522.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/96/7two_logo_2020.svg/1920px-7two_logo_2020.svg.png" group-title="AUSTRALIA",7 two
+http://new-pro.tv:8080/mazen1/123456/86737
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/7mate_logo_2020.svg/1920px-7mate_logo_2020.svg.png" group-title="AUSTRALIA VPN",7 mate
-https://i.mjh.nz/au/Sydney/tv.101305020523.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/7mate_logo_2020.svg/1920px-7mate_logo_2020.svg.png" group-title="AUSTRALIA",7 mate
+http://new-pro.tv:8080/mazen1/123456/86736
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a3/7flix_logo_2020.svg/1920px-7flix_logo_2020.svg.png" group-title="AUSTRALIA VPN",7 flix
-https://i.mjh.nz/au/Sydney/tv.101305020525.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a3/7flix_logo_2020.svg/1920px-7flix_logo_2020.svg.png" group-title="AUSTRALIA",7 flix
+http://new-pro.tv:8080/mazen1/123456/175190
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/52/Nine2012_Glossed_Logo.png" group-title="AUSTRALIA",Nine
 http://117.20.65.254:9981/stream/channelid/42747721
@@ -3322,11 +3322,8 @@ http://117.20.65.254:9981/stream/channelid/1720794045
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5d/9Life_logo.png" group-title="AUSTRALIA",9 Life
 http://58.96.43.228:9981/stream/channelid/1716833621?ticket=CA20F6419ED4C5757185C4AAFF4AFA705CCBC778&profile=pass
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/kc6o5Fb.png" group-title="AUSTRALIA VPN",9 Rush
-https://i.mjh.nz/au/Sydney/tv.101204200429.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/86/Network_10_logo_2018.svg/800px-Network_10_logo_2018.svg.png" group-title="AUSTRALIA VPN",Ten
-https://i.mjh.nz/au/Sydney/tv.101406020625.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/86/Network_10_logo_2018.svg/800px-Network_10_logo_2018.svg.png" group-title="AUSTRALIA",Ten
+http://new-pro.tv:8080/mazen1/123456/86783
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/10_Peach_logo_2018.svg/1920px-10_Peach_logo_2018.svg.png" group-title="AUSTRALIA",10 Peach
 http://58.96.43.228:9981/stream/channelid/945361245?ticket=94AA6B01B1461FAF2F3C934E67855AFFC40B7E40&profile=pass
@@ -3346,11 +3343,11 @@ https://c.mjh.nz/101002210221
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cavkp7M.png" group-title="AUSTRALIA",ABC TV Plus
 https://c.mjh.nz/abc2
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/JjL3rq1.png" group-title="AUSTRALIA VPN",SBS One
-https://i.mjh.nz/au/Sydney/tv.320203000301.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JjL3rq1.png" group-title="AUSTRALIA",SBS One
+http://new-pro.tv:8080/mazen1/123456/86755
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3OGUuv1.png" group-title="AUSTRALIA VPN",SBS Viceland
-https://i.mjh.nz/au/Sydney/tv.320203000303.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3OGUuv1.png" group-title="AUSTRALIA",SBS Viceland
+http://new-pro.tv:8080/mazen1/123456/86756
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/VRT_Canvas_logo.svg/langfr-1920px-VRT_Canvas_logo.svg.png" group-title="BELGIUM",Canvas
 https://live-vrt.akamaized.net/groupc/live/14a2c0f6-3043-4850-88a5-7fb062fe7f05/live_aes.isml/playlist.m3u8
@@ -3369,6 +3366,18 @@ http://rtltvi-lh.akamaihd.net/i/TVI_1@319659/master.m3u8?checkedby:hlscat.com
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1c/Tipikrtbf.png" group-title="BELGIUM",Tipik
 http://callofliberty.fr/stream/TiPiK/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/VTM_2020.svg/1920px-VTM_2020.svg.png" group-title="BELGIUM",VTM
+http://new-pro.tv:8080/mazen1/123456/8962
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/42/VTM_2_Logo.png" group-title="BELGIUM",VTM 2
+http://new-pro.tv:8080/mazen1/123456/111813
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/29/VTM_3_Logo.png" group-title="BELGIUM",VTM 3
+http://new-pro.tv:8080/mazen1/123456/111814
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/VTM_4_Logo.png" group-title="BELGIUM",VTM 4
+http://new-pro.tv:8080/mazen1/123456/111815
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Rede_Bandeirantes_logo_2018.svg/1920px-Rede_Bandeirantes_logo_2018.svg.png" group-title="BRASIL",Band São Paulo
 http://45.232.196.7:5000/live/BANDSPHD/720p.m3u8
@@ -3391,9 +3400,9 @@ https://59f2354c05961.streamlock.net:1443/rbtv/_definst_/rbtv/chunklist_w1419744
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5mVIs18.png" group-title="BRASIL",Rede TV!
 https://59f1cbe63db89.streamlock.net:1443/redetvro/_definst_/redetvro/chunklist_w1145706398.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/84/Sistema_Brasileiro_de_Televis%C3%A3o.svg/800px-Sistema_Brasileiro_de_Televis%C3%A3o.svg.png" group-title="BRASIL",SBT Nacional
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/84/Sistema_Brasileiro_de_Televis%C3%A3o.svg/800px-Sistema_Brasileiro_de_Televis%C3%A3o.svg.png" group-title="BRASIL",SBT Nacional
 http://evpp.mm.uol.com.br:1935/ne10/ne10-tvjornal-caruaru-video-web.sdp/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/TV_Brasil_logo_2019.svg/1920px-TV_Brasil_logo_2019.svg.png" group-title="BRASIL",TV Brasil
@@ -3423,9 +3432,9 @@ http://new-pro.tv:8080/mazen1/123456/70558
 #EXTINF:-1 tvg-id="France5.fr" tvg-logo="https://i.imgur.com/RIZfLwR.png" group-title="FRANCE",France 5
 https://s13.tntendirect.com/france5/live/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Gulli.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/4/43/18._Gulli.png/1024px-18._Gulli.png" group-title="FRANCE",Gulli
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTINF:-1 tvg-id="Gulli.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/4/43/18._Gulli.png/1024px-18._Gulli.png" group-title="FRANCE",Gulli
 https://origin-live-6play.video.bedrock.tech/6play/short/clr/gulli/hdeindex.m3u8
 
 #EXTINF:-1 tvg-id="M6.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/M6_logo_2020.svg/1024px-M6_logo_2020.svg.png" group-title="FRANCE",M6
@@ -3450,8 +3459,8 @@ http://stream.suboroiptv.tv/TMC/playlist.m3u8
 #EXTINF:-1 tvg-id="W9.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a7/W9_logo_2018.png" group-title="FRANCE",W9
 https://s13.tntendirect.com/w9/live/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ujQVb6l.png" group-title="GERMANY VPN",Das Erste
-https://mcdn.daserste.de/daserste/de/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ujQVb6l.png" group-title="GERMANY",Das Erste
+http://new-pro.tv:8080/mazen1/123456/27627
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/ProSieben_Logo_2015.svg/800px-ProSieben_Logo_2015.svg.png" group-title="GERMANY",ProSieben Deutschland
 http://new-pro.tv:8080/mazen1/123456/71176
@@ -3471,23 +3480,23 @@ http://80.24.75.92:5555/udp/239.110.20.1:1234
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Super_RTL_2019.png" group-title="GERMANY",Super RTL Deutschland
 http://80.24.75.92:5555/udp/239.110.17.3:1234
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/ZDF_logo.svg/1920px-ZDF_logo.svg.png" group-title="GERMANY VPN",ZDF
-https://zdf-hls-15.akamaized.net/hls/live/2016498/de/high/master.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/ZDF_logo.svg/1920px-ZDF_logo.svg.png" group-title="GERMANY",ZDF
+http://new-pro.tv:8080/mazen1/123456/27634
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/eb/Alpha_TV_logo.svg/800px-Alpha_TV_logo.svg.png" group-title="GREECE",Alpha TV
 http://alphatvlive.siliconweb.com/1/Y2Rsd1lUcUVoajcv/UVdCN25h/hls/live/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/1/11/Ant1_Logo.png" group-title="GREECE VPN",ANT1
-https://antennaamdnoenc.akamaized.net/ant1_akamai/abr/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/1/11/Ant1_Logo.png" group-title="GREECE",ANT1
+http://new-pro.tv:8080/mazen1/123456/320199
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/ERT1_logo_2020.svg/1920px-ERT1_logo_2020.svg.png" group-title="GREECE VPN",ERT 1
-https://ert1-live.ert.insyscd.net/out/v1/bc7e22e489c7452280769c91743cc2f3/ert1-live_1.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/ERT1_logo_2020.svg/1920px-ERT1_logo_2020.svg.png" group-title="GREECE",ERT 1
+http://new-pro.tv:8080/mazen1/123456/320187
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/ERT2_logo_2020.svg/1920px-ERT2_logo_2020.svg.png" group-title="GREECE VPN",ERT 2
-https://ert2-live.ert.insyscd.net/out/v1/617370f6ad1447ca8efdc795e4e960a3/ert2-live_1.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/ERT2_logo_2020.svg/1920px-ERT2_logo_2020.svg.png" group-title="GREECE",ERT 2
+http://new-pro.tv:8080/mazen1/123456/320211
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/ERT3_logo_2020.svg/1920px-ERT3_logo_2020.svg.png" group-title="GREECE VPN",ERT 3
-https://ert3-live.ert.insyscd.net/out/v1/d43a7f932f524c83b6102efa0580b454/ert3-live_1.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/ERT3_logo_2020.svg/1920px-ERT3_logo_2020.svg.png" group-title="GREECE",ERT 3
+http://new-pro.tv:8080/mazen1/123456/320212
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/txSfwGs.png" group-title="GREECE",Mega TV
 https://streamcdnm17-c98db5952cb54b358365984178fb898a.msvdn.net/live/S86713049/gonOwuUacAxM/playlist.m3u8
@@ -3558,39 +3567,39 @@ https://d15umi5iaezxgx.cloudfront.net/LA7/CLN/HLS/Live_1280x720_.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Nove_-_Logo_2017.svg/1920px-Nove_-_Logo_2017.svg.png" group-title="ITALY",Nove
 https://sbshdlu5-lh.akamaihd.net/i/sbshdl_3@810997/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/yPrJ4wh.png" group-title="ITALY VPN",Canale 5
-https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(C5)/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yPrJ4wh.png" group-title="ITALY",Canale 5
+http://new-pro.tv:8080/mazen1/123456/67169
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e2/Italia_1.svg/800px-Italia_1.svg.png" group-title="ITALY VPN",Italia 1
-https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(i1)/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e2/Italia_1.svg/800px-Italia_1.svg.png" group-title="ITALY",Italia 1
+http://new-pro.tv:8080/mazen1/123456/86720
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/btlaJ2Z.png" group-title="ITALY VPN",Italia 2
-https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(i2)/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/btlaJ2Z.png" group-title="ITALY",Italia 2
+http://new-pro.tv:8080/mazen1/123456/86734
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/6/64/La5_Italy.svg/1280px-La5_Italy.svg.png" group-title="ITALY VPN", La 5
-https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(ka)/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/6/64/La5_Italy.svg/1280px-La5_Italy.svg.png" group-title="ITALY", La 5
+http://new-pro.tv:8080/mazen1/123456/67037
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Mediaset_Extra_logo.svg/1920px-Mediaset_Extra_logo.svg.png" group-title="ITALY VPN",Mediaset Extra
-https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(kq)/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Mediaset_Extra_logo.svg/1920px-Mediaset_Extra_logo.svg.png" group-title="ITALY",Mediaset Extra
+http://new-pro.tv:8080/mazen1/123456/67043
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Rai_1_-_Logo_2016.svg/1024px-Rai_1_-_Logo_2016.svg.png" group-title="ITALY",Rai 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 http://ott-cdn.ucom.am/s29/04.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Rai_2_-_Logo_2016.svg/1280px-Rai_2_-_Logo_2016.svg.png" group-title="ITALY VPN",Rai 2
-https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308718
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Rai_2_-_Logo_2016.svg/1280px-Rai_2_-_Logo_2016.svg.png" group-title="ITALY",Rai 2
+http://new-pro.tv:8080/mazen1/123456/67159
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Rai_3_-_Logo_2016.svg/1280px-Rai_3_-_Logo_2016.svg.png" group-title="ITALY",Rai 3
 http://wzstreaming.rai.it/TVlive/liveStream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Rai_4_-_Logo_2016.svg/1280px-Rai_4_-_Logo_2016.svg.png" group-title="ITALY VPN",Rai 4
-https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746966
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Rai_4_-_Logo_2016.svg/1280px-Rai_4_-_Logo_2016.svg.png" group-title="ITALY",Rai 4
+http://new-pro.tv:8080/mazen1/123456/67161
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Rai_5_-_Logo_2017.svg/1280px-Rai_5_-_Logo_2017.svg.png" group-title="ITALY VPN",Rai 5
-https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=395276
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Rai_5_-_Logo_2017.svg/1280px-Rai_5_-_Logo_2017.svg.png" group-title="ITALY",Rai 5
+http://new-pro.tv:8080/mazen1/123456/67162
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/5f/Rete_4_2018.svg/800px-Rete_4_2018.svg.png" group-title="ITALY VPN",Rete 4
-https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(r4)/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/5f/Rete_4_2018.svg/800px-Rete_4_2018.svg.png" group-title="ITALY",Rete 4
+http://new-pro.tv:8080/mazen1/123456/67168
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VmTkdjC.png" group-title="ITALY",TV 8
 http://new-pro.tv:8080/live/mazen1/123456/67034.m3u8
@@ -3768,12 +3777,6 @@ https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/in
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://video-auth7.iol.pt/live_edge/tvi_abr/edge_servers/tvi-480p/chunks.m3u8?
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/i7fz8xt.png" group-title="ROMANIA",Kanal D Romania
-https://stream1.kanald.ro/iphone/live.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/q77TwiP.png" group-title="ROMANIA",Prima TV
-https://stream1.1616.ro:1945/prima/livestream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/myDcDzY.png" group-title="RUSSIA",Мир
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
