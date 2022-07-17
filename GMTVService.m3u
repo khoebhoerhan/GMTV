@@ -2128,7 +2128,7 @@ https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(ec41a5e2-09e4-4
 http://93.152.174.144:4000/play/barcatv/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RCyM7W9.png" group-title="CLUBS OF SPORTS",Benfica TV
-https://networkbest.ru.com/cdn/premium380/chunks.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
+https://networkbest.ru.com/cdn/premium380/playlist.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ULcjgX4.png" group-title="CLUBS OF SPORTS",FB TV
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x21oo10
@@ -2172,8 +2172,6 @@ https://iptv-sniper.herokuapp.com/localtv.php?channel=50
 #EXTINF:-1 tvg-id="PremierSports.ph" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/PremierSports-ph.png" group-title="PINOY SPORTS",Premier Sports
 https://iptv-sniper.herokuapp.com/localtv.php?channel=36
 
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nSYgjEz.png" group-title="WORLD SPORTS",Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
 
@@ -3691,6 +3689,35 @@ http://evpp.mm.uol.com.br:1935/ne10/ne10-tvjornal-caruaru-video-web.sdp/playlist
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/TV_Brasil_logo_2019.svg/1920px-TV_Brasil_logo_2019.svg.png" group-title="BRASIL",TV Brasil
 http://rtmp.cdn.upx.net.br/723b/myStream.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/n61ReKT.png" group-title="CROATIA",Doma TV
+http://new-pro.tv:8080/mazen1/123456/55751
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XwhAUmO.png" user-agent="Mozilla/5.0 (X11; Linux i686; rv:90.0) Gecko/20100101 Firefox/90.0" group-title="CROATIA",HRT 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux i686; rv:90.0) Gecko/20100101 Firefox/90.0
+http://195.29.70.67/PLTV/88888888/224/3221226139/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JDBMIcV.png" user-agent="Mozilla/5.0 (X11; Linux i686; rv:90.0) Gecko/20100101 Firefox/90.0" group-title="CROATIA",HRT 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux i686; rv:90.0) Gecko/20100101 Firefox/90.0
+http://195.29.70.67/PLTV/88888888/224/3221226140/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7zTulwe.png" user-agent="Mozilla/5.0 (X11; Linux i686; rv:90.0) Gecko/20100101 Firefox/90.0" group-title="CROATIA",HRT 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux i686; rv:90.0) Gecko/20100101 Firefox/90.0
+http://195.29.70.67/PLTV/88888888/224/3221226280/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dlFxESc.png" user-agent="Mozilla/5.0 (X11; Linux i686; rv:90.0) Gecko/20100101 Firefox/90.0" group-title="CROATIA",HRT 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux i686; rv:90.0) Gecko/20100101 Firefox/90.0
+http://195.29.70.89/PLTV/88888888/224/3221226281/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Nova_TV_Croatia_logo.png/640px-Nova_TV_Croatia_logo.png" group-title="CROATIA",Nova TV
+http://new-pro.tv:8080/mazen1/123456/21410
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Rtl-logo.svg/1920px-Rtl-logo.svg.png" user-agent="Mozilla/5.0 (X11; Linux i686; rv:90.0) Gecko/20100101 Firefox/90.0" group-title="CROATIA",RTL Hrvatska
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux i686; rv:90.0) Gecko/20100101 Firefox/90.0
+http://195.29.70.67/PLTV/88888888/224/3221226195/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/RTL_2_Logo.svg/1024px-RTL_2_Logo.svg.png" group-title="CROATIA",RTL 2 Hrvatska
+http://new-pro.tv:8080/mazen1/123456/21424
 
 #EXTINF:-1 tvg-id="6ter.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8a/M6_6ter_2012.png" group-title="FRANCE",6ter
 https://s13.tntendirect.com/6ter/live/playlist.m3u8
