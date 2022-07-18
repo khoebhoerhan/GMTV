@@ -3269,6 +3269,9 @@ https://networkbest.ru.com/cdn/premium393/playlist.m3u8|Referer=https://player.l
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bv3ffoA.png" group-title="DUTCH SPORTS",Ziggo Sport Tennis
 http://new-pro.tv:8080/mazen1/123456/33472
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aufKGRo.png" group-title="DUTCH SPORTS",Ziggo Sport Voetbal
+https://networkbest.ru.com/cdn/premium398/playlist.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8A0aYWf.png" group-title="SERBIAN SPORTS",Arena 1 Premium
 https://networkbest.ru.com/cdn/premium134/playlist.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
 
@@ -3343,9 +3346,6 @@ http://new-pro.tv:8080/mazen1/123456/101491
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4mkAAJk.png" group-title="CROATIAN SPORTS",Sport Klub Golf
 http://new-pro.tv:8080/mazen1/123456/101493
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aufKGRo.png" group-title="DUTCH SPORTS",Ziggo Sport Voetbal
-https://networkbest.ru.com/cdn/premium398/playlist.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fOOqLPb.png" group-title="LATINO SPORTS",Claro Sports
 https://d3q84yclyte826.cloudfront.net/out/v1/47af0926366f47cea7661fa9c13ff203/index.m3u8
