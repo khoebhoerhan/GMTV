@@ -1,19 +1,37 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ed/Canal-combate-logo.png" group-title="BRASILIAN SPORTS",Combate
-https://networkbest.ru.com/cdn/premium89/chunks.m3u8|Referer=https://player.licenses4.me
+#EXTVLCOPT:http-referer=https://https://player.licenses4.me/
+#EXTVLCOPT:http-origin=https://https://player.licenses4.me
+https://networkbest.ru.com/cdn/premium89/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1920px-ESPN_wordmark.svg.png" group-title="BRASILIAN SPORTS",ESPN Brasil
-https://networkbest.ru.com/cdn/premium81/chunks.m3u8|Referer=https://player.licenses4.me
+#EXTVLCOPT:http-referer=https://https://player.licenses4.me/
+#EXTVLCOPT:http-origin=https://https://player.licenses4.me
+https://networkbest.ru.com/cdn/premium81/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/1280px-ESPN2_logo.svg.png" group-title="BRASILIAN SPORTS",ESPN 2 Brasil
-https://networkbest.ru.com/cdn/premium82/chunks.m3u8|Referer=https://player.licenses4.me
+#EXTVLCOPT:http-referer=https://https://player.licenses4.me/
+#EXTVLCOPT:http-origin=https://https://player.licenses4.me
+https://networkbest.ru.com/cdn/premium82/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Crvxgth.png" group-title="BRASILIAN SPORTS",ESPN 3 Brasil
-https://networkbest.ru.com/cdn/premium83/chunks.m3u8|Referer=https://player.licenses4.me
+#EXTVLCOPT:http-referer=https://https://player.licenses4.me/
+#EXTVLCOPT:http-origin=https://https://player.licenses4.me
+https://networkbest.ru.com/cdn/premium83/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/89RCPvg.png" group-title="BRASILIAN SPORTS",ESPN 4 Brasil
-https://networkbest.ru.com/cdn/premium85/chunks.m3u8|Referer=https://player.licenses4.me
+#EXTVLCOPT:http-referer=https://https://player.licenses4.me/
+#EXTVLCOPT:http-origin=https://https://player.licenses4.me
+https://networkbest.ru.com/cdn/premium85/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/a2/Logo_Premiere_FC_2018.png" group-title="BRASILIAN SPORTS",Premiere Clubes
-https://networkbest.ru.com/cdn/premium88/chunks.m3u8|Referer=https://player.licenses4.me
+#EXTVLCOPT:http-referer=https://https://player.licenses4.me/
+#EXTVLCOPT:http-origin=https://https://player.licenses4.me
+https://networkbest.ru.com/cdn/premium88/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iweh0Li.png" group-title="BRASILIAN SPORTS",SporTV
-https://networkbest.ru.com/cdn/premium78/chunks.m3u8|Referer=https://player.licenses4.me
+#EXTVLCOPT:http-referer=https://https://player.licenses4.me/
+#EXTVLCOPT:http-origin=https://https://player.licenses4.me
+https://networkbest.ru.com/cdn/premium78/playlist.m3u8|Referer=https://player.licenses4.me
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AAdoNsr.png" group-title="BRASILIAN SPORTS",SporTV 2
-https://networkbest.ru.com/cdn/premium79/chunks.m3u8|Referer=https://player.licenses4.me
+#EXTVLCOPT:http-referer=https://https://player.licenses4.me/
+#EXTVLCOPT:http-origin=https://https://player.licenses4.me
+https://networkbest.ru.com/cdn/premium79/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RcpUcYG.png" group-title="BRASILIAN SPORTS",SporTV 3
-https://networkbest.ru.com/cdn/premium80/chunks.m3u8|Referer=https://player.licenses4.me
+#EXTVLCOPT:http-referer=https://https://player.licenses4.me/
+#EXTVLCOPT:http-origin=https://https://player.licenses4.me
+https://networkbest.ru.com/cdn/premium80/playlist.m3u8
