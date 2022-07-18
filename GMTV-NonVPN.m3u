@@ -3182,8 +3182,14 @@ https://cdn-01.toffeelive.com/origin-09/live-origin/smil:sony_ten2_hd.smil/manif
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=ce17264b317db108f19cdc11aa1a9e66&key=a21188aee8fc5c56d016fcffcc6b2295
 https://cdn-01.toffeelive.com/origin-09/live-origin/smil:sony_ten3_hd.smil/manifest.mpd
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ep8UuNr.png" group-title="INDIAN SPORTS",Sony Ten 4
+http://iptv12k.com:35461/live/80301070602/456776/8565.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/l7gSBMN.png" group-title="INDIAN SPORTS",Star Sports 1
 http://208.86.19.13:81/710.stream/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CRSIXeO.png" group-title="INDIAN SPORTS",Star Sports 1 Hindi
+http://iptv12k.com:35461/live/80301070602/456776/8557.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Bdjk5RJ.png" group-title="INDIAN SPORTS",Star Sports 2
 http://208.86.19.13:81/715.stream/index.m3u8
@@ -4469,6 +4475,33 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/PTVPh
 
 #EXTINF:-1 tvg-logo="https://www.tv5.com.ph/assets/images/five-logo-red.png" group-title="PHILIPPINES",TV5
 https://iptv-sniper.herokuapp.com/localtv.php?channel=8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Polsat_2021_gradient.svg/1200px-Polsat_2021_gradient.svg.png" group-title="POLAND",Polsat
+http://new-pro.tv:8080/mazen1/123456/71314
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Polsat_2_2021_gradient.svg/1024px-Polsat_2_2021_gradient.svg.png" group-title="POLAND",Polsat 2
+http://new-pro.tv:8080/mazen1/123456/71313
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Super_Polsat_2021_gradient.svg/800px-Super_Polsat_2021_gradient.svg.png" group-title="POLAND",Super Polsat
+http://new-pro.tv:8080/mazen1/123456/71281
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/TV4_pol.svg/800px-TV4_pol.svg.png" group-title="POLAND",TV4
+http://new-pro.tv:8080/mazen1/123456/71263
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/TV6_logo.svg/800px-TV6_logo.svg.png" group-title="POLAND",TV6
+http://new-pro.tv:8080/mazen1/123456/71262
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/TVN_logo.svg/1200px-TVN_logo.svg.png" group-title="POLAND",TVN
+http://new-pro.tv:8080/mazen1/123456/71272
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/TVN7_logo_2021.svg/1280px-TVN7_logo_2021.svg.png" group-title="POLAND",TVN 7
+http://new-pro.tv:8080/mazen1/123456/71274
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TVP1_2021_box-1.svg/1920px-TVP1_2021_box-1.svg.png" group-title="POLAND",TVP 1
+http://new-pro.tv:8080/mazen1/123456/71268
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/TVP2_2021_box-1.svg/1920px-TVP2_2021_box-1.svg.png" group-title="POLAND",TVP 2
+http://new-pro.tv:8080/mazen1/123456/71267
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/RTP1_-_Logo_2016.svg/1920px-RTP1_-_Logo_2016.svg.png" group-title="PORTUGAL",RTP 1
 #KODIPROP:inputstream=inputstream.adaptive
