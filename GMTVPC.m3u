@@ -2949,8 +2949,14 @@ https://cdn-01.toffeelive.com/origin-09/live-origin/smil:sony_ten2_hd.smil/manif
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=ce17264b317db108f19cdc11aa1a9e66&key=a21188aee8fc5c56d016fcffcc6b2295
 https://cdn-01.toffeelive.com/origin-09/live-origin/smil:sony_ten3_hd.smil/manifest.mpd
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ep8UuNr.png" group-title="INDIAN SPORTS",Sony Ten 4
+http://iptv12k.com:35461/live/80301070602/456776/8565.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/l7gSBMN.png" group-title="INDIAN SPORTS",Star Sports 1
 http://208.86.19.13:81/710.stream/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CRSIXeO.png" group-title="INDIAN SPORTS",Star Sports 1 Hindi
+http://iptv12k.com:35461/live/80301070602/456776/8557.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Bdjk5RJ.png" group-title="INDIAN SPORTS",Star Sports 2
 http://208.86.19.13:81/715.stream/index.m3u8
