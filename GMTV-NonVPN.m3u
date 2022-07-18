@@ -1891,6 +1891,9 @@ http://nbcnews2.akamaized.net/hls/live/723426-b/NBCNewsPlaymaker24x7Linear99a3a8
 #EXTINF:-1 tvg-id="NewsmaxTV.us" tvg-logo="https://i.imgur.com/4nMN9xm.png" group-title="AMERICAN NEWS",Newsmax TV
 https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5svjRRG.png" group-title="CANADIAN NEWS",CTV News Channel
+http://new-pro.tv:8080/mazen1/123456/109674
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IZFEJsu.png" group-title="CANADIAN NEWS",Global News
 https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/.m3u8
 
@@ -4021,13 +4024,49 @@ https://59f2354c05961.streamlock.net:1443/rbtv/_definst_/rbtv/chunklist_w1419744
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5mVIs18.png" group-title="BRASIL",Rede TV!
 https://59f1cbe63db89.streamlock.net:1443/redetvro/_definst_/redetvro/chunklist_w1145706398.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/84/Sistema_Brasileiro_de_Televis%C3%A3o.svg/800px-Sistema_Brasileiro_de_Televis%C3%A3o.svg.png" group-title="BRASIL",SBT Nacional
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/84/Sistema_Brasileiro_de_Televis%C3%A3o.svg/800px-Sistema_Brasileiro_de_Televis%C3%A3o.svg.png" group-title="BRASIL",SBT Nacional
 http://evpp.mm.uol.com.br:1935/ne10/ne10-tvjornal-caruaru-video-web.sdp/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/TV_Brasil_logo_2019.svg/1920px-TV_Brasil_logo_2019.svg.png" group-title="BRASIL",TV Brasil
 http://rtmp.cdn.upx.net.br/723b/myStream.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/aa/RTB_Aneka.png" group-title="BRUNEI",RTB Aneka
+https://d1211whpimeups.cloudfront.net/smil:rtb2/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c0/RTB_Sukmaindera.png" group-title="BRUNEI",RTB Sukmaindera
+https://d1211whpimeups.cloudfront.net/smil:rtb1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/ABC_Spark_Logo.png" group-title="CANADA",ABC Spark
+http://new-pro.tv:8080/mazen1/123456/69350
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/w2IwLlA.png" group-title="CANADA",CBC
+http://new-pro.tv:8080/mazen1/123456/69438
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h1GAgKq.png" group-title="CANADA",City TV
+http://new-pro.tv:8080/mazen1/123456/69444
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/CTV_logo_2018.svg/1920px-CTV_logo_2018.svg.png" group-title="CANADA",CTV
+http://new-pro.tv:8080/mazen1/123456/109675
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/CTV_2_2018.svg/1920px-CTV_2_2018.svg.png" group-title="CANADA",CTV 2
+http://new-pro.tv:8080/mazen1/123456/122098
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/CTV_Life_Channel_2019.svg/800px-CTV_Life_Channel_2019.svg.png" group-title="CANADA",CTV Life Channel
+http://new-pro.tv:8080/mazen1/123456/302596
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lxbuF5X.png" group-title="CANADA",Global
+http://new-pro.tv:8080/mazen1/123456/302592
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cf/Current_Logo_of_Ici_Radio-Canada_T%C3%A9l%C3%A9_%282016-present%29.svg/1920px-Current_Logo_of_Ici_Radio-Canada_T%C3%A9l%C3%A9_%282016-present%29.svg.png" group-title="CANADA",Ici Télé
+http://new-pro.tv:8080/mazen1/123456/302593
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RyHlWek.png" group-title="CANADA",Omni 1
+http://new-pro.tv:8080/mazen1/123456/109681
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RyHlWek.png" group-title="CANADA",Omni 2
+http://new-pro.tv:8080/mazen1/123456/69371
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/n61ReKT.png" group-title="CROATIA",Doma Hrvatska
 http://new-pro.tv:8080/mazen1/123456/55751
