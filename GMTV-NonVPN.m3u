@@ -698,22 +698,32 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/10ty05kl
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/yf_09ncv
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/E%21_Logo_2012.svg/320px-E%21_Logo_2012.svg.png" group-title="AMERICAN ENTERTAINMENT",E! East
-https://networkbest.ru.com/cdn/premium315/playlist.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTVLCOPT:http-referrer=https://player.licenses4.me
+https://networkbest.ru.com/cdn/premium315/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="USANetworkEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/1920px-USA_Network_logo_%282016%29.svg.png" group-title="AMERICAN ENTERTAINMENT",USA Network East
-https://networkbest.ru.com/cdn/premium343/playlist.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTVLCOPT:http-referrer=https://player.licenses4.me
+https://networkbest.ru.com/cdn/premium343/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="OprahWinfreyNetworkEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/OWN_2011_logo.svg/1920px-OWN_2011_logo.svg.png" group-title="AMERICAN ENTERTAINMENT",Oprah Winfrey Network East
-https://networkbest.ru.com/cdn/premium331/playlist.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTVLCOPT:http-referrer=https://player.licenses4.me
+https://networkbest.ru.com/cdn/premium331/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="LifetimeEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/1920px-Logo_Lifetime_2020.svg.png" group-title="AMERICAN ENTERTAINMENT",Lifetime East
 http://new-pro.tv:8080/mazen1/123456/69364
 
 #EXTINF:-1 tvg-id="TBSEast.us" tvg-logo="https://i.imgur.com/upM99h1.png" group-title="AMERICAN ENTERTAINMENT",TBS East
-https://networkbest.ru.com/cdn/premium336/playlist.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTVLCOPT:http-referrer=https://player.licenses4.me
+https://networkbest.ru.com/cdn/premium336/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="TNTEast.us" tvg-logo="https://i.imgur.com/umJbqNY.png" group-title="AMERICAN ENTERTAINMENT",TNT East
-https://networkbest.ru.com/cdn/premium338/playlist.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTVLCOPT:http-referrer=https://player.licenses4.me
+https://networkbest.ru.com/cdn/premium338/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bQPc9pg.png" group-title="AMERICAN ENTERTAINMENT",Bravo East
 http://new-pro.tv:8080/mazen1/123456/302584
@@ -793,10 +803,14 @@ https://livetv.powerapp.com.tr/powerTV/powerhd.smil/playlists.m3u8
 https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8
 
 #EXTINF:-1 tvg-id="VH1USEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/VH1_logonew.svg/1920px-VH1_logonew.svg.png" group-title="AMERICAN MUSIC",VH1 East
-https://networkbest.ru.com/cdn/premium344/playlist.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTVLCOPT:http-referrer=https://player.licenses4.me
+https://networkbest.ru.com/cdn/premium344/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="MTVEast.us" tvg-logo="https://i.imgur.com/X7VxlBN.png" group-title="AMERICAN MUSIC",MTV East
-https://networkbest.ru.com/cdn/premium371/playlist.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTVLCOPT:http-referrer=https://player.licenses4.me
+https://networkbest.ru.com/cdn/premium371/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/X7VxlBN.png" group-title="ASIAN MUSIC",MTV Vietnam
 https://livecdn.fptplay.net/sdb/mtv_hls.smil/chunklist.m3u8
@@ -1146,6 +1160,7 @@ http://45.153.35.210:8000/play/UK_great_action_sd/index.m3u8
 
 #EXTINF:-1 tvg-id="GreatMoviesClassic.uk" tvg-logo="https://i.imgur.com/MPnwLGE.png" group-title="BRITISH MOVIES",Great! Movies Classic
 http://45.153.35.210:8000/play/UK_great_classic_sd/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/66mAx2O.png" group-title="BRITISH MOVIES",Sky Cinema Action
 http://new-pro.tv:8080/mazen1/123456/68540
 
@@ -1312,16 +1327,22 @@ http://new-pro.tv:8080/mazen1/123456/293476
 http://new-pro.tv:8080/mazen1/123456/134301
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dIoU3FG.png" group-title="AMERICAN SERIES",A&E
-https://networkbest.ru.com/cdn/premium302/playlist.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
+https://networkbest.ru.com/cdn/premium302/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/icFwjZ3.jpg" group-title="AMERICAN SERIES",AMC East
-https://networkbest.ru.com/cdn/premium303/playlist.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTVLCOPT:http-referrer=https://player.licenses4.me
+https://networkbest.ru.com/cdn/premium303/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8dgknme.png" group-title="AMERICAN SERIES",FX East
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTVLCOPT:http-referrer=https://player.licenses4.me
 http://51.81.208.129:35461/live/80301062102/732099/1630.m3u8
 
 #EXTINF:-1 tvg-id="ShowtimeEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/1920px-Showtime.svg.png" group-title="AMERICAN SERIES",Showtime East
-https://networkbest.ru.com/cdn/premium333/playlist.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTVLCOPT:http-referrer=https://player.licenses4.me
+https://networkbest.ru.com/cdn/premium333/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VY9zuTI.png" group-title="AMERICAN SERIES",Showtime 2 East
 http://new-pro.tv:8080/mazen1/123456/70455
@@ -1608,12 +1629,14 @@ https://livecdn.fptplay.net/hda2/discoveryasia_vhls.smil/chunklist_b5000000.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MjhkOWZkZjYtOGViOC0zNTkzLWFhOWEtNGFhMzJkMDk3NGE2
 https://stream-cdn.mncnow.id/live/eds/History/sa_dash_vmx/History.mpd
 
-#EXTINF:-1 tvg-id="History2Asia.us" tvg-logo="https://i.imgur.com/9EFDndr.png" group-title="KNOWLEDGE",History 2
+#EXTINF:-1 tvg-id="History2Asia.us" tvg-logo="https://i.imgur.com/Ew6AZiG.png" group-title="KNOWLEDGE",History 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 https://smart-tv.livedoomovie.com/02_H2HD_720p/chunklist.m3u8|Referer=https://www.movie87hd.com/?r=ajax
 
 #EXTINF:-1 tvg-id="InvestigationDiscoveryEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/1920px-InvestigationDiscoveryLogo2020.svg.png" group-title="KNOWLEDGE",Investigation Discovery East
-https://srv.vhls.ru.com/cdn/premium324/chunks.m3u8|Referer=https://player.licenses4.me
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTVLCOPT:http-referrer=https://player.licenses4.me
+https://srv.vhls.ru.com/cdn/premium324/tracks-v1a1/mono.m3u8
 
 #EXTINF:0 tvg-id="NationalGeographicIndonesia.id" tvg-logo="https://i.imgur.com/O13uMvJ.png" group-title="KNOWLEDGE",National Geographic
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1885,7 +1908,9 @@ https://liveru.cgtn.com/1000r/prog_index.m3u8
 https://stream-cdn.mncnow.id/live/eds/FoxNews/sa_dash_vmx/FoxNews.mpd
 
 #EXTINF:-1 tvg-id="MSNBC.us" tvg-logo="https://i.imgur.com/cMM9MAg.png" group-title="AMERICAN NEWS",MSNBC
-https://networkbest.ru.com/cdn/premium327/playlist.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTVLCOPT:http-referrer=https://player.licenses4.me
+https://networkbest.ru.com/cdn/premium327/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IVvxmTv.png" group-title="AMERICAN NEWS",CBS News
 http://cbsnewshd-lh.akamaihd.net:80/i/CBSNHD_7@199302/master.m3u8
@@ -2149,7 +2174,9 @@ http://new-pro.tv:8080/mazen1/123456/71307
 http://new-pro.tv:8080/mazen1/123456/71308
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Tvn24_Logo.svg/800px-Tvn24_Logo.svg.png" group-title="POLISH NEWS",TVN 24
-https://networkbest.ru.com/cdn/premium444/playlist.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTVLCOPT:http-referrer=https://player.licenses4.me
+https://networkbest.ru.com/cdn/premium444/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cojVDUx.png" group-title="POLISH NEWS",Wydarzenia 24
 http://new-pro.tv:8080/mazen1/123456/71280
@@ -2330,7 +2357,9 @@ https://cdn3.skygo.mn/live/disk1/BloombergMon/HLS-FTA/BloombergMon.m3u8
 https://stream-cdn.mncnow.id/live/eds/CNBC/sa_dash_vmx/CNBC.mpd
 
 #EXTINF:-1 tvg-id="CNBC.us" tvg-logo="https://i.imgur.com/KxxvR2X.png" group-title="BUSINESS NEWS",CNBC US
-https://networkbest.ru.com/cdn/premium309/playlist.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTVLCOPT:http-referrer=https://player.licenses4.me
+https://networkbest.ru.com/cdn/premium309/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="CNBCArabiya.ae" tvg-logo="https://i.imgur.com/4XhULAV.png" group-title="BUSINESS NEWS",CNBC Arabiya
 https://cnbcarabia.hibridcdn.net/cnbc/cnbc_abr/cnbc/cnbc_480p/chunks.m3u8?
@@ -2452,7 +2481,9 @@ http://iptvid.my.id/hmm/useetl2.m3u8
 http://93.152.174.144:4000/play/barcatv/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RCyM7W9.png" group-title="CLUBS OF SPORTS",Benfica TV
-https://networkbest.ru.com/cdn/premium380/playlist.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTVLCOPT:http-referrer=https://player.licenses4.me
+https://networkbest.ru.com/cdn/premium380/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ULcjgX4.png" group-title="CLUBS OF SPORTS",FB TV
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x21oo10
@@ -2461,10 +2492,12 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/vid
 https://owifavo5.rocketcdn.com/gstv/gstv.smil/chunklist_b846000_sltur.m3u8
 
 #EXTINF:-1 tvg-id="LFCTV.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1f/LFC_TV_logo.png" group-title="CLUBS OF SPORTS",LFC TV
-http://new-pro.tv:8080/live/mazen1/123456/68577.m3u8
+http://iptv12k.com:35461/live/80301070602/456776/5363.m3u8
 
 #EXTINF:-1 tvg-id="MUTV.uk" tvg-logo="https://i.imgur.com/3zyVm7l.png" group-title="CLUBS OF SPORTS",MUTV
-https://networkbest.ru.com/cdn/premium377/playlist.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTVLCOPT:http-referrer=https://player.licenses4.me
+https://networkbest.ru.com/cdn/premium377/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4CPFHlX.png" group-title="CLUBS OF SPORTS",Persija TV
 https://bravo.kugo.id/persijatv/udp.stream/playlist.m3u8
@@ -2475,10 +2508,12 @@ https://bravo.kugo.id/persijatv/udp.stream/playlist.m3u8
 https://streamer-a03.videos.sapo.pt/live/portocanal/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KFwSXaG.png" group-title="CLUBS OF SPORTS",Real Madrid TV Español
-https://networkbest.ru.com/cdn/premium523/playlist.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTVLCOPT:http-referrer=https://player.licenses4.me
+https://networkbest.ru.com/cdn/premium523/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/r2XCRmO.png" group-title="CLUBS OF SPORTS",Sporting TV
-http://new-pro.tv:8080/mazen1/123456/72027
+http://45.92.69.72:8001/play/a02n
 
 #EXTINF:-1 tvg-id="EurosportAsia.fr" tvg-logo="https://i.imgur.com/ycxjpTX.png" group-title="ASIAN SPORTS",Eurosport Asia
 http://clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=141598&extension=ts&play_token=yofOklZ6OX
@@ -2519,25 +2554,39 @@ https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
 http://new-pro.tv:8080/mazen1/123456/33688
 
 #EXTINF:-1 tvg-id="beINSports1.qa" tvg-logo="https://i.imgur.com/MRULdc8.png" group-title="ARABIC SPORTS",beIN Sports 1
-https://networkbest.ru.com/cdn/premium91/playlist.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTVLCOPT:http-referrer=https://player.licenses4.me
+https://networkbest.ru.com/cdn/premium91/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="beINSports2.qa" tvg-logo="https://i.imgur.com/NDp6TlM.png" group-title="ARABIC SPORTS",beIN Sports 2
-https://networkbest.ru.com/cdn/premium92/playlist.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTVLCOPT:http-referrer=https://player.licenses4.me
+https://networkbest.ru.com/cdn/premium92/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="beINSports3.qa" tvg-logo="https://i.imgur.com/j8VC6nB.png" group-title="ARABIC SPORTS",beIN Sports 3
-https://networkbest.ru.com/cdn/premium93/playlist.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTVLCOPT:http-referrer=https://player.licenses4.me
+https://networkbest.ru.com/cdn/premium93/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="beINSports4.qa" tvg-logo="https://i.imgur.com/Lu26Yho.png" group-title="ARABIC SPORTS",beIN Sports 4
-https://networkbest.ru.com/cdn/premium94/playlist.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTVLCOPT:http-referrer=https://player.licenses4.me
+https://networkbest.ru.com/cdn/premium94/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="beINSports5.qa" tvg-logo="https://i.imgur.com/pA5by2y.png" group-title="ARABIC SPORTS",beIN Sports 5
-https://networkbest.ru.com/cdn/premium95/playlist.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTVLCOPT:http-referrer=https://player.licenses4.me
+https://networkbest.ru.com/cdn/premium95/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="beINSports6.qa" tvg-logo="https://i.imgur.com/mbFoSUX.png" group-title="ARABIC SPORTS",beIN Sports 6
-https://networkbest.ru.com/cdn/premium96/playlist.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTVLCOPT:http-referrer=https://player.licenses4.me
+https://networkbest.ru.com/cdn/premium96/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="beINSports7.qa" tvg-logo="https://i.imgur.com/eHCosqi.png" group-title="ARABIC SPORTS",beIN Sports 7
-https://networkbest.ru.com/cdn/premium97/playlist.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTVLCOPT:http-referrer=https://player.licenses4.me
+https://networkbest.ru.com/cdn/premium97/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="beINSportsNBA.qa" tvg-logo="https://i.imgur.com/BZ5jcea.png" group-title="ARABIC SPORTS",beIN NBA
 http://new-pro.tv:8080/mazen1/123456/28294
@@ -2564,22 +2613,34 @@ http://new-pro.tv:8080/mazen1/123456/311982
 http://new-pro.tv:8080/mazen1/123456/311983
 
 #EXTINF:-1 tvg-id="beINSports1HDFrance.fr" tvg-logo="https://i.imgur.com/MRULdc8.png" group-title="FRENCH SPORTS",beIN Sports 1 HD France
-https://networkbest.ru.com/cdn/premium116/playlist.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTVLCOPT:http-referrer=https://player.licenses4.me
+https://networkbest.ru.com/cdn/premium116/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="beINSports2HDFrance.fr" tvg-logo="https://i.imgur.com/NDp6TlM.png" group-title="FRENCH SPORTS",beIN Sports 2 HD France
-https://networkbest.ru.com/cdn/premium117/playlist.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTVLCOPT:http-referrer=https://player.licenses4.me
+https://networkbest.ru.com/cdn/premium117/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="beINSports3France.fr" tvg-logo="https://i.imgur.com/j8VC6nB.png" group-title="FRENCH SPORTS",beIN Sports 3 France
-https://networkbest.ru.com/cdn/premium118/playlist.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTVLCOPT:http-referrer=https://player.licenses4.me
+https://networkbest.ru.com/cdn/premium118/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="beINSportsEnglish1.qa" tvg-logo="https://i.imgur.com/o8zT78o.png" group-title="ARABIC SPORTS",beIN Sports English 1
-https://networkbest.ru.com/cdn/premium61/playlist.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTVLCOPT:http-referrer=https://player.licenses4.me
+https://networkbest.ru.com/cdn/premium61/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="beINSportsEnglish2.qa" tvg-logo="https://i.imgur.com/RJ17vOc.png" group-title="ARABIC SPORTS",beIN Sports English 2
-https://networkbest.ru.com/cdn/premium90/playlist.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTVLCOPT:http-referrer=https://player.licenses4.me
+https://networkbest.ru.com/cdn/premium90/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="beINSportsEnglish3.qa" tvg-logo="https://i.imgur.com/sKFx2QF.png" group-title="ARABIC SPORTS",beIN Sports English 3
-https://networkbest.ru.com/cdn/premium46/playlist.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTVLCOPT:http-referrer=https://player.licenses4.me
+https://networkbest.ru.com/cdn/premium46/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="beINSportsFrench1.qa" tvg-logo="https://i.imgur.com/NOOEDFi.png" group-title="ARABIC SPORTS",beIN Sports French 1
 http://new-pro.tv:8080/mazen1/123456/219145
@@ -2591,25 +2652,39 @@ http://new-pro.tv:8080/mazen1/123456/219146
 http://new-pro.tv:8080/mazen1/123456/219147
 
 #EXTINF:-1 tvg-id="beINSportsPremium1.qa" tvg-logo="https://i.imgur.com/CwlNjXQ.png" group-title="ARABIC SPORTS",beIN Sports Premium 1
-https://networkbest.ru.com/cdn/premium98/playlist.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTVLCOPT:http-referrer=https://player.licenses4.me
+https://networkbest.ru.com/cdn/premium98/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="beINSportsPremium2.qa" tvg-logo="https://i.imgur.com/Ns7isEP.png" group-title="ARABIC SPORTS",beIN Sports Premium 2
-https://networkbest.ru.com/cdn/premium99/playlist.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTVLCOPT:http-referrer=https://player.licenses4.me
+https://networkbest.ru.com/cdn/premium99/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="beINSportsPremium3.qa" tvg-logo="https://i.imgur.com/T7UlxCI.png" group-title="ARABIC SPORTS",beIN Sports Premium 3
-https://networkbest.ru.com/cdn/premium100/playlist.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTVLCOPT:http-referrer=https://player.licenses4.me
+https://networkbest.ru.com/cdn/premium100/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="beINSports1Turkey.tr" tvg-logo="https://i.imgur.com/MRULdc8.png" group-title="TURKISH SPORTS",beIN Sports 1 Türkiye
-https://networkbest.ru.com/cdn/premium62/playlist.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTVLCOPT:http-referrer=https://player.licenses4.me
+https://networkbest.ru.com/cdn/premium62/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="beINSports2Turkey.tr" tvg-logo="https://i.imgur.com/NDp6TlM.png" group-title="TURKISH SPORTS",beIN Sports 2 Türkiye
-https://networkbest.ru.com/cdn/premium63/playlist.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTVLCOPT:http-referrer=https://player.licenses4.me
+https://networkbest.ru.com/cdn/premium63/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="beINSports3Turkey.tr" tvg-logo="https://i.imgur.com/j8VC6nB.png" group-title="TURKISH SPORTS",beIN Sports 3 Türkiye
-https://networkbest.ru.com/cdn/premium64/playlist.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTVLCOPT:http-referrer=https://player.licenses4.me
+https://networkbest.ru.com/cdn/premium64/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="beINSports4Turkey.tr" tvg-logo="https://i.imgur.com/Lu26Yho.png" group-title="TURKISH SPORTS",beIN Sports 4 Türkiye
-https://networkbest.ru.com/cdn/premium67/playlist.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTVLCOPT:http-referrer=https://player.licenses4.me
+https://networkbest.ru.com/cdn/premium67/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="beINSportsHaber.tr" tvg-logo="https://i.imgur.com/fBWCN2V.png" group-title="TURKISH SPORTS",beIN Sports Haber
 http://new-pro.tv:8080/mazen1/123456/71039
@@ -2647,10 +2722,14 @@ https://smart-tv.livedoomovies.com:4431/02_epl1_720p/chunklist.m3u8|Referer=http
 https://smart-tv.livedoomovies.com:4431/02_epl2_720p/chunklist.m3u8|Referer=https://www.movie87hd.com/?r=ajax
 
 #EXTINF:-1 tvg-id="beINSportsUSA.us" tvg-logo="https://i.imgur.com/39bwyGI.png" group-title="AMERICAN SPORTS",beIN Sports USA
-https://networkbest.ru.com/cdn/premium425/playlist.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTVLCOPT:http-referrer=https://player.licenses4.me
+https://networkbest.ru.com/cdn/premium425/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="beINSportsenEspanol.us" tvg-logo="https://i.imgur.com/LfzLKei.png" group-title="AMERICAN SPORTS",beIN Sports en Español
-https://networkbest.ru.com/cdn/premium372/playlist.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTVLCOPT:http-referrer=https://player.licenses4.me
+https://networkbest.ru.com/cdn/premium372/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="beINSportsXtraUSA.us" tvg-logo="https://i.imgur.com/x8049OP.png" group-title="AMERICAN SPORTS",beIN Sports Xtra USA
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df975e2b27cf5000921c102/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c82b290-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=672c13ed-c11c-4ba2-b749-117f2f0aab45&userId=&serverSideAds=true
@@ -2668,22 +2747,34 @@ http://status.tehw00t.net/miniProxy.php/https://bein-xtra-samsung-canada.amagi.t
 http://new-pro.tv:8080/mazen1/123456/72696
 
 #EXTINF:-1 tvg-id="BTSport1.uk" tvg-logo="https://i.imgur.com/7dg7EB7.png" group-title="BRITISH SPORTS",BT Sport 1
-https://networkbest.ru.com/cdn/premium31/playlist.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTVLCOPT:http-referrer=https://player.licenses4.me
+https://networkbest.ru.com/cdn/premium31/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="BTSport2.uk" tvg-logo="https://i.imgur.com/sIIFREX.png" group-title="BRITISH SPORTS",BT Sport 2
-https://networkbest.ru.com/cdn/premium32/playlist.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTVLCOPT:http-referrer=https://player.licenses4.me
+https://networkbest.ru.com/cdn/premium32/tracks-v1a1/mono.m3u8
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTVLCOPT:http-referrer=https://player.licenses4.me
 #EXTINF:-1 tvg-id="BTSport3.uk" tvg-logo="https://i.imgur.com/8IzsrMb.png" group-title="BRITISH SPORTS",BT Sport 3
-https://networkbest.ru.com/cdn/premium33/playlist.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
+https://networkbest.ru.com/cdn/premium33/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="BTSportESPN.us" tvg-logo="https://i.imgur.com/YcrrywD.png" group-title="BRITISH SPORTS",BT Sport / ESPN
-https://networkbest.ru.com/cdn/premium34/playlist.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTVLCOPT:http-referrer=https://player.licenses4.me
+https://networkbest.ru.com/cdn/premium34/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="Eurosport1UK.uk" tvg-logo="https://i.imgur.com/gwV31E0.png" group-title="BRITISH SPORTS",Eurosport 1 UK
-https://networkbest.ru.com/cdn/premium41/playlist.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTVLCOPT:http-referrer=https://player.licenses4.me
+https://networkbest.ru.com/cdn/premium41/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="Eurosport2UK.uk" tvg-logo="https://i.imgur.com/lTnKDju.png" group-title="BRITISH SPORTS",Eurosport 2 UK
-https://networkbest.ru.com/cdn/premium42/playlist.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTVLCOPT:http-referrer=https://player.licenses4.me
+https://networkbest.ru.com/cdn/premium42/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="FreeSports.uk" tvg-logo="https://i.imgur.com/LwYHFLx.png" group-title="BRITISH SPORTS",Free Sports
 http://new-pro.tv:8080/mazen1/123456/72716
@@ -2692,76 +2783,116 @@ http://new-pro.tv:8080/mazen1/123456/72716
 http://new-pro.tv:8080/mazen1/123456/72715
 
 #EXTINF:-1 tvg-id="PremierSports1.ie" tvg-logo="https://i.imgur.com/tPxIkmd.png" group-title="BRITISH SPORTS",Premier Sports 1
-https://networkbest.ru.com/cdn/premium451/playlist.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTVLCOPT:http-referrer=https://player.licenses4.me
+https://networkbest.ru.com/cdn/premium451/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="PremierSports2.ie" tvg-logo="https://i.imgur.com/PhUx6yK.png" group-title="BRITISH SPORTS",Premier Sports 2
-https://networkbest.ru.com/cdn/premium550/playlist.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTVLCOPT:http-referrer=https://player.licenses4.me
+https://networkbest.ru.com/cdn/premium550/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="RacingTV.uk" tvg-logo="https://i.imgur.com/d81P4qV.jpg" group-title="BRITISH SPORTS",Racing TV
-https://networkbest.ru.com/cdn/premium555/playlist.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTVLCOPT:http-referrer=https://player.licenses4.me
+https://networkbest.ru.com/cdn/premium555/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="SkySportsNFL.uk" tvg-logo="https://i.imgur.com/jM1FeOX.png" group-title="BRITISH SPORTS",Sky Sports Action
-https://networkbest.ru.com/cdn/premium37/playlist.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTVLCOPT:http-referrer=https://player.licenses4.me
+https://networkbest.ru.com/cdn/premium37/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="SkySportsArena.uk" tvg-logo="https://i.imgur.com/eZwExGu.png" group-title="BRITISH SPORTS",Sky Sports Arena
-https://networkbest.ru.com/cdn/premium36/playlist.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTVLCOPT:http-referrer=https://player.licenses4.me
+https://networkbest.ru.com/cdn/premium36/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="SkySportsCricket.uk" tvg-logo="https://i.imgur.com/J8zzS2v.png" group-title="BRITISH SPORTS",Sky Sports Cricket
-https://networkbest.ru.com/cdn/premium65/playlist.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTVLCOPT:http-referrer=https://player.licenses4.me
+https://networkbest.ru.com/cdn/premium65/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="SkySportsF1.uk" tvg-logo="https://i.imgur.com/2kPW5qw.png" group-title="BRITISH SPORTS",Sky Sports F1
-https://networkbest.ru.com/cdn/premium60/playlist.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTVLCOPT:http-referrer=https://player.licenses4.me
+https://networkbest.ru.com/cdn/premium60/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="SkySportsFootball.uk" tvg-logo="https://i.imgur.com/EcFwNdj.png" group-title="BRITISH SPORTS",Sky Sports Football
-https://networkbest.ru.com/cdn/premium35/playlist.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTVLCOPT:http-referrer=https://player.licenses4.me
+https://networkbest.ru.com/cdn/premium35/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="SkySportsGolf.uk" tvg-logo="https://i.imgur.com/Q2ztKWZ.png" group-title="BRITISH SPORTS",Sky Sports Golf
-https://networkbest.ru.com/cdn/premium70/playlist.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTVLCOPT:http-referrer=https://player.licenses4.me
+https://networkbest.ru.com/cdn/premium70/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="SkySportsMainEvent.uk" tvg-logo="https://i.imgur.com/KHiae2e.png" group-title="BRITISH SPORTS",Sky Sports Main Event
-https://networkbest.ru.com/cdn/premium38/playlist.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTVLCOPT:http-referrer=https://player.licenses4.me
+https://networkbest.ru.com/cdn/premium38/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="SkySportsMix.uk" tvg-logo="https://i.imgur.com/PRF0DsV.png" group-title="BRITISH SPORTS",Sky Sports Mix
-https://networkbest.ru.com/cdn/premium449/playlist.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTVLCOPT:http-referrer=https://player.licenses4.me
+https://networkbest.ru.com/cdn/premium449/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="SkySportsNews.uk" tvg-logo="https://i.imgur.com/jcFnVbi.png" group-title="BRITISH SPORTS",Sky Sports News UK
-https://networkbest.ru.com/cdn/premium366/playlist.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTVLCOPT:http-referrer=https://player.licenses4.me
+https://networkbest.ru.com/cdn/premium366/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="SkySportsPremierLeague.uk" tvg-logo="https://i.imgur.com/wA3DieO.png" group-title="BRITISH SPORTS",Sky Sports Premier League
-https://networkbest.ru.com/cdn/premium130/playlist.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTVLCOPT:http-referrer=https://player.licenses4.me
+https://networkbest.ru.com/cdn/premium130/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="SkySportsRacing.uk" tvg-logo="https://i.imgur.com/vhYstlz.png" group-title="BRITISH SPORTS",Sky Sports Racing
 http://new-pro.tv:8080/mazen1/123456/69588
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1g9mYwr.png" group-title="AMERICAN SPORTS",CBS Sports Network
-https://networkbest.ru.com/cdn/premium308/playlist.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTVLCOPT:http-referrer=https://player.licenses4.me
+https://networkbest.ru.com/cdn/premium308/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="ESPN.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1920px-ESPN_wordmark.svg.png" group-title="AMERICAN SPORTS",ESPN US
-https://networkbest.ru.com/cdn/premium44/playlist.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTVLCOPT:http-referrer=https://player.licenses4.me
+https://networkbest.ru.com/cdn/premium44/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="ESPN2.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/1280px-ESPN2_logo.svg.png" group-title="AMERICAN SPORTS",ESPN 2 US
-https://networkbest.ru.com/cdn/premium45/playlist.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTVLCOPT:http-referrer=https://player.licenses4.me
+https://networkbest.ru.com/cdn/premium45/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YhuEewa.png" group-title="AMERICAN SPORTS",ESPN Deportes
-https://networkbest.ru.com/cdn/premium375/playlist.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTVLCOPT:http-referrer=https://player.licenses4.me
+https://networkbest.ru.com/cdn/premium375/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="ESPNews.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/ESPNews.svg/1920px-ESPNews.svg.png" group-title="AMERICAN SPORTS",ESPNews
 http://new-pro.tv:8080/mazen1/123456/70393
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qimdreM.png" group-title="AMERICAN SPORTS",FS1
-https://networkbest.ru.com/cdn/premium39/playlist.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTVLCOPT:http-referrer=https://player.licenses4.me
+https://networkbest.ru.com/cdn/premium39/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jxLMBZt.png" group-title="AMERICAN SPORTS",FS2
 http://new-pro.tv:8080/mazen1/123456/116154
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/MLBNetworkLogo.svg/800px-MLBNetworkLogo.svg.png" group-title="AMERICAN SPORTS",MLB Network
-https://networkbest.ru.com/cdn/premium399/playlist.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTVLCOPT:http-referrer=https://player.licenses4.me
+https://networkbest.ru.com/cdn/premium399/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="NBATV.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/800px-NBA_TV.svg.png" group-title="AMERICAN SPORTS",NBA TV
 https://bit.ly/nbatvusa?/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gZXSAhf.png" group-title="AMERICAN SPORTS",NFL Network
-https://networkbest.ru.com/cdn/premium405/playlist.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTVLCOPT:http-referrer=https://player.licenses4.me
+https://networkbest.ru.com/cdn/premium405/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LH4EVbg.png" group-title="AMERICAN SPORTS",NHL Network
 http://new-pro.tv:8080/mazen1/123456/69476
@@ -2770,12 +2901,14 @@ http://new-pro.tv:8080/mazen1/123456/69476
 https://dai.google.com/linear/hls/event/Dlqr46ybTSGWGTfRWcxS0g/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/1920px-TUDN_Logo.svg.png" group-title="AMERICAN SPORTS",TUDN USA
-https://networkbest.ru.com/cdn/premium66/playlist.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTVLCOPT:http-referrer=https://player.licenses4.me
+https://networkbest.ru.com/cdn/premium66/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lcpZ5CC.png" group-title="AMERICAN SPORTS",WWE Network
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=782f32d9501ac50dfd783671ade95210&key=9690dcf2368b1664680a8099125ccca9
-https://networkbest.ru.com/cdn/premium376/playlist.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTVLCOPT:http-referrer=https://player.licenses4.me
+https://networkbest.ru.com/cdn/premium376/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1920px-ESPN_wordmark.svg.png" group-title="AUSTRALIAN SPORTS",ESPN Australia
 http://new-pro.tv:8080/mazen1/123456/86753
@@ -2784,7 +2917,9 @@ http://new-pro.tv:8080/mazen1/123456/86753
 http://new-pro.tv:8080/mazen1/123456/271522
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/b7TO49Q.png" group-title="AUSTRALIAN SPORTS",Fox Sports 501
-https://networkbest.ru.com/cdn/premium369/playlist.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTVLCOPT:http-referrer=https://player.licenses4.me
+https://networkbest.ru.com/cdn/premium369/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BLWrz42.png" group-title="AUSTRALIAN SPORTS",Fox Sports 502
 http://new-pro.tv:8080/mazen1/123456/271526
@@ -2820,40 +2955,64 @@ https://skylivetab-i.akamaihd.net/hls/live/569779/tablive/sky2.m3u8
 https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/stcsd.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bpS1hON.png" group-title="CANADIAN SPORTS",Sportsnet 360
-http://new-pro.tv:8080/mazen1/123456/69389
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTVLCOPT:http-referrer=https://player.licenses4.me
+https://networkbest.ru.com/cdn/premium409/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/W8d65IY.png" group-title="CANADIAN SPORTS",Sportsnet One
-https://networkbest.ru.com/cdn/premium411/playlist.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTVLCOPT:http-referrer=https://player.licenses4.me
+https://networkbest.ru.com/cdn/premium411/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gSK6eN9.png" group-title="CANADIAN SPORTS",Sportsnet World
-https://networkbest.ru.com/cdn/premium410/playlist.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTVLCOPT:http-referrer=https://player.licenses4.me
+https://networkbest.ru.com/cdn/premium410/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/v48ueao.png" group-title="CANADIAN SPORTS",TSN1
-https://networkbest.ru.com/cdn/premium111/playlist.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTVLCOPT:http-referrer=https://player.licenses4.me
+https://networkbest.ru.com/cdn/premium111/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HvPyPov.png" group-title="CANADIAN SPORTS",TSN2
-https://networkbest.ru.com/cdn/premium112/playlist.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTVLCOPT:http-referrer=https://player.licenses4.me
+https://networkbest.ru.com/cdn/premium112/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NwjWSff.png" group-title="CANADIAN SPORTS",TSN3
-https://networkbest.ru.com/cdn/premium113/playlist.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTVLCOPT:http-referrer=https://player.licenses4.me
+https://networkbest.ru.com/cdn/premium113/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5aQ01F1.png" group-title="CANADIAN SPORTS",TSN4
-https://networkbest.ru.com/cdn/premium114/playlist.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTVLCOPT:http-referrer=https://player.licenses4.me
+https://networkbest.ru.com/cdn/premium114/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uoy75nW.png" group-title="CANADIAN SPORTS",TSN5
-https://networkbest.ru.com/cdn/premium115/playlist.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTVLCOPT:http-referrer=https://player.licenses4.me
+https://networkbest.ru.com/cdn/premium115/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="CanalPlusSport2Poland.pl" tvg-logo="https://i.imgur.com/p0k54D9.png" group-title="POLISH SPORTS",Canal + Sport Polska
-https://networkbest.ru.com/cdn/premium48/playlist.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTVLCOPT:http-referrer=https://player.licenses4.me
+https://networkbest.ru.com/cdn/premium48/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="CanalPlusSportPoland.pl" tvg-logo="https://i.imgur.com/Xz33IHR.png" group-title="POLISH SPORTS",Canal + Sport 2 Polska
-https://networkbest.ru.com/cdn/premium73/playlist.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTVLCOPT:http-referrer=https://player.licenses4.me
+https://networkbest.ru.com/cdn/premium73/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="ElevenSports1Poland.pl" tvg-logo="https://i.imgur.com/cSVAkg0.png" group-title="POLISH SPORTS",Eleven Sports 1 Polska
-https://networkbest.ru.com/cdn/premium71/playlist.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTVLCOPT:http-referrer=https://player.licenses4.me
+https://networkbest.ru.com/cdn/premium71/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="ElevenSports2Poland.pl" tvg-logo="https://i.imgur.com/TlNAO45.png" group-title="POLISH SPORTS",Eleven Sports 2 Polska
-https://networkbest.ru.com/cdn/premium72/playlist.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTVLCOPT:http-referrer=https://player.licenses4.me
+https://networkbest.ru.com/cdn/premium72/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="ElevenSports3Poland.pl" tvg-logo="https://i.imgur.com/fI2Hazk.png" group-title="POLISH SPORTS",Eleven Sports 3 Polska
 http://new-pro.tv:8080/mazen1/123456/71370
@@ -2862,22 +3021,32 @@ http://new-pro.tv:8080/mazen1/123456/71370
 http://new-pro.tv:8080/mazen1/123456/71368
 
 #EXTINF:-1 tvg-id="Eurosport1Poland.fr" tvg-logo="https://i.imgur.com/gwV31E0.png" group-title="POLISH SPORTS",Eurosport 1 Polska
-https://networkbest.ru.com/cdn/premium57/playlist.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTVLCOPT:http-referrer=https://player.licenses4.me
+https://networkbest.ru.com/cdn/premium57/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="Eurosport2Poland.fr" tvg-logo="https://i.imgur.com/lTnKDju.png" group-title="POLISH SPORTS",Eurosport 2 Polska
-https://networkbest.ru.com/cdn/premium58/playlist.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTVLCOPT:http-referrer=https://player.licenses4.me
+https://networkbest.ru.com/cdn/premium58/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="PolsatSport.pl" tvg-logo="https://i.imgur.com/pM6Q5n1.png" group-title="POLISH SPORTS",Polsat Sport
-https://networkbest.ru.com/cdn/premium47/playlist.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTVLCOPT:http-referrer=https://player.licenses4.me
+https://networkbest.ru.com/cdn/premium47/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="PolsatSportExtra.pl" tvg-logo="https://i.imgur.com/mnohjlI.png" group-title="POLISH SPORTS",Polsat Sport Extra
-https://networkbest.ru.com/cdn/premium50/playlist.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTVLCOPT:http-referrer=https://player.licenses4.me
+https://networkbest.ru.com/cdn/premium50/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="PolsatSportFight.pl" tvg-logo="https://i.imgur.com/eEQxLTd.png" group-title="POLISH SPORTS",Polsat Sport Fight
 http://new-pro.tv:8080/mazen1/123456/71295
 
 #EXTINF:-1 tvg-id="PolsatSportNews.pl" tvg-logo="https://i.imgur.com/QJIzCGa.png" group-title="POLISH SPORTS",Polsat Sport News
-https://networkbest.ru.com/cdn/premium129/playlist.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTVLCOPT:http-referrer=https://player.licenses4.me
+https://networkbest.ru.com/cdn/premium129/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IgONH1a.png" group-title="POLISH SPORTS",Polsat Sport Premium 1
 http://new-pro.tv:8080/mazen1/123456/71234
@@ -2886,14 +3055,17 @@ http://new-pro.tv:8080/mazen1/123456/71234
 http://new-pro.tv:8080/mazen1/123456/71233
 
 #EXTINF:-1 tvg-id="SportKlubPoland.pl"tvg-logo="https://i.imgur.com/IZWOLiJ.png" group-title="POLISH SPORTS",Sport Klub Polska
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9.0; MI 8 SE) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.119 Mobile Safari/537.36
 http://new-pro.tv:8080/mazen1/123456/71284
 
 #EXTINF:-1 tvg-id="TVPSport.pl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Logo_TVP_Sport.jpg" group-title="POLISH SPORTS",TVP Sport
-https://networkbest.ru.com/cdn/premium128/playlist.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTVLCOPT:http-referrer=https://player.licenses4.me
+https://networkbest.ru.com/cdn/premium128/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="CanalPlusSportFrance.fr" tvg-logo="https://i.imgur.com/p0k54D9.png" group-title="FRENCH SPORTS",Canal + Sport France
-https://networkbest.ru.com/cdn/premium122/playlist.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTVLCOPT:http-referrer=https://player.licenses4.me
+https://networkbest.ru.com/cdn/premium122/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hyjk6Wx.png" group-title="FRENCH SPORTS",Foot+ 24/24
 http://new-pro.tv:8080/mazen1/123456/70707
@@ -2914,22 +3086,34 @@ http://new-pro.tv:8080/mazen1/123456/70683
 http://new-pro.tv:8080/mazen1/123456/70684
 
 #EXTINF:-1 tvg-id="RMCSport1.fr" tvg-logo="https://i.imgur.com/30785UJ.png" group-title="FRENCH SPORTS",RMC Sport 1
-https://networkbest.ru.com/cdn/premium119/playlist.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTVLCOPT:http-referrer=https://player.licenses4.me
+https://networkbest.ru.com/cdn/premium119/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="RMCSport2.fr" tvg-logo="https://i.imgur.com/5Rh2s8k.png" group-title="FRENCH SPORTS",RMC Sport 2
-https://networkbest.ru.com/cdn/premium120/playlist.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTVLCOPT:http-referrer=https://player.licenses4.me
+https://networkbest.ru.com/cdn/premium120/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kaUN9Uw.png" group-title="ROMANIAN SPORTS",Digi Sport 1
-https://networkbest.ru.com/cdn/premium400/playlist.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTVLCOPT:http-referrer=https://player.licenses4.me
+https://networkbest.ru.com/cdn/premium400/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xxLvKJD.png" group-title="ROMANIAN SPORTS",Digi Sport 2
-https://networkbest.ru.com/cdn/premium401/playlist.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTVLCOPT:http-referrer=https://player.licenses4.me
+https://networkbest.ru.com/cdn/premium401/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WiynV2K.png" group-title="ROMANIAN SPORTS",Digi Sport 3
-https://networkbest.ru.com/cdn/premium402/playlist.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTVLCOPT:http-referrer=https://player.licenses4.me
+https://networkbest.ru.com/cdn/premium402/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kBsQd2d.png" group-title="ROMANIAN SPORTS",Digi Sport 4
-https://networkbest.ru.com/cdn/premium403/playlist.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTVLCOPT:http-referrer=https://player.licenses4.me
+https://networkbest.ru.com/cdn/premium403/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gwV31E0.png" group-title="ROMANIAN SPORTS",Eurosport 1 Romania
 http://new-pro.tv:8080/mazen1/123456/145779
@@ -2950,16 +3134,24 @@ https://stream1.1616.ro:1945/looksport3/livestream/playlist.m3u8?wowzatokenhash=
 https://stream1.1616.ro:1945/lookplus/livestream/playlist.m3u8?wowzatokenhash=NqSD4qaHc94SbTW05NBB-lXC78ZiAOIbnbUBOHj1DAM=
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4mc9xs0.png" group-title="ROMANIAN SPORTS",Orange Sport 1
-https://networkbest.ru.com/cdn/premium439/playlist.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTVLCOPT:http-referrer=https://player.licenses4.me
+https://networkbest.ru.com/cdn/premium439/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2DY6BwT.png" group-title="ROMANIAN SPORTS",Orange Sport 2
-https://networkbest.ru.com/cdn/premium440/playlist.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTVLCOPT:http-referrer=https://player.licenses4.me
+https://networkbest.ru.com/cdn/premium440/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gSQTD0Q.png" group-title="ROMANIAN SPORTS",Orange Sport 3
-https://networkbest.ru.com/cdn/premium441/playlist.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTVLCOPT:http-referrer=https://player.licenses4.me
+https://networkbest.ru.com/cdn/premium441/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/M6o25QC.png" group-title="ROMANIAN SPORTS",Orange Sport 4
-https://networkbest.ru.com/cdn/premium442/playlist.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTVLCOPT:http-referrer=https://player.licenses4.me
+https://networkbest.ru.com/cdn/premium442/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gwV31E0.png" group-title="ITALIAN SPORTS",Eurosport 1 Italia
 http://new-pro.tv:8080/mazen1/123456/67146
@@ -3001,10 +3193,14 @@ http://new-pro.tv:8080/mazen1/123456/116103
 http://new-pro.tv:8080/mazen1/123456/73769
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CSBS4Ff.png" group-title="GERMAN SPORTS",DAZN 1
-https://networkbest.ru.com/cdn/premium426/playlist.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTVLCOPT:http-referrer=https://player.licenses4.me
+https://networkbest.ru.com/cdn/premium426/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/m5c18XU.png" group-title="GERMAN SPORTS",DAZN 2
-https://networkbest.ru.com/cdn/premium427/playlist.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTVLCOPT:http-referrer=https://player.licenses4.me
+https://networkbest.ru.com/cdn/premium427/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gwV31E0.png" group-title="GERMAN SPORTS",Eurosport 1 Germany
 http://new-pro.tv:8080/mazen1/123456/116072
@@ -3028,51 +3224,80 @@ http://new-pro.tv:8080/mazen1/123456/116076
 http://new-pro.tv:8080/mazen1/123456/116079
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Sport-Digital.svg/1920px-Sport-Digital.svg.png" group-title="GERMAN SPORTS",sportdigital
-https://networkbest.ru.com/cdn/premium571/playlist.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTVLCOPT:http-referrer=https://player.licenses4.me
+https://networkbest.ru.com/cdn/premium571/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fubqEnF.png" group-title="SPANISH SPORTS",#Vamos
-https://networkbest.ru.com/cdn/premium521/playlist.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTVLCOPT:http-referrer=https://player.licenses4.me
+https://networkbest.ru.com/cdn/premium521/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CSBS4Ff.png" group-title="SPANISH SPORTS",DAZN 1 España
-https://networkbest.ru.com/cdn/premium445/playlist.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTVLCOPT:http-referrer=https://player.licenses4.me
+https://networkbest.ru.com/cdn/premium445/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/m5c18XU.png" group-title="SPANISH SPORTS",DAZN 2 España
-https://networkbest.ru.com/cdn/premium446/playlist.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTVLCOPT:http-referrer=https://player.licenses4.me
+https://networkbest.ru.com/cdn/premium446/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YiFmUxC.png" group-title="SPANISH SPORTS",DAZN 3 España
-https://networkbest.ru.com/cdn/premium447/playlist.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTVLCOPT:http-referrer=https://player.licenses4.me
+https://networkbest.ru.com/cdn/premium447/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aiZCV4i.png" group-title="SPANISH SPORTS",DAZN 4 España
 http://new-pro.tv:8080/mazen1/123456/298517
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rqSPxoU.png" group-title="SPANISH SPORTS",DAZN F1
-https://networkbest.ru.com/cdn/premium537/playlist.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTVLCOPT:http-referrer=https://player.licenses4.me
+https://networkbest.ru.com/cdn/premium537/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gwV31E0.png" group-title="SPANISH SPORTS",Eurosport 1
-https://networkbest.ru.com/cdn/premium524/playlist.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTVLCOPT:http-referrer=https://player.licenses4.me
+https://networkbest.ru.com/cdn/premium524/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lTnKDju.png" group-title="SPANISH SPORTS",Eurosport 2
-https://networkbest.ru.com/cdn/premium525/playlist.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTVLCOPT:http-referrer=https://player.licenses4.me
+https://networkbest.ru.com/cdn/premium525/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Gol.svg/1920px-Gol.svg.png" group-title="SPANISH SPORTS",Gol
-https://networkbest.ru.com/cdn/premium530/playlist.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTVLCOPT:http-referrer=https://player.licenses4.me
+https://networkbest.ru.com/cdn/premium530/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xsYGFyy.png" group-title="SPANISH SPORTS",Movistar Deportes
-https://networkbest.ru.com/cdn/premium436/playlist.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTVLCOPT:http-referrer=https://player.licenses4.me
+https://networkbest.ru.com/cdn/premium436/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WYIpWC0.png" group-title="SPANISH SPORTS",Movistar Golf
-https://networkbest.ru.com/cdn/premium528/playlist.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTVLCOPT:http-referrer=https://player.licenses4.me
+https://networkbest.ru.com/cdn/premium528/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QlDOQ7i.png" group-title="SPANISH SPORTS",Movistar LaLiga
 http://new-pro.tv:8080/mazen1/123456/71660
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vnKI1Oo.png" group-title="SPANISH SPORTS",Movistar Liga de Campeones
-https://networkbest.ru.com/cdn/premium435/playlist.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTVLCOPT:http-referrer=https://player.licenses4.me
+https://networkbest.ru.com/cdn/premium435/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Teledeporte.svg/1280px-Teledeporte.svg.png" group-title="SPANISH SPORTS",Teledeporte
-https://networkbest.ru.com/cdn/premium529/playlist.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTVLCOPT:http-referrer=https://player.licenses4.me
+https://networkbest.ru.com/cdn/premium529/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qfVunzp.png" group-title="PORTUGUESE SPORTS",Canal 11
+http://45.92.69.72:8000/play/a0ge
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qfVunzp.png" group-title="PORTUGUESE SPORTS",Canal 11 Internacional
 https://d2ve4fchffi4n1.cloudfront.net/out/v1/df356edd16f3434ab417f2c48cb1d516/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gwV31E0.png" group-title="PORTUGUESE SPORTS",Eurosport 1
@@ -3100,10 +3325,14 @@ http://62.28.71.186:45678/http/192.168.150.137:7137/eleven5
 http://62.28.71.186:45678/http/192.168.150.137:7137/eleven6
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pcAhRs8.png" group-title="PORTUGUESE SPORTS",Sport TV 1
-https://networkbest.ru.com/cdn/premium49/playlist.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTVLCOPT:http-referrer=https://player.licenses4.me
+https://networkbest.ru.com/cdn/premium49/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CPt6Fsg.png" group-title="PORTUGUESE SPORTS",Sport TV 2
-https://networkbest.ru.com/cdn/premium74/playlist.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTVLCOPT:http-referrer=https://player.licenses4.me
+https://networkbest.ru.com/cdn/premium74/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wbhOsK2.png" group-title="PORTUGUESE SPORTS",Sport TV 3
 http://new-pro.tv:8080/mazen1/123456/72022
@@ -3137,34 +3366,34 @@ http://iptv12k.com:35461/live/80301070602/456776/688.m3u8
 http://iptv12k.com:35461/live/80301070602/456776/965.m3u8
 
 #EXTINF:-1 tvg-id="AstroCricket.my" tvg-logo="https://i.imgur.com/DhbmBsD.png" group-title="MALAY SPORTS",Astro Cricket
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=0a5ce785d63f164f5be079a0aa9b6210&key=d388cbf715f1bb08901a55a7db7f26c0
-https://networkbest.ru.com/cdn/premium370/playlist.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTVLCOPT:http-referrer=https://player.licenses4.me
+https://networkbest.ru.com/cdn/premium370/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="AstroSuperSport.my" tvg-logo="https://i.imgur.com/X2WVnWr.png" group-title="MALAY SPORTS",Astro Supersport
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=6d2d84310d3fb9230404a1fbf5b33d10&key=8be93a0a6b41efad87096080bc55211a
-https://networkbest.ru.com/cdn/premium123/playlist.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTVLCOPT:http-referrer=https://player.licenses4.me
+https://networkbest.ru.com/cdn/premium123/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="AstroSuperSport2.my" tvg-logo="https://i.imgur.com/AZQ0xgp.png" group-title="MALAY SPORTS",Astro Supersport 2
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=369ee7aba1e1504f85366b899d81ef10&key=299fbf0f774920858ff4fabf0afbe6b7
-https://networkbest.ru.com/cdn/premium124/playlist.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTVLCOPT:http-referrer=https://player.licenses4.me
+https://networkbest.ru.com/cdn/premium124/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="AstroSuperSport3.my" tvg-logo="https://i.imgur.com/cMYSM6e.png" group-title="MALAY SPORTS",Astro Supersport 3
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=a522db0e2c8b90c38b64187018648a10&key=cf66fd59fe28f45418628313e06d52da
-https://networkbest.ru.com/cdn/premium125/playlist.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTVLCOPT:http-referrer=https://player.licenses4.me
+https://networkbest.ru.com/cdn/premium125/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="AstroSuperSport4.my" tvg-logo="https://i.imgur.com/PlwrDwx.png" group-title="MALAY SPORTS",Astro Supersport 4
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=0f38843b85760decb7a30fde6af3ff10&key=9c50a5c2b6219463f05c5d8f9f42892e
-https://networkbest.ru.com/cdn/premium126/playlist.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTVLCOPT:http-referrer=https://player.licenses4.me
+https://networkbest.ru.com/cdn/premium126/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="AstroSuperSport5.my" tvg-logo="https://i.imgur.com/FieopQP.png" group-title="MALAY SPORTS",Astro Supersport 5
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=113d6e58ea7e223e3fb4a9af3e927010&key=dc86f5d82e5dfaa0fbb22d220e023b7c
-https://networkbest.ru.com/cdn/premium43/playlist.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTVLCOPT:http-referrer=https://player.licenses4.me
+https://networkbest.ru.com/cdn/premium43/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="RTMK05" tvg-logo="https://i.imgur.com/8NC0zoQ.png" tvg-url="https://raw.githubusercontent.com/samleong123/rtm-live/main/rtmklik.xml" group-title="MALAY SPORTS",TV Sukan
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
@@ -3251,10 +3480,14 @@ http://new-pro.tv:8080/mazen1/123456/33525
 http://new-pro.tv:8080/mazen1/123456/180131
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1920px-ESPN_wordmark.svg.png" group-title="DUTCH SPORTS",ESPN Nederland
-https://networkbest.ru.com/cdn/premium379/playlist.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTVLCOPT:http-referrer=https://player.licenses4.me
+https://networkbest.ru.com/cdn/premium379/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/1280px-ESPN2_logo.svg.png" group-title="DUTCH SPORTS",ESPN 2 Nederland
-https://networkbest.ru.com/cdn/premium386/playlist.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTVLCOPT:http-referrer=https://player.licenses4.me
+https://networkbest.ru.com/cdn/premium386/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Crvxgth.png" group-title="DUTCH SPORTS",ESPN 3 Nederland
 http://new-pro.tv:8080/mazen1/123456/101787
@@ -3275,34 +3508,52 @@ http://new-pro.tv:8080/mazen1/123456/297144
 http://new-pro.tv:8080/mazen1/123456/33473
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SrorhG7.png" group-title="DUTCH SPORTS",Ziggo Sport Racing
-https://networkbest.ru.com/cdn/premium396/playlist.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTVLCOPT:http-referrer=https://player.licenses4.me
+https://networkbest.ru.com/cdn/premium396/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8DlO0BF.png" group-title="DUTCH SPORTS",Ziggo Sport Select
-https://networkbest.ru.com/cdn/premium393/playlist.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTVLCOPT:http-referrer=https://player.licenses4.me
+https://networkbest.ru.com/cdn/premium393/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bv3ffoA.png" group-title="DUTCH SPORTS",Ziggo Sport Tennis
 http://new-pro.tv:8080/mazen1/123456/33472
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aufKGRo.png" group-title="DUTCH SPORTS",Ziggo Sport Voetbal
-https://networkbest.ru.com/cdn/premium398/playlist.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTVLCOPT:http-referrer=https://player.licenses4.me
+https://networkbest.ru.com/cdn/premium398/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8A0aYWf.png" group-title="SERBIAN SPORTS",Arena Premium 1
-https://networkbest.ru.com/cdn/premium134/playlist.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTVLCOPT:http-referrer=https://player.licenses4.me
+https://networkbest.ru.com/cdn/premium134/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/S4EVsjl.png" group-title="SERBIAN SPORTS",Arena Premium 2
-https://networkbest.ru.com/cdn/premium135/playlist.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTVLCOPT:http-referrer=https://player.licenses4.me
+https://networkbest.ru.com/cdn/premium135/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uzrDNI5.png" group-title="SERBIAN SPORTS",Arena Premium 3
-https://networkbest.ru.com/cdn/premium139/playlist.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTVLCOPT:http-referrer=https://player.licenses4.me
+https://networkbest.ru.com/cdn/premium139/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/50ZGo5V.png" group-title="SERBIAN SPORTS",Arena Sport 1
-https://networkbest.ru.com/cdn/premium429/playlist.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTVLCOPT:http-referrer=https://player.licenses4.me
+https://networkbest.ru.com/cdn/premium429/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/V72XapO.png" group-title="SERBIAN SPORTS",Arena Sport 2
-https://networkbest.ru.com/cdn/premium430/playlist.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTVLCOPT:http-referrer=https://player.licenses4.me
+https://networkbest.ru.com/cdn/premium430/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Yw1kdh5.png" group-title="SERBIAN SPORTS",Arena Sport 3
-https://networkbest.ru.com/cdn/premium431/playlist.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTVLCOPT:http-referrer=https://player.licenses4.me
+https://networkbest.ru.com/cdn/premium431/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/a3Rma7Z.png" group-title="SERBIAN SPORTS",Arena Sport 4
 http://new-pro.tv:8080/mazen1/123456/57094
@@ -3311,31 +3562,45 @@ http://new-pro.tv:8080/mazen1/123456/57094
 http://new-pro.tv:8080/mazen1/123456/57099
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zKcn8DZ.png" group-title="SERBIAN SPORTS",Sport Klub
-https://networkbest.ru.com/cdn/premium453/playlist.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
+https://networkbest.ru.com/cdn/premium453/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HjhiW62.png" group-title="SERBIAN SPORTS",Sport Klub 1
-https://networkbest.ru.com/cdn/premium101/playlist.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTVLCOPT:http-referrer=https://player.licenses4.me
+https://networkbest.ru.com/cdn/premium101/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bqtc41i.png" group-title="SERBIAN SPORTS",Sport Klub 2
-https://networkbest.ru.com/cdn/premium102/playlist.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTVLCOPT:http-referrer=https://player.licenses4.me
+https://networkbest.ru.com/cdn/premium102/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7CvFh8W.png" group-title="SERBIAN SPORTS",Sport Klub 3
-https://networkbest.ru.com/cdn/premium103/playlist.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTVLCOPT:http-referrer=https://player.licenses4.me
+https://networkbest.ru.com/cdn/premium103/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5PBRYFZ.png" group-title="SERBIAN SPORTS",Sport Klub 4
-https://networkbest.ru.com/cdn/premium104/playlist.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTVLCOPT:http-referrer=https://player.licenses4.me
+https://networkbest.ru.com/cdn/premium104/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4mkAAJk.png" group-title="SERBIAN SPORTS",Sport Klub Golf
 http://new-pro.tv:8080/mazen1/123456/33406
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/50ZGo5V.png" group-title="CROATIAN SPORTS",Arena Sport 1 Hrvatska
-https://networkbest.ru.com/cdn/premium432/playlist.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTVLCOPT:http-referrer=https://player.licenses4.me
+https://networkbest.ru.com/cdn/premium432/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/V72XapO.png" group-title="CROATIAN SPORTS",Arena Sport 2 Hrvatska
-https://networkbest.ru.com/cdn/premium433/playlist.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTVLCOPT:http-referrer=https://player.licenses4.me
+https://networkbest.ru.com/cdn/premium433/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Yw1kdh5.png" group-title="CROATIAN SPORTS",Arena Sport 3 Hrvatska
-https://networkbest.ru.com/cdn/premium434/playlist.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTVLCOPT:http-referrer=https://player.licenses4.me
+https://networkbest.ru.com/cdn/premium434/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/a3Rma7Z.png" group-title="CROATIAN SPORTS",Arena Sport 4 Hrvatska
 http://new-pro.tv:8080/mazen1/123456/33347
@@ -3371,13 +3636,19 @@ https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/playlist.m3u8
 https://d3junmnzdfp8ej.cloudfront.net/hls/tv_720p30.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xgLeXwi.png" group-title="LATINO SPORTS",ESPN Premium
-https://networkbest.ru.com/cdn/premium387/playlist.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTVLCOPT:http-referrer=https://player.licenses4.me
+https://networkbest.ru.com/cdn/premium387/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1920px-ESPN_wordmark.svg.png" group-title="LATINO SPORTS",ESPN Latin America
-https://networkbest.ru.com/cdn/premium149/playlist.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTVLCOPT:http-referrer=https://player.licenses4.me
+https://networkbest.ru.com/cdn/premium149/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/1280px-ESPN2_logo.svg.png" group-title="LATINO SPORTS",ESPN 2 Latin America
-https://networkbest.ru.com/cdn/premium150/playlist.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTVLCOPT:http-referrer=https://player.licenses4.me
+https://networkbest.ru.com/cdn/premium150/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Crvxgth.png" group-title="LATINO SPORTS",ESPN 3 Latin America
 http://new-pro.tv:8080/mazen1/123456/73558
@@ -3422,19 +3693,29 @@ https://d14a5mi0m64mw7.cloudfront.net/out/v1/8a240d2e8a64453da6288810ede90a60/in
 http://189.91.128.146:4444/udp/227.10.20.119:1234
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ed/Canal-combate-logo.png" group-title="BRASILIAN SPORTS",Combate
-http://limetv.me:80/live/4719wil/452540/89877.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTVLCOPT:http-referrer=https://player.licenses4.me
+https://srv.vhls.ru.com/cdn/premium89/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1920px-ESPN_wordmark.svg.png" group-title="BRASILIAN SPORTS",ESPN Brasil
-http://limetv.me:80/live/4719wil/452540/89962.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTVLCOPT:http-referrer=https://player.licenses4.me
+https://srv.vhls.ru.com/cdn/premium81/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/1280px-ESPN2_logo.svg.png" group-title="BRASILIAN SPORTS",ESPN 2 Brasil
-http://limetv.me:80/live/4719wil/452540/89970.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTVLCOPT:http-referrer=https://player.licenses4.me
+https://srv.vhls.ru.com/cdn/premium82/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Crvxgth.png" group-title="BRASILIAN SPORTS",ESPN 3 Brasil
-http://limetv.me:80/live/4719wil/452540/89974.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTVLCOPT:http-referrer=https://player.licenses4.me
+https://srv.vhls.ru.com/cdn/premium83/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/89RCPvg.png" group-title="BRASILIAN SPORTS",ESPN 4 Brasil
-http://limetv.me:80/live/4719wil/452540/95437.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTVLCOPT:http-referrer=https://player.licenses4.me
+https://srv.vhls.ru.com/cdn/premium85/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sIUdUaB.png" group-title="BRASILIAN SPORTS",ESPN Extra Brasil
 http://limetv.me:80/live/4719wil/452540/89966.m3u8
@@ -3443,16 +3724,24 @@ http://limetv.me:80/live/4719wil/452540/89966.m3u8
 http://170.82.200.38:8080/fox_sports_2/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/a2/Logo_Premiere_FC_2018.png" group-title="BRASILIAN SPORTS",Premiere Clubes
-http://limetv.me:80/live/4719wil/452540/90236.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTVLCOPT:http-referrer=https://player.licenses4.me
+https://srv.vhls.ru.com/cdn/premium88/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iweh0Li.png" group-title="BRASILIAN SPORTS",SporTV
-http://limetv.me:80/live/4719wil/452540/90328.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTVLCOPT:http-referrer=https://player.licenses4.me
+https://srv.vhls.ru.com/cdn/premium78/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AAdoNsr.png" group-title="BRASILIAN SPORTS",SporTV 2
-http://limetv.me:80/live/4719wil/452540/90320.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTVLCOPT:http-referrer=https://player.licenses4.me
+https://srv.vhls.ru.com/cdn/premium79/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RcpUcYG.png" group-title="BRASILIAN SPORTS",SporTV 3
-http://limetv.me:80/live/4719wil/452540/90324.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTVLCOPT:http-referrer=https://player.licenses4.me
+https://srv.vhls.ru.com/cdn/premium80/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1920px-ESPN_wordmark.svg.png" group-title="AFRICAN SPORTS",ESPN Africa
 http://new-pro.tv:8080/mazen1/123456/112582
@@ -4285,7 +4574,9 @@ https://s13.tntendirect.com/6ter/live/playlist.m3u8
 http://callofliberty.fr/stream/C8/master.m3u8
 
 #EXTINF:-1 tvg-id="CanalPlusFrance.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Canal%2B.svg/1920px-Canal%2B.svg.png" group-title="FRANCE",Canal+
-https://networkbest.ru.com/cdn/premium121/playlist.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTVLCOPT:http-referrer=https://player.licenses4.me
+https://networkbest.ru.com/cdn/premium121/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="CStar.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/CStar_vector.svg/1920px-CStar_vector.svg.png" group-title="FRANCE",CStar
 http://callofliberty.fr/stream/CSTAR/master.m3u8
@@ -4417,16 +4708,20 @@ http://144.217.70.181:9587/hin2/ZOOM/tracks-v1a1/mono.m3u8
 https://dx4452e0qv6r9.cloudfront.net/tg4_vod_national_3000_.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e4/RT%C3%89_One_2014.svg/1920px-RT%C3%89_One_2014.svg.png" group-title="IRELAND",RTÉ One
-https://networkbest.ru.com/cdn/premium364/playlist.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTVLCOPT:http-referrer=https://player.licenses4.me
+https://networkbest.ru.com/cdn/premium364/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/11/RT%C3%892_logo.svg/1920px-RT%C3%892_logo.svg.png" group-title="IRELAND",RTÉ2
-https://networkbest.ru.com/cdn/premium365/playlist.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTVLCOPT:http-referrer=https://player.licenses4.me
+https://networkbest.ru.com/cdn/premium365/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c9/Virgin_Media_One_logo.png" group-title="IRELAND",Virgin Media One
-http://new-pro.tv:8080/mazen1/123456/68554
+http://iptv12k.com:35461/live/80301070602/456776/5297.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4f/Virgin_Media_Two_logo.png" group-title="IRELAND",Virgin Media Two
-http://new-pro.tv:8080/mazen1/123456/68565
+http://iptv12k.com:35461/live/80301070602/456776/5370.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8b/Logo_cielo.png" group-title="ITALY",Cielo
 http://new-pro.tv:8080/mazen1/123456/67038
@@ -4616,7 +4911,9 @@ http://80.24.75.92:5555/udp/239.111.2.1:1234
 http://80.24.75.92:5555/udp/239.111.2.2:1234
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/c8Rk43x.png" group-title="NETHERLANDS",RTL 7
-http://new-pro.tv:8080/mazen1/123456/21316
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTVLCOPT:http-referrer=https://player.licenses4.me
+https://srv.vhls.ru.com/cdn/premium390/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/92/RTL_8_logo_2017.png" group-title="NETHERLANDS",RTL 8
 http://80.24.75.92:5555/udp/239.111.2.4:1234
@@ -4652,7 +4949,9 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/PTVPh
 https://iptv-sniper.herokuapp.com/localtv.php?channel=8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Polsat_2021_gradient.svg/1200px-Polsat_2021_gradient.svg.png" group-title="POLAND",Polsat
-https://networkbest.ru.com/cdn/premium562/playlist.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTVLCOPT:http-referrer=https://player.licenses4.me
+https://networkbest.ru.com/cdn/premium562/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Polsat_2_2021_gradient.svg/1024px-Polsat_2_2021_gradient.svg.png" group-title="POLAND",Polsat 2
 http://new-pro.tv:8080/mazen1/123456/71313
@@ -4667,16 +4966,22 @@ http://new-pro.tv:8080/mazen1/123456/71263
 http://new-pro.tv:8080/mazen1/123456/71262
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/TVN_logo.svg/1200px-TVN_logo.svg.png" group-title="POLAND",TVN
-https://networkbest.ru.com/cdn/premium565/playlist.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTVLCOPT:http-referrer=https://player.licenses4.me
+https://networkbest.ru.com/cdn/premium565/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/TVN7_logo_2021.svg/1280px-TVN7_logo_2021.svg.png" group-title="POLAND",TVN 7
 http://new-pro.tv:8080/mazen1/123456/71274
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TVP1_2021_box-1.svg/1920px-TVP1_2021_box-1.svg.png" group-title="POLAND",TVP 1
-https://networkbest.ru.com/cdn/premium560/playlist.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTVLCOPT:http-referrer=https://player.licenses4.me
+https://networkbest.ru.com/cdn/premium560/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/TVP2_2021_box-1.svg/1920px-TVP2_2021_box-1.svg.png" group-title="POLAND",TVP 2
-https://networkbest.ru.com/cdn/premium561/playlist.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTVLCOPT:http-referrer=https://player.licenses4.me
+https://networkbest.ru.com/cdn/premium561/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/RTP1_-_Logo_2016.svg/1920px-RTP1_-_Logo_2016.svg.png" group-title="PORTUGAL",RTP 1
 #KODIPROP:inputstream=inputstream.adaptive
@@ -4764,22 +5069,34 @@ http://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/chunklist_b1703000.m3u8
 https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
 
 #EXTINF:-1 tvg-id="Antena3.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Antena_3_%282017%29.svg/1024px-Antena_3_%282017%29.svg.png" group-title="SPAIN",Antena 3
-https://networkbest.ru.com/cdn/premium531/playlist.m3u8|Referer=https://player.licenses4.me
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTVLCOPT:http-referrer=https://player.licenses4.me
+https://networkbest.ru.com/cdn/premium531/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="Cuatro.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Cuatro.svg/1920px-Cuatro.svg.png" group-title="SPAIN",Cuatro
-https://networkbest.ru.com/cdn/premium535/playlist.m3u8|Referer=https://player.licenses4.me
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTVLCOPT:http-referrer=https://player.licenses4.me
+https://networkbest.ru.com/cdn/premium535/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="La1.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Logo_TVE-1.svg/1024px-Logo_TVE-1.svg.png" group-title="SPAIN",La 1
-https://networkbest.ru.com/cdn/premium533/playlist.m3u8|Referer=https://player.licenses4.me
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTVLCOPT:http-referrer=https://player.licenses4.me
+https://networkbest.ru.com/cdn/premium533/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="La2.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Logo_TVE-2.svg/1024px-Logo_TVE-2.svg.png" group-title="SPAIN",La 2
-https://networkbest.ru.com/cdn/premium536/playlist.m3u8|Referer=https://player.licenses4.me
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTVLCOPT:http-referrer=https://player.licenses4.me
+https://networkbest.ru.com/cdn/premium536/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="LaSexta.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/La_Sexta_%28A3M%29.svg/188px-La_Sexta_%28A3M%29.svg.png" group-title="SPAIN",La Sexta
-https://networkbest.ru.com/cdn/premium534/playlist.m3u8|Referer=https://player.licenses4.me
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTVLCOPT:http-referrer=https://player.licenses4.me
+https://networkbest.ru.com/cdn/premium534/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="Telecinco.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Telecinco_2012_Large.svg/800px-Telecinco_2012_Large.svg.png" group-title="SPAIN",Telecinco
-https://networkbest.ru.com/cdn/premium532/playlist.m3u8|Referer=https://player.licenses4.me
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTVLCOPT:http-referrer=https://player.licenses4.me
+https://networkbest.ru.com/cdn/premium532/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/8/8a/CTS_Logo.png" group-title="TAIWAN",CTS 華視
 rtmp://59.124.75.157/sat/tv111
