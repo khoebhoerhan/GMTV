@@ -2305,7 +2305,7 @@ https://tezlive-amd.akamaized.net/hls/live/2016145/tez/tezlive/tez_5/chunklist.m
 https://itvoign.multitvsolution.com/hls/inkhabar_itv_720_900k.m3u8
 
 #EXTINF:-1 tvg-id="IndiaTV.in" tvg-logo="https://i.imgur.com/BFsM05S.png" group-title="HINDI NEWS",India TV
-http://new-pro.tv:8080/mazen1/123456/84118
+https://iamsom5.vercel.app/api/autoq.php?c=India_TV
 
 #EXTINF:-1 tvg-id="NDTVIndia.in" tvg-logo="https://i.imgur.com/13hqQkh.png" group-title="HINDI NEWS",NDTV India
 https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/ndtvindiamaster.m3u8
@@ -2314,7 +2314,7 @@ https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/ndtvindiam
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x7t0g3i
 
 #EXTINF:-1 tvg-id="News18India.in" tvg-logo="https://i.imgur.com/1Oze9HT.png" group-title="HINDI NEWS",News 18 India
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/news18India/live
+https://iamsom5.vercel.app/api/autoq.php?c=IBN_7
 
 #EXTINF:-1 tvg-id="News24.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/News24_Logo.jpg" group-title="HINDI NEWS",News 24
 https://vidcdn.vidgyor.com/news24-origin/liveabr/news24-origin/live1/chunks.m3u8
@@ -3645,19 +3645,19 @@ https://networkbest.ru.com/cdn/premium149/tracks-v1a1/mono.m3u8
 https://networkbest.ru.com/cdn/premium150/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Crvxgth.png" group-title="LATINO SPORTS",ESPN 3 Latin America
-http://new-pro.tv:8080/mazen1/123456/73558
+https://cvi.cdn.rcs.net.ar/anevia/live/localdisk/ESPN3/SA_HLS/ESPN3-avc1_5999616=12-mp4a_68000_spa=4.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sIUdUaB.png" group-title="LATINO SPORTS",ESPN Extra Latin America
 http://new-pro.tv:8080/mazen1/123456/73573
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Au1Wa24.png" group-title="LATINO SPORTS",Fox Sports Latin America
-http://new-pro.tv:8080/mazen1/123456/73563
+https://cvi.cdn.rcs.net.ar/mnp/fox_sport_hls/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DpnatBM.png" group-title="LATINO SPORTS",Fox Sports 2 Latin America
-http://new-pro.tv:8080/mazen1/123456/318407
+https://cvi.cdn.rcs.net.ar/mnp/fox_sport2_hls/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/w8sjQN2.png" group-title="LATINO SPORTS",Fox Sports 3 Latin America
-http://new-pro.tv:8080/mazen1/123456/318406
+https://cvi.cdn.rcs.net.ar/mnp/fox_sport3_hls/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IyqLOSV.png" group-title="LATINO SPORTS",TNT Sports 
 https://5g9s179kfgx9wn8tqwj9-cul47i-edc.p5cdn.com/dlive/transcode-92-211/nqefwinooiewpeof/1646158252/src/live.m3u8
@@ -4096,9 +4096,6 @@ https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_mi
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7ZQRdle.png" group-title="FASHION",A3 Bikini Network
 https://vcnbikininetwork.teleosmedia.com/stream/bikininetwork/a3bikini/seglist_720p.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/AaQzkRP.png" group-title="FASHION",Playboy TV
-http://91.215.188.171:8001/play/69/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/I0xoFhv.png" group-title="LIFESTYLE",Lifestyle & Fashion
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MjhkOWZkZjYtOGViOC0zNTkzLWFhOWEtNGFhMzJkMDk3NGE2
@@ -4357,7 +4354,7 @@ https://live-01-02-eltrece.vodgc.net/eltrecetv/tracks-v1a1/mono.m3u8
 https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream1/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Oo5v6l5.png" group-title="ARGENTINA",Telefe
-http://new-pro.tv:8080/live/mazen1/123456/73543.m3u8
+https://cvi.cdn.rcs.net.ar/anevia/live/localdisk/Telefe/SA_HLS/Telefe-avc1_5999616=15-mp4a_60000_spa=19.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JVkemCh.png" group-title="ARGENTINA",Telemax
 http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/playlist.m3u8?PlaylistM3UCL
@@ -4684,7 +4681,7 @@ http://221.120.204.4/SONY-SAB-LOCKLE/tracks-v1a1/mono.m3u8
 http://103.72.179.30:1935/GECHindi/STAR_BHARAT.stream_720p/Playlist.m3u8
 
 #EXTINF:-1 tvg-id="StarPlus.in" tvg-logo="https://i.imgur.com/FFcPLin.png" group-title="INDIA",Star Plus
-http://208.86.19.13:81/607.stream/index.m3u8
+http://144.217.70.181:9587/hin2/STARPLUSHD/index.m3u8
 
 #EXTINF:-1 tvg-id="ZeeAnmol.in" tvg-logo="https://i.imgur.com/So1TvRL.png" group-title="INDIA",Zee Anmol
 http://208.115.215.42:80/ZEE_Anm0l_HD/tracks-v1a1/mono.m3u8
