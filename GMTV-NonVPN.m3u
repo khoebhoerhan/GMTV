@@ -994,12 +994,6 @@ http://rr.dens.tv/h/h90/index.m3u8
 #KODIPROP:inputstream.adaptive.license_key=09e9d9037bbc6d4eac45bdee4b718b10:05db97174848670a152d0b15f3dab994
 http://51.81.208.129:35461/live/80301062102/732099/722.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9v0WUqt.png" group-title="ASIAN MOVIES",HBO Taiwan
-http://50.7.220.74:8278/hbohd_twn/playlist.m3u8?tid=m8d785f4e022616401837&ct=17877&tsum=56e767abfc65234db52b017576b00403
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/OpAB6Hs.png" group-title="ASIAN MOVIES",Cinemax Taiwan
-http://50.7.220.74:8278/cinemax_twn/playlist.m3u8?tid=mf18038aaba6311485855&ct=17874&tsum=63ee6bcdb705ee72ea3d0f0d84ed6df1
-
 #EXTINF:-1 tvg-id="AstroBollyOneHD.my" tvg-logo="https://i.imgur.com/MsO0A7c.png" group-title="HINDI MOVIES",Astro BollyOne HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=cb6c0c34cd3b22efd444edfd21393c10&key=84750873ded43774b06b43b67717a708
@@ -4372,7 +4366,7 @@ http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/playlist.m3u8?PlaylistM3
 https://delivery.cdn.rcs.net.ar/mnp/tvp/output.mpd
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Seven_Network_logo.svg/800px-Seven_Network_logo.svg.png" group-title="AUSTRALIA",Seven
-http://new-pro.tv:8080/mazen1/123456/86747
+http://103.125.191.32:9981/stream/channelid/966639205?profile=cvaceplus
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/96/7two_logo_2020.svg/1920px-7two_logo_2020.svg.png" group-title="AUSTRALIA",7 two
 http://new-pro.tv:8080/mazen1/123456/86737
@@ -4384,10 +4378,10 @@ http://new-pro.tv:8080/mazen1/123456/86736
 http://new-pro.tv:8080/mazen1/123456/175190
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/52/Nine2012_Glossed_Logo.png" group-title="AUSTRALIA",Nine
-http://117.20.65.254:9981/stream/channelid/42747721
+http://103.125.191.32:9981/stream/channelid/30478497?profile=cvaceplus
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BwfInJN.png" group-title="AUSTRALIA",9 Gem
-http://117.20.65.254:9981/stream/channelid/1116797630
+http://103.125.191.32:9981/stream/channelid/2035435997?profile=cvaceplus
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ad/9Go%21_logo.png" group-title="AUSTRALIA",9 Go!
 http://117.20.65.254:9981/stream/channelid/1720794045
@@ -4396,13 +4390,13 @@ http://117.20.65.254:9981/stream/channelid/1720794045
 http://58.96.43.228:9981/stream/channelid/1716833621?ticket=CA20F6419ED4C5757185C4AAFF4AFA705CCBC778&profile=pass
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/86/Network_10_logo_2018.svg/800px-Network_10_logo_2018.svg.png" group-title="AUSTRALIA",Ten
-http://new-pro.tv:8080/mazen1/123456/86783
+http://103.125.191.32:9981/stream/channelid/635165106?profile=cvaceplus
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/10_Peach_logo_2018.svg/1920px-10_Peach_logo_2018.svg.png" group-title="AUSTRALIA",10 Peach
 http://58.96.43.228:9981/stream/channelid/945361245?ticket=94AA6B01B1461FAF2F3C934E67855AFFC40B7E40&profile=pass
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/10_Bold_2018.svg/1920px-10_Bold_2018.svg.png" group-title="AUSTRALIA",10 Bold
-http://58.96.43.228:9981/stream/channelid/1182005652?ticket=B866E57B2ECF253F5BC8FD294DEBB1EB8A5A3E55&profile=pass
+http://103.125.191.32:9981/stream/channelid/1445499768?profile=cvaceplus
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cc/10_Shake_logo_2020.svg/1920px-10_Shake_logo_2020.svg.png" group-title="AUSTRALIA",10 Shake
 http://58.96.43.228:9981/stream/channelid/1955373750?ticket=29E01CF850528FFC3E258BEFFCE234AC266386EB&profile=pass
@@ -4417,7 +4411,7 @@ https://c.mjh.nz/101002210221
 https://c.mjh.nz/abc2
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JjL3rq1.png" group-title="AUSTRALIA",SBS One
-http://new-pro.tv:8080/mazen1/123456/86755
+http://103.125.191.32:9981/stream/channelid/49598344?profile=cvaceplus
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3OGUuv1.png" group-title="AUSTRALIA",SBS Viceland
 http://new-pro.tv:8080/mazen1/123456/86756
