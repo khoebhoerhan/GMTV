@@ -1526,6 +1526,9 @@ http://189.91.128.146:4444/udp/227.10.20.160:1234
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jCXODcU.png" group-title="SPANISH NEWS",CNN en Español
 http://limetv.me:80/live/4719wil/452540/95423.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Jai0CTx.png" group-title="LATINO NEWS",CNN Chile
+http://new-pro.tv:8080/mazen1/123456/313083
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0XayB3p.png" group-title="INDIAN NEWS",CNN News 18
 https://iamsom5.vercel.app/api/autoq.php?c=CNN_NEWS_18
 
@@ -3857,6 +3860,63 @@ http://evpp.mm.uol.com.br:1935/ne10/ne10-tvjornal-caruaru-video-web.sdp/playlist
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/TV_Brasil_logo_2019.svg/1920px-TV_Brasil_logo_2019.svg.png" group-title="BRASIL",TV Brasil
 http://rtmp.cdn.upx.net.br/723b/myStream.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/aa/RTB_Aneka.png" group-title="BRUNEI",RTB Aneka
+https://d1211whpimeups.cloudfront.net/smil:rtb2/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c0/RTB_Sukmaindera.png" group-title="BRUNEI",RTB Sukmaindera
+https://d1211whpimeups.cloudfront.net/smil:rtb1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/ABC_Spark_Logo.png" group-title="CANADA",ABC Spark
+http://new-pro.tv:8080/mazen1/123456/69350
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/w2IwLlA.png" group-title="CANADA",CBC
+http://new-pro.tv:8080/mazen1/123456/69438
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h1GAgKq.png" group-title="CANADA",City TV
+http://new-pro.tv:8080/mazen1/123456/69444
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/CTV_logo_2018.svg/1920px-CTV_logo_2018.svg.png" group-title="CANADA",CTV
+http://new-pro.tv:8080/mazen1/123456/109675
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/CTV_2_2018.svg/1920px-CTV_2_2018.svg.png" group-title="CANADA",CTV 2
+http://new-pro.tv:8080/mazen1/123456/122098
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/CTV_Life_Channel_2019.svg/800px-CTV_Life_Channel_2019.svg.png" group-title="CANADA",CTV Life Channel
+http://new-pro.tv:8080/mazen1/123456/302596
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lxbuF5X.png" group-title="CANADA",Global
+http://new-pro.tv:8080/mazen1/123456/302592
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cf/Current_Logo_of_Ici_Radio-Canada_T%C3%A9l%C3%A9_%282016-present%29.svg/1920px-Current_Logo_of_Ici_Radio-Canada_T%C3%A9l%C3%A9_%282016-present%29.svg.png" group-title="CANADA",Ici Télé
+http://new-pro.tv:8080/mazen1/123456/302593
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RyHlWek.png" group-title="CANADA",Omni 1
+http://new-pro.tv:8080/mazen1/123456/109681
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RyHlWek.png" group-title="CANADA",Omni 2
+http://new-pro.tv:8080/mazen1/123456/69371
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Logotipo_de_Canal_13.png/1024px-Logotipo_de_Canal_13.png" group-title="CHILE",Canal 13
+http://new-pro.tv:8080/mazen1/123456/313072
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zUykSnY.png" group-title="CHILE",ChileVisión
+http://new-pro.tv:8080/mazen1/123456/313075
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FvVU1mC.png" group-title="CHILE",La Red
+https://unlimited1-cl-isp.dps.live/lared/lared.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Mega_Chile_2020.png/1280px-Mega_Chile_2020.png" group-title="CHILE",Mega
+https://unlimited1-cl-isp.dps.live/mega/mega.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iz00wIP.png" group-title="CHILE",TV+
+http://new-pro.tv:8080/mazen1/123456/313087
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Logotipo_de_Televisi%C3%B3n_Nacional_de_Chile.svg/1920px-Logotipo_de_Televisi%C3%B3n_Nacional_de_Chile.svg.png" group-title="CHILE",TVN
+http://new-pro.tv:8080/mazen1/123456/313078
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Ucvtvlogo2014mejorado.png/1280px-Ucvtvlogo2014mejorado.png" group-title="CHILE",UCV
+http://unlimited6-cl.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/n61ReKT.png" group-title="CROATIA",Doma TV
 http://new-pro.tv:8080/mazen1/123456/55751
