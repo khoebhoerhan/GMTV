@@ -4212,16 +4212,21 @@ https://unifi-live05.secureswiftcontent.com/UnifiHD/live03.mpd
 #EXTVLCOPT:http-referer=https://www.dailymotion.com
 https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/TV9.m3u8
 
+#EXTINF:-1 tvg-id="TVS.my" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/92/TVS_Sarawak.jpg" group-title="MALAYSIA",TVS
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=dd600869fd5f4bfee286825f6d778b10&key=eb5b83acbbd79af479a00db92935a34b
+http://iptv12k.com:35461/live/80301070602/456776/745.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rdLxnli.png" group-title="VISUAL RADIO",Buletin FM
 https://raw.githubusercontent.com/AqFad2811/RadioYTLive/main/BuletinFM.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wk5GZkZ.png" group-title="VISUAL RADIO",ERA
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wk5GZkZ.png" group-title="VISUAL RADIO",ERA FM
 https://raw.githubusercontent.com/AqFad2811/RadioYTLive/main/ERA.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mMpqEvV.png" group-title="VISUAL RADIO",Fly FM
 https://raw.githubusercontent.com/AqFad2811/RadioYTLive/main/FlyFM.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bGvJ6py.png" group-title="VISUAL RADIO",Hitz
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bGvJ6py.png" group-title="VISUAL RADIO",Hitz FM
 https://raw.githubusercontent.com/AqFad2811/RadioYTLive/main/Hitz.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/w9WCFqr.png" group-title="VISUAL RADIO",Hot FM
@@ -4229,11 +4234,6 @@ https://raw.githubusercontent.com/AqFad2811/RadioYTLive/main/HotFM.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/p88EiHn.png" group-title="VISUAL RADIO",Suria
 https://raw.githubusercontent.com/AqFad2811/RadioYTLive/main/SuriaFM.m3u8
-
-#EXTINF:-1 tvg-id="TVS.my" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/92/TVS_Sarawak.jpg" group-title="MALAYSIA",TVS
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=dd600869fd5f4bfee286825f6d778b10&key=eb5b83acbbd79af479a00db92935a34b
-http://iptv12k.com:35461/live/80301070602/456776/745.m3u8
 
 #EXTINF:-1 tvg-id="Ch 5" tvg-logo="https://i.imgur.com/fakV73e.png" group-title="SINGAPORE",Channel 5
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -5590,7 +5590,7 @@ https://s2.radio.co/sa85100da7/listen
 https://playerservices.streamtheworld.com/api/livestream-redirect/BFMAAC.aac?dist=onlineradiobox
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rdLxnli.png" group-title="MALAY RADIO",Buletin FM
 https://mediaprima.rastream.com/mediaprima-koolfm
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wk5GZkZ.png" group-title="MALAY RADIO",ERA
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wk5GZkZ.png" group-title="MALAY RADIO",ERA FM
 https://astro2.rastream.com/era
 #EXTINF:-1 tvg-logo="https://i.imgur.com/T3h0Zfq.png" group-title="MALAY RADIO",ERA Sabah
 http://astro2.rastream.com/amp-era-kk
@@ -5598,7 +5598,7 @@ http://astro2.rastream.com/amp-era-kk
 http://astro2.rastream.com/amp-era-kch
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mMpqEvV.png" group-title="MALAY RADIO",Fly FM
 https://mediaprima.rastream.com/mediaprima-flyfm
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bGvJ6py.png" group-title="MALAY RADIO",Hitz
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bGvJ6py.png" group-title="MALAY RADIO",Hitz FM
 https://astro1.rastream.com/hitz?type=mp3
 #EXTINF:-1 tvg-logo="https://i.imgur.com/t9ARMsG.png" group-title="MALAY RADIO",Hitz Sabah
 https://astro1.rastream.com/amp-hitz-kk?type=mp3
