@@ -3336,6 +3336,9 @@ http://new-pro.tv:8080/mazen1/123456/178391
 #EXTINF:-1 tvg-logo="https://i.imgur.com/E3OjM1k.png" group-title="VIETNAMESE SPORTS",HTV Thể Thao
 http://cvmvnpt.duckdns.org:8000/htvtt
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dtLXIVL.png" group-title="VIETNAMESE SPORTS",On VFF
+https://onsportlive.vtvcab.vn/hls/ONVFFTV_CL/04.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OVqKDpJ.png" group-title="VIETNAMESE SPORTS",On Football
 #EXTVLCOPT:http-referer=http://sctvonline.vn
 https://e1.endpoint.cdn.sctvonline.vn/hls/vtvcab16/sd2/index.m3u8|Referer=http://sctvonline.vn/
@@ -3399,10 +3402,16 @@ http://ye23.win/iptv/sbs5.1.php?id=S02
 http://51.81.66.195:1935/krtv/sky_sports_540/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Bj0MyZQ.png" group-title="KOREAN SPORTS",SPOTV
-http://51.81.66.195:1935/krtv/spotv_540/playlist.m3u8
+http://live-kr.television4you.xyz/spotv/mpegts
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WbPfNOb.png" group-title="KOREAN SPORTS",SPOTV 2
-http://51.81.66.195:1935/krtv/spotv_2_540/playlist.m3u8
+http://live-kr.television4you.xyz/spotv2/mpegts
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9KCPKQU.png" group-title="KOREAN SPORTS",SPOTV Prime
+http://live-kr.television4you.xyz/spotvprime/mpegts
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9AmWHUo.png" group-title="KOREAN SPORTS",SPOTV Golf & Health
+http://live-kr.television4you.xyz/spotvgnh/mpegts
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/r27965c.png" group-title="THAI SPORTS",Golf Channel Thailand
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
