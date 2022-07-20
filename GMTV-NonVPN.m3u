@@ -944,6 +944,11 @@ https://stream-cdn.mncnow.id/live/eds/CelestialMovie/sa_dash_vmx/CelestialMovie.
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MjhkOWZkZjYtOGViOC0zNTkzLWFhOWEtNGFhMzJkMDk3NGE2
 https://stream-cdn.mncnow.id/live/eds/CelestialClassic/sa_dash_vmx/CelestialClassic.mpd
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cSho1qa.png" group-title="ASIAN MOVIES",K+ Cine
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=2761754f661634d49560631198dd3122&key=3617e340b77a76fa1232f4f6360157fd 
+https://kplus-livecdn.fptplay.net/MjQ4ODgxNTZ8MTQwMjIwMjJrMWNpbmVfMjAwMC5zdHJlYW18b3RoZXJ8MTY1MzEzMTU0MXwxMDMuMjAwLjIyLjIxMnw4NGY5NDhmYmI1MDUzY2JhN2EyNDg1NjA1NDk5Yjk1ZQ/drmlive/14022022k1cine_4000.stream/manifest.mpd
+
 #EXTINF:0 tvg-id="ZeeBioskop.id" tvg-logo="https://i.imgur.com/Krk8Lxa.png" group-title="HINDI MOVIES",Zee Bioskop
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MjhkOWZkZjYtOGViOC0zNTkzLWFhOWEtNGFhMzJkMDk3NGE2
@@ -3566,6 +3571,19 @@ http://new-pro.tv:8080/mazen1/123456/178391
 #EXTINF:-1 tvg-logo="https://i.imgur.com/E3OjM1k.png" group-title="VIETNAMESE SPORTS",HTV Thể Thao
 http://cvmvnpt.duckdns.org:8000/htvtt
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0oyD2wb.png" group-title="VIETNAMESE SPORTS",K+ Sport 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=1fe5426280a93352b2d7f36ff3422772&key=eb024058f8c54948a124d6239afd783e 
+https://smarttv-drm.fptplay.net/MjQ4ODgxNTZ8MTQwMjIwMjJrMXNwb3J0MWJveF8yMDAwLnN0cmVhbXxvdGhlcnwxNjUzMTMxNTI4fDEwMy4yMDAuMjIuMjEyfDc3NmY3NzI2NWU4YjJmZTBhOGRkY2QzYWU0YjUzZjBm/drmlive/14022022k1sport1box_4000.stream/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AcJPeLK.png" group-title="VIETNAMESE SPORTS",K+ Sport 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=f673aeef24dc3f4ba6437ef3b37cfa92&key=d485c33b5af849911b3b5fc212188098 
+https://kplus-livecdn.fptplay.net/MjQ4ODgxNTZ8MTQwMjIwMjJrMXNwb3J0Ml8yMDAwLnN0cmVhbXxvdGhlcnwxNjUzMTMxNTA0fDEwMy4yMDAuMjIuMjEyfGNiMzExOTU5NjRjYjk0YjQ0NjNjMGFmMjdkNTU1OTg2/drmlive/14022022k1sport2_4000.stream/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dtLXIVL.png" group-title="VIETNAMESE SPORTS",On VFF
+https://onsportlive.vtvcab.vn/hls/ONVFFTV_CL/04.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OVqKDpJ.png" group-title="VIETNAMESE SPORTS",On Football
 #EXTVLCOPT:http-referer=http://sctvonline.vn
 https://e1.endpoint.cdn.sctvonline.vn/hls/vtvcab16/sd2/index.m3u8|Referer=http://sctvonline.vn/
@@ -3577,6 +3595,14 @@ https://e3.endpoint.cdn.sctvonline.vn/secure/vtvcab3/index.m3u8?md5=ytdJ0cly8LCK
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eEXU8nf.png" group-title="VIETNAMESE SPORTS",On Sports+
 #EXTVLCOPT:http-referer=http://sctvonline.vn
 https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab6/index.m3u8|Referer=http://sctvonline.vn/
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZWZQHK8.png" group-title="VIETNAMESE SPORTS",On Sports News Premium
+https://sunnytv.xyz/nflq0wsOhkgzt7zperu8kmdjrx3/vip.php?id=cab18&user=sunny&pass=0796468789
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BKZQtrL.png" group-title="VIETNAMESE SPORTS",On Golf
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=dba4fb526fbc32eca4b92d381fb6965d&key=10581a41088722ba70b63ccb5ed18c07
+https://mzqcyrr2abliv.vcdn.cloud/live_CLzona01/vtvcab23.smil/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0rWQTDI.png" group-title="VIETNAMESE SPORTS", SCTV 15
 #EXTVLCOPT:http-referer=http://sctvonline.vn
@@ -3629,10 +3655,22 @@ http://ye23.win/iptv/sbs5.1.php?id=S02
 http://51.81.66.195:1935/krtv/sky_sports_540/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Bj0MyZQ.png" group-title="KOREAN SPORTS",SPOTV
-http://51.81.66.195:1935/krtv/spotv_540/playlist.m3u8
+http://live-kr.television4you.xyz/spotv/mpegts
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WbPfNOb.png" group-title="KOREAN SPORTS",SPOTV 2
-http://51.81.66.195:1935/krtv/spotv_2_540/playlist.m3u8
+http://live-kr.television4you.xyz/spotv2/mpegts
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9KCPKQU.png" group-title="KOREAN SPORTS",SPOTV Prime
+http://live-kr.television4you.xyz/spotvprime/mpegts
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Wqr27sL.png" group-title="KOREAN SPORTS",SPOTV On
+http://live-kr.television4you.xyz/spotvon/mpegts
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7gqJvK1.png" group-title="KOREAN SPORTS",SPOTV On 2
+http://live-kr.television4you.xyz/spotvon2/mpegts
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9AmWHUo.png" group-title="KOREAN SPORTS",SPOTV Golf & Health
+http://live-kr.television4you.xyz/spotvgnh/mpegts
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/r27965c.png" group-title="THAI SPORTS",Golf Channel Thailand
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
