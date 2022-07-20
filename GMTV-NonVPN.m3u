@@ -2149,7 +2149,7 @@ http://new-pro.tv:8080/mazen1/123456/71307
 http://new-pro.tv:8080/mazen1/123456/71308
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Tvn24_Logo.svg/800px-Tvn24_Logo.svg.png" group-title="POLISH NEWS",TVN 24
-http://new-pro.tv:8080/mazen1/123456/71275
+https://networkbest.ru.com/cdn/premium444/playlist.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cojVDUx.png" group-title="POLISH NEWS",Wydarzenia 24
 http://new-pro.tv:8080/mazen1/123456/71280
@@ -2626,7 +2626,7 @@ http://new-pro.tv:8080/mazen1/123456/271520
 #EXTINF:-1 tvg-id="beINSports1MalaysiaSingapore.my" tvg-logo="https://i.imgur.com/39bwyGI.png" group-title="MALAY SPORTS",beIN Sports 1 Malaysia & Singapore
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=d96d4ec1a73623b5789d78a48b829d10&key=1ca8dd93af16c84fa1ef5f1b761a03e3
-http://iptv12k.com:35461/live/80301070602/456776/9205.m3u8
+https://unifi-live05.secureswiftcontent.com/UnifiHD/live13.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NDp6TlM.png" group-title="MALAY SPORTS",beIN Sports 2 Malaysia & Singapore
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -2636,7 +2636,7 @@ http://iptv12k.com:35461/live/80301070602/456776/9204.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/j8VC6nB.png" group-title="MALAY SPORTS",beIN Sports 3 Malaysia & Singapore
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=ec837724b4265d2e127e65c542aee410&key=0ce930620687ab1df1cf6544f2dc0013
-http://iptv12k.com:35461/live/80301070602/456776/9203.m3u8
+https://unifi-live05.secureswiftcontent.com/UnifiHD/live14.m3u8
 
 #EXTINF:-1 tvg-id="beINSports1Thailand.th" tvg-logo="https://i.imgur.com/MRULdc8.png" group-title="THAI SPORTS",beIN Sports 1 Thailand
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
@@ -3587,11 +3587,11 @@ https://kplus-livecdn.fptplay.net/MjQ4ODgxNTZ8MTQwMjIwMjJrMXNwb3J0Ml8yMDAwLnN0cm
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dtLXIVL.png" group-title="VIETNAMESE SPORTS",On VFF
 https://onsportlive.vtvcab.vn/hls/ONVFFTV_CL/04.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/OVqKDpJ.png" group-title="VIETNAMESE SPORTS",On Football
+#EXTINF:-1 tvg-logo="https://i.imgur.com/o6H76IH.png" group-title="VIETNAMESE SPORTS",On Football
 #EXTVLCOPT:http-referer=http://sctvonline.vn
 https://e1.endpoint.cdn.sctvonline.vn/hls/vtvcab16/sd2/index.m3u8|Referer=http://sctvonline.vn/
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ix8Pm5R.png" group-title="VIETNAMESE SPORTS",On Sports
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dmmsw4d.png" group-title="VIETNAMESE SPORTS",On Sports
 #EXTVLCOPT:http-referer=http://sctvonline.vn
 https://e3.endpoint.cdn.sctvonline.vn/secure/vtvcab3/index.m3u8?md5=ytdJ0cly8LCK3zdy10OuxQ&expires=2556118740|Referer=http://sctvonline.vn/
 
@@ -3599,10 +3599,10 @@ https://e3.endpoint.cdn.sctvonline.vn/secure/vtvcab3/index.m3u8?md5=ytdJ0cly8LCK
 #EXTVLCOPT:http-referer=http://sctvonline.vn
 https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab6/index.m3u8|Referer=http://sctvonline.vn/
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZWZQHK8.png" group-title="VIETNAMESE SPORTS",On Sports News Premium
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4gwL4mU.png" group-title="VIETNAMESE SPORTS",On Sports News Premium
 https://sunnytv.xyz/nflq0wsOhkgzt7zperu8kmdjrx3/vip.php?id=cab18&user=sunny&pass=0796468789
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BKZQtrL.png" group-title="VIETNAMESE SPORTS",On Golf
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yDy4Lzz.png" group-title="VIETNAMESE SPORTS",On Golf
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=dba4fb526fbc32eca4b92d381fb6965d&key=10581a41088722ba70b63ccb5ed18c07
 https://mzqcyrr2abliv.vcdn.cloud/live_CLzona01/vtvcab23.smil/manifest.mpd
@@ -3979,22 +3979,22 @@ http://new-pro.tv:8080/mazen1/123456/72720
 http://new-pro.tv:8080/mazen1/123456/72722
 
 #EXTINF:-1 tvg-id="BBCAlba.uk" tvg-logo="https://i.imgur.com/Nvme1rf.png" group-title="UK",BBC Alba
-http://new-pro.tv:8080/mazen1/123456/68598
+http://iptv12k.com:35461/live/80301070602/456776/5290.m3u8
 
 #EXTINF:-1 tvg-id="BBCOneHD.uk" tvg-logo="https://i.imgur.com/oGzLsiq.png" group-title="UK",BBC One HD
-http://new-pro.tv:8080/mazen1/123456/68605
+https://networkbest.ru.com/cdn/premium356/playlist.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
 
 #EXTINF:-1 tvg-id="BBCTwoHD.uk" tvg-logo="https://i.imgur.com/iMfng6J.png" group-title="UK",BBC Two HD
-http://new-pro.tv:8080/mazen1/123456/68617
+https://networkbest.ru.com/cdn/premium357/playlist.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gcpSDKf.png" group-title="UK",BBC Three
-http://iptv12k.com:35461/80301070602/456776/4308
+http://iptv12k.com:35461/live/80301070602/456776/4308.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nywptTp.png" group-title="UK",BBC Four
 http://iptv12k.com:35461/80301070602/456776/4307
 
 #EXTINF:-1 tvg-id="BBCFour.uk" tvg-logo="https://i.imgur.com/kr2UTHB.png" group-title="UK",BBC Scotland
-http://new-pro.tv:8080/mazen1/123456/68597
+http://iptv12k.com:35461/live/80301070602/456776/5434.m3u8
 
 #EXTINF:-1 tvg-id="CBBC.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/37/CBBC_2016_logo.svg/800px-CBBC_2016_logo.svg.png" group-title="UK",CBBC
 http://ott.riotelecomm.es:4513/m3u8/CBBCHDFIBRA.m3u8
@@ -4003,7 +4003,7 @@ http://ott.riotelecomm.es:4513/m3u8/CBBCHDFIBRA.m3u8
 http://45.153.35.210:8000/play/UK_channel_4_sd/index.m3u8
 
 #EXTINF:-1 tvg-id="Channel5.uk" tvg-logo="https://i.imgur.com/itZR2eq.png" group-title="UK",Channel 5
-http://45.153.35.210:8000/play/UK_channel_5_sd/index.m3u8
+http://iptv12k.com:35461/live/80301070602/456776/5454.m3u8
 
 #EXTINF:-1 tvg-id="E4UK.uk" tvg-logo="https://i.imgur.com/yny6n9T.png" group-title="UK",E4 UK
 http://45.153.35.210:8000/play/UK_e4_sd/index.m3u8
@@ -4027,7 +4027,7 @@ http://ott.riotelecomm.es:4513/m3u8/ITV3FIBRA.m3u8
 http://ott.riotelecomm.es:4513/m3u8/ITV4FIBRA.m3u8
 
 #EXTINF:-1 tvg-id="S4C.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/S4C_logo_2014.svg/1024px-S4C_logo_2014.svg.png" group-title="UK",S4C
-http://new-pro.tv:8080/mazen1/123456/98187
+http://iptv12k.com:35461/live/80301070602/456776/5431.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RKkYHR9.png" group-title="ARGENTINA",América TV
 https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
