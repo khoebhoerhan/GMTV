@@ -1279,25 +1279,25 @@ http://new-pro.tv:8080/mazen1/123456/58670
 http://new-pro.tv:8080/mazen1/123456/58671
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/76W5fds.png" group-title="TURKISH MOVIES",beIN Movies Premiere
-http://new-pro.tv:8080/mazen1/123456/58675
+http://starshare.live:8080/live/usman007/usman007/5083.ts
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/I3F8F3D.png" group-title="TURKISH MOVIES",beIN Movies Premiere 2
-http://new-pro.tv:8080/mazen1/123456/134299
+http://starshare.live:8080/live/usman007/usman007/5084.ts
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Euo4xne.png" group-title="TURKISH MOVIES",beIN Movies Action
-http://new-pro.tv:8080/mazen1/123456/58672
+http://starshare.live:8080/live/usman007/usman007/5086.ts
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5Bkalxs.png" group-title="TURKISH MOVIES",beIN Movies Action 2
 http://new-pro.tv:8080/mazen1/123456/58673
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/alx18Gu.png" group-title="TURKISH MOVIES",beIN Movies Stars
-http://new-pro.tv:8080/mazen1/123456/58677
+http://starshare.live:8080/live/usman007/usman007/5085.ts
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YF3H6gR.png" group-title="TURKISH MOVIES",beIN Movies Family
-http://new-pro.tv:8080/mazen1/123456/58674
+http://starshare.live:8080/live/usman007/usman007/5087.ts
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Pz4tT1J.png" group-title="TURKISH MOVIES",beIN Movies Turk
-http://new-pro.tv:8080/mazen1/123456/58678
+http://starshare.live:8080/live/usman007/usman007/5088.ts
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ENmbM5D.png" group-title="TURKISH MOVIES",Sinema TV
 http://new-pro.tv:8080/mazen1/123456/121960
@@ -1517,6 +1517,18 @@ http://new-pro.tv:8080/mazen1/123456/7584
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0frdE7f.png" group-title="ARABIC SERIES",OSN Series First
 http://new-pro.tv:8080/mazen1/123456/131
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6eS18Ia.png" group-title="TURKISH SERIES",beIN Series Comedy
+http://starshare.live:8080/live/usman007/usman007/5092.ts
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZAG6SGt.png" group-title="TURKISH SERIES",beIN Series Drama
+http://starshare.live:8080/live/usman007/usman007/5091.ts
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/P0V4iHP.png" group-title="TURKISH SERIES",beIN Series Sci-fi
+http://starshare.live:8080/live/usman007/usman007/5090.ts
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6an6Mpd.png" group-title="TURKISH SERIES",beIN Series Vice
+http://starshare.live:8080/live/usman007/usman007/5089.ts
+
 #EXTINF:0 tvg-id="KidsTV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/id/7/7f/Kids_TV_%282020%29.png" group-title="KIDS",Kids TV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MjhkOWZkZjYtOGViOC0zNTkzLWFhOWEtNGFhMzJkMDk3NGE2
@@ -1682,6 +1694,9 @@ https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XD8Vr0d.jpg" group-title="KNOWLEDGE",NASA TV Media
 https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VaoRtdn.png" group-title="KNOWLEDGE",Lingua Channel
+http://pprotv.com:80/live/asim1234/123456/39467.ts
 
 #EXTINF:-1 tvg-id="Science.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bc/Science_Channel_2016.png" group-title="KNOWLEDGE",Science
 http://iptv12k.com:35461/live/80301070602/456776/1649.m3u8
