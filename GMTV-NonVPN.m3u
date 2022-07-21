@@ -3370,6 +3370,9 @@ rtmp://59.124.75.138/sat/tv731
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MomX4fY.png" group-title="TAIWANESE SPORTS",Eleven Sports 2
 rtmp://59.124.75.138/sat/tv741
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Q31Zu1U.png" group-title="TAIWANESE SPORTS",Our Sports
+http://58.99.33.16:1935/liveedge17/live_122_3.stream/chunklist.m3u8
+
 #EXTINF:-1 tvg-id="AstroArena.my" tvg-logo="https://i.imgur.com/7bPCw4Q.png" group-title="MALAY SPORTS",Astro Arena
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=40c958ab268862f44ca7169a0a634710&key=d83ccdb2a5a66a9653009dab9490e617
@@ -3618,25 +3621,25 @@ https://networkbest.ru.com/cdn/premium433/tracks-v1a1/mono.m3u8
 https://networkbest.ru.com/cdn/premium434/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/a3Rma7Z.png" group-title="CROATIAN SPORTS",Arena Sport 4 Hrvatska
-http://new-pro.tv:8080/mazen1/123456/33347
+http://20062016.com:80/turki/turki/114317
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oYXOq46.png" group-title="CROATIAN SPORTS",Arena Sport 5 Hrvatska
-http://new-pro.tv:8080/mazen1/123456/121992
+http://20062016.com:80/turki/turki/114318
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BWFXNI6.png" group-title="CROATIAN SPORTS",Arena Sport 6 Hrvatska
 http://new-pro.tv:8080/mazen1/123456/296758
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HjhiW62.png" group-title="CROATIAN SPORTS",Sport Klub 1 Hrvatska
-http://new-pro.tv:8080/mazen1/123456/33191
+http://20062016.com:80/turki/turki/114319
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bqtc41i.png" group-title="CROATIAN SPORTS",Sport Klub 2
-http://new-pro.tv:8080/mazen1/123456/55743
+http://20062016.com:80/turki/turki/114320
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7CvFh8W.png" group-title="CROATIAN SPORTS",Sport Klub 3
-http://new-pro.tv:8080/mazen1/123456/33196
+http://20062016.com:80/turki/turki/114321
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5PBRYFZ.png" group-title="CROATIAN SPORTS",Sport Klub 4
-http://new-pro.tv:8080/mazen1/123456/101491
+http://20062016.com:80/turki/turki/114322
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4mkAAJk.png" group-title="CROATIAN SPORTS",Sport Klub Golf
 http://new-pro.tv:8080/mazen1/123456/101493
@@ -3759,18 +3762,18 @@ https://srv.vhls.ru.com/cdn/premium79/tracks-v1a1/mono.m3u8
 https://srv.vhls.ru.com/cdn/premium80/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1920px-ESPN_wordmark.svg.png" group-title="AFRICAN SPORTS",ESPN Africa
-http://new-pro.tv:8080/mazen1/123456/112582
+http://20062016.com:80/turki/turki/107166
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/1280px-ESPN2_logo.svg.png" group-title="AFRICAN SPORTS",ESPN 2 Africa
-http://new-pro.tv:8080/mazen1/123456/112583
+http://20062016.com:80/turki/turki/107167
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XO9yr6R.png" group-title="AFRICAN SPORTS",Supersport Action Africa
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #EXTVLCOPT:http-referrer=https://player.licenses4.me
-https://networkbest.ru.com/cdn/premium420/playlist.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
+https://networkbest.ru.com/cdn/premium420/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OOSoHfD.png" group-title="AFRICAN SPORTS",Supersport Blitz Africa
-http://new-pro.tv:8080/mazen1/123456/60921
+http://20062016.com:80/turki/turki/107165
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nCzOSks.png" group-title="AFRICAN SPORTS",Supersport Cricket Africa
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
@@ -3851,7 +3854,7 @@ https://networkbest.ru.com/cdn/premium418/tracks-v1a1/mono.m3u8
 https://networkbest.ru.com/cdn/premium419/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lzmhX3a.png" group-title="AFRICAN SPORTS",Supersport WWE
-http://new-pro.tv:8080/mazen1/123456/61024
+http://20062016.com:80/turki/turki/107169
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b2/AbuDhabiSports2020.jpg" group-title="ARABIC SPORTS",Abu Dhabi Sports 1
 https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/playlist.m3u8
@@ -3887,25 +3890,25 @@ http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunkl
 http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist_b1600000.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9cDvxwA.png" group-title="ARABIC SPORTS",SSC 1
-http://new-pro.tv:8080/mazen1/123456/178360
+http://starshare.live:8080/live/rfvtgbyhn/rfvtgbyhn/36251.ts
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9cDvxwA.png" group-title="ARABIC SPORTS",SSC 2
-http://new-pro.tv:8080/mazen1/123456/178386
+http://starshare.live:8080/live/rfvtgbyhn/rfvtgbyhn/36252.ts
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9cDvxwA.png" group-title="ARABIC SPORTS",SSC 3
-http://new-pro.tv:8080/mazen1/123456/178387
+http://starshare.live:8080/live/rfvtgbyhn/rfvtgbyhn/36253.ts
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9cDvxwA.png" group-title="ARABIC SPORTS",SSC 4
-http://new-pro.tv:8080/mazen1/123456/178388
+http://starshare.live:8080/live/rfvtgbyhn/rfvtgbyhn/36254.ts
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9cDvxwA.png" group-title="ARABIC SPORTS",SSC 5
-http://new-pro.tv:8080/mazen1/123456/178389
+http://starshare.live:8080/live/rfvtgbyhn/rfvtgbyhn/36255.ts
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9cDvxwA.png" group-title="ARABIC SPORTS",SSC 6
-http://new-pro.tv:8080/mazen1/123456/178390
+http://starshare.live:8080/live/rfvtgbyhn/rfvtgbyhn/36256.ts
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9cDvxwA.png" group-title="ARABIC SPORTS",SSC 7
-http://new-pro.tv:8080/mazen1/123456/178391
+http://starshare.live:8080/live/rfvtgbyhn/rfvtgbyhn/36257.ts
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/E3OjM1k.png" group-title="VIETNAMESE SPORTS",HTV Thể Thao
 http://cvmvnpt.duckdns.org:8000/htvtt
