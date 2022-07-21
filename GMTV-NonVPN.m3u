@@ -1467,7 +1467,7 @@ https://video-auth2.iol.pt/live_tvi_direct/live_tvi_direct/edge_servers/tvireali
 
 #EXTINF:-1 tvg-id="TF1SeriesFilms.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/69/TF1_S%C3%A9ries_Films.svg/1920px-TF1_S%C3%A9ries_Films.svg.png" group-title="FRENCH SERIES",TF1 Series Films
 #EXTVLCOPT:network-caching=1000
-https://s13.tntendirect.com/hd1/live/playlist.m3u8
+http://callofliberty.fr/stream/TF1SERIESFILMS/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/2/29/Logo_13e_Rue_%282017%29.svg/langfr-800px-Logo_13e_Rue_%282017%29.svg.png" group-title="FRENCH SERIES",13ème Rue
 http://new-pro.tv:8080/mazen1/123456/70623
@@ -2042,7 +2042,7 @@ http://hls-m010.live-lv3.canalplus-cdn.net/live/disk/cnews-clair-hd/ios-v3-hd-cl
 https://monchyxd.herokuapp.com/iptv-query?streaming-ip=https://www.dailymotion.com/francetvinfo&quality=720p
 
 #EXTINF:-1 tvg-id="LCI.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0c/La_Cha%C3%AEne_Info_%28logo%29.svg/1920px-La_Cha%C3%AEne_Info_%28logo%29.svg.png" group-title="FRENCH NEWS",LCI
-http://new-pro.tv:8080/mazen1/123456/70742
+http://callofliberty.fr/stream/LCI/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/v7Zj0iJ.png" group-title="FRENCH NEWS",TV5 Monde Info
 https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8
@@ -4593,7 +4593,7 @@ http://195.29.70.67/PLTV/88888888/224/3221226195/index.m3u8
 http://new-pro.tv:8080/mazen1/123456/21424
 
 #EXTINF:-1 tvg-id="6ter.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8a/M6_6ter_2012.png" group-title="FRANCE",6ter
-https://s13.tntendirect.com/6ter/live/playlist.m3u8
+http://callofliberty.fr/stream/6ter/master.m3u8
 
 #EXTINF:-1 tvg-id="C8.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/47/C8_logo.jpg" group-title="FRANCE",C8
 http://callofliberty.fr/stream/C8/master.m3u8
@@ -4627,23 +4627,23 @@ https://origin-live-6play.video.bedrock.tech/6play/short/clr/gulli/hdeindex.m3u8
 https://shls-m6-france-prod-dub.shahid.net/out/v1/c8a9f6e000cd4ebaa4d2fc7d18c15988/index_1.m3u8
 
 #EXTINF:-1 tvg-id="NRJ12.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/50/NRJ12_logo.png" group-title="FRANCE",NRJ 12
-https://s13.tntendirect.com/nrj12/live/playlist.m3u8
+http://callofliberty.fr/stream/nrj12/master.m3u8
 
 #EXTINF:-1 tvg-id="ParisPremiere.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d1/Paris_Premi%C3%A8re_2011.svg/1920px-Paris_Premi%C3%A8re_2011.svg.png" group-title="FRANCE",Paris Première
 http://new-pro.tv:8080/mazen1/123456/70630
 
 #EXTINF:-1 tvg-id="TF1.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dc/TF1_logo_2013.png" group-title="FRANCE",TF1
-https://s13.tntendirect.com/tf1/live/playlist.m3u8
+http://callofliberty.fr/stream/TF1/master.m3u8
 
 #EXTINF:-1 tvg-id="TFX.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TFX_logo.svg/1920px-TFX_logo.svg.png" group-title="FRANCE",TFX
 #EXTVLCOPT:network-caching=1000
-https://s13.tntendirect.com/nt1/live/playlist.m3u8
+http://callofliberty.fr/stream/TFX/master.m3u8
 
 #EXTINF:-1 tvg-id="TMC.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/54/TMC_logo.svg/1920px-TMC_logo.svg.png" group-title="FRANCE",TMC
-http://stream.suboroiptv.tv/TMC/playlist.m3u8
+http://callofliberty.fr/stream/TMC/master.m3u8
 
 #EXTINF:-1 tvg-id="W9.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/W9_2018.svg/1920px-W9_2018.svg.png" group-title="FRANCE",W9
-https://s13.tntendirect.com/w9/live/playlist.m3u8
+http://callofliberty.fr/stream/w9/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ujQVb6l.png" group-title="GERMANY",Das Erste
 http://new-pro.tv:8080/mazen1/123456/27627
