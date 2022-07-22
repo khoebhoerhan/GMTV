@@ -3926,7 +3926,7 @@ http://starshare.live:8080/live/rfvtgbyhn/rfvtgbyhn/36256.ts
 http://starshare.live:8080/live/rfvtgbyhn/rfvtgbyhn/36257.ts
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/E3OjM1k.png" group-title="VIETNAMESE SPORTS",HTV Thể Thao
-http://cvmvnpt.duckdns.org:8000/htvtt
+http://sv1.cvacetv.ga:8080/htvtt
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0oyD2wb.png" group-title="VIETNAMESE SPORTS",K+ Sport 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
@@ -5298,13 +5298,13 @@ https://livecdn.fptplay.net/sdb/vtc6_hls.smil/playlist.m3u8
 https://livecdn.fptplay.net/sdb/vtc8_hls.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/VTV1_logo_2013_final.svg/1920px-VTV1_logo_2013_final.svg.png" group-title="VIETNAM", VTV 1
-http://cvmvnpt.duckdns.org:8000/vtv1
+http://sv1.cvacetv.ga:8080/vtv1
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/VTV3_logo_2013_final.svg/1920px-VTV3_logo_2013_final.svg.png" group-title="VIETNAM", VTV 3
-http://cvmvnpt.duckdns.org:8000/vtv3
+http://sv1.cvacetv.ga:8080/vtv3
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/VTV6_logo_2013_final.svg/1920px-VTV6_logo_2013_final.svg.png" group-title="VIETNAM", VTV 6
-http://cvmvnpt.duckdns.org:8000/vtv6
+http://sv1.cvacetv.ga:8080/vtv6
 
 ########################################################################################RADIO STATIONS####################################################################################################################################################################
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iUGpY3U.png" group-title="RADIO INDONESIA",Ardan Radio
