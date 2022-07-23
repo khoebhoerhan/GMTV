@@ -647,8 +647,17 @@ https://mn-nl.mncdn.com/tvri_test/smil:tvri_test.smil/chunklist_b1120000.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LD6hu1J.png" group-title="TURKISH ENTERTAINMENT",ATV Avrupa
 http://new-pro.tv:8080/mazen1/123456/71011
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TQwXlDO.png" group-title="TURKISH ENTERTAINMENT",Euro D
+https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KV1a3Dp.png" group-title="TURKISH ENTERTAINMENT",Euro Star
+http://iptvmasterlink.dyndns.org:8080/EuroStar/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OSEdWCp.png" group-title="TURKISH ENTERTAINMENT",Kanal 7 Avrupa
 https://live.kanal7.com/live/kanal7AvrupaLive/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TZUqAbI.png" group-title="TURKISH ENTERTAINMENT",TGRT EU
+https://tv.ensonhaber.com/tv/tr/tgrteu/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Nh6c3KS.png" group-title="TURKISH ENTERTAINMENT",TRT Türk
 https://tv-trtturk.live.trt.com.tr/master_720.m3u8
@@ -2138,8 +2147,7 @@ https://rtvelivestreamv6.akamaized.net/segments/24h/24h_main_720.m3u8
 https://turkmedya-live.ercdn.net/tv24/tv24_720p.m3u8
 
 #EXTINF:-1 tvg-id="AHaber.tr" tvg-logo="https://i.imgur.com/k7oie6a.png" group-title="TURKISH NEWS",A Haber
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://mfe.cliptv.az/dash/A_Haber_HD.ism/playlist.mpd
+https://59c7ea6bec1c6.streamlock.net/filbox/ahaber.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="HaberGlobal.tr" tvg-logo="https://i.imgur.com/20kWdRa.png" group-title="TURKISH NEWS",Haber Global
 https://tv.ensonhaber.com/tv/tr/haberglobal/index.m3u8
@@ -2770,7 +2778,7 @@ https://networkbest.ru.com/cdn/premium64/tracks-v1a1/mono.m3u8
 https://networkbest.ru.com/cdn/premium67/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="beINSportsHaber.tr" tvg-logo="https://i.imgur.com/fBWCN2V.png" group-title="TURKISH SPORTS",beIN Sports Haber
-http://new-pro.tv:8080/mazen1/123456/71039
+https://59c7ea6bec1c6.streamlock.net/filbox/beinsporthaber.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MRULdc8.png" group-title="AUSTRALIAN SPORTS",beIN Sports 1
 http://new-pro.tv:8080/mazen1/123456/271516
@@ -4600,7 +4608,7 @@ https://d1211whpimeups.cloudfront.net/smil:rtb1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/ABC_Spark_Logo.png" group-title="CANADA",ABC Spark
 http://iptvtree.net:8080/live/iptvromania2020/31e75bff/13236.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/w2IwLlA.png" group-title="CANADA",CBC
+#EXTINF:-1 tvg-logo="https://i.imgur.com/w2IwLlA.png" group-title="CANADA",CBC Toronto
 http://iptvtree.net:8080/live/iptvromania2020/31e75bff/429.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/h1GAgKq.png" group-title="CANADA",City TV
@@ -4615,7 +4623,7 @@ http://iptvtree.net:8080/live/iptvromania2020/31e75bff/9315.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lxbuF5X.png" group-title="CANADA",Global
 http://iptvtree.net:8080/live/iptvromania2020/31e75bff/465.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cf/Current_Logo_of_Ici_Radio-Canada_T%C3%A9l%C3%A9_%282016-present%29.svg/1920px-Current_Logo_of_Ici_Radio-Canada_T%C3%A9l%C3%A9_%282016-present%29.svg.png" group-title="CANADA",Ici Télé
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cf/Current_Logo_of_Ici_Radio-Canada_T%C3%A9l%C3%A9_%282016-present%29.svg/1920px-Current_Logo_of_Ici_Radio-Canada_T%C3%A9l%C3%A9_%282016-present%29.svg.png" group-title="CANADA",Ici Radio-Canada Télé
 http://iptvtree.net:8080/live/iptvromania2020/31e75bff/490.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RyHlWek.png" group-title="CANADA",Omni 1
@@ -5276,7 +5284,7 @@ https://tv.ensonhaber.com/tv/tr/360tv/index.m3u8
 https://trkvz-live.daioncdn.net/atv/atv_1080p.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nPTmcny.png" group-title="TÜRKIYE",Fox Türkiye
-http://new-pro.tv:8080/mazen1/123456/293447
+https://59c7ea6bec1c6.streamlock.net/filbox/foxtv.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6OYvfnf.png" group-title="TÜRKIYE",Kanal 7
 https://live.kanal7.com/live/kanal7LiveDesktop/index.m3u8
@@ -5303,7 +5311,7 @@ http://167.114.115.233:8080/trt2fhd/index.m3u8
 https://turkmedya-live.ercdn.net/tv4/tv4_720p.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/35/Tv8_new_logo.png" group-title="TÜRKIYE",TV 8
-http://mfe.cliptv.az/dash/TV_8_HD.ism/playlist.mpd
+https://tv8-live.daioncdn.net/tv8/tv8.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nhl0SnT.png" group-title="TÜRKIYE",TV 8.5
 http://iptvtree.net:8080/live/iptvromania2020/31e75bff/518.m3u8
