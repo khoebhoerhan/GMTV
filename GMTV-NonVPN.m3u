@@ -847,27 +847,27 @@ https://edge2-ccast-sl.cvattv.com.ar/live/c6eds/MTV_HD/SA_SAGEMCOM/MTV_HD.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/TRACE_Latina_Logo.png/800px-TRACE_Latina_Logo.png" group-title="LATINO MUSIC",Trace Latina
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracelatinach-samsungch/playlist.m3u8
 
-#EXTINF:0 tvg-id="HBOSingapore.sg" tvg-logo="https://i.imgur.com/9v0WUqt.png" group-title="MOVIES",HBO Asia
+#EXTINF:0 tvg-id="HBOSingapore.sg" tvg-logo="https://i.imgur.com/9v0WUqt.png" group-title="GENERAL MOVIES",HBO Asia
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MjhkOWZkZjYtOGViOC0zNTkzLWFhOWEtNGFhMzJkMDk3NGE2
 https://stream-cdn.mncnow.id/live/eds/hbo-2/sa_dash_vmx/hbo-2.mpd
 
-#EXTINF:0 tvg-id="HBOFamilyAsia.sg" tvg-logo="https://i.imgur.com/YNNLQG0.png" group-title="MOVIES",HBO Family Asia
+#EXTINF:0 tvg-id="HBOFamilyAsia.sg" tvg-logo="https://i.imgur.com/YNNLQG0.png" group-title="GENERAL MOVIES",HBO Family Asia
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MjhkOWZkZjYtOGViOC0zNTkzLWFhOWEtNGFhMzJkMDk3NGE2
 https://stream-cdn.mncnow.id/live/eds/HBOFamily2/sa_dash_vmx/HBOFamily2.mpd
 
-#EXTINF:0 tvg-id="HBOHitsAsia.sg" tvg-logo="https://i.imgur.com/uar4bNC.png" group-title="MOVIES",HBO Hits
+#EXTINF:0 tvg-id="HBOHitsAsia.sg" tvg-logo="https://i.imgur.com/uar4bNC.png" group-title="GENERAL MOVIES",HBO Hits
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MjhkOWZkZjYtOGViOC0zNTkzLWFhOWEtNGFhMzJkMDk3NGE2
 https://stream-cdn.mncnow.id/live/eds/HBOHits/sa_dash_vmx/HBOHits.mpd
 
-#EXTINF:0 tvg-id="HBOSignatureAsia.sg" tvg-logo="https://i.imgur.com/iubUI1y.png" group-title="MOVIES",HBO Signature Asia
+#EXTINF:0 tvg-id="HBOSignatureAsia.sg" tvg-logo="https://i.imgur.com/iubUI1y.png" group-title="GENERAL MOVIES",HBO Signature Asia
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MjhkOWZkZjYtOGViOC0zNTkzLWFhOWEtNGFhMzJkMDk3NGE2
 https://stream-cdn.mncnow.id/live/eds/HBOSignature2/sa_dash_vmx/HBOSignature2.mpd
 
-#EXTINF:0 tvg-id="CinemaxSingapore.sg" tvg-logo="https://i.imgur.com/OpAB6Hs.png" group-title="MOVIES",Cinemax Asia
+#EXTINF:0 tvg-id="CinemaxSingapore.sg" tvg-logo="https://i.imgur.com/OpAB6Hs.png" group-title="GENERAL MOVIES",Cinemax Asia
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MjhkOWZkZjYtOGViOC0zNTkzLWFhOWEtNGFhMzJkMDk3NGE2
 https://stream-cdn.mncnow.id/live/eds/CinemaxHD2/sa_dash_vmx/CinemaxHD2.mpd
@@ -893,57 +893,57 @@ https://tvn10.xyz/Meta/master-2.m3u8|User-Agent=android-12
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2Suxbkb.png" group-title="NATIONAL MOVIES",Sinema Indonesia
 http://203.77.246.50:5000/udp/239.1.1.74:5000
 
-#EXTINF:0 tvg-id="HitsMovies.sg" tvg-logo="https://i.imgur.com/Q9PQKk6.png" group-title="MOVIES",Hits Movies
+#EXTINF:0 tvg-id="HitsMovies.sg" tvg-logo="https://i.imgur.com/Q9PQKk6.png" group-title="GENERAL MOVIES",Hits Movies
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MjhkOWZkZjYtOGViOC0zNTkzLWFhOWEtNGFhMzJkMDk3NGE2
 https://stream-cdn.mncnow.id/live/eds/HitsMovies/sa_dash_vmx/HitsMovies.mpd
 
-#EXTINF:0 tvg-id="CinemaWorld.my" tvg-logo="https://i.imgur.com/c3Rv0ru.png" group-title="MOVIES",Cinema World
+#EXTINF:0 tvg-id="CinemaWorld.my" tvg-logo="https://i.imgur.com/c3Rv0ru.png" group-title="GENERAL MOVIES",Cinema World
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MjhkOWZkZjYtOGViOC0zNTkzLWFhOWEtNGFhMzJkMDk3NGE2
 https://stream-cdn.mncnow.id/live/eds/CinemaWorld/sa_dash_vmx/CinemaWorld.mpd
 
-#EXTINF:-1 tvg-id="StarMoviesIndia.in" tvg-logo="https://i.imgur.com/AJbFTSr.png" group-title="MOVIES",Star Movies
+#EXTINF:-1 tvg-id="StarMoviesIndia.in" tvg-logo="https://i.imgur.com/AJbFTSr.png" group-title="INDIAN MOVIES",Star Movies
 http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/4DyH9pK.png" group-title="MOVIES",Star Movies Select
+#EXTINF: -1 tvg-logo="https://i.imgur.com/4DyH9pK.png" group-title="INDIAN MOVIES",Star Movies Select
 http://103.179.246.243:8000/play/a00w
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/OVH9Ehe.png" group-title="MOVIES",Movies Now
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OVH9Ehe.png" group-title="INDIAN MOVIES",Movies Now
 http://iptvtree.net:8080/live/iptvromania2020/31e75bff/169118.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Df0Nteg.png" group-title="MOVIES",Romedy Now
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Df0Nteg.png" group-title="INDIAN MOVIES",Romedy Now
 http://221.120.204.4/ROMEDY-NOW-LOCKLE/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ce/Mn%2Blogo.jpeg" group-title="MOVIES",MN+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ce/Mn%2Blogo.jpeg" group-title="INDIAN MOVIES",MN+
 http://103.179.246.243:8000/play/a00u
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PIvZZqq.png" group-title="MOVIES",MNX
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PIvZZqq.png" group-title="INDIAN MOVIES",MNX
 http://103.179.246.243:8000/play/a01h
 
-#EXTINF:-1 tvg-id="SonyPix.in" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5f/Sony_PIX.png" group-title="MOVIES",Sony Pix
+#EXTINF:-1 tvg-id="SonyPix.in" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5f/Sony_PIX.png" group-title="INDIAN MOVIES",Sony Pix
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=ce17264b317db108f19cdc11aa1a9e66&key=a21188aee8fc5c56d016fcffcc6b2295
 https://cdn-01.toffeelive.com/origin-08/live-origin/smil:sony_pix_hd.smil/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/12/%26flix_logo.png" group-title="MOVIES",& flix
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/12/%26flix_logo.png" group-title="INDIAN MOVIES",& flix
 http://103.179.246.243:8000/play/a00p
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/h9W2I7O.png" group-title="MOVIES",& privé
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h9W2I7O.png" group-title="INDIAN MOVIES",& privé
 http://103.179.246.243:8000/play/a01d
 
-#EXTINF:0 tvgv-id="Galaxy.id" tvg-logo="https://i.imgur.com/w8pi4Ip.png" group-title="MOVIES",Galaxy
+#EXTINF:0 tvgv-id="Galaxy.id" tvg-logo="https://i.imgur.com/w8pi4Ip.png" group-title="GENERAL MOVIES",Galaxy
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MjhkOWZkZjYtOGViOC0zNTkzLWFhOWEtNGFhMzJkMDk3NGE2
 https://stream-cdn.mncnow.id/live/eds/Galaxy-HD/sa_dash_vmx/Galaxy-HD.mpd
 
-#EXTINF:0 tvg-id="GalaxyPremium.id" tvg-logo="https://i.imgur.com/oH8wyqR.png" group-title="MOVIES",Galaxy Premium
+#EXTINF:0 tvg-id="GalaxyPremium.id" tvg-logo="https://i.imgur.com/oH8wyqR.png" group-title="GENERAL MOVIES",Galaxy Premium
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MjhkOWZkZjYtOGViOC0zNTkzLWFhOWEtNGFhMzJkMDk3NGE2
 https://stream-cdn.mncnow.id/live/eds/GalaxyPremium-HD/sa_dash_vmx/GalaxyPremium-HD.mpd
 
-#EXTINF:-1 tvg-id="ShowcaseMovies.my" tvg-logo="https://i.imgur.com/Uctv8BF.png" group-title="MOVIES",Showcase Movies
+#EXTINF:-1 tvg-id="ShowcaseMovies.my" tvg-logo="https://i.imgur.com/Uctv8BF.png" group-title="GENERAL MOVIES",Showcase Movies
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=e95c72a41b5ea9957b07facd95542410&key=a5e0de041ca2766754a37952b3468eb2
 http://iptv12k.com:35461/live/80301070602/456776/1826.m3u8
@@ -1003,7 +1003,7 @@ http://208.86.19.13:81/722.stream/index.m3u8
 #EXTINF:-1 tvg-id="ZeeBollywood.in" tvg-logo="https://i.imgur.com/1KY7rjF.png" group-title="HINDI MOVIES",Zee Bollywood
 http://208.115.215.42:80/ZEE_Bollywood_HD/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/If0036I.png" group-title="MOVIES",MyCinema
+#EXTINF:-1 tvg-logo="https://i.imgur.com/If0036I.png" group-title="GENERAL MOVIES",MyCinema
 http://rr.dens.tv/h/h90/index.m3u8
 
 #EXTINF:-1 tvg-id="Boo.my" tvg-logo="https://i.imgur.com/fD8G2Ug.png" group-title="ASIAN MOVIES",Boo
@@ -1040,13 +1040,13 @@ http://144.217.70.181:9587/hin2/STARGOLD2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="StarGoldSelect.in" tvg-logo="https://i.imgur.com/p27U7Pq.png" group-title="HINDI MOVIES",Star Gold Select
 http://208.86.19.13:81/709.stream/index.m3u8
 
-#EXTINF:-1 tvg-id="UTVAction.in" tvg-logo="https://i.imgur.com/iyK0G1Q.png" group-title="MOVIES",UTV Action
+#EXTINF:-1 tvg-id="UTVAction.in" tvg-logo="https://i.imgur.com/iyK0G1Q.png" group-title="INDIAN MOVIES",UTV Action
 http://144.217.70.181:9587/hin2/UTVACTION/index.m3u8
 
-#EXTINF:-1 tvg-id="UTVMovies.in" tvg-logo="https://i.imgur.com/SJyKKnJ.png" group-title="MOVIES",UTV Movies
+#EXTINF:-1 tvg-id="UTVMovies.in" tvg-logo="https://i.imgur.com/SJyKKnJ.png" group-title="INDIAN MOVIES",UTV Movies
 http://144.217.70.181:9587/hin2/UTVMOVIESHD/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/34JhaxQ.jpg" group-title="MOVIES",MyCinema Europe
+#EXTINF:-1 tvg-logo="https://i.imgur.com/34JhaxQ.jpg" group-title="GENERAL MOVIES",MyCinema Europe
 http://rr.dens.tv/h/h18/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Q2Avbgx.png" group-title="ITALIAN MOVIES",20 Mediaset
