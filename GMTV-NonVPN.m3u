@@ -3193,13 +3193,13 @@ http://iptvtree.net:8080/live/iptvromania2020/31e75bff/1042.m3u8
 http://iptvtree.net:8080/live/iptvromania2020/31e75bff/2535.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Sky_Sport_Action.svg/1920px-Sky_Sport_Action.svg.png" group-title="ITALIAN SPORTS",Sky Sport Action
-http://new-pro.tv:8080/mazen1/123456/315012
+http://myf-tv.com:8080/live/n4Zy3HzefWfE3CU/Xt8MNZ97hx4u2F0/337099.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Sky_Sport_Arena_-_Logo_2020.svg/1920px-Sky_Sport_Arena_-_Logo_2020.svg.png" group-title="ITALIAN SPORTS",Sky Sport Arena
 http://iptvtree.net:8080/live/iptvromania2020/31e75bff/2541.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Sky_Sport_Calcio.svg/1920px-Sky_Sport_Calcio.svg.png" group-title="ITALIAN SPORTS",Sky Sport Calcio
-http://new-pro.tv:8080/mazen1/123456/67138
+http://myf-tv.com:8080/live/n4Zy3HzefWfE3CU/Xt8MNZ97hx4u2F0/56622.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Sky_Sport_F1_-_Logo_2020.svg/1920px-Sky_Sport_F1_-_Logo_2020.svg.png" group-title="ITALIAN SPORTS",Sky Sport F1
 http://iptvtree.net:8080/live/iptvromania2020/31e75bff/2542.m3u8
@@ -3312,7 +3312,9 @@ https://networkbest.ru.com/cdn/premium436/tracks-v1a1/mono.m3u8
 https://networkbest.ru.com/cdn/premium528/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QlDOQ7i.png" group-title="SPANISH SPORTS",Movistar LaLiga
-http://new-pro.tv:8080/mazen1/123456/71660
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTVLCOPT:http-referrer=https://player.licenses4.me
+https://networkbest.ru.com/cdn/premium84/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vnKI1Oo.png" group-title="SPANISH SPORTS",Movistar Liga de Campeones
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
