@@ -2563,6 +2563,12 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/vid
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YdipfBb.png" group-title="CLUBS OF SPORTS",GS TV
 https://owifavo5.rocketcdn.com/gstv/gstv.smil/chunklist_b846000_sltur.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nDphkyF.png" group-title="CLUBS OF SPORTS",Inter TV
+http://iptvtree.net:8080/live/iptvromania2020/31e75bff/1041.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Juventus_TV_-_Logo_2017.svg/1200px-Juventus_TV_-_Logo_2017.svg.png" group-title="CLUBS OF SPORTS",Juventus TV
+http://iptvtree.net:8080/live/iptvromania2020/31e75bff/12328.m3u8
+
 #EXTINF:-1 tvg-id="LFCTV.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1f/LFC_TV_logo.png" group-title="CLUBS OF SPORTS",LFC TV
 http://iptv12k.com:35461/live/80301070602/456776/5363.m3u8
 
