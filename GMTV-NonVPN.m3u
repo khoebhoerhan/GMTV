@@ -713,7 +713,7 @@ https://networkbest.ru.com/cdn/premium343/tracks-v1a1/mono.m3u8
 https://networkbest.ru.com/cdn/premium331/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="LifetimeEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/1920px-Logo_Lifetime_2020.svg.png" group-title="AMERICAN ENTERTAINMENT",Lifetime East
-http://new-pro.tv:8080/mazen1/123456/69364
+http://iptvtree.net:8080/live/iptvromania2020/31e75bff/4667.m3u8
 
 #EXTINF:-1 tvg-id="TBSEast.us" tvg-logo="https://i.imgur.com/upM99h1.png" group-title="AMERICAN ENTERTAINMENT",TBS East
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
@@ -729,7 +729,9 @@ https://networkbest.ru.com/cdn/premium338/tracks-v1a1/mono.m3u8
 http://new-pro.tv:8080/mazen1/123456/302584
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/2019_Disney_Channel_logo.svg/1920px-2019_Disney_Channel_logo.svg.png" group-title="AMERICAN ENTERTAINMENT",Disney Channel East
-https://networkbest.ru.com/cdn/premium312/playlist.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTVLCOPT:http-referrer=https://player.licenses4.me
+https://networkbest.ru.com/cdn/premium312/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Fa0e2NH.png" group-title="RUSSIAN ENTERTAINMENT",Пятница! International
 https://sc.id-tv.kz:443/friday_34_35.m3u8
@@ -908,7 +910,7 @@ http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
 http://103.179.246.243:8000/play/a00w
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OVH9Ehe.png" group-title="MOVIES",Movies Now
-http://new-pro.tv:8080/mazen1/123456/178081
+http://iptvtree.net:8080/live/iptvromania2020/31e75bff/169118.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Df0Nteg.png" group-title="MOVIES",Romedy Now
 http://221.120.204.4/ROMEDY-NOW-LOCKLE/index.m3u8
