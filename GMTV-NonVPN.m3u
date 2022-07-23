@@ -1797,7 +1797,7 @@ http://189.91.128.146:4444/udp/227.10.20.160:1234
 http://limetv.me:80/live/4719wil/452540/95423.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Jai0CTx.png" group-title="LATINO NEWS",CNN Chile
-http://new-pro.tv:8080/mazen1/123456/313083
+http://iptvtree.net:8080/live/iptvromania2020/31e75bff/76353.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0XayB3p.png" group-title="INDIAN NEWS",CNN News 18
 https://iamsom5.vercel.app/api/autoq.php?c=CNN_NEWS_18
@@ -2002,8 +2002,11 @@ http://nbcnews2.akamaized.net/hls/live/723426-b/NBCNewsPlaymaker24x7Linear99a3a8
 #EXTINF:-1 tvg-id="NewsmaxTV.us" tvg-logo="https://i.imgur.com/4nMN9xm.png" group-title="AMERICAN NEWS",Newsmax TV
 https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YvWkxuj.png" group-title="CANADIAN NEWS",CBC News Network
+http://iptvtree.net:8080/live/iptvromania2020/31e75bff/11611.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5svjRRG.png" group-title="CANADIAN NEWS",CTV News Channel
-http://new-pro.tv:8080/mazen1/123456/109674
+http://iptvtree.net:8080/live/iptvromania2020/31e75bff/474.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IZFEJsu.png" group-title="CANADIAN NEWS",Global News
 https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/.m3u8
@@ -2066,7 +2069,7 @@ https://republicworld.amagi.tv/hls/amagi_hls_data_samsungin-republictv-samsungin
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/DDIndia/live
 
 #EXTINF:-1 tvg-id="TimesNowWorld.in" tvg-logo="https://i.imgur.com/KkKbf1c.png" group-title="INDIAN NEWS",Times Now World
-http://new-pro.tv:8080/mazen1/123456/272800
+http://1tv1.net:8080/live/nazha2021/123456/99344.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dt5xRpi.png" group-title="INDIAN NEWS",Mirror Now
 https://iamsom5.vercel.app/api/autoq.php?c=Mirror_Now
@@ -2629,7 +2632,7 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
 https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="beINSports.qa" tvg-logo="https://i.imgur.com/39bwyGI.png" group-title="ARABIC SPORTS",beIN Sports
-http://new-pro.tv:8080/mazen1/123456/33688
+http://1tv1.net:8080/live/nazha2021/123456/22186.m3u8
 
 #EXTINF:-1 tvg-id="beINSports1.qa" tvg-logo="https://i.imgur.com/MRULdc8.png" group-title="ARABIC SPORTS",beIN Sports 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
@@ -2667,28 +2670,28 @@ https://networkbest.ru.com/cdn/premium96/tracks-v1a1/mono.m3u8
 https://networkbest.ru.com/cdn/premium97/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="beINSportsNBA.qa" tvg-logo="https://i.imgur.com/BZ5jcea.png" group-title="ARABIC SPORTS",beIN NBA
-http://new-pro.tv:8080/mazen1/123456/28294
+http://1tv1.net:8080/live/nazha2021/123456/150160.m3u8
 
 #EXTINF:-1 tvg-id="beINSportsNews.qa" tvg-logo="https://i.imgur.com/TG2eNPO.png" group-title="ARABIC SPORTS",beIN Sports News
 http://starshare.live:8080/live/usman007/usman007/355.ts
 
 #EXTINF:-1 tvg-id="beINSportsXtra1.qa" tvg-logo="https://i.imgur.com/uYcwFSD.png" group-title="ARABIC SPORTS",beIN Sports Xtra 1
-http://new-pro.tv:8080/mazen1/123456/176223
+http://1tv1.net:8080/live/nazha2021/123456/165086.m3u8
 
 #EXTINF:-1 tvg-id="beINSportsXtra2.qa" tvg-logo="https://i.imgur.com/Q9ACq0T.png" group-title="ARABIC SPORTS",beIN Sports Xtra 2
-http://new-pro.tv:8080/mazen1/123456/176224
+http://1tv1.net:8080/live/nazha2021/123456/165087.m3u8
 
 #EXTINF:-1 tvg-id="beINSportsAFC.qa" tvg-logo="https://i.imgur.com/arLTcvt.png" group-title="ARABIC SPORTS",beIN Sports AFC
-http://new-pro.tv:8080/mazen1/123456/311980
+http://1tv1.net:8080/live/nazha2021/123456/165062.m3u8
 
 #EXTINF:-1 tvg-id="beINSportsAFC1.qa" tvg-logo="https://i.imgur.com/oKbn4Dw.png" group-title="ARABIC SPORTS",beIN Sports AFC 1
-http://new-pro.tv:8080/mazen1/123456/311981
+http://1tv1.net:8080/live/nazha2021/123456/165063.m3u8
 
 #EXTINF:-1 tvg-id="beINSportsAFC2.qa" tvg-logo="https://i.imgur.com/RI5gIHv.png" group-title="ARABIC SPORTS",beIN Sports AFC 2
-http://new-pro.tv:8080/mazen1/123456/311982
+http://1tv1.net:8080/live/nazha2021/123456/165064.m3u8
 
 #EXTINF:-1 tvg-id="beINSportsAFC3.qa" tvg-logo="https://i.imgur.com/2i0eHdY.png" group-title="ARABIC SPORTS",beIN Sports AFC 3
-http://new-pro.tv:8080/mazen1/123456/311983
+http://1tv1.net:8080/live/nazha2021/123456/165065.m3u8
 
 #EXTINF:-1 tvg-id="beINSports1HDFrance.fr" tvg-logo="https://i.imgur.com/MRULdc8.png" group-title="FRENCH SPORTS",beIN Sports 1 HD France
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
@@ -2721,13 +2724,13 @@ https://networkbest.ru.com/cdn/premium90/tracks-v1a1/mono.m3u8
 https://networkbest.ru.com/cdn/premium46/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="beINSportsFrench1.qa" tvg-logo="https://i.imgur.com/NOOEDFi.png" group-title="ARABIC SPORTS",beIN Sports French 1
-http://new-pro.tv:8080/mazen1/123456/219145
+http://1tv1.net:8080/live/nazha2021/123456/112464.m3u8
 
 #EXTINF:-1 tvg-id="beINSportsFrench2.qa" tvg-logo="https://i.imgur.com/n6iA4cg.png" group-title="ARABIC SPORTS",beIN Sports French 2
-http://new-pro.tv:8080/mazen1/123456/219146
+http://1tv1.net:8080/live/nazha2021/123456/112465.m3u8
 
 #EXTINF:-1 tvg-id="beINSportsFrench3.qa" tvg-logo="https://i.imgur.com/srteRe1.png" group-title="ARABIC SPORTS",beIN Sports French 3
-http://new-pro.tv:8080/mazen1/123456/219147
+http://1tv1.net:8080/live/nazha2021/123456/112466.m3u8
 
 #EXTINF:-1 tvg-id="beINSportsPremium1.qa" tvg-logo="https://i.imgur.com/CwlNjXQ.png" group-title="ARABIC SPORTS",beIN Sports Premium 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
@@ -3031,6 +3034,15 @@ https://skylivetab-i.akamaihd.net/hls/live/569779/tablive/sky2.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vPoYbHR.png" group-title="AUSTRALIAN SPORTS",Sky Thoroughbred Central
 https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/stcsd.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/RDS_logo.svg/1920px-RDS_logo.svg.png" group-title="CANADIAN SPORTS",RDS
+http://iptvtree.net:8080/live/iptvromania2020/31e75bff/280913.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Reseau_Des_Sport_2.svg/1920px-Reseau_Des_Sport_2.svg.png" group-title="CANADIAN SPORTS",RDS 2
+http://iptvtree.net:8080/live/iptvromania2020/31e75bff/495.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/97/Rds_info.svg/1920px-Rds_info.svg.png" group-title="CANADIAN SPORTS",RDS Info
+http://iptvtree.net:8080/live/iptvromania2020/31e75bff/496.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bpS1hON.png" group-title="CANADIAN SPORTS",Sportsnet 360
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
@@ -3924,7 +3936,7 @@ https://networkbest.ru.com/cdn/premium418/tracks-v1a1/mono.m3u8
 #EXTVLCOPT:http-referrer=https://player.licenses4.me
 https://networkbest.ru.com/cdn/premium419/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/lzmhX3a.png" group-title="AFRICAN SPORTS",Supersport WWE
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lzmhX3a.png" group-title="AFRICAN SPORTS",WWE Channel
 http://20062016.com:80/turki/turki/107169
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b2/AbuDhabiSports2020.jpg" group-title="ARABIC SPORTS",Abu Dhabi Sports 1
@@ -4584,28 +4596,25 @@ https://d1211whpimeups.cloudfront.net/smil:rtb2/playlist.m3u8
 https://d1211whpimeups.cloudfront.net/smil:rtb1/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/ABC_Spark_Logo.png" group-title="CANADA",ABC Spark
-http://new-pro.tv:8080/mazen1/123456/69350
+http://iptvtree.net:8080/live/iptvromania2020/31e75bff/13236.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/w2IwLlA.png" group-title="CANADA",CBC
-http://new-pro.tv:8080/mazen1/123456/69438
+http://iptvtree.net:8080/live/iptvromania2020/31e75bff/429.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/h1GAgKq.png" group-title="CANADA",City TV
 http://new-pro.tv:8080/mazen1/123456/69444
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/CTV_logo_2018.svg/1920px-CTV_logo_2018.svg.png" group-title="CANADA",CTV
-http://new-pro.tv:8080/mazen1/123456/109675
+http://iptvtree.net:8080/live/iptvromania2020/31e75bff/473.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/CTV_2_2018.svg/1920px-CTV_2_2018.svg.png" group-title="CANADA",CTV 2
-http://new-pro.tv:8080/mazen1/123456/122098
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/CTV_Life_Channel_2019.svg/800px-CTV_Life_Channel_2019.svg.png" group-title="CANADA",CTV Life Channel
-http://new-pro.tv:8080/mazen1/123456/302596
+http://iptvtree.net:8080/live/iptvromania2020/31e75bff/9315.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lxbuF5X.png" group-title="CANADA",Global
-http://new-pro.tv:8080/mazen1/123456/302592
+http://iptvtree.net:8080/live/iptvromania2020/31e75bff/465.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cf/Current_Logo_of_Ici_Radio-Canada_T%C3%A9l%C3%A9_%282016-present%29.svg/1920px-Current_Logo_of_Ici_Radio-Canada_T%C3%A9l%C3%A9_%282016-present%29.svg.png" group-title="CANADA",Ici Télé
-http://new-pro.tv:8080/mazen1/123456/302593
+http://iptvtree.net:8080/live/iptvromania2020/31e75bff/490.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RyHlWek.png" group-title="CANADA",Omni 1
 http://new-pro.tv:8080/mazen1/123456/109681
@@ -4614,10 +4623,10 @@ http://new-pro.tv:8080/mazen1/123456/109681
 http://new-pro.tv:8080/mazen1/123456/69371
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Logotipo_de_Canal_13.png/1024px-Logotipo_de_Canal_13.png" group-title="CHILE",Canal 13
-http://new-pro.tv:8080/mazen1/123456/313072
+http://iptvtree.net:8080/live/iptvromania2020/31e75bff/8955.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zUykSnY.png" group-title="CHILE",ChileVisión
-http://new-pro.tv:8080/mazen1/123456/313075
+http://iptvtree.net:8080/live/iptvromania2020/31e75bff/8966.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FvVU1mC.png" group-title="CHILE",La Red
 https://unlimited1-cl-isp.dps.live/lared/lared.smil/playlist.m3u8
@@ -4626,16 +4635,16 @@ https://unlimited1-cl-isp.dps.live/lared/lared.smil/playlist.m3u8
 https://unlimited1-cl-isp.dps.live/mega/mega.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iz00wIP.png" group-title="CHILE",TV+
-http://new-pro.tv:8080/mazen1/123456/313087
+http://iptvtree.net:8080/live/iptvromania2020/31e75bff/76339.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Logotipo_de_Televisi%C3%B3n_Nacional_de_Chile.svg/1920px-Logotipo_de_Televisi%C3%B3n_Nacional_de_Chile.svg.png" group-title="CHILE",TVN
-http://new-pro.tv:8080/mazen1/123456/313078
+http://iptvtree.net:8080/live/iptvromania2020/31e75bff/8976.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Ucvtvlogo2014mejorado.png/1280px-Ucvtvlogo2014mejorado.png" group-title="CHILE",UCV
 http://unlimited6-cl.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/n61ReKT.png" group-title="CROATIA",Doma Hrvatska
-http://new-pro.tv:8080/mazen1/123456/55751
+http://iptvtree.net:8080/live/iptvromania2020/31e75bff/3398.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XwhAUmO.png" user-agent="Mozilla/5.0 (X11; Linux i686; rv:90.0) Gecko/20100101 Firefox/90.0" group-title="CROATIA",HRT 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux i686; rv:90.0) Gecko/20100101 Firefox/90.0
@@ -4654,14 +4663,14 @@ http://195.29.70.67/PLTV/88888888/224/3221226280/index.m3u8
 http://195.29.70.89/PLTV/88888888/224/3221226281/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Nova_TV_Croatia_logo.png/640px-Nova_TV_Croatia_logo.png" group-title="CROATIA",Nova TV
-http://new-pro.tv:8080/mazen1/123456/21410
+http://iptvtree.net:8080/live/iptvromania2020/31e75bff/16590.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Rtl-logo.svg/1920px-Rtl-logo.svg.png" user-agent="Mozilla/5.0 (X11; Linux i686; rv:90.0) Gecko/20100101 Firefox/90.0" group-title="CROATIA",RTL Hrvatska
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux i686; rv:90.0) Gecko/20100101 Firefox/90.0
 http://195.29.70.67/PLTV/88888888/224/3221226195/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/RTL_2_Logo.svg/1024px-RTL_2_Logo.svg.png" group-title="CROATIA",RTL 2 Hrvatska
-http://new-pro.tv:8080/mazen1/123456/21424
+http://iptvtree.net:8080/live/iptvromania2020/31e75bff/3400.m3u8
 
 #EXTINF:-1 tvg-id="6ter.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8a/M6_6ter_2012.png" group-title="FRANCE",6ter
 http://callofliberty.fr/stream/6ter/master.m3u8
@@ -4701,7 +4710,7 @@ https://shls-m6-france-prod-dub.shahid.net/out/v1/c8a9f6e000cd4ebaa4d2fc7d18c159
 http://callofliberty.fr/stream/nrj12/master.m3u8
 
 #EXTINF:-1 tvg-id="ParisPremiere.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d1/Paris_Premi%C3%A8re_2011.svg/1920px-Paris_Premi%C3%A8re_2011.svg.png" group-title="FRANCE",Paris Première
-http://new-pro.tv:8080/mazen1/123456/70630
+http://iptvtree.net:8080/live/iptvromania2020/31e75bff/868.m3u8
 
 #EXTINF:-1 tvg-id="TF1.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dc/TF1_logo_2013.png" group-title="FRANCE",TF1
 http://callofliberty.fr/stream/TF1/master.m3u8
@@ -4717,13 +4726,13 @@ http://callofliberty.fr/stream/TMC/master.m3u8
 http://callofliberty.fr/stream/w9/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ujQVb6l.png" group-title="GERMANY",Das Erste
-http://new-pro.tv:8080/mazen1/123456/27627
+http://iptvtree.net:8080/live/iptvromania2020/31e75bff/2386.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/ProSieben_Logo_2015.svg/800px-ProSieben_Logo_2015.svg.png" group-title="GERMANY",ProSieben Deutschland
-http://new-pro.tv:8080/mazen1/123456/71176
+http://iptvtree.net:8080/live/iptvromania2020/31e75bff/887.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DObtzRS.png" group-title="GERMANY",ProSieben Maxx
-http://new-pro.tv:8080/mazen1/123456/27645
+http://iptvtree.net:8080/live/iptvromania2020/31e75bff/2077.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/RTL_DE_Logo_2021_blau_petrol_lila.png" group-title="GERMANY",RTL Deutschland
 http://80.24.75.92:5555/udp/239.110.17.1:1234
@@ -4738,34 +4747,34 @@ http://80.24.75.92:5555/udp/239.110.20.1:1234
 http://80.24.75.92:5555/udp/239.110.17.3:1234
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/ZDF_logo.svg/1920px-ZDF_logo.svg.png" group-title="GERMANY",ZDF
-http://new-pro.tv:8080/mazen1/123456/27634
+http://iptvtree.net:8080/live/iptvromania2020/31e75bff/409.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/eb/Alpha_TV_logo.svg/800px-Alpha_TV_logo.svg.png" group-title="GREECE",Alpha TV
-http://alphatvlive.siliconweb.com/1/Y2Rsd1lUcUVoajcv/UVdCN25h/hls/live/playlist.m3u8
+http://iptvtree.net:8080/live/iptvromania2020/31e75bff/12.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/1/11/Ant1_Logo.png" group-title="GREECE",ANT1
-http://new-pro.tv:8080/mazen1/123456/320199
+http://iptvtree.net:8080/live/iptvromania2020/31e75bff/132.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/ERT1_logo_2020.svg/1920px-ERT1_logo_2020.svg.png" group-title="GREECE",ERT 1
-http://new-pro.tv:8080/mazen1/123456/320187
+http://iptvtree.net:8080/live/iptvromania2020/31e75bff/3.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/ERT2_logo_2020.svg/1920px-ERT2_logo_2020.svg.png" group-title="GREECE",ERT 2
-http://new-pro.tv:8080/mazen1/123456/320211
+http://iptvtree.net:8080/live/iptvromania2020/31e75bff/136.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/ERT3_logo_2020.svg/1920px-ERT3_logo_2020.svg.png" group-title="GREECE",ERT 3
-http://new-pro.tv:8080/mazen1/123456/320212
+http://iptvtree.net:8080/live/iptvromania2020/31e75bff/137.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/txSfwGs.png" group-title="GREECE",Mega TV HD
-https://streamcdnm17-c98db5952cb54b358365984178fb898a.msvdn.net/live/S86713049/gonOwuUacAxM/playlist.m3u8
+https://streamcdnh3-c98db5952cb54b358365984178fb898a.msvdn.net/live/S86713049/gonOwuUacAxM/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ws2V9WC.png" group-title="GREECE",Open Beyond TV
 http://liveopencloud.siliconweb.com/1/ZlRza2R6L2tFRnFJ/eWVLSlQx/hls/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Tja6xR5.png" group-title="GREECE",Skaï
-http://skai-live-gr-cy-back.siliconweb.com/media/cambria4/index_bitrate2000K.m3u8
+http://iptvtree.net:8080/live/iptvromania2020/31e75bff/2670.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Lo5k7Dm.png" group-title="GREECE",Star Channel
-https://livestar.siliconweb.com/media/star1/star1mediumhd.m3u8
+http://iptvtree.net:8080/live/iptvromania2020/31e75bff/2662.m3u8
 
 #EXTINF:-1 tvg-id="AndTV.in" tvg-logo="https://i.imgur.com/HxXyffb.png" group-title="INDIA",& tv
 http://208.86.19.13:81/703.stream/index.m3u8
