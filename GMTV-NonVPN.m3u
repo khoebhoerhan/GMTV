@@ -2129,9 +2129,6 @@ http://streamvideol1.luxnet.ua/news24/news24.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Rada_TV_%282021%29.svg/1920px-Rada_TV_%282021%29.svg.png" group-title="UKRAINIAN NEWS",Рада
 https://rada-rtmp.adamant.net/hls/rada.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Ukraine24_logo.svg/1920px-Ukraine24_logo.svg.png" group-title="UKRAINIAN NEWS",Україна 24
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCMp5Buw-6LpbbV9r9Sl_5yg/live
-
 #EXTINF:-1 tvg-id="BFMTV.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b6/Logo_BFM_TV_%282019%29.png" group-title="FRENCH NEWS",BFM TV
 http://callofliberty.fr/stream/BFMTV/master.m3u8
 
@@ -2227,7 +2224,7 @@ https://raw.githubusercontent.com/etag2000/IPTV/YTlive/ctsnews.m3u8
 https://raw.githubusercontent.com/etag2000/IPTV/YTlive/ctvnews.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/e/e2/FTV_News_Logo.png" group-title="MANDARIN NEWS",FTV News
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/FTVLIVE/live
+https://ytlive7.herokuapp.com/index.m3u8?id=yguQ1SzPM5U
 
 #EXTINF:-1 tvg-id="PhoenixInfoNewsChannel.hk" tvg-logo="https://i.imgur.com/eSNdW3n.png" group-title="MANDARIN NEWS",Phoenix InfoNews Channel
 https://playtv-live.ifeng.com/live/06OLEEWQKN4_tv1.m3u8
@@ -2238,8 +2235,11 @@ https://playtv-live.ifeng.com/live/06OLEGEGM4G_tv1.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/9d/TDM_Informa%C3%A7%C3%A3o.jpg" group-title="MANDARIN NEWS",TDM 澳門資訊頻道
 http://live4.tdm.com.mo/ch5/_definst_/info_ch5.live/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/1/1c/Tvbsnews.png" group-title="MANDARIN NEWS",TVBS News
+https://ytlive7.herokuapp.com/index.m3u8?id=2mCSYvcfhtc
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Logo_24HorasTVN.svg/1920px-Logo_24HorasTVN.svg.png" group-title="LATINO NEWS",24 Horas
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/24horasCl/live
+https://ytlive7.herokuapp.com/index.m3u8?id=G34wUsQgDcA
 
 #EXTINF:-1 tvg-id="A24.ar" tvg-logo="https://i.imgur.com/XyKKCz3.png" group-title="LATINO NEWS",A24
 #EXTVLCOPT:http-user-agent=Samsung SM-G550T stagefright/Beyonce/12.12.9 (Linux;Android 6.0.12)
@@ -2250,9 +2250,6 @@ http://pubads.g.doubleclick.net/ssai/event/XZLLJIhJRNqz33DGp6NdkA/master.m3u8
 
 #EXTINF:-1 tvg-id="Canal26.ar" tvg-logo="https://i.imgur.com/wrh58Qz.png" group-title="LATINO NEWS",Canal 26
 http://live-edge01.telecentro.net.ar/live/smil:c26.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/svLEZiX.png" group-title="LATINO NEWS",Meganoticias
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/Meganoticiasoficial/live
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/49pK1bB.png" group-title="LATINO NEWS",Información Periodística
 https://d1nmqgphjn0y4.cloudfront.net/live/ip/live.isml/live-audio_1=128000-video=4499968.m3u8
@@ -2268,9 +2265,6 @@ http://ye23.win/iptv/korea2021.php?id=ytn
 
 #EXTINF:-1 tvg-id="YonhapNewsTV.kr" tvg-logo="https://i.imgur.com/SvbO21Y.png" group-title="KOREAN NEWS",연합뉴스TV
 https://ducg38fv680xm.cloudfront.net/yeonhap_3M.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/LdtPxMR.png" group-title="KOREAN NEWS",KBS News D
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/newskbs/live
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QeV1sma.png" group-title="NON-ENGLISH NEWS",TV 2 Nyhetskanalen
 https://ws15-hls-live.akamaized.net/out/u/1153546.m3u8
@@ -2337,7 +2331,7 @@ http://freelive2.inwstream.com:1935/freelive-edge/tptv/playlist.m3u8
 https://abscbn-ono.akamaized.net/midroll/amagi_hls_data_abscbnAAA-abscbn-anc-global/CDN/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HnS25Hi.png" group-title="PINOY NEWS",DZRH TV
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/DZRHNewsTelevision/live
+https://ytlive7.herokuapp.com/index.m3u8?id=qU4b-FNnugM
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HUxC09L.png" group-title="PINOY NEWS",SMNI News Channel
 https://api.new.livestream.com/accounts/19079954/events/7831871/live.m3u8
