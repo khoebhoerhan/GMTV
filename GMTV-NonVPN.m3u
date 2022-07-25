@@ -983,6 +983,12 @@ https://iptv-sniper.herokuapp.com/localtv.php?channel=13
 #EXTINF:-1 tvg-id="PBO.ph" tvg-logo="https://i.imgur.com/UgllBq4.png" group-title="PINOY MOVIES",PBO
 https://iptv-sniper.herokuapp.com/localtv.php?channel=12
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/H1RFljh.png" group-title="PINOY MOVIES",Tagalized Movie Channel
+https://iptv-sniper.herokuapp.com/localtv.php?channel=9
+
+#EXTINF:-1 tvg-id="CelestialMoviesPinoy.hk" tvg-logo="https://i.imgur.com/oTpVWGU.png" group-title="PINOY MOVIES",Celestial Movies Pinoy
+http://tiny.one/celestialpinoy
+
 #EXTINF:-1 tvg-id="CinemaOneGlobal.ph" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6d/Cinema_One_2013_logo.svg/1200px-Cinema_One_2013_logo.svg.png" group-title="PINOY MOVIES",Cinema One
 https://abscbn-ono.akamaized.net/midroll/amagi_hls_data_abscbnAAA-abscbn-cinemaone/CDN/playlist.m3u8
 
