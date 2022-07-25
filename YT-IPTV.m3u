@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/aa/Times_Now_2010.png" group-title="YT Live Test",Times Now
+https://ytlive7.herokuapp.com/index.m3u8?id=-aNLNkmqtsg
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vPAwWou.png" group-title="YT Live Test",ET Now
+https://ytlive7.herokuapp.com/index.m3u8?id=fP9JZ9xDnhc
+
+#EXTINF:-1 tvg-id="IndiaTV.in" tvg-logo="https://i.imgur.com/BFsM05S.png" group-title="YT Live Test",India TV
+https://ytlive7.herokuapp.com/index.m3u8?id=Xmm3Kr5P1Uw
