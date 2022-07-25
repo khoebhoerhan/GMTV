@@ -1952,13 +1952,13 @@ https://live2.tvg.ge/eng/EURONEWSGEORGIA/playlist.m3u8
 https://stream-cdn.mncnow.id/live/eds/France24/sa_dash_vmx/France24.mpd
 
 #EXTINF:-1 tvg-id="France24Arabic.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/65/FRANCE_24_logo.svg/800px-FRANCE_24_logo.svg.png" group-title="ARABIC NEWS",France 24 Arabic
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/FRANCE24Arabic/live
+https://ytlive7.herokuapp.com/index.m3u8?id=8BZpOolYLUA
  
 #EXTINF:-1 tvg-id="France24Espanol.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/65/FRANCE_24_logo.svg/800px-FRANCE_24_logo.svg.png" group-title="SPANISH NEWS",France 24 Español
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/FRANCE24Espanol/live
+https://ytlive7.herokuapp.com/index.m3u8?id=XDJPzMznAjU
  
 #EXTINF:-1 tvg-id="France24French.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/65/FRANCE_24_logo.svg/800px-FRANCE_24_logo.svg.png" group-title="FRENCH NEWS",France 24 Français
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/FRANCE24/live
+https://ytlive7.herokuapp.com/index.m3u8?id=u9foWyMSATM
 
 #EXTINF:0 tvg-id="DWEnglish.de" tvg-logo="https://i.imgur.com/0x1fWbw.png" group-title="WORLD NEWS",DW English
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -2425,7 +2425,7 @@ https://tezlive-amd.akamaized.net/hls/live/2016145/tez/tezlive/tez_5/chunklist.m
 https://itvoign.multitvsolution.com/hls/inkhabar_itv_720_900k.m3u8
 
 #EXTINF:-1 tvg-id="IndiaTV.in" tvg-logo="https://i.imgur.com/BFsM05S.png" group-title="HINDI NEWS",India TV
-https://1cc9-43-205-111-136.in.ngrok.io/autoq.php?c=India_TV
+https://ytlive7.herokuapp.com/index.m3u8?id=Xmm3Kr5P1Uw
 
 #EXTINF:-1 tvg-id="NDTVIndia.in" tvg-logo="https://i.imgur.com/13hqQkh.png" group-title="HINDI NEWS",NDTV India
 https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/ndtvindiamaster.m3u8
@@ -2434,7 +2434,7 @@ https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/ndtvindiam
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x7t0g3i
 
 #EXTINF:-1 tvg-id="News18India.in" tvg-logo="https://i.imgur.com/1Oze9HT.png" group-title="HINDI NEWS",News 18 India
-http://iptvtree.net:8080/live/iptvromania2020/31e75bff/247511.m3u8
+https://ytlive7.herokuapp.com/index.m3u8?id=jTc5NN19qYs
 
 #EXTINF:-1 tvg-id="News24.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/News24_Logo.jpg" group-title="HINDI NEWS",News 24
 https://vidcdn.vidgyor.com/news24-origin/liveabr/news24-origin/live1/chunks.m3u8
@@ -2447,6 +2447,9 @@ https://pubads.g.doubleclick.net/ssai/event/nRWQsGoJSzmcErJFgAy67g/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aUfDyOT.png" group-title="HINDI NEWS",TV9 Bharatvarsh
 https://vidcdn.vidgyor.com/tv9bharatvarsh-origin/live/tv9bharatvarsh-origin/live1/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zwN5Oz0.png" group-title="HINDI NEWS",Zee Hindustan
+https://ytlive7.herokuapp.com/index.m3u8?id=EtJ88C-lNUg
 
 #EXTINF:-1 tvg-id="ZeeNews.in" tvg-logo="https://i.imgur.com/ebqagsj.png" group-title="HINDI NEWS",Zee News
 https://d233nwklwv8p4.cloudfront.net/out/v1/860cb318d23a4c64b58c9d625281170c/index_3.m3u8
