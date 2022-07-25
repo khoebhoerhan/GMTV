@@ -1741,7 +1741,7 @@ https://stream-cdn.mncnow.id/live/eds/BBCEarth-HD/sa_dash_vmx/BBCEarth-HD.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DFbrYzh.png" group-title="KNOWLEDGE",TechStorm
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(abe4ead2-1a88-4330-9f41-382fcf94bba2)/manifest.mpd
 
-#EXTINF:-1 tvg-id="KnowledgeChannel.ph" tvg-name="Knowledge Channel" tvg-logo="https://i.ibb.co/kBQSvsJ/IMG-20201226-104652.png" group-title="KNOWLEDGE",Knowledge Channel
+#EXTINF:-1 tvg-id="KnowledgeChannel.ph" tvg-logo="https://i.imgur.com/YHJBfjd.png" group-title="KNOWLEDGE",Knowledge Channel
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla&Referrer=https%3A%2F%2Ftfc.tv%2F&X-Forwarded-For=175.176.0.236
@@ -4077,6 +4077,12 @@ https://stream01.willfonk.com/live_playlist.m3u8?cid=CS257&r=HD&ccode=JP&m=d0:20
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8TcSkND.png" group-title="JAPANESE SPORTS",Sky A
 https://stream01.willfonk.com/live_playlist.m3u8?cid=CS250&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UfGRPSO.png" group-title="KOREAN SPORTS",JTBC Golf
+https://allanf181.github.io/adaptive-streams/streams/kr/JTBCGolf.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ToiFXqp.png" group-title="KOREAN SPORTS",JTBC Golf&Sports
+https://allanf181.github.io/adaptive-streams/streams/kr/JTBCGolfSports.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/x4dJGb7.png" group-title="KOREAN SPORTS",KBS N Sports
 http://51.81.66.195:1935/krtv/kbs_n_sports_540/playlist.m3u8
 
@@ -4090,7 +4096,7 @@ http://ye23.win/iptv/sbs5.1.php?id=S05
 http://ye23.win/iptv/sbs5.1.php?id=S02
 
 #EXTINF:-1 tvg-id="SkySports.kr" tvg-logo="https://i.imgur.com/LAdhx1A.png" group-title="KOREAN SPORTS",skySports
-http://51.81.66.195:1935/krtv/sky_sports_540/playlist.m3u8
+https://allanf181.github.io/adaptive-streams/streams/kr/SkySports.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Bj0MyZQ.png" group-title="KOREAN SPORTS",SPOTV
 http://live-kr.television4you.xyz/spotv/mpegts
@@ -4936,7 +4942,13 @@ https://stream01.willfonk.com/live_playlist.m3u8?cid=BS181&r=HD&ccode=JP&m=d0:20
 http://ye23.win/iptv/korea2021.php?id=Channel
 
 #EXTINF:0 tvg-id="JTBC.kr" tvg-logo="https://i.imgur.com/mGIO50z.png" group-title="KOREA",JTBC
-http://51.81.66.195:1935/krtv/jtbc_540/playlist.m3u8
+https://allanf181.github.io/adaptive-streams/streams/kr/JTBC.m3u8
+
+#EXTINF:0 tvg-id="JTBC2.kr" tvg-logo="https://i.imgur.com/yQqaE1V.png" group-title="KOREA",JTBC2
+https://allanf181.github.io/adaptive-streams/streams/kr/JTBC2.m3u8
+
+#EXTINF:0 tvg-id="JTBC4.kr" tvg-logo="https://i.imgur.com/LT7zXPE.png" group-title="KOREA",JTBC4
+https://allanf181.github.io/adaptive-streams/streams/kr/JTBC4.m3u8
 
 #EXTINF:0 tvg-id="MBCTV.kr"tvg-logo="https://i.imgur.com/r9gNY5R.png" group-title="KOREA",MBC
 http://123.254.72.24:1935/tvlive/livestream2/playlist.m3u8
@@ -4963,13 +4975,13 @@ http://ye23.win/iptv/sbs5.1.php?id=S04
 http://ye23.win/iptv/sbs5.1.php?id=S03
 
 #EXTINF:-1 tvg-id="Mnet.kr" tvg-logo="https://i.imgur.com/ho02Nl2.png" group-title="KOREA",MNet
-http://51.81.66.195:1935/krtv/mnet_540/playlist.m3u8
+https://allanf181.github.io/adaptive-streams/streams/kr/Mnet.m3u8
 
 #EXTINF:-1 tvg-id="tvN.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Logo_tvN.svg/1920px-Logo_tvN.svg.png" group-title="KOREA",tvN
-https://tvn-seezn.pip.cjenm.com/tvn/_definst_/s5/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2MjI4OTQ5OTUsInBhdGgiOiIvdHZuL19kZWZpbnN0Xy9zNSIsInVubyI6IjE2MjI4OTQ2OTU0MzQzNTU1NSIsImlhdCI6MTYyMjg5NDY5NX0.uTI9slMSRoAbTQ0zGWoEWepnugD9iC-LumyD4dUMJSE
+https://allanf181.github.io/adaptive-streams/streams/kr/tvN.m3u8
 
 #EXTINF:-1 tvg-id="tvNShow.kr" tvg-logo="https://i.imgur.com/L0E2Mtw.png" group-title="KOREA",tvN Show
-https://xtvn-seezn.pip.cjenm.com/xtvn/_definst_/s5/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2MjI4NDEzOTcsInBhdGgiOiIveHR2bi9fZGVmaW5zdF8vczUiLCJ1bm8iOiIxNjIyODQxMDk3Mzc3ODk1NDkiLCJpYXQiOjE2MjI4NDEwOTd9.9pi9B9edYbRI9XfkmAzB_Eo1bYiv9ubHtljPhMNAKfM
+https://allanf181.github.io/adaptive-streams/streams/kr/tvNShow.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XALETXe.png" group-title="KOSOVO",RTK 1
 http://84.22.56.10:1935/rtk1stream/rtk1.stream/playlist.m3u8
@@ -5057,7 +5069,7 @@ https://iptv-sniper.herokuapp.com/localtv.php?channel=5
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/40/GTV_Philippines_Logo_Vector.svg/1280px-GTV_Philippines_Logo_Vector.svg.png" group-title="PHILIPPINES",GTV
 https://iptv-sniper.herokuapp.com/localtv.php?channel=7
 
-#EXTINF:-1 tvg-id="JeepneyTV.ph" tvg-logo="https://i.imgur.com/exXrVlp.png" group-title="PHILIPPINES",Jeepney TV
+#EXTINF:-1 tvg-id="JeepneyTV.ph" tvg-logo="https://i.imgur.com/szxwQBn.png" group-title="PHILIPPINES",Jeepney TV
 https://iptv-sniper.herokuapp.com/localtv.php?channel=76
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/People%27s_Televsion_Network_Incorporated_%28PTV%29.svg/1200px-People%27s_Televsion_Network_Incorporated_%28PTV%29.svg.png" group-title="PHILIPPINES",PTV
