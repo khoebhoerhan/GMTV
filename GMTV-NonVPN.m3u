@@ -774,10 +774,19 @@ https://shls-lbci-prod-dub.shahid.net/out/v1/d8cce30036e743318a7f338539689968/in
 https://mn-nl.mncdn.com/tvri_test/smil:tvri_test.smil/chunklist_b1120000.m3u8 
 
 
-#EXTINF:0 tvg-id="MusicTV.id" tvg-logo="https://i.imgur.com/K49jYHw.png" group-title="ASIAN MUSIC",Music TV
+#EXTINF:0 tvg-id="MusicTV.id" tvg-logo="https://i.imgur.com/K49jYHw.png" group-title="NATIONAL MUSIC",Music TV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MjhkOWZkZjYtOGViOC0zNTkzLWFhOWEtNGFhMzJkMDk3NGE2
 https://stream-cdn.mncnow.id/live/eds/MusicChannel/sa_dash_vmx/MusicChannel.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2WTVqYg.png" group-title="NATIONAL MUSIC",Musik Indonesia
+http://iptvid.my.id/hmm/musikindo.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XD4fyZS.png" group-title="NATIONAL MUSIC",Prambors
+http://iptvid.my.id/hmm/prambors.m3u8 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PPJLB5Z.png" group-title="NATIONAL MUSIC",i-Konser
+http://iptvid.my.id/hmm/ikonser.m3u8 
 
 #EXTINF:-1 tvg-id="MTVLive.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/MTV_Live_2021_logo.svg/1024px-MTV_Live_2021_logo.svg.png" group-title="WORLD MUSIC",MTV Live
 http://iptv.prosto.tv:7000/ch128/video.m3u8
@@ -905,7 +914,7 @@ https://m3u-editor.com/serve/251f4150-88de-11ec-8657-6776f99ecd96/494142671
 https://stream-cdn.mncnow.id/live/eds/IndonesiaMovieChannels-HD/sa_dash_vmx/IndonesiaMovieChannels-HD.mpd
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/khhBdiS.png" group-title="NATIONAL MOVIES",Flik
-https://nonton.site:8443/live/mustakim/mustakim/29592.m3u8
+http://iptvid.my.id/hmm/flik.m3u8
 
 #EXTINF:-1 tvg-id="CitraBioskop.id" tvg-logo="https://i.imgur.com/lN20Oy7.png" group-title="NATIONAL MOVIES",Citra Bioskop
 https://tvn10.xyz/Meta/master-2.m3u8|User-Agent=android-12
@@ -1682,7 +1691,7 @@ https://vips-livecdn.fptplay.net/hda2/davincihd_vhls.smil/playlist.m3u8
 https://vips-livecdn.fptplay.net/hda3/dreamworks_vhls.smil/chunklist_b5000000.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SU2QKXj.png" group-title="KIDS",IndiKids
-https://nonton.site:8443/live/mustakim/mustakim/3479.m3u8
+http://iptvid.my.id/hmm/indikids.m3u8 
 
 #EXTINF:-1 tvg-id="AstroCeria.my" tvg-logo="https://i.imgur.com/8s1jRRh.png" group-title="KIDS",Astro Ceria
 #KODIPROP:inputstream.adaptive.license_type=clearkey
