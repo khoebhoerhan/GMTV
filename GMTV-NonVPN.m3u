@@ -2970,7 +2970,7 @@ http://new-pro.tv:8080/mazen1/123456/70393
 https://networkbest.ru.com/cdn/premium39/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jxLMBZt.png" group-title="AMERICAN SPORTS",FS2
-http://new-pro.tv:8080/mazen1/123456/116154
+http://2ns9iqxa.russtv.net/iptv/EL873UXD746P96/7323/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/MLBNetworkLogo.svg/800px-MLBNetworkLogo.svg.png" group-title="AMERICAN SPORTS",MLB Network
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
@@ -3764,8 +3764,11 @@ https://networkbest.ru.com/cdn/premium150/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Crvxgth.png" group-title="LATINO SPORTS",ESPN 3 Latin America
 https://cvi.cdn.rcs.net.ar/anevia/live/localdisk/ESPN3/SA_HLS/ESPN3-avc1_5999616=12-mp4a_68000_spa=4.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/89RCPvg.png" group-title="LATINO SPORTS",ESPN 4 Latin America
+http://103.125.191.32:9981/stream/channelid/1255807346?profile=cvaceplus
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sIUdUaB.png" group-title="LATINO SPORTS",ESPN Extra Latin America
-http://new-pro.tv:8080/mazen1/123456/73573
+http://103.125.191.32:9981/stream/channelid/64137221?profile=cvaceplus
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Au1Wa24.png" group-title="LATINO SPORTS",Fox Sports Latin America
 https://cvi.cdn.rcs.net.ar/mnp/fox_sport_hls/playlist.m3u8
@@ -3783,13 +3786,13 @@ https://5g9s179kfgx9wn8tqwj9-cul47i-edc.p5cdn.com/dlive/transcode-92-211/nqefwin
 https://d3awnlgqz0szay.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index_9.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1920px-ESPN_wordmark.svg.png" group-title="MEXICAN SPORTS",ESPN México
-http://new-pro.tv:8080/mazen1/123456/298695
+http://103.125.191.32:9981/stream/channelid/1704392897?profile=cvaceplus
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/1280px-ESPN2_logo.svg.png" group-title="MEXICAN SPORTS",ESPN 2 México
-http://new-pro.tv:8080/mazen1/123456/72557
+http://103.125.191.32:9981/stream/channelid/1923023524?profile=cvaceplus
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Crvxgth.png" group-title="MEXICAN SPORTS",ESPN 3 México
-http://new-pro.tv:8080/mazen1/123456/72558
+http://103.125.191.32:9981/stream/channelid/1167297506?profile=cvaceplus
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Au1Wa24.png" group-title="MEXICAN SPORTS",Fox Sports México
 https://dizf8i52j4sep.cloudfront.net/out/v1/148af6c03e6d48b0a725611fae5ed3a7/index.mpd
