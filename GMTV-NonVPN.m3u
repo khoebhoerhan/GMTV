@@ -867,6 +867,9 @@ http://84.17.61.200:8085/udp/238.2.0.46:1234
 #EXTINF:-1 tvg-id="M6Music.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c9/M6_Music_%282012%29.png" group-title="EUROPEAN MUSIC",M6 Music
 http://190.2.155.162:8080/m6music/mpegts
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/X7VxlBN.png" group-title="EUROPEAN MUSIC",MTV Portugal
+http://45.92.69.72:8000/play/a0h7
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/X7VxlBN.png" group-title="LATINO MUSIC",MTV Latino Sud
 https://edge2-ccast-sl.cvattv.com.ar/live/c6eds/MTV_HD/SA_SAGEMCOM/MTV_HD.m3u8
 
@@ -1538,16 +1541,16 @@ http://iptvtree.net:8080/live/iptvromania2020/31e75bff/2187.m3u8
 http://iptvtree.net:8080/live/iptvromania2020/31e75bff/1473.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EZQZ2Dl.png" group-title="PORTUGUESE SERIES",AXN Portugal
-http://iptvtree.net:8080/live/iptvromania2020/31e75bff/1469.m3u8
+http://45.92.69.72:8000/play/a0go
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ShvOQxY.png" group-title="PORTUGUESE SERIES",AXN White
-http://iptvtree.net:8080/live/iptvromania2020/31e75bff/1467.m3u8
+http://45.92.69.72:8000/play/a0h5
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/FOX_wordmark-red_2.svg/1920px-FOX_wordmark-red_2.svg.png" group-title="PORTUGUESE SERIES",Fox Portugal
 http://iptvtree.net:8080/live/iptvromania2020/31e75bff/1461.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1ZR70ff.png" group-title="PORTUGUESE SERIES",Fox Comedy
-http://iptvtree.net:8080/live/iptvromania2020/31e75bff/1465.m3u8
+http://45.92.69.72:8001/play/a032
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Fox_Crime_2017.svg/1280px-Fox_Crime_2017.svg.png" group-title="PORTUGUESE SERIES",Fox Crime Portugal
 http://iptvtree.net:8080/live/iptvromania2020/31e75bff/1463.m3u8
