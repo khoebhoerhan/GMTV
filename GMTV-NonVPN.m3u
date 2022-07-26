@@ -2082,7 +2082,7 @@ https://live1.presstv.ir/live/presstv.m3u8
 https://live1.presstv.ir/live/hispan.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/j5Zdyy9.png" group-title="WORLD NEWS",A News
-https://ytlive7.herokuapp.com/index.m3u8?id=9-KuWZ_R6uY
+https://streamlive2021.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/c/ANewsGlobal
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/TeleSUR.jpg" group-title="WORLD NEWS",teleSUR English
 https://cdnenmain.telesur.ultrabase.net/mblivev3/hd/playlist.m3u8
@@ -2106,7 +2106,7 @@ https://itvoign.multitvsolution.com/hls/newsx_itv_720_900k.m3u8
 https://republicworld.amagi.tv/hls/amagi_hls_data_samsungin-republictv-samsungindia/CDN/playlist.m3u8
 
 #EXTINF:-1 tvg-id="DDIndia.in" tvg-logo="https://i.imgur.com/aME56Hq.png" group-title="INDIAN NEWS",DD India
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/DDIndia/live
+https://streamlive2021.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/c/DDIndia
 
 #EXTINF:-1 tvg-id="TimesNowWorld.in" tvg-logo="https://i.imgur.com/KkKbf1c.png" group-title="INDIAN NEWS",Times Now World
 http://iptvtree.net:8080/live/iptvromania2020/31e75bff/76961.m3u8
@@ -2224,7 +2224,7 @@ https://raw.githubusercontent.com/etag2000/IPTV/YTlive/ctsnews.m3u8
 https://raw.githubusercontent.com/etag2000/IPTV/YTlive/ctvnews.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/e/e2/FTV_News_Logo.png" group-title="MANDARIN NEWS",FTV News
-https://ytlive7.herokuapp.com/index.m3u8?id=yguQ1SzPM5U
+https://streamlive2021.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/c/FTVLIVE
 
 #EXTINF:-1 tvg-id="PhoenixInfoNewsChannel.hk" tvg-logo="https://i.imgur.com/eSNdW3n.png" group-title="MANDARIN NEWS",Phoenix InfoNews Channel
 https://playtv-live.ifeng.com/live/06OLEEWQKN4_tv1.m3u8
@@ -2239,7 +2239,7 @@ http://live4.tdm.com.mo/ch5/_definst_/info_ch5.live/playlist.m3u8
 https://ytlive7.herokuapp.com/index.m3u8?id=2mCSYvcfhtc
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Logo_24HorasTVN.svg/1920px-Logo_24HorasTVN.svg.png" group-title="LATINO NEWS",24 Horas
-https://ytlive7.herokuapp.com/index.m3u8?id=G34wUsQgDcA
+https://streamlive2021.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/c/24horasCl
 
 #EXTINF:-1 tvg-id="A24.ar" tvg-logo="https://i.imgur.com/XyKKCz3.png" group-title="LATINO NEWS",A24
 #EXTVLCOPT:http-user-agent=Samsung SM-G550T stagefright/Beyonce/12.12.9 (Linux;Android 6.0.12)
@@ -2331,7 +2331,7 @@ http://freelive2.inwstream.com:1935/freelive-edge/tptv/playlist.m3u8
 https://abscbn-ono.akamaized.net/midroll/amagi_hls_data_abscbnAAA-abscbn-anc-global/CDN/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HnS25Hi.png" group-title="PINOY NEWS",DZRH TV
-https://ytlive7.herokuapp.com/index.m3u8?id=qU4b-FNnugM
+https://streamlive2021.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/c/DZRHNewsTelevision
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HUxC09L.png" group-title="PINOY NEWS",SMNI News Channel
 https://api.new.livestream.com/accounts/19079954/events/7831871/live.m3u8
@@ -2419,16 +2419,16 @@ https://tezlive-amd.akamaized.net/hls/live/2016145/tez/tezlive/tez_5/chunklist.m
 https://itvoign.multitvsolution.com/hls/inkhabar_itv_720_900k.m3u8
 
 #EXTINF:-1 tvg-id="IndiaTV.in" tvg-logo="https://i.imgur.com/BFsM05S.png" group-title="HINDI NEWS",India TV
-https://ytlive7.herokuapp.com/index.m3u8?id=Xmm3Kr5P1Uw
+https://streamlive2021.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/c/IndiaTV
 
 #EXTINF:-1 tvg-id="NDTVIndia.in" tvg-logo="https://i.imgur.com/13hqQkh.png" group-title="HINDI NEWS",NDTV India
 https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/ndtvindiamaster.m3u8
 
 #EXTINF:-1 tvg-id="NewsNation.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/News_nation_logo.jpg" group-title="HINDI NEWS",News Nation
-https://ytlive7.herokuapp.com/index.m3u8?id=FPfAuOpbJMI
+https://streamlive2021.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/c/NewsNationTV
 
 #EXTINF:-1 tvg-id="News18India.in" tvg-logo="https://i.imgur.com/1Oze9HT.png" group-title="HINDI NEWS",News 18 India
-https://ytlive7.herokuapp.com/index.m3u8?id=jTc5NN19qYs
+https://streamlive2021.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/c/news18India
 
 #EXTINF:-1 tvg-id="News24.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/News24_Logo.jpg" group-title="HINDI NEWS",News 24
 https://vidcdn.vidgyor.com/news24-origin/liveabr/news24-origin/live1/chunks.m3u8
@@ -2443,7 +2443,7 @@ https://pubads.g.doubleclick.net/ssai/event/nRWQsGoJSzmcErJFgAy67g/master.m3u8
 https://vidcdn.vidgyor.com/tv9bharatvarsh-origin/live/tv9bharatvarsh-origin/live1/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zwN5Oz0.png" group-title="HINDI NEWS",Zee Hindustan
-https://ytlive7.herokuapp.com/index.m3u8?id=EtJ88C-lNUg
+https://streamlive2021.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/channel/UCjFKMoAk3qhRkW4eOqNm6dw
 
 #EXTINF:-1 tvg-id="ZeeNews.in" tvg-logo="https://i.imgur.com/ebqagsj.png" group-title="HINDI NEWS",Zee News
 https://d233nwklwv8p4.cloudfront.net/out/v1/860cb318d23a4c64b58c9d625281170c/index_3.m3u8
@@ -2476,7 +2476,7 @@ https://networkbest.ru.com/cdn/premium309/tracks-v1a1/mono.m3u8
 https://cnbcarabia.hibridcdn.net/cnbc/cnbc_abr/cnbc/cnbc_480p/chunks.m3u8?
 
 #EXTINF:-1 tvg-id="CNBCAwaaz.in" tvg-logo="https://i.imgur.com/K4v9gj2.png" group-title="BUSINESS NEWS",CNBC Awaaz
-https://ytlive7.herokuapp.com/index.m3u8?id=TD0A7fHAxKw
+https://streamlive2021.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/c/cnbcawaaz
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2W3OUr8.png" group-title="BUSINESS NEWS",CNBC TV 18
 https://1cc9-43-205-111-136.in.ngrok.io/autoq.php?c=CNBC_Tv_18
@@ -2494,7 +2494,7 @@ http://iptvtree.net:8080/live/iptvromania2020/31e75bff/295675.m3u8
 http://iptvtree.net:8080/live/iptvromania2020/31e75bff/16674.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UrRif3p.png" group-title="BUSINESS NEWS",A Para
-https://ytlive7.herokuapp.com/index.m3u8?id=bDMaldD9lbE
+https://streamlive2021.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/channel/UCzrGg6iyRDuUSnO0cQ5oLcA
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QgaTdiK.png" group-title="BUSINESS NEWS",EkoTürk
 http://iptvtree.net:8080/live/iptvromania2020/31e75bff/5712.m3u8
