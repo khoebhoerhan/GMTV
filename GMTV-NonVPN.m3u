@@ -2154,7 +2154,7 @@ http://callofliberty.fr/stream/PublicSenat/master.m3u8
 https://hls-origin01-ln24.cdn01.rambla.be/adliveorigin-ln24/_definst_/ApYjOq.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ntv.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/N-tv_logo-september2017.svg/1280px-N-tv_logo-september2017.svg.png" group-title="GERMAN NEWS",n-tv
-http://new-pro.tv:8080/mazen1/123456/27601
+https://s6.hopslan.com/ntvv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="tagesschau24.de" tvg-logo="https://i.imgur.com/eqE5cJ6.png" group-title="GERMAN NEWS",tagesschau 24
 https://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/master.m3u8
@@ -2597,7 +2597,7 @@ http://93.152.174.144:4000/play/barcatv/index.m3u8
 https://networkbest.ru.com/cdn/premium380/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ULcjgX4.png" group-title="CLUBS OF SPORTS",FB TV
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x21oo10
+http://iptvmasterlink.dyndns.org:8080/FbTv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YdipfBb.png" group-title="CLUBS OF SPORTS",GS TV
 https://owifavo5.rocketcdn.com/gstv/gstv.smil/chunklist_b846000_sltur.m3u8
