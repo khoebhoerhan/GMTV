@@ -4807,10 +4807,10 @@ http://callofliberty.fr/stream/w9/master.m3u8
 http://iptvtree.net:8080/live/iptvromania2020/31e75bff/2386.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/ProSieben_Logo_2015.svg/800px-ProSieben_Logo_2015.svg.png" group-title="GERMANY",ProSieben Deutschland
-http://iptvtree.net:8080/live/iptvromania2020/31e75bff/887.m3u8
+https://s6.hopslan.com/pro7q1/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DObtzRS.png" group-title="GERMANY",ProSieben Maxx
-http://iptvtree.net:8080/live/iptvromania2020/31e75bff/2077.m3u8
+https://s6.hopslan.com/pro7maxxv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/RTL_DE_Logo_2021_blau_petrol_lila.png" group-title="GERMANY",RTL Deutschland
 http://80.24.75.92:5555/udp/239.110.17.1:1234
@@ -4825,7 +4825,7 @@ http://80.24.75.92:5555/udp/239.110.20.1:1234
 http://80.24.75.92:5555/udp/239.110.17.3:1234
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/ZDF_logo.svg/1920px-ZDF_logo.svg.png" group-title="GERMANY",ZDF
-http://iptvtree.net:8080/live/iptvromania2020/31e75bff/409.m3u8
+https://s6.hopslan.com/zdfg1/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/eb/Alpha_TV_logo.svg/800px-Alpha_TV_logo.svg.png" group-title="GREECE",Alpha TV
 http://iptvtree.net:8080/live/iptvromania2020/31e75bff/12.m3u8
