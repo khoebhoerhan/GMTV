@@ -5111,7 +5111,7 @@ http://80.24.75.92:5555/udp/239.111.1.2:1234
 http://80.24.75.92:5555/udp/239.111.3.1:1234
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WeMtQ9y.png" group-title="PHILIPPINES",Net 25
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/Net25Tv/live
+https://streamlive2021.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/c/Net25Tv
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QTHVWGZ.png" group-title="PHILIPPINES",Cine Mo!
 https://abscbn-ono.akamaized.net/midroll/amagi_hls_data_abscbnAAA-abscbn-cinemo/CDN/playlist.m3u8
