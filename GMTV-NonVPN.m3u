@@ -629,7 +629,7 @@ http://rr.dens.tv/h/h158/index2.m3u8
 https://mdstrm.com/live-stream-playlist/5cae574f875a4e1adebe5c39.m3u8?access_token=DST4b676d7da5a2a92ee15f8efcbcd00606
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LD6hu1J.png" group-title="TURKISH ENTERTAINMENT",ATV Avrupa
-http://new-pro.tv:8080/mazen1/123456/71011
+http://iptvtree.net:8080/live/iptvromania2020/31e75bff/296360.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TQwXlDO.png" group-title="TURKISH ENTERTAINMENT",Euro D
 https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/playlist.m3u8
@@ -647,7 +647,7 @@ https://tv.ensonhaber.com/tv/tr/tgrteu/index.m3u8
 https://tv-trtturk.live.trt.com.tr/master_720.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fZU59wo.png" group-title="TURKISH ENTERTAINMENT",TV8 Int
-http://new-pro.tv:8080/mazen1/123456/58522
+http://iptvtree.net:8080/live/iptvromania2020/31e75bff/43500.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RdIJVDs.png" group-title="ARABIC ENTERTAINMENT",Abu Dhabi TV
 https://admdn2.cdn.mangomolo.com/adtv/smil:adtv.stream.smil/chunklist.m3u8
@@ -997,17 +997,17 @@ https://abscbn-ono.akamaized.net/midroll/amagi_hls_data_abscbnAAA-abscbn-cinemao
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MjhkOWZkZjYtOGViOC0zNTkzLWFhOWEtNGFhMzJkMDk3NGE2
 https://stream-cdn.mncnow.id/live/eds/Thrill/sa_dash_vmx/Thrill.mpd
 
-#EXTINF:0 tvg-id="CelestialMoviesIndonesia.id" tvg-logo="https://i.imgur.com/XMAtMiv.png" group-title="ASIAN MOVIES",Celestial Movies Indonesia
+#EXTINF:0 tvg-id="CelestialMoviesIndonesia.id" tvg-logo="https://i.imgur.com/XMAtMiv.png" group-title="CHINESE MOVIES",Celestial Movies Indonesia
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MjhkOWZkZjYtOGViOC0zNTkzLWFhOWEtNGFhMzJkMDk3NGE2
 https://stream-cdn.mncnow.id/live/eds/CelestialMovie/sa_dash_vmx/CelestialMovie.mpd
 
-#EXTINF:0 tvg-id="CelestialClassicMovies.hk" tvg-logo="https://i.imgur.com/kjrJpJg.png" group-title="ASIAN MOVIES",Celestial Classic Movies
+#EXTINF:0 tvg-id="CelestialClassicMovies.hk" tvg-logo="https://i.imgur.com/kjrJpJg.png" group-title="CHINESE MOVIES",Celestial Classic Movies
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MjhkOWZkZjYtOGViOC0zNTkzLWFhOWEtNGFhMzJkMDk3NGE2
 https://stream-cdn.mncnow.id/live/eds/CelestialClassic/sa_dash_vmx/CelestialClassic.mpd
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GA2ny64.png" group-title="ASIAN MOVIES",Star Chinese Movies
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GA2ny64.png" group-title="CHINESE MOVIES",Star Chinese Movies
 http://61.219.170.95:18529/http/192.168.1.9:8081/hls/62/804/ch07.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cSho1qa.png" group-title="VIETNAMESE MOVIES",K+ Cine
@@ -1354,14 +1354,20 @@ http://starshare.live:8080/live/usman007/usman007/4709.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oxukQ5T.png" group-title="ARABIC MOVIES",Fox Family Movies
 http://starshare.live:8080/live/usman007/usman007/4710.ts
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DFcvfrZ.png" group-title="ARABIC MOVIES",OSN Action
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aBuDWRk.png" group-title="ARABIC MOVIES",OSN Enigma
+http://iptvtree.net:8080/live/iptvromania2020/31e75bff/2856.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/V7jNp6E.png" group-title="ARABIC MOVIES",OSN Movies Action
 http://iptvtree.net:8080/live/iptvromania2020/31e75bff/2860.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ivNnlRW.png" group-title="ARABIC MOVIES",OSN Movies
-http://new-pro.tv:8080/mazen1/123456/248
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dqQlrHx.png" group-title="ARABIC MOVIES",OSN Movies Premiere
+http://iptvtree.net:8080/live/iptvromania2020/31e75bff/22118.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3pSGPHN.png" group-title="ARABIC MOVIES",OSN Movies First
 http://new-pro.tv:8080/mazen1/123456/3519
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7e2IiYV.png" group-title="ARABIC MOVIES",OSN Movies Hollywood
+http://iptvtree.net:8080/live/iptvromania2020/31e75bff/71110.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AJbFTSr.png" group-title="ARABIC MOVIES",Star Movies Middle East
 http://iptvtree.net:8080/live/iptvromania2020/31e75bff/280254.m3u8
@@ -1397,30 +1403,44 @@ http://starshare.live:8080/live/usman007/usman007/5087.ts
 http://starshare.live:8080/live/usman007/usman007/5088.ts
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ENmbM5D.png" group-title="TURKISH MOVIES",Sinema TV
-http://new-pro.tv:8080/mazen1/123456/121960
+http://iptvtree.net:8080/live/iptvromania2020/31e75bff/1790.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EvJhxSl.png" group-title="TURKISH MOVIES",Sinema 2
-http://new-pro.tv:8080/mazen1/123456/293472
+http://iptvtree.net:8080/live/iptvromania2020/31e75bff/1774.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nZIVFRR.png" group-title="TURKISH MOVIES",Sinema Komedi
-http://new-pro.tv:8080/mazen1/123456/121967
+http://iptvtree.net:8080/live/iptvromania2020/31e75bff/1795.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rzzO1we.png" group-title="TURKISH MOVIES",Sinema Komedi 2
+http://iptvtree.net:8080/live/iptvromania2020/31e75bff/43541.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7ilCvCc.png" group-title="TURKISH MOVIES",Sinema Aksiyon
-http://new-pro.tv:8080/mazen1/123456/122456
+http://iptvtree.net:8080/live/iptvromania2020/31e75bff/1793.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WuPkdu8.png" group-title="TURKISH MOVIES",Sinema Aksiyon 2
-http://new-pro.tv:8080/mazen1/123456/293474
+http://iptvtree.net:8080/live/iptvromania2020/31e75bff/1772.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cgwkfec.png" group-title="TURKISH MOVIES",Sinema Aile
-http://new-pro.tv:8080/mazen1/123456/121962
+http://iptvtree.net:8080/live/iptvromania2020/31e75bff/1794.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/H30hgti.png" group-title="TURKISH MOVIES",Sinema Aile 2
-http://new-pro.tv:8080/mazen1/123456/293476
+http://iptvtree.net:8080/live/iptvromania2020/31e75bff/165582.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ssfMuk8.png" group-title="TURKISH MOVIES",Sinema Yerli
-http://new-pro.tv:8080/mazen1/123456/134301
+http://iptvtree.net:8080/live/iptvromania2020/31e75bff/1791.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/10DAh7x.png" group-title="TURKISH MOVIES",Sinema Yerli 2
+http://iptvtree.net:8080/live/iptvromania2020/31e75bff/163186.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TlY6RFs.png" group-title="TURKISH MOVIES",Sinema 1001
+http://iptvtree.net:8080/live/iptvromania2020/31e75bff/1789.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9CHETP9.png" group-title="TURKISH MOVIES",Sinema 1002
+http://iptvtree.net:8080/live/iptvromania2020/31e75bff/76722.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dIoU3FG.png" group-title="AMERICAN SERIES",A&E
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTVLCOPT:http-referrer=https://player.licenses4.me
 https://networkbest.ru.com/cdn/premium302/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/icFwjZ3.jpg" group-title="AMERICAN SERIES",AMC East
@@ -1429,8 +1449,6 @@ https://networkbest.ru.com/cdn/premium302/tracks-v1a1/mono.m3u8
 https://networkbest.ru.com/cdn/premium303/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8dgknme.png" group-title="AMERICAN SERIES",FX East
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#EXTVLCOPT:http-referrer=https://player.licenses4.me
 http://51.81.208.129:35461/live/80301062102/732099/1630.m3u8
 
 #EXTINF:-1 tvg-id="ShowtimeEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/1920px-Showtime.svg.png" group-title="AMERICAN SERIES",Showtime East
@@ -1605,11 +1623,11 @@ http://iptvtree.net:8080/live/iptvromania2020/31e75bff/267065.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hmZuPoD.png" group-title="ARABIC SERIES",Star World Middle East
 http://iptvtree.net:8080/live/iptvromania2020/31e75bff/225567.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rrZdMCK.png" group-title="ARABIC SERIES",OSN Series
-http://new-pro.tv:8080/mazen1/123456/28104
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rrZdMCK.png" group-title="ARABIC SERIES",OSN Drama
+http://iptvtree.net:8080/live/iptvromania2020/31e75bff/22109.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mjFzNck.png" group-title="ARABIC SERIES",OSN Comedy
-http://new-pro.tv:8080/mazen1/123456/7584
+http://iptvtree.net:8080/live/iptvromania2020/31e75bff/2859.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0frdE7f.png" group-title="ARABIC SERIES",OSN Series First
 http://new-pro.tv:8080/mazen1/123456/131
@@ -1625,6 +1643,12 @@ http://starshare.live:8080/live/usman007/usman007/5090.ts
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6an6Mpd.png" group-title="TURKISH SERIES",beIN Series Vice
 http://starshare.live:8080/live/usman007/usman007/5089.ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Fox_Crime_2017.svg/1280px-Fox_Crime_2017.svg.png" group-title="TURKISH SERIES",Fox Crime Türkiye
+http://iptvtree.net:8080/live/iptvromania2020/31e75bff/579.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8dgknme.png" group-title="TURKISH SERIES",FX Türkiye
+http://iptvtree.net:8080/live/iptvromania2020/31e75bff/580.m3u8
 
 #EXTINF:0 tvg-id="KidsTV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/id/7/7f/Kids_TV_%282020%29.png" group-title="KIDS",Kids TV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
