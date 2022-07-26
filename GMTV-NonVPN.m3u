@@ -1967,11 +1967,17 @@ https://euronews.alteox.app/hls/ru_stream.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ovw6IZk.jpg" group-title="ALBANIAN NEWS",Euronews Albania
 https://streamlive2021.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/c/EuronewsAlbania
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pLuyLWp.png" group-title="ROMANIAN NEWS",Euronews Romania
+https://streamlive2021.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/c/euronewsro
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tXzX8Rs.png" group-title="NON-ENGLISH NEWS",Euronews Serbia
 https://d1ei8ofhgfmkac.cloudfront.net/app-19518-1306/ngrp:QoZfNjsg_all/chunklist_w1797442721_b6256000.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bolSFJw.png" group-title="NON-ENGLISH NEWS",Euronews Georgia
 https://live2.tvg.ge/eng/EURONEWSGEORGIA/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WF0uY5w.png" group-title="NON-ENGLISH NEWS",Euronews Bulgaria
+https://streamlive2021.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/c/EuronewsBulgaria
 
 #EXTINF:0 tvg-id="France24English.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/65/FRANCE_24_logo.svg/800px-FRANCE_24_logo.svg.png" group-title="WORLD NEWS",France 24 English
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
