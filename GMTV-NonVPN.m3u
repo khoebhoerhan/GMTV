@@ -3869,6 +3869,9 @@ https://sc.id-tv.kz/MatchPlaneta_36_37.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NYV5fki.png" group-title="RUSSIAN SPORTS",Мир баскетбола
 http://46.174.83.66/MirBasketbola/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YoGHrRv.png" group-title="RUSSIAN SPORTS",Русский экстрим
+http://193.33.240.8:8080/rus-extrim/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XodgpkR.png" group-title="RUSSIAN SPORTS",Viasat Sport
 https://cdnua06.hls.tv/476/hls/061df9d47a31d5ffeeee40bbf3333deb/330/stream.m3u8
 
