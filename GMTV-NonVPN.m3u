@@ -3811,6 +3811,67 @@ http://20062016.com:80/turki/turki/114322
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4mkAAJk.png" group-title="CROATIAN SPORTS",Sport Klub Golf
 http://new-pro.tv:8080/mazen1/123456/101493
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5aQu7EC.png" group-title="UKRAINIAN SPORTS",Setanta Sport +
+http://cdnua06.hls.tv/476/hls/5w0hafzoygbs4tqrjd1mv36i9en2k8lu/4314/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kO8HYi3.png" group-title="UKRAINIAN SPORTS",Setanta Sport 
+http://cdnua06.hls.tv/476/hls/2bxhsag8zeu9d5kpvmt16wc4lo0nqfy7/291/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/M6k6iwU.png" group-title="UKRAINIAN SPORTS",Sport 1
+http://193.111.244.35:8001/sport1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/%D0%A2%D0%B5%D0%BB%D0%B5%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB_XSPORT.png" group-title="UKRAINIAN SPORTS",XSport
+http://cdnua06.hls.tv/476/hls/124368qulm0eovzsrxtdky5hcwfj7pna/3999/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gwV31E0.png" group-title="RUSSIAN SPORTS",Eurosport 1
+https://sc.id-tv.kz/Eurosport_1HD_34_35.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lTnKDju.png" group-title="RUSSIAN SPORTS",Eurosport 2
+https://sc.id-tv.kz/Eurosport_2HD_34_35.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nnUATx1.png" group-title="RUSSIAN SPORTS",Матч!
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTVLCOPT:http-referrer=https://player.licenses4.me
+https://networkbest.ru.com/cdn/premium127/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MsZ2Zks.png" group-title="RUSSIAN SPORTS",Матч! Футбол 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTVLCOPT:http-referrer=https://player.licenses4.me
+https://networkbest.ru.com/cdn/premium136/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YsQjzj4.png" group-title="RUSSIAN SPORTS",Матч! Футбол 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTVLCOPT:http-referrer=https://player.licenses4.me
+https://networkbest.ru.com/cdn/premium137/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZkIcKWs.png" group-title="RUSSIAN SPORTS",Матч! Футбол 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTVLCOPT:http-referrer=https://player.licenses4.me
+https://networkbest.ru.com/cdn/premium138/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8qmWLBO.png" group-title="RUSSIAN SPORTS",Матч! Боец
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTVLCOPT:http-referrer=https://player.licenses4.me
+https://networkbest.ru.com/cdn/premium395/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ru/1/13/%D0%9C%D0%B0%D1%82%D1%87%21_%D0%98%D0%B3%D1%80%D0%B0.png" group-title="RUSSIAN SPORTS",Матч! Игра
+http://46.174.83.66/Match_Igra/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sMxyONa.png" group-title="RUSSIAN SPORTS",Матч! Страна
+https://bl.uma.media/live/291661/HLS/4614144_3,2883584_2,1153024_1/1613109268/2fb2de98a984b4b86bc2cdd980da3430/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2KtY4Nl.png" group-title="RUSSIAN SPORTS",Матч! Премьер
+https://mfe02.cliptv.az/dash/Match_Premyer_HD.ism/playlist.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mScs4Yk.png" group-title="RUSSIAN SPORTS",Матч! Планета
+https://sc.id-tv.kz/MatchPlaneta_36_37.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NYV5fki.png" group-title="RUSSIAN SPORTS",Мир баскетбола
+http://46.174.83.66/MirBasketbola/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XodgpkR.png" group-title="RUSSIAN SPORTS",Viasat Sport
+https://cdnua06.hls.tv/476/hls/061df9d47a31d5ffeeee40bbf3333deb/330/stream.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fOOqLPb.png" group-title="LATINO SPORTS",Claro Sports
 https://d3q84yclyte826.cloudfront.net/out/v1/47af0926366f47cea7661fa9c13ff203/index.m3u8
 
@@ -4671,7 +4732,7 @@ hhttp://www.portalcultura.com.br/playerhtml/funtelpa/tv_funtelpa/playlist.m3u8
 https://stmv1.transmissaodigital.com/ronald6259/ronald6259/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RCvAvtf.png" group-title="BRASIL",TV Globo Rio de Janeiro
-http://45.232.196.7:5000/live/GLOBOSPHD/720p.m3u8
+http://186.227.63.210:5000/live/GLOBORJ/720p.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/14/Logo_of_Rede_Record.png" group-title="BRASIL",Record São Paulo
 http://tvconquistalrv.duckdns.org:8080/hls/tvconquistalrv.m3u8?ROGERIOTORRES
@@ -5179,10 +5240,10 @@ http://iptvtree.net:8080/live/iptvromania2020/31e75bff/3233.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Super_Polsat_2021_gradient.svg/800px-Super_Polsat_2021_gradient.svg.png" group-title="POLAND",Super Polsat
 http://iptvtree.net:8080/live/iptvromania2020/31e75bff/2692.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/TV4_pol.svg/800px-TV4_pol.svg.png" group-title="POLAND",TV4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/TV4_pol.svg/800px-TV4_pol.svg.png" group-title="POLAND",TV 4
 http://new-pro.tv:8080/mazen1/123456/71263
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/TV6_logo.svg/800px-TV6_logo.svg.png" group-title="POLAND",TV6
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/TV6_logo.svg/800px-TV6_logo.svg.png" group-title="POLAND",TV 6
 http://new-pro.tv:8080/mazen1/123456/71262
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/TVN_logo.svg/1200px-TVN_logo.svg.png" group-title="POLAND",TVN
