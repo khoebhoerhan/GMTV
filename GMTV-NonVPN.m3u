@@ -4800,12 +4800,10 @@ http://new-pro.tv:8080/mazen1/123456/70558
 https://s13.tntendirect.com/france5/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Gulli.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/4/43/18._Gulli.png/1024px-18._Gulli.png" group-title="FRANCE",Gulli
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://origin-live-6play.video.bedrock.tech/6play/short/clr/gulli/hdeindex.m3u8
+https://origin2-6play.live.6cloud.fr/pool_u81ytesz/gulli/sixplaysd/hls_short/index.m3u8
 
 #EXTINF:-1 tvg-id="M6.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Logo_M6_%282020%2C_fond_clair%29.svg/1024px-Logo_M6_%282020%2C_fond_clair%29.svg.png" group-title="FRANCE",M6
-https://shls-m6-france-prod-dub.shahid.net/out/v1/c8a9f6e000cd4ebaa4d2fc7d18c15988/index_1.m3u8
+https://shls-m6-france-prod-dub.shahid.net/out/v1/c8a9f6e000cd4ebaa4d2fc7d18c15988/index.m3u8
 
 #EXTINF:-1 tvg-id="NRJ12.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/50/NRJ12_logo.png" group-title="FRANCE",NRJ 12
 http://callofliberty.fr/stream/nrj12/master.m3u8
