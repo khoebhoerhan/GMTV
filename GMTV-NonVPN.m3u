@@ -998,6 +998,12 @@ https://iptv-sniper.herokuapp.com/localtv.php?channel=9
 #EXTINF:-1 tvg-id="CelestialMoviesPinoy.hk" tvg-logo="https://i.imgur.com/oTpVWGU.png" group-title="PINOY MOVIES",Celestial Movies Pinoy
 http://tiny.one/celestialpinoy
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yPxBE84.png" group-title="PINOY MOVIES",TAP Movies
+https://bit.ly/FEITAN-TAP-MOVIES
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EuqFy7g.png" group-title="PINOY MOVIES",TAP Action Flix
+https://bit.ly/FEITAN-TAP-ACTION-FLIX
+
 #EXTINF:-1 tvg-id="CinemaOneGlobal.ph" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6d/Cinema_One_2013_logo.svg/1200px-Cinema_One_2013_logo.svg.png" group-title="PINOY MOVIES",Cinema One
 https://abscbn-ono.akamaized.net/midroll/amagi_hls_data_abscbnAAA-abscbn-cinemaone/CDN/playlist.m3u8
 
@@ -2705,8 +2711,14 @@ https://iptv-sniper.herokuapp.com/localtv.php?channel=31
 #EXTINF:-1 tvg-id="OneSports.ph" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/One_Sports_logo.svg/512px-One_Sports_logo.svg.png" group-title="PINOY SPORTS",One Sports
 https://iptv-sniper.herokuapp.com/localtv.php?channel=50
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/OneSportsPlus_logo.svg/1024px-OneSportsPlus_logo.svg.png" group-title="PINOY SPORTS",One Sports+
+http://live.lordstreams.co:8080/live/Barnes1/Barnes1/567708.m3u8
+
 #EXTINF:-1 tvg-id="PremierSports.ph" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/PremierSports-ph.png" group-title="PINOY SPORTS",Premier Sports
 https://iptv-sniper.herokuapp.com/localtv.php?channel=36
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eeAsw9Y.png" group-title="PINOY SPORTS",UAAP Varsity
+https://bit.ly/FEITAN-UAAP-VARSITY-CH
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iZ1rMGW.png" group-title="WORLD SPORTS",Motorvision TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
@@ -3621,6 +3633,9 @@ http://iptv12k.com:35461/live/80301070602/456776/8557.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Bdjk5RJ.png" group-title="INDIAN SPORTS",Star Sports 2
 http://208.86.19.13:81/715.stream/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QoBYskI.png" group-title="INDIAN SPORTS",Star Sports 3
+http://208.86.19.13:81/732.stream/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OtV45QZ.png" group-title="INDIAN SPORTS",Star Sports Select HD1
 http://iptvfortv.online:8880/play/live.php?mac=00:1A:79:5d:e4:9e&stream=862747&extension=ts&play_token=z0V01wdtTE
