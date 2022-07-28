@@ -2218,7 +2218,7 @@ https://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/master.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://streamcdnb1-8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/rainews1/hls/rainews_1200/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/1024px-Logo_TVE-24h.svg.png" group-title="SPANISH NEWS",24h
+#EXTINF:-1 tvg-id="Canal24Horas.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/1024px-Logo_TVE-24h.svg.png" group-title="SPANISH NEWS",Canal 24 Horas
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://rtvelivestreamv6.akamaized.net/segments/24h/24h_main_720.m3u8
