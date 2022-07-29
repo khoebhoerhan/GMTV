@@ -687,11 +687,20 @@ http://200.4.96.59:8002/play/ufgd/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/umJbqNY.png" group-title="BRASILIAN ENTERTAINMENT",TNT Brasil
 http://170.82.200.38:8080/tnt/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wzmQrcy.png" group-title="LATINO ENTERTAINMENT",Star Channel Chile
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/10ty05kl
+#EXTINF:-1 tvg-id="ComedyCentralSouth.us" tvg-logo="https://i.imgur.com/JOCjq3R.png" group-title="LATINO ENTERTAINMENT",Comedy Central
+https://cvi.cdn.rcs.net.ar/mnp/comedy_hls/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/umJbqNY.png" group-title="LATINO ENTERTAINMENT",TNT Latin America
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/yf_09ncv
+#EXTINF:-1 tvg-id="SpacePanregional.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/1920px-SpaceLogo.svg.png" group-title="LATINO ENTERTAINMENT",Space
+https://cvi.cdn.rcs.net.ar/mnp/space_hls/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wzmQrcy.png" group-title="LATINO ENTERTAINMENT",Star Channel
+https://cvi.cdn.rcs.net.ar/anevia/live/localdisk/Star_Channel/SA_HLS/Star_Channel.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/upM99h1.png" group-title="LATINO ENTERTAINMENT",TBS
+https://cvi.cdn.rcs.net.ar/mnp/tbs_hls/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/umJbqNY.png" group-title="LATINO ENTERTAINMENT",TNT
+https://cvi.cdn.rcs.net.ar/mnp/tnt_hls/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/E%21_Logo_2012.svg/320px-E%21_Logo_2012.svg.png" group-title="AMERICAN ENTERTAINMENT",E! East
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
@@ -1171,6 +1180,30 @@ https://stream01.willfonk.com/live_playlist.m3u8?cid=BS191&r=HD&ccode=JP&m=d0:20
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9XiSzoQ.png" group-title="JAPANESE MOVIES",Wowow Plus
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS192&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 
+#EXTINF:-1 tvg-id="CinecanalEast.us" tvg-logo="https://i.imgur.com/4jcmYqw.png" group-title="LATINO MOVIES",Cinecanal
+https://cvi.cdn.rcs.net.ar/anevia/live/localdisk/Cinecanal/SA_HLS/Cinecanal.m3u8
+
+#EXTINF:-1 tvg-id="CinemaxPanregional.us" tvg-logo="https://i.imgur.com/OpAB6Hs.png" group-title="LATINO MOVIES",Cinemax
+https://cvi.cdn.rcs.net.ar/mnp/cinemax_hls/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9v0WUqt.png" group-title="LATINO MOVIES",HBO
+https://cvi.cdn.rcs.net.ar/mnp/hbo_hls/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fcP6f19.png" group-title="LATINO MOVIES",HBO 2 Latinoamérica
+https://cvi.cdn.rcs.net.ar/mnp/hbo2_hls/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lQNj7hA.png" group-title="LATINO MOVIES",HBO Mundi Latinoamérica
+https://cvi.cdn.rcs.net.ar/mnp/hbomund_hls/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/426Kgas.png" group-title="LATINO MOVIES",HBO Signature Latinoamérica
+https://cvi.cdn.rcs.net.ar/mnp/hbosig_hls/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Y3ICK7d.png" group-title="LATINO MOVIES",HBO Xtreme Latinoamérica
+https://cvi.cdn.rcs.net.ar/mnp/hboxtr_hls/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UmlQZyK.png" group-title="LATINO MOVIES",HBO Plus Panamericano
+https://cvi.cdn.rcs.net.ar/mnp/hboplus_hls/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9v0WUqt.png" group-title="BRASILIAN MOVIES",HBO Brasil
 http://189.91.128.146:4444/udp/227.10.20.94:1234
 
@@ -1488,6 +1521,39 @@ http://189.91.128.146:4444/udp/227.10.20.138:1234
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png" group-title="BRASILIAN SERIES",TNT Series Brasil
 http://45.232.196.7:5000/live/TNTSERIES/720p.m3u8
+
+#EXTINF:-1 tvg-id="AESouth.us" tvg-logo="https://i.imgur.com/dIoU3FG.png" group-title="LATINO SERIES",A&E Mundo
+https://cvi.cdn.rcs.net.ar/mnp/ae_hls/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AMCSouth.us" tvg-logo="https://i.imgur.com/icFwjZ3.jpg" group-title="LATINO SERIES",AMC
+https://cvi.cdn.rcs.net.ar/anevia/live/localdisk/AMC/SA_HLS/AMC.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EZQZ2Dl.png" group-title="LATINO SERIES",AXN Latin America
+https://cvi.cdn.rcs.net.ar/mnp/axn_hls/playlist.m3u8
+
+#EXTINF:-1 tvg-id="FXSouth.us" tvg-logo="https://i.imgur.com/8dgknme.png" group-title="LATINO SERIES",FX
+https://cvi.cdn.rcs.net.ar/mnp/fx_hls/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ParamountNetworkPanregional.us" tvg-logo="https://i.imgur.com/71d2wEk.png" group-title="LATINO SERIES",Paramount Network
+https://cvi.cdn.rcs.net.ar/mnp/paramount_hls/playlist.m3u8
+
+#EXTINF:0 tvg-id="SonyChannelAndes.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Sony_Channel_Logo_2019.svg/800px-Sony_Channel_Logo_2019.svg.png" group-title="LATINO SERIES",Sony Channel
+https://cvi.cdn.rcs.net.ar/mnp/sony_hls/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SodO9DE.png" group-title="LATINO SERIES",Studio Universal
+https://cvi.cdn.rcs.net.ar/anevia/live/localdisk/Studio_Universal/SA_HLS/Studio_Universal.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LHXa485.png" group-title="LATINO SERIES",Syfy
+https://cvi.cdn.rcs.net.ar/mnp/syfy_hls/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png" group-title="LATINO SERIES",TNT Series
+https://cvi.cdn.rcs.net.ar/mnp/tntseries_hls/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/1920px-Universal_TV_logo.svg.png" group-title="LATINO SERIES",Universal TV
+https://cvi.cdn.rcs.net.ar/anevia/live/localdisk/Universal/SA_HLS/Universal.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png" group-title="LATINO SERIES",Warner TV
+https://cvi.cdn.rcs.net.ar/anevia/live/localdisk/Warner/SA_HLS/Warner.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ApK5dBk.png" group-title="BRITISH SERIES",Sky Atlantic
 http://iptvtree.net:8080/live/iptvromania2020/31e75bff/1093.m3u8
@@ -3936,7 +4002,7 @@ https://cvi.cdn.rcs.net.ar/anevia/live/localdisk/ESPN3/SA_HLS/ESPN3-avc1_5999616
 http://45.71.185.142:8500/play/a021
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sIUdUaB.png" group-title="LATINO SPORTS",ESPN Extra Latin America
-http://222.255.117.230:1708/live/espnextraar
+https://cvi.cdn.rcs.net.ar/mnp/espn_extra_hls/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Au1Wa24.png" group-title="LATINO SPORTS",Fox Sports Latin America
 https://cvi.cdn.rcs.net.ar/mnp/fox_sport_hls/playlist.m3u8
@@ -3946,6 +4012,9 @@ https://cvi.cdn.rcs.net.ar/mnp/fox_sport2_hls/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/w8sjQN2.png" group-title="LATINO SPORTS",Fox Sports 3 Latin America
 https://cvi.cdn.rcs.net.ar/mnp/fox_sport3_hls/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0FJ92Bp.png" group-title="LATINO SPORTS",Golf Channel Latin America
+https://cvi.cdn.rcs.net.ar/mnp/golf_hls/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IyqLOSV.png" group-title="LATINO SPORTS",TNT Sports 
 https://5g9s179kfgx9wn8tqwj9-cul47i-edc.p5cdn.com/dlive/transcode-92-211/nqefwinooiewpeof/1646158252/src/live.m3u8
