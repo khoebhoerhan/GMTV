@@ -766,6 +766,9 @@ https://nonton.site:8443/live/mustakim/mustakim/37458.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=ea13006a107d435bb8c0a9bc65aa51d6&key=1aba1eb992ef22dca4f9c8ef9b3dc19f
 https://ycMdjSbYby.akamaized.net/out/u/12507.mpd
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yR6skS4.png" group-title="PINOY ENTERTAINMENT",TAP Edge
+https://bit.ly/FEITAN-TAP-EDGE
+
 #EXTINF:-1 tvg-id="RaiItalia.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Rai_Italia_-_Logo_2017.svg/1920px-Rai_Italia_-_Logo_2017.svg.png" group-title="EUROPEAN ENTERTAINMENT",Rai Italia
 http://rr3.dens.tv/s/s63/index2.m3u8
 
@@ -2924,7 +2927,7 @@ http://new-pro.tv:8080/mazen1/123456/69394
 http://status.tehw00t.net/miniProxy.php/https://bein-xtra-samsung-canada.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="BoxNation.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c8/BoxNation2014Logo.png" group-title="BRITISH SPORTS",Box Nation
-http://new-pro.tv:8080/mazen1/123456/72696
+https://m3u-editor.com/serve/16e82970-0e3d-11ed-a245-39c2f9659ecb/605037635
 
 #EXTINF:-1 tvg-id="BTSport1.uk" tvg-logo="https://i.imgur.com/7dg7EB7.png" group-title="BRITISH SPORTS",BT Sport 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
@@ -2936,9 +2939,9 @@ https://networkbest.ru.com/cdn/premium31/tracks-v1a1/mono.m3u8
 #EXTVLCOPT:http-referrer=https://player.licenses4.me
 https://networkbest.ru.com/cdn/premium32/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-id="BTSport3.uk" tvg-logo="https://i.imgur.com/8IzsrMb.png" group-title="BRITISH SPORTS",BT Sport 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #EXTVLCOPT:http-referrer=https://player.licenses4.me
-#EXTINF:-1 tvg-id="BTSport3.uk" tvg-logo="https://i.imgur.com/8IzsrMb.png" group-title="BRITISH SPORTS",BT Sport 3
 https://networkbest.ru.com/cdn/premium33/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="BTSportESPN.us" tvg-logo="https://i.imgur.com/YcrrywD.png" group-title="BRITISH SPORTS",BT Sport / ESPN
@@ -3708,7 +3711,7 @@ http://new-pro.tv:8080/mazen1/123456/33463
 http://new-pro.tv:8080/mazen1/123456/297144
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TFGh92p.png" group-title="DUTCH SPORTS",Ziggo Sport Golf
-http://new-pro.tv:8080/mazen1/123456/33473
+https://m3u-editor.com/serve/16e82970-0e3d-11ed-a245-39c2f9659ecb/605037651
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SrorhG7.png" group-title="DUTCH SPORTS",Ziggo Sport Racing
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
@@ -3893,6 +3896,12 @@ http://46.174.83.66/MirBasketbola/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YoGHrRv.png" group-title="RUSSIAN SPORTS",Русский экстрим
 http://193.33.240.8:8080/rus-extrim/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0TYhPGI.png" group-title="RUSSIAN SPORTS",Setanta Sports 1
+https://bal.varcdn.top/setanta1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nUGCiAb.png" group-title="RUSSIAN SPORTS",Setanta Sports 2
+https://bal.varcdn.top/setanta2/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XodgpkR.png" group-title="RUSSIAN SPORTS",Viasat Sport
 https://cdnua06.hls.tv/476/hls/061df9d47a31d5ffeeee40bbf3333deb/330/stream.m3u8
 
@@ -3945,13 +3954,13 @@ https://5g9s179kfgx9wn8tqwj9-cul47i-edc.p5cdn.com/dlive/transcode-92-211/nqefwin
 https://d3awnlgqz0szay.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index_9.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1920px-ESPN_wordmark.svg.png" group-title="MEXICAN SPORTS",ESPN México
-http://103.125.191.32:9981/stream/channelid/1704392897?profile=cvaceplus
+http://190.61.102.67:31589/play/a064/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/1280px-ESPN2_logo.svg.png" group-title="MEXICAN SPORTS",ESPN 2 México
-http://103.125.191.32:9981/stream/channelid/1923023524?profile=cvaceplus
+http://190.61.102.67:31589/play/a063/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Crvxgth.png" group-title="MEXICAN SPORTS",ESPN 3 México
-http://103.125.191.32:9981/stream/channelid/1167297506?profile=cvaceplus
+http://190.61.102.67:31589/play/a03n/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Au1Wa24.png" group-title="MEXICAN SPORTS",Fox Sports México
 https://dizf8i52j4sep.cloudfront.net/out/v1/148af6c03e6d48b0a725611fae5ed3a7/index.mpd
@@ -4066,7 +4075,7 @@ https://networkbest.ru.com/cdn/premium572/tracks-v1a1/mono.m3u8
 https://networkbest.ru.com/cdn/premium424/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Wwi4DHd.png" group-title="AFRICAN SPORTS",Supersport Play
-http://new-pro.tv:8080/mazen1/123456/60936
+https://m3u-editor.com/serve/16e82970-0e3d-11ed-a245-39c2f9659ecb/605037597
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jIjBIhH.png" group-title="AFRICAN SPORTS",Supersport Premier League Africa
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
@@ -5194,7 +5203,7 @@ http://new-pro.tv:8080/mazen1/123456/72530
 http://new-pro.tv:8080/mazen1/123456/72538
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ub3kuWh.png" group-title="MEXICO",Las Estrellas México
-http://new-pro.tv:8080/mazen1/123456/72540
+http://190.61.102.67:31589/play/a00g/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Multimedios_Canal_Seis_Logo.svg/800px-Multimedios_Canal_Seis_Logo.svg.png" group-title="MEXICO",Multimedios Plus
 http://new-pro.tv:8080/mazen1/123456/72585
@@ -5241,9 +5250,7 @@ http://user.scalecdn.co:8080/live/Ken/Ken/567730.ts
 https://abscbn-ono.akamaized.net/midroll/amagi_hls_data_abscbnAAA-abscbn-cinemo/CDN/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4ZzriHo.png" group-title="PHILIPPINES",A2Z Channel 11
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=7f6b9c6ae27f4898918a7d403c14064b&key=6d8780fe25a690e926b1f71bff1c5505
-https://subfvj7tzt.akamaized.net/out/u/3015.mpd
+https://bit.ly/FEITAN-A2Z
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/b/bf/Kapamilya_Channel_%282020-.n.v.%29.png" group-title="PHILIPPINES",Kapamilya Channel
 https://abscbn-ono.akamaized.net/midroll/amagi_hls_data_abscbnAAA-abscbn-kapcha/CDN/playlist.m3u8
