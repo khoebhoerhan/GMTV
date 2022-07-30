@@ -960,7 +960,7 @@ http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
 http://103.179.246.243:8000/play/a00w
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OVH9Ehe.png" group-title="INDIAN MOVIES",Movies Now
-http://iptvtree.net:8080/live/iptvromania2020/31e75bff/169118.m3u8
+http://qualityoverquantity.site:8880/play/live.php?mac=00:1A:79:35:B2:F6&stream=862687&extension=ts
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Df0Nteg.png" group-title="INDIAN MOVIES",Romedy Now
 http://221.120.204.4/ROMEDY-NOW-LOCKLE/index.m3u8
@@ -969,7 +969,7 @@ http://221.120.204.4/ROMEDY-NOW-LOCKLE/index.m3u8
 http://103.179.246.243:8000/play/a00u
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PIvZZqq.png" group-title="INDIAN MOVIES",MNX
-http://103.179.246.243:8000/play/a01h
+http://qualityoverquantity.site:8880/play/live.php?mac=00:1A:79:8f:0e:3c&stream=862683&extension=ts
 
 #EXTINF:-1 tvg-id="SonyPix.in" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5f/Sony_PIX.png" group-title="INDIAN MOVIES",Sony Pix
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -1004,7 +1004,7 @@ https://iptv-sniper.herokuapp.com/localtv.php?channel=13
 #EXTINF:-1 tvg-id="PBO.ph" tvg-logo="https://i.imgur.com/UgllBq4.png" group-title="PINOY MOVIES",PBO
 https://iptv-sniper.herokuapp.com/localtv.php?channel=12
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/H1RFljh.png" group-title="PINOY MOVIES",Tagalized Movie Channel
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UcRk8wE.png" group-title="PINOY MOVIES",Tagalized Movie Channel
 https://iptv-sniper.herokuapp.com/localtv.php?channel=9
 
 #EXTINF:-1 tvg-id="CelestialMoviesPinoy.hk" tvg-logo="https://i.imgur.com/oTpVWGU.png" group-title="PINOY MOVIES",Celestial Movies Pinoy
@@ -2462,11 +2462,18 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/DZRHN
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HUxC09L.png" group-title="PINOY NEWS",SMNI News Channel
 https://api.new.livestream.com/accounts/19079954/events/7831871/live.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/OneNewsPH_logo.svg/1024px-OneNewsPH_logo.svg.png" group-title="PINOY NEWS",One News
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=bacb50b558e744b88dd6478e4f167d50&key=601652beb0dc463633c236d87214c3b7
+https://vuuhy5r74t.akamaized.net/out/u/3107.mpd
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c6/OnePHCignal.svg/1200px-OnePHCignal.svg.png" group-title="PINOY NEWS",One PH
 https://iptv-sniper.herokuapp.com/localtv.php?channel=42
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/99/UNTV-Logo-2016.svg/1920px-UNTV-Logo-2016.svg.png" group-title="PINOY NEWS",UNTV
-https://vid.untv.co/live-stream/chunklist_b732000.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=ebccc6c164654dd6a80938839a05f6f4&key=edad57c8807dcec046036d860d99a20e
+https://subfvj7tzt.akamaized.net/out/u/3022.mpd
 
 #EXTINF:-1 tvg-id="GloboNews.br" tvg-logo="https://i.imgur.com/X2aEThR.png" group-title="BRASILIAN NEWS",Globo News
 http://187.85.237.3:8220/ipvt_004
@@ -2778,11 +2785,18 @@ https://iptv-sniper.herokuapp.com/localtv.php?channel=31
 #EXTINF:-1 tvg-id="OneSports.ph" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/One_Sports_logo.svg/512px-One_Sports_logo.svg.png" group-title="PINOY SPORTS",One Sports
 https://iptv-sniper.herokuapp.com/localtv.php?channel=50
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/OneSportsPlus_logo.svg/1024px-OneSportsPlus_logo.svg.png" group-title="PINOY SPORTS",One Sports+
-http://live.lordstreams.co:8080/live/Barnes1/Barnes1/567708.m3u8
+#EXTINF:-1 tvg-id="OneSportsPlus.ph" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/OneSportsPlus_logo.svg/1024px-OneSportsPlus_logo.svg.png" group-title="PINOY SPORTS",One Sports+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=ab38eab6c34344f5a1d39bc1c8d73d15&key=3cd6f62226d20fb984de50a1fc293f67
+https://mzvrna3n7b.akamaized.net/out/u/3103.mpd
 
 #EXTINF:-1 tvg-id="PremierSports.ph" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/PremierSports-ph.png" group-title="PINOY SPORTS",Premier Sports
 https://iptv-sniper.herokuapp.com/localtv.php?channel=36
+
+#EXTINF:-1 tvg-id="PBARush.ph" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/cd/PBA_Rush_logo.png" group-title="PINOY SPORTS",PBA Rush
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=4bc72162b1214b0bbb25402f044b39cb&key=a992d78b3bb2b36c7535bd511d9772e6
+https://qpnnXEZUEt.akamaized.net/out/u/3106.mpd
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eeAsw9Y.png" group-title="PINOY SPORTS",UAAP Varsity
 https://bit.ly/FEITAN-UAAP-VARSITY-CH
@@ -5340,6 +5354,11 @@ https://iptv-sniper.herokuapp.com/localtv.php?channel=76
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=714ab72f5cc64862ad3f16387250ba56&key=0263e9e2dd6e491cb7c7a20ccb6ca198
 https://5sgx6pvt5d.akamaized.net/out/u/10842.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wy3Q2iq.png" group-title="PHILIPPINES",Sari Sari Channel
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=553f89544e9b45c4829f9ffba830a299&key=67817b1f77d8549037fd01ee271ef29a
+https://5sgx6pvt5d.akamaized.net/out/u/3094.mpd
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/People%27s_Televsion_Network_Incorporated_%28PTV%29.svg/1200px-People%27s_Televsion_Network_Incorporated_%28PTV%29.svg.png" group-title="PHILIPPINES",PTV
 https://rotf.lol/ptv04
