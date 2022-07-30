@@ -5366,6 +5366,11 @@ https://rotf.lol/ptv04
 #EXTINF:-1 tvg-logo="https://www.tv5.com.ph/assets/images/five-logo-red.png" group-title="PHILIPPINES",TV5
 https://iptv-sniper.herokuapp.com/localtv.php?channel=8
 
+#EXTINF:-1 tvg-id="IBC13.ph" tvg-logo="https://i.imgur.com/xLzZalM.png" group-title="PHILIPPINES",IBC 13
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=bb42c85942a24f0caaa66344baef53c1&key=972f4d0bc8bf67de7dd649a88bd13a78
+https://vUUhy5R74t.akamaized.net/out/u/3045.mpd
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Polsat_2021_gradient.svg/1200px-Polsat_2021_gradient.svg.png" group-title="POLAND",Polsat
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #EXTVLCOPT:http-referrer=https://player.licenses4.me
