@@ -2738,9 +2738,7 @@ http://iptvtree.net:8080/live/iptvromania2020/31e75bff/12328.m3u8
 http://iptv12k.com:35461/live/80301070602/456776/5363.m3u8
 
 #EXTINF:-1 tvg-id="MUTV.uk" tvg-logo="https://i.imgur.com/3zyVm7l.png" group-title="CLUBS OF SPORTS",MUTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#EXTVLCOPT:http-referrer=https://player.licenses4.me
-https://networkbest.ru.com/cdn/premium377/tracks-v1a1/mono.m3u8
+https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_1/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4CPFHlX.png" group-title="CLUBS OF SPORTS",Persija TV
 https://bravo.kugo.id/persijatv/udp.stream/playlist.m3u8
