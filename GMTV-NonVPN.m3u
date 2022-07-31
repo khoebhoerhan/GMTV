@@ -5342,7 +5342,9 @@ http://user.scalecdn.co:8080/live/Ken/Ken/567730.ts
 https://abscbn-ono.akamaized.net/midroll/amagi_hls_data_abscbnAAA-abscbn-cinemo/CDN/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4ZzriHo.png" group-title="PHILIPPINES",A2Z Channel 11
-https://bit.ly/FEITAN-A2Z
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=7f6b9c6ae27f4898918a7d403c14064b&key=6d8780fe25a690e926b1f71bff1c5505
+https://subfvj7tzt.akamaized.net/out/u/3015.mpd
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/b/bf/Kapamilya_Channel_%282020-.n.v.%29.png" group-title="PHILIPPINES",Kapamilya Channel
 https://abscbn-ono.akamaized.net/midroll/amagi_hls_data_abscbnAAA-abscbn-kapcha/CDN/playlist.m3u8
@@ -5367,7 +5369,9 @@ https://5sgx6pvt5d.akamaized.net/out/u/10842.mpd
 https://5sgx6pvt5d.akamaized.net/out/u/3094.mpd
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/People%27s_Televsion_Network_Incorporated_%28PTV%29.svg/1200px-People%27s_Televsion_Network_Incorporated_%28PTV%29.svg.png" group-title="PHILIPPINES",PTV
-https://rotf.lol/ptv04
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=5211e8006c1e4a8a866cb84ec46f6fef&key=767dcfaa4760dea862fd8c73050c2f7f
+https://subfvj7tzt.akamaized.net/out/u/3020.mpd
 
 #EXTINF:-1 tvg-logo="https://www.tv5.com.ph/assets/images/five-logo-red.png" group-title="PHILIPPINES",TV5
 https://iptv-sniper.herokuapp.com/localtv.php?channel=8
