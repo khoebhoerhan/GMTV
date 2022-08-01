@@ -3693,7 +3693,7 @@ https://rtmlive06tv.secureswiftcontent.com/rtmchannel/06-manifest.mpd
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live11.mpd
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ycxjpTX.png" group-title="INDIAN SPORTS",Eurosport India
-https://1cc9-43-205-111-136.in.ngrok.io/YASHRAJMOD-32//autoq.php?c=Dsports_HD
+http://103.179.246.243:8000/play/a00r
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cTwzzIj.png" group-title="INDIAN SPORTS",Sony Six
 #KODIPROP:inputstream.adaptive.license_type=clearkey
