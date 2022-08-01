@@ -1180,6 +1180,18 @@ https://stream01.willfonk.com/live_playlist.m3u8?cid=BS191&r=HD&ccode=JP&m=d0:20
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9XiSzoQ.png" group-title="JAPANESE MOVIES",Wowow Plus
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS192&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ckkM6Ff.png" group-title="THAI MOVIES",True Film 1
+https://iptv-thai.herokuapp.com/tv.php?channel=115667
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Fzh1Z6q.png" group-title="THAI MOVIES",True Film 2
+https://iptv-thai.herokuapp.com/tv.php?channel=115415
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/W3C6klq.png" group-title="THAI MOVIES",True Film Asia
+https://iptv-thai.herokuapp.com/tv.php?channel=115665
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/I6381Ck.png" group-title="THAI MOVIES",True Movie Hits
+https://iptv-thai.herokuapp.com/tv.php?channel=115729
+
 #EXTINF:-1 tvg-id="CinecanalEast.us" tvg-logo="https://i.imgur.com/4jcmYqw.png" group-title="LATINO MOVIES",Cinecanal
 https://cvi.cdn.rcs.net.ar/anevia/live/localdisk/Cinecanal/SA_HLS/Cinecanal.m3u8
 
@@ -4374,8 +4386,7 @@ http://live-kr.television4you.xyz/spotvon2/mpegts
 http://live-kr.television4you.xyz/spotvgnh/mpegts
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/r27965c.png" group-title="THAI SPORTS",Golf Channel Thailand
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-https://smart-tv.livedoomovies.com:4431/02_golfhd_720p/chunklist.m3u8|Referer=https://www.movie87hd.com/?r=ajax
+https://iptv-thai.herokuapp.com/tv.php?channel=115446
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mQnEVYf.png" group-title="THAI SPORTS",Golf Channel+ Thailand
 https://iptv-thai.herokuapp.com/tv.php?channel=115698
