@@ -2805,6 +2805,9 @@ https://mzvrna3n7b.akamaized.net/out/u/3103.mpd
 #EXTINF:-1 tvg-id="PremierSports.ph" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/PremierSports-ph.png" group-title="PINOY SPORTS",Premier Sports
 https://iptv-sniper.herokuapp.com/localtv.php?channel=36
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pG9gbe4.png" group-title="PINOY SPORTS",Premier Sports 2
+https://rotf.lol/FEITAN-PREMIER-SPORTS-2
+
 #EXTINF:-1 tvg-id="PBARush.ph" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/cd/PBA_Rush_logo.png" group-title="PINOY SPORTS",PBA Rush
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=4bc72162b1214b0bbb25402f044b39cb&key=a992d78b3bb2b36c7535bd511d9772e6
