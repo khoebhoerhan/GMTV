@@ -3331,7 +3331,7 @@ https://networkbest.ru.com/cdn/premium47/tracks-v1a1/mono.m3u8
 https://networkbest.ru.com/cdn/premium50/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="PolsatSportFight.pl" tvg-logo="https://i.imgur.com/eEQxLTd.png" group-title="POLISH SPORTS",Polsat Sport Fight
-http://iptvtree.net:8080/live/iptvromania2020/31e75bff/26592.m3u8
+http://live-eu.cvacetv.ga:8080/stream/channelid/360275478?profile=ace
 
 #EXTINF:-1 tvg-id="PolsatSportNews.pl" tvg-logo="https://i.imgur.com/QJIzCGa.png" group-title="POLISH SPORTS",Polsat Sport News
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
@@ -3339,10 +3339,10 @@ http://iptvtree.net:8080/live/iptvromania2020/31e75bff/26592.m3u8
 https://networkbest.ru.com/cdn/premium129/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IgONH1a.png" group-title="POLISH SPORTS",Polsat Sport Premium 1
-http://iptvtree.net:8080/live/iptvromania2020/31e75bff/23199.m3u8
+http://live-vn.cvacetv.ga:8080/PolsatPre1
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xf6o9Go.png" group-title="POLISH SPORTS",Polsat Sport Premium 2
-http://iptvtree.net:8080/live/iptvromania2020/31e75bff/29607.m3u8
+http://live-vn.cvacetv.ga:8080/PolsatPre2
 
 #EXTINF:-1 tvg-id="SportKlubPoland.pl"tvg-logo="https://i.imgur.com/IZWOLiJ.png" group-title="POLISH SPORTS",Sport Klub Polska
 http://new-pro.tv:8080/mazen1/123456/71284
@@ -3499,22 +3499,28 @@ http://new-pro.tv:8080/mazen1/123456/116072
 http://new-pro.tv:8080/mazen1/123456/116073
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gP7OfkX.png" group-title="GERMAN SPORTS",Sky Sport Bundesliga 1
-http://iptvtree.net:8080/live/iptvromania2020/31e75bff/2431.m3u8
+http://live-eu.cvacetv.ga:8080/stream/channelid/943037218?profile=ace
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Sky_Sport_F1_-_Logo_2020.svg/1920px-Sky_Sport_F1_-_Logo_2020.svg.png" group-title="GERMAN SPORTS",Sky Sport F1
 http://iptvtree.net:8080/live/iptvromania2020/31e75bff/174563.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/olajgeM.png" group-title="GERMAN SPORTS",Sky Sport Top Event
-http://iptvtree.net:8080/live/iptvromania2020/31e75bff/202100.m3u8
+http://live-eu.cvacetv.ga:8080/stream/channelid/458698047?profile=ace
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Sky_Sport_Tennis.svg/1920px-Sky_Sport_Tennis.svg.png" group-title="GERMAN SPORTS",Sky Sport Tennis
-http://iptvtree.net:8080/live/iptvromania2020/31e75bff/8215.m3u8
+http://live-eu.cvacetv.ga:8080/stream/channelid/1994407003?profile=ace
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zsyAJky.png" group-title="GERMAN SPORTS",Sky Sport Golf
-http://iptvtree.net:8080/live/iptvromania2020/31e75bff/147371.m3u8
+http://live-eu.cvacetv.ga:8080/stream/channelid/1927543192?profile=ace
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/de/thumb/c/cc/Sky_Sport_News_2020.svg/1920px-Sky_Sport_News_2020.svg.png" group-title="GERMAN SPORTS",Sky Sport News
 http://iptvtree.net:8080/live/iptvromania2020/31e75bff/1658.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xSPDmkP.png" group-title="GERMAN SPORTS",Sky Sport Mix
+http://live-eu.cvacetv.ga:8080/stream/channelid/1335422074?profile=ace
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NNn00zG.png" group-title="GERMAN SPORTS",Sky Sport Premier League
+http://live-eu.cvacetv.ga:8080/stream/channelid/857180288?profile=ace
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Sport-Digital.svg/1920px-Sport-Digital.svg.png" group-title="GERMAN SPORTS",sportdigital
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
@@ -4066,13 +4072,16 @@ https://5g9s179kfgx9wn8tqwj9-cul47i-edc.p5cdn.com/dlive/transcode-92-211/nqefwin
 https://d3awnlgqz0szay.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index_9.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1920px-ESPN_wordmark.svg.png" group-title="MEXICAN SPORTS",ESPN México
-http://190.61.102.67:31589/play/a064/index.m3u8
+http://live-vn.cvacetv.ga:9981/stream/channelid/601009722?profile=ace
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/1280px-ESPN2_logo.svg.png" group-title="MEXICAN SPORTS",ESPN 2 México
-http://190.61.102.67:31589/play/a063/index.m3u8
+http://live-vn.cvacetv.ga:9981/stream/channelid/205223657?profile=ace
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Crvxgth.png" group-title="MEXICAN SPORTS",ESPN 3 México
-http://190.61.102.67:31589/play/a03n/index.m3u8
+http://live-vn.cvacetv.ga:9981/stream/channelid/338914247?profile=ace
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sIUdUaB.png" group-title="MEXICAN SPORTS",ESPN Extra México
+http://live-vn.cvacetv.ga:9981/stream/channelid/1986857374?profile=ace
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Au1Wa24.png" group-title="MEXICAN SPORTS",Fox Sports México
 https://dizf8i52j4sep.cloudfront.net/out/v1/148af6c03e6d48b0a725611fae5ed3a7/index.mpd
@@ -4312,6 +4321,9 @@ https://e1.endpoint.cdn.sctvonline.vn/hls/vtvcab16/sd2/index.m3u8|Referer=http:/
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dmmsw4d.png" group-title="VIETNAMESE SPORTS",On Sports
 #EXTVLCOPT:http-referer=http://sctvonline.vn
 https://e3.endpoint.cdn.sctvonline.vn/secure/vtvcab3/index.m3u8?md5=ytdJ0cly8LCK3zdy10OuxQ&expires=2556118740|Referer=http://sctvonline.vn/
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dmmsw4d.png" group-title="VIETNAMESE SPORTS",On Volleyball
+https://onsportlive.vtvcab.vn/hls/ONVOLLEYBALL_CL/04.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eEXU8nf.png" group-title="VIETNAMESE SPORTS",On Sports+
 #EXTVLCOPT:http-referer=http://sctvonline.vn
@@ -5245,7 +5257,7 @@ https://stream01.willfonk.com/live_playlist.m3u8?cid=BS181&r=HD&ccode=JP&m=d0:20
 http://ye23.win/iptv/korea2021.php?id=Channel
 
 #EXTINF:0 tvg-id="JTBC.kr" tvg-logo="https://i.imgur.com/mGIO50z.png" group-title="KOREA",JTBC
-http://iptv12k.com:35461/live/80301070602/456776/3229.m3u8
+http://mytv.dothome.co.kr/ch/catv/211.php
 
 #EXTINF:0 tvg-id="JTBC2.kr" tvg-logo="https://i.imgur.com/yQqaE1V.png" group-title="KOREA",JTBC2
 https://allanf181.github.io/adaptive-streams/streams/kr/JTBC2.m3u8
@@ -5263,7 +5275,7 @@ http://itskoi.dothome.co.kr/kbs.php?id=11
 http://itskoi.dothome.co.kr/kbs.php?id=12
 
 #EXTINF:0 tvg-id="KBSJoy.kr" tvg-logo="https://i.imgur.com/4CRXneT.png" group-title="KOREA",KBS Joy
-http://51.81.66.195:1935/krtv/kbs_joy_540/playlist.m3u8
+http://140.238.6.140:8881/stream/channel/aa36691f41e62b915c013542740d6df9
 
 #EXTINF:0 tvg-id="KBSLife.kr" tvg-logo="https://i.imgur.com/7XCSOFp.png" group-title="KOREA",KBS Life
 http://ppmk.my.id/korea/kor.m3u8?id=kbslife
@@ -5278,10 +5290,10 @@ http://ye23.win/iptv/sbs5.1.php?id=S04
 http://ye23.win/iptv/sbs5.1.php?id=S03
 
 #EXTINF:-1 tvg-id="Mnet.kr" tvg-logo="https://i.imgur.com/ho02Nl2.png" group-title="KOREA",MNet
-http://iptv12k.com:35461/live/80301070602/456776/3213.m3u8
+http://mytv.dothome.co.kr/ch/catv/224.php
 
 #EXTINF:-1 tvg-id="tvN.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Logo_tvN.svg/1920px-Logo_tvN.svg.png" group-title="KOREA",tvN
-https://allanf181.github.io/adaptive-streams/streams/kr/tvN.m3u8
+http://mytv.dothome.co.kr/ch/catv/221.php
 
 #EXTINF:-1 tvg-id="tvNShow.kr" tvg-logo="https://i.imgur.com/L0E2Mtw.png" group-title="KOREA",tvN Show
 https://allanf181.github.io/adaptive-streams/streams/kr/tvNShow.m3u8
