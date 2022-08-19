@@ -2490,7 +2490,7 @@ https://iptv-sniper.herokuapp.com/player/filproductstv.php?channel=42
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=ebccc6c164654dd6a80938839a05f6f4&key=edad57c8807dcec046036d860d99a20e
 https://subfvj7tzt.akamaized.net/out/u/3022.mpd
 
-#EXTINF:-1 tvg-id="GloboNews.br" tvg-logo="https://i.imgur.com/X2aEThR.png" group-title="BRASILIAN NEWS",Globo News
+#EXTINF:-1 tvg-id="GloboNews.br" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/89/Logotipo_da_GloboNews.png" group-title="BRASILIAN NEWS",Globo News
 http://187.85.237.3:8220/ipvt_004
 
 #EXTINF:-1 tvg-id="RecordNews.br" tvg-logo="https://i.imgur.com/HnuEqk6.png" group-title="BRASILIAN NEWS",Record News
@@ -4617,7 +4617,7 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:okey/chunklist_b4596000_slENG.m3u8
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/chunklist_b4596000_slENG.m3u8
 
-#EXTINF:-1 tvg-id="RTMTV2.my" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9f/TV2_Logo_2011.png" group-title="MALAYSIA",TV2
+#EXTINF:-1 tvg-id="RTMTV2.my" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/71/TV2_%28Malaysia%29_logo.svg/1920px-TV2_%28Malaysia%29_logo.svg.png" group-title="MALAYSIA",TV2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/chunklist_b4596000_slENG.m3u8
