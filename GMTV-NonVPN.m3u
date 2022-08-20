@@ -28,7 +28,7 @@ http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2
 #EXTINF:-1 tvg-id="Indosiar.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/1000px-Indosiar_2015.svg.png" group-title="NASIONAL",Indosiar
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=eae27d77ca20db309e056e3d2dcd7d69446503011668def857b1c03bafabba51
 
-#EXTINF:-1 tvg-id="OChannel.id" tvg-logo="https://i.imgur.com/w2eOFdH.png" group-title="NASIONAL",O Channel
+#EXTINF:-1 tvg-id="OChannel.id" tvg-logo="https://i.imgur.com/D70rSkE.png" group-title="NASIONAL",Moji
 http://kunyak.my.id/underground-iptv-team/ochannel.m3u8
 
 #EXTINF:0 tvg-id="ANTV.id" tvg-logo="https://i.imgur.com/sDmXVSm.png" group-title="NASIONAL",ANTV
@@ -582,6 +582,9 @@ http://103.179.246.243:8000/play/a00a
 
 #EXTINF:-1 tvg-id="ColorsInfinity.in" tvg-logo="https://i.imgur.com/kBiWPbB.png" group-title="INDIAN ENTERTAINMENT",Colors Infinity
 http://221.120.204.4/COLOURS-INFINITY-LOCKLE/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="ZeeCafe.in" tvg-logo="https://i.imgur.com/NnfAAGx.png" group-title="INDIAN ENTERTAINMENT",Zee Café
+http://103.145.184.10:4500/play/a00f/index.m3u8
 
 #EXTINF:0 tvg-id="TV5MondeAsie.fr" tvg-logo="https://i.imgur.com/1cVjCTw.png" group-title="FRENCH ENTERTAINMENT",TV5Monde Asie
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -2684,12 +2687,6 @@ http://tv.zonanime.my.id/vidio/championstv2.m3u8
 #EXTINF:-1 tvg-id="ChampionsTV3.id" tvg-logo="https://i.imgur.com/26Jar5R.png" group-title="NATIONAL SPORTS",Champions TV 3
 http://tv.zonanime.my.id/vidio/championstv3.m3u8
 
-#EXTINF:-1 tvg-id="ChampionsTV4.id" tvg-logo="https://i.imgur.com/4J586mw.png" group-title="NATIONAL SPORTS",Champions TV 4
-https://lnk.ec/shareext@juara4
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/AcBSHlM.png" group-title="NATIONAL SPORTS",Champions TV Goal
-http://seulanga-tvnid.my.id/SGTV/master-10.m3u8|User-Agent=android-12
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/o0WVl7b.png" group-title="NATIONAL SPORTS",Dunia Games
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(ec41a5e2-09e4-431d-b92e-383fa7abe25c)/manifest.mpd
 
@@ -4529,9 +4526,6 @@ https://stream-cdn.mncnow.id/live/eds/LifeStyleFashion/sa_dash_vmx/LifeStyleFash
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lzaV3z4.png" group-title="LIFESTYLE",Biznet Lifestyle
 http://livestream.biznetvideo.net/biznet_lifestyle/smil:lifestyle.smil/playlist.m3u8?bizkeylivestarttime=0&bizkeyliveendtime=0&bizkeyliveCustomParameter=myParameter&bizkeylivehash=jgDKPclcGdZfvrIDxfMdpT7v_srMWCbubntGo9cCYWpcBBQalMlLQxHswm43PbVR
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/el4gofT.png" group-title="LIFESTYLE",Citra Culinary & Travel
-https://dukun.masuk.id/terserahguelah/hiburan/ctravel.m3u8
 
 #EXTINF:-1 tvg-id="MetroChannel.ph" tvg-logo="https://i.imgur.com/b5CiVYt.png" group-title="LIFESTYLE",Metro Channel
 https://iptv-sniper.herokuapp.com/filproductstv.php?channel=58
