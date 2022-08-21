@@ -723,9 +723,6 @@ https://best2.globalweb.ru.com/cdn/premium343/mono.m3u8
 #EXTVLCOPT:http-referrer=https://eplayer.click/
 https://best2.globalweb.ru.com/cdn/premium331/mono.m3u8
 
-#EXTINF:-1 tvg-id="LifetimeEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/1920px-Logo_Lifetime_2020.svg.png" group-title="AMERICAN ENTERTAINMENT",Lifetime East
-http://iptvtree.net:8080/live/iptvromania2020/31e75bff/4667.m3u8
-
 #EXTINF:-1 tvg-id="TBSEast.us" tvg-logo="https://i.imgur.com/upM99h1.png" group-title="AMERICAN ENTERTAINMENT",TBS East
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #EXTVLCOPT:http-referrer=https://eplayer.click/
@@ -737,7 +734,7 @@ https://best2.globalweb.ru.com/cdn/premium336/mono.m3u8
 https://best2.globalweb.ru.com/cdn/premium338/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bQPc9pg.png" group-title="AMERICAN ENTERTAINMENT",Bravo East
-http://new-pro.tv:8080/mazen1/123456/302584
+http://89.187.175.143:80/3019/mpegts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/2019_Disney_Channel_logo.svg/1920px-2019_Disney_Channel_logo.svg.png" group-title="AMERICAN ENTERTAINMENT",Disney Channel East
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
@@ -1518,18 +1515,12 @@ https://best2.globalweb.ru.com/cdn/premium302/mono.m3u8
 https://best2.globalweb.ru.com/cdn/premium303/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8dgknme.png" group-title="AMERICAN SERIES",FX East
-http://51.81.208.129:35461/live/80301062102/732099/1630.m3u8
+http://89.187.175.143:80/3006/mpegts
 
 #EXTINF:-1 tvg-id="ShowtimeEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/1920px-Showtime.svg.png" group-title="AMERICAN SERIES",Showtime East
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #EXTVLCOPT:http-referrer=https://eplayer.click/
 https://best2.globalweb.ru.com/cdn/premium333/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VY9zuTI.png" group-title="AMERICAN SERIES",Showtime 2 East
-http://new-pro.tv:8080/mazen1/123456/70455
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/LHXa485.png" group-title="AMERICAN SERIES",Syfy East
-http://new-pro.tv:8080/mazen1/123456/219859
 
 #EXTINF:-1 tvg-id="AXNBrazil.br" tvg-logo="https://i.imgur.com/EZQZ2Dl.png" group-title="BRASILIAN SERIES",AXN Brasil
 http://187.85.237.8:8825/ipvt_005
@@ -1966,7 +1957,7 @@ http://limetv.me:80/live/4719wil/452540/95423.m3u8
 http://iptvtree.net:8080/live/iptvromania2020/31e75bff/76353.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0XayB3p.png" group-title="INDIAN NEWS",CNN News 18
-http://167.71.235.179/plesk-site-preview/vigorous-spence.167-71-235-179.plesk.page/https/167.71.235.179/Ishan.php?c=CNN_NEWS_18&q=1200&e=ishan.m3u8
+http://a976-20-244-19-244.in.ngrok.io/JiotvPlus/autoq.php?c=CNN_NEWS_18&e=junk.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JECWgUK.png" group-title="NON-ENGLISH NEWS",N1 CNN
 https://best-str.umn.cdn.united.cloud/stream?stream=sp1400&sp=n1info&channel=n1hrv&u=n1info&p=n1Sh4redSecre7iNf0
@@ -2250,10 +2241,10 @@ https://republicworld.amagi.tv/hls/amagi_hls_data_samsungin-republictv-samsungin
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/DDIndia/live
 
 #EXTINF:-1 tvg-id="TimesNowWorld.in" tvg-logo="https://i.imgur.com/KkKbf1c.png" group-title="INDIAN NEWS",Times Now World
-http://167.71.235.179/plesk-site-preview/vigorous-spence.167-71-235-179.plesk.page/https/167.71.235.179/Ishan.php?c=Times_Now_HD&q=1200&e=ishan.m3u8
+http://a976-20-244-19-244.in.ngrok.io/JiotvPlus/autoq.php?c=Times_Now_HD&e=junk.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dt5xRpi.png" group-title="INDIAN NEWS",Mirror Now
-http://167.71.235.179/plesk-site-preview/vigorous-spence.167-71-235-179.plesk.page/https/167.71.235.179/Ishan.php?c=Mirror_Now&q=1200&e=ishan.m3u8
+http://a976-20-244-19-244.in.ngrok.io/JiotvPlus/autoq.php?c=Mirror_Now&e=junk.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nK04jlH.png" group-title="ARABIC NEWS",Al Alam News Network
 https://live2.alalam.ir/live/Alalam/index.m3u8
@@ -2579,7 +2570,7 @@ https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/ndtvindiam
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/NewsNationTV/live
 
 #EXTINF:-1 tvg-id="News18India.in" tvg-logo="https://i.imgur.com/1Oze9HT.png" group-title="HINDI NEWS",News 18 India
-http://167.71.235.179/plesk-site-preview/vigorous-spence.167-71-235-179.plesk.page/https/167.71.235.179/Ishan.php?c=IBN_7&q=1200&e=ishan.m3u8
+http://a976-20-244-19-244.in.ngrok.io/JiotvPlus/autoq.php?c=IBN_7&e=junk.m3u8
 
 #EXTINF:-1 tvg-id="News24.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/News24_Logo.jpg" group-title="HINDI NEWS",News 24
 https://vidcdn.vidgyor.com/news24-origin/liveabr/news24-origin/live1/chunks.m3u8
@@ -2588,7 +2579,7 @@ https://vidcdn.vidgyor.com/news24-origin/liveabr/news24-origin/live1/chunks.m3u8
 https://republicworld.amagi.tv/hls/amagi_hls_data_samsungin-republicbharat-samsungindia/CDN/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pznBLDe.png" group-title="HINDI NEWS",Times Now Navbharat
-https://pubads.g.doubleclick.net/ssai/event/nRWQsGoJSzmcErJFgAy67g/master.m3u8
+http://a976-20-244-19-244.in.ngrok.io/JiotvPlus/autoq.php?c=Times_Now_Navbharat&e=junk.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aUfDyOT.png" group-title="HINDI NEWS",TV9 Bharatvarsh
 https://vidcdn.vidgyor.com/tv9bharatvarsh-origin/live/tv9bharatvarsh-origin/live1/chunks.m3u8
@@ -2651,10 +2642,10 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel
 http://iptvtree.net:8080/live/iptvromania2020/31e75bff/5712.m3u8
 
 #EXTINF:-1 tvg-id="ETNow.in" tvg-logo="https://i.imgur.com/vPAwWou.png" group-title="BUSINESS NEWS",ET Now
-http://167.71.235.179/plesk-site-preview/vigorous-spence.167-71-235-179.plesk.page/https/167.71.235.179/Ishan.php?c=ET_Now&q=1200&e=ishan.m3u8
+http://a976-20-244-19-244.in.ngrok.io/JiotvPlus/autoq.php?c=ET_Now&e=junk.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/59kbGww.jpg" group-title="BUSINESS NEWS",ET Now Swadesh
-https://pubads.g.doubleclick.net/ssai/event/Pj6A7e21SN64xv6g4sssCA/master.m3u8
+http://a976-20-244-19-244.in.ngrok.io/JiotvPlus/autoq.php?c=ET_Now_Swadesh&e=junk.m3u8
 
 #EXTINF:-1 tvg-id="ZeeBusiness.in" tvg-logo="https://i.imgur.com/i1qQWS1.png" group-title="BUSINESS NEWS",Zee Business
 https://d8gy12azhr71i.cloudfront.net/out/v1/45be109c5b4f44319e882da947377364/index_5.m3u8
@@ -3733,10 +3724,10 @@ https://cdn-01.toffeelive.com/origin-09/live-origin/smil:sony_ten3_hd.smil/manif
 http://iptv12k.com:35461/live/80301070602/456776/8565.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WPEouAc.png" group-title="INDIAN SPORTS",Sports 18 1
-http://167.71.235.179/plesk-site-preview/vigorous-spence.167-71-235-179.plesk.page/https/167.71.235.179/Ishan.php?c=Sports18_1_HD&q=1200&e=ishan.m3u8
+http://a976-20-244-19-244.in.ngrok.io/JiotvPlus/autoq.php?c=Sports18_1_HD&e=junk.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nNsGKa2.png" group-title="INDIAN SPORTS",Sports 18 Khel
-http://167.71.235.179/plesk-site-preview/vigorous-spence.167-71-235-179.plesk.page/https/167.71.235.179/Ishan.php?c=Sports18_Khel&q=800&e=ishan.m3u8
+http://a976-20-244-19-244.in.ngrok.io/JiotvPlus/autoq.php?c=Sports18_Khel&e=junk.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/l7gSBMN.png" group-title="INDIAN SPORTS",Star Sports 1
 http://208.86.19.13:81/710.stream/index.m3u8
