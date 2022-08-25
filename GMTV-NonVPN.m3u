@@ -2058,7 +2058,7 @@ https://api.new.livestream.com/accounts/19079954/events/7831871/live.m3u8
 https://vuuhy5r74t.akamaized.net/out/u/3107.mpd
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c6/OnePHCignal.svg/1200px-OnePHCignal.svg.png" group-title="PINOY NEWS",One PH
-https://iptv-sniper.herokuapp.com/player/filproductstv.php?channel=42
+https://raw.githubusercontent.com/fotvnetwork/iptv-free/master/M3U8/Locals/oneph.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/99/UNTV-Logo-2016.svg/1920px-UNTV-Logo-2016.svg.png" group-title="PINOY NEWS",UNTV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -2361,7 +2361,7 @@ http://live4.tdm.com.mo/ch4/_definst_/sport_ch4.live/playlist.m3u8
 https://iptv-sniper.herokuapp.com/player/filproductstv.php?channel=31
 
 #EXTINF:-1 tvg-id="OneSports.ph" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/One_Sports_logo.svg/512px-One_Sports_logo.svg.png" group-title="PINOY SPORTS",One Sports
-https://iptv-sniper.herokuapp.com/player/filproductstv.php?channel=50
+https://raw.githubusercontent.com/fotvnetwork/iptv-free/master/M3U8/Locals/os.m3u8
 
 #EXTINF:-1 tvg-id="OneSportsPlus.ph" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/OneSportsPlus_logo.svg/1024px-OneSportsPlus_logo.svg.png" group-title="PINOY SPORTS",One Sports+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -4532,13 +4532,13 @@ https://subfvj7tzt.akamaized.net/out/u/3015.mpd
 https://abscbn-ono.akamaized.net/midroll/amagi_hls_data_abscbnAAA-abscbn-kapcha/CDN/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.gmanetwork.com/res/portal_revamp/img/logo.png" group-title="PHILIPPINES",GMA
-https://iptv-sniper.herokuapp.com/player/filproductstv.php?channel=5
+http://103.105.213.251:8443/live/CpXvMHd1YHNLwJ-hz7jjXw/1661518126/5.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/40/GTV_Philippines_Logo_Vector.svg/1280px-GTV_Philippines_Logo_Vector.svg.png" group-title="PHILIPPINES",GTV
-https://iptv-sniper.herokuapp.com/filproductstv.php?channel=7
+http://103.105.213.251:8443/live/CpXvMHd1YHNLwJ-hz7jjXw/1661518126/7.m3u8
 
 #EXTINF:-1 tvg-id="JeepneyTV.ph" tvg-logo="https://i.imgur.com/szxwQBn.png" group-title="PHILIPPINES",Jeepney TV
-https://iptv-sniper.herokuapp.com/player/filproductstv.php?channel=76
+http://103.105.213.251:8443/live/CpXvMHd1YHNLwJ-hz7jjXw/1661518126/76.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NELaZ3P.png" group-title="PHILIPPINES",Buko
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -4556,7 +4556,7 @@ https://5sgx6pvt5d.akamaized.net/out/u/3094.mpd
 https://subfvj7tzt.akamaized.net/out/u/3020.mpd
 
 #EXTINF:-1 tvg-logo="https://www.tv5.com.ph/assets/images/five-logo-red.png" group-title="PHILIPPINES",TV5
-https://iptv-sniper.herokuapp.com/player/filproductstv.php?channel=8
+https://raw.githubusercontent.com/fotvnetwork/iptv-free/master/M3U8/Locals/tv5.m3u8
 
 #EXTINF:-1 tvg-id="IBC13.ph" tvg-logo="https://i.imgur.com/xLzZalM.png" group-title="PHILIPPINES",IBC 13
 #KODIPROP:inputstream.adaptive.license_type=clearkey
