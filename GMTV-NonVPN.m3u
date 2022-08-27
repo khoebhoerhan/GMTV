@@ -1113,6 +1113,9 @@ http://144.217.70.181:9587/hin2/UTVMOVIESHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/34JhaxQ.jpg" group-title="GENERAL MOVIES",MyCinema Europe
 http://rr.dens.tv/h/h18/index.m3u8
 
+#EXTINF:-1 tvg-id="SundanceTVEast.us" tvg-logo="https://i.imgur.com/7UNqd5c.png" group-title="GENERAL MOVIES",Sundance TV East
+https://bcovlive-a.akamaihd.net/d2fcbeaead4b425fa13d4fec961fc47a/us-east-1/6240731308001/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hnVBUzT.png" group-title="JAPANESE MOVIES",Star 1
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS200&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 
@@ -1489,10 +1492,13 @@ https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(abe4ead2-1a88-4
 #EXTVLCOPT:http-user-agent=Mozilla
 https://amdottlive.akamaized.net/hls/live/2018990/iwantknowledge/master480p.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Discovery_Science_2017_Logo.svg/1920px-Discovery_Science_2017_Logo.svg.png" group-title="KNOWLEDGE",Discovery Science Southeast Asia
+http://50.7.220.74:8278/discoverysc_twn/playlist.m3u8?tid=mc6599c2e8abf17200438&ct=17877&tsum=04c82c404888445ec55711287ad6b21b
+
 #EXTINF:-1 tvg-id="DMAXAsia.sg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/DMAX_Logo_16_05_2011.jpg" group-title="KNOWLEDGE",DMAX Southeast Asia
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=ea24fcf5a4e5a1a25a8d118c088dc510&key=effd0dfaddcd0e533314d5305abe031c
-http://iptv12k.com:35461/live/80301070602/456776/636.m3u8
+http://50.7.220.74:8278/discoveryturbo_twn/playlist.m3u8?tid=MECE3122352031223520&ct=18393&tsum=66f49d6631e9a76ea563d20a25e0bd4c
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mThnlFK.png" group-title="KNOWLEDGE",Smithsonian Channel
 https://smithsonianaus-samsungau.amagi.tv/playlist.m3u8
@@ -1565,7 +1571,7 @@ https://stream-cdn.mncnow.id/live/eds/BBCWorldNews/sa_dash_vmx/BBCWorldNews.mpd
 http://prox.x86.co.uk/index.php/https://cdnuk001.broadcastcdn.net/KUK-BBCNEWSHD/index.m3u8
 
 #EXTINF:-1 tvg-id="BBCParliament.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/BBC_Parliament_Logo.svg/1280px-BBC_Parliament_Logo.svg.png" group-title="PARLIAMENTARY",BBC Parliament
-http://iptv12k.com:35461/live/80301070602/456776/5435.m3u8
+http://he11o.akadatel.com/iptv/5NNE9G44FKFB6G/19182/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b8/Logo_BBC_Arabic.png" group-title="ARABIC NEWS",BBC Arabic
 https://vs-cmaf-pushb-ww-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2_akamai_dash_live_http.mpd
@@ -1779,7 +1785,7 @@ https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master_2500.m3u8
 https://d7z3qjdsxbwoq.cloudfront.net/groupa/live/f9809cea-1e07-47cd-a94d-2ddd3e1351db/live.isml/.m3u8
 
 #EXTINF:-1 tvg-id="GBNews.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/35/GB_News_Logo.svg/1920px-GB_News_Logo.svg.png" group-title="BRITISH NEWS",GB News
-https://live-gbnews.simplestreamcdn.com/gbnews/gbnews/bitrate1.isml/bitrate1-audio_0=192000-video=4499968.m3u8
+https://live-gbnews-ssai.simplestreamcdn.com/v1/master/82267e84b9e5053b3fd0ade12cb1a146df74169a/gbnews-live/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/96ZwfZt.png" group-title="BRITISH NEWS",Talk TV
 https://newsuk-talkradiotv-brightcove.amagi.tv/playlist.m3u8
@@ -2333,9 +2339,7 @@ https://bravo.kugo.id/persijatv/udp.stream/playlist.m3u8
 https://streamer-a03.videos.sapo.pt/live/portocanal/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KFwSXaG.png" group-title="CLUBS OF SPORTS",Real Madrid TV Español
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#EXTVLCOPT:http-referrer=https://eplayer.click/
-https://best2.globalweb.ru.com/cdn/premium523/mono.m3u8
+http://2022spn.net:8080/pacomiguel/G3KB6YR17R/4947
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/r2XCRmO.png" group-title="CLUBS OF SPORTS",Sporting TV
 http://45.92.69.72:8001/play/a02n
@@ -2941,72 +2945,40 @@ http://live-eu.cvacetv.ga:8080/stream/channelid/857180288?profile=ace
 https://best2.globalweb.ru.com/cdn/premium571/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fubqEnF.png" group-title="SPANISH SPORTS",#Vamos
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#EXTVLCOPT:http-referrer=https://eplayer.click/
-https://best2.globalweb.ru.com/cdn/premium521/mono.m3u8
+http://2022spn.net:8080/pacomiguel/G3KB6YR17R/4922
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CSBS4Ff.png" group-title="SPANISH SPORTS",DAZN 1 España
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#EXTVLCOPT:http-referrer=https://eplayer.click/
-https://best2.globalweb.ru.com/cdn/premium445/mono.m3u8
+http://2022spn.net:8080/pacomiguel/G3KB6YR17R/4937
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/m5c18XU.png" group-title="SPANISH SPORTS",DAZN 2 España
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#EXTVLCOPT:http-referrer=https://eplayer.click/
-https://best2.globalweb.ru.com/cdn/premium446/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YiFmUxC.png" group-title="SPANISH SPORTS",DAZN 3 España
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#EXTVLCOPT:http-referrer=https://eplayer.click/
-https://best2.globalweb.ru.com/cdn/premium447/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aiZCV4i.png" group-title="SPANISH SPORTS",DAZN 4 España
-http://new-pro.tv:8080/mazen1/123456/298517
+http://2022spn.net:8080/pacomiguel/G3KB6YR17R/4938
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rqSPxoU.png" group-title="SPANISH SPORTS",DAZN F1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#EXTVLCOPT:http-referrer=https://eplayer.click/
-https://best2.globalweb.ru.com/cdn/premium537/mono.m3u8
+https://4p6t.short.gy/DAZNF1
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gwV31E0.png" group-title="SPANISH SPORTS",Eurosport 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#EXTVLCOPT:http-referrer=https://eplayer.click/
-https://best2.globalweb.ru.com/cdn/premium524/mono.m3u8
+https://4p6t.short.gy/EUROSPORT1
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lTnKDju.png" group-title="SPANISH SPORTS",Eurosport 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#EXTVLCOPT:http-referrer=https://eplayer.click/
-https://best2.globalweb.ru.com/cdn/premium525/mono.m3u8
+http://2022spn.net:8080/pacomiguel/G3KB6YR17R/4943
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/U10gOuT.png" group-title="SPANISH SPORTS",Gol
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#EXTVLCOPT:http-referrer=https://eplayer.click/
-https://best2.globalweb.ru.com/cdn/premium530/mono.m3u8
+http://2022spn.net:8080/pacomiguel/G3KB6YR17R/4925
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xsYGFyy.png" group-title="SPANISH SPORTS",Movistar Deportes
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#EXTVLCOPT:http-referrer=https://eplayer.click/
-https://best2.globalweb.ru.com/cdn/premium436/mono.m3u8
+https://4p6t.short.gy/DAZN1
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WYIpWC0.png" group-title="SPANISH SPORTS",Movistar Golf
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#EXTVLCOPT:http-referrer=https://eplayer.click/
-https://best2.globalweb.ru.com/cdn/premium528/mono.m3u8
+https://4p6t.short.gy/GOLF
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QlDOQ7i.png" group-title="SPANISH SPORTS",Movistar LaLiga
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#EXTVLCOPT:http-referrer=https://eplayer.click/
-https://best2.globalweb.ru.com/cdn/premium84/mono.m3u8
+https://4p6t.short.gy/LALIGA
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vnKI1Oo.png" group-title="SPANISH SPORTS",Movistar Liga de Campeones
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#EXTVLCOPT:http-referrer=https://eplayer.click/
-https://best2.globalweb.ru.com/cdn/premium435/mono.m3u8
+https://4p6t.short.gy/CHAMPIONS
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Teledeporte.svg/1280px-Teledeporte.svg.png" group-title="SPANISH SPORTS",Teledeporte
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#EXTVLCOPT:http-referrer=https://eplayer.click/
-https://best2.globalweb.ru.com/cdn/premium529/mono.m3u8
+http://2022spn.net:8080/pacomiguel/G3KB6YR17R/4945
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qfVunzp.png" group-title="PORTUGUESE SPORTS",Canal 11
 http://45.92.69.72:8000/play/a0ge
@@ -3670,43 +3642,37 @@ https://stream01.willfonk.com/live_playlist.m3u8?cid=CS257&r=HD&ccode=JP&m=d0:20
 https://stream01.willfonk.com/live_playlist.m3u8?cid=CS250&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UfGRPSO.png" group-title="KOREAN SPORTS",JTBC Golf
-http://iptv12k.com:35461/live/80301070602/456776/3205.m3u8
+https://allanf181.github.io/adaptive-streams/streams/kr/JTBCGolf.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ToiFXqp.png" group-title="KOREAN SPORTS",JTBC Golf&Sports
 http://140.238.6.140:8881/stream/channel/bc035199f244ef5eabb539c178fabdfb
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/x4dJGb7.png" group-title="KOREAN SPORTS",KBS N Sports
-http://iptv12k.com:35461/live/80301070602/456776/3214.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/MBC_SportsPlus.svg/1200px-MBC_SportsPlus.svg.png" group-title="KOREAN SPORTS",MBC Sports+
-http://iptv12k.com:35461/live/80301070602/456776/3219.m3u8
+http://live1.streamk.co:8080/sportsbox_preview/live52/playlist.m3u8?site=gaktv&ch=live52
 
 #EXTINF:-1 tvg-id="SBSGolf.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/SBS_Golf_logo_2018.svg/1920px-SBS_Golf_logo_2018.svg.png" group-title="KOREAN SPORTS",SBS Golf
-http://ye23.win/iptv/sbs5.1.php?id=S05
+https://allanf181.github.io/adaptive-streams/streams/kr/SBSGolf.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/R5gsdt5.png" group-title="KOREAN SPORTS",SBS Sports
-http://ye23.win/iptv/sbs5.1.php?id=S02
+http://live1.streamk.co:8080/sportsbox_preview/live51/playlist.m3u8?site=gaktv&ch=live51
 
 #EXTINF:-1 tvg-id="SkySports.kr" tvg-logo="https://i.imgur.com/LAdhx1A.png" group-title="KOREAN SPORTS",skySports
 https://allanf181.github.io/adaptive-streams/streams/kr/SkySports.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Bj0MyZQ.png" group-title="KOREAN SPORTS",SPOTV
-http://live-kr.television4you.xyz/spotv/mpegts
+http://live1.streamk.co:8080/sportsbox_preview/live53/playlist.m3u8?site=gaktv&ch=live53
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WbPfNOb.png" group-title="KOREAN SPORTS",SPOTV 2
-http://live-kr.television4you.xyz/spotv2/mpegts
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9KCPKQU.png" group-title="KOREAN SPORTS",SPOTV Prime
-http://live-kr.television4you.xyz/spotvprime/mpegts
+http://live1.streamk.co:8080/sportsbox_preview/live54/playlist.m3u8?site=gaktv&ch=live54
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Wqr27sL.png" group-title="KOREAN SPORTS",SPOTV On
-http://live-kr.television4you.xyz/spotvon/mpegts
+http://live1.streamk.co:8080/sportsbox_preview/live46/playlist.m3u8?site=gaktv&ch=live46
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7gqJvK1.png" group-title="KOREAN SPORTS",SPOTV On 2
-http://live-kr.television4you.xyz/spotvon2/mpegts
+http://live1.streamk.co:8080/sportsbox_preview/live47/playlist.m3u8?site=gaktv&ch=live47
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9AmWHUo.png" group-title="KOREAN SPORTS",SPOTV Golf & Health
-http://live-kr.television4you.xyz/spotvgnh/mpegts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cvN2ybJ.png" group-title="KOREAN SPORTS",tvN Sports
+http://live1.streamk.co:8080/sportsbox_preview/live55/playlist.m3u8?site=gaktv&ch=live55
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/r27965c.png" group-title="THAI SPORTS",Golf Channel Thailand
 https://iptv-thai.herokuapp.com/tv.php?channel=115446
@@ -4401,6 +4367,9 @@ http://mytv.dothome.co.kr/ch/catv/211.php
 #EXTINF:0 tvg-id="JTBC2.kr" tvg-logo="https://i.imgur.com/yQqaE1V.png" group-title="KOREA",JTBC2
 http://140.238.6.140:8881/stream/channel/0cfb525632103496bff37e973644f970
 
+#EXTINF:0 tvg-id="JTBC2.kr" tvg-logo="https://i.imgur.com/LT7zXPE.png" group-title="KOREA",JTBC4
+https://allanf181.github.io/adaptive-streams/streams/kr/JTBC4.m3u8
+
 #EXTINF:0 tvg-id="MBCTV.kr" tvg-logo="https://i.imgur.com/r9gNY5R.png" group-title="KOREA",MBC
 http://123.254.72.24:1935/tvlive/livestream2/playlist.m3u8
 
@@ -4633,34 +4602,22 @@ http://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/chunklist_b1703000.m3u8
 https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
 
 #EXTINF:-1 tvg-id="Antena3.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Antena_3_%282017%29.svg/1024px-Antena_3_%282017%29.svg.png" group-title="SPAIN",Antena 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#EXTVLCOPT:http-referrer=https://eplayer.click/
-https://best2.globalweb.ru.com/cdn/premium531/mono.m3u8
+http://2022spn.net:8080/pacomiguel/G3KB6YR17R/4791
 
 #EXTINF:-1 tvg-id="Cuatro.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Cuatro.svg/1920px-Cuatro.svg.png" group-title="SPAIN",Cuatro
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#EXTVLCOPT:http-referrer=https://eplayer.click/
-https://best2.globalweb.ru.com/cdn/premium535/mono.m3u8
+http://2022spn.net:8080/pacomiguel/G3KB6YR17R/4794
 
 #EXTINF:-1 tvg-id="La1.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Logo_TVE-1.svg/1024px-Logo_TVE-1.svg.png" group-title="SPAIN",La 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#EXTVLCOPT:http-referrer=https://eplayer.click/
-https://best2.globalweb.ru.com/cdn/premium533/mono.m3u8
+https://rtvelivestream.akamaized.net/segments/la1/la1_main_dvr_720.m3u8
 
 #EXTINF:-1 tvg-id="La2.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Logo_TVE-2.svg/1024px-Logo_TVE-2.svg.png" group-title="SPAIN",La 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#EXTVLCOPT:http-referrer=https://eplayer.click/
-https://best2.globalweb.ru.com/cdn/premium536/mono.m3u8
+http://2022spn.net:8080/pacomiguel/G3KB6YR17R/4788
 
 #EXTINF:-1 tvg-id="LaSexta.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/La_Sexta_%28A3M%29.svg/188px-La_Sexta_%28A3M%29.svg.png" group-title="SPAIN",La Sexta
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#EXTVLCOPT:http-referrer=https://eplayer.click/
-https://best2.globalweb.ru.com/cdn/premium534/mono.m3u8
+http://2022spn.net:8080/pacomiguel/G3KB6YR17R/4800
 
 #EXTINF:-1 tvg-id="Telecinco.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Telecinco_2012_Large.svg/800px-Telecinco_2012_Large.svg.png" group-title="SPAIN",Telecinco
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#EXTVLCOPT:http-referrer=https://eplayer.click/
-https://best2.globalweb.ru.com/cdn/premium532/mono.m3u8
+http://2022spn.net:8080/pacomiguel/G3KB6YR17R/4797
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/8/8a/CTS_Logo.png" group-title="TAIWAN",CTS 華視
 rtmp://59.124.75.157/sat/tv111
