@@ -1738,9 +1738,7 @@ https://liveru.cgtn.com/1000r/prog_index.m3u8
 https://stream-cdn.mncnow.id/live/eds/FoxNews/sa_dash_vmx/FoxNews.mpd
 
 #EXTINF:-1 tvg-id="MSNBC.us" tvg-logo="https://i.imgur.com/cMM9MAg.png" group-title="AMERICAN NEWS",MSNBC
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#EXTVLCOPT:http-referrer=https://eplayer.click/
-https://best2.globalweb.ru.com/cdn/premium327/mono.m3u8
+http://1tv1.net:8080/live/nazha2021/123456/148456.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IVvxmTv.png" group-title="AMERICAN NEWS",CBS News
 http://cbsnewshd-lh.akamaihd.net:80/i/CBSNHD_7@199302/master.m3u8
@@ -1821,7 +1819,7 @@ https://rakuten-africanews-1-eu.rakuten.wurl.tv/playlist.m3u8
 https://d2xqcdx4c8vu9s.cloudfront.net/out/v1/15b8393e9a9240b8bedd4c79ccefb301/index.m3u8
 
 #EXTINF:-1 tvg-id="IndiaToday.in" tvg-logo="https://i.imgur.com/r38Camc.png" group-title="INDIAN NEWS",India Today
-https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/indiatoday_5/chunklist.m3u8
+https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/live_720p/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Atn4Ppt.png" group-title="INDIAN NEWS",India Ahead
 https://d3a9l0u5hgmgjl.cloudfront.net/01.m3u8
@@ -2131,7 +2129,7 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/vid
 https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Aajtak.in" tvg-logo="https://i.imgur.com/o3rBa0e.png" group-title="HINDI NEWS",Aaj Tak
-https://aajtakhdlive-amd.akamaized.net/hls/live/2014415-b/aajtakhd/aajtakhdlive/aajtakhd_5/chunklist.m3u8
+https://aajtaklive-amd.akamaized.net/hls/live/2014416/aajtak/aajtaklive/live_720p/chunks.m3u8
 
 #EXTINF:-1 tvg-id="ABPNewsIndia.in" tvg-logo="https://i.imgur.com/3MeMPyJ.png" group-title="HINDI NEWS",ABP News India
 https://abplivetv.akamaized.net/hls/live/2043010/hindi/master_720p.m3u8
@@ -2141,7 +2139,7 @@ https://abplivetv.akamaized.net/hls/live/2043010/hindi/master_720p.m3u8
 https://playhls.media.nic.in/hls/live/ddnews/ddnews.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dLoKNoF.png" group-title="HINDI NEWS",Good News Today
-https://tezlive-amd.akamaized.net/hls/live/2016145/tez/tezlive/tez_5/chunklist.m3u8
+https://tezlive-amd.akamaized.net/hls/live/2016145/gnt/gntlive/live_720p/chunks.m3u8
 
 #EXTINF:-1 tvg-id="IndiaNews.in" tvg-logo="https://i.imgur.com/mgkIqLN.png" group-title="HINDI NEWS",India News
 https://itvoign.multitvsolution.com/hls/inkhabar_itv_720_900k.m3u8
@@ -2196,9 +2194,7 @@ https://cdn3.skygo.mn/live/disk1/BloombergMon/HLS-FTA/BloombergMon.m3u8
 https://stream-cdn.mncnow.id/live/eds/CNBC/sa_dash_vmx/CNBC.mpd
 
 #EXTINF:-1 tvg-id="CNBC.us" tvg-logo="https://i.imgur.com/KxxvR2X.png" group-title="BUSINESS NEWS",CNBC US
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#EXTVLCOPT:http-referrer=https://eplayer.click/
-https://best2.globalweb.ru.com/cdn/premium309/mono.m3u8
+http://1tv1.net:8080/live/nazha2021/123456/148457.m3u8
 
 #EXTINF:-1 tvg-id="CNBCArabiya.ae" tvg-logo="https://i.imgur.com/4XhULAV.png" group-title="BUSINESS NEWS",CNBC Arabiya
 https://cnbcarabia.hibridcdn.net/cnbc/cnbc_abr/cnbc/cnbc_480p/chunks.m3u8?
@@ -2216,7 +2212,7 @@ https://streamcdnb10-859c1818ed614cc5b0047439470927b0.msvdn.net/live/S76890577/t
 https://yahoo-samsung.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Fox_Business.svg/1920px-Fox_Business.svg.png" group-title="BUSINESS NEWS",Fox Business
-http://iptvtree.net:8080/live/iptvromania2020/31e75bff/295675.m3u8
+http://1tv1.net:8080/live/nazha2021/123456/148458.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HRaROB0.png" group-title="BUSINESS NEWS",TVN 24 Bis
 http://iptvtree.net:8080/live/iptvromania2020/31e75bff/16674.m3u8
@@ -2402,32 +2398,25 @@ https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
 http://1tv1.net:8080/live/nazha2021/123456/22186.m3u8
 
 #EXTINF:-1 tvg-id="beINSports1.qa" tvg-logo="https://i.imgur.com/MRULdc8.png" group-title="ARABIC SPORTS",beIN Sports 1
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://31.172.87.55:2200//EX/bein1sd-ar/tracks-v1a1/mono.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659
+http://1tv1.net:8080/live/nazha2021/123456/15560.m3u8
 
 #EXTINF:-1 tvg-id="beINSports2.qa" tvg-logo="https://i.imgur.com/NDp6TlM.png" group-title="ARABIC SPORTS",beIN Sports 2
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://31.172.87.55:2200//EX/bein2sd-ar/tracks-v1a1/mono.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659
+http://1tv1.net:8080/live/nazha2021/123456/15559.m3u8
 
 #EXTINF:-1 tvg-id="beINSports3.qa" tvg-logo="https://i.imgur.com/j8VC6nB.png" group-title="ARABIC SPORTS",beIN Sports 3
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://31.172.87.55:2200//EX/bein3sd-ar/tracks-v1a1/mono.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659
+http://1tv1.net:8080/live/nazha2021/123456/15558.m3u8
 
 #EXTINF:-1 tvg-id="beINSports4.qa" tvg-logo="https://i.imgur.com/Lu26Yho.png" group-title="ARABIC SPORTS",beIN Sports 4
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://31.172.87.55:2200//EX/bein4sd-ar/tracks-v1a1/mono.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659
+http://1tv1.net:8080/live/nazha2021/123456/15557.m3u8
 
 #EXTINF:-1 tvg-id="beINSports5.qa" tvg-logo="https://i.imgur.com/pA5by2y.png" group-title="ARABIC SPORTS",beIN Sports 5
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://31.172.87.55:2200//EX/bein5sd-ar/tracks-v1a1/mono.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659
+http://1tv1.net:8080/live/nazha2021/123456/15556.m3u8
 
 #EXTINF:-1 tvg-id="beINSports6.qa" tvg-logo="https://i.imgur.com/mbFoSUX.png" group-title="ARABIC SPORTS",beIN Sports 6
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://31.172.87.55:2200//EX/bein6sd-ar/tracks-v1a1/mono.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659
+http://1tv1.net:8080/live/nazha2021/123456/15555.m3u8
 
 #EXTINF:-1 tvg-id="beINSports7.qa" tvg-logo="https://i.imgur.com/eHCosqi.png" group-title="ARABIC SPORTS",beIN Sports 7
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://31.172.87.55:2200//EX/bein7sd-ar/tracks-v1a1/mono.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659
+http://1tv1.net:8080/live/nazha2021/123456/15720.m3u8
 
 #EXTINF:-1 tvg-id="beINSportsNBA.qa" tvg-logo="https://i.imgur.com/BZ5jcea.png" group-title="ARABIC SPORTS",beIN NBA
 http://1tv1.net:8080/live/nazha2021/123456/150160.m3u8
@@ -2454,28 +2443,22 @@ http://1tv1.net:8080/live/nazha2021/123456/165064.m3u8
 http://1tv1.net:8080/live/nazha2021/123456/165065.m3u8
 
 #EXTINF:-1 tvg-id="beINSports1HDFrance.fr" tvg-logo="https://i.imgur.com/MRULdc8.png" group-title="FRENCH SPORTS",beIN Sports 1 HD France
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://31.172.87.55:2200//EX/bein14sd-ar/tracks-v1a1/mono.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659
+http://1tv1.net:8080/live/nazha2021/123456/635.m3u8
 
 #EXTINF:-1 tvg-id="beINSports2HDFrance.fr" tvg-logo="https://i.imgur.com/NDp6TlM.png" group-title="FRENCH SPORTS",beIN Sports 2 HD France
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://31.172.87.55:2200//EX/bein15sd-ar/tracks-v1a1/mono.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659
+http://1tv1.net:8080/live/nazha2021/123456/636.m3u8
 
 #EXTINF:-1 tvg-id="beINSports3France.fr" tvg-logo="https://i.imgur.com/j8VC6nB.png" group-title="FRENCH SPORTS",beIN Sports 3 France
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://31.172.87.55:2200//EX/bein16sd-ar/tracks-v1a1/mono.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659
+http://1tv1.net:8080/live/nazha2021/123456/637.m3u8
 
 #EXTINF:-1 tvg-id="beINSportsEnglish1.qa" tvg-logo="https://i.imgur.com/o8zT78o.png" group-title="ARABIC SPORTS",beIN Sports English 1
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://31.172.87.55:2200//EX/bein11sd-ar/tracks-v1a1/mono.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659
+http://1tv1.net:8080/live/nazha2021/123456/112461.m3u8
 
 #EXTINF:-1 tvg-id="beINSportsEnglish2.qa" tvg-logo="https://i.imgur.com/RJ17vOc.png" group-title="ARABIC SPORTS",beIN Sports English 2
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://31.172.87.55:2200//EX/bein12sd-ar/tracks-v1a1/mono.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659
+http://1tv1.net:8080/live/nazha2021/123456/112462.m3u8
 
 #EXTINF:-1 tvg-id="beINSportsEnglish3.qa" tvg-logo="https://i.imgur.com/sKFx2QF.png" group-title="ARABIC SPORTS",beIN Sports English 3
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://31.172.87.55:2200//EX/bein13sd-ar/tracks-v1a1/mono.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659
+http://1tv1.net:8080/live/nazha2021/123456/112463.m3u8
 
 #EXTINF:-1 tvg-id="beINSportsFrench1.qa" tvg-logo="https://i.imgur.com/NOOEDFi.png" group-title="ARABIC SPORTS",beIN Sports French 1
 http://1tv1.net:8080/live/nazha2021/123456/112464.m3u8
@@ -2487,48 +2470,37 @@ http://1tv1.net:8080/live/nazha2021/123456/112465.m3u8
 http://1tv1.net:8080/live/nazha2021/123456/112466.m3u8
 
 #EXTINF:-1 tvg-id="beINSportsPremium1.qa" tvg-logo="https://i.imgur.com/CwlNjXQ.png" group-title="ARABIC SPORTS",beIN Sports Premium 1
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://31.172.87.55:2200//EX/bein8sd-ar/tracks-v1a1/mono.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659
+http://1tv1.net:8080/live/nazha2021/123456/15562.m3u8
 
 #EXTINF:-1 tvg-id="beINSportsPremium2.qa" tvg-logo="https://i.imgur.com/Ns7isEP.png" group-title="ARABIC SPORTS",beIN Sports Premium 2
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://31.172.87.55:2200//EX/bein9sd-ar/tracks-v1a1/mono.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659
+http://1tv1.net:8080/live/nazha2021/123456/15562.m3u8
 
 #EXTINF:-1 tvg-id="beINSportsPremium3.qa" tvg-logo="https://i.imgur.com/T7UlxCI.png" group-title="ARABIC SPORTS",beIN Sports Premium 3
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://31.172.87.55:2200//EX/bein10sd-ar/tracks-v1a1/mono.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659
+http://1tv1.net:8080/live/nazha2021/123456/15561.m3u8
 
 #EXTINF:-1 tvg-id="beINSports1Turkey.tr" tvg-logo="https://i.imgur.com/MRULdc8.png" group-title="TURKISH SPORTS",beIN Sports 1 Türkiye
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#EXTVLCOPT:http-referrer=https://eplayer.click/
-https://best2.globalweb.ru.com/cdn/premium62/mono.m3u8
+http://1tv1.net:8080/live/nazha2021/123456/93420.m3u8
 
 #EXTINF:-1 tvg-id="beINSports2Turkey.tr" tvg-logo="https://i.imgur.com/NDp6TlM.png" group-title="TURKISH SPORTS",beIN Sports 2 Türkiye
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#EXTVLCOPT:http-referrer=https://eplayer.click/
-https://best2.globalweb.ru.com/cdn/premium63/mono.m3u8
+http://1tv1.net:8080/live/nazha2021/123456/93382.m3u8
 
 #EXTINF:-1 tvg-id="beINSports3Turkey.tr" tvg-logo="https://i.imgur.com/j8VC6nB.png" group-title="TURKISH SPORTS",beIN Sports 3 Türkiye
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#EXTVLCOPT:http-referrer=https://eplayer.click/
-https://best2.globalweb.ru.com/cdn/premium64/mono.m3u8
+http://1tv1.net:8080/live/nazha2021/123456/93385.m3u8
 
 #EXTINF:-1 tvg-id="beINSports4Turkey.tr" tvg-logo="https://i.imgur.com/Lu26Yho.png" group-title="TURKISH SPORTS",beIN Sports 4 Türkiye
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#EXTVLCOPT:http-referrer=https://eplayer.click/
-https://best2.globalweb.ru.com/cdn/premium67/mono.m3u8
+http://1tv1.net:8080/live/nazha2021/123456/93383.m3u8
 
 #EXTINF:-1 tvg-id="beINSportsHaber.tr" tvg-logo="https://i.imgur.com/fBWCN2V.png" group-title="TURKISH SPORTS",beIN Sports Haber
 https://59c7ea6bec1c6.streamlock.net/filbox/beinsporthaber.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MRULdc8.png" group-title="AUSTRALIAN SPORTS",beIN Sports 1
-http://new-pro.tv:8080/mazen1/123456/271516
+http://1tv1.net:8080/live/nazha2021/123456/163778.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NDp6TlM.png" group-title="AUSTRALIAN SPORTS",beIN Sports 2
-http://iptv12k.com:35461/live/80301070602/456776/3309.m3u8
+http://1tv1.net:8080/live/nazha2021/123456/163780.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/j8VC6nB.png" group-title="AUSTRALIAN SPORTS",beIN Sports 3
-http://new-pro.tv:8080/mazen1/123456/271520
+http://1tv1.net:8080/live/nazha2021/123456/163782.m3u8
 
 #EXTINF:-1 tvg-id="beINSports1MalaysiaSingapore.my" tvg-logo="https://i.imgur.com/39bwyGI.png" group-title="MALAY SPORTS",beIN Sports 1 Malaysia & Singapore
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -2569,30 +2541,23 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df975e2b27cf500092
 #EXTINF:-1 tvg-id="beINSportsXtraenEspanol.us" tvg-logo="https://i.imgur.com/oGyeYgb.png" group-title="AMERICAN SPORTS",beIN Sports Xtra en Español
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60492fdd9989d30007ccd30a/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a121ad30-ae69-11eb-a87c-2ba0b5b8041d&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=ac3bc3c0-b26f-4c9c-8c94-988af191404a&userId=&serverSideAds=true
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/39bwyGI.png" group-title="CANADIAN SPORTS",beIN Sports Canada
-http://new-pro.tv:8080/mazen1/123456/69394
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/x8049OP.png" group-title="CANADIAN SPORTS",beIN Sports Xtra Canada
 http://status.tehw00t.net/miniProxy.php/https://bein-xtra-samsung-canada.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="BoxNation.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c8/BoxNation2014Logo.png" group-title="BRITISH SPORTS",Box Nation
-https://m3u-editor.com/serve/16e82970-0e3d-11ed-a245-39c2f9659ecb/605037635
+http://1tv1.net:8080/live/nazha2021/123456/9395.m3u8
 
 #EXTINF:-1 tvg-id="BTSport1.uk" tvg-logo="https://i.imgur.com/7dg7EB7.png" group-title="BRITISH SPORTS",BT Sport 1
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://31.172.87.52:2200/EX/UKSD_BT_Sport_1_SD-uk/tracks-v1a1/mono.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659=
+http://93.152.174.144:4000/play/btsport1/index.m3u8
 
 #EXTINF:-1 tvg-id="BTSport2.uk" tvg-logo="https://i.imgur.com/sIIFREX.png" group-title="BRITISH SPORTS",BT Sport 2
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://31.172.87.52:2200/EX/UKSD_BT_Sport_2_SD-uk/tracks-v1a1/mono.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659=
+http://93.152.174.144:4000/play/btsport2/index.m3u8
 
 #EXTINF:-1 tvg-id="BTSport3.uk" tvg-logo="https://i.imgur.com/8IzsrMb.png" group-title="BRITISH SPORTS",BT Sport 3
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://31.172.87.52:2200/EX/UKSD_BT_Sport_3_SD-uk/tracks-v1a1/mono.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659=
+http://93.152.174.144:4000/play/btsport3/index.m3u8
 
 #EXTINF:-1 tvg-id="BTSport4.uk" tvg-logo="https://i.imgur.com/gyTJhVr.png" group-title="BRITISH SPORTS",BT Sport 4
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://31.172.87.52:2200/EX/UKSD_BT_Sport_ESPN_SD-uk/tracks-v1a1/mono.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659=
+http://93.152.174.144:4000/play/btsportespn/index.m3u8
 
 #EXTINF:-1 tvg-id="Eurosport1UK.uk" tvg-logo="https://i.imgur.com/gwV31E0.png" group-title="BRITISH SPORTS",Eurosport 1 UK
 #EXTVLCOPT:http-user-agent=REDLINECLIENT
@@ -2618,44 +2583,34 @@ http://31.172.87.30:2200/EX/UKSD_Premier_2_SD-uk/tracks-v1a1/mono.m3u8?token=RED
 http://31.172.87.30:2200/R-EX/Racing_TV_UK-uk/tracks-v1a1/mono.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659
 
 #EXTINF:-1 tvg-id="SkySportsNFL.uk" tvg-logo="https://i.imgur.com/jM1FeOX.png" group-title="BRITISH SPORTS",Sky Sports Action
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://31.172.87.52:2200/EX/UKSD_Sky_Sports_NFL_SD-uk/tracks-v1a1/mono.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659=
+http://1tv1.net:8080/live/nazha2021/123456/55389.m3u8
 
 #EXTINF:-1 tvg-id="SkySportsArena.uk" tvg-logo="https://i.imgur.com/eZwExGu.png" group-title="BRITISH SPORTS",Sky Sports Arena
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://31.172.87.52:2200/EX/UKSD_Sky_Sports_Arena_SD-uk/tracks-v1a1/mono.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659=
+http://1tv1.net:8080/live/nazha2021/123456/55388.m3u8
 
 #EXTINF:-1 tvg-id="SkySportsCricket.uk" tvg-logo="https://i.imgur.com/J8zzS2v.png" group-title="BRITISH SPORTS",Sky Sports Cricket
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://31.172.87.52:2200/EX/UKSD_Sky_Sports_Cricket_SD-uk/tracks-v1a1/mono.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659=
+http://1tv1.net:8080/live/nazha2021/123456/55387.m3u8
 
 #EXTINF:-1 tvg-id="SkySportsF1.uk" tvg-logo="https://i.imgur.com/2kPW5qw.png" group-title="BRITISH SPORTS",Sky Sports F1
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://31.172.87.52:2200/EX/UKSD_Sky_Sports_F1_SD-uk/tracks-v1a1/mono.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659=
+http://1tv1.net:8080/live/nazha2021/123456/55383.m3u8
 
 #EXTINF:-1 tvg-id="SkySportsFootball.uk" tvg-logo="https://i.imgur.com/EcFwNdj.png" group-title="BRITISH SPORTS",Sky Sports Football
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://31.172.87.52:2200/EX/UKSD_Sky_Sports_Football_SD-uk/tracks-v1a1/mono.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659=
+http://1tv1.net:8080/live/nazha2021/123456/55390.m3u8
 
 #EXTINF:-1 tvg-id="SkySportsGolf.uk" tvg-logo="https://i.imgur.com/Q2ztKWZ.png" group-title="BRITISH SPORTS",Sky Sports Golf
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://31.172.87.52:2200/EX/UKSD_Sky_Sports_Golf_SD-uk/tracks-v1a1/mono.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659=
+http://1tv1.net:8080/live/nazha2021/123456/55386.m3u8
 
 #EXTINF:-1 tvg-id="SkySportsMainEvent.uk" tvg-logo="https://i.imgur.com/KHiae2e.png" group-title="BRITISH SPORTS",Sky Sports Main Event
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://31.172.87.37:2200/R-EX/Sky_Sports_Main_Event_SD-uk/tracks-v1a1/mono.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659=
+http://1tv1.net:8080/live/nazha2021/123456/55382.m3u8
 
 #EXTINF:-1 tvg-id="SkySportsMix.uk" tvg-logo="https://i.imgur.com/PRF0DsV.png" group-title="BRITISH SPORTS",Sky Sports Mix
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://31.172.87.52:2200/EX/UKSD_Sky_Sports_Mix_SD-uk/tracks-v1a1/mono.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659=
+http://1tv1.net:8080/live/nazha2021/123456/55385.m3u8
 
 #EXTINF:-1 tvg-id="SkySportsNews.uk" tvg-logo="https://i.imgur.com/jcFnVbi.png" group-title="BRITISH SPORTS",Sky Sports News UK
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://31.172.87.52:2200/EX/UKSD_Sky_Sports_News_SD-uk/tracks-v1a1/mono.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659=
+http://1tv1.net:8080/live/nazha2021/123456/11667.m3u8
 
 #EXTINF:-1 tvg-id="SkySportsPremierLeague.uk" tvg-logo="https://i.imgur.com/wA3DieO.png" group-title="BRITISH SPORTS",Sky Sports Premier League
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://31.172.87.52:2200/EX/UKSD_Sky_Sports_Premier_League_SD-uk/tracks-v1a1/mono.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659=
+http://1tv1.net:8080/live/nazha2021/123456/55384.m3u8
 
 #EXTINF:-1 tvg-id="SkySportsRacing.uk" tvg-logo="https://i.imgur.com/vhYstlz.png" group-title="BRITISH SPORTS",Sky Sports Racing
 #EXTVLCOPT:http-user-agent=REDLINECLIENT
@@ -2667,19 +2622,18 @@ http://31.172.87.30:2200/R-EX/UK_SKY_SPORTS_RACING-uk/tracks-v1a1/mono.m3u8?toke
 https://best2.globalweb.ru.com/cdn/premium308/mono.m3u8
 
 #EXTINF:-1 tvg-id="ESPN.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1920px-ESPN_wordmark.svg.png" group-title="AMERICAN SPORTS",ESPN US
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#EXTVLCOPT:http-referrer=https://eplayer.click/
-https://best2.globalweb.ru.com/cdn/premium44/mono.m3u8
+http://1tv1.net:8080/live/nazha2021/123456/148465.m3u8
 
 #EXTINF:-1 tvg-id="ESPN2.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/1280px-ESPN2_logo.svg.png" group-title="AMERICAN SPORTS",ESPN 2 US
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#EXTVLCOPT:http-referrer=https://eplayer.click/
-https://best2.globalweb.ru.com/cdn/premium45/mono.m3u8
+http://1tv1.net:8080/live/nazha2021/123456/148466.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YhuEewa.png" group-title="AMERICAN SPORTS",ESPN Deportes
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #EXTVLCOPT:http-referrer=https://eplayer.click/
 https://best2.globalweb.ru.com/cdn/premium375/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/ESPNews.svg/1920px-ESPNews.svg.png" group-title="AMERICAN SPORTS",ESPNews
+http://1tv1.net:8080/live/nazha2021/123456/148467.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qimdreM.png" group-title="AMERICAN SPORTS",FS1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
@@ -2714,30 +2668,31 @@ https://best2.globalweb.ru.com/cdn/premium66/mono.m3u8
 http://server.sibfungold.info:8080/Audi27092018_ertfg/Porsche2018_2609hfgt/54238
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1920px-ESPN_wordmark.svg.png" group-title="AUSTRALIAN SPORTS",ESPN Australia
-http://iptv12k.com:35461/live/80301070602/456776/3382.m3u8
+http://1tv1.net:8080/live/nazha2021/123456/163784.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/1280px-ESPN2_logo.svg.png" group-title="AUSTRALIAN SPORTS",ESPN 2 Australia
+http://1tv1.net:8080/live/nazha2021/123456/163786.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/b7TO49Q.png" group-title="AUSTRALIAN SPORTS",Fox Sports 501
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#EXTVLCOPT:http-referrer=https://eplayer.click/
-https://best2.globalweb.ru.com/cdn/premium369/mono.m3u8
+http://1tv1.net:8080/live/nazha2021/123456/163788.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BLWrz42.png" group-title="AUSTRALIAN SPORTS",Fox Sports 502
-http://iptv12k.com:35461/live/80301070602/456776/3390.m3u8
+http://1tv1.net:8080/live/nazha2021/123456/163789.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qR5u3Jg.png" group-title="AUSTRALIAN SPORTS",Fox Sports 503
-http://iptv12k.com:35461/live/80301070602/456776/3389.m3u8
+http://1tv1.net:8080/live/nazha2021/123456/163790.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4sHtDw1.png" group-title="AUSTRALIAN SPORTS",Fox Sports 504
-http://iptv12k.com:35461/live/80301070602/456776/3388.m3u8
+http://1tv1.net:8080/live/nazha2021/123456/163791.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qR5u3Jg.png" group-title="AUSTRALIAN SPORTS",Fox Sports 505
-http://iptv12k.com:35461/live/80301070602/456776/3387.m3u8
+http://1tv1.net:8080/live/nazha2021/123456/163792.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qR5u3Jg.png" group-title="AUSTRALIAN SPORTS",Fox Sports 506
-http://iptv12k.com:35461/live/80301070602/456776/3386.m3u8
+http://1tv1.net:8080/live/nazha2021/123456/163793.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qR5u3Jg.png" group-title="AUSTRALIAN SPORTS",Fox Sports 507
-http://iptv12k.com:35461/live/80301070602/456776/3385.m3u8
+http://1tv1.net:8080/live/nazha2021/123456/163794.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zeywLXs.png" group-title="AUSTRALIAN SPORTS",Fox Sports News
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
@@ -3960,34 +3915,20 @@ https://v-ny.mybtv.net/live/643/1280x720.m3u8
 #EXTVLCOPT:http-referrer=https://eplayer.click/
 https://best2.globalweb.ru.com/cdn/premium133/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HELzzCq.png" group-title="UK",4seven
-http://new-pro.tv:8080/mazen1/123456/72719
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d4/5Action_logo.svg/1920px-5Action_logo.svg.png" group-title="UK",5 Action
-http://new-pro.tv:8080/mazen1/123456/72746
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/haov0b4.png" group-title="UK",5 Select
-http://new-pro.tv:8080/mazen1/123456/72720
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/5Star_logo_2019.svg/1920px-5Star_logo_2019.svg.png" group-title="UK",5 Star
-http://new-pro.tv:8080/mazen1/123456/72722
-
 #EXTINF:-1 tvg-id="BBCAlba.uk" tvg-logo="https://i.imgur.com/Nvme1rf.png" group-title="UK",BBC Alba
-http://iptv12k.com:35461/live/80301070602/456776/5290.m3u8
+http://1tv1.net:8080/live/nazha2021/123456/84733.m3u8
 
 #EXTINF:-1 tvg-id="BBCOneHD.uk" tvg-logo="https://i.imgur.com/oGzLsiq.png" group-title="UK",BBC One HD
-http://iptv12k.com:35461/live/80301070602/456776/5467.m3u8
+http://1tv1.net:8080/live/nazha2021/123456/9310.m3u8
 
 #EXTINF:-1 tvg-id="BBCTwoHD.uk" tvg-logo="https://i.imgur.com/iMfng6J.png" group-title="UK",BBC Two HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#EXTVLCOPT:http-referrer=https://eplayer.click/
-https://best2.globalweb.ru.com/cdn/premium357/mono.m3u8
+http://1tv1.net:8080/live/nazha2021/123456/9309.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gcpSDKf.png" group-title="UK",BBC Three
-http://iptv12k.com:35461/live/80301070602/456776/4308.m3u8
+http://1tv1.net:8080/live/nazha2021/123456/9314.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nywptTp.png" group-title="UK",BBC Four
-http://iptv12k.com:35461/80301070602/456776/4307
+http://1tv1.net:8080/live/nazha2021/123456/9283.m3u8
 
 #EXTINF:-1 tvg-id="BBCFour.uk" tvg-logo="https://i.imgur.com/kr2UTHB.png" group-title="UK",BBC Scotland
 http://iptv12k.com:35461/live/80301070602/456776/5434.m3u8
