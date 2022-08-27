@@ -706,37 +706,25 @@ https://stationtv.cdn.rcs.net.ar/mnp/tbs_hls/playlist.m3u8
 https://stationtv.cdn.rcs.net.ar/mnp/tnt_hls/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/E%21_Logo_2012.svg/320px-E%21_Logo_2012.svg.png" group-title="AMERICAN ENTERTAINMENT",E! East
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#EXTVLCOPT:http-referrer=https://eplayer.click/
-https://best2.globalweb.ru.com/cdn/premium315/mono.m3u8
+http://1tv1.net:8080/live/nazha2021/123456/148499.m3u8
 
 #EXTINF:-1 tvg-id="USANetworkEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/1920px-USA_Network_logo_%282016%29.svg.png" group-title="AMERICAN ENTERTAINMENT",USA Network East
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#EXTVLCOPT:http-referrer=https://eplayer.click/
-https://best2.globalweb.ru.com/cdn/premium343/mono.m3u8
+http://1tv1.net:8080/live/nazha2021/123456/148491.m3u8
 
 #EXTINF:-1 tvg-id="OprahWinfreyNetworkEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/OWN_2011_logo.svg/1920px-OWN_2011_logo.svg.png" group-title="AMERICAN ENTERTAINMENT",Oprah Winfrey Network East
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#EXTVLCOPT:http-referrer=https://eplayer.click/
-https://best2.globalweb.ru.com/cdn/premium331/mono.m3u8
+http://1tv1.net:8080/live/nazha2021/123456/148500.m3u8
 
 #EXTINF:-1 tvg-id="TBSEast.us" tvg-logo="https://i.imgur.com/upM99h1.png" group-title="AMERICAN ENTERTAINMENT",TBS East
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#EXTVLCOPT:http-referrer=https://eplayer.click/
-https://best2.globalweb.ru.com/cdn/premium336/mono.m3u8
+http://1tv1.net:8080/live/nazha2021/123456/148479.m3u8
 
 #EXTINF:-1 tvg-id="TNTEast.us" tvg-logo="https://i.imgur.com/umJbqNY.png" group-title="AMERICAN ENTERTAINMENT",TNT East
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#EXTVLCOPT:http-referrer=https://eplayer.click/
-https://best2.globalweb.ru.com/cdn/premium338/mono.m3u8
+http://1tv1.net:8080/live/nazha2021/123456/148474.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bQPc9pg.png" group-title="AMERICAN ENTERTAINMENT",Bravo East
 http://89.187.175.143:80/3019/mpegts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/2019_Disney_Channel_logo.svg/1920px-2019_Disney_Channel_logo.svg.png" group-title="AMERICAN ENTERTAINMENT",Disney Channel East
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#EXTVLCOPT:http-referrer=https://eplayer.click/
-https://best2.globalweb.ru.com/cdn/premium312/mono.m3u8
+http://1tv1.net:8080/live/nazha2021/123456/148480.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Fa0e2NH.png" group-title="RUSSIAN ENTERTAINMENT",Пятница! International
 https://sc.id-tv.kz:443/friday_34_35.m3u8
@@ -851,9 +839,7 @@ https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8
 https://best2.globalweb.ru.com/cdn/premium344/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="MTVEast.us" tvg-logo="https://i.imgur.com/X7VxlBN.png" group-title="AMERICAN MUSIC",MTV East
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#EXTVLCOPT:http-referrer=https://eplayer.click/
-https://best2.globalweb.ru.com/cdn/premium371/mono.m3u8
+http://1tv1.net:8080/live/nazha2021/123456/148483.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/X7VxlBN.png" group-title="ASIAN MUSIC",MTV Vietnam
 https://livecdn.fptplay.net/sdb/mtv_hls.smil/chunklist.m3u8
@@ -1242,17 +1228,16 @@ http://45.153.35.210:8000/play/UK_great_classic_sd/index.m3u8
 https://best2.globalweb.ru.com/cdn/premium302/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/icFwjZ3.jpg" group-title="AMERICAN SERIES",AMC East
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#EXTVLCOPT:http-referrer=https://eplayer.click/
-https://best2.globalweb.ru.com/cdn/premium303/tracks-v1a1/mono.m3u8
+http://1tv1.net:8080/live/nazha2021/123456/148495.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8dgknme.png" group-title="AMERICAN SERIES",FX East
 http://89.187.175.143:80/3006/mpegts
 
 #EXTINF:-1 tvg-id="ShowtimeEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/1920px-Showtime.svg.png" group-title="AMERICAN SERIES",Showtime East
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#EXTVLCOPT:http-referrer=https://eplayer.click/
-https://best2.globalweb.ru.com/cdn/premium333/mono.m3u8
+http://1tv1.net:8080/live/nazha2021/123456/148472.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LHXa485.png" group-title="AMERICAN SERIES",Syfy East
+http://1tv1.net:8080/live/nazha2021/123456/148451.m3u8
 
 #EXTINF:-1 tvg-id="AXNBrazil.br" tvg-logo="https://i.imgur.com/EZQZ2Dl.png" group-title="BRASILIAN SERIES",AXN Brasil
 http://187.85.237.8:8825/ipvt_00
@@ -1514,9 +1499,6 @@ https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VaoRtdn.png" group-title="KNOWLEDGE",Lingua Channel
 http://pprotv.com:80/live/asim1234/123456/39467.ts
-
-#EXTINF:-1 tvg-id="Science.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bc/Science_Channel_2016.png" group-title="KNOWLEDGE",Science
-http://iptv12k.com:35461/live/80301070602/456776/1649.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ae/RTD-TV-logo.png" group-title="KNOWLEDGE",RT Documentary
 #KODIPROP:inputstream=inputstream.adaptive
@@ -2548,39 +2530,34 @@ http://status.tehw00t.net/miniProxy.php/https://bein-xtra-samsung-canada.amagi.t
 http://1tv1.net:8080/live/nazha2021/123456/9395.m3u8
 
 #EXTINF:-1 tvg-id="BTSport1.uk" tvg-logo="https://i.imgur.com/7dg7EB7.png" group-title="BRITISH SPORTS",BT Sport 1
-http://93.152.174.144:4000/play/btsport1/index.m3u8
+http://1tv1.net:8080/live/nazha2021/123456/9342.m3u8
 
 #EXTINF:-1 tvg-id="BTSport2.uk" tvg-logo="https://i.imgur.com/sIIFREX.png" group-title="BRITISH SPORTS",BT Sport 2
-http://93.152.174.144:4000/play/btsport2/index.m3u8
+http://1tv1.net:8080/live/nazha2021/123456/9341.m3u8
 
 #EXTINF:-1 tvg-id="BTSport3.uk" tvg-logo="https://i.imgur.com/8IzsrMb.png" group-title="BRITISH SPORTS",BT Sport 3
-http://93.152.174.144:4000/play/btsport3/index.m3u8
+http://1tv1.net:8080/live/nazha2021/123456/9272.m3u8
 
 #EXTINF:-1 tvg-id="BTSport4.uk" tvg-logo="https://i.imgur.com/gyTJhVr.png" group-title="BRITISH SPORTS",BT Sport 4
-http://93.152.174.144:4000/play/btsportespn/index.m3u8
+http://1tv1.net:8080/live/nazha2021/123456/9258.m3u8
 
 #EXTINF:-1 tvg-id="Eurosport1UK.uk" tvg-logo="https://i.imgur.com/gwV31E0.png" group-title="BRITISH SPORTS",Eurosport 1 UK
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://31.172.87.30:2200/EX/UKSD_Eurosport_SD-uk/tracks-v1a1/mono.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659=
+http://1tv1.net:8080/live/nazha2021/123456/16127.m3u8
 
 #EXTINF:-1 tvg-id="Eurosport2UK.uk" tvg-logo="https://i.imgur.com/lTnKDju.png" group-title="BRITISH SPORTS",Eurosport 2 UK
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://31.172.87.30:2200/EX/UKSD_Eurosport_2_SD-uk/tracks-v1a1/mono.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659=
+http://1tv1.net:8080/live/nazha2021/123456/16126.m3u8
 
 #EXTINF:-1 tvg-id="FreeSports.uk" tvg-logo="https://i.imgur.com/LwYHFLx.png" group-title="BRITISH SPORTS",Free Sports
 http://server.sibfungold.info:8080/Audi27092018_ertfg/Porsche2018_2609hfgt/52843
 
 #EXTINF:-1 tvg-id="PremierSports1.ie" tvg-logo="https://i.imgur.com/tPxIkmd.png" group-title="BRITISH SPORTS",Premier Sports 1
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://31.172.87.30:2200/EX/UKSD_Premier_Sports_1_SD-uk/tracks-v1a1/mono.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659=
+http://1tv1.net:8080/live/nazha2021/123456/16098.m3u8
 
 #EXTINF:-1 tvg-id="PremierSports2.ie" tvg-logo="https://i.imgur.com/PhUx6yK.png" group-title="BRITISH SPORTS",Premier Sports 2
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://31.172.87.30:2200/EX/UKSD_Premier_2_SD-uk/tracks-v1a1/mono.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659=
+http://1tv1.net:8080/live/nazha2021/123456/9320.m3u8
 
 #EXTINF:-1 tvg-id="RacingTV.uk" tvg-logo="https://i.imgur.com/d81P4qV.jpg" group-title="BRITISH SPORTS",Racing TV
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://31.172.87.30:2200/R-EX/Racing_TV_UK-uk/tracks-v1a1/mono.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659
+http://1tv1.net:8080/live/nazha2021/123456/9385.m3u8
 
 #EXTINF:-1 tvg-id="SkySportsNFL.uk" tvg-logo="https://i.imgur.com/jM1FeOX.png" group-title="BRITISH SPORTS",Sky Sports Action
 http://1tv1.net:8080/live/nazha2021/123456/55389.m3u8
@@ -2636,17 +2613,18 @@ https://best2.globalweb.ru.com/cdn/premium375/mono.m3u8
 http://1tv1.net:8080/live/nazha2021/123456/148467.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qimdreM.png" group-title="AMERICAN SPORTS",FS1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#EXTVLCOPT:http-referrer=https://eplayer.click/
-https://best2.globalweb.ru.com/cdn/premium39/mono.m3u8
+http://1tv1.net:8080/live/nazha2021/123456/148446.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jxLMBZt.png" group-title="AMERICAN SPORTS",FS2
-http://2ns9iqxa.russtv.net/iptv/EL873UXD746P96/7323/index.m3u8
+http://1tv1.net:8080/live/nazha2021/123456/148447.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/MLBNetworkLogo.svg/800px-MLBNetworkLogo.svg.png" group-title="AMERICAN SPORTS",MLB Network
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #EXTVLCOPT:http-referrer=https://eplayer.click/
 https://best2.globalweb.ru.com/cdn/premium399/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gZXSAhf.png" group-title="AMERICAN SPORTS",NFL Network
+http://server.sibfungold.info:8080/Audi27092018_ertfg/Porsche2018_2609hfgt/46722
 
 #EXTINF:-1 tvg-id="NBATV.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/800px-NBA_TV.svg.png" group-title="AMERICAN SPORTS",NBA TV
 https://bit.ly/nbatvusa?/index.m3u8
@@ -3093,19 +3071,13 @@ https://best2.globalweb.ru.com/cdn/premium386/mono.m3u8
 https://m3u-editor.com/serve/16e82970-0e3d-11ed-a245-39c2f9659ecb/605037651
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SrorhG7.png" group-title="DUTCH SPORTS",Ziggo Sport Racing
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#EXTVLCOPT:http-referrer=https://eplayer.click/
-https://best2.globalweb.ru.com/cdn/premium396/mono.m3u8
+http://1tv1.net:8080/live/nazha2021/123456/57441.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8DlO0BF.png" group-title="DUTCH SPORTS",Ziggo Sport Select
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#EXTVLCOPT:http-referrer=https://eplayer.click/
-https://best2.globalweb.ru.com/cdn/premium393/mono.m3u8
+http://1tv1.net:8080/live/nazha2021/123456/57440.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aufKGRo.png" group-title="DUTCH SPORTS",Ziggo Sport Voetbal
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#EXTVLCOPT:http-referrer=https://eplayer.click/
-https://best2.globalweb.ru.com/cdn/premium398/mono.m3u8
+http://1tv1.net:8080/live/nazha2021/123456/57439.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8A0aYWf.png" group-title="SERBIAN SPORTS",Arena Premium 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
