@@ -2787,22 +2787,16 @@ http://live-vn.cvacetv.ga:8080/PolsatPre2
 https://best2.globalweb.ru.com/cdn/premium128/mono.m3u8
 
 #EXTINF:-1 tvg-id="CanalPlusSportFrance.fr" tvg-logo="https://i.imgur.com/p0k54D9.png" group-title="FRENCH SPORTS",Canal + Sport France
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#EXTVLCOPT:http-referrer=https://eplayer.click/
-https://best2.globalweb.ru.com/cdn/premium122/mono.m3u8
+http://1tv1.net:8080/live/nazha2021/123456/629.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/L%27%C3%89quipe_wordmark.svg/1920px-L%27%C3%89quipe_wordmark.svg.png" group-title="FRENCH SPORTS",L'Equipe
 http://callofliberty.fr/stream/LEQUIPE/master.m3u8
 
 #EXTINF:-1 tvg-id="RMCSport1.fr" tvg-logo="https://i.imgur.com/30785UJ.png" group-title="FRENCH SPORTS",RMC Sport 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#EXTVLCOPT:http-referrer=https://eplayer.click/
-https://best2.globalweb.ru.com/cdn/premium119/mono.m3u8
+http://1tv1.net:8080/live/nazha2021/123456/4299.m3u8
 
 #EXTINF:-1 tvg-id="RMCSport2.fr" tvg-logo="https://i.imgur.com/5Rh2s8k.png" group-title="FRENCH SPORTS",RMC Sport 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#EXTVLCOPT:http-referrer=https://eplayer.click/
-https://best2.globalweb.ru.com/cdn/premium120/mono.m3u8
+http://1tv1.net:8080/live/nazha2021/123456/4300.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kaUN9Uw.png" group-title="ROMANIAN SPORTS",Digi Sport 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
@@ -2845,29 +2839,28 @@ https://best2.globalweb.ru.com/cdn/premium441/mono.m3u8
 https://best2.globalweb.ru.com/cdn/premium442/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CSBS4Ff.png" group-title="GERMAN SPORTS",DAZN 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#EXTVLCOPT:http-referrer=https://eplayer.click/
-https://best2.globalweb.ru.com/cdn/premium426/mono.m3u8
+http://1tv1.net:8080/live/nazha2021/123456/44532.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/m5c18XU.png" group-title="GERMAN SPORTS",DAZN 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#EXTVLCOPT:http-referrer=https://eplayer.click/
-https://best2.globalweb.ru.com/cdn/premium427/mono.m3u8
+http://1tv1.net:8080/live/nazha2021/123456/44531.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gP7OfkX.png" group-title="GERMAN SPORTS",Sky Sport Bundesliga 1
-http://live-eu.cvacetv.ga:8080/stream/channelid/943037218?profile=ace
+http://1tv1.net:8080/live/nazha2021/123456/44550.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/olajgeM.png" group-title="GERMAN SPORTS",Sky Sport Top Event
-http://live-eu.cvacetv.ga:8080/stream/channelid/458698047?profile=ace
+http://1tv1.net:8080/live/nazha2021/123456/44552.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Sky_Sport_Tennis.svg/1920px-Sky_Sport_Tennis.svg.png" group-title="GERMAN SPORTS",Sky Sport Tennis
-http://live-eu.cvacetv.ga:8080/stream/channelid/1994407003?profile=ace
+http://1tv1.net:8080/live/nazha2021/123456/44551.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zsyAJky.png" group-title="GERMAN SPORTS",Sky Sport Golf
 http://live-eu.cvacetv.ga:8080/stream/channelid/1927543192?profile=ace
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xSPDmkP.png" group-title="GERMAN SPORTS",Sky Sport Mix
 http://live-eu.cvacetv.ga:8080/stream/channelid/1335422074?profile=ace
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/de/thumb/c/cc/Sky_Sport_News_2020.svg/1920px-Sky_Sport_News_2020.svg.png" group-title="GERMAN SPORTS",Sky Sport News
+http://1tv1.net:8080/live/nazha2021/123456/44553.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NNn00zG.png" group-title="GERMAN SPORTS",Sky Sport Premier League
 http://live-eu.cvacetv.ga:8080/stream/channelid/857180288?profile=ace
@@ -2947,10 +2940,10 @@ http://194.76.186.98:2021/play/a01t
 http://194.76.186.98:2021/play/a01u
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/itYiAnd.png" group-title="PORTUGUESE SPORTS",Sport TV 4
-https://sport.livedoomovies.com:4431/02_SPORTTV_4_720p/chunklist.m3u8|Referer=https://www.movie87hd.com/?r=ajax
+http://1tv1.net:8080/live/nazha2021/123456/4122.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LblSggR.png" group-title="PORTUGUESE SPORTS",Sport TV 5
-https://sport.livedoomovies.com:4431/02_SPORTTV_5_720p/chunklist.m3u8|Referer=https://www.movie87hd.com/?r=ajax
+http://1tv1.net:8080/live/nazha2021/123456/4185.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RbFoVdH.png" group-title="PORTUGUESE SPORTS",Sport TV 6
 http://194.76.186.98:2021/play/a01w
@@ -4097,9 +4090,7 @@ http://callofliberty.fr/stream/6ter/master.m3u8
 http://callofliberty.fr/stream/C8/master.m3u8
 
 #EXTINF:-1 tvg-id="CanalPlusFrance.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Canal%2B.svg/1920px-Canal%2B.svg.png" group-title="FRANCE",Canal+
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#EXTVLCOPT:http-referrer=https://eplayer.click/
-https://best2.globalweb.ru.com/cdn/premium121/mono.m3u8
+http://1tv1.net:8080/live/nazha2021/123456/630.m3u8
 
 #EXTINF:-1 tvg-id="CStar.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/CStar_vector.svg/1920px-CStar_vector.svg.png" group-title="FRANCE",CStar
 http://callofliberty.fr/stream/CSTAR/master.m3u8
