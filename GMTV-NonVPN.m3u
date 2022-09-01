@@ -1439,7 +1439,7 @@ https://stream-cdn.mncnow.id/live/eds/History/sa_dash_vmx/History.mpd
 
 #EXTINF:-1 tvg-id="History2Asia.us" tvg-logo="https://i.imgur.com/Ew6AZiG.png" group-title="KNOWLEDGE",History 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-https://smart-tv.livedoomovie.com/02_H2HD_720p/chunklist.m3u8|Referer=https://www.movie87hd.com/?r=ajax
+https://iptv-thai.herokuapp.com/tv.php?channel=115713
 
 #EXTINF:-1 tvg-id="InvestigationDiscoveryEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/1920px-InvestigationDiscoveryLogo2020.svg.png" group-title="KNOWLEDGE",Investigation Discovery East
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
@@ -2758,9 +2758,7 @@ https://best2.globalweb.ru.com/cdn/premium57/mono.m3u8
 https://best2.globalweb.ru.com/cdn/premium58/mono.m3u8
 
 #EXTINF:-1 tvg-id="PolsatSport.pl" tvg-logo="https://i.imgur.com/pM6Q5n1.png" group-title="POLISH SPORTS",Polsat Sport
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#EXTVLCOPT:http-referrer=https://eplayer.click/
-https://best2.globalweb.ru.com/cdn/premium47/mono.m3u8
+http://95.211.250.58:8080/POLSAT_SPORT/mpegts
 
 #EXTINF:-1 tvg-id="PolsatSportExtra.pl" tvg-logo="https://i.imgur.com/mnohjlI.png" group-title="POLISH SPORTS",Polsat Sport Extra
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
@@ -2771,9 +2769,8 @@ https://best2.globalweb.ru.com/cdn/premium50/mono.m3u8
 http://live-eu.cvacetv.ga:8080/stream/channelid/360275478?profile=ace
 
 #EXTINF:-1 tvg-id="PolsatSportNews.pl" tvg-logo="https://i.imgur.com/QJIzCGa.png" group-title="POLISH SPORTS",Polsat Sport News
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#EXTVLCOPT:http-referrer=https://eplayer.click/
-https://best2.globalweb.ru.com/cdn/premium129/mono.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://103.49.40.100:33009/POLSATSPORTNEWSHD
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IgONH1a.png" group-title="POLISH SPORTS",Polsat Sport Premium 1
 http://live-vn.cvacetv.ga:8080/PolsatPre1
@@ -2782,9 +2779,7 @@ http://live-vn.cvacetv.ga:8080/PolsatPre1
 http://live-vn.cvacetv.ga:8080/PolsatPre2
 
 #EXTINF:-1 tvg-id="TVPSport.pl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Logo_TVP_Sport.jpg" group-title="POLISH SPORTS",TVP Sport
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#EXTVLCOPT:http-referrer=https://eplayer.click/
-https://best2.globalweb.ru.com/cdn/premium128/mono.m3u8
+http://95.211.250.58/TVP_SPORT/mpegts
 
 #EXTINF:-1 tvg-id="CanalPlusSportFrance.fr" tvg-logo="https://i.imgur.com/p0k54D9.png" group-title="FRENCH SPORTS",Canal + Sport France
 http://1tv1.net:8080/live/nazha2021/123456/629.m3u8
@@ -3200,19 +3195,13 @@ https://best2.globalweb.ru.com/cdn/premium127/mono.m3u8
 http://mfe.cliptv.az/dash/Match_Arena_HD.ism/playlist.mpd
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MsZ2Zks.png" group-title="RUSSIAN SPORTS",Матч! Футбол 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#EXTVLCOPT:http-referrer=https://eplayer.click/
-https://best2.globalweb.ru.com/cdn/premium136/mono.m3u8
+http://95.183.43.237:8080/258/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YsQjzj4.png" group-title="RUSSIAN SPORTS",Матч! Футбол 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#EXTVLCOPT:http-referrer=https://eplayer.click/
-https://best2.globalweb.ru.com/cdn/premium137/mono.m3u8
+http://95.183.43.237:8080/259/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZkIcKWs.png" group-title="RUSSIAN SPORTS",Матч! Футбол 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#EXTVLCOPT:http-referrer=https://eplayer.click/
-https://best2.globalweb.ru.com/cdn/premium138/mono.m3u8
+http://95.183.43.237:8080/260/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8qmWLBO.png" group-title="RUSSIAN SPORTS",Матч! Боец
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
@@ -4388,7 +4377,7 @@ https://subfvj7tzt.akamaized.net/out/u/3015.mpd
 https://abscbn-ono.akamaized.net/midroll/amagi_hls_data_abscbnAAA-abscbn-kapcha/CDN/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.gmanetwork.com/res/portal_revamp/img/logo.png" group-title="PHILIPPINES",GMA
-http://103.105.213.251:8443/live/CpXvMHd1YHNLwJ-hz7jjXw/1661518126/5.m3u8
+http://dmtn.tv:8080/play/_2QOr27LB-QLALpzQgGGZGwmLnaC1JFygdnYJ4RK6U-WADQew3hecSZ-wn-iMmQqa_oZLNtM36mNf-l0nubMECT1nlMd1CT_idbmuYrkK1jMmiQqLHmoo7Nuj1U3urpp_XGsiR7rFRbq4roDe-PMwsAYziZLmqsA_GsOy5cM_ls
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/40/GTV_Philippines_Logo_Vector.svg/1280px-GTV_Philippines_Logo_Vector.svg.png" group-title="PHILIPPINES",GTV
 http://103.105.213.251:8443/live/CpXvMHd1YHNLwJ-hz7jjXw/1661518126/7.m3u8
