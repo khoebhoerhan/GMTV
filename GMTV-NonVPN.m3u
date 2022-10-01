@@ -712,7 +712,7 @@ https://stationtv.cdn.rcs.net.ar/mnp/tnt_hls/playlist.m3u8
 http://1tv1.net:8080/live/nazha2021/123456/148499.m3u8
 
 #EXTINF:-1 tvg-id="USANetworkEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/1920px-USA_Network_logo_%282016%29.svg.png" group-title="AMERICAN ENTERTAINMENT",USA Network East
-http://1tv1.net:8080/live/nazha2021/123456/148491.m3u8
+http://89.187.175.143:80/3025/index.m3u8
 
 #EXTINF:-1 tvg-id="OprahWinfreyNetworkEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/OWN_2011_logo.svg/1920px-OWN_2011_logo.svg.png" group-title="AMERICAN ENTERTAINMENT",Oprah Winfrey Network East
 http://1tv1.net:8080/live/nazha2021/123456/148500.m3u8
@@ -721,7 +721,7 @@ http://1tv1.net:8080/live/nazha2021/123456/148500.m3u8
 http://1tv1.net:8080/live/nazha2021/123456/148479.m3u8
 
 #EXTINF:-1 tvg-id="TNTEast.us" tvg-logo="https://i.imgur.com/umJbqNY.png" group-title="AMERICAN ENTERTAINMENT",TNT East
-http://1tv1.net:8080/live/nazha2021/123456/148474.m3u8
+http://89.187.175.143:80/3030/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bQPc9pg.png" group-title="AMERICAN ENTERTAINMENT",Bravo East
 http://89.187.175.143:80/3019/mpegts
@@ -1240,7 +1240,7 @@ http://89.187.175.143:80/3006/mpegts
 http://1tv1.net:8080/live/nazha2021/123456/148472.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LHXa485.png" group-title="AMERICAN SERIES",Syfy East
-http://1tv1.net:8080/live/nazha2021/123456/148451.m3u8
+http://89.187.175.143:80/3105/index.m3u8
 
 #EXTINF:-1 tvg-id="AXNBrazil.br" tvg-logo="https://i.imgur.com/EZQZ2Dl.png" group-title="BRASILIAN SERIES",AXN Brasil
 http://187.85.237.8:8825/ipvt_00
@@ -2881,6 +2881,9 @@ http://2022spn.net:8080/pacomiguel/G3KB6YR17R/4938
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rqSPxoU.png" group-title="SPANISH SPORTS",DAZN F1
 https://4p6t.short.gy/DAZNF1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/O7Rc3KP.png" group-title="SPANISH SPORTS",DAZN LaLiga
+https://bit.ly/3xs0DZK
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gwV31E0.png" group-title="SPANISH SPORTS",Eurosport 1
 https://4p6t.short.gy/EUROSPORT1
