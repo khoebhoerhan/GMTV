@@ -1533,7 +1533,7 @@ https://live.duhnet.tv/S2/HLS_LIVE/cnnturknp/playlist.m3u8
 http://45.92.69.72:8001/play/a02l
 
 #EXTINF:-1 tvg-id="CNNBrasil.br" tvg-logo="https://i.imgur.com/zcaYBfX.png" group-title="BRASILIAN NEWS",CNN Brasil
-http://189.91.128.146:4444/udp/227.10.20.160:1234
+http://191.212.166.203:4000/play/a0hy
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jCXODcU.png" group-title="SPANISH NEWS",CNN en Español
 http://limetv.me:80/live/4719wil/452540/95423.m3u8
@@ -1872,7 +1872,7 @@ https://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/master.m3u8
 #EXTINF:-1 tvg-id="RaiNews24.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Rai_News_24_logo_%282022%29.svg/1920px-Rai_News_24_logo_%282022%29.svg.png" group-title="ITALIAN NEWS",Rai News 24
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-https://streamcdnb1-8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/rainews1/hls/rainews_1200/chunklist.m3u8
+https://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Canal24Horas.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/1024px-Logo_TVE-24h.svg.png" group-title="SPANISH NEWS",Canal 24 Horas
 #KODIPROP:inputstream=inputstream.adaptive
@@ -1904,7 +1904,7 @@ https://tv-trthaber.medya.trt.com.tr/master_720.m3u8
 https://tv.ensonhaber.com/tv/tr/tvnet/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/34/Astro_Awani_501.png" tvg-id="AstroAwani.my" group-title="MALAY NEWS",Astro Awani
-https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
+https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index_3.m3u8
 
 #EXTINF:-1 tvg-id="RTMK04" tvg-logo="https://i.imgur.com/68Qfyma.png" tvg-url="https://raw.githubusercontent.com/samleong123/rtm-live/main/rtmklik.xml" group-title="MALAY NEWS",Berita RTM
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36
@@ -2053,11 +2053,11 @@ https://raw.githubusercontent.com/fotvnetwork/iptv-free/master/M3U8/Locals/oneph
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=ebccc6c164654dd6a80938839a05f6f4&key=edad57c8807dcec046036d860d99a20e
 https://subfvj7tzt.akamaized.net/out/u/3022.mpd
 
-#EXTINF:-1 tvg-id="GloboNews.br" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/89/Logotipo_da_GloboNews.png" group-title="BRASILIAN NEWS",Globo News
-http://187.85.237.3:8220/ipvt_004
+#EXTINF:-1 tvg-id="GloboNews.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/Logotipo_da_GloboNews.png" group-title="BRASILIAN NEWS",Globo News
+http://200.6.86.128:12000/play/a0m0
 
 #EXTINF:-1 tvg-id="RecordNews.br" tvg-logo="https://i.imgur.com/qiXPVsD.png" group-title="BRASILIAN NEWS",Record News
-https://canal1.proxy.tokplay.com.br/streams/RECORD_NEWS/auto.m3u8
+http://200.6.86.128:12000/play/a0k4
 
 #EXTINF:-1 tvg-id="BandNews.br" tvg-logo="https://i.imgur.com/BWkhQDM.png" group-title="BRASILIAN NEWS",Band News
 http://189.91.128.146:4444/udp/227.10.20.131:1234
