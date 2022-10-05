@@ -4596,14 +4596,6 @@ http://s1.voscast.com:8080/;
 https://live.indostreamserver.com:10938/stream/
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KWoGv53.png" group-title="RADIO INDONESIA",Raka FM
 https://streamingv2.shoutcast.com/raka-bandung
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Az4SJHl.png" group-title="RADIO INDONESIA",Voks 99.3 FM Bali
-https://svara-stream.radioddns.net:8443/Bali_voksradio_993fm
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wKt9Ebg.png" group-title="RADIO INDONESIA",Voks 102 FM Bali
-https://onlineradiobox.com/json/id/cassanova/play?platform=web
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rv8zZo4.png" group-title="RADIO INDONESIA",Voks Radio Bandung
-https://svara-stream.radioddns.net:8443/bandung_voksradio
-#EXTINF:-1 tvg-logo="https://i.imgur.com/m8OPSTY.png" group-title="RADIO INDONESIA",Voks Radio Jogja
-http://c1.siar.us:10219/stream
 #EXTINF:-1 tvg-logo="https://i.imgur.com/owCFoGD.png" group-title="RADIO INDONESIA",Rase FM
 http://radio.jabarmaya.net.id:8000/rasefm?1613823975625
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ObSeM5D.png" group-title="RADIO INDONESIA",Retjo Buntung
@@ -4696,7 +4688,7 @@ http://i.klikhost.net:8018/;
 http://175.45.185.215:8000/admin
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ma0HYSM.png" group-title="RADIO INDONESIA",Unisi Radio
 http://202.162.32.23:8000/stream/1/
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/9/9d/Urban106%2C3FM.png" group-title="RADIO INDONESIA",Urban Radio Bandung
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rrVJq9V.png" group-title="RADIO INDONESIA",Urban Radio Bandung
 http://live.indostreamserver.com/8250/stream
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Bd3maAJ.png" group-title="RADIO INDONESIA",Urban Yudha Bali
 http://live.indostreamserver.com:8090/;
@@ -4706,6 +4698,14 @@ http://utyfmedari.us.myradio.web.id:8000/utyfmedari
 http://node-02.zeno.fm:80/1n8mba13zqruv?rj-ttl=5&rj-tok=AAABd71VoMIAqmerQClkP_PCZg
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FBB0zD5.png" group-title="RADIO INDONESIA",Visi FM
 https://i.klikhost.com/8274/;stream.mp3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Az4SJHl.png" group-title="RADIO INDONESIA",Voks 99.3 FM Bali
+https://svara-stream.radioddns.net:8443/Bali_voksradio_993fm
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wKt9Ebg.png" group-title="RADIO INDONESIA",Voks 102 FM Bali
+https://onlineradiobox.com/json/id/cassanova/play?platform=web
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rv8zZo4.png" group-title="RADIO INDONESIA",Voks Radio Bandung
+https://svara-stream.radioddns.net:8443/bandung_voksradio
+#EXTINF:-1 tvg-logo="https://i.imgur.com/m8OPSTY.png" group-title="RADIO INDONESIA",Voks Radio Jogja
+http://c1.siar.us:10219/stream
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kLfKFH5.png" group-title="PINOY RADIO",DZRH News
 https://streamingv2.shoutcast.com/dzrhmanila?type=.mp3
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ByOI2bA.png" group-title="PINOY RADIO",Energy 106.7
