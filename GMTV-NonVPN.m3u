@@ -4596,7 +4596,13 @@ http://s1.voscast.com:8080/;
 https://live.indostreamserver.com:10938/stream/
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KWoGv53.png" group-title="RADIO INDONESIA",Raka FM
 https://streamingv2.shoutcast.com/raka-bandung
-#EXTINF:-1 tvg-logo="https://i.imgur.com/m8OPSTY.png" group-title="RADIO INDONESIA",Voks Radio
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Az4SJHl.png" group-title="RADIO INDONESIA",Voks 99,3 FM Bali
+https://svara-stream.radioddns.net:8443/Bali_voksradio_993fm
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wKt9Ebg.png" group-title="RADIO INDONESIA",Voks 102 FM Bali
+https://onlineradiobox.com/json/id/cassanova/play?platform=web
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rv8zZo4.png" group-title="RADIO INDONESIA",Voks Radio Bandung
+https://svara-stream.radioddns.net:8443/bandung_voksradio
+#EXTINF:-1 tvg-logo="https://i.imgur.com/m8OPSTY.png" group-title="RADIO INDONESIA",Voks Radio Jogja
 http://c1.siar.us:10219/stream
 #EXTINF:-1 tvg-logo="https://i.imgur.com/owCFoGD.png" group-title="RADIO INDONESIA",Rase FM
 http://radio.jabarmaya.net.id:8000/rasefm?1613823975625
