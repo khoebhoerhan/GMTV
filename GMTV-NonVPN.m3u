@@ -190,7 +190,7 @@ https://stream-cdn.mncnow.id/live/eds/BaliTV/sa_dash_vmx/BaliTV.mpd
 http://122.248.43.138:1935/ch10/myStream/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/Logo_bdg_tv_2016.png" group-title="LOKAL",Bandung TV
-http://202.150.153.254/bandungtv720p.m3u8
+http://202.150.153.254:65500/bandungtvWEBSITE.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/u1nCcBb.png" group-title="LOKAL",Banjar TV
 https://v2.siar.us/banjartv/livestream/playlist.m3u8
