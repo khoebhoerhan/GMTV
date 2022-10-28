@@ -23,7 +23,7 @@ https://video.detik.com/transtv/smil:transtv.smil/chunklist_w962267898_b744100_s
 https://video.detik.com/trans7/smil:trans7.smil/chunklist_w1791373024_b744100_sleng.m3u8
 
 #EXTINF:-1 tvg-id="SCTV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/1280px-SCTV_Logo.svg.png" group-title="NASIONAL",SCTV
-http://tvn.x10.mx/1/master-1.m3u8?dl=1
+http://tv.zonanime.my.id/vidio/sctv.m3u8
 
 #EXTINF:-1 tvg-id="Indosiar.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/1000px-Indosiar_2015.svg.png" group-title="NASIONAL",Indosiar
 http://tv.zonanime.my.id/vidio/indosiar.m3u8
@@ -849,22 +849,22 @@ https://stream-cdn.mncnow.id/live/eds/HitsMovies/sa_dash_vmx/HitsMovies.mpd
 https://stream-cdn.mncnow.id/live/eds/CinemaWorld/sa_dash_vmx/CinemaWorld.mpd
 
 #EXTINF:-1 tvg-id="StarMoviesIndia.in" tvg-logo="https://i.imgur.com/AJbFTSr.png" group-title="INDIAN MOVIES",Star Movies
-http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
+http://185.93.1.84/a1f2d5a233fbde5b57d6e845dcae36e7f9b490be6870669f457bc698c80cf80f08074ba574a9832b06c14d4c0dde12e0fc09072a5d83de30f667233eecbbccc191e6b9888dc885cb72a7fd8de729a1859a3f726e790edd0ddc1acaae6ff59cf9670197/index.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/4DyH9pK.png" group-title="INDIAN MOVIES",Star Movies Select
 https://tsneh.vercel.app/y7jokhuji
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OVH9Ehe.png" group-title="INDIAN MOVIES",Movies Now
-http://qualityoverquantity.site:8880/play/live.php?mac=00:1A:79:35:B2:F6&stream=862687&extension=ts
+http://175.107.244.52:4455/play/a025/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Df0Nteg.png" group-title="INDIAN MOVIES",Romedy Now
-http://221.120.204.4/ROMEDY-NOW-LOCKLE/index.m3u8
+http://175.107.244.52:4455/play/a026/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ce/Mn%2Blogo.jpeg" group-title="INDIAN MOVIES",MN+
-http://103.179.246.243:8000/play/a00u
+http://175.107.244.52:4455/play/a01r/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PIvZZqq.png" group-title="INDIAN MOVIES",MNX
-http://qualityoverquantity.site:8880/play/live.php?mac=00:1A:79:8f:0e:3c&stream=862683&extension=ts
+http://175.107.244.52:4455/play/a023/index.m3u8
 
 #EXTINF:-1 tvg-id="SonyPix.in" tvg-logo="https://i.imgur.com/CJ2KTIp.png" group-title="INDIAN MOVIES",Sony Pix
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -976,13 +976,13 @@ http://221.120.204.4/zee-cinema-LOCKLE/index.m3u8
 http://208.86.19.13:81/735.stream/index.m3u8
 
 #EXTINF:-1 tvgv-id="StarGold.in" tvg-logo="https://i.imgur.com/bBwYVXE.png" group-title="HINDI MOVIES",Star Gold
-http://208.86.19.13:81/717.stream/index.m3u8
+http://212.102.38.8:8080/57e7744848e617b38a7b304007c8a142b0494118c3bfafd1bf16c2d9244031a92cf8127c4d/index.m3u8?token=78f25f79b2c49b22b8b967ae171426e6c0b2919e-71b39b14eb871543b45417d18ce1e3bc-1666980559-1666958959&remote=172.104.238.29
 
 #EXTINF:-1 tvg-id="StarGold2.in" tvg-logo="https://i.imgur.com/LkxRzQI.png" group-title="HINDI MOVIES",Star Gold 2
-http://144.217.70.181:9587/hin2/STARGOLD2/tracks-v1a1/mono.m3u8
+http://212.102.38.8:8080/57e7744848e617b38a7b304007c8a142b0494118c3bfafd1bf16c2d9244031a92cf81206/index.m3u8?token=7b8c238c4deab89683f02bfc589afebf750dda25-58ff1bda695edfcea7ce3919f26e2e1b-1666980459-1666958859&remote=172.104.238.29
 
 #EXTINF:-1 tvg-id="StarGoldSelect.in" tvg-logo="https://i.imgur.com/p27U7Pq.png" group-title="HINDI MOVIES",Star Gold Select
-http://208.86.19.13:81/709.stream/index.m3u8
+http://212.102.38.8:8080/57e7744848e617b38a7b304007c8a142b0494118c3bfafd1bf16c2d9244031a92cf812674c2dcf9bc8b10a8e/index.m3u8?token=02391875d2c819ea5f8fd8303871eb2debbcbc72-750ba6282f6c272a9938d4893e49ece3-1666980588-1666958988&remote=172.104.238.29
 
 #EXTINF:-1 tvg-id="UTVAction.in" tvg-logo="https://i.imgur.com/iyK0G1Q.png" group-title="INDIAN MOVIES",UTV Action
 http://144.217.70.181:9587/hin2/UTVACTION/index.m3u8
@@ -1993,7 +1993,7 @@ https://stream-cdn.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mp
 #EXTINF:0 tvg-id="MNCSports3.id" tvg-logo="https://i.imgur.com/1BxSDLy.png" group-title="NATIONAL SPORTS",MNC Sports 3
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MjhkOWZkZjYtOGViOC0zNTkzLWFhOWEtNGFhMzJkMDk3NGE2
-https://stream-cdn.mncnow.id/live/eds/Soccer-2/sa_dash_vmx/Soccer-2.mpd
+https://stream-cdn.mncnow.id/live/eds/MNCSports3-HD/sa_dash_vmx/MNCSports3-HD.mpd
 
 #EXTINF:0 tvg-id="SoccerChannel.id" tvg-logo="https://i.imgur.com/AcB6gDy.png" group-title="NATIONAL SPORTS",Soccer Channel
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -2717,22 +2717,22 @@ https://tv.googledrivelinks.com:443/autoq.php?c=Sports18_1_HD
 https://tv.googledrivelinks.com:443/autoq.php?c=Sports18_Khel
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/l7gSBMN.png" group-title="INDIAN SPORTS",Star Sports 1
-http://103.179.246.243:8000/play/a00c
+http://212.102.38.8:8080/57e7744848e617b38a7b304007c8a142b0565f02d5a2bbd7b211c5c747403ea2/index.m3u8?token=a331c4f703f48ec632074925d612409ab02df314-f3a8dcc34f12fe098b0d254897336742-1666979293-1666957693&remote=172.104.238.29
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CRSIXeO.png" group-title="INDIAN SPORTS",Star Sports 1 Hindi
-http://103.179.246.243:8000/play/a026
+http://212.102.38.8:8080/57e7744848e617b38a7b304007c8a142b0767f22d5a29bf79231e5c747403e8f0ed8246b4f29ce87/index.m3u8?token=d3fcea9342aeab09a47751b86b56abfd79364be1-4ade0916bba688c5ec3854dd97e6ed22-1666980149-1666958549&remote=172.104.238.29
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Bdjk5RJ.png" group-title="INDIAN SPORTS",Star Sports 2
-http://103.179.246.243:8000/play/a00d
+http://212.102.38.8:8080/57e7744848e617b38a7b304007c8a142b0494103dabeb9ccb31ac5cc374d29b530f31f605a3eb887d4aa/index.m3u8?token=c0b86526e39c8463ee2c94c7bcd40f04496ce94c-f90e198b4a1e6d34db078ec0a4a7c1a1-1666980085-1666958485&remote=172.104.238.29
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QoBYskI.png" group-title="INDIAN SPORTS",Star Sports 3
-http://103.179.246.243:8000/play/a00l
+http://212.102.38.8:8080/57e7744848e617b38a7b304007c8a142b0494103dabeb9ccb31ac5cc374d29b530f31f605a3eb9f2/index.m3u8?token=207ac466752a27347b3a74109ef1a3990de3a95b-eda9028aa306b1ff7d2cd2ed3be8ab25-1666980262-1666958662&remote=172.104.238.29
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OtV45QZ.png" group-title="INDIAN SPORTS",Star Sports Select HD1
-http://103.179.246.243:8000/play/a018
+http://212.102.38.8:8080/57e7744848e617b38a7b304007c8a142b0494103dabeb9ccb31ac5cc374d29b530f31f605a3ed99dd0ab019eedb3b9c6d1/index.m3u8?token=6c75bc587b6d1d290070312ae91ce38ed63355c3-a2c29e970d05c891371b4f25a9589053-1666980358-1666958758&remote=172.104.238.29
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1uc09Pq.png" group-title="INDIAN SPORTS",Star Sports Select HD2
-http://103.179.246.243:8000/play/a019
+http://212.102.38.8:8080/57e7744848e617b38a7b304007c8a142b0494103dabeb9ccb31ac5cc374d29b530f31f605a3ed99dd0ab019eedb0b9c6d1/index.m3u8?token=7383914da96ae32f4f815b88191c793e0d9607ef-6cc5ee919a3d90e8947bcd5498a782d5-1666980407-1666958807&remote=172.104.238.29
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e9/A_Spor_logosu.png" group-title="TURKISH SPORTS",A Spor
 https://trkvz-live.daioncdn.net/aspor/aspor_1080p.m3u8
@@ -2979,7 +2979,7 @@ https://webudi.openhd.lol/lb/premium82/index.m3u8?|referer=https://widevine.lice
 https://webudi.openhd.lol/lb/premium83/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/89RCPvg.png" group-title="BRASILIAN SPORTS",ESPN 4 Brasil
-http://limetv.me:80/live/4719wil/452540/95436.m3u8
+https://webudi.openhd.lol/lb/premium85/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sIUdUaB.png" group-title="BRASILIAN SPORTS",ESPN Extra Brasil
 http://limetv.me:80/live/4719wil/452540/89966.m3u8
