@@ -1038,32 +1038,6 @@ http://194.76.186.98:2021/play/a00l
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JrGNbqH.png" group-title="PORTUGUESE MOVIES",TVCine Top
 http://194.76.186.98:2021/play/a00j
 
-#EXTINF:-1 tvg-id="Film4UK.uk" tvg-logo="https://i.imgur.com/AD8r7dt.png" group-title="BRITISH MOVIES",Film 4 UK
-http://93.152.174.144:4000/play/film4/index.m3u8
-
-#EXTINF:-1 tvg-id="GreatMoviesAction.uk" tvg-logo="https://i.imgur.com/JDI0eaC.png" group-title="BRITISH MOVIES",Great! Movies Action
-http://45.153.35.210:8000/play/UK_great_action_sd/index.m3u8
-
-#EXTINF:-1 tvg-id="GreatMoviesClassic.uk" tvg-logo="https://i.imgur.com/MPnwLGE.png" group-title="BRITISH MOVIES",Great! Movies Classic
-http://45.153.35.210:8000/play/UK_great_classic_sd/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dIoU3FG.png" group-title="AMERICAN SERIES",A&E
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#EXTVLCOPT:http-referrer=https://eplayer.click/
-https://best2.globalweb.ru.com/cdn/premium302/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/icFwjZ3.jpg" group-title="AMERICAN SERIES",AMC East
-http://1tv1.net:8080/live/01007888688/28464975/148495.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8dgknme.png" group-title="AMERICAN SERIES",FX East
-http://89.187.175.143:80/3006/mpegts
-
-#EXTINF:-1 tvg-id="ShowtimeEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/1920px-Showtime.svg.png" group-title="AMERICAN SERIES",Showtime East
-http://1tv1.net:8080/live/01007888688/28464975/148472.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/LHXa485.png" group-title="AMERICAN SERIES",Syfy East
-http://89.187.175.143:80/3105/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EZQZ2Dl.png" group-title="PORTUGUESE SERIES",AXN Portugal
 http://45.92.69.72:8000/play/a0go
 
@@ -2181,13 +2155,13 @@ http://1tv1.net:8080/live/01007888688/28464975/165064.m3u8
 http://1tv1.net:8080/live/01007888688/28464975/165065.m3u8
 
 #EXTINF:-1 tvg-id="beINSports1HDFrance.fr" tvg-logo="https://i.imgur.com/MRULdc8.png" group-title="FRENCH SPORTS",beIN Sports 1 HD France
-http://1tv1.net:8080/live/01007888688/28464975/635.m3u8
+https://webudi.openhd.lol/lb/premium116/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 
 #EXTINF:-1 tvg-id="beINSports2HDFrance.fr" tvg-logo="https://i.imgur.com/NDp6TlM.png" group-title="FRENCH SPORTS",beIN Sports 2 HD France
-http://1tv1.net:8080/live/01007888688/28464975/636.m3u8
+https://webudi.openhd.lol/lb/premium117/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 
 #EXTINF:-1 tvg-id="beINSports3France.fr" tvg-logo="https://i.imgur.com/j8VC6nB.png" group-title="FRENCH SPORTS",beIN Sports 3 France
-http://1tv1.net:8080/live/01007888688/28464975/637.m3u8
+https://webudi.openhd.lol/lb/premium118/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 
 #EXTINF:-1 tvg-id="beINSportsEnglish1.qa" tvg-logo="https://i.imgur.com/o8zT78o.png" group-title="ARABIC SPORTS",beIN Sports English 1
 https://webudi.openhd.lol/lb/premium61/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
@@ -2208,13 +2182,13 @@ http://1tv1.net:8080/live/01007888688/28464975/112465.m3u8
 http://1tv1.net:8080/live/01007888688/28464975/112466.m3u8
 
 #EXTINF:-1 tvg-id="beINSportsPremium1.qa" tvg-logo="https://i.imgur.com/CwlNjXQ.png" group-title="ARABIC SPORTS",beIN Sports Premium 1
-http://1tv1.net:8080/live/01007888688/28464975/15562.m3u8
+https://webudi.openhd.lol/lb/premium98/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 
 #EXTINF:-1 tvg-id="beINSportsPremium2.qa" tvg-logo="https://i.imgur.com/Ns7isEP.png" group-title="ARABIC SPORTS",beIN Sports Premium 2
-http://1tv1.net:8080/live/01007888688/28464975/15562.m3u8
+https://webudi.openhd.lol/lb/premium99/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 
 #EXTINF:-1 tvg-id="beINSportsPremium3.qa" tvg-logo="https://i.imgur.com/T7UlxCI.png" group-title="ARABIC SPORTS",beIN Sports Premium 3
-http://1tv1.net:8080/live/01007888688/28464975/15561.m3u8
+https://webudi.openhd.lol/lb/premium100/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 
 #EXTINF:-1 tvg-id="beINSports1Turkey.tr" tvg-logo="https://i.imgur.com/MRULdc8.png" group-title="TURKISH SPORTS",beIN Sports 1 Türkiye
 https://webudi.openhd.lol/lb/premium62/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
@@ -2223,10 +2197,10 @@ https://webudi.openhd.lol/lb/premium62/index.m3u8?|referer=https://widevine.lice
 https://webudi.openhd.lol/lb/premium63/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 
 #EXTINF:-1 tvg-id="beINSports3Turkey.tr" tvg-logo="https://i.imgur.com/j8VC6nB.png" group-title="TURKISH SPORTS",beIN Sports 3 Türkiye
-http://1tv1.net:8080/live/01007888688/28464975/93385.m3u8
+https://webudi.openhd.lol/lb/premium64/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 
 #EXTINF:-1 tvg-id="beINSports4Turkey.tr" tvg-logo="https://i.imgur.com/Lu26Yho.png" group-title="TURKISH SPORTS",beIN Sports 4 Türkiye
-http://1tv1.net:8080/live/01007888688/28464975/93383.m3u8
+https://webudi.openhd.lol/lb/premium67/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 
 #EXTINF:-1 tvg-id="beINSportsHaber.tr" tvg-logo="https://i.imgur.com/fBWCN2V.png" group-title="TURKISH SPORTS",beIN Sports Haber
 https://59c7ea6bec1c6.streamlock.net/filbox/beinsporthaber.stream/playlist.m3u8
@@ -2291,31 +2265,31 @@ https://webudi.openhd.lol/lb/premium32/index.m3u8?|referer=https://widevine.lice
 https://webudi.openhd.lol/lb/premium33/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 
 #EXTINF:-1 tvg-id="BTSport4.uk" tvg-logo="https://i.imgur.com/gyTJhVr.png" group-title="BRITISH SPORTS",BT Sport 4
-http://1tv1.net:8080/live/01007888688/28464975/9258.m3u8
+https://webudi.openhd.lol/lb/premium34/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 
 #EXTINF:-1 tvg-id="Eurosport1UK.uk" tvg-logo="https://i.imgur.com/gwV31E0.png" group-title="BRITISH SPORTS",Eurosport 1 UK
-http://1tv1.net:8080/live/01007888688/28464975/16127.m3u8
+https://webudi.openhd.lol/lb/premium41/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 
 #EXTINF:-1 tvg-id="Eurosport2UK.uk" tvg-logo="https://i.imgur.com/lTnKDju.png" group-title="BRITISH SPORTS",Eurosport 2 UK
-https://raw.githubusercontent.com/tvbolaonline98/sopporot/main/Eurouk2.m3u8
+https://webudi.openhd.lol/lb/premium42/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 
 #EXTINF:-1 tvg-id="FreeSports.uk" tvg-logo="https://i.imgur.com/LwYHFLx.png" group-title="BRITISH SPORTS",Free Sports
 https://webudi.openhd.lol/lb/premium597/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 
 #EXTINF:-1 tvg-id="PremierSports1.ie" tvg-logo="https://i.imgur.com/tPxIkmd.png" group-title="BRITISH SPORTS",Premier Sports 1
-http://1tv1.net:8080/live/01007888688/28464975/16098.m3u8
+https://webudi.openhd.lol/lb/premium451/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 
 #EXTINF:-1 tvg-id="PremierSports2.ie" tvg-logo="https://i.imgur.com/PhUx6yK.png" group-title="BRITISH SPORTS",Premier Sports 2
-http://1tv1.net:8080/live/01007888688/28464975/9320.m3u8
+https://webudi.openhd.lol/lb/premium550/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 
 #EXTINF:-1 tvg-id="RacingTV.uk" tvg-logo="https://i.imgur.com/d81P4qV.jpg" group-title="BRITISH SPORTS",Racing TV
-http://1tv1.net:8080/live/01007888688/28464975/9385.m3u8
+https://webudi.openhd.lol/lb/premium555/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 
 #EXTINF:-1 tvg-id="SkySportsNFL.uk" tvg-logo="https://i.imgur.com/jM1FeOX.png" group-title="BRITISH SPORTS",Sky Sports Action
-http://1tv1.net:8080/live/01007888688/28464975/55389.m3u8
+https://webudi.openhd.lol/lb/premium37/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 
 #EXTINF:-1 tvg-id="SkySportsArena.uk" tvg-logo="https://i.imgur.com/eZwExGu.png" group-title="BRITISH SPORTS",Sky Sports Arena
-http://1tv1.net:8080/live/01007888688/28464975/55388.m3u8
+https://webudi.openhd.lol/lb/premium36/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 
 #EXTINF:-1 tvg-id="SkySportsCricket.uk" tvg-logo="https://i.imgur.com/J8zzS2v.png" group-title="BRITISH SPORTS",Sky Sports Cricket
 https://webudi.openhd.lol/lb/premium65/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
@@ -2324,10 +2298,10 @@ https://webudi.openhd.lol/lb/premium65/index.m3u8?|referer=https://widevine.lice
 https://webudi.openhd.lol/lb/premium60/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 
 #EXTINF:-1 tvg-id="SkySportsFootball.uk" tvg-logo="https://i.imgur.com/EcFwNdj.png" group-title="BRITISH SPORTS",Sky Sports Football
-http://1tv1.net:8080/live/01007888688/28464975/55390.m3u8
+https://webudi.openhd.lol/lb/premium35/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 
 #EXTINF:-1 tvg-id="SkySportsGolf.uk" tvg-logo="https://i.imgur.com/Q2ztKWZ.png" group-title="BRITISH SPORTS",Sky Sports Golf
-http://1tv1.net:8080/live/01007888688/28464975/55386.m3u8
+https://webudi.openhd.lol/lb/premium70/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 
 #EXTINF:-1 tvg-id="SkySportsMainEvent.uk" tvg-logo="https://i.imgur.com/KHiae2e.png" group-title="BRITISH SPORTS",Sky Sports Main Event
 https://webudi.openhd.lol/lb/premium38/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
@@ -2336,37 +2310,37 @@ https://webudi.openhd.lol/lb/premium38/index.m3u8?|referer=https://widevine.lice
 https://webudi.openhd.lol/lb/premium449/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 
 #EXTINF:-1 tvg-id="SkySportsNews.uk" tvg-logo="https://i.imgur.com/jcFnVbi.png" group-title="BRITISH SPORTS",Sky Sports News UK
-http://1tv1.net:8080/live/01007888688/28464975/11667.m3u8
+https://webudi.openhd.lol/lb/premium366/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 
 #EXTINF:-1 tvg-id="SkySportsPremierLeague.uk" tvg-logo="https://i.imgur.com/wA3DieO.png" group-title="BRITISH SPORTS",Sky Sports Premier League
-http://1tv1.net:8080/live/01007888688/28464975/55384.m3u8
+https://webudi.openhd.lol/lb/premium130/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 
 #EXTINF:-1 tvg-id="SkySportsRacing.uk" tvg-logo="https://i.imgur.com/vhYstlz.png" group-title="BRITISH SPORTS",Sky Sports Racing
-http://iptvtree.net:8080/ace2524d/15a571c413/163132
+https://webudi.openhd.lol/lb/premium554/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1g9mYwr.png" group-title="AMERICAN SPORTS",CBS Sports Network
-http://iptvworld.nl:2095/live/nlinenodric/4sR2SwYYeg/8245.m3u8
+https://webudi.openhd.lol/lb/premium308/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 
 #EXTINF:-1 tvg-id="ESPN.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1920px-ESPN_wordmark.svg.png" group-title="AMERICAN SPORTS",ESPN US
-http://1tv1.net:8080/live/01007888688/28464975/148465.m3u8
+https://webudi.openhd.lol/lb/premium44/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 
 #EXTINF:-1 tvg-id="ESPN2.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/1280px-ESPN2_logo.svg.png" group-title="AMERICAN SPORTS",ESPN 2 US
-http://1tv1.net:8080/live/01007888688/28464975/148466.m3u8
+https://webudi.openhd.lol/lb/premium45/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/ESPNews.svg/1920px-ESPNews.svg.png" group-title="AMERICAN SPORTS",ESPNews
-http://1tv1.net:8080/live/01007888688/28464975/148467.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YhuEewa.png" group-title="AMERICAN SPORTS",ESPN Deportes
+https://webudi.openhd.lol/lb/premium375/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qimdreM.png" group-title="AMERICAN SPORTS",FS1
-http://1tv1.net:8080/live/01007888688/28464975/148446.m3u8
+https://webudi.openhd.lol/lb/premium39/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jxLMBZt.png" group-title="AMERICAN SPORTS",FS2
-http://1tv1.net:8080/live/01007888688/28464975/148447.m3u8
+http://4.26.188.2:8081/udp/239.193.10.102:23902
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/MLBNetworkLogo.svg/800px-MLBNetworkLogo.svg.png" group-title="AMERICAN SPORTS",MLB Network
-http://iptvworld.nl:2095/live/nlinenodric/4sR2SwYYeg/15009.m3u8
+https://webudi.openhd.lol/lb/premium399/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gZXSAhf.png" group-title="AMERICAN SPORTS",NFL Network
-http://iptvworld.nl:2095/live/nlinenodric/4sR2SwYYeg/26457.m3u8
+https://webudi.openhd.lol/lb/premium405/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 
 #EXTINF:-1 tvg-id="NBATV.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/800px-NBA_TV.svg.png" group-title="AMERICAN SPORTS",NBA TV
 https://bit.ly/nbatvusa?/index.m3u8
@@ -2377,6 +2351,9 @@ https://dai.google.com/linear/hls/event/Dlqr46ybTSGWGTfRWcxS0g/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lcpZ5CC.png" group-title="AMERICAN SPORTS",WWE Network
 http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/9663
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/1920px-TUDN_Logo.svg.png" group-title="AMERICAN SPORTS",TUDN USA
+https://webudi.openhd.lol/lb/premium66/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1920px-ESPN_wordmark.svg.png" group-title="AUSTRALIAN SPORTS",ESPN Australia
 http://1tv1.net:8080/live/01007888688/28464975/163784.m3u8
 
@@ -2384,7 +2361,7 @@ http://1tv1.net:8080/live/01007888688/28464975/163784.m3u8
 http://1tv1.net:8080/live/01007888688/28464975/163786.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/b7TO49Q.png" group-title="AUSTRALIAN SPORTS",Fox Sports 501
-http://1tv1.net:8080/live/01007888688/28464975/163788.m3u8
+https://webudi.openhd.lol/lb/premium369/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BLWrz42.png" group-title="AUSTRALIAN SPORTS",Fox Sports 502
 http://1tv1.net:8080/live/01007888688/28464975/163789.m3u8
@@ -2420,89 +2397,58 @@ https://skylivetab-i.akamaihd.net/hls/live/569779/tablive/sky2.m3u8
 https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/stcsd.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bpS1hON.png" group-title="CANADIAN SPORTS",Sportsnet 360
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#EXTVLCOPT:http-referrer=https://eplayer.click/
-https://best2.globalweb.ru.com/cdn/premium409/mono.m3u8
+https://webudi.openhd.lol/lb/premium409/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/W8d65IY.png" group-title="CANADIAN SPORTS",Sportsnet One
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#EXTVLCOPT:http-referrer=https://eplayer.click/
-https://best2.globalweb.ru.com/cdn/premium411/mono.m3u8
+https://webudi.openhd.lol/lb/premium411/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gSK6eN9.png" group-title="CANADIAN SPORTS",Sportsnet World
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#EXTVLCOPT:http-referrer=https://eplayer.click/
-https://best2.globalweb.ru.com/cdn/premium410/mono.m3u8
+https://webudi.openhd.lol/lb/premium410/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/v48ueao.png" group-title="CANADIAN SPORTS",TSN1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#EXTVLCOPT:http-referrer=https://eplayer.click/
-https://best2.globalweb.ru.com/cdn/premium111/mono.m3u8
+https://webudi.openhd.lol/lb/premium111/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HvPyPov.png" group-title="CANADIAN SPORTS",TSN2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#EXTVLCOPT:http-referrer=https://eplayer.click/
-https://best2.globalweb.ru.com/cdn/premium112/mono.m3u8
+https://webudi.openhd.lol/lb/premium112/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NwjWSff.png" group-title="CANADIAN SPORTS",TSN3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#EXTVLCOPT:http-referrer=https://eplayer.click/
-https://best2.globalweb.ru.com/cdn/premium113/mono.m3u8
+https://webudi.openhd.lol/lb/premium113/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5aQ01F1.png" group-title="CANADIAN SPORTS",TSN4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#EXTVLCOPT:http-referrer=https://eplayer.click/
-https://best2.globalweb.ru.com/cdn/premium114/mono.m3u8
+https://webudi.openhd.lol/lb/premium114/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uoy75nW.png" group-title="CANADIAN SPORTS",TSN5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#EXTVLCOPT:http-referrer=https://eplayer.click/
-https://best2.globalweb.ru.com/cdn/premium115/mono.m3u8
+https://webudi.openhd.lol/lb/premium115/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 
 #EXTINF:-1 tvg-id="CanalPlusSport2Poland.pl" tvg-logo="https://i.imgur.com/p0k54D9.png" group-title="POLISH SPORTS",Canal + Sport Polska
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#EXTVLCOPT:http-referrer=https://eplayer.click/
-https://best2.globalweb.ru.com/cdn/premium48/mono.m3u8
+https://webudi.openhd.lol/lb/premium48/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 
 #EXTINF:-1 tvg-id="CanalPlusSportPoland.pl" tvg-logo="https://i.imgur.com/Xz33IHR.png" group-title="POLISH SPORTS",Canal + Sport 2 Polska
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#EXTVLCOPT:http-referrer=https://eplayer.click/
-https://best2.globalweb.ru.com/cdn/premium73/mono.m3u8
+https://webudi.openhd.lol/lb/premium73/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 
 #EXTINF:-1 tvg-id="ElevenSports1Poland.pl" tvg-logo="https://i.imgur.com/cSVAkg0.png" group-title="POLISH SPORTS",Eleven Sports 1 Polska
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#EXTVLCOPT:http-referrer=https://eplayer.click/
-https://best2.globalweb.ru.com/cdn/premium71/mono.m3u8
+https://webudi.openhd.lol/lb/premium71/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 
 #EXTINF:-1 tvg-id="ElevenSports2Poland.pl" tvg-logo="https://i.imgur.com/TlNAO45.png" group-title="POLISH SPORTS",Eleven Sports 2 Polska
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#EXTVLCOPT:http-referrer=https://eplayer.click/
-https://best2.globalweb.ru.com/cdn/premium72/mono.m3u8
+https://webudi.openhd.lol/lb/premium72/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 
 #EXTINF:-1 tvg-id="Eurosport1Poland.fr" tvg-logo="https://i.imgur.com/gwV31E0.png" group-title="POLISH SPORTS",Eurosport 1 Polska
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#EXTVLCOPT:http-referrer=https://eplayer.click/
-https://best2.globalweb.ru.com/cdn/premium57/mono.m3u8
+https://webudi.openhd.lol/lb/premium57/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 
 #EXTINF:-1 tvg-id="Eurosport2Poland.fr" tvg-logo="https://i.imgur.com/lTnKDju.png" group-title="POLISH SPORTS",Eurosport 2 Polska
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#EXTVLCOPT:http-referrer=https://eplayer.click/
-https://best2.globalweb.ru.com/cdn/premium58/mono.m3u8
+https://webudi.openhd.lol/lb/premium58/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 
 #EXTINF:-1 tvg-id="PolsatSport.pl" tvg-logo="https://i.imgur.com/pM6Q5n1.png" group-title="POLISH SPORTS",Polsat Sport
-http://95.211.250.58:8080/POLSAT_SPORT/mpegts
+https://webudi.openhd.lol/lb/premium47/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 
 #EXTINF:-1 tvg-id="PolsatSportExtra.pl" tvg-logo="https://i.imgur.com/mnohjlI.png" group-title="POLISH SPORTS",Polsat Sport Extra
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#EXTVLCOPT:http-referrer=https://eplayer.click/
-https://best2.globalweb.ru.com/cdn/premium50/mono.m3u8
+https://webudi.openhd.lol/lb/premium50/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 
 #EXTINF:-1 tvg-id="PolsatSportFight.pl" tvg-logo="https://i.imgur.com/eEQxLTd.png" group-title="POLISH SPORTS",Polsat Sport Fight
 http://live-eu.cvacetv.ga:8080/stream/channelid/360275478?profile=ace
 
 #EXTINF:-1 tvg-id="PolsatSportNews.pl" tvg-logo="https://i.imgur.com/QJIzCGa.png" group-title="POLISH SPORTS",Polsat Sport News
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://103.49.40.100:33009/POLSATSPORTNEWSHD
+https://webudi.openhd.lol/lb/premium129/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IgONH1a.png" group-title="POLISH SPORTS",Polsat Sport Premium 1
 http://live-vn.cvacetv.ga:8080/PolsatPre1
@@ -2511,10 +2457,10 @@ http://live-vn.cvacetv.ga:8080/PolsatPre1
 http://live-vn.cvacetv.ga:8080/PolsatPre2
 
 #EXTINF:-1 tvg-id="TVPSport.pl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Logo_TVP_Sport.jpg" group-title="POLISH SPORTS",TVP Sport
-http://95.211.250.58/TVP_SPORT/mpegts
+https://webudi.openhd.lol/lb/premium128/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 
 #EXTINF:-1 tvg-id="CanalPlusSportFrance.fr" tvg-logo="https://i.imgur.com/p0k54D9.png" group-title="FRENCH SPORTS",Canal + Sport France
-http://1tv1.net:8080/live/01007888688/28464975/629.m3u8
+https://webudi.openhd.lol/lb/premium122/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vU6Y5Of.png" group-title="FRENCH SPORTS",Golf+
 http://iptvtree.net:8080/ace2524d/15a571c413/1934
@@ -2532,44 +2478,28 @@ http://51.178.65.238:80/RMC1/index.m3u8
 http://51.178.65.238:80/RMC2/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kaUN9Uw.png" group-title="ROMANIAN SPORTS",Digi Sport 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#EXTVLCOPT:http-referrer=https://eplayer.click/
-https://best2.globalweb.ru.com/cdn/premium400/mono.m3u8
+https://webudi.openhd.lol/lb/premium400/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xxLvKJD.png" group-title="ROMANIAN SPORTS",Digi Sport 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#EXTVLCOPT:http-referrer=https://eplayer.click/
-https://best2.globalweb.ru.com/cdn/premium401/mono.m3u8
+https://webudi.openhd.lol/lb/premium401/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WiynV2K.png" group-title="ROMANIAN SPORTS",Digi Sport 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#EXTVLCOPT:http-referrer=https://eplayer.click/
-https://best2.globalweb.ru.com/cdn/premium402/mono.m3u8
+https://webudi.openhd.lol/lb/premium402/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kBsQd2d.png" group-title="ROMANIAN SPORTS",Digi Sport 4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#EXTVLCOPT:http-referrer=https://eplayer.click/
-https://best2.globalweb.ru.com/cdn/premium403/mono.m3u8
+https://webudi.openhd.lol/lb/premium403/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4mc9xs0.png" group-title="ROMANIAN SPORTS",Orange Sport 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#EXTVLCOPT:http-referrer=https://eplayer.click/
-https://best2.globalweb.ru.com/cdn/premium439/mono.m3u8
+https://webudi.openhd.lol/lb/premium439/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2DY6BwT.png" group-title="ROMANIAN SPORTS",Orange Sport 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#EXTVLCOPT:http-referrer=https://eplayer.click/
-https://best2.globalweb.ru.com/cdn/premium440/mono.m3u8
+https://webudi.openhd.lol/lb/premium440/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gSQTD0Q.png" group-title="ROMANIAN SPORTS",Orange Sport 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#EXTVLCOPT:http-referrer=https://eplayer.click/
-https://best2.globalweb.ru.com/cdn/premium441/mono.m3u8
+https://webudi.openhd.lol/lb/premium441/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/M6o25QC.png" group-title="ROMANIAN SPORTS",Orange Sport 4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#EXTVLCOPT:http-referrer=https://eplayer.click/
-https://best2.globalweb.ru.com/cdn/premium442/mono.m3u8
+https://webudi.openhd.lol/lb/premium442/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CSBS4Ff.png" group-title="GERMAN SPORTS",DAZN 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
@@ -2578,13 +2508,13 @@ https://best2.globalweb.ru.com/cdn/premium442/mono.m3u8
 https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-017/stream.mpd
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/m5c18XU.png" group-title="GERMAN SPORTS",DAZN 2
-http://1tv1.net:8080/live/01007888688/28464975/44531.m3u8
+https://webudi.openhd.lol/lb/premium427/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gP7OfkX.png" group-title="GERMAN SPORTS",Sky Sport Bundesliga 1
-http://1tv1.net:8080/live/01007888688/28464975/44550.m3u8
+https://webudi.openhd.lol/lb/premium8/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Sky_Sport_F1_-_Logo_2020.svg/1920px-Sky_Sport_F1_-_Logo_2020.svg.png" group-title="GERMAN SPORTS",Sky Sport F1
-http://platin4k.eu:80/kralkerim/8TKLyJivVEA/115534
+https://webudi.openhd.lol/lb/premium55/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xSPDmkP.png" group-title="GERMAN SPORTS",Sky Sport Mix
 http://platin4k.eu:80/kralkerim/8TKLyJivVEA/161775
@@ -2593,7 +2523,7 @@ http://platin4k.eu:80/kralkerim/8TKLyJivVEA/161775
 http://platin4k.eu:80/kralkerim/8TKLyJivVEA/161665
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/olajgeM.png" group-title="GERMAN SPORTS",Sky Sport Top Event
-http://1tv1.net:8080/live/01007888688/28464975/44552.m3u8
+https://webudi.openhd.lol/lb/premium556/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Sky_Sport_Tennis.svg/1920px-Sky_Sport_Tennis.svg.png" group-title="GERMAN SPORTS",Sky Sport Tennis
 http://1tv1.net:8080/live/01007888688/28464975/44551.m3u8
@@ -2602,7 +2532,7 @@ http://1tv1.net:8080/live/01007888688/28464975/44551.m3u8
 http://live-eu.cvacetv.ga:8080/stream/channelid/1927543192?profile=ace
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xSPDmkP.png" group-title="GERMAN SPORTS",Sky Sport Mix
-http://live-eu.cvacetv.ga:8080/stream/channelid/1335422074?profile=ace
+https://webudi.openhd.lol/lb/premium557/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/de/thumb/c/cc/Sky_Sport_News_2020.svg/1920px-Sky_Sport_News_2020.svg.png" group-title="GERMAN SPORTS",Sky Sport News
 http://1tv1.net:8080/live/01007888688/28464975/44553.m3u8
@@ -2611,12 +2541,10 @@ http://1tv1.net:8080/live/01007888688/28464975/44553.m3u8
 http://live-eu.cvacetv.ga:8080/stream/channelid/857180288?profile=ace
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Sport-Digital.svg/1920px-Sport-Digital.svg.png" group-title="GERMAN SPORTS",sportdigital
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#EXTVLCOPT:http-referrer=https://eplayer.click/
-https://best2.globalweb.ru.com/cdn/premium571/mono.m3u8
+https://webudi.openhd.lol/lb/premium571/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fubqEnF.png" group-title="SPANISH SPORTS",#Vamos
-http://2022spn.net:8080/pacomiguel/G3KB6YR17R/4922
+https://webudi.openhd.lol/lb/premium521/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CSBS4Ff.png" group-title="SPANISH SPORTS",DAZN 1 España
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
@@ -2630,6 +2558,12 @@ https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-037/stream.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=cfb5e2b73bef4f3c878f25ab86a7451f&key=0d6712bf2a84edcc93d001a9613f6fec
 https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-038/stream.mpd
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YiFmUxC.png" group-title="SPANISH SPORTS",DAZN 3 España
+https://webudi.openhd.lol/lb/premium447/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aiZCV4i.png" group-title="SPANISH SPORTS",DAZN 4 España
+https://webudi.openhd.lol/lb/premium448/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rqSPxoU.png" group-title="SPANISH SPORTS",DAZN F1
 https://4p6t.short.gy/DAZNF1
 
@@ -2640,10 +2574,10 @@ https://bit.ly/3xs0DZK
 https://4p6t.short.gy/EUROSPORT1
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lTnKDju.png" group-title="SPANISH SPORTS",Eurosport 2
-http://2022spn.net:8080/pacomiguel/G3KB6YR17R/4943
+https://webudi.openhd.lol/lb/premium525/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/U10gOuT.png" group-title="SPANISH SPORTS",Gol
-http://2022spn.net:8080/pacomiguel/G3KB6YR17R/4925
+https://webudi.openhd.lol/lb/premium530/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xsYGFyy.png" group-title="SPANISH SPORTS",Movistar Deportes
 https://4p6t.short.gy/DAZN1
@@ -2658,7 +2592,7 @@ https://4p6t.short.gy/LALIGA
 https://4p6t.short.gy/CHAMPIONS
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Teledeporte.svg/1280px-Teledeporte.svg.png" group-title="SPANISH SPORTS",Teledeporte
-http://2022spn.net:8080/pacomiguel/G3KB6YR17R/4945
+https://webudi.openhd.lol/lb/premium529/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qfVunzp.png" group-title="PORTUGUESE SPORTS",Canal 11
 http://45.92.69.72:8000/play/a0ge
@@ -2804,56 +2738,37 @@ http://103.179.246.243:8000/play/a019
 https://trkvz-live.daioncdn.net/aspor/aspor_1080p.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1920px-ESPN_wordmark.svg.png" group-title="DUTCH SPORTS",ESPN Nederland
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#EXTVLCOPT:http-referrer=https://eplayer.click/
-https://best2.globalweb.ru.com/cdn/premium379/mono.m3u8
+https://webudi.openhd.lol/lb/premium379/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/1280px-ESPN2_logo.svg.png" group-title="DUTCH SPORTS",ESPN 2 Nederland
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#EXTVLCOPT:http-referrer=https://eplayer.click/
-https://best2.globalweb.ru.com/cdn/premium386/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TFGh92p.png" group-title="DUTCH SPORTS",Ziggo Sport Golf
-https://m3u-editor.com/serve/16e82970-0e3d-11ed-a245-39c2f9659ecb/605037651
+https://webudi.openhd.lol/lb/premium386/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SrorhG7.png" group-title="DUTCH SPORTS",Ziggo Sport Racing
-http://1tv1.net:8080/live/01007888688/28464975/57441.m3u8
+https://webudi.openhd.lol/lb/premium396/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8DlO0BF.png" group-title="DUTCH SPORTS",Ziggo Sport Select
-http://1tv1.net:8080/live/01007888688/28464975/57440.m3u8
+https://webudi.openhd.lol/lb/premium393/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aufKGRo.png" group-title="DUTCH SPORTS",Ziggo Sport Voetbal
-http://1tv1.net:8080/live/01007888688/28464975/57439.m3u8
+https://webudi.openhd.lol/lb/premium398/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8A0aYWf.png" group-title="SERBIAN SPORTS",Arena Premium 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#EXTVLCOPT:http-referrer=https://eplayer.click/
-https://best2.globalweb.ru.com/cdn/premium134/mono.m3u8
+https://webudi.openhd.lol/lb/premium134/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/S4EVsjl.png" group-title="SERBIAN SPORTS",Arena Premium 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#EXTVLCOPT:http-referrer=https://eplayer.click/
-https://best2.globalweb.ru.com/cdn/premium135/mono.m3u8
+https://webudi.openhd.lol/lb/premium135/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uzrDNI5.png" group-title="SERBIAN SPORTS",Arena Premium 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#EXTVLCOPT:http-referrer=https://eplayer.click/
-https://best2.globalweb.ru.com/cdn/premium139/mono.m3u8
+https://webudi.openhd.lol/lb/premium139/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/50ZGo5V.png" group-title="SERBIAN SPORTS",Arena Sport 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#EXTVLCOPT:http-referrer=https://eplayer.click/
-https://best2.globalweb.ru.com/cdn/premium429/mono.m3u8
+https://webudi.openhd.lol/lb/premium429/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/V72XapO.png" group-title="SERBIAN SPORTS",Arena Sport 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#EXTVLCOPT:http-referrer=https://eplayer.click/
-https://best2.globalweb.ru.com/cdn/premium430/mono.m3u8
+https://webudi.openhd.lol/lb/premium430/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Yw1kdh5.png" group-title="SERBIAN SPORTS",Arena Sport 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#EXTVLCOPT:http-referrer=https://eplayer.click/
-https://best2.globalweb.ru.com/cdn/premium431/mono.m3u8
+https://webudi.openhd.lol/lb/premium431/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/a3Rma7Z.png" group-title="SERBIAN SPORTS",Arena Sport 4
 http://5.206.237.66:9000/play/a073
@@ -2862,44 +2777,28 @@ http://5.206.237.66:9000/play/a073
 http://5.206.237.66:9000/play/a074
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zKcn8DZ.png" group-title="SERBIAN SPORTS",Sport Klub
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#EXTVLCOPT:http-referrer=https://eplayer.click/
-https://best2.globalweb.ru.com/cdn/premium453/mono.m3u8
+https://webudi.openhd.lol/lb/premium453/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HjhiW62.png" group-title="SERBIAN SPORTS",Sport Klub 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#EXTVLCOPT:http-referrer=https://eplayer.click/
-https://best2.globalweb.ru.com/cdn/premium101/mono.m3u8
+https://webudi.openhd.lol/lb/premium101/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bqtc41i.png" group-title="SERBIAN SPORTS",Sport Klub 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#EXTVLCOPT:http-referrer=https://eplayer.click/
-https://best2.globalweb.ru.com/cdn/premium102/mono.m3u8
+https://webudi.openhd.lol/lb/premium102/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7CvFh8W.png" group-title="SERBIAN SPORTS",Sport Klub 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#EXTVLCOPT:http-referrer=https://eplayer.click/
-https://best2.globalweb.ru.com/cdn/premium103/mono.m3u8
+https://webudi.openhd.lol/lb/premium103/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5PBRYFZ.png" group-title="SERBIAN SPORTS",Sport Klub 4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#EXTVLCOPT:http-referrer=https://eplayer.click/
-https://best2.globalweb.ru.com/cdn/premium104/mono.m3u8
+https://webudi.openhd.lol/lb/premium104/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/50ZGo5V.png" group-title="CROATIAN SPORTS",Arena Sport 1 Hrvatska
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#EXTVLCOPT:http-referrer=https://eplayer.click/
-https://best2.globalweb.ru.com/cdn/premium432/mono.m3u8
+https://webudi.openhd.lol/lb/premium432/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/V72XapO.png" group-title="CROATIAN SPORTS",Arena Sport 2 Hrvatska
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#EXTVLCOPT:http-referrer=https://eplayer.click/
-https://best2.globalweb.ru.com/cdn/premium433/mono.m3u8
+https://webudi.openhd.lol/lb/premium433/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Yw1kdh5.png" group-title="CROATIAN SPORTS",Arena Sport 3 Hrvatska
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#EXTVLCOPT:http-referrer=https://eplayer.click/
-https://best2.globalweb.ru.com/cdn/premium434/mono.m3u8
+https://webudi.openhd.lol/lb/premium434/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/a3Rma7Z.png" group-title="CROATIAN SPORTS",Arena Sport 4 Hrvatska
 http://20062016.com:80/turki/turki/114317
@@ -3008,14 +2907,10 @@ https://d3junmnzdfp8ej.cloudfront.net/hls/tv_720p30.m3u8
 http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/45775
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1920px-ESPN_wordmark.svg.png" group-title="LATINO SPORTS",ESPN Latin America
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#EXTVLCOPT:http-referrer=https://eplayer.click/
-https://best2.globalweb.ru.com/cdn/premium149/mono.m3u8
+https://webudi.openhd.lol/lb/premium149/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/1280px-ESPN2_logo.svg.png" group-title="LATINO SPORTS",ESPN 2 Latin America
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#EXTVLCOPT:http-referrer=https://eplayer.click/
-https://best2.globalweb.ru.com/cdn/premium150/mono.m3u8
+https://webudi.openhd.lol/lb/premium150/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Crvxgth.png" group-title="LATINO SPORTS",ESPN 3 Latin America
 https://stationtv.cdn.rcs.net.ar/anevia/live/localdisk/ESPN3/SA_HLS/ESPN3.m3u8
@@ -3075,13 +2970,13 @@ http://limetv.me:80/live/4719wil/452540/89829.m3u8
 http://limetv.me:80/live/4719wil/452540/89878.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1920px-ESPN_wordmark.svg.png" group-title="BRASILIAN SPORTS",ESPN Brasil
-http://limetv.me:80/live/4719wil/452540/89963.m3u8
+https://webudi.openhd.lol/lb/premium81/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/1280px-ESPN2_logo.svg.png" group-title="BRASILIAN SPORTS",ESPN 2 Brasil
-http://limetv.me:80/live/4719wil/452540/89971.m3u8
+https://webudi.openhd.lol/lb/premium82/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Crvxgth.png" group-title="BRASILIAN SPORTS",ESPN 3 Brasil
-http://limetv.me:80/live/4719wil/452540/89975.m3u8
+https://webudi.openhd.lol/lb/premium83/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/89RCPvg.png" group-title="BRASILIAN SPORTS",ESPN 4 Brasil
 http://limetv.me:80/live/4719wil/452540/95436.m3u8
@@ -3093,7 +2988,7 @@ http://limetv.me:80/live/4719wil/452540/89966.m3u8
 http://170.82.200.38:8080/fox_sports_2/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/a2/Logo_Premiere_FC_2018.png" group-title="BRASILIAN SPORTS",Premiere Clubes
-http://limetv.me:80/live/4719wil/452540/90237.m3u8
+https://webudi.openhd.lol/lb/premium88/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iweh0Li.png" group-title="BRASILIAN SPORTS",SporTV
 https://webudi.openhd.lol/lb/premium78/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
@@ -3102,7 +2997,7 @@ https://webudi.openhd.lol/lb/premium78/index.m3u8?|referer=https://widevine.lice
 https://webudi.openhd.lol/lb/premium79/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RcpUcYG.png" group-title="BRASILIAN SPORTS",SporTV 3
-http://limetv.me:80/live/4719wil/452540/90325.m3u8
+https://webudi.openhd.lol/lb/premium80/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1920px-ESPN_wordmark.svg.png" group-title="AFRICAN SPORTS",ESPN Africa
 http://20062016.com:80/turki/turki/107166
@@ -3111,55 +3006,55 @@ http://20062016.com:80/turki/turki/107166
 http://20062016.com:80/turki/turki/107167
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XO9yr6R.png" group-title="AFRICAN SPORTS",Supersport Action Africa
-http://iptvtree.net:8080/ace2524d/15a571c413/194354
+https://webudi.openhd.lol/lb/premium420/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OOSoHfD.png" group-title="AFRICAN SPORTS",Supersport Blitz Africa
 http://iptvtree.net:8080/ace2524d/15a571c413/281536
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nCzOSks.png" group-title="AFRICAN SPORTS",Supersport Cricket Africa
-http://iptvtree.net:8080/ace2524d/15a571c413/11637
+https://webudi.openhd.lol/lb/premium368/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Vt3RvFA.png" group-title="AFRICAN SPORTS",Supersport Football Africa
-http://iptvtree.net:8080/ace2524d/15a571c413/38575
+https://webudi.openhd.lol/lb/premium56/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YcxFkX8.png" group-title="AFRICAN SPORTS",Supersport Golf Africa
-http://iptvtree.net:8080/ace2524d/15a571c413/11641
+https://webudi.openhd.lol/lb/premium422/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3bXUFkP.png" group-title="AFRICAN SPORTS",Supersport Grandstand Africa
-http://iptvtree.net:8080/ace2524d/15a571c413/194353
+https://webudi.openhd.lol/lb/premium412/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qavBxmu.png" group-title="AFRICAN SPORTS",Supersport LaLiga Africa
-http://iptvtree.net:8080/ace2524d/15a571c413/194358
+https://webudi.openhd.lol/lb/premium415/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Vgt96sG.png" group-title="AFRICAN SPORTS",Supersport Máximo 1 Africa
-http://iptvtree.net:8080/ace2524d/15a571c413/38572
+https://webudi.openhd.lol/lb/premium572/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/37EjPV3.png" group-title="AFRICAN SPORTS",Supersport Motorsport Africa
-http://iptvtree.net:8080/ace2524d/15a571c413/11638
+https://webudi.openhd.lol/lb/premium424/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jIjBIhH.png" group-title="AFRICAN SPORTS",Supersport Premier League Africa
-http://iptvtree.net:8080/ace2524d/15a571c413/11642
+https://webudi.openhd.lol/lb/premium414/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cXB0iFd.png" group-title="AFRICAN SPORTS",Supersport PSL
-http://iptvtree.net:8080/ace2524d/15a571c413/11643
+https://webudi.openhd.lol/lb/premium413/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sglWngc.png" group-title="AFRICAN SPORTS",Supersport Rugby Africa
-http://iptvtree.net:8080/ace2524d/15a571c413/11639
+https://webudi.openhd.lol/lb/premium421/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uBflRxR.png" group-title="AFRICAN SPORTS",Supersport Tennis Africa
-http://iptvtree.net:8080/ace2524d/15a571c413/15200
+https://webudi.openhd.lol/lb/premium423/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LD6Yrnx.png" group-title="AFRICAN SPORTS",Supersport Variety 1 Africa
-http://iptvtree.net:8080/ace2524d/15a571c413/11633
+https://webudi.openhd.lol/lb/premium416/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/samKsMn.png" group-title="AFRICAN SPORTS",Supersport Variety 2 Africa
-http://iptvtree.net:8080/ace2524d/15a571c413/11634
+https://webudi.openhd.lol/lb/premium417/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/neD5gBe.png" group-title="AFRICAN SPORTS",Supersport Variety 3 Africa
-http://iptvtree.net:8080/ace2524d/15a571c413/11635
+https://webudi.openhd.lol/lb/premium418/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Xn5UCd8.png" group-title="AFRICAN SPORTS",Supersport Variety 4 Africa
-http://iptvtree.net:8080/ace2524d/15a571c413/11636
+https://webudi.openhd.lol/lb/premium419/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lzmhX3a.png" group-title="AFRICAN SPORTS",WWE Channel
 http://20062016.com:80/turki/turki/107169
