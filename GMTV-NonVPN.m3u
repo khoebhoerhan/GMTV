@@ -4067,24 +4067,16 @@ https://raw.githubusercontent.com/fotvnetwork/iptv-free/master/M3U8/Locals/tv5.m
 https://vUUhy5R74t.akamaized.net/out/u/3045.mpd
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Polsat_2021_gradient.svg/1200px-Polsat_2021_gradient.svg.png" group-title="POLAND",Polsat
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#EXTVLCOPT:http-referrer=https://eplayer.click/
-https://best2.globalweb.ru.com/cdn/premium562/mono.m3u8
+https://webudi.openhd.lol/lb/premium562/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/TVN_logo.svg/1200px-TVN_logo.svg.png" group-title="POLAND",TVN
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#EXTVLCOPT:http-referrer=https://eplayer.click/
-https://best2.globalweb.ru.com/cdn/premium565/mono.m3u8
+https://webudi.openhd.lol/lb/premium565/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TVP1_2021_box-1.svg/1920px-TVP1_2021_box-1.svg.png" group-title="POLAND",TVP 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#EXTVLCOPT:http-referrer=https://eplayer.click/
-https://best2.globalweb.ru.com/cdn/premium560/mono.m3u8
+https://webudi.openhd.lol/lb/premium560/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/TVP2_2021_box-1.svg/1920px-TVP2_2021_box-1.svg.png" group-title="POLAND",TVP 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#EXTVLCOPT:http-referrer=https://eplayer.click/
-https://best2.globalweb.ru.com/cdn/premium561/mono.m3u8
+https://webudi.openhd.lol/lb/premium561/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/RTP1_-_Logo_2016.svg/1920px-RTP1_-_Logo_2016.svg.png" group-title="PORTUGAL",RTP 1
 #KODIPROP:inputstream=inputstream.adaptive
@@ -4148,22 +4140,22 @@ http://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/chunklist_b1703000.m3u8
 https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
 
 #EXTINF:-1 tvg-id="Antena3.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Antena_3_%282017%29.svg/1024px-Antena_3_%282017%29.svg.png" group-title="SPAIN",Antena 3
-http://2022spn.net:8080/pacomiguel/G3KB6YR17R/4791
+https://webudi.openhd.lol/lb/premium531/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 
 #EXTINF:-1 tvg-id="Cuatro.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Cuatro.svg/1920px-Cuatro.svg.png" group-title="SPAIN",Cuatro
-http://2022spn.net:8080/pacomiguel/G3KB6YR17R/4794
+https://webudi.openhd.lol/lb/premium535/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 
 #EXTINF:-1 tvg-id="La1.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Logo_TVE-1.svg/1024px-Logo_TVE-1.svg.png" group-title="SPAIN",La 1
-https://rtvelivestream.akamaized.net/segments/la1/la1_main_dvr_720.m3u8
+https://webudi.openhd.lol/lb/premium533/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 
 #EXTINF:-1 tvg-id="La2.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Logo_TVE-2.svg/1024px-Logo_TVE-2.svg.png" group-title="SPAIN",La 2
-http://2022spn.net:8080/pacomiguel/G3KB6YR17R/4788
+https://webudi.openhd.lol/lb/premium536/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 
 #EXTINF:-1 tvg-id="LaSexta.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/La_Sexta_%28A3M%29.svg/188px-La_Sexta_%28A3M%29.svg.png" group-title="SPAIN",La Sexta
-http://2022spn.net:8080/pacomiguel/G3KB6YR17R/4800
+https://webudi.openhd.lol/lb/premium534/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 
 #EXTINF:-1 tvg-id="Telecinco.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Telecinco_2012_Large.svg/800px-Telecinco_2012_Large.svg.png" group-title="SPAIN",Telecinco
-http://2022spn.net:8080/pacomiguel/G3KB6YR17R/4797
+https://webudi.openhd.lol/lb/premium532/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/8/8a/CTS_Logo.png" group-title="TAIWAN",CTS 華視
 rtmp://59.124.75.157/sat/tv111
