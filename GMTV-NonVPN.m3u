@@ -1471,7 +1471,7 @@ https://liveru.cgtn.com/1000r/prog_index.m3u8
 https://live-cdn.mncnow.id/live/eds/FoxNews/sa_dash_vmx/FoxNews.mpd
 
 #EXTINF:-1 tvg-id="MSNBC.us" tvg-logo="https://i.imgur.com/cMM9MAg.png" group-title="AMERICAN NEWS",MSNBC
-http://1tv1.net:8080/live/01007888688/28464975/148456.m3u8
+https://webudi.openhd.lol/lb/premium327/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IVvxmTv.png" group-title="AMERICAN NEWS",CBS News
 http://cbsnewshd-lh.akamaihd.net:80/i/CBSNHD_7@199302/master.m3u8
@@ -1909,7 +1909,7 @@ https://cdn3.skygo.mn/live/disk1/BloombergMon/HLS-FTA/BloombergMon.m3u8
 https://live-cdn.mncnow.id/live/eds/CNBC/sa_dash_vmx/CNBC.mpd
 
 #EXTINF:-1 tvg-id="CNBC.us" tvg-logo="https://i.imgur.com/KxxvR2X.png" group-title="BUSINESS NEWS",CNBC US
-http://1tv1.net:8080/live/01007888688/28464975/148457.m3u8
+https://webudi.openhd.lol/lb/premium309/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 
 #EXTINF:-1 tvg-id="CNBCArabiya.ae" tvg-logo="https://i.imgur.com/4XhULAV.png" group-title="BUSINESS NEWS",CNBC Arabiya
 https://cnbcarabia.hibridcdn.net/cnbc/cnbc_abr/cnbc/cnbc_480p/chunks.m3u8?
@@ -2350,7 +2350,7 @@ https://bit.ly/nbatvusa?/index.m3u8
 https://dai.google.com/linear/hls/event/Dlqr46ybTSGWGTfRWcxS0g/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lcpZ5CC.png" group-title="AMERICAN SPORTS",WWE Network
-http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/9663
+https://webudi.openhd.lol/lb/premium376/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/1920px-TUDN_Logo.svg.png" group-title="AMERICAN SPORTS",TUDN USA
 https://webudi.openhd.lol/lb/premium66/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
@@ -2667,7 +2667,7 @@ http://58.99.33.16:1935/liveedge17/live_122_3.stream/chunklist.m3u8
 http://51.79.82.208:16058
 
 #EXTINF:-1 tvg-id="AstroArena2.my" tvg-logo="https://i.imgur.com/meHW06l.png" group-title="MALAY SPORTS",Astro Arena 2
-http://iptvtree.net:8080/ace2524d/15a571c413/287793
+http://iptvtree.net:8080/F11682/82ca5fbd/287793
 
 #EXTINF:-1 tvg-id="AstroCricket.my" tvg-logo="https://i.imgur.com/DhbmBsD.png" group-title="MALAY SPORTS",Astro Cricket
 https://webudi.openhd.lol/lb/premium370/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
@@ -2716,7 +2716,7 @@ https://cdn-01.toffeelive.com/origin-09/live-origin/smil:sony_ten2_hd.smil/manif
 https://cdn-01.toffeelive.com/origin-09/live-origin/smil:sony_ten3_hd.smil/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KG2TBZh.png" group-title="INDIAN SPORTS",Sony Ten 4
-http://iptv12k.com:35461/live/80301070602/456776/8565.m3u8
+https://tv.googledrivelinks.com/live.php?c=Ten_4_HD_Tamil&q=1200&e=.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3cX6mla.png" group-title="INDIAN SPORTS",Sony Ten 5
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -2724,10 +2724,10 @@ http://iptv12k.com:35461/live/80301070602/456776/8565.m3u8
 https://cdn-01.toffeelive.com/origin-08/live-origin/smil:sony_six_hd.smil/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WPEouAc.png" group-title="INDIAN SPORTS",Sports 18 1
-https://tv.googledrivelinks.com:443/autoq.php?c=Sports18_1_HD
+https://tv.googledrivelinks.com/live.php?c=Sports18_1_HD&q=1200&e=.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nNsGKa2.png" group-title="INDIAN SPORTS",Sports 18 Khel
-https://tv.googledrivelinks.com:443/autoq.php?c=Sports18_Khel
+https://tv.googledrivelinks.com/live.php?c=Sports18_Khel&q=1200&e=.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/l7gSBMN.png" group-title="INDIAN SPORTS",Star Sports 1
 http://212.102.38.8:8080/57e7744848e617b38a7b304007c8a142b0565f02d5a2bbd7b211c5c747403ea2/index.m3u8?token=a331c4f703f48ec632074925d612409ab02df314-f3a8dcc34f12fe098b0d254897336742-1666979293-1666957693&remote=172.104.238.29
@@ -2749,6 +2749,14 @@ http://212.102.38.8:8080/57e7744848e617b38a7b304007c8a142b0494103dabeb9ccb31ac5c
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e9/A_Spor_logosu.png" group-title="TURKISH SPORTS",A Spor
 https://trkvz-live.daioncdn.net/aspor/aspor_1080p.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0Nu5hMy.png" group-title="TURKISH SPORTS",TRT Spor
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://mn-nl.mncdn.com/blutv_trtspor_2/trtspor.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Sfu3Y7S.png" group-title="TURKISH SPORTS",TRT Spor Yıldız
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://mn-nl.mncdn.com/blutv_trtsporyildiz_2/trtsporyildiz.smil/playlist.m3u8 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1920px-ESPN_wordmark.svg.png" group-title="DUTCH SPORTS",ESPN Nederland
 https://webudi.openhd.lol/lb/premium379/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
@@ -2859,9 +2867,7 @@ https://sc.id-tv.kz/Eurosport_2HD_34_35.m3u8
 https://sc.id-tv.kz/ExtremeSportsHD_34_35.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nnUATx1.png" group-title="RUSSIAN SPORTS",Матч!
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#EXTVLCOPT:http-referrer=https://eplayer.click/
-https://best2.globalweb.ru.com/cdn/premium127/mono.m3u8
+https://webudi.openhd.lol/lb/premium127/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7DVDRLz.png" group-title="RUSSIAN SPORTS",Матч! Арена
 http://mfe.cliptv.az/dash/Match_Arena_HD.ism/playlist.mpd
@@ -2876,9 +2882,7 @@ http://95.183.43.237:8080/259/index.m3u8
 http://95.183.43.237:8080/260/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8qmWLBO.png" group-title="RUSSIAN SPORTS",Матч! Боец
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#EXTVLCOPT:http-referrer=https://eplayer.click/
-https://best2.globalweb.ru.com/cdn/premium395/mono.m3u8
+https://webudi.openhd.lol/lb/premium395/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ru/1/13/%D0%9C%D0%B0%D1%82%D1%87%21_%D0%98%D0%B3%D1%80%D0%B0.png" group-title="RUSSIAN SPORTS",Матч! Игра
 http://46.174.83.66/Match_Igra/index.m3u8
@@ -2917,7 +2921,7 @@ https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/playlist.m3u8
 https://d3junmnzdfp8ej.cloudfront.net/hls/tv_720p30.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xgLeXwi.png" group-title="LATINO SPORTS",ESPN Premium
-http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/45775
+https://webudi.openhd.lol/lb/premium387/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1920px-ESPN_wordmark.svg.png" group-title="LATINO SPORTS",ESPN Latin America
 https://webudi.openhd.lol/lb/premium149/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
@@ -2926,25 +2930,37 @@ https://webudi.openhd.lol/lb/premium149/index.m3u8?|referer=https://widevine.lic
 https://webudi.openhd.lol/lb/premium150/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Crvxgth.png" group-title="LATINO SPORTS",ESPN 3 Latin America
-https://stationtv.cdn.rcs.net.ar/anevia/live/localdisk/ESPN3/SA_HLS/ESPN3.m3u8
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=f4c9f97e2a36feab0e5077f2b44cbc4e&key=1743cd03dfe3736b2c95da91a783af38
+https://cdn.cvattv.com.ar/live/c3eds/ESPN3/SA_Live_dash_enc_2A/ESPN3.mpd
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/89RCPvg.png" group-title="LATINO SPORTS",ESPN 4 Latin America
 http://45.71.185.142:8500/play/a021
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sIUdUaB.png" group-title="LATINO SPORTS",ESPN Extra Latin America
-https://stationtv.cdn.rcs.net.ar/mnp/espn_extra_hls/playlist.m3u8
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=cc8d44406ed6bf1898ad9f7a2d64f29e&key=fb85d059687ab0fc67805806204edbdf
+https://cdn.cvattv.com.ar/live/c3eds/ESPNHD/SA_Live_dash_enc_2A/ESPNHD.mpd
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MnfNlPQ.png" group-title="LATINO SPORTS",Fox Sports Latin America
-http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/45770
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=8ad99f6512d50476639052a8fe8a4676&key=5ff3bee4cff05d3400d7ea60fcc93235
+https://cdn.cvattv.com.ar/live/c3eds/FoxSports/SA_Live_dash_enc_2A/FoxSports.mpd
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cN7XH5X.png" group-title="LATINO SPORTS",Fox Sports 2 Latin America
-http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/45771
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=c98ddffc470fe449ae1a8d6492116976&key=5086d370e840010232cf4532b16e197f
+https://cdn.cvattv.com.ar/live/c3eds/FoxSports2HD/SA_Live_dash_enc_2A/FoxSports2HD.mpd
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Fk1kss9.png" group-title="LATINO SPORTS",Fox Sports 3 Latin America
-http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/45774
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=55b47390cf9e4997dae6dac85e057875&key=fa39e855543c5d70f30600d59e5e4c1b
+https://cdn.cvattv.com.ar/live/c3eds/FoxSports3HD/SA_Live_dash_enc_2A/FoxSports3HD.mpd
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0FJ92Bp.png" group-title="LATINO SPORTS",Golf Channel Latin America
-https://stationtv.cdn.rcs.net.ar/mnp/golf_hls/playlist.m3u8
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=38d6226b7cd2cfa86b4b9cdaa455e7d7&key=24f0ef2bf787647cc02df870417eed2b
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+https://chromecast.cvattv.com.ar/live/c6eds/Golf_Channel/SA_Live_dash_enc_2A/Golf_Channel.mpd
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IyqLOSV.png" group-title="LATINO SPORTS",TNT Sports 
 https://5g9s179kfgx9wn8tqwj9-cul47i-edc.p5cdn.com/dlive/transcode-92-211/nqefwinooiewpeof/1646158252/src/live.m3u8
