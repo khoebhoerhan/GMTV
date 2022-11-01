@@ -751,12 +751,10 @@ https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8
 http://190.2.155.162:8080/mtvfrance/mpegts
 
 #EXTINF:-1 tvg-id="VH1USEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/VH1_logonew.svg/1920px-VH1_logonew.svg.png" group-title="AMERICAN MUSIC",VH1 East
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#EXTVLCOPT:http-referrer=https://eplayer.click/
-https://best2.globalweb.ru.com/cdn/premium344/tracks-v1a1/mono.m3u8
+https://webudi.openhd.lol/lb/premium344/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 
 #EXTINF:-1 tvg-id="MTVEast.us" tvg-logo="https://i.imgur.com/X7VxlBN.png" group-title="AMERICAN MUSIC",MTV East
-http://1tv1.net:8080/live/01007888688/28464975/148483.m3u8
+https://webudi.openhd.lol/lb/premium371/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/X7VxlBN.png" group-title="ASIAN MUSIC",MTV Vietnam
 https://livecdn.fptplay.net/sdb/mtv_hls.smil/chunklist.m3u8
@@ -1191,11 +1189,6 @@ https://live-cdn.mncnow.id/live/eds/History/sa_dash_vmx/History.mpd
 #EXTINF:-1 tvg-id="History2Asia.us" tvg-logo="https://i.imgur.com/Ew6AZiG.png" group-title="KNOWLEDGE",History 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 https://iptv-thai.herokuapp.com/tv.php?channel=115713
-
-#EXTINF:-1 tvg-id="InvestigationDiscoveryEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/1920px-InvestigationDiscoveryLogo2020.svg.png" group-title="KNOWLEDGE",Investigation Discovery East
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#EXTVLCOPT:http-referrer=https://eplayer.click/
-https://best2.globalweb.ru.com/cdn/premium324/mono.m3u8
 
 #EXTINF:0 tvg-id="NationalGeographicIndonesia.id" tvg-logo="https://i.imgur.com/O13uMvJ.png" group-title="KNOWLEDGE",National Geographic
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -3515,6 +3508,9 @@ https://v-ny.mybtv.net/live/554/1280x720.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KJR6lt0.png" group-title="USA",CBS East
 https://v-ny.mybtv.net/live/545/1280x720.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/E%21_Logo_2012.svg/320px-E%21_Logo_2012.svg.png" group-title="USA",E! East
+https://webudi.openhd.lol/lb/premium315/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Q6AoC5h.png" group-title="USA",Fox East
 https://v-ny.mybtv.net/live/550/1280x720.m3u8
 
@@ -3523,6 +3519,11 @@ https://v-ny.mybtv.net/live/548/1280x720.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/33/PBS_logo.svg/1920px-PBS_logo.svg.png" group-title="USA",PBS East
 https://v-ny.mybtv.net/live/575/1280x720.m3u8
+#EXTINF:-1 tvg-id="TBSEast.us" tvg-logo="https://i.imgur.com/upM99h1.png" group-title="USA",TBS East
+https://webudi.openhd.lol/lb/premium336/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+
+#EXTINF:-1 tvg-id="TNTEast.us" tvg-logo="https://i.imgur.com/umJbqNY.png" group-title="USA",TNT East
+https://webudi.openhd.lol/lb/premium338/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ydm3Ss2.png" group-title="USA",Telemundo Este
 https://v-ny.mybtv.net/live/659/1280x720.m3u8
@@ -3534,9 +3535,10 @@ https://v-ny.mybtv.net/live/562/1280x720.m3u8
 https://v-ny.mybtv.net/live/643/1280x720.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Logo_UniM%C3%A1s_2021.svg/1920px-Logo_UniM%C3%A1s_2021.svg.png" group-title="USA",Unimás
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#EXTVLCOPT:http-referrer=https://eplayer.click/
-https://best2.globalweb.ru.com/cdn/premium133/mono.m3u8
+https://webudi.openhd.lol/lb/premium133/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+
+#EXTINF:-1 tvg-id="USANetworkEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/1920px-USA_Network_logo_%282016%29.svg.png" group-title="USA",USA Network East
+https://webudi.openhd.lol/lb/premium343/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 
 #EXTINF:-1 tvg-id="BBCAlba.uk" tvg-logo="https://i.imgur.com/Nvme1rf.png" group-title="UK",BBC Alba
 http://1tv1.net:8080/live/01007888688/28464975/84733.m3u8
