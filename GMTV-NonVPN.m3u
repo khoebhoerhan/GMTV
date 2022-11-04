@@ -23,7 +23,7 @@ https://video.detik.com/transtv/smil:transtv.smil/chunklist_w962267898_b744100_s
 https://video.detik.com/trans7/smil:trans7.smil/chunklist_w1791373024_b744100_sleng.m3u8
 
 #EXTINF:-1 tvg-id="SCTV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/1280px-SCTV_Logo.svg.png" group-title="NASIONAL",SCTV
-http://tv.zonanime.my.id/vidio/sctv.m3u8
+https://k.ksa.my.id/ksa.m3u8?a=c38a7b272f9c6d07b2c3&b=769e18d2eae69a34056d&c=606f050f137c26cc67bb
 
 #EXTINF:-1 tvg-id="Indosiar.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/1000px-Indosiar_2015.svg.png" group-title="NASIONAL",Indosiar
 http://tv.zonanime.my.id/vidio/indosiar.m3u8
@@ -233,6 +233,9 @@ http://rrelshinta.dens.tv/s/s10/index2.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5zdZADe.png" group-title="LOKAL",Fajar TV
 http://122.248.43.138:1935/ch27/myStream/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EK1wUzB.png" group-title="LOKAL",Garvis TV
+http://stream-client.svara.id:80/live/garudatv.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pposm6w.png" group-title="LOKAL",Huma Betang TV
 https://v3.siar.us/humabetangtv/live/playlist.m3u8
@@ -922,7 +925,7 @@ https://live-cdn.mncnow.id/live/eds/CelestialMovie/sa_dash_vmx/CelestialMovie.mp
 https://live-cdn.mncnow.id/live/eds/CelestialClassic/sa_dash_vmx/CelestialClassic.mpd
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GA2ny64.png" group-title="CHINESE MOVIES",Star Chinese Movies
-http://61.219.170.95:18529/http/192.168.1.9:8081/hls/62/804/ch07.m3u8
+http://iptvid.my.id/hmm/starcm.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cSho1qa.png" group-title="VIETNAMESE MOVIES",K+ Cine
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
@@ -1890,6 +1893,9 @@ https://hls.media.nic.in/hls/live/rstv/rstv.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MjhkOWZkZjYtOGViOC0zNTkzLWFhOWEtNGFhMzJkMDk3NGE2
 https://live-cdn.mncnow.id/live/eds/Bloomberg/sa_dash_vmx/Bloomberg.mpd
 
+#EXTINF:0 tvg-id="BloombergTelevision.us" tvg-logo="https://i.imgur.com/u4zDsl3.png" group-title="BUSINESS NEWS",Bloomberg Television
+https://liveprodusphoenixeast.global.ssl.fastly.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-02-81ykIWnsMsg_live.m3u8
+
 #EXTINF:-1 tvg-id="BloombergHT.tr" tvg-logo="https://i.imgur.com/5M3233w.png" group-title="BUSINESS NEWS",Bloomberg HT
 https://tv.ensonhaber.com/tv/tr/bloomberght/index.m3u8
 
@@ -2542,6 +2548,9 @@ https://webudi.openhd.lol/lb/premium462/index.m3u8?|referer=https://widevine.lic
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Sky_Sport_Uno_-_Logo_2020.svg/1920px-Sky_Sport_Uno_-_Logo_2020.svg.png" group-title="ITALIAN SPORTS",Sky Sport Uno
 https://webudi.openhd.lol/lb/premium461/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Sky_Sport_Football_-_Logo_2020.svg/1920px-Sky_Sport_Football_-_Logo_2020.svg.png" group-title="ITALIAN SPORTS",Sky Sport Football
+https://webudi.openhd.lol/lb/premium460/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fubqEnF.png" group-title="SPANISH SPORTS",#Vamos
 https://webudi.openhd.lol/lb/premium521/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
