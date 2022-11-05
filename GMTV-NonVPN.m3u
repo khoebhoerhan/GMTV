@@ -268,6 +268,9 @@ https://stream.jogjatv.co.id/jtvlive/stream/index.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MjhkOWZkZjYtOGViOC0zNTkzLWFhOWEtNGFhMzJkMDk3NGE2
 https://live-cdn.mncnow.id/live/eds/JTV/sa_dash_vmx/JTV.mpd
 
+#EXTINF:0 tvg-logo="https://i.imgur.com/iH5HihO.png" group-title="LOKAL",Jurnal TV
+https://ams.desastreaming.com:5443/LiveApp/streams/jurnaltv.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LnMMbIE.png" group-title="LOKAL",Kaltara TV
 https://wms.klikhost.net/kaltaratv/kaltaratv/playlist.m3u8
 
