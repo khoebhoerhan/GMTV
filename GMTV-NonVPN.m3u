@@ -2474,7 +2474,7 @@ http://live-vn.cvacetv.ga:8080/PolsatPre2
 #EXTINF:-1 tvg-id="TVPSport.pl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Logo_TVP_Sport.jpg" group-title="POLISH SPORTS",TVP Sport
 https://webudi.openhd.lol/lb/premium128/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/IOgM8IM.png" group-title="FRENCH SPORTS",Canal+ Foot
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IOgM8IM.png" group-title="FRENCH SPORTS",Canal + Foot
 https://webudi.openhd.lol/lb/premium463/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 
 #EXTINF:-1 tvg-id="CanalPlusSportFrance.fr" tvg-logo="https://i.imgur.com/p0k54D9.png" group-title="FRENCH SPORTS",Canal + Sport France
@@ -3543,6 +3543,7 @@ https://v-ny.mybtv.net/live/548/1280x720.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/33/PBS_logo.svg/1920px-PBS_logo.svg.png" group-title="USA",PBS East
 https://v-ny.mybtv.net/live/575/1280x720.m3u8
+
 #EXTINF:-1 tvg-id="TBSEast.us" tvg-logo="https://i.imgur.com/upM99h1.png" group-title="USA",TBS East
 https://webudi.openhd.lol/lb/premium336/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 
@@ -3568,10 +3569,10 @@ https://webudi.openhd.lol/lb/premium343/index.m3u8?|referer=https://widevine.lic
 http://1tv1.net:8080/live/01007888688/28464975/84733.m3u8
 
 #EXTINF:-1 tvg-id="BBCOneHD.uk" tvg-logo="https://i.imgur.com/oGzLsiq.png" group-title="UK",BBC One HD
-http://1tv1.net:8080/live/01007888688/28464975/9310.m3u8
+https://webudi.openhd.lol/lb/premium356/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 
 #EXTINF:-1 tvg-id="BBCTwoHD.uk" tvg-logo="https://i.imgur.com/iMfng6J.png" group-title="UK",BBC Two HD
-http://1tv1.net:8080/live/01007888688/28464975/9309.m3u8
+https://webudi.openhd.lol/lb/premium357/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gcpSDKf.png" group-title="UK",BBC Three
 http://1tv1.net:8080/live/01007888688/28464975/9314.m3u8
@@ -3586,10 +3587,10 @@ http://iptv12k.com:35461/live/80301070602/456776/5434.m3u8
 http://ott.riotelecomm.es:4513/m3u8/CBBCHDFIBRA.m3u8
 
 #EXTINF:-1 tvg-id="Channel4.uk" tvg-logo="https://i.imgur.com/r0sl8tu.png" group-title="UK",Channel 4
-http://45.153.35.210:8000/play/UK_channel_4_sd/index.m3u8
+https://webudi.openhd.lol/lb/premium354/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 
 #EXTINF:-1 tvg-id="Channel5.uk" tvg-logo="https://i.imgur.com/itZR2eq.png" group-title="UK",Channel 5
-http://iptv12k.com:35461/live/80301070602/456776/5454.m3u8
+https://webudi.openhd.lol/lb/premium355/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 
 #EXTINF:-1 tvg-id="E4UK.uk" tvg-logo="https://i.imgur.com/yny6n9T.png" group-title="UK",E4 UK
 http://45.153.35.210:8000/play/UK_e4_sd/index.m3u8
@@ -3601,7 +3602,7 @@ http://45.153.35.210:8000/play/UK_great_tv_sd/index.m3u8
 http://45.153.35.210:8000/play/UK_more_4_sd/index.m3u8
 
 #EXTINF:-1 tvg-id="ITV.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/ITV_logo_2019.svg/1200px-ITV_logo_2019.svg.png" group-title="UK",ITV
-http://45.153.35.210:8000/play/UK_itv_sd/index.m3u8
+https://webudi.openhd.lol/lb/premium350/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 
 #EXTINF:-1 tvg-id="ITV2.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/35/ITV2_logo_2015.svg/1920px-ITV2_logo_2015.svg.png" group-title="UK",ITV 2
 http://ott.riotelecomm.es:4513/m3u8/ITV2FIBRA.m3u8
