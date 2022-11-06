@@ -2282,13 +2282,13 @@ https://webudi.openhd.lol/lb/premium41/index.m3u8?|referer=https://widevine.lice
 #EXTINF:-1 tvg-id="Eurosport2UK.uk" tvg-logo="https://i.imgur.com/lTnKDju.png" group-title="BRITISH SPORTS",Eurosport 2 UK
 https://webudi.openhd.lol/lb/premium42/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 
-#EXTINF:-1 tvg-id="FreeSports.uk" tvg-logo="https://i.imgur.com/LwYHFLx.png" group-title="BRITISH SPORTS",Free Sports
+#EXTINF:-1 tvg-id="FreeSports.uk" tvg-logo="https://i.imgur.com/odSWnEa.png" group-title="BRITISH SPORTS",Viaplay Xtra
 https://webudi.openhd.lol/lb/premium597/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 
-#EXTINF:-1 tvg-id="PremierSports1.ie" tvg-logo="https://i.imgur.com/tPxIkmd.png" group-title="BRITISH SPORTS",Premier Sports 1
+#EXTINF:-1 tvg-id="PremierSports1.ie" tvg-logo="https://i.imgur.com/LNDIaw0.png" group-title="BRITISH SPORTS",Viaplay Sports 1
 https://webudi.openhd.lol/lb/premium451/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 
-#EXTINF:-1 tvg-id="PremierSports2.ie" tvg-logo="https://i.imgur.com/PhUx6yK.png" group-title="BRITISH SPORTS",Premier Sports 2
+#EXTINF:-1 tvg-id="PremierSports2.ie" tvg-logo="https://i.imgur.com/98La4MO.png" group-title="BRITISH SPORTS",Viaplay Sports 2
 https://webudi.openhd.lol/lb/premium550/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 
 #EXTINF:-1 tvg-id="RacingTV.uk" tvg-logo="https://i.imgur.com/d81P4qV.jpg" group-title="BRITISH SPORTS",Racing TV
@@ -2474,11 +2474,14 @@ http://live-vn.cvacetv.ga:8080/PolsatPre2
 #EXTINF:-1 tvg-id="TVPSport.pl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Logo_TVP_Sport.jpg" group-title="POLISH SPORTS",TVP Sport
 https://webudi.openhd.lol/lb/premium128/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hyjk6Wx.png" group-title="FRENCH SPORTS",Foot+ 24/24
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IOgM8IM.png" group-title="FRENCH SPORTS",Canal+ Foot
 https://webudi.openhd.lol/lb/premium463/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 
 #EXTINF:-1 tvg-id="CanalPlusSportFrance.fr" tvg-logo="https://i.imgur.com/p0k54D9.png" group-title="FRENCH SPORTS",Canal + Sport France
 https://webudi.openhd.lol/lb/premium122/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZPVidfU.png" group-title="FRENCH SPORTS",Canal + Sport 360
+https://webudi.openhd.lol/lb/premium464/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vU6Y5Of.png" group-title="FRENCH SPORTS",Golf+
 http://iptvtree.net:8080/ace2524d/15a571c413/1934
