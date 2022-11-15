@@ -3601,16 +3601,16 @@ http://45.153.35.210:8000/play/UK_great_tv_sd/index.m3u8
 #EXTINF:-1 tvg-id="More4UK.uk" tvg-logo="https://i.imgur.com/IZ5MINa.png" group-title="UK",More 4 UK
 http://45.153.35.210:8000/play/UK_more_4_sd/index.m3u8
 
-#EXTINF:-1 tvg-id="ITV.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/ITV_logo_2019.svg/1200px-ITV_logo_2019.svg.png" group-title="UK",ITV
+#EXTINF:-1 tvg-id="ITV.uk" tvg-logo="https://i.imgur.com/zDy4GA4.png" group-title="UK",ITV
 https://webudi.openhd.lol/lb/premium350/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 
-#EXTINF:-1 tvg-id="ITV2.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/35/ITV2_logo_2015.svg/1920px-ITV2_logo_2015.svg.png" group-title="UK",ITV 2
+#EXTINF:-1 tvg-id="ITV2.uk" tvg-logo="https://i.imgur.com/nrPCxFs.png" group-title="UK",ITV 2
 http://ott.riotelecomm.es:4513/m3u8/ITV2FIBRA.m3u8
 
-#EXTINF:-1 tvg-id="ITV3.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f6/ITV3_logo_2013.svg/1920px-ITV3_logo_2013.svg.png" group-title="UK",ITV 3
+#EXTINF:-1 tvg-id="ITV3.uk" tvg-logo="https://i.imgur.com/emMuV0D.png" group-title="UK",ITV 3
 http://ott.riotelecomm.es:4513/m3u8/ITV3FIBRA.m3u8
 
-#EXTINF:-1 tvg-id="ITV4.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d3/ITV4_logo_2013.svg/1920px-ITV4_logo_2013.svg.png" group-title="UK",ITV 4
+#EXTINF:-1 tvg-id="ITV4.uk" tvg-logo="https://i.imgur.com/ZsUlo9M.png" group-title="UK",ITV 4
 http://ott.riotelecomm.es:4513/m3u8/ITV4FIBRA.m3u8
 
 #EXTINF:-1 tvg-id="S4C.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/S4C_logo_2014.svg/1024px-S4C_logo_2014.svg.png" group-title="UK",S4C
