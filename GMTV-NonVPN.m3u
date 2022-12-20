@@ -3014,19 +3014,19 @@ http://190.61.102.67:31589/play/a08j/index.m3u8
 http://limetv.me:80/live/4719wil/452540/89829.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ed/Canal-combate-logo.png" group-title="BRASILIAN SPORTS",Combate
-http://limetv.me:80/live/4719wil/452540/89878.m3u8
+http://haiskafaisca.b-cdn.net/live/combate/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1920px-ESPN_wordmark.svg.png" group-title="BRASILIAN SPORTS",ESPN Brasil
-https://webudi.openhd.lol/lb/premium81/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+http://haiskafaisca.b-cdn.net/live/espn/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/1280px-ESPN2_logo.svg.png" group-title="BRASILIAN SPORTS",ESPN 2 Brasil
-https://webudi.openhd.lol/lb/premium82/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+http://haiskafaisca.b-cdn.net/live/espn2/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Crvxgth.png" group-title="BRASILIAN SPORTS",ESPN 3 Brasil
-https://webudi.openhd.lol/lb/premium83/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+http://haiskafaisca.b-cdn.net/live/espn3/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/89RCPvg.png" group-title="BRASILIAN SPORTS",ESPN 4 Brasil
-https://webudi.openhd.lol/lb/premium85/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+http://haiskafaisca.b-cdn.net/live/espn4/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sIUdUaB.png" group-title="BRASILIAN SPORTS",ESPN Extra Brasil
 http://acsa.ws:80/553288646092/smiptv/71915.ts
@@ -3035,10 +3035,10 @@ http://acsa.ws:80/553288646092/smiptv/71915.ts
 http://170.82.200.38:8080/fox_sports_2/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/a2/Logo_Premiere_FC_2018.png" group-title="BRASILIAN SPORTS",Premiere Clubes
-https://webudi.openhd.lol/lb/premium88/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+http://haiskafaisca.b-cdn.net/live/premiereclubes/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iweh0Li.png" group-title="BRASILIAN SPORTS",SporTV
-https://webudi.openhd.lol/lb/premium78/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+http://haiskafaisca.b-cdn.net/live/sportv/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AAdoNsr.png" group-title="BRASILIAN SPORTS",SporTV 2
 https://webudi.openhd.lol/lb/premium79/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
