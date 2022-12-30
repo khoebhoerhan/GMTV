@@ -26,10 +26,10 @@ https://video.detik.com/trans7/smil:trans7.smil/chunklist_w1791373024_b744100_sl
 http://mpwtv.my.id/vidioye/204-sctv.m3u8
 
 #EXTINF:-1 tvg-id="Indosiar.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/1000px-Indosiar_2015.svg.png" group-title="NASIONAL",Indosiar
-http://tv.zonanime.my.id/vidio/indosiar.m3u8
+http://mpwtv.my.id/vidioye/205-indosiar.m3u8
 
 #EXTINF:-1 tvg-id="Moji.id" tvg-logo="https://i.imgur.com/D70rSkE.png" group-title="NASIONAL",Moji
-http://tv.zonanime.my.id/vidio/ochannel.m3u8
+https://ilike.squdinc.workers.dev/play.m3u8?id=206&key=vidio&type=hls
 
 #EXTINF:0 tvg-id="BeritaSatu.id" tvg-logo="https://i.imgur.com/08XEDhX.png" group-title="NASIONAL",BTV
 https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
@@ -1479,7 +1479,7 @@ https://liveru.cgtn.com/1000r/prog_index.m3u8
 https://anv-livechannel-cdn.mncnow.id/live/eds/FoxNews/sa_dash_vmx/FoxNews.mpd
 
 #EXTINF:-1 tvg-id="MSNBC.us" tvg-logo="https://i.imgur.com/cMM9MAg.png" group-title="AMERICAN NEWS",MSNBC
-https://webudi.openhd.lol/lb/premium327/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+https://webdi.openhd.lol/ddy1/premium327/index.m3u8?|referer=https://streamservicehd.click/
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IVvxmTv.png" group-title="AMERICAN NEWS",CBS News
 http://cbsnewshd-lh.akamaihd.net:80/i/CBSNHD_7@199302/master.m3u8
@@ -1731,8 +1731,8 @@ https://ec08.luz1.cache.orange.pl/jupiter/o2-cl7/live/tvrepublika/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Tvn24_Logo.svg/800px-Tvn24_Logo.svg.png" group-title="POLISH NEWS",TVN 24
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#EXTVLCOPT:http-referrer=https://eplayer.click/
-https://best2.globalweb.ru.com/cdn/premium444/mono.m3u8
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/
+https://webdi.openhd.lol/ddy1/premium444/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uQVqEIH.png" group-title="PARLIAMENTARY",TVP Parlament 1
 http://hbbtvlive3.v3.tvp.pl/hbbtvlive/livestream.php?app_id=kanal1
@@ -1920,7 +1920,7 @@ https://cdn3.skygo.mn/live/disk1/BloombergMon/HLS-FTA/BloombergMon.m3u8
 https://anv-livechannel-cdn.mncnow.id/live/eds/CNBC/sa_dash_vmx/CNBC.mpd
 
 #EXTINF:-1 tvg-id="CNBC.us" tvg-logo="https://i.imgur.com/KxxvR2X.png" group-title="BUSINESS NEWS",CNBC US
-https://webudi.openhd.lol/lb/premium309/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+https://webdi.openhd.lol/ddy1/premium309/index.m3u8?|referer=https://streamservicehd.click/
 
 #EXTINF:-1 tvg-id="CNBCArabiya.ae" tvg-logo="https://i.imgur.com/4XhULAV.png" group-title="BUSINESS NEWS",CNBC Arabiya
 https://cnbcarabia.hibridcdn.net/cnbc/cnbc_abr/cnbc/cnbc_480p/chunks.m3u8?
@@ -1936,9 +1936,6 @@ https://streamcdnb10-859c1818ed614cc5b0047439470927b0.msvdn.net/live/S76890577/t
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Y3vQaf5.png" group-title="BUSINESS NEWS",Yahoo! Finance
 https://yahoo-samsung.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Fox_Business.svg/1920px-Fox_Business.svg.png" group-title="BUSINESS NEWS",Fox Business
-http://1tv1.net:8080/live/01007888688/28464975/148458.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UrRif3p.png" group-title="BUSINESS NEWS",A Para
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCzrGg6iyRDuUSnO0cQ5oLcA/live
@@ -1962,14 +1959,10 @@ http://ye23.win/iptv/sbs5.1.php?id=S06
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_BUSINESS/index.m3u8?start=LIVE&end=END
 
 #EXTINF:0 tvg-id="beINSports1Indonesia.id" tvg-logo="https://i.imgur.com/MRULdc8.png" group-title="NATIONAL SPORTS",beIN Sports 1 Indonesia
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MjhkOWZkZjYtOGViOC0zNTkzLWFhOWEtNGFhMzJkMDk3NGE2
-https://anv-livechannel-cdn.mncnow.id/live/eds/MrBein1/sa_dash_vmx/MrBein1.mpd
+https://devds.site/api/indihoy/hls.m3u8?ch=bein1
 
 #EXTINF:0 tvg-id="beINSports3Indonesia.id" tvg-logo="https://i.imgur.com/j8VC6nB.png" group-title="NATIONAL SPORTS",beIN Sports 3 Indonesia
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MjhkOWZkZjYtOGViOC0zNTkzLWFhOWEtNGFhMzJkMDk3NGE2
-https://anv-livechannel-cdn.mncnow.id/live/eds/BeIN2s/sa_dash_vmx/BeIN2s.mpd
+https://devds.site/api/indihoy/hls.m3u8?ch=bein2
 
 #EXTINF:-1 tvg-id="ChampionsTV1.id" tvg-logo="https://i.imgur.com/ffWoTF9.png" group-title="NATIONAL SPORTS",Champions TV 1
 http://tv.zonanime.my.id/vidio/championstv1.m3u8
@@ -2030,7 +2023,7 @@ http://iptvid.my.id/hmm/useetl2.m3u8
 http://93.152.174.144:4000/play/barcatv/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RCyM7W9.png" group-title="CLUBS OF SPORTS",Benfica TV
-https://webudi.openhd.lol/lb/premium380/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+https://webdi.openhd.lol/ddy1/premium380/index.m3u8?|referer=https://streamservicehd.click/
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ULcjgX4.png" group-title="CLUBS OF SPORTS",FB TV
 http://iptvmasterlink.dyndns.org:8080/FbTv/playlist.m3u8
@@ -2053,57 +2046,13 @@ https://bravo.kugo.id/persijatv/udp.stream/playlist.m3u8
 https://streamer-a03.videos.sapo.pt/live/portocanal/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KFwSXaG.png" group-title="CLUBS OF SPORTS",Real Madrid TV Español
-https://webudi.openhd.lol/lb/premium523/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+https://webudi.openhd.lol/ddy1/premium523/index.m3u8?|referer=https://streamservicehd.click/
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/r2XCRmO.png" group-title="CLUBS OF SPORTS",Sporting TV
 http://45.92.69.72:8001/play/a02n
 
-#EXTINF:-1 tvg-id="EurosportAsia.fr" tvg-logo="https://i.imgur.com/ycxjpTX.png" group-title="ASIAN SPORTS",Eurosport Asia
-http://5gfksa.ltd:2052/991155/551199/205573
-
-#EXTINF:-1 tvg-id="GolfChannel.us" tvg-logo="https://i.imgur.com/0FJ92Bp.png" group-title="ASIAN SPORTS",Golf Channel
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=bef29d5caac3628eb1efae8a215fae10&key=645a0014ea459a86cfa72cf8137bb4a7
-https://nonton.site:8443/live/indoneuetyhbsrt/bxbdrtyhevxh/561.m3u8
-
-#EXTINF:-1 tvg-id="PremierSportsAsia.ie" tvg-logo="https://i.imgur.com/kfPsml5.png" group-title="ASIAN SPORTS",Premier Sports Asia
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=cfc32f4dc3dac49b34708ded20364610&key=025dcec778861dd1e40cce4dd35e73a4
-http://5gfksa.ltd:2052/991155/551199/205554
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/TDMSport.png" group-title="ASIAN SPORTS",TDM 澳門體育頻道
 http://live4.tdm.com.mo/ch4/_definst_/sport_ch4.live/playlist.m3u8
-
-#EXTINF:-1 tvg-id="TAPSports.ph" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6e/TAP_Sports_channel_logo.png" group-title="PINOY SPORTS",TAP Sports
-http://king-tv.online:8080/gisle@/FDPWGufCmY/364252.ts
-
-#EXTINF:-1 tvg-id="OneSports.ph" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/One_Sports_logo.svg/512px-One_Sports_logo.svg.png" group-title="PINOY SPORTS",One Sports
-https://raw.githubusercontent.com/fotvnetwork/iptv-free/master/M3U8/Locals/os.m3u8
-
-#EXTINF:-1 tvg-id="OneSportsPlus.ph" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/OneSportsPlus_logo.svg/1024px-OneSportsPlus_logo.svg.png" group-title="PINOY SPORTS",One Sports+
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=ab38eab6c34344f5a1d39bc1c8d73d15&key=3cd6f62226d20fb984de50a1fc293f67
-https://mzvrna3n7b.akamaized.net/out/u/3103.mpd
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/AWH0VLO.png" group-title="PINOY SPORTS",NBA TV Philippines
-http://king-tv.online:8080/gisle@/FDPWGufCmY/364148.ts
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zBXsLZ4.png" group-title="PINOY SPORTS",Premier Football
-http://king-tv.online:8080/gisle@/FDPWGufCmY/364145.ts
-
-#EXTINF:-1 tvg-id="PremierSports.ph" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/PremierSports-ph.png" group-title="PINOY SPORTS",Premier Sports
-http://king-tv.online:8080/gisle@/FDPWGufCmY/364146.ts
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pG9gbe4.png" group-title="PINOY SPORTS",Premier Sports 2
-https://rotf.lol/FEITAN-PREMIER-SPORTS-2
-
-#EXTINF:-1 tvg-id="PBARush.ph" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/cd/PBA_Rush_logo.png" group-title="PINOY SPORTS",PBA Rush
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=4bc72162b1214b0bbb25402f044b39cb&key=a992d78b3bb2b36c7535bd511d9772e6
-https://qpnnXEZUEt.akamaized.net/out/u/3106.mpd
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eeAsw9Y.png" group-title="PINOY SPORTS",UAAP Varsity
-https://bit.ly/FEITAN-UAAP-VARSITY-CH
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iZ1rMGW.png" group-title="WORLD SPORTS",Motorvision TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
@@ -2115,128 +2064,68 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JApkfiF.png" group-title="WORLD SPORTS",Tennis Channel International
 https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="beINSports.qa" tvg-logo="https://i.imgur.com/39bwyGI.png" group-title="ARABIC SPORTS",beIN Sports
-http://1tv1.net:8080/live/01007888688/28464975/22186.m3u8
-
 #EXTINF:-1 tvg-id="beINSports1.qa" tvg-logo="https://i.imgur.com/MRULdc8.png" group-title="ARABIC SPORTS",beIN Sports 1
-https://webudi.openhd.lol/lb/premium91/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+https://webdi.openhd.lol/ddy1/premium91/index.m3u8?|referer=https://streamservicehd.click/
 
 #EXTINF:-1 tvg-id="beINSports2.qa" tvg-logo="https://i.imgur.com/NDp6TlM.png" group-title="ARABIC SPORTS",beIN Sports 2
-https://webudi.openhd.lol/lb/premium92/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+https://webdi.openhd.lol/ddy1/premium92/index.m3u8?|referer=https://streamservicehd.click/
 
 #EXTINF:-1 tvg-id="beINSports3.qa" tvg-logo="https://i.imgur.com/j8VC6nB.png" group-title="ARABIC SPORTS",beIN Sports 3
-https://webudi.openhd.lol/lb/premium93/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+https://webdi.openhd.lol/ddy1/premium93/index.m3u8?|referer=https://streamservicehd.click/
 
 #EXTINF:-1 tvg-id="beINSports4.qa" tvg-logo="https://i.imgur.com/Lu26Yho.png" group-title="ARABIC SPORTS",beIN Sports 4
-https://webudi.openhd.lol/lb/premium94/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+https://webdi.openhd.lol/ddy1/premium94/index.m3u8?|referer=https://streamservicehd.click/
 
 #EXTINF:-1 tvg-id="beINSports5.qa" tvg-logo="https://i.imgur.com/pA5by2y.png" group-title="ARABIC SPORTS",beIN Sports 5
-https://webudi.openhd.lol/lb/premium95/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+https://webdi.openhd.lol/ddy1/premium95/index.m3u8?|referer=https://streamservicehd.click/
 
 #EXTINF:-1 tvg-id="beINSports6.qa" tvg-logo="https://i.imgur.com/mbFoSUX.png" group-title="ARABIC SPORTS",beIN Sports 6
-https://webudi.openhd.lol/lb/premium96/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+https://webdi.openhd.lol/ddy1/premium96/index.m3u8?|referer=https://streamservicehd.click/
 
 #EXTINF:-1 tvg-id="beINSports7.qa" tvg-logo="https://i.imgur.com/eHCosqi.png" group-title="ARABIC SPORTS",beIN Sports 7
-https://webudi.openhd.lol/lb/premium97/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
-
-#EXTINF:-1 tvg-id="beINSportsNBA.qa" tvg-logo="https://i.imgur.com/BZ5jcea.png" group-title="ARABIC SPORTS",beIN NBA
-http://1tv1.net:8080/live/01007888688/28464975/150160.m3u8
-
-#EXTINF:-1 tvg-id="beINSportsNews.qa" tvg-logo="https://i.imgur.com/TG2eNPO.png" group-title="ARABIC SPORTS",beIN Sports News
-http://starshare.live:8080/live/usman007/usman007/355.ts
-
-#EXTINF:-1 tvg-id="beINSportsXtra1.qa" tvg-logo="https://i.imgur.com/uYcwFSD.png" group-title="ARABIC SPORTS",beIN Sports Xtra 1
-http://1tv1.net:8080/live/01007888688/28464975/165086.m3u8
-
-#EXTINF:-1 tvg-id="beINSportsXtra2.qa" tvg-logo="https://i.imgur.com/Q9ACq0T.png" group-title="ARABIC SPORTS",beIN Sports Xtra 2
-http://1tv1.net:8080/live/01007888688/28464975/165087.m3u8
-
-#EXTINF:-1 tvg-id="beINSportsAFC.qa" tvg-logo="https://i.imgur.com/arLTcvt.png" group-title="ARABIC SPORTS",beIN Sports AFC
-http://1tv1.net:8080/live/01007888688/28464975/165062.m3u8
-
-#EXTINF:-1 tvg-id="beINSportsAFC1.qa" tvg-logo="https://i.imgur.com/oKbn4Dw.png" group-title="ARABIC SPORTS",beIN Sports AFC 1
-http://1tv1.net:8080/live/01007888688/28464975/165063.m3u8
-
-#EXTINF:-1 tvg-id="beINSportsAFC2.qa" tvg-logo="https://i.imgur.com/RI5gIHv.png" group-title="ARABIC SPORTS",beIN Sports AFC 2
-http://1tv1.net:8080/live/01007888688/28464975/165064.m3u8
-
-#EXTINF:-1 tvg-id="beINSportsAFC3.qa" tvg-logo="https://i.imgur.com/2i0eHdY.png" group-title="ARABIC SPORTS",beIN Sports AFC 3
-http://1tv1.net:8080/live/01007888688/28464975/165065.m3u8
+https://webdi.openhd.lol/ddy1/premium97/index.m3u8?|referer=https://streamservicehd.click/
 
 #EXTINF:-1 tvg-id="beINSports1HDFrance.fr" tvg-logo="https://i.imgur.com/MRULdc8.png" group-title="FRENCH SPORTS",beIN Sports 1 HD France
-https://webudi.openhd.lol/lb/premium116/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+https://webdi.openhd.lol/ddy1/premium116/index.m3u8?|referer=https://streamservicehd.click/
 
 #EXTINF:-1 tvg-id="beINSports2HDFrance.fr" tvg-logo="https://i.imgur.com/NDp6TlM.png" group-title="FRENCH SPORTS",beIN Sports 2 HD France
-https://webudi.openhd.lol/lb/premium117/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+https://webdi.openhd.lol/ddy1/premium117/index.m3u8?|referer=https://streamservicehd.click/
 
 #EXTINF:-1 tvg-id="beINSports3France.fr" tvg-logo="https://i.imgur.com/j8VC6nB.png" group-title="FRENCH SPORTS",beIN Sports 3 France
-https://webudi.openhd.lol/lb/premium118/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+https://webdi.openhd.lol/ddy1/premium118/index.m3u8?|referer=https://streamservicehd.click/
 
 #EXTINF:-1 tvg-id="beINSportsEnglish1.qa" tvg-logo="https://i.imgur.com/o8zT78o.png" group-title="ARABIC SPORTS",beIN Sports English 1
-https://webudi.openhd.lol/lb/premium61/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+https://webdi.openhd.lol/ddy1/premium61/index.m3u8?|referer=https://streamservicehd.click/
 
 #EXTINF:-1 tvg-id="beINSportsEnglish2.qa" tvg-logo="https://i.imgur.com/RJ17vOc.png" group-title="ARABIC SPORTS",beIN Sports English 2
-https://webudi.openhd.lol/lb/premium90/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+https://webdi.openhd.lol/ddy1/premium90/index.m3u8?|referer=https://streamservicehd.click/
 
 #EXTINF:-1 tvg-id="beINSportsEnglish3.qa" tvg-logo="https://i.imgur.com/sKFx2QF.png" group-title="ARABIC SPORTS",beIN Sports English 3
-https://webudi.openhd.lol/lb/premium46/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
-
-#EXTINF:-1 tvg-id="beINSportsFrench1.qa" tvg-logo="https://i.imgur.com/NOOEDFi.png" group-title="ARABIC SPORTS",beIN Sports French 1
-http://1tv1.net:8080/live/01007888688/28464975/112464.m3u8
-
-#EXTINF:-1 tvg-id="beINSportsFrench2.qa" tvg-logo="https://i.imgur.com/n6iA4cg.png" group-title="ARABIC SPORTS",beIN Sports French 2
-http://1tv1.net:8080/live/01007888688/28464975/112465.m3u8
-
-#EXTINF:-1 tvg-id="beINSportsFrench3.qa" tvg-logo="https://i.imgur.com/srteRe1.png" group-title="ARABIC SPORTS",beIN Sports French 3
-http://1tv1.net:8080/live/01007888688/28464975/112466.m3u8
+https://webdi.openhd.lol/ddy1/premium46/index.m3u8?|referer=https://streamservicehd.click/
 
 #EXTINF:-1 tvg-id="beINSportsPremium1.qa" tvg-logo="https://i.imgur.com/CwlNjXQ.png" group-title="ARABIC SPORTS",beIN Sports Premium 1
-https://webudi.openhd.lol/lb/premium98/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+https://webdi.openhd.lol/ddy1/premium98/index.m3u8?|referer=https://streamservicehd.click/
 
 #EXTINF:-1 tvg-id="beINSportsPremium2.qa" tvg-logo="https://i.imgur.com/Ns7isEP.png" group-title="ARABIC SPORTS",beIN Sports Premium 2
-https://webudi.openhd.lol/lb/premium99/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+https://webdi.openhd.lol/ddy1/premium99/index.m3u8?|referer=https://streamservicehd.click/
 
 #EXTINF:-1 tvg-id="beINSportsPremium3.qa" tvg-logo="https://i.imgur.com/T7UlxCI.png" group-title="ARABIC SPORTS",beIN Sports Premium 3
-https://webudi.openhd.lol/lb/premium100/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+https://webdi.openhd.lol/ddy1/premium100/index.m3u8?|referer=https://streamservicehd.click/
 
 #EXTINF:-1 tvg-id="beINSports1Turkey.tr" tvg-logo="https://i.imgur.com/MRULdc8.png" group-title="TURKISH SPORTS",beIN Sports 1 Türkiye
-https://webudi.openhd.lol/lb/premium62/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+https://webdi.openhd.lol/ddy1/premium62/index.m3u8?|referer=https://streamservicehd.click/
 
 #EXTINF:-1 tvg-id="beINSports2Turkey.tr" tvg-logo="https://i.imgur.com/NDp6TlM.png" group-title="TURKISH SPORTS",beIN Sports 2 Türkiye
-https://webudi.openhd.lol/lb/premium63/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+https://webdi.openhd.lol/ddy1/premium63/index.m3u8?|referer=https://streamservicehd.click/
 
 #EXTINF:-1 tvg-id="beINSports3Turkey.tr" tvg-logo="https://i.imgur.com/j8VC6nB.png" group-title="TURKISH SPORTS",beIN Sports 3 Türkiye
-https://webudi.openhd.lol/lb/premium64/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+https://webdi.openhd.lol/ddy1/premium64/index.m3u8?|referer=https://streamservicehd.click/
 
 #EXTINF:-1 tvg-id="beINSports4Turkey.tr" tvg-logo="https://i.imgur.com/Lu26Yho.png" group-title="TURKISH SPORTS",beIN Sports 4 Türkiye
-https://webudi.openhd.lol/lb/premium67/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+https://webdi.openhd.lol/ddy1/premium67/index.m3u8?|referer=https://streamservicehd.click/
 
 #EXTINF:-1 tvg-id="beINSportsHaber.tr" tvg-logo="https://i.imgur.com/fBWCN2V.png" group-title="TURKISH SPORTS",beIN Sports Haber
 https://59c7ea6bec1c6.streamlock.net/filbox/beinsporthaber.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MRULdc8.png" group-title="AUSTRALIAN SPORTS",beIN Sports 1
-http://1tv1.net:8080/live/01007888688/28464975/163778.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NDp6TlM.png" group-title="AUSTRALIAN SPORTS",beIN Sports 2
-http://1tv1.net:8080/live/01007888688/28464975/163780.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/j8VC6nB.png" group-title="AUSTRALIAN SPORTS",beIN Sports 3
-http://1tv1.net:8080/live/01007888688/28464975/163782.m3u8
-
-#EXTINF:-1 tvg-id="beINSports1MalaysiaSingapore.my" tvg-logo="https://i.imgur.com/39bwyGI.png" group-title="MALAY SPORTS",beIN Sports 1 Malaysia & Singapore
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=d96d4ec1a73623b5789d78a48b829d10&key=1ca8dd93af16c84fa1ef5f1b761a03e3
-https://unifi-live05.secureswiftcontent.com/UnifiHD/live13.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NDp6TlM.png" group-title="MALAY SPORTS",beIN Sports 2 Malaysia & Singapore
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=7d2ba38cc488e535fa42059493357c10&key=c48de9b1683be561fa63ab547391975d
-http://iptvtree.net:8080/ace2524d/15a571c413/282773
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/j8VC6nB.png" group-title="MALAY SPORTS",beIN Sports 3 Malaysia & Singapore
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=ec837724b4265d2e127e65c542aee410&key=0ce930620687ab1df1cf6544f2dc0013
-http://51.79.82.208:16065
 
 #EXTINF:-1 tvg-id="beINSports1Thailand.th" tvg-logo="https://i.imgur.com/MRULdc8.png" group-title="THAI SPORTS",beIN Sports 1 Thailand
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
@@ -2247,10 +2136,10 @@ https://smart-tv.livedoomovies.com:4431/02_epl1_720p/chunklist.m3u8|Referer=http
 https://smart-tv.livedoomovies.com:4431/02_epl2_720p/chunklist.m3u8|Referer=https://www.movie87hd.com/?r=ajax
 
 #EXTINF:-1 tvg-id="beINSportsUSA.us" tvg-logo="https://i.imgur.com/39bwyGI.png" group-title="AMERICAN SPORTS",beIN Sports USA
-https://webudi.openhd.lol/lb/premium425/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+https://webdi.openhd.lol/ddy1/premium425/index.m3u8?|referer=https://streamservicehd.click/
 
 #EXTINF:-1 tvg-id="beINSportsenEspanol.us" tvg-logo="https://i.imgur.com/LfzLKei.png" group-title="AMERICAN SPORTS",beIN Sports en Español
-https://webudi.openhd.lol/lb/premium372/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+https://webdi.openhd.lol/ddy1/premium372/index.m3u8?|referer=https://streamservicehd.click/
 
 #EXTINF:-1 tvg-id="beINSportsXtraUSA.us" tvg-logo="https://i.imgur.com/x8049OP.png" group-title="AMERICAN SPORTS",beIN Sports Xtra USA
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df975e2b27cf5000921c102/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c82b290-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=672c13ed-c11c-4ba2-b749-117f2f0aab45&userId=&serverSideAds=true
@@ -2261,98 +2150,95 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60492fdd9989d30007c
 #EXTINF:-1 tvg-logo="https://i.imgur.com/x8049OP.png" group-title="CANADIAN SPORTS",beIN Sports Xtra Canada
 http://status.tehw00t.net/miniProxy.php/https://bein-xtra-samsung-canada.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="BoxNation.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c8/BoxNation2014Logo.png" group-title="BRITISH SPORTS",Box Nation
-http://1tv1.net:8080/live/01007888688/28464975/9395.m3u8
-
 #EXTINF:-1 tvg-id="BTSport1.uk" tvg-logo="https://i.imgur.com/7dg7EB7.png" group-title="BRITISH SPORTS",BT Sport 1
-https://webudi.openhd.lol/lb/premium31/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+https://webdi.openhd.lol/ddy1/premium31/index.m3u8?|referer=https://streamservicehd.click/
 
 #EXTINF:-1 tvg-id="BTSport2.uk" tvg-logo="https://i.imgur.com/sIIFREX.png" group-title="BRITISH SPORTS",BT Sport 2
-https://webudi.openhd.lol/lb/premium32/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+https://webdi.openhd.lol/ddy1/premium32/index.m3u8?|referer=https://streamservicehd.click/
 
 #EXTINF:-1 tvg-id="BTSport3.uk" tvg-logo="https://i.imgur.com/8IzsrMb.png" group-title="BRITISH SPORTS",BT Sport 3
-https://webudi.openhd.lol/lb/premium33/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+https://webdi.openhd.lol/ddy1/premium33/index.m3u8?|referer=https://streamservicehd.click/
 
 #EXTINF:-1 tvg-id="BTSport4.uk" tvg-logo="https://i.imgur.com/gyTJhVr.png" group-title="BRITISH SPORTS",BT Sport 4
-https://webudi.openhd.lol/lb/premium34/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+https://webdi.openhd.lol/ddy1/premium34/index.m3u8?|referer=https://streamservicehd.click/
 
 #EXTINF:-1 tvg-id="Eurosport1UK.uk" tvg-logo="https://i.imgur.com/gwV31E0.png" group-title="BRITISH SPORTS",Eurosport 1 UK
-https://webudi.openhd.lol/lb/premium41/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+https://webdi.openhd.lol/ddy1/premium41/index.m3u8?|referer=https://streamservicehd.click/
 
 #EXTINF:-1 tvg-id="Eurosport2UK.uk" tvg-logo="https://i.imgur.com/lTnKDju.png" group-title="BRITISH SPORTS",Eurosport 2 UK
-https://webudi.openhd.lol/lb/premium42/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+https://webdi.openhd.lol/ddy1/premium42/index.m3u8?|referer=https://streamservicehd.click/
 
 #EXTINF:-1 tvg-id="FreeSports.uk" tvg-logo="https://i.imgur.com/odSWnEa.png" group-title="BRITISH SPORTS",Viaplay Xtra
-https://webudi.openhd.lol/lb/premium597/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+https://webdi.openhd.lol/ddy1/premium597/index.m3u8?|referer=https://streamservicehd.click/
 
 #EXTINF:-1 tvg-id="PremierSports1.ie" tvg-logo="https://i.imgur.com/LNDIaw0.png" group-title="BRITISH SPORTS",Viaplay Sports 1
-https://webudi.openhd.lol/lb/premium451/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+https://webdi.openhd.lol/ddy1/premium451/index.m3u8?|referer=https://streamservicehd.click/
 
 #EXTINF:-1 tvg-id="PremierSports2.ie" tvg-logo="https://i.imgur.com/98La4MO.png" group-title="BRITISH SPORTS",Viaplay Sports 2
-https://webudi.openhd.lol/lb/premium550/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+https://webdi.openhd.lol/ddy1/premium550/index.m3u8?|referer=https://streamservicehd.click/
 
 #EXTINF:-1 tvg-id="RacingTV.uk" tvg-logo="https://i.imgur.com/d81P4qV.jpg" group-title="BRITISH SPORTS",Racing TV
-https://webudi.openhd.lol/lb/premium555/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+https://webdi.openhd.lol/ddy1/premium555/index.m3u8?|referer=https://streamservicehd.click/
 
 #EXTINF:-1 tvg-id="SkySportsNFL.uk" tvg-logo="https://i.imgur.com/jM1FeOX.png" group-title="BRITISH SPORTS",Sky Sports Action
-https://webudi.openhd.lol/lb/premium37/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+https://webdi.openhd.lol/ddy1/premium37/index.m3u8?|referer=https://streamservicehd.click/
 
 #EXTINF:-1 tvg-id="SkySportsArena.uk" tvg-logo="https://i.imgur.com/eZwExGu.png" group-title="BRITISH SPORTS",Sky Sports Arena
-https://webudi.openhd.lol/lb/premium36/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+https://webdi.openhd.lol/ddy1/premium36/index.m3u8?|referer=https://streamservicehd.click/
 
 #EXTINF:-1 tvg-id="SkySportsCricket.uk" tvg-logo="https://i.imgur.com/J8zzS2v.png" group-title="BRITISH SPORTS",Sky Sports Cricket
-https://webudi.openhd.lol/lb/premium65/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+https://webdi.openhd.lol/ddy1/premium65/index.m3u8?|referer=https://streamservicehd.click/
 
 #EXTINF:-1 tvg-id="SkySportsF1.uk" tvg-logo="https://i.imgur.com/2kPW5qw.png" group-title="BRITISH SPORTS",Sky Sports F1
-https://webudi.openhd.lol/lb/premium60/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+https://webdi.openhd.lol/ddy1/premium60/index.m3u8?|referer=https://streamservicehd.click/
 
 #EXTINF:-1 tvg-id="SkySportsFootball.uk" tvg-logo="https://i.imgur.com/EcFwNdj.png" group-title="BRITISH SPORTS",Sky Sports Football
-https://webudi.openhd.lol/lb/premium35/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+https://webdi.openhd.lol/ddy1/premium35/index.m3u8?|referer=https://streamservicehd.click/
 
 #EXTINF:-1 tvg-id="SkySportsGolf.uk" tvg-logo="https://i.imgur.com/Q2ztKWZ.png" group-title="BRITISH SPORTS",Sky Sports Golf
-https://webudi.openhd.lol/lb/premium70/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+https://webdi.openhd.lol/ddy1/premium70/index.m3u8?|referer=https://streamservicehd.click/
 
 #EXTINF:-1 tvg-id="SkySportsMainEvent.uk" tvg-logo="https://i.imgur.com/KHiae2e.png" group-title="BRITISH SPORTS",Sky Sports Main Event
-https://webudi.openhd.lol/lb/premium38/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+https://webdi.openhd.lol/ddy1/premium38/index.m3u8?|referer=https://streamservicehd.click/
 
 #EXTINF:-1 tvg-id="SkySportsMix.uk" tvg-logo="https://i.imgur.com/PRF0DsV.png" group-title="BRITISH SPORTS",Sky Sports Mix
-https://webudi.openhd.lol/lb/premium449/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+https://webdi.openhd.lol/ddy1/premium449/index.m3u8?|referer=https://streamservicehd.click/
 
 #EXTINF:-1 tvg-id="SkySportsNews.uk" tvg-logo="https://i.imgur.com/jcFnVbi.png" group-title="BRITISH SPORTS",Sky Sports News UK
-https://webudi.openhd.lol/lb/premium366/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+https://webdi.openhd.lol/ddy1/premium366/index.m3u8?|referer=https://streamservicehd.click/
 
 #EXTINF:-1 tvg-id="SkySportsPremierLeague.uk" tvg-logo="https://i.imgur.com/wA3DieO.png" group-title="BRITISH SPORTS",Sky Sports Premier League
-https://webudi.openhd.lol/lb/premium130/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+https://webdi.openhd.lol/ddy1/premium130/index.m3u8?|referer=https://streamservicehd.click/
 
 #EXTINF:-1 tvg-id="SkySportsRacing.uk" tvg-logo="https://i.imgur.com/vhYstlz.png" group-title="BRITISH SPORTS",Sky Sports Racing
-https://webudi.openhd.lol/lb/premium554/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+https://webdi.openhd.lol/ddy1/premium554/index.m3u8?|referer=https://streamservicehd.click/
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1g9mYwr.png" group-title="AMERICAN SPORTS",CBS Sports Network
-https://webudi.openhd.lol/lb/premium308/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+https://webdi.openhd.lol/ddy1/premium308/index.m3u8?|referer=https://streamservicehd.click/
 
 #EXTINF:-1 tvg-id="ESPN.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1920px-ESPN_wordmark.svg.png" group-title="AMERICAN SPORTS",ESPN US
-https://webudi.openhd.lol/lb/premium44/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+https://webdi.openhd.lol/ddy1/premium44/index.m3u8?|referer=https://streamservicehd.click/
 
 #EXTINF:-1 tvg-id="ESPN2.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/1280px-ESPN2_logo.svg.png" group-title="AMERICAN SPORTS",ESPN 2 US
-https://webudi.openhd.lol/lb/premium45/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+https://webdi.openhd.lol/ddy1/premium45/index.m3u8?|referer=https://streamservicehd.click/
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YhuEewa.png" group-title="AMERICAN SPORTS",ESPN Deportes
-https://webudi.openhd.lol/lb/premium375/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+https://webdi.openhd.lol/ddy1/premium375/index.m3u8?|referer=https://streamservicehd.click/
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qimdreM.png" group-title="AMERICAN SPORTS",FS1
-https://webudi.openhd.lol/lb/premium39/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+https://webdi.openhd.lol/ddy1/premium39/index.m3u8?|referer=https://streamservicehd.click/
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jxLMBZt.png" group-title="AMERICAN SPORTS",FS2
 http://4.26.188.2:8081/udp/239.193.10.102:23902
 
 #EXTINF:-1 tvg-id="GolfChannel.us" tvg-logo="https://i.imgur.com/0FJ92Bp.png" group-title="AMERICAN SPORTS",Golf Channel
-https://webudi.openhd.lol/lb/premium318/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+https://webdi.openhd.lol/ddy1/premium318/index.m3u8?|referer=https://streamservicehd.click/
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/MLBNetworkLogo.svg/800px-MLBNetworkLogo.svg.png" group-title="AMERICAN SPORTS",MLB Network
-https://webudi.openhd.lol/lb/premium399/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+https://webdi.openhd.lol/ddy1/premium399/index.m3u8?|referer=https://streamservicehd.click/
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gZXSAhf.png" group-title="AMERICAN SPORTS",NFL Network
-https://webudi.openhd.lol/lb/premium405/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+https://webdi.openhd.lol/ddy1/premium405/index.m3u8?|referer=https://streamservicehd.click/
 
 #EXTINF:-1 tvg-id="NBATV.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/800px-NBA_TV.svg.png" group-title="AMERICAN SPORTS",NBA TV
 https://bit.ly/nbatvusa?/index.m3u8
@@ -2361,43 +2247,16 @@ https://bit.ly/nbatvusa?/index.m3u8
 https://dai.google.com/linear/hls/event/Dlqr46ybTSGWGTfRWcxS0g/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lcpZ5CC.png" group-title="AMERICAN SPORTS",WWE Network
-https://webudi.openhd.lol/lb/premium376/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+https://webdi.openhd.lol/ddy1/premium376/index.m3u8?|referer=https://streamservicehd.click/
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/1920px-TUDN_Logo.svg.png" group-title="AMERICAN SPORTS",TUDN USA
-https://webudi.openhd.lol/lb/premium66/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1920px-ESPN_wordmark.svg.png" group-title="AUSTRALIAN SPORTS",ESPN Australia
-http://1tv1.net:8080/live/01007888688/28464975/163784.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/1280px-ESPN2_logo.svg.png" group-title="AUSTRALIAN SPORTS",ESPN 2 Australia
-http://1tv1.net:8080/live/01007888688/28464975/163786.m3u8
+https://webdi.openhd.lol/ddy1/premium66/index.m3u8?|referer=https://streamservicehd.click/
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/b7TO49Q.png" group-title="AUSTRALIAN SPORTS",Fox Sports 501
-https://webudi.openhd.lol/lb/premium369/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BLWrz42.png" group-title="AUSTRALIAN SPORTS",Fox Sports 502
-http://1tv1.net:8080/live/01007888688/28464975/163789.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qR5u3Jg.png" group-title="AUSTRALIAN SPORTS",Fox Sports 503
-http://1tv1.net:8080/live/01007888688/28464975/163790.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4sHtDw1.png" group-title="AUSTRALIAN SPORTS",Fox Sports 504
-http://1tv1.net:8080/live/01007888688/28464975/163791.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qR5u3Jg.png" group-title="AUSTRALIAN SPORTS",Fox Sports 505
-http://1tv1.net:8080/live/01007888688/28464975/163792.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qR5u3Jg.png" group-title="AUSTRALIAN SPORTS",Fox Sports 506
-http://1tv1.net:8080/live/01007888688/28464975/163793.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qR5u3Jg.png" group-title="AUSTRALIAN SPORTS",Fox Sports 507
-http://1tv1.net:8080/live/01007888688/28464975/163794.m3u8
+https://webdi.openhd.lol/ddy1/premium369/index.m3u8?|referer=https://streamservicehd.click/
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zeywLXs.png" group-title="AUSTRALIAN SPORTS",Fox Sports News
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/IMAeAVz.jpg" group-title="AUSTRALIAN SPORTS",Racing.com
-http://iptv12k.com:35461/live/80301070602/456776/3380.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/s2wciz8.png" group-title="AUSTRALIAN SPORTS",Sky 1
 https://skylivetab-i.akamaihd.net/hls/live/569779/tablive/sky1.m3u8
@@ -2409,85 +2268,70 @@ https://skylivetab-i.akamaihd.net/hls/live/569779/tablive/sky2.m3u8
 https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/stcsd.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bpS1hON.png" group-title="CANADIAN SPORTS",Sportsnet 360
-https://webudi.openhd.lol/lb/premium409/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+https://webdi.openhd.lol/ddy1/premium409/index.m3u8?|referer=https://streamservicehd.click/
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/W8d65IY.png" group-title="CANADIAN SPORTS",Sportsnet One
-https://webudi.openhd.lol/lb/premium411/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+https://webdi.openhd.lol/ddy1/premium411/index.m3u8?|referer=https://streamservicehd.click/
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gSK6eN9.png" group-title="CANADIAN SPORTS",Sportsnet World
-https://webudi.openhd.lol/lb/premium410/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+https://webdi.openhd.lol/ddy1/premium410/index.m3u8?|referer=https://streamservicehd.click/
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/v48ueao.png" group-title="CANADIAN SPORTS",TSN1
-https://webudi.openhd.lol/lb/premium111/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+https://webdi.openhd.lol/ddy1/premium111/index.m3u8?|referer=https://streamservicehd.click/
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HvPyPov.png" group-title="CANADIAN SPORTS",TSN2
-https://webudi.openhd.lol/lb/premium112/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+https://webdi.openhd.lol/ddy1/premium112/index.m3u8?|referer=https://streamservicehd.click/
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NwjWSff.png" group-title="CANADIAN SPORTS",TSN3
-https://webudi.openhd.lol/lb/premium113/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+https://webdi.openhd.lol/ddy1/premium113/index.m3u8?|referer=https://streamservicehd.click/
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5aQ01F1.png" group-title="CANADIAN SPORTS",TSN4
-https://webudi.openhd.lol/lb/premium114/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+https://webdi.openhd.lol/ddy1/premium114/index.m3u8?|referer=https://streamservicehd.click/
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uoy75nW.png" group-title="CANADIAN SPORTS",TSN5
-https://webudi.openhd.lol/lb/premium115/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+https://webdi.openhd.lol/ddy1/premium115/index.m3u8?|referer=https://streamservicehd.click/
 
 #EXTINF:-1 tvg-id="CanalPlusSport2Poland.pl" tvg-logo="https://i.imgur.com/p0k54D9.png" group-title="POLISH SPORTS",Canal + Sport Polska
-https://webudi.openhd.lol/lb/premium48/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+https://webdi.openhd.lol/ddy1/premium48/index.m3u8?|referer=https://streamservicehd.click/
 
 #EXTINF:-1 tvg-id="CanalPlusSportPoland.pl" tvg-logo="https://i.imgur.com/Xz33IHR.png" group-title="POLISH SPORTS",Canal + Sport 2 Polska
-https://webudi.openhd.lol/lb/premium73/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+https://webdi.openhd.lol/ddy1/premium73/index.m3u8?|referer=https://streamservicehd.click/
 
 #EXTINF:-1 tvg-id="ElevenSports1Poland.pl" tvg-logo="https://i.imgur.com/cSVAkg0.png" group-title="POLISH SPORTS",Eleven Sports 1 Polska
-https://webudi.openhd.lol/lb/premium71/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+https://webdi.openhd.lol/ddy1/premium71/index.m3u8?|referer=https://streamservicehd.click/
 
 #EXTINF:-1 tvg-id="ElevenSports2Poland.pl" tvg-logo="https://i.imgur.com/TlNAO45.png" group-title="POLISH SPORTS",Eleven Sports 2 Polska
-https://webudi.openhd.lol/lb/premium72/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+https://webdi.openhd.lol/ddy1/premium72/index.m3u8?|referer=https://streamservicehd.click/
 
 #EXTINF:-1 tvg-id="ElevenSports3Poland.pl" tvg-logo="https://i.imgur.com/fI2Hazk.png" group-title="POLISH SPORTS",Eleven Sports 3 Polska
-https://webudi.openhd.lol/lb/premium428/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+https://webdi.openhd.lol/ddy1/premium428/index.m3u8?|referer=https://streamservicehd.click/
 
 #EXTINF:-1 tvg-id="Eurosport1Poland.fr" tvg-logo="https://i.imgur.com/gwV31E0.png" group-title="POLISH SPORTS",Eurosport 1 Polska
-https://webudi.openhd.lol/lb/premium57/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+https://webdi.openhd.lol/ddy1/premium57/index.m3u8?|referer=https://streamservicehd.click/
 
 #EXTINF:-1 tvg-id="Eurosport2Poland.fr" tvg-logo="https://i.imgur.com/lTnKDju.png" group-title="POLISH SPORTS",Eurosport 2 Polska
-https://webudi.openhd.lol/lb/premium58/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+https://webdi.openhd.lol/ddy1/premium58/index.m3u8?|referer=https://streamservicehd.click/
 
 #EXTINF:-1 tvg-id="PolsatSport.pl" tvg-logo="https://i.imgur.com/pM6Q5n1.png" group-title="POLISH SPORTS",Polsat Sport
-https://webudi.openhd.lol/lb/premium47/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+https://webdi.openhd.lol/ddy1/premium47/index.m3u8?|referer=https://streamservicehd.click/
 
 #EXTINF:-1 tvg-id="PolsatSportExtra.pl" tvg-logo="https://i.imgur.com/mnohjlI.png" group-title="POLISH SPORTS",Polsat Sport Extra
-https://webudi.openhd.lol/lb/premium50/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
-
-#EXTINF:-1 tvg-id="PolsatSportFight.pl" tvg-logo="https://i.imgur.com/eEQxLTd.png" group-title="POLISH SPORTS",Polsat Sport Fight
-http://live-eu.cvacetv.ga:8080/stream/channelid/360275478?profile=ace
+https://webdi.openhd.lol/ddy1/premium50/index.m3u8?|referer=https://streamservicehd.click/
 
 #EXTINF:-1 tvg-id="PolsatSportNews.pl" tvg-logo="https://i.imgur.com/QJIzCGa.png" group-title="POLISH SPORTS",Polsat Sport News
-https://webudi.openhd.lol/lb/premium129/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/IgONH1a.png" group-title="POLISH SPORTS",Polsat Sport Premium 1
-http://live-vn.cvacetv.ga:8080/PolsatPre1
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/xf6o9Go.png" group-title="POLISH SPORTS",Polsat Sport Premium 2
-http://live-vn.cvacetv.ga:8080/PolsatPre2
+https://webdi.openhd.lol/ddy1/premium129/index.m3u8?|referer=https://streamservicehd.click/
 
 #EXTINF:-1 tvg-id="TVPSport.pl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Logo_TVP_Sport.jpg" group-title="POLISH SPORTS",TVP Sport
-https://webudi.openhd.lol/lb/premium128/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+https://webdi.openhd.lol/ddy1/premium128/index.m3u8?|referer=https://streamservicehd.click/
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IOgM8IM.png" group-title="FRENCH SPORTS",Canal + Foot
-https://webudi.openhd.lol/lb/premium463/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+https://webdi.openhd.lol/ddy1/premium463/index.m3u8?|referer=https://streamservicehd.click/
 
 #EXTINF:-1 tvg-id="CanalPlusSportFrance.fr" tvg-logo="https://i.imgur.com/p0k54D9.png" group-title="FRENCH SPORTS",Canal + Sport France
-https://webudi.openhd.lol/lb/premium122/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+https://webdi.openhd.lol/ddy1/premium122/index.m3u8?|referer=https://streamservicehd.click/
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZPVidfU.png" group-title="FRENCH SPORTS",Canal + Sport 360
-https://webudi.openhd.lol/lb/premium464/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vU6Y5Of.png" group-title="FRENCH SPORTS",Golf+
-http://iptvtree.net:8080/ace2524d/15a571c413/1934
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/D1nuT7j.png" group-title="FRENCH SPORTS",Infosport+
-http://iptvtree.net:8080/ace2524d/15a571c413/1190
+https://webdi.openhd.lol/ddy1/premium464/index.m3u8?|referer=https://streamservicehd.click/
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/L%27%C3%89quipe_wordmark.svg/1920px-L%27%C3%89quipe_wordmark.svg.png" group-title="FRENCH SPORTS",L'Equipe
 http://callofliberty.fr/stream/LEQUIPE/master.m3u8
@@ -2499,28 +2343,28 @@ http://51.178.65.238:80/RMC1/index.m3u8
 http://51.178.65.238:80/RMC2/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kaUN9Uw.png" group-title="ROMANIAN SPORTS",Digi Sport 1
-https://webudi.openhd.lol/lb/premium400/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+https://webdi.openhd.lol/ddy1/premium400/index.m3u8?|referer=https://streamservicehd.click/
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xxLvKJD.png" group-title="ROMANIAN SPORTS",Digi Sport 2
-https://webudi.openhd.lol/lb/premium401/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+https://webdi.openhd.lol/ddy1/premium401/index.m3u8?|referer=https://streamservicehd.click/
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WiynV2K.png" group-title="ROMANIAN SPORTS",Digi Sport 3
-https://webudi.openhd.lol/lb/premium402/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+https://webdi.openhd.lol/ddy1/premium402/index.m3u8?|referer=https://streamservicehd.click/
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kBsQd2d.png" group-title="ROMANIAN SPORTS",Digi Sport 4
-https://webudi.openhd.lol/lb/premium403/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+https://webdi.openhd.lol/ddy1/premium403/index.m3u8?|referer=https://streamservicehd.click/
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4mc9xs0.png" group-title="ROMANIAN SPORTS",Orange Sport 1
-https://webudi.openhd.lol/lb/premium439/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+https://webdi.openhd.lol/ddy1/premium439/index.m3u8?|referer=https://streamservicehd.click/
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2DY6BwT.png" group-title="ROMANIAN SPORTS",Orange Sport 2
-https://webudi.openhd.lol/lb/premium440/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+https://webdi.openhd.lol/ddy1/premium440/index.m3u8?|referer=https://streamservicehd.click/
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gSQTD0Q.png" group-title="ROMANIAN SPORTS",Orange Sport 3
-https://webudi.openhd.lol/lb/premium441/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+https://webdi.openhd.lol/ddy1/premium441/index.m3u8?|referer=https://streamservicehd.click/
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/M6o25QC.png" group-title="ROMANIAN SPORTS",Orange Sport 4
-https://webudi.openhd.lol/lb/premium442/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+https://webdi.openhd.lol/ddy1/premium442/index.m3u8?|referer=https://streamservicehd.click/
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CSBS4Ff.png" group-title="GERMAN SPORTS",DAZN 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
@@ -2529,46 +2373,34 @@ https://webudi.openhd.lol/lb/premium442/index.m3u8?|referer=https://widevine.lic
 https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-017/stream.mpd
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/m5c18XU.png" group-title="GERMAN SPORTS",DAZN 2
-https://webudi.openhd.lol/lb/premium427/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+https://webdi.openhd.lol/ddy1/premium427/index.m3u8?|referer=https://streamservicehd.click/
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gP7OfkX.png" group-title="GERMAN SPORTS",Sky Sport Bundesliga 1
-https://webudi.openhd.lol/lb/premium8/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+https://webdi.openhd.lol/ddy1/premium8/index.m3u8?|referer=https://streamservicehd.click/
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Sky_Sport_F1_-_Logo_2020.svg/1920px-Sky_Sport_F1_-_Logo_2020.svg.png" group-title="GERMAN SPORTS",Sky Sport F1
-https://webudi.openhd.lol/lb/premium55/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+https://webdi.openhd.lol/ddy1/premium55/index.m3u8?|referer=https://streamservicehd.click/
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/olajgeM.png" group-title="GERMAN SPORTS",Sky Sport Top Event
-https://webudi.openhd.lol/lb/premium556/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Sky_Sport_Tennis.svg/1920px-Sky_Sport_Tennis.svg.png" group-title="GERMAN SPORTS",Sky Sport Tennis
-http://1tv1.net:8080/live/01007888688/28464975/44551.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zsyAJky.png" group-title="GERMAN SPORTS",Sky Sport Golf
-http://live-eu.cvacetv.ga:8080/stream/channelid/1927543192?profile=ace
+https://webdi.openhd.lol/ddy1/premium556/index.m3u8?|referer=https://streamservicehd.click/
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xSPDmkP.png" group-title="GERMAN SPORTS",Sky Sport Mix
-https://webudi.openhd.lol/lb/premium557/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/de/thumb/c/cc/Sky_Sport_News_2020.svg/1920px-Sky_Sport_News_2020.svg.png" group-title="GERMAN SPORTS",Sky Sport News
-http://1tv1.net:8080/live/01007888688/28464975/44553.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NNn00zG.png" group-title="GERMAN SPORTS",Sky Sport Premier League
-http://live-eu.cvacetv.ga:8080/stream/channelid/857180288?profile=ace
+https://webdi.openhd.lol/ddy1/premium557/index.m3u8?|referer=https://streamservicehd.click/
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Sport-Digital.svg/1920px-Sport-Digital.svg.png" group-title="GERMAN SPORTS",sportdigital
-https://webudi.openhd.lol/lb/premium571/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+https://webdi.openhd.lol/ddy1/premium571/index.m3u8?|referer=https://streamservicehd.click/
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Sky_Sport_Arena_-_Logo_2020.svg/1920px-Sky_Sport_Arena_-_Logo_2020.svg.png" group-title="ITALIAN SPORTS",Sky Sport Arena
-https://webudi.openhd.lol/lb/premium462/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+https://webdi.openhd.lol/ddy1/premium462/index.m3u8?|referer=https://streamservicehd.click/
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Sky_Sport_Uno_-_Logo_2020.svg/1920px-Sky_Sport_Uno_-_Logo_2020.svg.png" group-title="ITALIAN SPORTS",Sky Sport Uno
-https://webudi.openhd.lol/lb/premium461/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+https://webdi.openhd.lol/ddy1/premium461/index.m3u8?|referer=https://streamservicehd.click/
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Sky_Sport_Football_-_Logo_2020.svg/1920px-Sky_Sport_Football_-_Logo_2020.svg.png" group-title="ITALIAN SPORTS",Sky Sport Football
-https://webudi.openhd.lol/lb/premium460/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+https://webdi.openhd.lol/ddy1/premium460/index.m3u8?|referer=https://streamservicehd.click/
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fubqEnF.png" group-title="SPANISH SPORTS",#Vamos
-https://webudi.openhd.lol/lb/premium521/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+https://webdi.openhd.lol/ddy1/premium521/index.m3u8?|referer=https://streamservicehd.click/
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CSBS4Ff.png" group-title="SPANISH SPORTS",DAZN 1 España
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
@@ -2583,10 +2415,10 @@ https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-037/stream.mpd
 https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-038/stream.mpd
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YiFmUxC.png" group-title="SPANISH SPORTS",DAZN 3 España
-https://webudi.openhd.lol/lb/premium447/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+https://webdi.openhd.lol/ddy1/premium447/index.m3u8?|referer=https://streamservicehd.click/
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aiZCV4i.png" group-title="SPANISH SPORTS",DAZN 4 España
-https://webudi.openhd.lol/lb/premium448/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+https://webdi.openhd.lol/ddy1/premium448/index.m3u8?|referer=https://streamservicehd.click/
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rqSPxoU.png" group-title="SPANISH SPORTS",DAZN F1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
@@ -2601,28 +2433,28 @@ https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-016/stream.mpd
 https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-043/stream.mpd
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gwV31E0.png" group-title="SPANISH SPORTS",Eurosport 1
-https://webudi.openhd.lol/lb/premium524/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+https://webdi.openhd.lol/ddy1/premium524/index.m3u8?|referer=https://streamservicehd.click/
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lTnKDju.png" group-title="SPANISH SPORTS",Eurosport 2
-https://webudi.openhd.lol/lb/premium525/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+https://webdi.openhd.lol/ddy1/premium525/index.m3u8?|referer=https://streamservicehd.click/
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/U10gOuT.png" group-title="SPANISH SPORTS",Gol
-https://webudi.openhd.lol/lb/premium530/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+https://webdi.openhd.lol/ddy1/premium530/index.m3u8?|referer=https://streamservicehd.click/
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xsYGFyy.png" group-title="SPANISH SPORTS",Movistar Deportes
-https://webudi.openhd.lol/lb/premium436/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+https://webdi.openhd.lol/ddy1/premium436/index.m3u8?|referer=https://streamservicehd.click/
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WYIpWC0.png" group-title="SPANISH SPORTS",Movistar Golf
-https://webudi.openhd.lol/lb/premium528/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+https://webdi.openhd.lol/ddy1/premium528/index.m3u8?|referer=https://streamservicehd.click/
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QlDOQ7i.png" group-title="SPANISH SPORTS",Movistar LaLiga
-https://webudi.openhd.lol/lb/premium84/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+https://webdi.openhd.lol/ddy1/premium84/index.m3u8?|referer=https://streamservicehd.click/
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vnKI1Oo.png" group-title="SPANISH SPORTS",Movistar Liga de Campeones
-https://webudi.openhd.lol/lb/premium435/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+https://webdi.openhd.lol/ddy1/premium435/index.m3u8?|referer=https://streamservicehd.click/
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Teledeporte.svg/1280px-Teledeporte.svg.png" group-title="SPANISH SPORTS",Teledeporte
-https://webudi.openhd.lol/lb/premium529/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+https://webdi.openhd.lol/ddy1/premium529/index.m3u8?|referer=https://streamservicehd.click/
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qfVunzp.png" group-title="PORTUGUESE SPORTS",Canal 11
 http://45.92.69.72:8000/play/a0ge
@@ -2631,34 +2463,34 @@ http://45.92.69.72:8000/play/a0ge
 https://d2ve4fchffi4n1.cloudfront.net/out/v1/df356edd16f3434ab417f2c48cb1d516/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kTXQVRD.png" group-title="PORTUGUESE SPORTS",Eleven Sports 1
-https://webudi.openhd.lol/lb/premium455/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+https://webdi.openhd.lol/ddy1/premium455/index.m3u8?|referer=https://streamservicehd.click/
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MomX4fY.png" group-title="PORTUGUESE SPORTS",Eleven Sports 2
-https://webudi.openhd.lol/lb/premium456/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+https://webdi.openhd.lol/ddy1/premium456/index.m3u8?|referer=https://streamservicehd.click/
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xs4DM6q.png" group-title="PORTUGUESE SPORTS",Eleven Sports 3
-https://webudi.openhd.lol/lb/premium457/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+https://webdi.openhd.lol/ddy1/premium457/index.m3u8?|referer=https://streamservicehd.click/
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/33qWa8r.png" group-title="PORTUGUESE SPORTS",Eleven Sports 4
-https://webudi.openhd.lol/lb/premium458/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+https://webdi.openhd.lol/ddy1/premium458/index.m3u8?|referer=https://streamservicehd.click/
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uwcqzPm.png" group-title="PORTUGUESE SPORTS",Eleven Sports 5
-https://webudi.openhd.lol/lb/premium459/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+https://webdi.openhd.lol/ddy1/premium459/index.m3u8?|referer=https://streamservicehd.click/
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YweD3ZH.png" group-title="PORTUGUESE SPORTS",Eleven Sports 6
 http://62.28.71.186:45678/http/192.168.150.137:7137/eleven6
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pcAhRs8.png" group-title="PORTUGUESE SPORTS",Sport TV 1
-https://webudi.openhd.lol/lb/premium49/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+https://webdi.openhd.lol/ddy1/premium49/index.m3u8?|referer=https://streamservicehd.click/
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CPt6Fsg.png" group-title="PORTUGUESE SPORTS",Sport TV 2
-https://webudi.openhd.lol/lb/premium74/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+https://webdi.openhd.lol/ddy1/premium74/index.m3u8?|referer=https://streamservicehd.click/
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wbhOsK2.png" group-title="PORTUGUESE SPORTS",Sport TV 3
-https://webudi.openhd.lol/lb/premium454/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+https://webdi.openhd.lol/ddy1/premium454/index.m3u8?|referer=https://streamservicehd.click/
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/itYiAnd.png" group-title="PORTUGUESE SPORTS",Sport TV 4
-https://webudi.openhd.lol/lb/premium59/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+https://webdi.openhd.lol/ddy1/premium59/index.m3u8?|referer=https://streamservicehd.click/
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LblSggR.png" group-title="PORTUGUESE SPORTS",Sport TV 5
 http://1tv1.net:8080/live/01007888688/28464975/4185.m3u8
@@ -2683,26 +2515,23 @@ http://58.99.33.16:1935/liveedge17/live_122_3.stream/chunklist.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=40c958ab268862f44ca7169a0a634710&key=d83ccdb2a5a66a9653009dab9490e617
 http://51.79.82.208:16058
 
-#EXTINF:-1 tvg-id="AstroArena2.my" tvg-logo="https://i.imgur.com/meHW06l.png" group-title="MALAY SPORTS",Astro Arena 2
-http://iptvtree.net:8080/F11682/82ca5fbd/287793
-
 #EXTINF:-1 tvg-id="AstroCricket.my" tvg-logo="https://i.imgur.com/DhbmBsD.png" group-title="MALAY SPORTS",Astro Cricket
-https://webudi.openhd.lol/lb/premium370/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+https://webdi.openhd.lol/ddy1/premium370/index.m3u8?|referer=https://streamservicehd.click/
 
 #EXTINF:-1 tvg-id="AstroSuperSport.my" tvg-logo="https://i.imgur.com/X2WVnWr.png" group-title="MALAY SPORTS",Astro Supersport
-https://webudi.openhd.lol/lb/premium123/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+https://webdi.openhd.lol/ddy1/premium123/index.m3u8?|referer=https://streamservicehd.click/
 
 #EXTINF:-1 tvg-id="AstroSuperSport2.my" tvg-logo="https://i.imgur.com/AZQ0xgp.png" group-title="MALAY SPORTS",Astro Supersport 2
-https://webudi.openhd.lol/lb/premium124/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+https://webdi.openhd.lol/ddy1/premium124/index.m3u8?|referer=https://streamservicehd.click/
 
 #EXTINF:-1 tvg-id="AstroSuperSport3.my" tvg-logo="https://i.imgur.com/cMYSM6e.png" group-title="MALAY SPORTS",Astro Supersport 3
-https://webudi.openhd.lol/lb/premium125/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+https://webdi.openhd.lol/ddy1/premium125/index.m3u8?|referer=https://streamservicehd.click/
 
 #EXTINF:-1 tvg-id="AstroSuperSport4.my" tvg-logo="https://i.imgur.com/PlwrDwx.png" group-title="MALAY SPORTS",Astro Supersport 4
-https://webudi.openhd.lol/lb/premium126/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+https://webdi.openhd.lol/ddy1/premium126/index.m3u8?|referer=https://streamservicehd.click/
 
 #EXTINF:-1 tvg-id="AstroSuperSport5.my" tvg-logo="https://i.imgur.com/FieopQP.png" group-title="MALAY SPORTS",Astro Supersport 5
-https://webudi.openhd.lol/lb/premium43/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+https://webdi.openhd.lol/ddy1/premium43/index.m3u8?|referer=https://streamservicehd.click/
 
 #EXTINF:-1 tvg-id="RTMK05" tvg-logo="https://i.imgur.com/8NC0zoQ.png" tvg-url="https://raw.githubusercontent.comc/samleong123/rtm-live/main/rtmklik.xml" group-title="MALAY SPORTS",TV Sukan
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36
@@ -2777,157 +2606,64 @@ https://mn-nl.mncdn.com/blutv_trtspor_2/trtspor.smil/playlist.m3u8
 https://mn-nl.mncdn.com/blutv_trtsporyildiz_2/trtsporyildiz.smil/playlist.m3u8 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1920px-ESPN_wordmark.svg.png" group-title="DUTCH SPORTS",ESPN Nederland
-https://webudi.openhd.lol/lb/premium379/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+https://webdi.openhd.lol/ddy1/premium379/index.m3u8?|referer=https://streamservicehd.click/
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/1280px-ESPN2_logo.svg.png" group-title="DUTCH SPORTS",ESPN 2 Nederland
-https://webudi.openhd.lol/lb/premium386/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+https://webdi.openhd.lol/ddy1/premium386/index.m3u8?|referer=https://streamservicehd.click/
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SrorhG7.png" group-title="DUTCH SPORTS",Ziggo Sport Racing
-https://webudi.openhd.lol/lb/premium396/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+https://webdi.openhd.lol/ddy1/premium396/index.m3u8?|referer=https://streamservicehd.click/
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8DlO0BF.png" group-title="DUTCH SPORTS",Ziggo Sport Select
-https://webudi.openhd.lol/lb/premium393/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+https://webdi.openhd.lol/ddy1/premium393/index.m3u8?|referer=https://streamservicehd.click/
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aufKGRo.png" group-title="DUTCH SPORTS",Ziggo Sport Voetbal
-https://webudi.openhd.lol/lb/premium398/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+https://webdi.openhd.lol/ddy1/premium398/index.m3u8?|referer=https://streamservicehd.click/
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8A0aYWf.png" group-title="SERBIAN SPORTS",Arena Premium 1
-https://webudi.openhd.lol/lb/premium134/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+https://webdi.openhd.lol/ddy1/premium134/index.m3u8?|referer=https://streamservicehd.click/
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/S4EVsjl.png" group-title="SERBIAN SPORTS",Arena Premium 2
-https://webudi.openhd.lol/lb/premium135/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+https://webdi.openhd.lol/ddy1/premium135/index.m3u8?|referer=https://streamservicehd.click/
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uzrDNI5.png" group-title="SERBIAN SPORTS",Arena Premium 3
-https://webudi.openhd.lol/lb/premium139/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+https://webdi.openhd.lol/ddy1/premium139/index.m3u8?|referer=https://streamservicehd.click/
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/50ZGo5V.png" group-title="SERBIAN SPORTS",Arena Sport 1
-https://webudi.openhd.lol/lb/premium429/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+https://webdi.openhd.lol/ddy1/premium429/index.m3u8?|referer=https://streamservicehd.click/
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/V72XapO.png" group-title="SERBIAN SPORTS",Arena Sport 2
-https://webudi.openhd.lol/lb/premium430/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+https://webdi.openhd.lol/ddy1/premium430/index.m3u8?|referer=https://streamservicehd.click/
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Yw1kdh5.png" group-title="SERBIAN SPORTS",Arena Sport 3
-https://webudi.openhd.lol/lb/premium431/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+https://webdi.openhd.lol/ddy1/premium431/index.m3u8?|referer=https://streamservicehd.click/
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/a3Rma7Z.png" group-title="SERBIAN SPORTS",Arena Sport 4
-https://webudi.openhd.lol/lb/premium581/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/oYXOq46.png" group-title="SERBIAN SPORTS",Arena Sport 5
-http://5.206.237.66:9000/play/a074
+https://webdi.openhd.lol/ddy1/premium581/index.m3u8?|referer=https://streamservicehd.click/
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zKcn8DZ.png" group-title="SERBIAN SPORTS",Sport Klub
-https://webudi.openhd.lol/lb/premium453/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+https://webdi.openhd.lol/ddy1/premium453/index.m3u8?|referer=https://streamservicehd.click/
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HjhiW62.png" group-title="SERBIAN SPORTS",Sport Klub 1
-https://webudi.openhd.lol/lb/premium101/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+https://webdi.openhd.lol/ddy1/premium101/index.m3u8?|referer=https://streamservicehd.click/
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bqtc41i.png" group-title="SERBIAN SPORTS",Sport Klub 2
-https://webudi.openhd.lol/lb/premium102/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+https://webdi.openhd.lol/ddy1/premium102/index.m3u8?|referer=https://streamservicehd.click/
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7CvFh8W.png" group-title="SERBIAN SPORTS",Sport Klub 3
-https://webudi.openhd.lol/lb/premium103/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+https://webdi.openhd.lol/ddy1/premium103/index.m3u8?|referer=https://streamservicehd.click/
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5PBRYFZ.png" group-title="SERBIAN SPORTS",Sport Klub 4
-https://webudi.openhd.lol/lb/premium104/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+https://webdi.openhd.lol/ddy1/premium104/index.m3u8?|referer=https://streamservicehd.click/
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/50ZGo5V.png" group-title="CROATIAN SPORTS",Arena Sport 1 Hrvatska
-https://webudi.openhd.lol/lb/premium432/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+https://webdi.openhd.lol/ddy1/premium432/index.m3u8?|referer=https://streamservicehd.click/
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/V72XapO.png" group-title="CROATIAN SPORTS",Arena Sport 2 Hrvatska
-https://webudi.openhd.lol/lb/premium433/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+https://webdi.openhd.lol/ddy1/premium433/index.m3u8?|referer=https://streamservicehd.click/
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Yw1kdh5.png" group-title="CROATIAN SPORTS",Arena Sport 3 Hrvatska
-https://webudi.openhd.lol/lb/premium434/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/a3Rma7Z.png" group-title="CROATIAN SPORTS",Arena Sport 4 Hrvatska
-http://20062016.com:80/turki/turki/114317
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/oYXOq46.png" group-title="CROATIAN SPORTS",Arena Sport 5 Hrvatska
-http://20062016.com:80/turki/turki/114318
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BWFXNI6.png" group-title="CROATIAN SPORTS",Arena Sport 6 Hrvatska
-http://46.29.169.15:4001/play/a007/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HjhiW62.png" group-title="CROATIAN SPORTS",Sport Klub 1 Hrvatska
-http://20062016.com:80/turki/turki/114319
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bqtc41i.png" group-title="CROATIAN SPORTS",Sport Klub 2
-http://20062016.com:80/turki/turki/114320
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7CvFh8W.png" group-title="CROATIAN SPORTS",Sport Klub 3
-http://20062016.com:80/turki/turki/114321
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5PBRYFZ.png" group-title="CROATIAN SPORTS",Sport Klub 4
-http://20062016.com:80/turki/turki/114322
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4mkAAJk.png" group-title="CROATIAN SPORTS",Sport Klub Golf
-http://new-pro.tv:8080/mazen1/123456/101493
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5aQu7EC.png" group-title="UKRAINIAN SPORTS",Setanta Sports +
-http://cdnua06.hls.tv/476/hls/5w0hafzoygbs4tqrjd1mv36i9en2k8lu/4314/stream.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/kO8HYi3.png" group-title="UKRAINIAN SPORTS",Setanta Sports 
-http://cdnua06.hls.tv/476/hls/2bxhsag8zeu9d5kpvmt16wc4lo0nqfy7/291/stream.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/M6k6iwU.png" group-title="UKRAINIAN SPORTS",Sport 1
-http://193.111.244.35:8001/sport1/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/%D0%A2%D0%B5%D0%BB%D0%B5%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB_XSPORT.png" group-title="UKRAINIAN SPORTS",XSport
-http://cdnua06.hls.tv/476/hls/124368qulm0eovzsrxtdky5hcwfj7pna/3999/stream.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gwV31E0.png" group-title="RUSSIAN SPORTS",Eurosport 1
-https://sc.id-tv.kz/Eurosport_1HD_34_35.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/lTnKDju.png" group-title="RUSSIAN SPORTS",Eurosport 2
-https://sc.id-tv.kz/Eurosport_2HD_34_35.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/UlsXKUP.png" group-title="RUSSIAN SPORTS",Extreme Sports
-https://sc.id-tv.kz/ExtremeSportsHD_34_35.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/nnUATx1.png" group-title="RUSSIAN SPORTS",Матч!
-https://webudi.openhd.lol/lb/premium127/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7DVDRLz.png" group-title="RUSSIAN SPORTS",Матч! Арена
-http://mfe.cliptv.az/dash/Match_Arena_HD.ism/playlist.mpd
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MsZ2Zks.png" group-title="RUSSIAN SPORTS",Матч! Футбол 1
-http://95.183.43.237:8080/258/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YsQjzj4.png" group-title="RUSSIAN SPORTS",Матч! Футбол 2
-http://95.183.43.237:8080/259/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZkIcKWs.png" group-title="RUSSIAN SPORTS",Матч! Футбол 3
-http://95.183.43.237:8080/260/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8qmWLBO.png" group-title="RUSSIAN SPORTS",Матч! Боец
-https://webudi.openhd.lol/lb/premium395/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ru/1/13/%D0%9C%D0%B0%D1%82%D1%87%21_%D0%98%D0%B3%D1%80%D0%B0.png" group-title="RUSSIAN SPORTS",Матч! Игра
-http://46.174.83.66/Match_Igra/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sMxyONa.png" group-title="RUSSIAN SPORTS",Матч! Страна
-https://bl.uma.media/live/291661/HLS/4614144_3,2883584_2,1153024_1/1613109268/2fb2de98a984b4b86bc2cdd980da3430/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2KtY4Nl.png" group-title="RUSSIAN SPORTS",Матч! Премьер
-https://mfe02.cliptv.az/dash/Match_Premyer_HD.ism/playlist.mpd
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mScs4Yk.png" group-title="RUSSIAN SPORTS",Матч! Планета
-https://sc.id-tv.kz/MatchPlaneta_36_37.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NYV5fki.png" group-title="RUSSIAN SPORTS",Мир баскетбола
-http://46.174.83.66/MirBasketbola/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YoGHrRv.png" group-title="RUSSIAN SPORTS",Русский экстрим
-http://193.33.240.8:8080/rus-extrim/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0TYhPGI.png" group-title="RUSSIAN SPORTS",Setanta Sports 1
-https://bal.varcdn.top/setanta1/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/nUGCiAb.png" group-title="RUSSIAN SPORTS",Setanta Sports 2
-https://bal.varcdn.top/setanta2/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XodgpkR.png" group-title="RUSSIAN SPORTS",Viasat Sport
-https://cdnua06.hls.tv/476/hls/061df9d47a31d5ffeeee40bbf3333deb/330/stream.m3u8
+https://webdi.openhd.lol/ddy1/premium434/index.m3u8?|referer=https://streamservicehd.click/
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fOOqLPb.png" group-title="LATINO SPORTS",Claro Sports
 https://d3q84yclyte826.cloudfront.net/out/v1/47af0926366f47cea7661fa9c13ff203/index.m3u8
@@ -2939,13 +2675,13 @@ https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/playlist.m3u8
 https://d3junmnzdfp8ej.cloudfront.net/hls/tv_720p30.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xgLeXwi.png" group-title="LATINO SPORTS",ESPN Premium
-https://webudi.openhd.lol/lb/premium387/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+https://webdi.openhd.lol/lb/premium387/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1920px-ESPN_wordmark.svg.png" group-title="LATINO SPORTS",ESPN Latin America
-https://webudi.openhd.lol/lb/premium149/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+https://webdi.openhd.lol/ddy1/premium149/index.m3u8?|referer=https://streamservicehd.click/
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/1280px-ESPN2_logo.svg.png" group-title="LATINO SPORTS",ESPN 2 Latin America
-https://webudi.openhd.lol/lb/premium150/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+https://webdi.openhd.lol/ddy1/premium150/index.m3u8?|referer=https://streamservicehd.click/
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Crvxgth.png" group-title="LATINO SPORTS",ESPN 3 Latin America
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -3041,121 +2777,58 @@ http://haiskafaisca.b-cdn.net/live/premiereclubes/chunks.m3u8
 http://haiskafaisca.b-cdn.net/live/sportv/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AAdoNsr.png" group-title="BRASILIAN SPORTS",SporTV 2
-https://webudi.openhd.lol/lb/premium79/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+https://webdi.openhd.lol/ddy1/premium79/index.m3u8?|referer=https://streamservicehd.click/
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RcpUcYG.png" group-title="BRASILIAN SPORTS",SporTV 3
-https://webudi.openhd.lol/lb/premium80/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1920px-ESPN_wordmark.svg.png" group-title="AFRICAN SPORTS",ESPN Africa
-http://20062016.com:80/turki/turki/107166
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/1280px-ESPN2_logo.svg.png" group-title="AFRICAN SPORTS",ESPN 2 Africa
-http://20062016.com:80/turki/turki/107167
+https://webdi.openhd.lol/ddy1/premium80/index.m3u8?|referer=https://streamservicehd.click/
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XO9yr6R.png" group-title="AFRICAN SPORTS",Supersport Action Africa
-https://webudi.openhd.lol/lb/premium420/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/OOSoHfD.png" group-title="AFRICAN SPORTS",Supersport Blitz Africa
-http://iptvtree.net:8080/ace2524d/15a571c413/281536
+https://webdi.openhd.lol/ddy1/premium420/index.m3u8?|referer=https://streamservicehd.click/
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nCzOSks.png" group-title="AFRICAN SPORTS",Supersport Cricket Africa
-https://webudi.openhd.lol/lb/premium368/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+https://webdi.openhd.lol/ddy1/premium368/index.m3u8?|referer=https://streamservicehd.click/
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Vt3RvFA.png" group-title="AFRICAN SPORTS",Supersport Football Africa
-https://webudi.openhd.lol/lb/premium56/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+https://webdi.openhd.lol/ddy1/premium56/index.m3u8?|referer=https://streamservicehd.click/
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YcxFkX8.png" group-title="AFRICAN SPORTS",Supersport Golf Africa
-https://webudi.openhd.lol/lb/premium422/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+https://webdi.openhd.lol/ddy1/premium422/index.m3u8?|referer=https://streamservicehd.click/
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3bXUFkP.png" group-title="AFRICAN SPORTS",Supersport Grandstand Africa
-https://webudi.openhd.lol/lb/premium412/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+https://webdi.openhd.lol/ddy1/premium412/index.m3u8?|referer=https://streamservicehd.click/
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qavBxmu.png" group-title="AFRICAN SPORTS",Supersport LaLiga Africa
-https://webudi.openhd.lol/lb/premium415/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+https://webdi.openhd.lol/ddy1/premium415/index.m3u8?|referer=https://streamservicehd.click/
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Vgt96sG.png" group-title="AFRICAN SPORTS",Supersport Máximo 1 Africa
-https://webudi.openhd.lol/lb/premium572/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+https://webdi.openhd.lol/ddy1/premium572/index.m3u8?|referer=https://streamservicehd.click/
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/37EjPV3.png" group-title="AFRICAN SPORTS",Supersport Motorsport Africa
-https://webudi.openhd.lol/lb/premium424/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+https://webdi.openhd.lol/ddy1/premium424/index.m3u8?|referer=https://streamservicehd.click/
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jIjBIhH.png" group-title="AFRICAN SPORTS",Supersport Premier League Africa
-https://webudi.openhd.lol/lb/premium414/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+https://webdi.openhd.lol/ddy1/premium414/index.m3u8?|referer=https://streamservicehd.click/
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cXB0iFd.png" group-title="AFRICAN SPORTS",Supersport PSL
-https://webudi.openhd.lol/lb/premium413/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+https://webdi.openhd.lol/ddy1/premium413/index.m3u8?|referer=https://streamservicehd.click/
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sglWngc.png" group-title="AFRICAN SPORTS",Supersport Rugby Africa
-https://webudi.openhd.lol/lb/premium421/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+https://webdi.openhd.lol/ddy1/premium421/index.m3u8?|referer=https://streamservicehd.click/
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uBflRxR.png" group-title="AFRICAN SPORTS",Supersport Tennis Africa
-https://webudi.openhd.lol/lb/premium423/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+https://webdi.openhd.lol/ddy1/premium423/index.m3u8?|referer=https://streamservicehd.click/
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LD6Yrnx.png" group-title="AFRICAN SPORTS",Supersport Variety 1 Africa
-https://webudi.openhd.lol/lb/premium416/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+https://webdi.openhd.lol/ddy1/premium416/index.m3u8?|referer=https://streamservicehd.click/
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/samKsMn.png" group-title="AFRICAN SPORTS",Supersport Variety 2 Africa
-https://webudi.openhd.lol/lb/premium417/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+https://webdi.openhd.lol/ddy1/premium417/index.m3u8?|referer=https://streamservicehd.click/
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/neD5gBe.png" group-title="AFRICAN SPORTS",Supersport Variety 3 Africa
-https://webudi.openhd.lol/lb/premium418/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+https://webdi.openhd.lol/ddy1/premium418/index.m3u8?|referer=https://streamservicehd.click/
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Xn5UCd8.png" group-title="AFRICAN SPORTS",Supersport Variety 4 Africa
-https://webudi.openhd.lol/lb/premium419/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/lzmhX3a.png" group-title="AFRICAN SPORTS",WWE Channel
-http://20062016.com:80/turki/turki/107169
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b2/AbuDhabiSports2020.jpg" group-title="ARABIC SPORTS",Abu Dhabi Sports 1
-http://5gfksa.ltd:2052/991155/551199/156393
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b2/AbuDhabiSports2020.jpg" group-title="ARABIC SPORTS",Abu Dhabi Sports 2
-http://5gfksa.ltd:2052/991155/551199/156391
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b2/AbuDhabiSports2020.jpg" group-title="ARABIC SPORTS",Abu Dhabi Sports 3
-http://5gfksa.ltd:2052/991155/551199/156390
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b2/AbuDhabiSports2020.jpg" group-title="ARABIC SPORTS",Abu Dhabi Sports Premium 1
-http://5gfksa.ltd:2052/991155/551199/178748
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b2/AbuDhabiSports2020.jpg" group-title="ARABIC SPORTS",Abu Dhabi Sports Premium 2
-http://5gfksa.ltd:2052/991155/551199/178749
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/yHuUkO0.png" group-title="ARABIC SPORTS",Yas
-https://admdn1.cdn.mangomolo.com/yastv/smil:yastv.stream.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/ae-dubai-racing-7016.jpg" group-title="ARABIC SPORTS",Dubai Racing
-http://5gfksa.ltd:2052/991155/551199/42021
-
-#EXTINF:-1 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/ae-dubai-racing-7016.jpg" group-title="ARABIC SPORTS",Dubai Racing 2
-http://5gfksa.ltd:2052/991155/551199/15999
-
-#EXTINF:-1 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/ae-dubai-racing-7016.jpg" group-title="ARABIC SPORTS",Dubai Racing 3
-http://5gfksa.ltd:2052/991155/551199/15998
-
-#EXTINF:-1 tvg-logo="https://www.dubaisports.ae/content/dam/dubaisports/logos/brand/011019/logo.png" group-title="ARABIC SPORTS",Dubai Sports
-http://5gfksa.ltd:2052/991155/551199/85592
-
-#EXTINF:-1 tvg-logo="https://www.dubaisports.ae/content/dam/dubaisports/logos/brand/011019/logo.png" group-title="ARABIC SPORTS",Dubai Sports 2
-http://5gfksa.ltd:2052/991155/551199/51902
-
-#EXTINF:-1 tvg-logo="https://www.dubaisports.ae/content/dam/dubaisports/logos/brand/011019/logo.png" group-title="ARABIC SPORTS",Dubai Sports 3
-http://5gfksa.ltd:2052/991155/551199/51901
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9cDvxwA.png" group-title="ARABIC SPORTS",SSC 1
-http://5gfksa.ltd:2052/991155/551199/136042
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9cDvxwA.png" group-title="ARABIC SPORTS",SSC 2
-http://5gfksa.ltd:2052/991155/551199/198406
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9cDvxwA.png" group-title="ARABIC SPORTS",SSC 3
-http://5gfksa.ltd:2052/991155/551199/157128
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9cDvxwA.png" group-title="ARABIC SPORTS",SSC 4
-http://5gfksa.ltd:2052/991155/551199/199283
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9cDvxwA.png" group-title="ARABIC SPORTS",SSC 5
-http://5gfksa.ltd:2052/991155/551199/199287
+https://webdi.openhd.lol/ddy1/premium419/index.m3u8?|referer=https://streamservicehd.click/
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/E3OjM1k.png" group-title="VIETNAMESE SPORTS",HTV Thể Thao
 http://sv1.cvacetv.ga:8080/htvtt
@@ -3534,7 +3207,7 @@ https://v-ny.mybtv.net/live/554/1280x720.m3u8
 https://v-ny.mybtv.net/live/545/1280x720.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/E%21_Logo_2012.svg/320px-E%21_Logo_2012.svg.png" group-title="USA",E! East
-https://webudi.openhd.lol/lb/premium315/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+https://webdi.openhd.lol/ddy1/premium315/index.m3u8?|referer=https://streamservicehd.click/
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Q6AoC5h.png" group-title="USA",Fox East
 https://v-ny.mybtv.net/live/550/1280x720.m3u8
@@ -3546,10 +3219,10 @@ https://v-ny.mybtv.net/live/548/1280x720.m3u8
 https://v-ny.mybtv.net/live/575/1280x720.m3u8
 
 #EXTINF:-1 tvg-id="TBSEast.us" tvg-logo="https://i.imgur.com/upM99h1.png" group-title="USA",TBS East
-https://webudi.openhd.lol/lb/premium336/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+https://webdi.openhd.lol/ddy1/premium336/index.m3u8?|referer=https://streamservicehd.click/
 
 #EXTINF:-1 tvg-id="TNTEast.us" tvg-logo="https://i.imgur.com/umJbqNY.png" group-title="USA",TNT East
-https://webudi.openhd.lol/lb/premium338/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+https://webdi.openhd.lol/ddy1/premium338/index.m3u8?|referer=https://streamservicehd.click/
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ydm3Ss2.png" group-title="USA",Telemundo Este
 https://v-ny.mybtv.net/live/659/1280x720.m3u8
@@ -3561,37 +3234,25 @@ https://v-ny.mybtv.net/live/562/1280x720.m3u8
 https://v-ny.mybtv.net/live/643/1280x720.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Logo_UniM%C3%A1s_2021.svg/1920px-Logo_UniM%C3%A1s_2021.svg.png" group-title="USA",Unimás
-https://webudi.openhd.lol/lb/premium133/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+https://webdi.openhd.lol/ddy1/premium133/index.m3u8?|referer=https://streamservicehd.click/
 
 #EXTINF:-1 tvg-id="USANetworkEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/1920px-USA_Network_logo_%282016%29.svg.png" group-title="USA",USA Network East
-https://webudi.openhd.lol/lb/premium343/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
-
-#EXTINF:-1 tvg-id="BBCAlba.uk" tvg-logo="https://i.imgur.com/Nvme1rf.png" group-title="UK",BBC Alba
-http://1tv1.net:8080/live/01007888688/28464975/84733.m3u8
+https://webdi.openhd.lol/ddy1/premium343/index.m3u8?|referer=https://streamservicehd.click/
 
 #EXTINF:-1 tvg-id="BBCOneHD.uk" tvg-logo="https://i.imgur.com/oGzLsiq.png" group-title="UK",BBC One HD
-https://webudi.openhd.lol/lb/premium356/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+https://webdi.openhd.lol/ddy1/premium356/index.m3u8?|referer=https://streamservicehd.click/
 
 #EXTINF:-1 tvg-id="BBCTwoHD.uk" tvg-logo="https://i.imgur.com/iMfng6J.png" group-title="UK",BBC Two HD
-https://webudi.openhd.lol/lb/premium357/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gcpSDKf.png" group-title="UK",BBC Three
-http://1tv1.net:8080/live/01007888688/28464975/9314.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/nywptTp.png" group-title="UK",BBC Four
-http://1tv1.net:8080/live/01007888688/28464975/9283.m3u8
-
-#EXTINF:-1 tvg-id="BBCFour.uk" tvg-logo="https://i.imgur.com/kr2UTHB.png" group-title="UK",BBC Scotland
-http://iptv12k.com:35461/live/80301070602/456776/5434.m3u8
+https://webdi.openhd.lol/ddy1/premium357/index.m3u8?|referer=https://streamservicehd.click/
 
 #EXTINF:-1 tvg-id="CBBC.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/37/CBBC_2016_logo.svg/800px-CBBC_2016_logo.svg.png" group-title="UK",CBBC
 http://ott.riotelecomm.es:4513/m3u8/CBBCHDFIBRA.m3u8
 
 #EXTINF:-1 tvg-id="Channel4.uk" tvg-logo="https://i.imgur.com/r0sl8tu.png" group-title="UK",Channel 4
-https://webudi.openhd.lol/lb/premium354/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+https://webdi.openhd.lol/ddy1/premium354/index.m3u8?|referer=https://streamservicehd.click/
 
 #EXTINF:-1 tvg-id="Channel5.uk" tvg-logo="https://i.imgur.com/itZR2eq.png" group-title="UK",Channel 5
-https://webudi.openhd.lol/lb/premium355/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+https://webdi.openhd.lol/ddy1/premium355/index.m3u8?|referer=https://streamservicehd.click/
 
 #EXTINF:-1 tvg-id="E4UK.uk" tvg-logo="https://i.imgur.com/yny6n9T.png" group-title="UK",E4 UK
 http://45.153.35.210:8000/play/UK_e4_sd/index.m3u8
@@ -3603,7 +3264,7 @@ http://45.153.35.210:8000/play/UK_great_tv_sd/index.m3u8
 http://45.153.35.210:8000/play/UK_more_4_sd/index.m3u8
 
 #EXTINF:-1 tvg-id="ITV.uk" tvg-logo="https://i.imgur.com/zDy4GA4.png" group-title="UK",ITV1
-https://webudi.openhd.lol/lb/premium350/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+https://webdi.openhd.lol/ddy1premium350/index.m3u8?|referer=https://streamservicehd.click/
 
 #EXTINF:-1 tvg-id="ITV2.uk" tvg-logo="https://i.imgur.com/nrPCxFs.png" group-title="UK",ITV2
 http://ott.riotelecomm.es:4513/m3u8/ITV2FIBRA.m3u8
@@ -3613,9 +3274,6 @@ http://ott.riotelecomm.es:4513/m3u8/ITV3FIBRA.m3u8
 
 #EXTINF:-1 tvg-id="ITV4.uk" tvg-logo="https://i.imgur.com/ZsUlo9M.png" group-title="UK",ITV4
 http://ott.riotelecomm.es:4513/m3u8/ITV4FIBRA.m3u8
-
-#EXTINF:-1 tvg-id="S4C.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/S4C_logo_2014.svg/1024px-S4C_logo_2014.svg.png" group-title="UK",S4C
-http://iptv12k.com:35461/live/80301070602/456776/5431.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RKkYHR9.png" group-title="ARGENTINA",América TV
 https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
@@ -3638,21 +3296,6 @@ http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/playlist.m3u8?PlaylistM3
 #EXTINF:-1 tvg-logo="https://i.imgur.com/srtddlN.png" group-title="ARGENTINA",TV Publica
 https://delivery.cdn.rcs.net.ar/mnp/tvp/output.mpd
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Seven_Network_logo.svg/800px-Seven_Network_logo.svg.png" group-title="AUSTRALIA",Seven
-http://live-vn.cvacetv.ga:9981/stream/channelid/546601414?profile=ace
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/52/Nine2012_Glossed_Logo.png" group-title="AUSTRALIA",Nine
-http://live-vn.cvacetv.ga:9981/stream/channelid/1761146754?profile=ace
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BwfInJN.png" group-title="AUSTRALIA",9 Gem
-http://live-vn.cvacetv.ga:9981/stream/channelid/196530261?profile=ace
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/86/Network_10_logo_2018.svg/800px-Network_10_logo_2018.svg.png" group-title="AUSTRALIA",Ten
-http://live-vn.cvacetv.ga:9981/stream/channelid/944362278?profile=ace
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/10_Bold_2018.svg/1920px-10_Bold_2018.svg.png" group-title="AUSTRALIA",10 Bold
-http://live-vn.cvacetv.ga:9981/stream/channelid/740854633?profile=ace
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UL4rFrR.png" group-title="AUSTRALIA",ABC Me
 https://c.mjh.nz/101002210224
 
@@ -3661,9 +3304,6 @@ https://c.mjh.nz/101002210221
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cavkp7M.png" group-title="AUSTRALIA",ABC TV Plus
 https://c.mjh.nz/abc2
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/JjL3rq1.png" group-title="AUSTRALIA",SBS One
-http://live-vn.cvacetv.ga:9981/stream/channelid/57280988?profile=ace
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/VRT_Canvas_logo.svg/langfr-1920px-VRT_Canvas_logo.svg.png" group-title="BELGIUM",Canvas
 https://live-vrt.akamaized.net/groupc/live/14a2c0f6-3043-4850-88a5-7fb062fe7f05/live_aes.isml/playlist.m3u8
@@ -3682,18 +3322,6 @@ http://rtltvi-lh.akamaihd.net/i/TVI_1@319659/master.m3u8?checkedby:hlscat.com
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1c/Tipikrtbf.png" group-title="BELGIUM",Tipik
 http://callofliberty.fr/stream/TiPiK/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/VTM_2020.svg/1920px-VTM_2020.svg.png" group-title="BELGIUM",VTM
-http://myf-tv.com:8080/live/n4Zy3HzefWfE3CU/Xt8MNZ97hx4u2F0/61534.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/42/VTM_2_Logo.png" group-title="BELGIUM",VTM 2
-http://myf-tv.com:8080/live/n4Zy3HzefWfE3CU/Xt8MNZ97hx4u2F0/66761.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/29/VTM_3_Logo.png" group-title="BELGIUM",VTM 3
-http://myf-tv.com:8080/live/n4Zy3HzefWfE3CU/Xt8MNZ97hx4u2F0/61530.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/VTM_4_Logo.png" group-title="BELGIUM",VTM 4
-http://iptvtree.net:8080/live/iptvromania2020/31e75bff/1956.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Rede_Bandeirantes_logo_2018.svg/1920px-Rede_Bandeirantes_logo_2018.svg.png" group-title="BRASIL",Band São Paulo
 http://168.205.87.198:8555/live/4666/123456/19.m3u8
@@ -3817,12 +3445,6 @@ http://callofliberty.fr/stream/TMC/master.m3u8
 #EXTINF:-1 tvg-id="W9.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/W9_2018.svg/1920px-W9_2018.svg.png" group-title="FRANCE",W9
 http://callofliberty.fr/stream/w9/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/ProSieben_Logo_2015.svg/800px-ProSieben_Logo_2015.svg.png" group-title="GERMANY",ProSieben Deutschland
-https://s6.hopslan.com/pro7q1/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DObtzRS.png" group-title="GERMANY",ProSieben Maxx
-https://s6.hopslan.com/pro7maxxv/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/RTL_DE_Logo_2021_blau_petrol_lila.png" group-title="GERMANY",RTL Deutschland
 http://80.24.75.92:5555/udp/239.110.17.1:1234
 
@@ -3834,9 +3456,6 @@ http://80.24.75.92:5555/udp/239.110.20.1:1234
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Super_RTL_2019.png" group-title="GERMANY",Super RTL Deutschland
 http://80.24.75.92:5555/udp/239.110.17.3:1234
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/ZDF_logo.svg/1920px-ZDF_logo.svg.png" group-title="GERMANY",ZDF
-https://s6.hopslan.com/zdfg1/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/txSfwGs.png" group-title="GREECE",Mega TV HD
 https://streamcdnh3-c98db5952cb54b358365984178fb898a.msvdn.net/live/S86713049/gonOwuUacAxM/playlist.m3u8
@@ -3882,19 +3501,13 @@ https://dx4452e0qv6r9.cloudfront.net/tg4_vod_national_3000_.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e4/RT%C3%89_One_2014.svg/1920px-RT%C3%89_One_2014.svg.png" group-title="IRELAND",RTÉ One
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#EXTVLCOPT:http-referrer=https://eplayer.click/
-https://best2.globalweb.ru.com/cdn/premium364/mono.m3u8
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/
+https://webdi.openhd.lol/ddy1/premium364/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/11/RT%C3%892_logo.svg/1920px-RT%C3%892_logo.svg.png" group-title="IRELAND",RTÉ2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#EXTVLCOPT:http-referrer=https://eplayer.click/
-https://best2.globalweb.ru.com/cdn/premium365/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c9/Virgin_Media_One_logo.png" group-title="IRELAND",Virgin Media One
-http://iptv12k.com:35461/live/80301070602/456776/5297.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4f/Virgin_Media_Two_logo.png" group-title="IRELAND",Virgin Media Two
-http://iptv12k.com:35461/live/80301070602/456776/5370.m3u8
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/
+https://webdi.openhd.lol/ddy1/premium365/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/LA7_-_Logo_2011.svg/1024px-LA7_-_Logo_2011.svg.png" group-title="ITALY",La 7
 https://d15umi5iaezxgx.cloudfront.net/LA7/CLN/HLS/Live_1280x720_.m3u8
@@ -4052,75 +3665,35 @@ http://80.24.75.92:5555/udp/239.111.2.2:1234
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/c8Rk43x.png" group-title="NETHERLANDS",RTL 7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#EXTVLCOPT:http-referrer=https://eplayer.click/
-https://best2.globalweb.ru.com/cdn/premium390/mono.m3u8
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/
+https://webdi.openhd.lol/ddy1/premium390/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/92/RTL_8_logo_2017.png" group-title="NETHERLANDS",RTL 8
 http://80.24.75.92:5555/udp/239.111.2.4:1234
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yQ3irXL.png" group-title="NETHERLANDS",SBS 6
 http://80.24.75.92:5555/udp/239.111.1.2:1234
-
+https://streamservicehd.click/
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f5/SBS9_New_Logo_2018.png" group-title="NETHERLANDS",SBS 9
 http://80.24.75.92:5555/udp/239.111.3.1:1234
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WeMtQ9y.png" group-title="PHILIPPINES",Net 25
-http://user.scalecdn.co:8080/live/Ken/Ken/567730.ts
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QTHVWGZ.png" group-title="PHILIPPINES",Cine Mo!
 https://abscbn-ono.akamaized.net/midroll/amagi_hls_data_abscbnAAA-abscbn-cinemo/CDN/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4ZzriHo.png" group-title="PHILIPPINES",A2Z Channel 11
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=7f6b9c6ae27f4898918a7d403c14064b&key=6d8780fe25a690e926b1f71bff1c5505
-https://subfvj7tzt.akamaized.net/out/u/3015.mpd
-
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/b/bf/Kapamilya_Channel_%282020-.n.v.%29.png" group-title="PHILIPPINES",Kapamilya Channel
 https://abscbn-ono.akamaized.net/midroll/amagi_hls_data_abscbnAAA-abscbn-kapcha/CDN/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.gmanetwork.com/res/portal_revamp/img/logo.png" group-title="PHILIPPINES",GMA
-http://dmtn.tv:8080/play/_2QOr27LB-QLALpzQgGGZGwmLnaC1JFygdnYJ4RK6U-WADQew3hecSZ-wn-iMmQqa_oZLNtM36mNf-l0nubMECT1nlMd1CT_idbmuYrkK1jMmiQqLHmoo7Nuj1U3urpp_XGsiR7rFRbq4roDe-PMwsAYziZLmqsA_GsOy5cM_ls
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/40/GTV_Philippines_Logo_Vector.svg/1280px-GTV_Philippines_Logo_Vector.svg.png" group-title="PHILIPPINES",GTV
-http://103.105.213.251:8443/live/CpXvMHd1YHNLwJ-hz7jjXw/1661518126/7.m3u8
-
-#EXTINF:-1 tvg-id="JeepneyTV.ph" tvg-logo="https://i.imgur.com/szxwQBn.png" group-title="PHILIPPINES",Jeepney TV
-http://103.105.213.251:8443/live/CpXvMHd1YHNLwJ-hz7jjXw/1661518126/76.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NELaZ3P.png" group-title="PHILIPPINES",Buko
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=714ab72f5cc64862ad3f16387250ba56&key=0263e9e2dd6e491cb7c7a20ccb6ca198
-https://5sgx6pvt5d.akamaized.net/out/u/10842.mpd
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wy3Q2iq.png" group-title="PHILIPPINES",Sari Sari Channel
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=553f89544e9b45c4829f9ffba830a299&key=67817b1f77d8549037fd01ee271ef29a
-https://5sgx6pvt5d.akamaized.net/out/u/3094.mpd
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/People%27s_Televsion_Network_Incorporated_%28PTV%29.svg/1200px-People%27s_Televsion_Network_Incorporated_%28PTV%29.svg.png" group-title="PHILIPPINES",PTV
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=5211e8006c1e4a8a866cb84ec46f6fef&key=767dcfaa4760dea862fd8c73050c2f7f
-https://subfvj7tzt.akamaized.net/out/u/3020.mpd
-
-#EXTINF:-1 tvg-logo="https://www.tv5.com.ph/assets/images/five-logo-red.png" group-title="PHILIPPINES",TV5
-https://raw.githubusercontent.com/fotvnetwork/iptv-free/master/M3U8/Locals/tv5.m3u8
-
-#EXTINF:-1 tvg-id="IBC13.ph" tvg-logo="https://i.imgur.com/xLzZalM.png" group-title="PHILIPPINES",IBC 13
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=bb42c85942a24f0caaa66344baef53c1&key=972f4d0bc8bf67de7dd649a88bd13a78
-https://vUUhy5R74t.akamaized.net/out/u/3045.mpd
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Polsat_2021_gradient.svg/1200px-Polsat_2021_gradient.svg.png" group-title="POLAND",Polsat
-https://webudi.openhd.lol/lb/premium562/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+https://webdi.openhd.lol/ddy1/premium562/index.m3u8?|referer=https://streamservicehd.click/
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/TVN_logo.svg/1200px-TVN_logo.svg.png" group-title="POLAND",TVN
-https://webudi.openhd.lol/lb/premium565/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+https://webdi.openhd.lol/ddy1/premium565/index.m3u8?|referer=https://streamservicehd.click/
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TVP1_2021_box-1.svg/1920px-TVP1_2021_box-1.svg.png" group-title="POLAND",TVP 1
-https://webudi.openhd.lol/lb/premium560/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+https://webdi.openhd.lol/ddy1/premium560/index.m3u8?|referer=https://streamservicehd.click/
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/TVP2_2021_box-1.svg/1920px-TVP2_2021_box-1.svg.png" group-title="POLAND",TVP 2
-https://webudi.openhd.lol/lb/premium561/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+https://webdi.openhd.lol/ddy1/premium561/index.m3u8?|referer=https://streamservicehd.click/
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/RTP1_-_Logo_2016.svg/1920px-RTP1_-_Logo_2016.svg.png" group-title="PORTUGAL",RTP 1
 #KODIPROP:inputstream=inputstream.adaptive
@@ -4184,22 +3757,22 @@ http://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/chunklist_b1703000.m3u8
 https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
 
 #EXTINF:-1 tvg-id="Antena3.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Antena_3_%282017%29.svg/1024px-Antena_3_%282017%29.svg.png" group-title="SPAIN",Antena 3
-https://webudi.openhd.lol/lb/premium531/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+https://webdi.openhd.lol/ddy1/premium531/index.m3u8?|referer=https://streamservicehd.click/
 
 #EXTINF:-1 tvg-id="Cuatro.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Cuatro.svg/1920px-Cuatro.svg.png" group-title="SPAIN",Cuatro
-https://webudi.openhd.lol/lb/premium535/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+https://webdi.openhd.lol/ddy1/premium535/index.m3u8?|referer=https://streamservicehd.click/
 
 #EXTINF:-1 tvg-id="La1.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Logo_TVE-1.svg/1024px-Logo_TVE-1.svg.png" group-title="SPAIN",La 1
-https://webudi.openhd.lol/lb/premium533/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+https://webdi.openhd.lol/ddy1/premium533/index.m3u8?|referer=https://streamservicehd.click/
 
 #EXTINF:-1 tvg-id="La2.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Logo_TVE-2.svg/1024px-Logo_TVE-2.svg.png" group-title="SPAIN",La 2
-https://webudi.openhd.lol/lb/premium536/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+https://webdi.openhd.lol/ddy1/premium536/index.m3u8?|referer=https://streamservicehd.click/
 
 #EXTINF:-1 tvg-id="LaSexta.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/La_Sexta_%28A3M%29.svg/188px-La_Sexta_%28A3M%29.svg.png" group-title="SPAIN",La Sexta
-https://webudi.openhd.lol/lb/premium534/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+https://webdi.openhd.lol/ddy1/premium534/index.m3u8?|referer=https://streamservicehd.click/
 
 #EXTINF:-1 tvg-id="Telecinco.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Telecinco_2012_Large.svg/800px-Telecinco_2012_Large.svg.png" group-title="SPAIN",Telecinco
-https://webudi.openhd.lol/lb/premium532/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+https://webdi.openhd.lol/ddy1/premium532/index.m3u8?|referer=https://streamservicehd.click/
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/8/8a/CTS_Logo.png" group-title="TAIWAN",CTS 華視
 rtmp://59.124.75.157/sat/tv111
