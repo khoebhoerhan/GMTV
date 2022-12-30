@@ -684,21 +684,13 @@ https://derste247liveint.akamaized.net/hls/live/662735/daserste_int/master.m3u8
 #EXTINF:-1 tvg-id="TheFilipinoChannelAsia.us" tvg-logo="https://i.imgur.com/SsTaXe8.png" group-title="PINOY ENTERTAINMENT",TFC Asia-Pacific
 https://tfcguam2-abscbn-ono.amagi.tv/index_5.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/TapTV-ph.png" group-title="PINOY ENTERTAINMENT",TAP TV
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=ea13006a107d435bb8c0a9bc65aa51d6&key=1aba1eb992ef22dca4f9c8ef9b3dc19f
-https://ycMdjSbYby.akamaized.net/out/u/12507.mpd
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/yR6skS4.png" group-title="PINOY ENTERTAINMENT",TAP Edge
-https://bit.ly/FEITAN-TAP-EDGE
-
 #EXTINF:-1 tvg-id="RaiItalia.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Rai_Italia_-_Logo_2017.svg/1920px-Rai_Italia_-_Logo_2017.svg.png" group-title="EUROPEAN ENTERTAINMENT",Rai Italia
 http://rr3.dens.tv/s/s63/index2.m3u8
 
 #EXTINF:-1 tvg-id="RTPInternacional.pt" tvg-logo="https://i.imgur.com/H4NjQUJ.png" group-title="EUROPEAN ENTERTAINMENT",RTP Internacional
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8|user-agent=Opera
+https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8|user-agent="RTP-Play"
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9d/LBC_INTERNATIONAL.png" group-title="WORLD ENTERTAINMENT",LBC International
 https://shls-lbci-prod-dub.shahid.net/out/v1/d8cce30036e743318a7f338539689968/index.m3u8
@@ -1706,7 +1698,7 @@ http://45.92.69.72:8001/play/a03x
 #EXTINF:-1 tvg-id="RTP3.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Rtp3.png/1920px-Rtp3.png" group-title="PORTUGUESE NEWS",RTP 3
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-https://streaming-live.rtp.pt/livetvhlsDVR/rtpnHDdvr.smil/playlist.m3u8|user-agent=Opera
+https://streaming-live-app.rtp.pt/liverepeater/smil:rtpnHD.smil/rtp_playlist.m3u8|user-agent="RTP-Play"
 
 #EXTINF:-1 tvg-id="ARTVCanalParlemento.pt" tvg-logo="https://i.imgur.com/wfOFbMy.png" group-title="PARLIAMENTARY",AR TV Canal Parlemento
 https://playout172.livextend.cloud/liveiframe/_definst_/ngrp:liveartvabr_abr/playlist.m3u8
@@ -2444,16 +2436,16 @@ https://webdi.openhd.lol/ddy1/premium74/index.m3u8?|referer=https://streamservic
 https://webdi.openhd.lol/ddy1/premium454/index.m3u8?|referer=https://streamservicehd.click/
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/itYiAnd.png" group-title="PORTUGUESE SPORTS",Sport TV 4
-https://webdi.openhd.lol/ddy1/premium59/index.m3u8?|referer=https://streamservicehd.click/
+http://udashboard.vip:8080/Akeriptv76/BknNtsYXxV/74423.ts
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LblSggR.png" group-title="PORTUGUESE SPORTS",Sport TV 5
-http://1tv1.net:8080/live/01007888688/28464975/4185.m3u8
+http://udashboard.vip:8080/Akeriptv76/BknNtsYXxV/74424.ts
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RbFoVdH.png" group-title="PORTUGUESE SPORTS",Sport TV 6
-http://194.76.186.98:2021/play/a01w
+http://superbits.tv:2095/live/jYNTPHGx/ayUbbFPX/249069.ts
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Km9HrEA.png" group-title="PORTUGUESE SPORTS",Sport TV +
-http://45.92.69.72:8001/play/a03y
+http://62.28.71.186:45678/http/192.168.150.137:7151/sporttvmais
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kTXQVRD.png" group-title="TAIWANESE SPORTS",Eleven Sports 1
 rtmp://59.124.75.138/sat/tv731
@@ -3614,7 +3606,7 @@ http://80.24.75.92:5555/udp/239.111.2.4:1234
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yQ3irXL.png" group-title="NETHERLANDS",SBS 6
 http://80.24.75.92:5555/udp/239.111.1.2:1234
-https://streamservicehd.click/
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f5/SBS9_New_Logo_2018.png" group-title="NETHERLANDS",SBS 9
 http://80.24.75.92:5555/udp/239.111.3.1:1234
 
@@ -3639,12 +3631,12 @@ https://webdi.openhd.lol/ddy1/premium561/index.m3u8?|referer=https://streamservi
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/RTP1_-_Logo_2016.svg/1920px-RTP1_-_Logo_2016.svg.png" group-title="PORTUGAL",RTP 1
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-https://streaming-live.rtp.pt/liverepeater/smil:rtp1HD.smil/playlist.m3u8|user-agent=Opera
+https://streaming-live-app.rtp.pt/liverepeater/smil:rtp1HD.smil/rtp_playlist.m3u8|user-agent="RTP-Play"
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/RTP2_logo_2016.png" group-title="PORTUGAL",RTP 2
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-https://streaming-live.rtp.pt/liverepeater/smil:rtp2HD.smil/playlist.m3u8|user-agent=Opera
+https://streaming-live-app.rtp.pt/liverepeater/smil:rtp2HD.smil/rtp_playlist.m3u8|user-agent="RTP-Play"
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4d/Sociedade_Independente_de_Comunica%C3%A7%C3%A3o_Logo_2018.png" group-title="PORTUGAL",SIC
 https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index.m3u8
