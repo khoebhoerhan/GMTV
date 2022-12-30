@@ -681,7 +681,7 @@ http://84.22.33.214/EuroChannel/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ujQVb6l.png" group-title="EUROPEAN ENTERTAINMENT",Das Erste International
 https://derste247liveint.akamaized.net/hls/live/662735/daserste_int/master.m3u8
 
-#EXTINF:-1 tvg-id="TheFilipinoChannelAsia.us" tvg-logo="https://i.imgur.com/SsTaXe8.png" group-title="PINOY ENTERTAINMENT",TFC Asia-Pacific
+#EXTINF:-1 tvg-id="TheFilipinoChannelAsia.us" tvg-logo="https://i.imgur.com/SsTaXe8.png" group-title="WORLD ENTERTAINMENT",TFC Asia-Pacific
 https://tfcguam2-abscbn-ono.amagi.tv/index_5.m3u8
 
 #EXTINF:-1 tvg-id="RaiItalia.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Rai_Italia_-_Logo_2017.svg/1920px-Rai_Italia_-_Logo_2017.svg.png" group-title="EUROPEAN ENTERTAINMENT",Rai Italia
@@ -1223,9 +1223,6 @@ https://anv-livechannel-cdn.mncnow.id/live/eds/CNNInternational/sa_dash_vmx/CNNI
 #EXTINF:-1 tvg-id="CNN.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/1920px-CNN.svg.png" group-title="AMERICAN NEWS",CNN USA
 https://tve-live-lln.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 
-#EXTINF:-1 tvg-id="CNNPhilippines.ph" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/CNN_Philippines_Logo.svg/800px-CNN_Philippines_Logo.svg.png" group-title="PINOY NEWS",CNN Philippines
-https://streaming.cnnphilippines.com/live/myStream/chunklist_w1199238897.m3u8
-
 #EXTINF:-1 tvg-id="CNNTurk.tr" tvg-logo="https://i.imgur.com/hi0D9Ut.png" group-title="TURKISH NEWS",CNN Türk
 https://live.duhnet.tv/S2/HLS_LIVE/cnnturknp/playlist.m3u8
 
@@ -1726,19 +1723,6 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/DZRHN
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HUxC09L.png" group-title="PINOY NEWS",SMNI News Channel
 https://api.new.livestream.com/accounts/19079954/events/7831871/live.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/OneNewsPH_logo.svg/1024px-OneNewsPH_logo.svg.png" group-title="PINOY NEWS",One News
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=bacb50b558e744b88dd6478e4f167d50&key=601652beb0dc463633c236d87214c3b7
-https://vuuhy5r74t.akamaized.net/out/u/3107.mpd
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c6/OnePHCignal.svg/1200px-OnePHCignal.svg.png" group-title="PINOY NEWS",One PH
-https://raw.githubusercontent.com/fotvnetwork/iptv-free/master/M3U8/Locals/oneph.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/99/UNTV-Logo-2016.svg/1920px-UNTV-Logo-2016.svg.png" group-title="PINOY NEWS",UNTV
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=ebccc6c164654dd6a80938839a05f6f4&key=edad57c8807dcec046036d860d99a20e
-https://subfvj7tzt.akamaized.net/out/u/3022.mpd
 
 #EXTINF:-1 tvg-id="GloboNews.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/Logotipo_da_GloboNews.png" group-title="BRASILIAN NEWS",Globo News
 http://200.6.86.128:12000/play/a0m0
@@ -2696,31 +2680,28 @@ http://190.61.102.67:31589/play/a08j/index.m3u8
 http://limetv.me:80/live/4719wil/452540/89829.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ed/Canal-combate-logo.png" group-title="BRASILIAN SPORTS",Combate
-http://haiskafaisca.b-cdn.net/live/combate/chunks.m3u8
+https://webdi.openhd.lol/ddy1/premium89/index.m3u8?|referer=https://streamservicehd.click/
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1920px-ESPN_wordmark.svg.png" group-title="BRASILIAN SPORTS",ESPN Brasil
-http://haiskafaisca.b-cdn.net/live/espn/chunks.m3u8
+https://webdi.openhd.lol/ddy1/premium81/index.m3u8?|referer=https://streamservicehd.click/
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/1280px-ESPN2_logo.svg.png" group-title="BRASILIAN SPORTS",ESPN 2 Brasil
-http://haiskafaisca.b-cdn.net/live/espn2/chunks.m3u8
+https://webdi.openhd.lol/ddy1/premium82/index.m3u8?|referer=https://streamservicehd.click/
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Crvxgth.png" group-title="BRASILIAN SPORTS",ESPN 3 Brasil
-http://haiskafaisca.b-cdn.net/live/espn3/chunks.m3u8
+https://webdi.openhd.lol/ddy1/premium83/index.m3u8?|referer=https://streamservicehd.click/
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/89RCPvg.png" group-title="BRASILIAN SPORTS",ESPN 4 Brasil
-http://haiskafaisca.b-cdn.net/live/espn4/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sIUdUaB.png" group-title="BRASILIAN SPORTS",ESPN Extra Brasil
-http://acsa.ws:80/553288646092/smiptv/71915.ts
+https://webdi.openhd.lol/ddy1/premium85/index.m3u8?|referer=https://streamservicehd.click/
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DpnatBM.png" group-title="BRASILIAN SPORTS",Fox Sports 2 Brasil
 http://170.82.200.38:8080/fox_sports_2/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/a2/Logo_Premiere_FC_2018.png" group-title="BRASILIAN SPORTS",Premiere Clubes
-http://haiskafaisca.b-cdn.net/live/premiereclubes/chunks.m3u8
+https://webdi.openhd.lol/ddy1/premium88/index.m3u8?|referer=https://streamservicehd.click/
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iweh0Li.png" group-title="BRASILIAN SPORTS",SporTV
-http://haiskafaisca.b-cdn.net/live/sportv/chunks.m3u8
+https://webdi.openhd.lol/ddy1/premium78/index.m3u8?|referer=https://streamservicehd.click/
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AAdoNsr.png" group-title="BRASILIAN SPORTS",SporTV 2
 https://webdi.openhd.lol/ddy1/premium79/index.m3u8?|referer=https://streamservicehd.click/
