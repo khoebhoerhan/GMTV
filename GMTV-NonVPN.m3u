@@ -1232,13 +1232,10 @@ https://live.duhnet.tv/S2/HLS_LIVE/cnnturknp/playlist.m3u8
 http://45.92.69.72:8001/play/a02l
 
 #EXTINF:-1 tvg-id="CNNBrasil.br" tvg-logo="https://i.imgur.com/zcaYBfX.png" group-title="BRASILIAN NEWS",CNN Brasil
-http://191.212.166.203:4000/play/a0hy
+http://206.1.95.2:8004/play/a01e
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jCXODcU.png" group-title="SPANISH NEWS",CNN en Español
-http://limetv.me:80/live/4719wil/452540/95423.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Jai0CTx.png" group-title="LATINO NEWS",CNN Chile
-http://iptvtree.net:8080/live/iptvromania2020/31e75bff/76353.m3u8
+http://206.1.95.2:8004/play/a02f
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0XayB3p.png" group-title="INDIAN NEWS",CNN News 18
 https://tv.googledrivelinks.com:443/autoq.php?c=CNN_NEWS_18
@@ -1678,10 +1675,10 @@ http://hbbtvlive3.v3.tvp.pl/hbbtvlive/livestream.php?app_id=kanal2
 http://hbbtvlive3.v3.tvp.pl/hbbtvlive/livestream.php?app_id=senat
 
 #EXTINF:-1 tvg-id="SICNoticias.pt" tvg-logo="https://i.imgur.com/TpBpUU4.png" tvg-id="SICNoticias.pt" group-title="PORTUGUESE NEWS",SIC Notícias
-http://45.92.69.72:8000/play/a0ga
+http://udashboard.vip:8080/Akeriptv76/BknNtsYXxV/74379.ts
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Rkw85FP.jpg" group-title="PORTUGUESE NEWS",CM TV
-http://45.92.69.72:8001/play/a03x
+http://udashboard.vip:8080/Akeriptv76/BknNtsYXxV/74381.ts
 
 #EXTINF:-1 tvg-id="RTP3.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Rtp3.png/1920px-Rtp3.png" group-title="PORTUGUESE NEWS",RTP 3
 #KODIPROP:inputstream=inputstream.adaptive
@@ -1722,7 +1719,7 @@ http://200.6.86.128:12000/play/a0m0
 http://200.6.86.128:12000/play/a0k4
 
 #EXTINF:-1 tvg-id="BandNews.br" tvg-logo="https://i.imgur.com/BWkhQDM.png" group-title="BRASILIAN NEWS",Band News
-http://189.91.128.146:4444/udp/227.10.20.131:1234
+http://206.1.95.2:8004/play/a020
 
 #EXTINF:-1 tvg-id="JovemPanNews.br" tvg-logo="https://i.imgur.com/QWazNSS.png" group-title="BRASILIAN NEWS",Jovem Pan News
 https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index_4.m3u8
@@ -2596,7 +2593,7 @@ https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/playlist.m3u8
 https://d3junmnzdfp8ej.cloudfront.net/hls/tv_720p30.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xgLeXwi.png" group-title="LATINO SPORTS",ESPN Premium
-https://webdi.openhd.lol/lb/premium387/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+https://webdi.openhd.lol/lb/premium387/index.m3u8?|referer=https://streamservicehd.click/
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1920px-ESPN_wordmark.svg.png" group-title="LATINO SPORTS",ESPN Latin America
 https://webdi.openhd.lol/ddy1/premium149/index.m3u8?|referer=https://streamservicehd.click/
@@ -2668,7 +2665,7 @@ https://d14a5mi0m64mw7.cloudfront.net/out/v1/8a240d2e8a64453da6288810ede90a60/in
 http://190.61.102.67:31589/play/a08j/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FbFe2uu.png" group-title="BRASILIAN SPORTS",Band Sports
-http://limetv.me:80/live/4719wil/452540/89829.m3u8
+http://206.1.95.2:8004/play/a01p
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ed/Canal-combate-logo.png" group-title="BRASILIAN SPORTS",Combate
 https://webdi.openhd.lol/ddy1/premium89/index.m3u8?|referer=https://streamservicehd.click/
