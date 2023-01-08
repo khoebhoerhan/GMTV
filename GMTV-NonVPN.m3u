@@ -681,9 +681,6 @@ http://84.22.33.214/EuroChannel/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ujQVb6l.png" group-title="EUROPEAN ENTERTAINMENT",Das Erste International
 https://derste247liveint.akamaized.net/hls/live/662735/daserste_int/master.m3u8
 
-#EXTINF:-1 tvg-id="TheFilipinoChannelAsia.us" tvg-logo="https://i.imgur.com/SsTaXe8.png" group-title="WORLD ENTERTAINMENT",TFC Asia-Pacific
-https://tfcguam2-abscbn-ono.amagi.tv/index_5.m3u8
-
 #EXTINF:-1 tvg-id="RaiItalia.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Rai_Italia_-_Logo_2017.svg/1920px-Rai_Italia_-_Logo_2017.svg.png" group-title="EUROPEAN ENTERTAINMENT",Rai Italia
 http://rr3.dens.tv/s/s63/index2.m3u8
 
@@ -762,9 +759,6 @@ https://no2.openhd.lol/ddy1/premium371/index.m3u8?|referer=https://streamservice
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/X7VxlBN.png" group-title="ASIAN MUSIC",MTV Vietnam
 https://livecdn.fptplay.net/sdb/mtv_hls.smil/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="MyxUSA.us" tvg-logo="https://i.imgur.com/qyxbTj5.png" group-title="ASIAN MUSIC",Myx USA
-https://abscbn-ono.akamaized.net/midroll/amagi_hls_data_abscbnAAA-abscbn-myxnola/CDN/playlist.m3u8
 
 #EXTINF:-1 tvg-id="SBSMTV.kr" tvg-logo="https://i.imgur.com/6R8N3z2.png" group-title="ASIAN MUSIC",SBS MTV
 http://han.ddkdxmkj.com/api/sbs.php?id=9
@@ -1383,7 +1377,7 @@ https://dwamdstream106.akamaized.net/hls/live/2017965/dwstream106/stream05/strea
 https://dwamdstream105.akamaized.net/hls/live/2015531/dwstream105/stream05/streamPlaylist.m3u8
 
 #EXTINF:0 tvg-id="TRTWorld.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/TRT_World_logo.svg/2560px-TRT_World_logo.svg.png" group-title="WORLD NEWS",TRT World
-https://tv-trtworld.live.trt.com.tr/master_720.m3u8
+https://tv-trtworld.live.trt.com.tr/master_1080.m3u8
 
 #EXTINF:-1 tvg-id="TRTArabi.tr" tvg-logo="https://i.imgur.com/YXZYbpM.png" group-title="ARABIC NEWS",TRT Arabi
 https://tv-trtarabi.live.trt.com.tr/master_720.m3u8
@@ -1701,15 +1695,6 @@ https://live.topnews.co.th/hls/topnews.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KIK1p0o.png" group-title="THAI NEWS",TPTV
 http://freelive2.inwstream.com:1935/freelive-edge/tptv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ANC.ph" tvg-logo="https://i.imgur.com/9odNJCy.png" group-title="PINOY NEWS",ANC
-https://abscbn-ono.akamaized.net/midroll/amagi_hls_data_abscbnAAA-abscbn-anc-global/CDN/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HnS25Hi.png" group-title="PINOY NEWS",DZRH TV
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/DZRHNewsTelevision/live
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HUxC09L.png" group-title="PINOY NEWS",SMNI News Channel
-https://api.new.livestream.com/accounts/19079954/events/7831871/live.m3u8
-
 #EXTINF:-1 tvg-id="GloboNews.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/Logotipo_da_GloboNews.png" group-title="BRASILIAN NEWS",Globo News
 http://200.6.86.128:12000/play/a0m0
 
@@ -1975,6 +1960,9 @@ https://bravo.kugo.id/persijatv/udp.stream/playlist.m3u8
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://streamer-a03.videos.sapo.pt/live/portocanal/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KFwSXaG.png" group-title="CLUBS OF SPORTS",Real Madrid TV English
+https://rmtv-canela.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KFwSXaG.png" group-title="CLUBS OF SPORTS",Real Madrid TV Español
 https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
@@ -3019,11 +3007,6 @@ http://livestream.biznetvideo.net/biznet_lifestyle/smil:lifestyle.smil/playlist.
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MjhkOWZkZjYtOGViOC0zNTkzLWFhOWEtNGFhMzJkMDk3NGE2
 https://anv-livechannel-cdn.mncnow.id/live/eds/AFN-HD/sa_dash_vmx/AFN-HD.mpd
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/95lMoqu.png" group-title="LIFESTYLE",Food Network Asia
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=0845d8900e973747e70c9f61ebed2d10&key=4bdb394a43bb955d6d67107620de17db
-http://iptv12k.com:35461/live/80301070602/456776/285.m3u8
-
 #EXTINF:-1 tvg-id="HGTVAsia.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/HGTV_2010.svg/1920px-HGTV_2010.svg.png" group-title="LIFESTYLE",HGTV Asia
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MjhkOWZkZjYtOGViOC0zNTkzLWFhOWEtNGFhMzJkMDk3NGE2
@@ -3275,7 +3258,7 @@ https://stmv1.transmissaodigital.com/ronald6259/ronald6259/playlist.m3u8
 http://tv.urllista.com/live/Tester1/im7wh59lrql/38424.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/14/Logo_of_Rede_Record.png" group-title="BRASIL",Record São Paulo
-http://tvconquistalrv.duckdns.org:8080/hls/tvconquistalrv.m3u8?ROGERIOTORRES
+https://59f2354c05961.streamlock.net:1443/portaldatropical/_definst_/portaldatropical/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/3/39/Logotipo_da_Rede_Brasil_de_Televis%C3%A3o.png" group-title="BRASIL",Rede Brasil
 https://59f2354c05961.streamlock.net:1443/rbtv/_definst_/rbtv/chunklist_w1419744009.m3u8
@@ -3615,12 +3598,6 @@ http://80.24.75.92:5555/udp/239.111.1.2:1234
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f5/SBS9_New_Logo_2018.png" group-title="NETHERLANDS",SBS 9
 http://80.24.75.92:5555/udp/239.111.3.1:1234
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QTHVWGZ.png" group-title="PHILIPPINES",Cine Mo!
-https://abscbn-ono.akamaized.net/midroll/amagi_hls_data_abscbnAAA-abscbn-cinemo/CDN/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/b/bf/Kapamilya_Channel_%282020-.n.v.%29.png" group-title="PHILIPPINES",Kapamilya Channel
-https://abscbn-ono.akamaized.net/midroll/amagi_hls_data_abscbnAAA-abscbn-kapcha/CDN/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Polsat_2021_gradient.svg/1200px-Polsat_2021_gradient.svg.png" group-title="POLAND",Polsat
 https://webdi.openhd.lol/ddy1/premium562/index.m3u8?|referer=https://streamservicehd.click/
