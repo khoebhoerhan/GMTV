@@ -752,10 +752,12 @@ https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8
 http://190.2.155.162:8080/mtvfrance/mpegts
 
 #EXTINF:-1 tvg-id="VH1USEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/VH1_logonew.svg/1920px-VH1_logonew.svg.png" group-title="AMERICAN MUSIC",VH1 East
-https://no2.openhd.lol/ddy1/premium344/index.m3u8?|referer=https://streamservicehd.click/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+https://newtest.webtv1.lol/lb/premium344/index.m3u8|referer=https://widevine.licenses4.me/
 
 #EXTINF:-1 tvg-id="MTVEast.us" tvg-logo="https://i.imgur.com/X7VxlBN.png" group-title="AMERICAN MUSIC",MTV East
-https://no2.openhd.lol/ddy1/premium371/index.m3u8?|referer=https://streamservicehd.click/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+https://newtest.webtv1.lol/lb/premium371/index.m3u8|referer=https://widevine.licenses4.me/
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/X7VxlBN.png" group-title="ASIAN MUSIC",MTV Vietnam
 https://livecdn.fptplay.net/sdb/mtv_hls.smil/chunklist.m3u8
@@ -1411,7 +1413,8 @@ https://liveru.cgtn.com/1000r/prog_index.m3u8
 https://anv-livechannel-cdn.mncnow.id/live/eds/FoxNews/sa_dash_vmx/FoxNews.mpd
 
 #EXTINF:-1 tvg-id="MSNBC.us" tvg-logo="https://i.imgur.com/cMM9MAg.png" group-title="AMERICAN NEWS",MSNBC
-https://no2.openhd.lol/ddy1/premium327/index.m3u8?|referer=https://streamservicehd.click/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+https://newtest.webtv1.lol/lb/premium327/index.m3u8|referer=https://widevine.licenses4.me/
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IVvxmTv.png" group-title="AMERICAN NEWS",CBS News
 http://cbsnewshd-lh.akamaihd.net:80/i/CBSNHD_7@199302/master.m3u8
@@ -1653,9 +1656,8 @@ http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpinfo
 https://ec08.luz1.cache.orange.pl/jupiter/o2-cl7/live/tvrepublika/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Tvn24_Logo.svg/800px-Tvn24_Logo.svg.png" group-title="POLISH NEWS",TVN 24
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#EXTVLCOPT:http-referrer=https://streamservicehd.click/
-https://no2.openhd.lol/ddy1/premium444/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+https://newtest.webtv1.lol/lb/premium444/index.m3u8|referer=https://widevine.licenses4.me/
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uQVqEIH.png" group-title="PARLIAMENTARY",TVP Parlament 1
 http://hbbtvlive3.v3.tvp.pl/hbbtvlive/livestream.php?app_id=kanal1
@@ -1821,7 +1823,8 @@ https://cdn3.skygo.mn/live/disk1/BloombergMon/HLS-FTA/BloombergMon.m3u8
 https://anv-livechannel-cdn.mncnow.id/live/eds/CNBC/sa_dash_vmx/CNBC.mpd
 
 #EXTINF:-1 tvg-id="CNBC.us" tvg-logo="https://i.imgur.com/KxxvR2X.png" group-title="BUSINESS NEWS",CNBC US
-https://no2.openhd.lol/ddy1/premium309/index.m3u8?|referer=https://streamservicehd.click/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+https://newtest.webtv1.lol/lb/premium309/index.m3u8|referer=https://widevine.licenses4.me/
 
 #EXTINF:-1 tvg-id="CNBCArabiya.ae" tvg-logo="https://i.imgur.com/4XhULAV.png" group-title="BUSINESS NEWS",CNBC Arabiya
 https://cnbcarabia.hibridcdn.net/cnbc/cnbc_abr/cnbc/cnbc_480p/chunks.m3u8?
@@ -1928,7 +1931,8 @@ http://iptvid.my.id/hmm/useetl2.m3u8
 http://93.152.174.144:4000/play/barcatv/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RCyM7W9.png" group-title="CLUBS OF SPORTS",Benfica TV
-https://no2.openhd.lol/ddy1/premium380/index.m3u8?|referer=https://streamservicehd.click/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+https://newtest.webtv1.lol/lb/premium380/index.m3u8|referer=https://widevine.licenses4.me/
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ULcjgX4.png" group-title="CLUBS OF SPORTS",FB TV
 http://iptvmasterlink.dyndns.org:8080/FbTv/playlist.m3u8
@@ -2853,52 +2857,68 @@ https://newtest.webtv1.lol/lb/premium79/index.m3u8|referer=https://widevine.lice
 https://newtest.webtv1.lol/lb/premium80/index.m3u8|referer=https://widevine.licenses4.me/
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XO9yr6R.png" group-title="AFRICAN SPORTS",Supersport Action Africa
-https://no2.openhd.lol/ddy1/premium420/index.m3u8?|referer=https://streamservicehd.click/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+https://newtest.webtv1.lol/lb/premium420/index.m3u8|referer=https://widevine.licenses4.me/
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nCzOSks.png" group-title="AFRICAN SPORTS",Supersport Cricket Africa
-https://no2.openhd.lol/ddy1/premium368/index.m3u8?|referer=https://streamservicehd.click/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+https://newtest.webtv1.lol/lb/premium368/index.m3u8|referer=https://widevine.licenses4.me/
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Vt3RvFA.png" group-title="AFRICAN SPORTS",Supersport Football Africa
-https://no2.openhd.lol/ddy1/premium56/index.m3u8?|referer=https://streamservicehd.click/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://newtest.webtv1.lol/lb/premium56/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YcxFkX8.png" group-title="AFRICAN SPORTS",Supersport Golf Africa
-https://no2.openhd.lol/ddy1/premium422/index.m3u8?|referer=https://streamservicehd.click/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+https://newtest.webtv1.lol/lb/premium422/index.m3u8|referer=https://widevine.licenses4.me/
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3bXUFkP.png" group-title="AFRICAN SPORTS",Supersport Grandstand Africa
-https://no2.openhd.lol/ddy1/premium412/index.m3u8?|referer=https://streamservicehd.click/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+https://newtest.webtv1.lol/lb/premium412/index.m3u8|referer=https://widevine.licenses4.me/
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qavBxmu.png" group-title="AFRICAN SPORTS",Supersport LaLiga Africa
-https://no2.openhd.lol/ddy1/premium415/index.m3u8?|referer=https://streamservicehd.click/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+https://newtest.webtv1.lol/lb/premium415/index.m3u8|referer=https://widevine.licenses4.me/
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Vgt96sG.png" group-title="AFRICAN SPORTS",Supersport Máximo 1 Africa
-https://no2.openhd.lol/ddy1/premium572/index.m3u8?|referer=https://streamservicehd.click/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+https://newtest.webtv1.lol/lb/premium572/index.m3u8|referer=https://widevine.licenses4.me/
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/37EjPV3.png" group-title="AFRICAN SPORTS",Supersport Motorsport Africa
-https://no2.openhd.lol/ddy1/premium424/index.m3u8?|referer=https://streamservicehd.click/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+https://newtest.webtv1.lol/lb/premium424/index.m3u8|referer=https://widevine.licenses4.me/
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jIjBIhH.png" group-title="AFRICAN SPORTS",Supersport Premier League Africa
-https://no2.openhd.lol/ddy1/premium414/index.m3u8?|referer=https://streamservicehd.click/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+https://newtest.webtv1.lol/lb/premium414/index.m3u8|referer=https://widevine.licenses4.me/
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cXB0iFd.png" group-title="AFRICAN SPORTS",Supersport PSL
-https://no2.openhd.lol/ddy1/premium413/index.m3u8?|referer=https://streamservicehd.click/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+https://newtest.webtv1.lol/lb/premium413/index.m3u8|referer=https://widevine.licenses4.me/
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sglWngc.png" group-title="AFRICAN SPORTS",Supersport Rugby Africa
-https://no2.openhd.lol/ddy1/premium421/index.m3u8?|referer=https://streamservicehd.click/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+https://newtest.webtv1.lol/lb/premium421/index.m3u8|referer=https://widevine.licenses4.me/
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uBflRxR.png" group-title="AFRICAN SPORTS",Supersport Tennis Africa
-https://no2.openhd.lol/ddy1/premium423/index.m3u8?|referer=https://streamservicehd.click/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+https://newtest.webtv1.lol/lb/premium423/index.m3u8|referer=https://widevine.licenses4.me/
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LD6Yrnx.png" group-title="AFRICAN SPORTS",Supersport Variety 1 Africa
-https://no2.openhd.lol/ddy1/premium416/index.m3u8?|referer=https://streamservicehd.click/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+https://newtest.webtv1.lol/lb/premium416/index.m3u8|referer=https://widevine.licenses4.me/
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/samKsMn.png" group-title="AFRICAN SPORTS",Supersport Variety 2 Africa
-https://no2.openhd.lol/ddy1/premium417/index.m3u8?|referer=https://streamservicehd.click/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+https://newtest.webtv1.lol/lb/premium417/index.m3u8|referer=https://widevine.licenses4.me/
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/neD5gBe.png" group-title="AFRICAN SPORTS",Supersport Variety 3 Africa
-https://no2.openhd.lol/ddy1/premium418/index.m3u8?|referer=https://streamservicehd.click/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+https://newtest.webtv1.lol/lb/premium418/index.m3u8|referer=https://widevine.licenses4.me/
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Xn5UCd8.png" group-title="AFRICAN SPORTS",Supersport Variety 4 Africa
-https://no2.openhd.lol/ddy1/premium419/index.m3u8?|referer=https://streamservicehd.click/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+https://newtest.webtv1.lol/lb/premium419/index.m3u8|referer=https://widevine.licenses4.me/
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/E3OjM1k.png" group-title="VIETNAMESE SPORTS",HTV Thể Thao
 http://sv1.cvacetv.ga:8080/htvtt
@@ -3259,7 +3279,8 @@ https://v-ny.mybtv.net/live/554/1280x720.m3u8
 https://v-ny.mybtv.net/live/545/1280x720.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/E%21_Logo_2012.svg/320px-E%21_Logo_2012.svg.png" group-title="USA",E! East
-https://no2.openhd.lol/ddy1/premium315/index.m3u8?|referer=https://streamservicehd.click/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+https://newtest.webtv1.lol/lb/premium315/index.m3u8|referer=https://widevine.licenses4.me/
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Q6AoC5h.png" group-title="USA",Fox East
 https://v-ny.mybtv.net/live/550/1280x720.m3u8
@@ -3271,10 +3292,12 @@ https://v-ny.mybtv.net/live/548/1280x720.m3u8
 https://v-ny.mybtv.net/live/575/1280x720.m3u8
 
 #EXTINF:-1 tvg-id="TBSEast.us" tvg-logo="https://i.imgur.com/upM99h1.png" group-title="USA",TBS East
-https://no2.openhd.lol/ddy1/premium336/index.m3u8?|referer=https://streamservicehd.click/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+https://newtest.webtv1.lol/lb/premium336/index.m3u8|referer=https://widevine.licenses4.me/
 
 #EXTINF:-1 tvg-id="TNTEast.us" tvg-logo="https://i.imgur.com/umJbqNY.png" group-title="USA",TNT East
-https://no2.openhd.lol/ddy1/premium338/index.m3u8?|referer=https://streamservicehd.click/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+https://newtest.webtv1.lol/lb/premium338/index.m3u8|referer=https://widevine.licenses4.me/
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ydm3Ss2.png" group-title="USA",Telemundo Este
 https://v-ny.mybtv.net/live/659/1280x720.m3u8
@@ -3286,25 +3309,31 @@ https://v-ny.mybtv.net/live/562/1280x720.m3u8
 https://v-ny.mybtv.net/live/643/1280x720.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Logo_UniM%C3%A1s_2021.svg/1920px-Logo_UniM%C3%A1s_2021.svg.png" group-title="USA",Unimás
-https://no2.openhd.lol/ddy1/premium133/index.m3u8?|referer=https://streamservicehd.click/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+https://newtest.webtv1.lol/lb/premium133/index.m3u8|referer=https://widevine.licenses4.me/
 
 #EXTINF:-1 tvg-id="USANetworkEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/1920px-USA_Network_logo_%282016%29.svg.png" group-title="USA",USA Network East
-https://no2.openhd.lol/ddy1/premium343/index.m3u8?|referer=https://streamservicehd.click/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+https://newtest.webtv1.lol/lb/premium343/index.m3u8|referer=https://widevine.licenses4.me/
 
 #EXTINF:-1 tvg-id="BBCOneHD.uk" tvg-logo="https://i.imgur.com/oGzLsiq.png" group-title="UK",BBC One HD
-https://no2.openhd.lol/ddy1/premium356/index.m3u8?|referer=https://streamservicehd.click/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+https://newtest.webtv1.lol/lb/premium356/index.m3u8|referer=https://widevine.licenses4.me/
 
 #EXTINF:-1 tvg-id="BBCTwoHD.uk" tvg-logo="https://i.imgur.com/iMfng6J.png" group-title="UK",BBC Two HD
-https://no2.openhd.lol/ddy1/premium357/index.m3u8?|referer=https://streamservicehd.click/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+https://newtest.webtv1.lol/lb/premium357/index.m3u8|referer=https://widevine.licenses4.me/
 
 #EXTINF:-1 tvg-id="CBBC.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/37/CBBC_2016_logo.svg/800px-CBBC_2016_logo.svg.png" group-title="UK",CBBC
 http://ott.riotelecomm.es:4513/m3u8/CBBCHDFIBRA.m3u8
 
 #EXTINF:-1 tvg-id="Channel4.uk" tvg-logo="https://i.imgur.com/r0sl8tu.png" group-title="UK",Channel 4
-https://no2.openhd.lol/ddy1/premium354/index.m3u8?|referer=https://streamservicehd.click/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+https://newtest.webtv1.lol/lb/premium354/index.m3u8|referer=https://widevine.licenses4.me/
 
 #EXTINF:-1 tvg-id="Channel5.uk" tvg-logo="https://i.imgur.com/itZR2eq.png" group-title="UK",Channel 5
-https://no2.openhd.lol/ddy1/premium355/index.m3u8?|referer=https://streamservicehd.click/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+https://newtest.webtv1.lol/lb/premium355/index.m3u8|referer=https://widevine.licenses4.me/
 
 #EXTINF:-1 tvg-id="E4UK.uk" tvg-logo="https://i.imgur.com/yny6n9T.png" group-title="UK",E4 UK
 http://45.153.35.210:8000/play/UK_e4_sd/index.m3u8
@@ -3316,7 +3345,8 @@ http://45.153.35.210:8000/play/UK_great_tv_sd/index.m3u8
 http://45.153.35.210:8000/play/UK_more_4_sd/index.m3u8
 
 #EXTINF:-1 tvg-id="ITV.uk" tvg-logo="https://i.imgur.com/zDy4GA4.png" group-title="UK",ITV1
-https://no2.openhd.lol/ddy1premium350/index.m3u8?|referer=https://streamservicehd.click/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+https://newtest.webtv1.lol/lb/premium350/index.m3u8|referer=https://widevine.licenses4.me/
 
 #EXTINF:-1 tvg-id="ITV2.uk" tvg-logo="https://i.imgur.com/nrPCxFs.png" group-title="UK",ITV2
 http://ott.riotelecomm.es:4513/m3u8/ITV2FIBRA.m3u8
@@ -3552,14 +3582,12 @@ http://144.217.70.181:9587/hin2/ZOOM/tracks-v1a1/mono.m3u8
 https://dx4452e0qv6r9.cloudfront.net/tg4_vod_national_3000_.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e4/RT%C3%89_One_2014.svg/1920px-RT%C3%89_One_2014.svg.png" group-title="IRELAND",RTÉ One
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#EXTVLCOPT:http-referrer=https://streamservicehd.click/
-https://no2.openhd.lol/ddy1/premium364/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+https://newtest.webtv1.lol/lb/premium364/index.m3u8|referer=https://widevine.licenses4.me/
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/11/RT%C3%892_logo.svg/1920px-RT%C3%892_logo.svg.png" group-title="IRELAND",RTÉ2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#EXTVLCOPT:http-referrer=https://streamservicehd.click/
-https://no2.openhd.lol/ddy1/premium365/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+https://newtest.webtv1.lol/lb/premium365/index.m3u8|referer=https://widevine.licenses4.me/
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/LA7_-_Logo_2011.svg/1024px-LA7_-_Logo_2011.svg.png" group-title="ITALY",La 7
 https://d15umi5iaezxgx.cloudfront.net/LA7/CLN/HLS/Live_1280x720_.m3u8
@@ -3716,9 +3744,8 @@ http://80.24.75.92:5555/udp/239.111.2.1:1234
 http://80.24.75.92:5555/udp/239.111.2.2:1234
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/c8Rk43x.png" group-title="NETHERLANDS",RTL 7
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#EXTVLCOPT:http-referrer=https://streamservicehd.click/
-https://no2.openhd.lol/ddy1/premium390/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+https://newtest.webtv1.lol/lb/premium390/index.m3u8|referer=https://widevine.licenses4.me/
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/92/RTL_8_logo_2017.png" group-title="NETHERLANDS",RTL 8
 http://80.24.75.92:5555/udp/239.111.2.4:1234
@@ -3730,16 +3757,20 @@ http://80.24.75.92:5555/udp/239.111.1.2:1234
 http://80.24.75.92:5555/udp/239.111.3.1:1234
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Polsat_2021_gradient.svg/1200px-Polsat_2021_gradient.svg.png" group-title="POLAND",Polsat
-https://webdi.openhd.lol/ddy1/premium562/index.m3u8?|referer=https://streamservicehd.click/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+https://newtest.webtv1.lol/lb/premium562/index.m3u8|referer=https://widevine.licenses4.me/
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/TVN_logo.svg/1200px-TVN_logo.svg.png" group-title="POLAND",TVN
-https://webdi.openhd.lol/ddy1/premium565/index.m3u8?|referer=https://streamservicehd.click/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+https://newtest.webtv1.lol/lb/premium565/index.m3u8|referer=https://widevine.licenses4.me/
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TVP1_2021_box-1.svg/1920px-TVP1_2021_box-1.svg.png" group-title="POLAND",TVP 1
-https://webdi.openhd.lol/ddy1/premium560/index.m3u8?|referer=https://streamservicehd.click/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+https://newtest.webtv1.lol/lb/premium560/index.m3u8|referer=https://widevine.licenses4.me/
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/TVP2_2021_box-1.svg/1920px-TVP2_2021_box-1.svg.png" group-title="POLAND",TVP 2
-https://webdi.openhd.lol/ddy1/premium561/index.m3u8?|referer=https://streamservicehd.click/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+https://newtest.webtv1.lol/lb/premium561/index.m3u8|referer=https://widevine.licenses4.me/
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/RTP1_-_Logo_2016.svg/1920px-RTP1_-_Logo_2016.svg.png" group-title="PORTUGAL",RTP 1
 #KODIPROP:inputstream=inputstream.adaptive
@@ -3803,22 +3834,28 @@ http://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/chunklist_b1703000.m3u8
 https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
 
 #EXTINF:-1 tvg-id="Antena3.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Antena_3_%282017%29.svg/1024px-Antena_3_%282017%29.svg.png" group-title="SPAIN",Antena 3
-https://no2.openhd.lol/ddy1/premium531/index.m3u8?|referer=https://streamservicehd.click/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+https://newtest.webtv1.lol/lb/premium531/index.m3u8|referer=https://widevine.licenses4.me/
 
 #EXTINF:-1 tvg-id="Cuatro.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Cuatro.svg/1920px-Cuatro.svg.png" group-title="SPAIN",Cuatro
-https://no2.openhd.lol/ddy1/premium535/index.m3u8?|referer=https://streamservicehd.click/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+https://newtest.webtv1.lol/lb/premium535/index.m3u8|referer=https://widevine.licenses4.me/
 
 #EXTINF:-1 tvg-id="La1.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Logo_TVE-1.svg/1024px-Logo_TVE-1.svg.png" group-title="SPAIN",La 1
-https://no2.openhd.lol/ddy1/premium533/index.m3u8?|referer=https://streamservicehd.click/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+https://newtest.webtv1.lol/lb/premium533/index.m3u8|referer=https://widevine.licenses4.me/
 
 #EXTINF:-1 tvg-id="La2.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Logo_TVE-2.svg/1024px-Logo_TVE-2.svg.png" group-title="SPAIN",La 2
-https://no2.openhd.lol/ddy1/premium536/index.m3u8?|referer=https://streamservicehd.click/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+https://newtest.webtv1.lol/lb/premium536/index.m3u8|referer=https://widevine.licenses4.me/
 
 #EXTINF:-1 tvg-id="LaSexta.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/La_Sexta_%28A3M%29.svg/188px-La_Sexta_%28A3M%29.svg.png" group-title="SPAIN",La Sexta
-https://no2.openhd.lol/ddy1/premium534/index.m3u8?|referer=https://streamservicehd.click/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+https://newtest.webtv1.lol/lb/premium534/index.m3u8|referer=https://widevine.licenses4.me/
 
 #EXTINF:-1 tvg-id="Telecinco.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Telecinco_2012_Large.svg/800px-Telecinco_2012_Large.svg.png" group-title="SPAIN",Telecinco
-https://no2.openhd.lol/ddy1/premium532/index.m3u8?|referer=https://streamservicehd.click/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+https://newtest.webtv1.lol/lb/premium532/index.m3u8|referer=https://widevine.licenses4.me/
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/8/8a/CTS_Logo.png" group-title="TAIWAN",CTS 華視
 rtmp://59.124.75.157/sat/tv111
