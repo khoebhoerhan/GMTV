@@ -1906,10 +1906,14 @@ https://anv-livechannel-cdn.mncnow.id/live/eds/MNCSports3-HD/sa_dash_vmx/MNCSpor
 https://anv-livechannel-cdn.mncnow.id/live/eds/soccerchannel-HD/sa_dash_vmx/soccerchannel-HD.mpd
 
 #EXTINF:0 tvg-id="SPOTV.kr" tvg-logo="https://i.imgur.com/Bj0MyZQ.png" group-title="NATIONAL SPORTS",SPOTV
-https://bcovlive-a.akamaihd.net/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/6271486521001/playlist.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=57d2ac9210cfbca3596cc679a01c8b29:d5e35c0f39c76adf24853d7ea18c71e7
+https://liveaneviadev.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
 
 #EXTINF:0 tvg-id="SPOTV2.kr" tvg-logo="https://i.imgur.com/5QHtJQw.png" group-title="NATIONAL SPORTS",SPOTV 2
-https://bcovlive-a.akamaihd.net/48eee16919834d3b97df1082a649bcfa/ap-northeast-1/6271486521001/playlist.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=57d2ac9210cfbca3596cc679a01c8b29:d5e35c0f39c76adf24853d7ea18c71e7
+https://liveaneviadev.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV2-HD.mpd
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3openq8.png" group-title="NATIONAL SPORTS",TVRI Sport
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRI4)/index.m3u8
@@ -1984,64 +1988,81 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
 https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="beINSports1.qa" tvg-logo="https://i.imgur.com/MRULdc8.png" group-title="ARABIC SPORTS",beIN Sports 1
-https://no2.openhd.lol/ddy1/premium91/index.m3u8?|referer=https://streamservicehd.click/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://newtest.webtv1.lol/lb/premium91/index.m3u8|referer=https://widevine.licenses4.me/
 
 #EXTINF:-1 tvg-id="beINSports2.qa" tvg-logo="https://i.imgur.com/NDp6TlM.png" group-title="ARABIC SPORTS",beIN Sports 2
-https://no2.openhd.lol/ddy1/premium92/index.m3u8?|referer=https://streamservicehd.click/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://newtest.webtv1.lol/lb/premium92/index.m3u8|referer=https://widevine.licenses4.me/
 
 #EXTINF:-1 tvg-id="beINSports3.qa" tvg-logo="https://i.imgur.com/j8VC6nB.png" group-title="ARABIC SPORTS",beIN Sports 3
-https://no2.openhd.lol/ddy1/premium93/index.m3u8?|referer=https://streamservicehd.click/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://newtest.webtv1.lol/lb/premium93/index.m3u8|referer=https://widevine.licenses4.me/
 
 #EXTINF:-1 tvg-id="beINSports4.qa" tvg-logo="https://i.imgur.com/Lu26Yho.png" group-title="ARABIC SPORTS",beIN Sports 4
-https://no2.openhd.lol/ddy1/premium94/index.m3u8?|referer=https://streamservicehd.click/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://newtest.webtv1.lol/lb/premium94/index.m3u8|referer=https://widevine.licenses4.me/
 
 #EXTINF:-1 tvg-id="beINSports5.qa" tvg-logo="https://i.imgur.com/pA5by2y.png" group-title="ARABIC SPORTS",beIN Sports 5
-https://no2.openhd.lol/ddy1/premium95/index.m3u8?|referer=https://streamservicehd.click/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://newtest.webtv1.lol/lb/premium95/index.m3u8|referer=https://widevine.licenses4.me/
 
 #EXTINF:-1 tvg-id="beINSports6.qa" tvg-logo="https://i.imgur.com/mbFoSUX.png" group-title="ARABIC SPORTS",beIN Sports 6
-https://no2.openhd.lol/ddy1/premium96/index.m3u8?|referer=https://streamservicehd.click/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://newtest.webtv1.lol/lb/premium96/index.m3u8|referer=https://widevine.licenses4.me/
 
 #EXTINF:-1 tvg-id="beINSports7.qa" tvg-logo="https://i.imgur.com/eHCosqi.png" group-title="ARABIC SPORTS",beIN Sports 7
-https://no2.openhd.lol/ddy1/premium97/index.m3u8?|referer=https://streamservicehd.click/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://newtest.webtv1.lol/lb/premium97/index.m3u8|referer=https://widevine.licenses4.me/
 
 #EXTINF:-1 tvg-id="beINSports1HDFrance.fr" tvg-logo="https://i.imgur.com/MRULdc8.png" group-title="FRENCH SPORTS",beIN Sports 1 HD France
-https://no2.openhd.lol/ddy1/premium116/index.m3u8?|referer=https://streamservicehd.click/
+http://4wycifxb.rostelekom.xyz/iptv/7A9D5FRZ9RT8LW/2499/index.m3u8
 
 #EXTINF:-1 tvg-id="beINSports2HDFrance.fr" tvg-logo="https://i.imgur.com/NDp6TlM.png" group-title="FRENCH SPORTS",beIN Sports 2 HD France
-https://no2.openhd.lol/ddy1/premium117/index.m3u8?|referer=https://streamservicehd.click/
+http://4wycifxb.rostelekom.xyz/iptv/7A9D5FRZ9RT8LW/2500/index.m3u8
 
 #EXTINF:-1 tvg-id="beINSports3France.fr" tvg-logo="https://i.imgur.com/j8VC6nB.png" group-title="FRENCH SPORTS",beIN Sports 3 France
-https://no2.openhd.lol/ddy1/premium118/index.m3u8?|referer=https://streamservicehd.click/
+http://4wycifxb.rostelekom.xyz/iptv/7A9D5FRZ9RT8LW/2501/index.m3u8
 
 #EXTINF:-1 tvg-id="beINSportsEnglish1.qa" tvg-logo="https://i.imgur.com/o8zT78o.png" group-title="ARABIC SPORTS",beIN Sports English 1
-https://no2.openhd.lol/ddy1/premium61/index.m3u8?|referer=https://streamservicehd.click/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://newtest.webtv1.lol/lb/premium89/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 
 #EXTINF:-1 tvg-id="beINSportsEnglish2.qa" tvg-logo="https://i.imgur.com/RJ17vOc.png" group-title="ARABIC SPORTS",beIN Sports English 2
-https://no2.openhd.lol/ddy1/premium90/index.m3u8?|referer=https://streamservicehd.click/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://newtest.webtv1.lol/lb/premium90/index.m3u8|referer=https://widevine.licenses4.me/
 
 #EXTINF:-1 tvg-id="beINSportsEnglish3.qa" tvg-logo="https://i.imgur.com/sKFx2QF.png" group-title="ARABIC SPORTS",beIN Sports English 3
-https://no2.openhd.lol/ddy1/premium46/index.m3u8?|referer=https://streamservicehd.click/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://newtest.webtv1.lol/lb/premium46/index.m3u8|referer=https://widevine.licenses4.me/
 
 #EXTINF:-1 tvg-id="beINSportsPremium1.qa" tvg-logo="https://i.imgur.com/CwlNjXQ.png" group-title="ARABIC SPORTS",beIN Sports Premium 1
-https://no2.openhd.lol/ddy1/premium98/index.m3u8?|referer=https://streamservicehd.click/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://newtest.webtv1.lol/lb/premium98/index.m3u8|referer=https://widevine.licenses4.me/
 
 #EXTINF:-1 tvg-id="beINSportsPremium2.qa" tvg-logo="https://i.imgur.com/Ns7isEP.png" group-title="ARABIC SPORTS",beIN Sports Premium 2
-https://no2.openhd.lol/ddy1/premium99/index.m3u8?|referer=https://streamservicehd.click/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://newtest.webtv1.lol/lb/premium99/index.m3u8|referer=https://widevine.licenses4.me/
 
 #EXTINF:-1 tvg-id="beINSportsPremium3.qa" tvg-logo="https://i.imgur.com/T7UlxCI.png" group-title="ARABIC SPORTS",beIN Sports Premium 3
-https://no2.openhd.lol/ddy1/premium100/index.m3u8?|referer=https://streamservicehd.click/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://newtest.webtv1.lol/lb/premium100/index.m3u8|referer=https://widevine.licenses4.me/
 
 #EXTINF:-1 tvg-id="beINSports1Turkey.tr" tvg-logo="https://i.imgur.com/MRULdc8.png" group-title="TURKISH SPORTS",beIN Sports 1 Türkiye
-https://no2.openhd.lol/ddy1/premium62/index.m3u8?|referer=https://streamservicehd.click/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://newtest.webtv1.lol/lb/premium62/index.m3u8|referer=https://widevine.licenses4.me/
 
 #EXTINF:-1 tvg-id="beINSports2Turkey.tr" tvg-logo="https://i.imgur.com/NDp6TlM.png" group-title="TURKISH SPORTS",beIN Sports 2 Türkiye
-https://no2.openhd.lol/ddy1/premium63/index.m3u8?|referer=https://streamservicehd.click/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://newtest.webtv1.lol/lb/premium63/index.m3u8|referer=https://widevine.licenses4.me/
 
 #EXTINF:-1 tvg-id="beINSports3Turkey.tr" tvg-logo="https://i.imgur.com/j8VC6nB.png" group-title="TURKISH SPORTS",beIN Sports 3 Türkiye
-https://no2.openhd.lol/ddy1/premium64/index.m3u8?|referer=https://streamservicehd.click/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://newtest.webtv1.lol/lb/premium64/index.m3u8|referer=https://widevine.licenses4.me/
 
 #EXTINF:-1 tvg-id="beINSports4Turkey.tr" tvg-logo="https://i.imgur.com/Lu26Yho.png" group-title="TURKISH SPORTS",beIN Sports 4 Türkiye
-https://no2.openhd.lol/ddy1/premium67/index.m3u8?|referer=https://streamservicehd.click/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://newtest.webtv1.lol/lb/premium67/index.m3u8|referer=https://widevine.licenses4.me/
 
 #EXTINF:-1 tvg-id="beINSportsHaber.tr" tvg-logo="https://i.imgur.com/fBWCN2V.png" group-title="TURKISH SPORTS",beIN Sports Haber
 https://59c7ea6bec1c6.streamlock.net/filbox/beinsporthaber.stream/playlist.m3u8
@@ -2055,10 +2076,11 @@ https://smart-tv.livedoomovies.com:4431/02_epl1_720p/chunklist.m3u8|Referer=http
 https://smart-tv.livedoomovies.com:4431/02_epl2_720p/chunklist.m3u8|Referer=https://www.movie87hd.com/?r=ajax
 
 #EXTINF:-1 tvg-id="beINSportsUSA.us" tvg-logo="https://i.imgur.com/39bwyGI.png" group-title="AMERICAN SPORTS",beIN Sports USA
-https://no2.openhd.lol/ddy1/premium425/index.m3u8?|referer=https://streamservicehd.click/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://newtest.webtv1.lol/lb/premium425/index.m3u8|referer=https://widevine.licenses4.me/
 
 #EXTINF:-1 tvg-id="beINSportsenEspanol.us" tvg-logo="https://i.imgur.com/LfzLKei.png" group-title="AMERICAN SPORTS",beIN Sports en Español
-https://no2.openhd.lol/ddy1/premium372/index.m3u8?|referer=https://streamservicehd.click/
+http://4wycifxb.rostelekom.xyz/iptv/7A9D5FRZ9RT8LW/2543/index.m3u8
 
 #EXTINF:-1 tvg-id="beINSportsXtraUSA.us" tvg-logo="https://i.imgur.com/x8049OP.png" group-title="AMERICAN SPORTS",beIN Sports Xtra USA
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df975e2b27cf5000921c102/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c82b290-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=672c13ed-c11c-4ba2-b749-117f2f0aab45&userId=&serverSideAds=true
@@ -2070,94 +2092,123 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60492fdd9989d30007c
 http://status.tehw00t.net/miniProxy.php/https://bein-xtra-samsung-canada.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="BTSport1.uk" tvg-logo="https://i.imgur.com/7dg7EB7.png" group-title="BRITISH SPORTS",BT Sport 1
-https://no2.openhd.lol/ddy1/premium31/index.m3u8?|referer=https://streamservicehd.click/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://newtest.webtv1.lol/lb/premium31/index.m3u8|referer=https://widevine.licenses4.me/
 
 #EXTINF:-1 tvg-id="BTSport2.uk" tvg-logo="https://i.imgur.com/sIIFREX.png" group-title="BRITISH SPORTS",BT Sport 2
-https://no2.openhd.lol/ddy1/premium32/index.m3u8?|referer=https://streamservicehd.click/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://newtest.webtv1.lol/lb/premium32/index.m3u8|referer=https://widevine.licenses4.me/
 
 #EXTINF:-1 tvg-id="BTSport3.uk" tvg-logo="https://i.imgur.com/8IzsrMb.png" group-title="BRITISH SPORTS",BT Sport 3
-https://no2.openhd.lol/ddy1/premium33/index.m3u8?|referer=https://streamservicehd.click/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://newtest.webtv1.lol/lb/premium33/index.m3u8|referer=https://widevine.licenses4.me/
 
 #EXTINF:-1 tvg-id="BTSport4.uk" tvg-logo="https://i.imgur.com/gyTJhVr.png" group-title="BRITISH SPORTS",BT Sport 4
-https://no2.openhd.lol/ddy1/premium34/index.m3u8?|referer=https://streamservicehd.click/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://newtest.webtv1.lol/lb/premium34/index.m3u8|referer=https://widevine.licenses4.me/
 
 #EXTINF:-1 tvg-id="Eurosport1UK.uk" tvg-logo="https://i.imgur.com/gwV31E0.png" group-title="BRITISH SPORTS",Eurosport 1 UK
-https://no2.openhd.lol/ddy1/premium41/index.m3u8?|referer=https://streamservicehd.click/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://newtest.webtv1.lol/lb/premium41/index.m3u8|referer=https://widevine.licenses4.me/
 
 #EXTINF:-1 tvg-id="Eurosport2UK.uk" tvg-logo="https://i.imgur.com/lTnKDju.png" group-title="BRITISH SPORTS",Eurosport 2 UK
-https://no2.openhd.lol/ddy1/premium42/index.m3u8?|referer=https://streamservicehd.click/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://newtest.webtv1.lol/lb/premium42/index.m3u8|referer=https://widevine.licenses4.me/
 
 #EXTINF:-1 tvg-id="FreeSports.uk" tvg-logo="https://i.imgur.com/odSWnEa.png" group-title="BRITISH SPORTS",Viaplay Xtra
-https://no2.openhd.lol/ddy1/premium597/index.m3u8?|referer=https://streamservicehd.click/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://newtest.webtv1.lol/lb/premium597/index.m3u8|referer=https://widevine.licenses4.me/
 
 #EXTINF:-1 tvg-id="PremierSports1.ie" tvg-logo="https://i.imgur.com/LNDIaw0.png" group-title="BRITISH SPORTS",Viaplay Sports 1
-https://no2.openhd.lol/ddy1/premium451/index.m3u8?|referer=https://streamservicehd.click/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://newtest.webtv1.lol/lb/premium451/index.m3u8|referer=https://widevine.licenses4.me/
 
 #EXTINF:-1 tvg-id="PremierSports2.ie" tvg-logo="https://i.imgur.com/98La4MO.png" group-title="BRITISH SPORTS",Viaplay Sports 2
-https://no2.openhd.lol/ddy1/premium550/index.m3u8?|referer=https://streamservicehd.click/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://newtest.webtv1.lol/lb/premium550/index.m3u8|referer=https://widevine.licenses4.me/
 
 #EXTINF:-1 tvg-id="RacingTV.uk" tvg-logo="https://i.imgur.com/d81P4qV.jpg" group-title="BRITISH SPORTS",Racing TV
-https://no2.openhd.lol/ddy1/premium555/index.m3u8?|referer=https://streamservicehd.click/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://newtest.webtv1.lol/lb/premium555/index.m3u8|referer=https://widevine.licenses4.me/
 
 #EXTINF:-1 tvg-id="SkySportsNFL.uk" tvg-logo="https://i.imgur.com/jM1FeOX.png" group-title="BRITISH SPORTS",Sky Sports Action
-https://no2.openhd.lol/ddy1/premium37/index.m3u8?|referer=https://streamservicehd.click/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://newtest.webtv1.lol/lb/premium37/index.m3u8|referer=https://widevine.licenses4.me/
 
 #EXTINF:-1 tvg-id="SkySportsArena.uk" tvg-logo="https://i.imgur.com/eZwExGu.png" group-title="BRITISH SPORTS",Sky Sports Arena
-https://no2.openhd.lol/ddy1/premium36/index.m3u8?|referer=https://streamservicehd.click/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://newtest.webtv1.lol/lb/premium36/index.m3u8|referer=https://widevine.licenses4.me/
 
 #EXTINF:-1 tvg-id="SkySportsCricket.uk" tvg-logo="https://i.imgur.com/J8zzS2v.png" group-title="BRITISH SPORTS",Sky Sports Cricket
-https://no2.openhd.lol/ddy1/premium65/index.m3u8?|referer=https://streamservicehd.click/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://newtest.webtv1.lol/lb/premium65/index.m3u8|referer=https://widevine.licenses4.me/
 
 #EXTINF:-1 tvg-id="SkySportsF1.uk" tvg-logo="https://i.imgur.com/2kPW5qw.png" group-title="BRITISH SPORTS",Sky Sports F1
-https://no2.openhd.lol/ddy1/premium60/index.m3u8?|referer=https://streamservicehd.click/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://newtest.webtv1.lol/lb/premium60/index.m3u8|referer=https://widevine.licenses4.me/
 
 #EXTINF:-1 tvg-id="SkySportsFootball.uk" tvg-logo="https://i.imgur.com/EcFwNdj.png" group-title="BRITISH SPORTS",Sky Sports Football
-https://no2.openhd.lol/ddy1/premium35/index.m3u8?|referer=https://streamservicehd.click/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://newtest.webtv1.lol/lb/premium35/index.m3u8|referer=https://widevine.licenses4.me/
 
 #EXTINF:-1 tvg-id="SkySportsGolf.uk" tvg-logo="https://i.imgur.com/Q2ztKWZ.png" group-title="BRITISH SPORTS",Sky Sports Golf
-https://no2.openhd.lol/ddy1/premium70/index.m3u8?|referer=https://streamservicehd.click/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://newtest.webtv1.lol/lb/premium70/index.m3u8|referer=https://widevine.licenses4.me/
 
 #EXTINF:-1 tvg-id="SkySportsMainEvent.uk" tvg-logo="https://i.imgur.com/KHiae2e.png" group-title="BRITISH SPORTS",Sky Sports Main Event
-https://no2.openhd.lol/ddy1/premium38/index.m3u8?|referer=https://streamservicehd.click/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://newtest.webtv1.lol/lb/premium38/index.m3u8|referer=https://widevine.licenses4.me/
 
 #EXTINF:-1 tvg-id="SkySportsMix.uk" tvg-logo="https://i.imgur.com/PRF0DsV.png" group-title="BRITISH SPORTS",Sky Sports Mix
-https://no2.openhd.lol/ddy1/premium449/index.m3u8?|referer=https://streamservicehd.click/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://newtest.webtv1.lol/lb/premium449/index.m3u8|referer=https://widevine.licenses4.me/
 
 #EXTINF:-1 tvg-id="SkySportsNews.uk" tvg-logo="https://i.imgur.com/jcFnVbi.png" group-title="BRITISH SPORTS",Sky Sports News UK
-https://no2.openhd.lol/ddy1/premium366/index.m3u8?|referer=https://streamservicehd.click/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://newtest.webtv1.lol/lb/premium366/index.m3u8|referer=https://widevine.licenses4.me/
 
 #EXTINF:-1 tvg-id="SkySportsPremierLeague.uk" tvg-logo="https://i.imgur.com/wA3DieO.png" group-title="BRITISH SPORTS",Sky Sports Premier League
-https://no2.openhd.lol/ddy1/premium130/index.m3u8?|referer=https://streamservicehd.click/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://newtest.webtv1.lol/lb/premium130/index.m3u8|referer=https://widevine.licenses4.me/
 
 #EXTINF:-1 tvg-id="SkySportsRacing.uk" tvg-logo="https://i.imgur.com/vhYstlz.png" group-title="BRITISH SPORTS",Sky Sports Racing
-https://no2.openhd.lol/ddy1/premium554/index.m3u8?|referer=https://streamservicehd.click/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://newtest.webtv1.lol/lb/premium554/index.m3u8|referer=https://widevine.licenses4.me/
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1g9mYwr.png" group-title="AMERICAN SPORTS",CBS Sports Network
-https://no2.openhd.lol/ddy1/premium308/index.m3u8?|referer=https://streamservicehd.click/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://newtest.webtv1.lol/lb/premium308/index.m3u8|referer=https://widevine.licenses4.me/
 
 #EXTINF:-1 tvg-id="ESPN.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1920px-ESPN_wordmark.svg.png" group-title="AMERICAN SPORTS",ESPN US
-https://no2.openhd.lol/ddy1/premium44/index.m3u8?|referer=https://streamservicehd.click/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://newtest.webtv1.lol/lb/premium44/index.m3u8|referer=https://widevine.licenses4.me/
 
 #EXTINF:-1 tvg-id="ESPN2.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/1280px-ESPN2_logo.svg.png" group-title="AMERICAN SPORTS",ESPN 2 US
-https://no2.openhd.lol/ddy1/premium45/index.m3u8?|referer=https://streamservicehd.click/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://newtest.webtv1.lol/lb/premium45/index.m3u8|referer=https://widevine.licenses4.me/
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YhuEewa.png" group-title="AMERICAN SPORTS",ESPN Deportes
-https://no2.openhd.lol/ddy1/premium375/index.m3u8?|referer=https://streamservicehd.click/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://newtest.webtv1.lol/lb/premium375/index.m3u8|referer=https://widevine.licenses4.me/
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qimdreM.png" group-title="AMERICAN SPORTS",FS1
-https://no2.openhd.lol/ddy1/premium39/index.m3u8?|referer=https://streamservicehd.click/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://newtest.webtv1.lol/lb/premium39/index.m3u8|referer=https://widevine.licenses4.me/
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jxLMBZt.png" group-title="AMERICAN SPORTS",FS2
 http://4.26.188.2:8081/udp/239.193.10.102:23902
 
 #EXTINF:-1 tvg-id="GolfChannel.us" tvg-logo="https://i.imgur.com/0FJ92Bp.png" group-title="AMERICAN SPORTS",Golf Channel
-https://no2.openhd.lol/ddy1/premium318/index.m3u8?|referer=https://streamservicehd.click/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://newtest.webtv1.lol/lb/premium318/index.m3u8|referer=https://widevine.licenses4.me/
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/MLBNetworkLogo.svg/800px-MLBNetworkLogo.svg.png" group-title="AMERICAN SPORTS",MLB Network
-https://no2.openhd.lol/ddy1/premium399/index.m3u8?|referer=https://streamservicehd.click/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://newtest.webtv1.lol/lb/premium399/index.m3u8|referer=https://widevine.licenses4.me/
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gZXSAhf.png" group-title="AMERICAN SPORTS",NFL Network
-https://no2.openhd.lol/ddy1/premium405/index.m3u8?|referer=https://streamservicehd.click/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://newtest.webtv1.lol/lb/premium405/index.m3u8|referer=https://widevine.licenses4.me/
 
 #EXTINF:-1 tvg-id="NBATV.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/800px-NBA_TV.svg.png" group-title="AMERICAN SPORTS",NBA TV
 https://bit.ly/nbatvusa?/index.m3u8
@@ -2166,13 +2217,16 @@ https://bit.ly/nbatvusa?/index.m3u8
 https://dai.google.com/linear/hls/event/Dlqr46ybTSGWGTfRWcxS0g/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lcpZ5CC.png" group-title="AMERICAN SPORTS",WWE Network
-https://no2.openhd.lol/ddy1/premium376/index.m3u8?|referer=https://streamservicehd.click/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://newtest.webtv1.lol/lb/premium376/index.m3u8|referer=https://widevine.licenses4.me/
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/1920px-TUDN_Logo.svg.png" group-title="AMERICAN SPORTS",TUDN USA
-https://no2.openhd.lol/ddy1/premium66/index.m3u8?|referer=https://streamservicehd.click/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://newtest.webtv1.lol/lb/premium66/index.m3u8|referer=https://widevine.licenses4.me/
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/b7TO49Q.png" group-title="AUSTRALIAN SPORTS",Fox Sports 501
-https://no2.openhd.lol/ddy1/premium369/index.m3u8?|referer=https://streamservicehd.click/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://newtest.webtv1.lol/lb/premium369/index.m3u8|referer=https://widevine.licenses4.me/
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zeywLXs.png" group-title="AUSTRALIAN SPORTS",Fox Sports News
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
@@ -2187,70 +2241,92 @@ https://skylivetab-i.akamaihd.net/hls/live/569779/tablive/sky2.m3u8
 https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/stcsd.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bpS1hON.png" group-title="CANADIAN SPORTS",Sportsnet 360
-https://no2.openhd.lol/ddy1/premium409/index.m3u8?|referer=https://streamservicehd.click/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://newtest.webtv1.lol/lb/premium409/index.m3u8|referer=https://widevine.licenses4.me/
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/W8d65IY.png" group-title="CANADIAN SPORTS",Sportsnet One
-https://no2.openhd.lol/ddy1/premium411/index.m3u8?|referer=https://streamservicehd.click/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://newtest.webtv1.lol/lb/premium411/index.m3u8|referer=https://widevine.licenses4.me/
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gSK6eN9.png" group-title="CANADIAN SPORTS",Sportsnet World
-https://no2.openhd.lol/ddy1/premium410/index.m3u8?|referer=https://streamservicehd.click/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://newtest.webtv1.lol/lb/premium410/index.m3u8|referer=https://widevine.licenses4.me/
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/v48ueao.png" group-title="CANADIAN SPORTS",TSN1
-https://no2.openhd.lol/lb/premium111/index.m3u8?|referer=https://streamservicehd.click/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://newtest.webtv1.lol/lb/premium111/index.m3u8|referer=https://widevine.licenses4.me/
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HvPyPov.png" group-title="CANADIAN SPORTS",TSN2
-https://no2.openhd.lol/lb/premium112/index.m3u8?|referer=https://streamservicehd.click/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://newtest.webtv1.lol/lb/premium112/index.m3u8|referer=https://widevine.licenses4.me/
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NwjWSff.png" group-title="CANADIAN SPORTS",TSN3
-https://no2.openhd.lol/lb/premium113/index.m3u8?|referer=https://streamservicehd.click/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://newtest.webtv1.lol/lb/premium113/index.m3u8|referer=https://widevine.licenses4.me/
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5aQ01F1.png" group-title="CANADIAN SPORTS",TSN4
-https://no2.openhd.lol/lb/premium114/index.m3u8?|referer=https://streamservicehd.click/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://newtest.webtv1.lol/lb/premium114/index.m3u8|referer=https://widevine.licenses4.me/
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uoy75nW.png" group-title="CANADIAN SPORTS",TSN5
-https://no2.openhd.lol/lb/premium115/index.m3u8?|referer=https://streamservicehd.click/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://newtest.webtv1.lol/lb/premium115/index.m3u8|referer=https://widevine.licenses4.me/
 
 #EXTINF:-1 tvg-id="CanalPlusSport2Poland.pl" tvg-logo="https://i.imgur.com/p0k54D9.png" group-title="POLISH SPORTS",Canal + Sport Polska
-https://no2.openhd.lol/ddy1/premium48/index.m3u8?|referer=https://streamservicehd.click/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://newtest.webtv1.lol/lb/premium48/index.m3u8|referer=https://widevine.licenses4.me/
 
 #EXTINF:-1 tvg-id="CanalPlusSportPoland.pl" tvg-logo="https://i.imgur.com/Xz33IHR.png" group-title="POLISH SPORTS",Canal + Sport 2 Polska
-https://no2.openhd.lol/ddy1/premium73/index.m3u8?|referer=https://streamservicehd.click/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://newtest.webtv1.lol/lb/premium73/index.m3u8|referer=https://widevine.licenses4.me/
 
 #EXTINF:-1 tvg-id="ElevenSports1Poland.pl" tvg-logo="https://i.imgur.com/cSVAkg0.png" group-title="POLISH SPORTS",Eleven Sports 1 Polska
-https://no2.openhd.lol/ddy1/premium71/index.m3u8?|referer=https://streamservicehd.click/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://newtest.webtv1.lol/lb/premium71/index.m3u8|referer=https://widevine.licenses4.me/
 
 #EXTINF:-1 tvg-id="ElevenSports2Poland.pl" tvg-logo="https://i.imgur.com/TlNAO45.png" group-title="POLISH SPORTS",Eleven Sports 2 Polska
-https://no2.openhd.lol/ddy1/premium72/index.m3u8?|referer=https://streamservicehd.click/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://newtest.webtv1.lol/lb/premium72/index.m3u8|referer=https://widevine.licenses4.me/
 
 #EXTINF:-1 tvg-id="ElevenSports3Poland.pl" tvg-logo="https://i.imgur.com/fI2Hazk.png" group-title="POLISH SPORTS",Eleven Sports 3 Polska
-https://no2.openhd.lol/ddy1/premium428/index.m3u8?|referer=https://streamservicehd.click/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://newtest.webtv1.lol/lb/premium428/index.m3u8|referer=https://widevine.licenses4.me/
 
 #EXTINF:-1 tvg-id="Eurosport1Poland.fr" tvg-logo="https://i.imgur.com/gwV31E0.png" group-title="POLISH SPORTS",Eurosport 1 Polska
-https://no2.openhd.lol/ddy1/premium57/index.m3u8?|referer=https://streamservicehd.click/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://newtest.webtv1.lol/lb/premium57/index.m3u8|referer=https://widevine.licenses4.me/
 
 #EXTINF:-1 tvg-id="Eurosport2Poland.fr" tvg-logo="https://i.imgur.com/lTnKDju.png" group-title="POLISH SPORTS",Eurosport 2 Polska
-https://no2.openhd.lol/ddy1/premium58/index.m3u8?|referer=https://streamservicehd.click/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://newtest.webtv1.lol/lb/premium58/index.m3u8|referer=https://widevine.licenses4.me/
 
 #EXTINF:-1 tvg-id="PolsatSport.pl" tvg-logo="https://i.imgur.com/pM6Q5n1.png" group-title="POLISH SPORTS",Polsat Sport
-https://no2.openhd.lol/ddy1/premium47/index.m3u8?|referer=https://streamservicehd.click/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://newtest.webtv1.lol/lb/premium47/index.m3u8|referer=https://widevine.licenses4.me/
 
 #EXTINF:-1 tvg-id="PolsatSportExtra.pl" tvg-logo="https://i.imgur.com/mnohjlI.png" group-title="POLISH SPORTS",Polsat Sport Extra
-https://no2.openhd.lol/ddy1/premium50/index.m3u8?|referer=https://streamservicehd.click/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://newtest.webtv1.lol/lb/premium50/index.m3u8|referer=https://widevine.licenses4.me/
 
 #EXTINF:-1 tvg-id="PolsatSportNews.pl" tvg-logo="https://i.imgur.com/QJIzCGa.png" group-title="POLISH SPORTS",Polsat Sport News
-https://no2.openhd.lol/ddy1/premium129/index.m3u8?|referer=https://streamservicehd.click/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://newtest.webtv1.lol/lb/premium129/index.m3u8|referer=https://widevine.licenses4.me/
 
 #EXTINF:-1 tvg-id="TVPSport.pl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Logo_TVP_Sport.jpg" group-title="POLISH SPORTS",TVP Sport
-https://no2.openhd.lol/ddy1/premium128/index.m3u8?|referer=https://streamservicehd.click/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://newtest.webtv1.lol/lb/premium128/index.m3u8|referer=https://widevine.licenses4.me/
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IOgM8IM.png" group-title="FRENCH SPORTS",Canal + Foot
-https://no2.openhd.lol/ddy1/premium463/index.m3u8?|referer=https://streamservicehd.click/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://newtest.webtv1.lol/lb/premium463/index.m3u8|referer=https://widevine.licenses4.me/
 
 #EXTINF:-1 tvg-id="CanalPlusSportFrance.fr" tvg-logo="https://i.imgur.com/p0k54D9.png" group-title="FRENCH SPORTS",Canal + Sport France
-https://no2.openhd.lol/ddy1/premium122/index.m3u8?|referer=https://streamservicehd.click/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://newtest.webtv1.lol/lb/premium122/index.m3u8|referer=https://widevine.licenses4.me/
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZPVidfU.png" group-title="FRENCH SPORTS",Canal + Sport 360
-https://no2.openhd.lol/ddy1/premium464/index.m3u8?|referer=https://streamservicehd.click/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://newtest.webtv1.lol/lb/premium464/index.m3u8|referer=https://widevine.licenses4.me/
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/L%27%C3%89quipe_wordmark.svg/1920px-L%27%C3%89quipe_wordmark.svg.png" group-title="FRENCH SPORTS",L'Equipe
 http://callofliberty.fr/stream/LEQUIPE/master.m3u8
@@ -2262,28 +2338,36 @@ http://51.178.65.238:80/RMC1/index.m3u8
 http://51.178.65.238:80/RMC2/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kaUN9Uw.png" group-title="ROMANIAN SPORTS",Digi Sport 1
-https://no2.openhd.lol/ddy1/premium400/index.m3u8?|referer=https://streamservicehd.click/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://newtest.webtv1.lol/lb/premium400/index.m3u8|referer=https://widevine.licenses4.me/
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xxLvKJD.png" group-title="ROMANIAN SPORTS",Digi Sport 2
-https://no2.openhd.lol/ddy1/premium401/index.m3u8?|referer=https://streamservicehd.click/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://newtest.webtv1.lol/lb/premium401/index.m3u8|referer=https://widevine.licenses4.me/
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WiynV2K.png" group-title="ROMANIAN SPORTS",Digi Sport 3
-https://no2.openhd.lol/ddy1/premium402/index.m3u8?|referer=https://streamservicehd.click/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://newtest.webtv1.lol/lb/premium402/index.m3u8|referer=https://widevine.licenses4.me/
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kBsQd2d.png" group-title="ROMANIAN SPORTS",Digi Sport 4
-https://no2.openhd.lol/ddy1/premium403/index.m3u8?|referer=https://streamservicehd.click/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://newtest.webtv1.lol/lb/premium403/index.m3u8|referer=https://widevine.licenses4.me/
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4mc9xs0.png" group-title="ROMANIAN SPORTS",Orange Sport 1
-https://no2.openhd.lol/ddy1/premium439/index.m3u8?|referer=https://streamservicehd.click/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://newtest.webtv1.lol/lb/premium439/index.m3u8|referer=https://widevine.licenses4.me/
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2DY6BwT.png" group-title="ROMANIAN SPORTS",Orange Sport 2
-https://no2.openhd.lol/ddy1/premium440/index.m3u8?|referer=https://streamservicehd.click/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://newtest.webtv1.lol/lb/premium440/index.m3u8|referer=https://widevine.licenses4.me/
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gSQTD0Q.png" group-title="ROMANIAN SPORTS",Orange Sport 3
-https://no2.openhd.lol/ddy1/premium441/index.m3u8?|referer=https://streamservicehd.click/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://newtest.webtv1.lol/lb/premium441/index.m3u8|referer=https://widevine.licenses4.me/
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/M6o25QC.png" group-title="ROMANIAN SPORTS",Orange Sport 4
-https://no2.openhd.lol/ddy1/premium442/index.m3u8?|referer=https://streamservicehd.click/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://newtest.webtv1.lol/lb/premium442/index.m3u8|referer=https://widevine.licenses4.me/
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CSBS4Ff.png" group-title="GERMAN SPORTS",DAZN 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
@@ -2304,10 +2388,12 @@ https://no2.openhd.lol/ddy1/premium8/index.m3u8?|referer=https://streamservicehd
 https://no2.openhd.lol/ddy1/premium55/index.m3u8?|referer=https://streamservicehd.click/
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/olajgeM.png" group-title="GERMAN SPORTS",Sky Sport Top Event
-https://no2.openhd.lol/ddy1/premium556/index.m3u8?|referer=https://streamservicehd.click/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://newtest.webtv1.lol/lb/premium556/index.m3u8|referer=https://widevine.licenses4.me/
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xSPDmkP.png" group-title="GERMAN SPORTS",Sky Sport Mix
-https://no2.openhd.lol/ddy1/premium557/index.m3u8?|referer=https://streamservicehd.click/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://newtest.webtv1.lol/lb/premium557/index.m3u8|referer=https://widevine.licenses4.me/
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Sport-Digital.svg/1920px-Sport-Digital.svg.png" group-title="GERMAN SPORTS",sportdigital
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
@@ -2328,16 +2414,20 @@ https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-029/stream.mpd
 https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-030/stream.mpd
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Sky_Sport_Arena_-_Logo_2020.svg/1920px-Sky_Sport_Arena_-_Logo_2020.svg.png" group-title="ITALIAN SPORTS",Sky Sport Arena
-https://no2.openhd.lol/ddy1/premium462/index.m3u8?|referer=https://streamservicehd.click/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://newtest.webtv1.lol/lb/premium462/index.m3u8|referer=https://widevine.licenses4.me/
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Sky_Sport_Uno_-_Logo_2020.svg/1920px-Sky_Sport_Uno_-_Logo_2020.svg.png" group-title="ITALIAN SPORTS",Sky Sport Uno
-https://no2.openhd.lol/ddy1/premium461/index.m3u8?|referer=https://streamservicehd.click/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://newtest.webtv1.lol/lb/premium461/index.m3u8|referer=https://widevine.licenses4.me/
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Sky_Sport_Football_-_Logo_2020.svg/1920px-Sky_Sport_Football_-_Logo_2020.svg.png" group-title="ITALIAN SPORTS",Sky Sport Football
-https://no2.openhd.lol/ddy1/premium460/index.m3u8?|referer=https://streamservicehd.click/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://newtest.webtv1.lol/lb/premium460/index.m3u8|referer=https://widevine.licenses4.me/
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fubqEnF.png" group-title="SPANISH SPORTS",#Vamos
-https://no2.openhd.lol/ddy1/premium521/index.m3u8?|referer=https://streamservicehd.click/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://newtest.webtv1.lol/lb/premium521/index.m3u8|referer=https://widevine.licenses4.me/
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CSBS4Ff.png" group-title="SPANISH SPORTS",DAZN 1 España
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
@@ -2352,10 +2442,12 @@ https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-037/stream.mpd
 https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-038/stream.mpd
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YiFmUxC.png" group-title="SPANISH SPORTS",DAZN 3 España
-https://no2.openhd.lol/ddy1/premium447/index.m3u8?|referer=https://streamservicehd.click/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://newtest.webtv1.lol/lb/premium447/index.m3u8|referer=https://widevine.licenses4.me/
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aiZCV4i.png" group-title="SPANISH SPORTS",DAZN 4 España
-https://no2.openhd.lol/ddy1/premium448/index.m3u8?|referer=https://streamservicehd.click/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://newtest.webtv1.lol/lb/premium448/index.m3u8|referer=https://widevine.licenses4.me/
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rqSPxoU.png" group-title="SPANISH SPORTS",DAZN F1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
@@ -2382,22 +2474,28 @@ https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-031/stream.mpd
 https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-032/stream.mpd
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/U10gOuT.png" group-title="SPANISH SPORTS",Gol
-https://no2.openhd.lol/ddy1/premium530/index.m3u8?|referer=https://streamservicehd.click/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://newtest.webtv1.lol/lb/premium530/index.m3u8|referer=https://widevine.licenses4.me/
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xsYGFyy.png" group-title="SPANISH SPORTS",Movistar Deportes
-https://no2.openhd.lol/ddy1/premium436/index.m3u8?|referer=https://streamservicehd.click/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://newtest.webtv1.lol/lb/premium436/index.m3u8|referer=https://widevine.licenses4.me/
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WYIpWC0.png" group-title="SPANISH SPORTS",Movistar Golf
-https://no2.openhd.lol/ddy1/premium528/index.m3u8?|referer=https://streamservicehd.click/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://newtest.webtv1.lol/lb/premium528/index.m3u8|referer=https://widevine.licenses4.me/
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QlDOQ7i.png" group-title="SPANISH SPORTS",Movistar LaLiga
-https://no2.openhd.lol/ddy1/premium84/index.m3u8?|referer=https://streamservicehd.click/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://newtest.webtv1.lol/lb/premium84/index.m3u8|referer=https://widevine.licenses4.me/
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vnKI1Oo.png" group-title="SPANISH SPORTS",Movistar Liga de Campeones
-https://no2.openhd.lol/ddy1/premium435/index.m3u8?|referer=https://streamservicehd.click/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://newtest.webtv1.lol/lb/premium435/index.m3u8|referer=https://widevine.licenses4.me/
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Teledeporte.svg/1280px-Teledeporte.svg.png" group-title="SPANISH SPORTS",Teledeporte
-https://no2.openhd.lol/ddy1/premium529/index.m3u8?|referer=https://streamservicehd.click/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://newtest.webtv1.lol/lb/premium529/index.m3u8|referer=https://widevine.licenses4.me/
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qfVunzp.png" group-title="PORTUGUESE SPORTS",Canal 11
 http://45.92.69.72:8000/play/a0ge
@@ -2406,31 +2504,39 @@ http://45.92.69.72:8000/play/a0ge
 https://d2ve4fchffi4n1.cloudfront.net/out/v1/df356edd16f3434ab417f2c48cb1d516/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kTXQVRD.png" group-title="PORTUGUESE SPORTS",Eleven Sports 1
-https://no2.openhd.lol/ddy1/premium455/index.m3u8?|referer=https://streamservicehd.click/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://newtest.webtv1.lol/lb/premium455/index.m3u8|referer=https://widevine.licenses4.me/
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MomX4fY.png" group-title="PORTUGUESE SPORTS",Eleven Sports 2
-https://no2.openhd.lol/ddy1/premium456/index.m3u8?|referer=https://streamservicehd.click/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://newtest.webtv1.lol/lb/premium456/index.m3u8|referer=https://widevine.licenses4.me/
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xs4DM6q.png" group-title="PORTUGUESE SPORTS",Eleven Sports 3
-https://no2.openhd.lol/ddy1/premium457/index.m3u8?|referer=https://streamservicehd.click/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://newtest.webtv1.lol/lb/premium457/index.m3u8|referer=https://widevine.licenses4.me/
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/33qWa8r.png" group-title="PORTUGUESE SPORTS",Eleven Sports 4
-https://no2.openhd.lol/ddy1/premium458/index.m3u8?|referer=https://streamservicehd.click/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://newtest.webtv1.lol/lb/premium458/index.m3u8|referer=https://widevine.licenses4.me/
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uwcqzPm.png" group-title="PORTUGUESE SPORTS",Eleven Sports 5
-https://no2.openhd.lol/ddy1/premium459/index.m3u8?|referer=https://streamservicehd.click/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://newtest.webtv1.lol/lb/premium459/index.m3u8|referer=https://widevine.licenses4.me/
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YweD3ZH.png" group-title="PORTUGUESE SPORTS",Eleven Sports 6
 http://62.28.71.186:45678/http/192.168.150.137:7137/eleven6
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pcAhRs8.png" group-title="PORTUGUESE SPORTS",Sport TV 1
-https://no2.openhd.lol/lb/premium49/index.m3u8?|referer=https://streamservicehd.click/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://newtest.webtv1.lol/lb/premium49/index.m3u8|referer=https://widevine.licenses4.me/
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CPt6Fsg.png" group-title="PORTUGUESE SPORTS",Sport TV 2
-https://no2.openhd.lol/lb/premium74/index.m3u8?|referer=https://streamservicehd.click/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://newtest.webtv1.lol/lb/premium74/index.m3u8|referer=https://widevine.licenses4.me/
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wbhOsK2.png" group-title="PORTUGUESE SPORTS",Sport TV 3
-https://no2.openhd.lol/lb/premium454/index.m3u8?|referer=https://streamservicehd.click/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://newtest.webtv1.lol/lb/premium454/index.m3u8|referer=https://widevine.licenses4.me/
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/itYiAnd.png" group-title="PORTUGUESE SPORTS",Sport TV 4
 http://udashboard.vip:8080/Akeriptv76/BknNtsYXxV/74423.ts
@@ -2459,22 +2565,28 @@ http://58.99.33.16:1935/liveedge17/live_122_3.stream/chunklist.m3u8
 http://51.79.82.208:16058
 
 #EXTINF:-1 tvg-id="AstroCricket.my" tvg-logo="https://i.imgur.com/DhbmBsD.png" group-title="MALAY SPORTS",Astro Cricket
-https://no2.openhd.lol/ddy1/premium370/index.m3u8?|referer=https://streamservicehd.click/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://newtest.webtv1.lol/lb/premium370/index.m3u8|referer=https://widevine.licenses4.me/
 
 #EXTINF:-1 tvg-id="AstroSuperSport.my" tvg-logo="https://i.imgur.com/X2WVnWr.png" group-title="MALAY SPORTS",Astro Supersport
-https://no2.openhd.lol/ddy1/premium123/index.m3u8?|referer=https://streamservicehd.click/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://newtest.webtv1.lol/lb/premium123/index.m3u8|referer=https://widevine.licenses4.me/
 
 #EXTINF:-1 tvg-id="AstroSuperSport2.my" tvg-logo="https://i.imgur.com/AZQ0xgp.png" group-title="MALAY SPORTS",Astro Supersport 2
-https://no2.openhd.lol/ddy1/premium124/index.m3u8?|referer=https://streamservicehd.click/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://newtest.webtv1.lol/lb/premium124/index.m3u8|referer=https://widevine.licenses4.me/
 
 #EXTINF:-1 tvg-id="AstroSuperSport3.my" tvg-logo="https://i.imgur.com/cMYSM6e.png" group-title="MALAY SPORTS",Astro Supersport 3
-https://no2.openhd.lol/ddy1/premium125/index.m3u8?|referer=https://streamservicehd.click/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://newtest.webtv1.lol/lb/premium125/index.m3u8|referer=https://widevine.licenses4.me/
 
 #EXTINF:-1 tvg-id="AstroSuperSport4.my" tvg-logo="https://i.imgur.com/PlwrDwx.png" group-title="MALAY SPORTS",Astro Supersport 4
-https://no2.openhd.lol/ddy1/premium126/index.m3u8?|referer=https://streamservicehd.click/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://newtest.webtv1.lol/lb/premium126/index.m3u8|referer=https://widevine.licenses4.me/
 
 #EXTINF:-1 tvg-id="AstroSuperSport5.my" tvg-logo="https://i.imgur.com/FieopQP.png" group-title="MALAY SPORTS",Astro Supersport 5
-https://no2.openhd.lol/ddy1/premium43/index.m3u8?|referer=https://streamservicehd.click/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://newtest.webtv1.lol/lb/premium43/index.m3u8|referer=https://widevine.licenses4.me/
 
 #EXTINF:-1 tvg-id="RTMK05" tvg-logo="https://i.imgur.com/8NC0zoQ.png" tvg-url="https://raw.githubusercontent.comc/samleong123/rtm-live/main/rtmklik.xml" group-title="MALAY SPORTS",TV Sukan
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36
@@ -2549,19 +2661,25 @@ https://mn-nl.mncdn.com/blutv_trtspor_2/trtspor.smil/playlist.m3u8
 https://mn-nl.mncdn.com/blutv_trtsporyildiz_2/trtsporyildiz.smil/playlist.m3u8 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1920px-ESPN_wordmark.svg.png" group-title="DUTCH SPORTS",ESPN Nederland
-https://no2.openhd.lol/ddy1/premium379/index.m3u8?|referer=https://streamservicehd.click/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://newtest.webtv1.lol/lb/premium379/index.m3u8|referer=https://widevine.licenses4.me/
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/1280px-ESPN2_logo.svg.png" group-title="DUTCH SPORTS",ESPN 2 Nederland
-https://no2.openhd.lol/ddy1/premium386/index.m3u8?|referer=https://streamservicehd.click/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://newtest.webtv1.lol/lb/premium386/index.m3u8|referer=https://widevine.licenses4.me/
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SrorhG7.png" group-title="DUTCH SPORTS",Ziggo Sport Racing
-https://no2.openhd.lol/ddy1/premium396/index.m3u8?|referer=https://streamservicehd.click/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://newtest.webtv1.lol/lb/premium396/index.m3u8|referer=https://widevine.licenses4.me/
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8DlO0BF.png" group-title="DUTCH SPORTS",Ziggo Sport Select
-https://no2.openhd.lol/ddy1/premium393/index.m3u8?|referer=https://streamservicehd.click/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://newtest.webtv1.lol/lb/premium393/index.m3u8|referer=https://widevine.licenses4.me/
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aufKGRo.png" group-title="DUTCH SPORTS",Ziggo Sport Voetbal
-https://no2.openhd.lol/ddy1/premium398/index.m3u8?|referer=https://streamservicehd.click/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9c0b24d5e9e2456c93f8fae2e913182c:e06339c46258a695fc8a2e8bfb394b6a
+https://cdsvideolive3.solocoo.tv/blueskycdslive7dash/blueziggosportvoetbal/Manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8A0aYWf.png" group-title="SERBIAN SPORTS",Arena Premium 1
 https://no2.openhd.lol/ddy1/premium134/index.m3u8?|referer=https://streamservicehd.click/
@@ -2618,13 +2736,16 @@ https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/playlist.m3u8
 https://d3junmnzdfp8ej.cloudfront.net/hls/tv_720p30.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xgLeXwi.png" group-title="LATINO SPORTS",ESPN Premium
-https://no2.openhd.lol/lb/premium387/index.m3u8?|referer=https://streamservicehd.click/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://newtest.webtv1.lol/lb/premium387/index.m3u8|referer=https://widevine.licenses4.me/
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1920px-ESPN_wordmark.svg.png" group-title="LATINO SPORTS",ESPN Latin America
-https://no2.openhd.lol/ddy1/premium149/index.m3u8?|referer=https://streamservicehd.click/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://newtest.webtv1.lol/lb/premium149/index.m3u8|referer=https://widevine.licenses4.me/
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/1280px-ESPN2_logo.svg.png" group-title="LATINO SPORTS",ESPN 2 Latin America
-https://no2.openhd.lol/ddy1/premium150/index.m3u8?|referer=https://streamservicehd.click/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://newtest.webtv1.lol/lb/premium150/index.m3u8|referer=https://widevine.licenses4.me/
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Crvxgth.png" group-title="LATINO SPORTS",ESPN 3 Latin America
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -2693,34 +2814,43 @@ http://190.61.102.67:31589/play/a08j/index.m3u8
 http://206.1.95.2:8004/play/a01p
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ed/Canal-combate-logo.png" group-title="BRASILIAN SPORTS",Combate
-https://no2.openhd.lol/ddy1/premium89/index.m3u8?|referer=https://streamservicehd.click/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://newtest.webtv1.lol/lb/premium89/index.m3u8|referer=https://widevine.licenses4.me/
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1920px-ESPN_wordmark.svg.png" group-title="BRASILIAN SPORTS",ESPN Brasil
-https://no2.openhd.lol/ddy1/premium81/index.m3u8?|referer=https://streamservicehd.click/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://newtest.webtv1.lol/lb/premium81/index.m3u8|referer=https://widevine.licenses4.me/
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/1280px-ESPN2_logo.svg.png" group-title="BRASILIAN SPORTS",ESPN 2 Brasil
-https://no2.openhd.lol/ddy1/premium82/index.m3u8?|referer=https://streamservicehd.click/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://newtest.webtv1.lol/lb/premium82/index.m3u8|referer=https://widevine.licenses4.me/
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Crvxgth.png" group-title="BRASILIAN SPORTS",ESPN 3 Brasil
-https://no2.openhd.lol/ddy1/premium83/index.m3u8?|referer=https://streamservicehd.click/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://newtest.webtv1.lol/lb/premium83/index.m3u8|referer=https://widevine.licenses4.me/
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/89RCPvg.png" group-title="BRASILIAN SPORTS",ESPN 4 Brasil
-https://no2.openhd.lol/ddy1/premium85/index.m3u8?|referer=https://streamservicehd.click/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://newtest.webtv1.lol/lb/premium85/index.m3u8|referer=https://widevine.licenses4.me/
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DpnatBM.png" group-title="BRASILIAN SPORTS",Fox Sports 2 Brasil
 http://170.82.200.38:8080/fox_sports_2/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/a2/Logo_Premiere_FC_2018.png" group-title="BRASILIAN SPORTS",Premiere Clubes
-https://no2.openhd.lol/ddy1/premium88/index.m3u8?|referer=https://streamservicehd.click/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://newtest.webtv1.lol/lb/premium88/index.m3u8|referer=https://widevine.licenses4.me/
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iweh0Li.png" group-title="BRASILIAN SPORTS",SporTV
-https://no2.openhd.lol/lb/premium78/index.m3u8?|referer=https://streamservicehd.click/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://newtest.webtv1.lol/lb/premium78/index.m3u8|referer=https://widevine.licenses4.me/
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AAdoNsr.png" group-title="BRASILIAN SPORTS",SporTV 2
-https://no2.openhd.lol/ddy1/premium79/index.m3u8?|referer=https://streamservicehd.click/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://newtest.webtv1.lol/lb/premium79/index.m3u8|referer=https://widevine.licenses4.me/
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RcpUcYG.png" group-title="BRASILIAN SPORTS",SporTV 3
-https://no2.openhd.lol/ddy1/premium80/index.m3u8?|referer=https://streamservicehd.click/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://newtest.webtv1.lol/lb/premium80/index.m3u8|referer=https://widevine.licenses4.me/
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XO9yr6R.png" group-title="AFRICAN SPORTS",Supersport Action Africa
 https://no2.openhd.lol/ddy1/premium420/index.m3u8?|referer=https://streamservicehd.click/
