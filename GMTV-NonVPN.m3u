@@ -2601,7 +2601,7 @@ https://unifi-live05.secureswiftcontent.com/UnifiHD/live11.mpd
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live12.mpd
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ycxjpTX.png" group-title="INDIAN SPORTS",Eurosport India
-http://103.179.246.243:8000/play/a00r
+https://jio-sabbiriptv.vercel.app/jio/Dsports
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6znCap2.png" group-title="INDIAN SPORTS",Sony Ten 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -2619,7 +2619,7 @@ https://cdn-01.toffeelive.com/origin-09/live-origin/smil:sony_ten2_hd.smil/manif
 https://cdn-01.toffeelive.com/origin-09/live-origin/smil:sony_ten3_hd.smil/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KG2TBZh.png" group-title="INDIAN SPORTS",Sony Ten 4
-https://tv.googledrivelinks.com/live.php?c=Ten_4_HD_Tamil&q=1200&e=.m3u8
+https://jio-sabbiriptv.vercel.app/jio/Ten_4_HD_Tamil
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3cX6mla.png" group-title="INDIAN SPORTS",Sony Ten 5
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -2627,10 +2627,10 @@ https://tv.googledrivelinks.com/live.php?c=Ten_4_HD_Tamil&q=1200&e=.m3u8
 https://cdn-01.toffeelive.com/origin-08/live-origin/smil:sony_six_hd.smil/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WPEouAc.png" group-title="INDIAN SPORTS",Sports 18 1
-https://tv.googledrivelinks.com/live.php?c=Sports18_1_HD&q=1200&e=.m3u8
+https://jio-sabbiriptv.vercel.app/jio/Sports18_1_HD
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nNsGKa2.png" group-title="INDIAN SPORTS",Sports 18 Khel
-https://tv.googledrivelinks.com/live.php?c=Sports18_Khel&q=1200&e=.m3u8
+https://jio-sabbiriptv.vercel.app/jio/Sports18_Khel
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/l7gSBMN.png" group-title="INDIAN SPORTS",Star Sports 1
 http://212.102.38.8:8080/57e7744848e617b38a7b304007c8a142b0565f02d5a2bbd7b211c5c747403ea2/index.m3u8?token=a331c4f703f48ec632074925d612409ab02df314-f3a8dcc34f12fe098b0d254897336742-1666979293-1666957693&remote=172.104.238.29
