@@ -3039,54 +3039,6 @@ https://stream01.willfonk.com/live_playlist.m3u8?cid=CS257&r=HD&ccode=JP&m=d0:20
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8TcSkND.png" group-title="JAPANESE SPORTS",Sky A
 https://stream01.willfonk.com/live_playlist.m3u8?cid=CS250&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/UfGRPSO.png" group-title="KOREAN SPORTS",JTBC Golf
-https://allanf181.github.io/adaptive-streams/streams/kr/JTBCGolf.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ToiFXqp.png" group-title="KOREAN SPORTS",JTBC Golf&Sports
-http://140.238.6.140:8881/stream/channel/bc035199f244ef5eabb539c178fabdfb
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wIX6jib.png" group-title="KOREAN SPORTS",Golf & PBA
-http://mytv.dothome.co.kr/ch/catv/250.php
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/x4dJGb7.png" group-title="KOREAN SPORTS",KBS N Sports
-http://mytv.dothome.co.kr/ch/catv/243.php
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/MBC_SportsPlus.svg/1200px-MBC_SportsPlus.svg.png" group-title="KOREAN SPORTS",MBC Sports+
-http://mytv.dothome.co.kr/ch/catv/242.php
-
-#EXTINF:-1 tvg-id="SBSGolf.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/SBS_Golf_logo_2018.svg/1920px-SBS_Golf_logo_2018.svg.png" group-title="KOREAN SPORTS",SBS Golf
-https://allanf181.github.io/adaptive-streams/streams/kr/SBSGolf.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/R5gsdt5.png" group-title="KOREAN SPORTS",SBS Sports
-http://live1.streamk.co:8080/sportsbox_preview/live51/playlist.m3u8?site=gaktv&ch=live51
-
-#EXTINF:-1 tvg-id="SkySports.kr" tvg-logo="https://i.imgur.com/LAdhx1A.png" group-title="KOREAN SPORTS",skySports
-https://allanf181.github.io/adaptive-streams/streams/kr/SkySports.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Bj0MyZQ.png" group-title="KOREAN SPORTS",SPOTV
-http://live1.streamk.co:8080/sportsbox_preview/live53/playlist.m3u8?site=gaktv&ch=live53
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WbPfNOb.png" group-title="KOREAN SPORTS",SPOTV 2
-http://live1.streamk.co:8080/sportsbox_preview/live54/playlist.m3u8?site=gaktv&ch=live54
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Wqr27sL.png" group-title="KOREAN SPORTS",SPOTV On
-http://live1.streamk.co:8080/sportsbox_preview/live46/playlist.m3u8?site=gaktv&ch=live46
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7gqJvK1.png" group-title="KOREAN SPORTS",SPOTV On 2
-http://live1.streamk.co:8080/sportsbox_preview/live47/playlist.m3u8?site=gaktv&ch=live47
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qN3oqb8.png" group-title="KOREAN SPORTS",SPOTV Prime
-http://live1.streamk.co:8080/sportsbox_preview/live52/playlist.m3u8?site=gaktv&ch=live55
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/cvN2ybJ.png" group-title="KOREAN SPORTS",tvN Sports
-http://live1.streamk.co:8080/sportsbox_preview/live55/playlist.m3u8?site=gaktv&ch=live52
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/r27965c.png" group-title="THAI SPORTS",Golf Channel Thailand
-https://iptv-thai.herokuapp.com/tv.php?channel=115446
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mQnEVYf.png" group-title="THAI SPORTS",Golf Channel+ Thailand
-https://iptv-thai.herokuapp.com/tv.php?channel=115698
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dfcJkab.png" group-title="THAI SPORTS",T Sports
 http://udn-streamer1.cdn.3bbtv.com:8080/3bb/live/7/7.mpd
 
@@ -3261,11 +3213,6 @@ https://live-sg1.global.ssl.fastly.net/live-hls/tonton1_720p/index.m3u8
 
 #EXTINF:-1 tvg-id="TV9.my" tvg-logo="https://i.imgur.com/smKCnNj.png" group-title="MALAYSIA",TV 9
 https://live-sg1.global.ssl.fastly.net/live-hls/tonton4_720p/index.m3u8 
-
-#EXTINF:-1 tvg-id="TVS.my" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/92/TVS_Sarawak.jpg" group-title="MALAYSIA",TVS
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=dd600869fd5f4bfee286825f6d778b10&key=eb5b83acbbd79af479a00db92935a34b
-http://iptv12k.com:35461/live/80301070602/456776/745.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rdLxnli.png" group-title="VISUAL RADIO",Buletin FM
 https://raw.githubusercontent.com/AqFad2811/RadioYTLive/main/BuletinFM.m3u8
