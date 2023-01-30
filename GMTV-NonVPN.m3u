@@ -2742,6 +2742,27 @@ https://newtest.webtv1.lol/lb/premium433/index.m3u8|referer=https://widevine.lic
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://newtest.webtv1.lol/lb/premium434/index.m3u8|referer=https://widevine.licenses4.me/
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/M4ZmEix.png" group-title="NORDIC SPORTS",C More Fotboll
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c1c657aa160c5b328f1e76747534b913:785e0773e9d534a00f4619315674ef7f
+https://lbs-usp-dash-live.cmore.se/tvm-packager-prod/group3/60ae452e1522bdf301694494/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qrnXK65.png" group-title="NORDIC SPORTS",V Sport Football
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ce37e20374e55be6bb4d26837af27605:52cc532f748fcbf2b806dad4289bf84c
+https://director.streaming.telia.com/tvm-packager-prod/group1/60896dfd47a23d7c065cd68c/manifest.mpd
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cxBZAVv.png" group-title="NORDIC SPORTS",V Sport Premium
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=cbd13b7a883e53e98d5c7f34d0013be8:d5bc9e92f214d77520ab7faa1ecad10b
+https://director.streaming.telia.com/tvm-packager-prod/group1/60896c3647a23d7f115cd57a/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PwHHulD.png" group-title="NORDIC SPORTS",V Sport Extra
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=bc972382f04c531983b7aab6bf642ad8:ddfd212680eb891b755610eac5becf85
+https://director.streaming.telia.com/tvm-packager-prod/group3/60ae4f5e1522bd739f6959a1/manifest.mpd
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fOOqLPb.png" group-title="LATINO SPORTS",Claro Sports
 https://d3q84yclyte826.cloudfront.net/out/v1/47af0926366f47cea7661fa9c13ff203/index.m3u8
 
@@ -2931,6 +2952,11 @@ https://newtest.webtv1.lol/lb/premium418/index.m3u8|referer=https://widevine.lic
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Xn5UCd8.png" group-title="AFRICAN SPORTS",Supersport Variety 4 Africa
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 https://newtest.webtv1.lol/lb/premium419/index.m3u8|referer=https://widevine.licenses4.me/
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9cDvxwA.png" group-title="ARABIC SPORTS",SSC 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=74ec471a250d423e9de47243fe4e7378:a2e328ed74149502cdeaad656f6af378
+https://ssc-1-ak.akamaized.net/out/v1/0da39f594cc34c4a9b03f0d696a86276/index.mpd
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b2/AbuDhabiSports2020.jpg" group-title="ARABIC SPORTS",Abu Dhabi Sports 1
 https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/playlist.m3u8
