@@ -1690,7 +1690,7 @@ https://live.topnews.co.th/hls/topnews.m3u8
 http://freelive2.inwstream.com:1935/freelive-edge/tptv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="GloboNews.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/Logotipo_da_GloboNews.png" group-title="BRASILIAN NEWS",Globo News
-http://200.6.86.128:12000/play/a0m0
+http://206.1.95.2:8004/play/a026
 
 #EXTINF:-1 tvg-id="RecordNews.br" tvg-logo="https://i.imgur.com/qiXPVsD.png" group-title="BRASILIAN NEWS",Record News
 https://5cf4a2c2512a2.streamlock.net/8016/8016/playlist.m3u8
@@ -2344,10 +2344,10 @@ https://newtest.webtv1.lol/lb/premium464/index.m3u8|referer=https://widevine.lic
 http://callofliberty.fr/stream/LEQUIPE/master.m3u8
 
 #EXTINF:-1 tvg-id="RMCSport1.fr" tvg-logo="https://i.imgur.com/30785UJ.png" group-title="FRENCH SPORTS",RMC Sport 1
-http://51.178.65.238:80/RMC1/index.m3u8
+http://77.207.0.25:4000/play/a038
 
 #EXTINF:-1 tvg-id="RMCSport2.fr" tvg-logo="https://i.imgur.com/5Rh2s8k.png" group-title="FRENCH SPORTS",RMC Sport 2
-http://51.178.65.238:80/RMC2/index.m3u8
+http://77.207.0.25:4000/play/a033
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kaUN9Uw.png" group-title="ROMANIAN SPORTS",Digi Sport 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
