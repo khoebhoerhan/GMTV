@@ -3641,9 +3641,6 @@ https://stream01.willfonk.com/live_playlist.m3u8?cid=BS171&r=HD&ccode=JP&m=d0:20
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MmTbzAf.png" group-title="JAPAN",BS Fuji
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS181&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 
-#EXTINF:0 tvg-id="ChannelA.kr" tvg-logo="https://i.imgur.com/KaJNjF1.png" group-title="KOREA",채널A
-http://ye23.win/iptv/korea2021.php?id=Channel
-
 #EXTINF:0 tvg-id="JTBC.kr" tvg-logo="https://i.imgur.com/mGIO50z.png" group-title="KOREA",JTBC
 https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_211_53993BC5.m3u8
 
@@ -3664,9 +3661,6 @@ http://ye23.vip/z7z8/2021/kbs2020.php?id=8
 
 #EXTINF:0 tvg-id="SBSTV.kr" tvg-logo="https://i.imgur.com/BzqSUVF.png" group-title="KOREA",SBS
 http://59.23.231.102:1935/live/UBCstream/playlist.m3u8
-
-#EXTINF:0 tvg-id="SBSPlus.kr" tvg-logo="https://i.imgur.com/tzTx3Ta.png" group-title="KOREA",SBS Plus
-http://ye23.win/iptv/sbs5.1.php?id=S03
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/9b/TDM_Ou_Mun.png" group-title="MACAU",TDM 澳視澳門
 http://live4.tdm.com.mo/ch1/_definst_/ch1.live/playlist.m3u8
