@@ -1841,10 +1841,10 @@ http://ye23.win/iptv/sbs5.1.php?id=S06
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_BUSINESS/index.m3u8?start=LIVE&end=END
 
 #EXTINF:0 tvg-id="beINSports1Indonesia.id" tvg-logo="https://i.imgur.com/MRULdc8.png" group-title="NATIONAL SPORTS",beIN Sports 1 Indonesia
-https://devds.site/api/indihoy/hls.m3u8?ch=bein1
+http://103.167.167.5:8111/play/a02m/index.m3u8
 
 #EXTINF:0 tvg-id="beINSports3Indonesia.id" tvg-logo="https://i.imgur.com/j8VC6nB.png" group-title="NATIONAL SPORTS",beIN Sports 3 Indonesia
-https://devds.site/api/indihoy/hls.m3u8?ch=bein2
+http://103.167.167.5:8111/play/a02n/index.m3u8
 
 #EXTINF:-1 tvg-id="ChampionsTV1.id" tvg-logo="https://i.imgur.com/ffWoTF9.png" group-title="NATIONAL SPORTS",Champions TV 1
 https://seulangatv.com/YANG-NYURI-ANAK-DAJJAL/vidioHLS/6685.m3u8
