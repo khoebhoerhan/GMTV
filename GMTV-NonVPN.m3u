@@ -655,18 +655,6 @@ https://shls-mbc1na-prod-dub.shahid.net/out/v1/84ab37e99d6e4b16b33c6600f94f6ccb/
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xMVcCdM.png" group-title="ARABIC ENTERTAINMENT",MBC 4 
 https://shls-mbc4-prod-dub.shahid.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Fa0e2NH.png" group-title="RUSSIAN ENTERTAINMENT",Пятница! International
-https://sc.id-tv.kz:443/friday_34_35.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/1%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB-5.svg/800px-1%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB-5.svg.png" group-title="RUSSIAN ENTERTAINMENT",Первый канал Евразия
-http://stream.euroasia.lfstrm.tv/perviy_evrasia/1/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pnxfmaH.png" group-title="RUSSIAN ENTERTAINMENT",РТР-Планета
-https://radio-live-mg.rtr-vesti.ru/hls/planeta_rtr_asia/playlist_3.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/REN_TV_logo_2017.svg/800px-REN_TV_logo_2017.svg.png" group-title="RUSSIAN ENTERTAINMENT",Рен ТВ International
-https://sc.id-tv.kz/RenTV_34_35.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/E4l3jm1.png" group-title="EUROPEAN ENTERTAINMENT",ERT World
 http://ert-live-bcbs15228.siliconweb.com/media/ert_world/ert_worldmedium.m3u8
 
@@ -3659,20 +3647,8 @@ http://ye23.win/iptv/korea2021.php?id=Channel
 #EXTINF:0 tvg-id="JTBC.kr" tvg-logo="https://i.imgur.com/mGIO50z.png" group-title="KOREA",JTBC
 https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_211_53993BC5.m3u8
 
-#EXTINF:0 tvg-id="JTBC2.kr" tvg-logo="https://i.imgur.com/yQqaE1V.png" group-title="KOREA",JTBC2
-http://140.238.6.140:8881/stream/channel/0cfb525632103496bff37e973644f970
-
-#EXTINF:0 tvg-id="JTBC2.kr" tvg-logo="https://i.imgur.com/LT7zXPE.png" group-title="KOREA",JTBC4
-https://allanf181.github.io/adaptive-streams/streams/kr/JTBC4.m3u8
-
 #EXTINF:0 tvg-id="MBCTV.kr" tvg-logo="https://i.imgur.com/r9gNY5R.png" group-title="KOREA",MBC
 http://123.254.72.24:1935/tvlive/livestream2/playlist.m3u8
-
-#EXTINF:0 tvg-id="MBCOn.kr" tvg-logo="https://i.imgur.com/9j56wqz.png" group-title="KOREA",MBC On
-http://140.238.6.140:8881/stream/channel/48b717363d943ee4d4f9806a3c0c482b
-
-#EXTINF:0 tvg-id="MBCEvery1.kr" tvg-logo="https://i.imgur.com/SnozqTa.png" group-title="KOREA",MBC Every1
-http://140.238.6.140:8881/stream/channel/a066cadb3e9373b07ba7c86a29baaa7e
 
 #EXTINF:0 tvg-id="KBS1TV.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/KBS_1_logo.svg/1920px-KBS_1_logo.svg.png" group-title="KOREA",KBS 1TV
 http://mytv.dothome.co.kr/ch/public/1.php
@@ -3689,29 +3665,8 @@ http://ye23.vip/z7z8/2021/kbs2020.php?id=8
 #EXTINF:0 tvg-id="SBSTV.kr" tvg-logo="https://i.imgur.com/BzqSUVF.png" group-title="KOREA",SBS
 http://59.23.231.102:1935/live/UBCstream/playlist.m3u8
 
-#EXTINF:0 tvg-id="SBSfunE.kr" tvg-logo="https://i.imgur.com/n2JajGK.png" group-title="KOREA",SBS FunE
-http://han.ddkdxmkj.com/api/sbs.php?id=4
-
 #EXTINF:0 tvg-id="SBSPlus.kr" tvg-logo="https://i.imgur.com/tzTx3Ta.png" group-title="KOREA",SBS Plus
 http://ye23.win/iptv/sbs5.1.php?id=S03
-
-#EXTINF:-1 tvg-id="Mnet.kr" tvg-logo="https://i.imgur.com/ho02Nl2.png" group-title="KOREA",MNet
-http://mytv.dothome.co.kr/ch/catv/224.php
-
-#EXTINF:-1 tvg-id="tvN.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Logo_tvN.svg/1920px-Logo_tvN.svg.png" group-title="KOREA",tvN
-http://mytv.dothome.co.kr/ch/catv/221.php
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XALETXe.png" group-title="KOSOVO",RTK 1
-http://84.22.56.10:1935/rtk1stream/rtk1.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/en6lAZy.png" group-title="KOSOVO",RTK 2
-http://stream1.rtkit.com:1935/rtk2stream/rtk2.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XsSzDpC.png" group-title="KOSOVO",RTK 3
-http://stream1.rtkit.com:1935/rtk3stream/rtk3.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XeZqXvG.png" group-title="KOSOVO",RTK 4
-http://stream1.rtkit.com:1935/rtk4stream/rtk4.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/9b/TDM_Ou_Mun.png" group-title="MACAU",TDM 澳視澳門
 http://live4.tdm.com.mo/ch1/_definst_/ch1.live/playlist.m3u8
@@ -3802,49 +3757,6 @@ https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/in
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://video-auth7.iol.pt/live_edge/tvi_abr/edge_servers/tvi-480p/chunks.m3u8?
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/i7fz8xt.png" group-title="ROMANIA",Kanal D Romania
-https://stream1.kanald.ro/iphone/live.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/q77TwiP.png" group-title="ROMANIA",Prima TV
-https://stream1.1616.ro:1945/prima/livestream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/myDcDzY.png" group-title="RUSSIA",Мир
-http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/NTV_logo_2003.svg/800px-NTV_logo_2003.svg.png" group-title="RUSSIA",НТВ
-http://ntv-hls-orig.cdnvideo.ru/ntv0_hd/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/1%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB-5.svg/800px-1%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB-5.svg.png" group-title="RUSSIA",Первый канал
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
-http://ott-cdn.ucom.am/s14/04.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/REN_TV_logo_2017.svg/800px-REN_TV_logo_2017.svg.png" group-title="RUSSIA",Рен ТВ
-http://ad-hls-rentv.cdnvideo.ru/ren/smil:ren.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/11-%D0%B9_%D0%BB%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F-1.svg/1920px-11-%D0%B9_%D0%BB%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F-1.svg.png" group-title="RUSSIA",Россия 1
-http://sochi.camera:8080/cam_255/tracks-v1a1/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ru/a/ac/%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D1%82%D0%B5%D0%BB%D0%B5%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%D0%B0_%C2%AB%D0%AE%C2%BB_%28%D1%81_3_%D1%81%D0%B5%D0%BD%D1%82%D1%8F%D0%B1%D1%80%D1%8F_2018_%D0%B3%D0%BE%D0%B4%D0%B0%29.png" group-title="RUSSIA",Ю
-http://46.174.83.66/U/mpegts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/86/Logo_%D0%A1%D0%A2%D0%A1_23-10-2017.png" group-title="RUSSIA",СТС
-https://stream.sputnik24.tv/ctc/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ru/a/a6/%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D1%82%D0%B5%D0%BB%D0%B5%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%D0%B0_%C2%AB%D0%A2%D0%9D%D0%A2%C2%BB.png" group-title="RUSSIA",ТНТ
-https://bl.uma.media/live/410338/HLS/6307840_7,4280320_6,2703360_5,1408000_4,1070080_3,732160_2,394240_1/1613013807/79ad96b5b87fdce129191b83aaf2fb46/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qWRVbLW.png" group-title="RUSSIA",ТНТ4
-https://bl.uma.media/live/317849/HLS/4614144_3,2883584_2,1153024_1/1613027671/d161f37174905bc712e81b60d3411fc1/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/TV-3_logo_%282015%29.png/800px-TV-3_logo_%282015%29.png" group-title="RUSSIA",ТВ3
-https://bl.uma.media/live/407373/HLS/6307840_7/1613013859/5fdc4b8080160a4e56933b0402133da4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ru/thumb/7/72/TV_Tsentr_2013_Logo.svg/1920px-TV_Tsentr_2013_Logo.svg.png" group-title="RUSSIA",ТВ Центр
-http://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/chunklist_b1703000.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Zvezda_logo.svg/800px-Zvezda_logo.svg.png" group-title="RUSSIA",Звезда
-https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
-
 #EXTINF:-1 tvg-id="Antena3.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Antena_3_%282017%29.svg/1024px-Antena_3_%282017%29.svg.png" group-title="SPAIN",Antena 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 https://newtest.webtv1.lol/lb/premium531/index.m3u8|referer=https://widevine.licenses4.me/
@@ -3868,18 +3780,6 @@ https://newtest.webtv1.lol/lb/premium534/index.m3u8|referer=https://widevine.lic
 #EXTINF:-1 tvg-id="Telecinco.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Telecinco_2012_Large.svg/800px-Telecinco_2012_Large.svg.png" group-title="SPAIN",Telecinco
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 https://newtest.webtv1.lol/lb/premium532/index.m3u8|referer=https://widevine.licenses4.me/
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/8/8a/CTS_Logo.png" group-title="TAIWAN",CTS 華視
-rtmp://59.124.75.157/sat/tv111
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/2/22/CTV_text.png" group-title="TAIWAN",CTV 中視
-rtmp://59.124.75.157/sat/tv091
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rL5gaK5.png" group-title="TAIWAN",Formosa
-rtmp://59.124.75.157/sat/tv051
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/4/43/TTV_Home_Channel_with_HD_2016.png" group-title="TAIWAN",TTV 台視
-rtmp://59.124.75.157/sat/tv071
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/ALTV_Logo.png/1200px-ALTV_Logo.png" group-title="THAILAND",ALTV 4
 https://thaipbs-ujxrch.cdn.byteark.com/live/playlist.m3u8
