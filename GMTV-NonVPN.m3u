@@ -834,7 +834,7 @@ http://175.107.244.52:4455/play/a023/index.m3u8
 #EXTINF:-1 tvg-id="SonyPix.in" tvg-logo="https://i.imgur.com/CJ2KTIp.png" group-title="INDIAN MOVIES",Sony Pix
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=ce17264b317db108f19cdc11aa1a9e66&key=a21188aee8fc5c56d016fcffcc6b2295
+#KODIPROP:inputstream.adaptive.license_key=ce17264b317db108f19cdc11aa1a9e66:a21188aee8fc5c56d016fcffcc6b2295
 https://cdn-01.toffeelive.com/origin-08/live-origin/smil:sony_pix_hd.smil/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/12/%26flix_logo.png" group-title="INDIAN MOVIES",& flix
@@ -888,13 +888,13 @@ https://livecdn.fptplay.net/sdb/htvcmovieshd_hls.smil/chunklist_b2500000.m3u8
 https://avi-live-channel-cdn.mncnow.id/live/eds/ZeeBIOSKOP/sa_dash_vmx/ZeeBIOSKOP.mpd
 
 #EXTINF:-1 tvg-id="Andpictures.in" tvg-logo="https://i.imgur.com/HuJrZgT.png" group-title="HINDI MOVIES",& pictures
-http://208.86.19.13:81/705.stream/index.m3u8
+http://208.86.19.13:81/7055.stream/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9NoTykg.png" group-title="HINDI MOVIES",& xplor
 http://208.86.19.13:81/730.stream/index.m3u8
 
 #EXTINF:-1 tvg-id="ZeeAction.in" tvg-logo="https://i.imgur.com/OmibwXx.png" group-title="HINDI MOVIES",Zee Action
-http://208.115.215.42/ZEE_ActIon_HD/tracks-v1a1/mono.m3u8
+http://208.86.19.13:81/7288.stream/index.m3u8
 
 #EXTINF:-1 tvg-id="ZeeAnmolCinema.in" tvg-logo="https://i.imgur.com/NXCjJ9n.png" group-title="HINDI MOVIES",Zee Anmol Cinema
 http://208.86.19.13:81/722.stream/index.m3u8
@@ -912,13 +912,13 @@ http://hinet.tv6868.com/tvbox/2c7b5591-5142-46cc-88dd-1a14d1ce7440.m3u8|User-Age
 http://rr.dens.tv/h/h193/index.m3u8
 
 #EXTINF:-1 tvg-id="SonyMax.in" tvg-logo="https://i.imgur.com/5PVeSEX.png" group-title="HINDI MOVIES",Sony Max India
-http://221.120.204.4/SONY-MAX-LOCKLE/tracks-v1a1/mono.m3u8
+http://208.86.19.13:81/7066.stream/index.m3u8
 
 #EXTINF:-1 tvg-id="SonyMax2.in" tvg-logo="https://i.imgur.com/Edg7kI6.png" group-title="HINDI MOVIES",Sony Max 2
-http://144.217.70.181:9587/hin2/SONYMAX2/tracks-v1a1/mono.m3u8
+http://208.86.19.13:81/7300.stream/index.m3u8
 
 #EXTINF:-1 tvg-id="ZeeCinemaAsia.in" tvg-logo="https://i.imgur.com/NywlkDO.png" group-title="HINDI MOVIES",Zee Cinema Asia
-http://221.120.204.4/zee-cinema-LOCKLE/index.m3u8
+https://dai.google.com/ssai/event/rH_ZU7LMTy6I5kwhB17Wjg/master.m3u8
 
 #EXTINF:-1 tvg-id="ColorsCineplex.in" tvg-logo="https://i.imgur.com/IM8X6Ui.png" group-title="HINDI MOVIES",Colors Cineplex
 http://208.86.19.13:81/735.stream/index.m3u8
@@ -2573,17 +2573,17 @@ https://jio-sabbiriptv.vercel.app/jio/Dsports
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6znCap2.png" group-title="INDIAN SPORTS",Sony Ten 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=ce17264b317db108f19cdc11aa1a9e66&key=a21188aee8fc5c56d016fcffcc6b2295
+#KODIPROP:inputstream.adaptive.license_key=ce17264b317db108f19cdc11aa1a9e66:a21188aee8fc5c56d016fcffcc6b2295
 https://cdn-01.toffeelive.com/origin-09/live-origin/smil:sony_ten1_hd.smil/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cScj0k6.png" group-title="INDIAN SPORTS",Sony Ten 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=ce17264b317db108f19cdc11aa1a9e66&key=a21188aee8fc5c56d016fcffcc6b2295
+#KODIPROP:inputstream.adaptive.license_key=ce17264b317db108f19cdc11aa1a9e66:a21188aee8fc5c56d016fcffcc6b2295
 https://cdn-01.toffeelive.com/origin-09/live-origin/smil:sony_ten2_hd.smil/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8GMww7V.png" group-title="INDIAN SPORTS",Sony Ten 3
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=ce17264b317db108f19cdc11aa1a9e66&key=a21188aee8fc5c56d016fcffcc6b2295
+#KODIPROP:inputstream.adaptive.license_key=ce17264b317db108f19cdc11aa1a9e66:a21188aee8fc5c56d016fcffcc6b2295
 https://cdn-01.toffeelive.com/origin-09/live-origin/smil:sony_ten3_hd.smil/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KG2TBZh.png" group-title="INDIAN SPORTS",Sony Ten 4
@@ -2591,7 +2591,7 @@ https://jio-sabbiriptv.vercel.app/jio/Ten_4_HD_Tamil
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3cX6mla.png" group-title="INDIAN SPORTS",Sony Ten 5
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=ce17264b317db108f19cdc11aa1a9e66&key=a21188aee8fc5c56d016fcffcc6b2295
+#KODIPROP:inputstream.adaptive.license_key=ce17264b317db108f19cdc11aa1a9e66:a21188aee8fc5c56d016fcffcc6b2295
 https://cdn-01.toffeelive.com/origin-08/live-origin/smil:sony_six_hd.smil/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WPEouAc.png" group-title="INDIAN SPORTS",Sports 18 1
@@ -2978,12 +2978,12 @@ http://sv1.cvacetv.ga:8080/htvtt
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0oyD2wb.png" group-title="VIETNAMESE SPORTS",K+ Sport 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=1fe5426280a93352b2d7f36ff3422772&key=eb024058f8c54948a124d6239afd783e 
+#KODIPROP:inputstream.adaptive.license_key=1fe5426280a93352b2d7f36ff3422772:eb024058f8c54948a124d6239afd783e 
 https://smarttv-drm.fptplay.net/MjQ4ODgxNTZ8MTQwMjIwMjJrMXNwb3J0MWJveF8yMDAwLnN0cmVhbXxvdGhlcnwxNjUzMTMxNTI4fDEwMy4yMDAuMjIuMjEyfDc3NmY3NzI2NWU4YjJmZTBhOGRkY2QzYWU0YjUzZjBm/drmlive/14022022k1sport1box_4000.stream/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AcJPeLK.png" group-title="VIETNAMESE SPORTS",K+ Sport 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=f673aeef24dc3f4ba6437ef3b37cfa92&key=d485c33b5af849911b3b5fc212188098 
+#KODIPROP:inputstream.adaptive.license_key=f673aeef24dc3f4ba6437ef3b37cfa92:d485c33b5af849911b3b5fc212188098 
 https://kplus-livecdn.fptplay.net/MjQ4ODgxNTZ8MTQwMjIwMjJrMXNwb3J0Ml8yMDAwLnN0cmVhbXxvdGhlcnwxNjUzMTMxNTA0fDEwMy4yMDAuMjIuMjEyfGNiMzExOTU5NjRjYjk0YjQ0NjNjMGFmMjdkNTU1OTg2/drmlive/14022022k1sport2_4000.stream/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dtLXIVL.png" group-title="VIETNAMESE SPORTS",On VFF
@@ -3009,7 +3009,7 @@ https://sunnytv.xyz/nflq0wsOhkgzt7zperu8kmdjrx3/vip.php?id=cab18&user=sunny&pass
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yDy4Lzz.png" group-title="VIETNAMESE SPORTS",On Golf
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=dba4fb526fbc32eca4b92d381fb6965d&key=10581a41088722ba70b63ccb5ed18c07
+#KODIPROP:inputstream.adaptive.license_key=dba4fb526fbc32eca4b92d381fb6965d:10581a41088722ba70b63ccb5ed18c07
 https://mzqcyrr2abliv.vcdn.cloud/live_CLzona01/vtvcab23.smil/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0rWQTDI.png" group-title="VIETNAMESE SPORTS", SCTV 15
@@ -3484,7 +3484,7 @@ https://streamcdnh3-c98db5952cb54b358365984178fb898a.msvdn.net/live/S86713049/go
 http://liveopencloud.siliconweb.com/1/ZlRza2R6L2tFRnFJ/eWVLSlQx/hls/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="AndTV.in" tvg-logo="https://i.imgur.com/HxXyffb.png" group-title="INDIA",& tv
-http://208.86.19.13:81/703.stream/index.m3u8
+http://208.86.19.13:81/7033.stream/index.m3u8
 
 #EXTINF:-1 tvg-id="Colors.in" tvg-logo="https://i.imgur.com/Eg91jHK.png" group-title="INDIA",Colors
 http://221.120.204.4/colours-hd-LOCKLE/tracks-v1a1/mono.m3u8
@@ -3496,10 +3496,10 @@ http://longstream-04.ajaah.com/PlayBoxTV/E24/playlist.m3u8
 http://221.120.204.4:80/SONY-HD-LOCKLE/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="SonySABIndia.in" tvg-logo="https://i.imgur.com/b5HgTUE.png" group-title="INDIA",Sony Sab
-http://221.120.204.4/SONY-SAB-LOCKLE/tracks-v1a1/mono.m3u8
+http://208.86.19.13:81/7022.stream/index.m3u8
 
 #EXTINF:-1 tvg-id="StarBharat.in" tvg-logo="https://i.imgur.com/dZoXn5V.png" group-title="INDIA",Star Bharat
-https://tsneh.vercel.app/juhhygyujju
+http://208.86.19.13:81/7211.stream/index.m3u8
 
 #EXTINF:-1 tvg-id="StarPlus.in" tvg-logo="https://i.imgur.com/FFcPLin.png" group-title="INDIA",Star Plus
 https://tsneh.vercel.app/hghhhhbkkh
