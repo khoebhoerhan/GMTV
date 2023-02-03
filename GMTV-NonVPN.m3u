@@ -782,9 +782,6 @@ https://avi-live-channel-cdn.mncnow.id/live/eds/IndonesiaMovieChannels-HD/sa_das
 #EXTINF:-1 tvg-logo="https://i.imgur.com/khhBdiS.png" group-title="NATIONAL MOVIES",Flik
 http://iptvid.my.id/hmm/flik.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2Suxbkb.png" group-title="NATIONAL MOVIES",Sinema Indonesia
-http://203.77.246.50:5000/udp/239.1.1.74:5000
-
 #EXTINF:0 tvg-id="HitsMovies.sg" tvg-logo="https://i.imgur.com/Q9PQKk6.png" group-title="GENERAL MOVIES",Hits Movies
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MjhkOWZkZjYtOGViOC0zNTkzLWFhOWEtNGFhMzJkMDk3NGE2
@@ -795,35 +792,11 @@ https://avi-live-channel-cdn.mncnow.id/live/eds/HitsMovies/sa_dash_vmx/HitsMovie
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MjhkOWZkZjYtOGViOC0zNTkzLWFhOWEtNGFhMzJkMDk3NGE2
 https://avi-live-channel-cdn.mncnow.id/live/eds/CinemaWorld/sa_dash_vmx/CinemaWorld.mpd
 
-#EXTINF:-1 tvg-id="StarMoviesIndia.in" tvg-logo="https://i.imgur.com/AJbFTSr.png" group-title="INDIAN MOVIES",Star Movies
-http://185.93.1.84/a1f2d5a233fbde5b57d6e845dcae36e7f9b490be6870669f457bc698c80cf80f08074ba574a9832b06c14d4c0dde12e0fc09072a5d83de30f667233eecbbccc191e6b9888dc885cb72a7fd8de729a1859a3f726e790edd0ddc1acaae6ff59cf9670197/index.m3u8
-
-#EXTINF: -1 tvg-logo="https://i.imgur.com/4DyH9pK.png" group-title="INDIAN MOVIES",Star Movies Select
-https://tsneh.vercel.app/y7jokhuji
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/OVH9Ehe.png" group-title="INDIAN MOVIES",Movies Now
-http://175.107.244.52:4455/play/a025/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Df0Nteg.png" group-title="INDIAN MOVIES",Romedy Now
-http://175.107.244.52:4455/play/a026/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ce/Mn%2Blogo.jpeg" group-title="INDIAN MOVIES",MN+
-http://175.107.244.52:4455/play/a01r/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PIvZZqq.png" group-title="INDIAN MOVIES",MNX
-http://175.107.244.52:4455/play/a023/index.m3u8
-
-#EXTINF:-1 tvg-id="SonyPix.in" tvg-logo="https://i.imgur.com/CJ2KTIp.png" group-title="INDIAN MOVIES",Sony Pix
+#EXTINF:-1 tvg-id="SonyPix.in" tvg-logo="https://i.imgur.com/CJ2KTIp.png" group-title="GENERAL MOVIES",Sony Pix
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=ce17264b317db108f19cdc11aa1a9e66:a21188aee8fc5c56d016fcffcc6b2295
 https://cdn-01.toffeelive.com/origin-08/live-origin/smil:sony_pix_hd.smil/manifest.mpd
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/12/%26flix_logo.png" group-title="INDIAN MOVIES",& flix
-http://103.179.246.243:8000/play/a00p
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/h9W2I7O.png" group-title="INDIAN MOVIES",& privé
-http://103.179.246.243:8000/play/a01d
 
 #EXTINF:0 tvgv-id="Galaxy.id" tvg-logo="https://i.imgur.com/w8pi4Ip.png" group-title="GENERAL MOVIES",Galaxy
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -834,9 +807,6 @@ https://avi-live-channel-cdn.mncnow.id/live/eds/Galaxy-HD/sa_dash_vmx/Galaxy-HD.
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MjhkOWZkZjYtOGViOC0zNTkzLWFhOWEtNGFhMzJkMDk3NGE2
 https://avi-live-channel-cdn.mncnow.id/live/eds/GalaxyPremium-HD/sa_dash_vmx/GalaxyPremium-HD.mpd
-
-#EXTINF:-1 tvg-id="CinemaOneGlobal.ph" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6d/Cinema_One_2013_logo.svg/1200px-Cinema_One_2013_logo.svg.png" group-title="ASIAN MOVIES",Cinema One
-https://abscbn-ono.akamaized.net/midroll/amagi_hls_data_abscbnAAA-abscbn-cinemaone/CDN/playlist.m3u8
 
 #EXTINF:0 tvg-id="Thrill.hk" tvg-logo="https://i.imgur.com/duaKL8I.png" group-title="ASIAN MOVIES",Thrill
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -880,6 +850,11 @@ http://rr.dens.tv/h/h90/index.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/2407
 https://stream.zeehanzgadget.com/boo
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YrsNEN9.png" group-title="ASIAN MOVIES",Dunia Sinema
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/duniasinema/
+https://aqfadtv.xyz/live/unifitv/duniasinema/index.mpd
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/r2mKJH2.png" group-title="ASIAN MOVIES",MyCinema Asia
 http://rr.dens.tv/h/h193/index.m3u8
@@ -978,8 +953,8 @@ https://video-auth2.iol.pt/live_tvi_direct/live_tvi_direct/edge_servers/tvireali
 #EXTINF:-1 tvg-id="KBSDrama.kr" tvg-logo="https://i.imgur.com/n3iQfof.png" group-title="ASIAN SERIES",KBS Drama
 http://ye23.vip/z7z8/2021/kbs2020.php?id=5
 
-#EXTINF:-1 tvg-id="MBCDrama.kr" tvg-logo="https://i.imgur.com/aaDrI3a.png" group-title="ASIAN SERIES",MBC Drama
-http://140.238.6.140:8881/stream/channel/a385edd7462645fad49cf0514c5799d1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gAZfzvh.png" group-title="ASIAN SERIES",Drama Sangat
+https://live-sg1.global.ssl.fastly.net/live-hls/tonton5_720p/index.m3u8
 
 #EXTINF:-1 tvg-id="TF1SeriesFilms.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/69/TF1_S%C3%A9ries_Films.svg/1920px-TF1_S%C3%A9ries_Films.svg.png" group-title="WORLD SERIES",TF1 Series Films
 #EXTVLCOPT:network-caching=1000
@@ -2542,6 +2517,11 @@ https://unifi-live05.secureswiftcontent.com/UnifiHD/live11.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GuVa5vJ.png" group-title="MALAY SPORTS",Unifi Sports 2
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live12.mpd
 
+#EXTINF:-1 tvg-id="EurosportAsia.fr" tvg-logo="https://i.imgur.com/fD8G2Ug.png" group-title="MALAY SPORTS",Eurosport Asia
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/2100
+https://stream.zeehanzgadget.com/eurosport
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ycxjpTX.png" group-title="INDIAN SPORTS",Eurosport India
 https://jio-sabbiriptv.vercel.app/jio/Dsports
 
@@ -3174,9 +3154,6 @@ https://stream.zeehanzgadget.com/prima
 #KODIPROP:inputstream.adaptive.license_key=40bb94cdb1c90f6cc15073d9a500c810:264de3f18e64770e92a2d29f2b177701
 https://stream.zeehanzgadget.com/warna
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gAZfzvh.png" group-title="MALAYSIA",Drama Sangat
-https://live-sg1.global.ssl.fastly.net/live-hls/tonton5_720p/index.m3u8
-
 #EXTINF:-1 tvg-id="ntv7.my" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/Logo_of_newNTV7.png" group-title="MALAYSIA",ntv 7
 https://live-sg1.global.ssl.fastly.net/live-hls/tonton2_720p/index.m3u8
 
@@ -3200,6 +3177,21 @@ https://live-sg1.global.ssl.fastly.net/live-hls/tonton1_720p/index.m3u8
 
 #EXTINF:-1 tvg-id="TV9.my" tvg-logo="https://i.imgur.com/smKCnNj.png" group-title="MALAYSIA",TV 9
 https://live-sg1.global.ssl.fastly.net/live-hls/tonton4_720p/index.m3u8 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QlN6FuI.png" group-title="MALAYSIA",Inspirasi
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/inspirasi/
+https://aqfadtv.xyz/live/unifitv/inspirasi/index.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EZKtduz.png" group-title="MALAYSIA",Sensasi
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/sensasi/
+https://aqfadtv.xyz/live/unifitv/sensasi/index.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/44SgEfm.png" group-title="MALAYSIA",Degup
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/degup/
+https://aqfadtv.xyz/live/unifitv/degup/index.mpd
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rdLxnli.png" group-title="VISUAL RADIO",Buletin FM
 https://raw.githubusercontent.com/AqFad2811/RadioYTLive/main/BuletinFM.m3u8
@@ -3475,7 +3467,9 @@ http://longstream-04.ajaah.com/PlayBoxTV/E24/playlist.m3u8
 http://221.120.204.4:80/SONY-HD-LOCKLE/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="SonySABIndia.in" tvg-logo="https://i.imgur.com/b5HgTUE.png" group-title="INDIA",Sony Sab
-http://208.86.19.13:81/7022.stream/index.m3u8
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=ce17264b317db108f19cdc11aa1a9e66:a21188aee8fc5c56d016fcffcc6b2295
+https://cdn-01.toffeelive.com/origin-08/live-origin/smil:sony_sab_hd.smil/manifest.mpd
 
 #EXTINF:-1 tvg-id="StarBharat.in" tvg-logo="https://i.imgur.com/dZoXn5V.png" group-title="INDIA",Star Bharat
 http://208.86.19.13:81/7211.stream/index.m3u8
