@@ -570,8 +570,8 @@ https://avi-live-channel-cdn.mncnow.id/live/eds/NHKWorldPremium/sa_dash_vmx/NHKW
 
 #EXTINF:-1 tvg-id="AstroAEC.my" tvg-logo="https://i.imgur.com/kTEWNTp.png" group-title="CHINESE ENTERTAINMENT",Astro AEC
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=fb764610dca2eaf4a4ea4fa216af8110&key=6a9fca876b7b999b1a7b414a0bd44b4e
-http://51.79.82.208:16021
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/2400
+https://stream.zeehanzgadget.com/aec
 
 #EXTINF:-1 tvg-id="CCTV4Asia.cn" tvg-logo="https://i.imgur.com/BQoyBoS.png" group-title="CHINESE ENTERTAINMENT",CCTV 4 Asia
 http://rr2.dens.tv/s/s19/index.m3u8
@@ -1055,6 +1055,11 @@ http://iptvid.my.id/hmm/indikids.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HLr5Qi4.png" group-title="KIDS",My Kidz
 http://rr.dens.tv/h/h98/index.m3u8
+
+#EXTINF:-1 tvg-id="AstroCeria.my" tvg-logo="https://i.imgur.com/8s1jRRh.png" group-title="KIDS",Astro Ceria
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/2606/
+https://stream.zeehanzgadget.com/ceria
 
 #EXTINF:-1 tvg-id="TVEdukasi.id" tvg-logo="https://upload.wikimedia.org/wikipedia/id/f/f2/Logo_tvedukasi_baru.png" group-title="KNOWLEDGE",TV Edukasi
 http://118.98.229.118:1935/live/tve.stream/chunklist_w36933799.m3u8
