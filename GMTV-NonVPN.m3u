@@ -877,7 +877,9 @@ http://208.115.215.42:80/ZEE_Bollywood_HD/tracks-v1a1/mono.m3u8
 http://rr.dens.tv/h/h90/index.m3u8
 
 #EXTINF:-1 tvg-id="Boo.my" tvg-logo="https://i.imgur.com/fD8G2Ug.png" group-title="ASIAN MOVIES",Boo
-http://hinet.tv6868.com/tvbox/2c7b5591-5142-46cc-88dd-1a14d1ce7440.m3u8|User-Agent=lemff71ff25b2b0033b0d9f68830728b4cc
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/2407
+https://stream.zeehanzgadget.com/boo
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/r2mKJH2.png" group-title="ASIAN MOVIES",MyCinema Asia
 http://rr.dens.tv/h/h193/index.m3u8
