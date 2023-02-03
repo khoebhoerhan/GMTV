@@ -1898,9 +1898,7 @@ https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-w
 https://bravo.kugo.id/persijatv/udp.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vRhoIBG.png" group-title="CLUBS OF SPORTS",Porto Canal
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://streamer-a03.videos.sapo.pt/live/portocanal/playlist.m3u8
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x8egnb8?f=.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KFwSXaG.png" group-title="CLUBS OF SPORTS",Real Madrid TV English
 https://rmtv-canela.amagi.tv/playlist.m3u8
