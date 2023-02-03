@@ -723,29 +723,11 @@ https://newtest.webtv1.lol/lb/premium344/index.m3u8|referer=https://widevine.lic
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 https://newtest.webtv1.lol/lb/premium371/index.m3u8|referer=https://widevine.licenses4.me/
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/X7VxlBN.png" group-title="ASIAN MUSIC",MTV Vietnam
-https://livecdn.fptplay.net/sdb/mtv_hls.smil/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="SBSMTV.kr" tvg-logo="https://i.imgur.com/6R8N3z2.png" group-title="ASIAN MUSIC",SBS MTV
-http://han.ddkdxmkj.com/api/sbs.php?id=9
-
-#EXTINF:-1 tvg-id="MBCM.kr" tvg-logo="https://i.imgur.com/eubYjqH.png" group-title="ASIAN MUSIC",MBC M
-http://han.ddkdxmkj.com/api/sbs.php?id=9
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/X7VxlBN.png" group-title="ASIAN MUSIC",MTV Japan
-http://cdn.us195.jpnettv.live:1935/jptv/mtv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="MyxUSA.us" tvg-logo="https://i.imgur.com/qyxbTj5.png" group-title="ASIAN MUSIC",Myx USA
+#EXTINF:-1 tvg-id="MyxUSA.us" tvg-logo="https://i.imgur.com/qyxbTj5.png" group-title="WORLD MUSIC",Myx USA
 https://abscbn-ono.akamaized.net/midroll/amagi_hls_data_abscbnAAA-abscbn-myxnola/CDN/playlist.m3u8
-
-#EXTINF:-1 tvg-id="MTVBrazil.br" tvg-logo="https://i.imgur.com/X7VxlBN.png" group-title="WORLD MUSIC",MTV Brasil
-http://187.85.237.8:8825/ipvt_004
 
 #EXTINF:-1 tvg-id="TraceTVUrban.pt" tvg-logo="https://i.imgur.com/RFWvy8c.png" group-title="WORLD MUSIC",Trace Urban
 https://lightning-traceurban-samsungau.amagi.tv/playlist1080p.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Club_MTV_2021_logo.svg/800px-Club_MTV_2021_logo.svg.png" group-title="WORLD MUSIC",Club MTV
-http://cdnua06.hls.tv/476/hls/0v8gnwlpo3dtf24ysm1rbcqx6uea79ji/264/stream.m3u8
 
 #EXTINF:-1 tvg-id="M6Music.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c9/M6_Music_%282012%29.png" group-title="EUROPEAN MUSIC",M6 Music
 http://190.2.155.162:8080/m6music/mpegts
@@ -870,17 +852,6 @@ https://avi-live-channel-cdn.mncnow.id/live/eds/CelestialMovie/sa_dash_vmx/Celes
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MjhkOWZkZjYtOGViOC0zNTkzLWFhOWEtNGFhMzJkMDk3NGE2
 https://avi-live-channel-cdn.mncnow.id/live/eds/CelestialClassic/sa_dash_vmx/CelestialClassic.mpd
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GA2ny64.png" group-title="CHINESE MOVIES",Star Chinese Movies
-http://iptvid.my.id/hmm/starcm.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/cSho1qa.png" group-title="VIETNAMESE MOVIES",K+ Cine
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=2761754f661634d49560631198dd3122&key=3617e340b77a76fa1232f4f6360157fd 
-https://kplus-livecdn.fptplay.net/MjQ4ODgxNTZ8MTQwMjIwMjJrMWNpbmVfMjAwMC5zdHJlYW18b3RoZXJ8MTY1MzEzMTU0MXwxMDMuMjAwLjIyLjIxMnw4NGY5NDhmYmI1MDUzY2JhN2EyNDg1NjA1NDk5Yjk1ZQ/drmlive/14022022k1cine_4000.stream/manifest.mpd
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/g3SeF27.png" group-title="VIETNAMESE MOVIES",HTVC Phim
-https://livecdn.fptplay.net/sdb/htvcmovieshd_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:0 tvg-id="ZeeBioskop.id" tvg-logo="https://i.imgur.com/Krk8Lxa.png" group-title="HINDI MOVIES",Zee Bioskop
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1141,8 +1112,6 @@ https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(abe4ead2-1a88-4
 http://50.7.220.74:8278/discoverysc_twn/playlist.m3u8?tid=mc6599c2e8abf17200438&ct=17877&tsum=04c82c404888445ec55711287ad6b21b
 
 #EXTINF:-1 tvg-id="DMAXAsia.sg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/DMAX_Logo_16_05_2011.jpg" group-title="KNOWLEDGE",DMAX Southeast Asia
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=ea24fcf5a4e5a1a25a8d118c088dc510&key=effd0dfaddcd0e533314d5305abe031c
 http://50.7.220.74:8278/discoveryturbo_twn/playlist.m3u8?tid=MECE3122352031223520&ct=18393&tsum=66f49d6631e9a76ea563d20a25e0bd4c
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mThnlFK.png" group-title="KNOWLEDGE",Smithsonian Channel
@@ -3187,13 +3156,18 @@ https://ott.tv5monde.com/Content/HLS/Live/channel(style1)/variant.m3u8
 https://live-sg1.global.ssl.fastly.net/live-hls/tonton3_720p/index.m3u8 
 
 #EXTINF:-1 tvg-id="AstroRia.my" tvg-logo="https://i.imgur.com/RrIVJJY.png" group-title="MALAYSIA",Astro Ria
-http://51.79.82.208:16007
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/1004/
+https://stream.zeehanzgadget.com/ria
 
 #EXTINF:-1 tvg-id="AstroPrima.my" tvg-logo="https://i.imgur.com/FZoK4df.png" group-title="MALAYSIA",Astro Prima
-http://51.79.82.208:16008
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/1000/
+https://stream.zeehanzgadget.com/prima
 
 #EXTINF:-1 tvg-id="AstroWarna.my" tvg-logo="https://i.imgur.com/JCn7Yd0.png" group-title="MALAYSIA",Astro Warna
-http://51.79.82.208:16010
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=40bb94cdb1c90f6cc15073d9a500c810:264de3f18e64770e92a2d29f2b177701
+https://stream.zeehanzgadget.com/warna
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gAZfzvh.png" group-title="MALAYSIA",Drama Sangat
 https://live-sg1.global.ssl.fastly.net/live-hls/tonton5_720p/index.m3u8
@@ -3788,54 +3762,6 @@ https://tv8-live.daioncdn.net/tv8/tv8.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nhl0SnT.png" group-title="TÜRKIYE",TV 8.5
 https://tv8-tb-live.ercdn.net/tv8bucuk/tv8bucuk_480p.m3u8?e=1664874372&st=ROyU0YQBlkeWx-HAGXA_7A
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fMghXjt.png" group-title="VIETNAM",HTV 1
-https://livecdn.fptplay.net/sdb/htv1_hls.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gnpvFTR.png" group-title="VIETNAM",HTV 2
-https://livecdn.fptplay.net/hda1/htv2hd_vhls.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Tlq7UdH.png" group-title="VIETNAM",HTV 3
-https://livecdn.fptplay.net/sdb/htv3_hls.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7LMs72R.png" group-title="VIETNAM",Today TV
-https://livecdn.fptplay.net/sdb/todaytv_2000.stream/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/VTC1_logo_2018.svg/1200px-VTC1_logo_2018.svg.png" group-title="VIETNAM",VTC 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
-https://vips-livecdn.fptplay.net/hda1/vtc1_vhls.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/VTC2_logo_2018.svg/800px-VTC2_logo_2018.svg.png" group-title="VIETNAM",VTC 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
-https://livecdn.fptplay.net/sdb/vtc2_hls.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/VTC3_logo_2018.svg/479px-VTC3_logo_2018.svg.png" group-title="VIETNAM",VTC 3
-http://cvmvnpt.duckdns.org:8000/vtc3
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/VTC4_logo_2018-2020.svg/768px-VTC4_logo_2018-2020.svg.png" group-title="VIETNAM",VTC 4
-https://livecdn.fptplay.net/sdc/vtc4_hls.smil/playlist.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/VTC5_logo_2018.svg/800px-VTC5_logo_2018.svg.png" group-title="VIETNAM",VTC 5
-https://livecdn.fptplay.net/sdb/vtc5_hls.smil/playlist.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/VTC6_logo_2018.svg/800px-VTC6_logo_2018.svg.png" group-title="VIETNAM",VTC 6
-https://livecdn.fptplay.net/sdb/vtc6_hls.smil/playlist.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/VTC8_logo_2018.svg/800px-VTC8_logo_2018.svg.png" group-title="VIETNAM",VTC 8
-https://livecdn.fptplay.net/sdb/vtc8_hls.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/VTV1_logo_2013_final.svg/1920px-VTV1_logo_2013_final.svg.png" group-title="VIETNAM", VTV 1
-http://sv1.cvacetv.ga:8080/vtv1
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/VTV3_logo_2013_final.svg/1920px-VTV3_logo_2013_final.svg.png" group-title="VIETNAM", VTV 3
-http://sv1.cvacetv.ga:8080/vtv3
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/VTV6_logo_2013_final.svg/1920px-VTV6_logo_2013_final.svg.png" group-title="VIETNAM", VTV 6
-http://sv1.cvacetv.ga:8080/vtv6
 
 ########################################################################################RADIO STATIONS####################################################################################################################################################################
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iUGpY3U.png" group-title="RADIO INDONESIA",Ardan Radio
