@@ -2517,7 +2517,7 @@ https://unifi-live05.secureswiftcontent.com/UnifiHD/live11.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GuVa5vJ.png" group-title="MALAY SPORTS",Unifi Sports 2
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live12.mpd
 
-#EXTINF:-1 tvg-id="EurosportAsia.fr" tvg-logo="https://i.imgur.com/fD8G2Ug.png" group-title="MALAY SPORTS",Eurosport Asia
+#EXTINF:-1 tvg-id="EurosportAsia.fr" tvg-logo="https://i.imgur.com/ycxjpTX.png" group-title="MALAY SPORTS",Eurosport Asia
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/2100
 https://stream.zeehanzgadget.com/eurosport
@@ -2926,53 +2926,6 @@ http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunkl
 
 #EXTINF:-1 tvg-logo="https://www.dubaisports.ae/content/dam/dubaisports/logos/brand/011019/logo.png" group-title="ARABIC SPORTS",Dubai Sports 3
 http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist_b1600000.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/E3OjM1k.png" group-title="VIETNAMESE SPORTS",HTV Thể Thao
-http://sv1.cvacetv.ga:8080/htvtt
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0oyD2wb.png" group-title="VIETNAMESE SPORTS",K+ Sport 1
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=1fe5426280a93352b2d7f36ff3422772:eb024058f8c54948a124d6239afd783e 
-https://smarttv-drm.fptplay.net/MjQ4ODgxNTZ8MTQwMjIwMjJrMXNwb3J0MWJveF8yMDAwLnN0cmVhbXxvdGhlcnwxNjUzMTMxNTI4fDEwMy4yMDAuMjIuMjEyfDc3NmY3NzI2NWU4YjJmZTBhOGRkY2QzYWU0YjUzZjBm/drmlive/14022022k1sport1box_4000.stream/manifest.mpd
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/AcJPeLK.png" group-title="VIETNAMESE SPORTS",K+ Sport 2
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=f673aeef24dc3f4ba6437ef3b37cfa92:d485c33b5af849911b3b5fc212188098 
-https://kplus-livecdn.fptplay.net/MjQ4ODgxNTZ8MTQwMjIwMjJrMXNwb3J0Ml8yMDAwLnN0cmVhbXxvdGhlcnwxNjUzMTMxNTA0fDEwMy4yMDAuMjIuMjEyfGNiMzExOTU5NjRjYjk0YjQ0NjNjMGFmMjdkNTU1OTg2/drmlive/14022022k1sport2_4000.stream/manifest.mpd
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dtLXIVL.png" group-title="VIETNAMESE SPORTS",On VFF
-https://onsportlive.vtvcab.vn/hls/ONVFFTV_CL/04.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/o6H76IH.png" group-title="VIETNAMESE SPORTS",On Football
-#EXTVLCOPT:http-referer=http://sctvonline.vn
-https://e1.endpoint.cdn.sctvonline.vn/hls/vtvcab16/sd2/index.m3u8|Referer=http://sctvonline.vn/
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dmmsw4d.png" group-title="VIETNAMESE SPORTS",On Sports
-#EXTVLCOPT:http-referer=http://sctvonline.vn
-https://e3.endpoint.cdn.sctvonline.vn/secure/vtvcab3/index.m3u8?md5=ytdJ0cly8LCK3zdy10OuxQ&expires=2556118740|Referer=http://sctvonline.vn/
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dmmsw4d.png" group-title="VIETNAMESE SPORTS",On Volleyball
-https://onsportlive.vtvcab.vn/hls/ONVOLLEYBALL_CL/04.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eEXU8nf.png" group-title="VIETNAMESE SPORTS",On Sports+
-#EXTVLCOPT:http-referer=http://sctvonline.vn
-https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab6/index.m3u8|Referer=http://sctvonline.vn/
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4gwL4mU.png" group-title="VIETNAMESE SPORTS",On Sports News Premium
-https://sunnytv.xyz/nflq0wsOhkgzt7zperu8kmdjrx3/vip.php?id=cab18&user=sunny&pass=0796468789
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/yDy4Lzz.png" group-title="VIETNAMESE SPORTS",On Golf
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=dba4fb526fbc32eca4b92d381fb6965d:10581a41088722ba70b63ccb5ed18c07
-https://mzqcyrr2abliv.vcdn.cloud/live_CLzona01/vtvcab23.smil/manifest.mpd
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0rWQTDI.png" group-title="VIETNAMESE SPORTS", SCTV 15
-#EXTVLCOPT:http-referer=http://sctvonline.vn
-https://e1.endpoint.cdn.sctvonline.vn/channel/sctv15/s2/index.m3u8|Referer=http://sctvonline.vn/
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Wemoi8x.png" group-title="VIETNAMESE SPORTS", SCTV 17
-#EXTVLCOPT:http-referer=http://sctvonline.vn
-https://e1.endpoint.cdn.sctvonline.vn/channel/sctv17/s2/index.m3u8|Referer=http://sctvonline.vn/
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/GAORA_SPORTS_logo.svg/2560px-GAORA_SPORTS_logo.svg.png" group-title="JAPANESE SPORTS",Gaora Sports
 https://stream01.willfonk.com/live_playlist.m3u8?cid=CS254&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
