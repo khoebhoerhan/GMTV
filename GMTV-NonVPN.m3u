@@ -486,7 +486,7 @@ https://avi-live-channel-cdn.mncnow.id/live/eds/tvN/sa_dash_vmx/tvN.mpd
 https://avi-live-channel-cdn.mncnow.id/live/eds/Animax/sa_dash_vmx/Animax.mpd
 
 #EXTINF:-1 tvg-id="AniPlus.th" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b8/Aniplus_Asia_Logo.png" group-title="JAPANESE ENTERTAINMENT",Aniplus
-http://playlist.urfan.web.id/dr9445/h/h02/01.m3u8
+https://cdn09jtedge.indihometv.com/atemedvr/1675510027/0/ANIPLUS_AT/ANIPLUS_AT.mpd
 
 #EXTINF:0 tvg-id="Kix.hk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/KIX_logo.svg/1200px-KIX_logo.svg.png" group-title="GENERAL ENTERTAINMENT",Kix
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -536,10 +536,10 @@ https://avi-live-channel-cdn.mncnow.id/live/eds/Lifetime/sa_dash_vmx/Lifetime.mp
 https://avi-live-channel-cdn.mncnow.id/live/eds/HITS/sa_dash_vmx/HITS.mpd
 
 #EXTINF:-1 tvg-id="RockEntertainment.sg" tvg-logo="https://i.imgur.com/rDncFFu.png" group-title="GENERAL ENTERTAINMENT",Rock Entertainment
-http://rr1.dens.tv/h/h16/index.m3u8
+https://cdn09jtedge.indihometv.com/atemedvr/1675509836/0/BLUEANT_AT/BLUEANT_AT.mpd
 
 #EXTINF:-1 tvg-id="RockExtreme.sg" tvg-logo="https://i.imgur.com/EP0H6HS.png" group-title="GENERAL ENTERTAINMENT",Rock Action
-http://rr1.dens.tv/h/h15/index.m3u8
+https://cdn09jtedge.indihometv.com/atemedvr/1675509716/0/BLUEANTEXTREME_AT/BLUEANTEXTREME_AT.mpd
 
 #EXTINF:0 tvg-id="FMN.id" tvg-logo="https://i.imgur.com/nlzcTuZ.png" group-title="GENERAL ENTERTAINMENT",FMN
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -571,7 +571,7 @@ https://avi-live-channel-cdn.mncnow.id/live/eds/NHKWorldPremium/sa_dash_vmx/NHKW
 https://stream.zeehanzgadget.com/aec
 
 #EXTINF:-1 tvg-id="CCTV4Asia.cn" tvg-logo="https://i.imgur.com/BQoyBoS.png" group-title="CHINESE ENTERTAINMENT",CCTV 4 Asia
-http://rr2.dens.tv/s/s19/index.m3u8
+https://cdn09jtedge.indihometv.com/atemedvr/1675510089/0/CCTV4_AT/CCTV4_AT.mpd
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/8/87/TDM_Ou_Mun_Macau_logo.png" group-title="CHINESE ENTERTAINMENT",TDM Macau
 http://live4.tdm.com.mo/ch3/_definst_/ch3.live/playlist.m3u8
@@ -671,7 +671,7 @@ http://iptvid.my.id/hmm/prambors.m3u8
 https://cdn09jtedge.indihometv.com/atemedvr/1675207144/0/IKONSER_AT/IKONSER_AT.mpd
 
 #EXTINF:-1 tvg-id="MTVLive.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/MTV_Live_2021_logo.svg/1024px-MTV_Live_2021_logo.svg.png" group-title="WORLD MUSIC",MTV Live
-http://92.60.230.202:5053/udp/239.1.1.81:22081
+http://200.4.96.59:1080/play/a046/index.m3u8
 
 #EXTINF:-1 tvg-id="9XM.in" tvg-logo="https://i.imgur.com/xwMqKA4.png" group-title="INDIAN MUSIC",9XM
 http://103.159.4.38:5868/MUSIC-1/tracks-v1a1/mono.m3u8
@@ -729,16 +729,10 @@ https://lightning-traceurban-samsungau.amagi.tv/playlist1080p.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Club_MTV_2021_logo.svg/800px-Club_MTV_2021_logo.svg.png" group-title="EUROPEAN MUSIC",Club MTV
 http://92.60.230.202:5053/udp/239.1.1.80:22080
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/X7VxlBN.png" group-title="EUROPEAN MUSIC",MTV Portugal
-http://45.92.69.72:8000/play/a0h7
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fiWjvXP.png" group-title="EUROPEAN MUSIC",4Music
 https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,boxhits-alldev.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/boxhits/
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/X7VxlBN.png" group-title="LATINO MUSIC",MTV Latino Sud
-https://edge2-ccast-sl.cvattv.com.ar/live/c6eds/MTV_HD/SA_SAGEMCOM/MTV_HD.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/TRACE_Latina_Logo.png/800px-TRACE_Latina_Logo.png" group-title="LATINO MUSIC",Trace Latina
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/TRACE_Latina_Logo.png/800px-TRACE_Latina_Logo.png" group-title="AMERICAN MUSIC",Trace Latina
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracelatinach-samsungch/playlist.m3u8
 
 #EXTINF:0 tvg-id="HBOSingapore.sg" tvg-logo="https://i.imgur.com/9v0WUqt.png" group-title="GENERAL MOVIES",HBO Asia
