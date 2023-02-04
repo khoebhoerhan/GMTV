@@ -709,11 +709,11 @@ https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/b/b5/Power_TV_logosu.png" group-title="TURKISH MUSIC",Power TV
 https://livetv.powerapp.com.tr/powerTV/powerhd.smil/playlists.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NAx2jB2.png" group-title="TURKISH MUSIC",Power Love
+https://listen.powerapp.com.tr/plove/love.smil/playlist.m3u8
+
 #EXTINF:-1 tvg-id="VH1Italia.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/VH1_2020.svg/1200px-VH1_2020.svg.png" group-title="EUROPEAN MUSIC",VH1 Italia
 https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/X7VxlBN.png" group-title="EUROPEAN MUSIC",MTV France
-http://190.2.155.162:8080/mtvfrance/mpegts
 
 #EXTINF:-1 tvg-id="VH1USEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/VH1_logonew.svg/1920px-VH1_logonew.svg.png" group-title="AMERICAN MUSIC",VH1 East
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
@@ -729,14 +729,14 @@ https://abscbn-ono.akamaized.net/midroll/amagi_hls_data_abscbnAAA-abscbn-myxnola
 #EXTINF:-1 tvg-id="TraceTVUrban.pt" tvg-logo="https://i.imgur.com/RFWvy8c.png" group-title="WORLD MUSIC",Trace Urban
 https://lightning-traceurban-samsungau.amagi.tv/playlist1080p.m3u8
 
-#EXTINF:-1 tvg-id="M6Music.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c9/M6_Music_%282012%29.png" group-title="EUROPEAN MUSIC",M6 Music
-http://190.2.155.162:8080/m6music/mpegts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/MTV_Hits_logo.png" group-title="EUROPEAN MUSIC",MTV Hits
-http://190.2.155.162:8080/mtvhit/mpegts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Club_MTV_2021_logo.svg/800px-Club_MTV_2021_logo.svg.png" group-title="EUROPEAN MUSIC",Club MTV
+http://92.60.230.202:5053/udp/239.1.1.80:22080
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/X7VxlBN.png" group-title="EUROPEAN MUSIC",MTV Portugal
 http://45.92.69.72:8000/play/a0h7
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fiWjvXP.png" group-title="EUROPEAN MUSIC",4Music
+https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,boxhits-alldev.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/boxhits/
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/X7VxlBN.png" group-title="LATINO MUSIC",MTV Latino Sud
 https://edge2-ccast-sl.cvattv.com.ar/live/c6eds/MTV_HD/SA_SAGEMCOM/MTV_HD.m3u8
