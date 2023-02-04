@@ -674,7 +674,7 @@ http://iptvid.my.id/hmm/prambors.m3u8
 https://cdn09jtedge.indihometv.com/atemedvr/1675207144/0/IKONSER_AT/IKONSER_AT.mpd
 
 #EXTINF:-1 tvg-id="MTVLive.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/MTV_Live_2021_logo.svg/1024px-MTV_Live_2021_logo.svg.png" group-title="WORLD MUSIC",MTV Live
-http://iptv.prosto.tv:7000/ch128/video.m3u8
+http://92.60.230.202:5053/udp/239.1.1.81:22081
 
 #EXTINF:-1 tvg-id="9XM.in" tvg-logo="https://i.imgur.com/xwMqKA4.png" group-title="INDIAN MUSIC",9XM
 http://103.159.4.38:5868/MUSIC-1/tracks-v1a1/mono.m3u8
