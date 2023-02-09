@@ -658,24 +658,6 @@ https://cdn09jtedge.indihometv.com/atemedvr/1675207144/0/IKONSER_AT/IKONSER_AT.m
 #EXTINF:-1 tvg-id="MTVLive.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/MTV_Live_2021_logo.svg/1024px-MTV_Live_2021_logo.svg.png" group-title="WORLD MUSIC",MTV Live
 http://200.4.96.59:1080/play/a046/index.m3u8
 
-#EXTINF:-1 tvg-id="9XM.in" tvg-logo="https://i.imgur.com/xwMqKA4.png" group-title="INDIAN MUSIC",9XM
-http://103.159.4.38:5868/MUSIC-1/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="B4UMusicIndia.in" tvg-logo="https://i.imgur.com/Pk4R1OZ.png" group-title="INDIAN MUSIC",B4U Music India
-http://103.159.4.38:5868/MUSIC-3/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="Mastii.in" tvg-logo="https://i.imgur.com/eNmOiSO.png" group-title="INDIAN MUSIC",Mastiii
-http://longstream-03.ajaah.com/PlayBoxTV/Masti/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/X7VxlBN.png" group-title="INDIAN MUSIC",MTV India
-http://144.217.70.181:9587/hin2/MTVINDIA/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/JcYIz4J.png" group-title="INDIAN MUSIC",MTV Beats
-http://144.217.70.181:9587/hin2/MTVBEATSHD/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/jgUjlxA.png" group-title="INDIAN MUSIC",Music India
-http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/musicindia/musicindia.isml/.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/5/55/Kral_TV_logosu.png" group-title="TURKISH MUSIC",Kral
 https://dogus-live.daioncdn.net/kraltv/playlist.m3u8
 
@@ -847,21 +829,6 @@ https://dai.google.com/ssai/event/rH_ZU7LMTy6I5kwhB17Wjg/master.m3u8
 #EXTINF:-1 tvg-id="ColorsCineplex.in" tvg-logo="https://i.imgur.com/IM8X6Ui.png" group-title="HINDI MOVIES",Colors Cineplex
 http://208.86.19.13:81/735.stream/index.m3u8
 
-#EXTINF:-1 tvgv-id="StarGold.in" tvg-logo="https://i.imgur.com/bBwYVXE.png" group-title="HINDI MOVIES",Star Gold
-http://212.102.38.8:8080/57e7744848e617b38a7b304007c8a142b0494118c3bfafd1bf16c2d9244031a92cf8127c4d/index.m3u8?token=78f25f79b2c49b22b8b967ae171426e6c0b2919e-71b39b14eb871543b45417d18ce1e3bc-1666980559-1666958959&remote=172.104.238.29
-
-#EXTINF:-1 tvg-id="StarGold2.in" tvg-logo="https://i.imgur.com/LkxRzQI.png" group-title="HINDI MOVIES",Star Gold 2
-http://212.102.38.8:8080/57e7744848e617b38a7b304007c8a142b0494118c3bfafd1bf16c2d9244031a92cf81206/index.m3u8?token=7b8c238c4deab89683f02bfc589afebf750dda25-58ff1bda695edfcea7ce3919f26e2e1b-1666980459-1666958859&remote=172.104.238.29
-
-#EXTINF:-1 tvg-id="StarGoldSelect.in" tvg-logo="https://i.imgur.com/p27U7Pq.png" group-title="HINDI MOVIES",Star Gold Select
-http://212.102.38.8:8080/57e7744848e617b38a7b304007c8a142b0494118c3bfafd1bf16c2d9244031a92cf812674c2dcf9bc8b10a8e/index.m3u8?token=02391875d2c819ea5f8fd8303871eb2debbcbc72-750ba6282f6c272a9938d4893e49ece3-1666980588-1666958988&remote=172.104.238.29
-
-#EXTINF:-1 tvg-id="UTVAction.in" tvg-logo="https://i.imgur.com/iyK0G1Q.png" group-title="INDIAN MOVIES",UTV Action
-http://144.217.70.181:9587/hin2/UTVACTION/index.m3u8
-
-#EXTINF:-1 tvg-id="UTVMovies.in" tvg-logo="https://i.imgur.com/SJyKKnJ.png" group-title="INDIAN MOVIES",UTV Movies
-http://144.217.70.181:9587/hin2/UTVMOVIESHD/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/34JhaxQ.jpg" group-title="GENERAL MOVIES",MyCinema Europe
 http://rr.dens.tv/h/h18/index.m3u8
 
@@ -986,14 +953,7 @@ https://avi-live-channel-cdn.mncnow.id/live/eds/BabyTV-NewHD/sa_dash_vmx/BabyTV-
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MjhkOWZkZjYtOGViOC0zNTkzLWFhOWEtNGFhMzJkMDk3NGE2
 https://avi-live-channel-cdn.mncnow.id/live/eds/Cbeebies/sa_dash_vmx/Cbeebies.mpd
 
-#EXTINF:-1 tvg-id="BabyFirst.us" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/5/5a/BabyFirst.svg/langfr-800px-BabyFirst.svg.png" group-title="KIDS",Baby First
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://livecdn.fptplay.net/hda1/babyfirst_vhls.smil/chunklist_b5000000.m3u8
-
-#EXTINF:-1 tvg-id="ZooMooAsia.nz" tvg-logo="https://i.imgur.com/OqXi7AW.png" group-title="KIDS",Zoo Moo Asia
-http://203.154.177.124:8899/live/ch20/playlist.m3u8
-
-#EXTINF:-1 tvg-id="DaVinciAsia.de" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6d/Da_Vinci_Kids_logo.svg/1920px-Da_Vinci_Kids_logo.svg.png" group-title="KIDS",Da Vinci Asia
+#EXTINF:-1 tvg-id="DaVinciAsia.de" tvg-logo="https://i.imgur.com/aZPNp3S.png" group-title="KIDS",Da Vinci Asia
 https://cdn09jtedge.indihometv.com/atemedvr/1675207144/0/DAVINCI_AT/DAVINCI_AT.mpd
 
 #EXTINF:-1 tvg-id="DreamWorksChannelAsia.us" tvg-logo="https://i.imgur.com/mSMH7Pu.png" group-title="KIDS",Dreamworks TV Asia
@@ -1059,7 +1019,6 @@ https://avi-live-channel-cdn.mncnow.id/live/eds/BBCEarth-HD/sa_dash_vmx/BBCEarth
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DFbrYzh.png" group-title="KNOWLEDGE",TechStorm
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(abe4ead2-1a88-4330-9f41-382fcf94bba2)/manifest.mpd
-
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mThnlFK.png" group-title="KNOWLEDGE",Smithsonian Channel
 https://smithsonianaus-samsungau.amagi.tv/playlist.m3u8
@@ -1658,9 +1617,6 @@ https://vidcdn.vidgyor.com/news24-origin/liveabr/news24-origin/live1/chunks.m3u8
 #EXTINF:-1 tvg-id="RepublicBharat.in" tvg-logo="https://i.imgur.com/0fFuH3n.png" group-title="HINDI NEWS",Republic Bharat
 https://republicworld.amagi.tv/hls/amagi_hls_data_samsungin-republicbharat-samsungindia/CDN/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pznBLDe.png" group-title="HINDI NEWS",Times Now Navbharat
-https://jio-sabbiriptv.vercel.app/jio/Times_Now_Navbharat
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aUfDyOT.png" group-title="HINDI NEWS",TV9 Bharatvarsh
 https://vidcdn.vidgyor.com/tv9bharatvarsh-origin/live/tv9bharatvarsh-origin/live1/chunks.m3u8
 
@@ -1730,10 +1686,10 @@ http://103.226.232.170:9002/play/a001/index.m3u8
 http://103.226.232.170:9002/play/a002/index.m3u8
 
 #EXTINF:-1 tvg-id="ChampionsTV1.id" tvg-logo="https://i.imgur.com/ffWoTF9.png" group-title="NATIONAL SPORTS",Champions TV 1
-https://seulangatv.com/YANG-NYURI-ANAK-DAJJAL/vidioHLS/6685.m3u8
+https://raw.githubusercontent.com/SSHSEDANG4/iptv/main/iptipi/champ1.m3u8
 
 #EXTINF:-1 tvg-id="ChampionsTV2.id" tvg-logo="https://i.imgur.com/r2aPCX8.png" group-title="NATIONAL SPORTS",Champions TV 2
-https://seulangatv.com/YANG-NYURI-ANAK-DAJJAL/vidioHLS/6686.m3u8
+https://raw.githubusercontent.com/SSHSEDANG4/iptv/main/iptipi/champ2.m3u8
 
 #EXTINF:-1 tvg-id="ChampionsTV3.id" tvg-logo="https://i.imgur.com/26Jar5R.png" group-title="NATIONAL SPORTS",Champions TV 3
 https://seulangatv.com/YANG-NYURI-ANAK-DAJJAL/vidioHLS/6786.m3u8
@@ -2243,6 +2199,13 @@ https://no2.webtv1.lol/lb/premium441/index.m3u8|referer=https://streamservicehd.
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://no2.webtv1.lol/lb/premium442/index.m3u8|referer=https://streamservicehd.click/
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9BrV9u6.png" group-title="ROMANIAN SPORTS", Prima Sport 1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=oCg7JaBzTHKVsnW7Qq9fWg:71qFVyEgFS4GTPuGJ617_g
+https://m7rovideolive.solocoo.tv/blueskylivedash/bluelookplus/Manifest.mpd
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CSBS4Ff.png" group-title="GERMAN SPORTS",DAZN 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=cfb5e2b73bef4f3c878f25ab86a7451f:0d6712bf2a84edcc93d001a9613f6fec
@@ -2463,22 +2426,22 @@ https://unifi-live05.secureswiftcontent.com/UnifiHD/live12.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/2100
 https://stream.zeehanzgadget.com/eurosport
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6znCap2.png" group-title="INDIAN SPORTS",Sony Ten 1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6znCap2.png" group-title="INDIAN SPORTS",Sony Sports Ten 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ce17264b317db108f19cdc11aa1a9e66:a21188aee8fc5c56d016fcffcc6b2295
 https://cdn-01.toffeelive.com/origin-09/live-origin/smil:sony_ten1_hd.smil/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/cScj0k6.png" group-title="INDIAN SPORTS",Sony Ten 2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cScj0k6.png" group-title="INDIAN SPORTS",Sony Sports Ten 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ce17264b317db108f19cdc11aa1a9e66:a21188aee8fc5c56d016fcffcc6b2295
 https://cdn-01.toffeelive.com/origin-09/live-origin/smil:sony_ten2_hd.smil/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8GMww7V.png" group-title="INDIAN SPORTS",Sony Ten 3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8GMww7V.png" group-title="INDIAN SPORTS",Sony Sports Ten 3
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ce17264b317db108f19cdc11aa1a9e66:a21188aee8fc5c56d016fcffcc6b2295
 https://cdn-01.toffeelive.com/origin-09/live-origin/smil:sony_ten3_hd.smil/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3cX6mla.png" group-title="INDIAN SPORTS",Sony Ten 5
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3cX6mla.png" group-title="INDIAN SPORTS",Sony Sports Ten 5
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ce17264b317db108f19cdc11aa1a9e66:a21188aee8fc5c56d016fcffcc6b2295
 https://cdn-01.toffeelive.com/origin-08/live-origin/smil:sony_six_hd.smil/manifest.mpd
