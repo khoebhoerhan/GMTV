@@ -3185,7 +3185,10 @@ http://callofliberty.fr/stream/CSTAR/master.m3u8
 http://callofliberty.fr/stream/france.2/master.m3u8
 
 #EXTINF:-1 tvg-id="France3.fr" tvg-logo="https://i.imgur.com/MDwoxj5.png" group-title="FRANCE",France 3
-http://callofliberty.fr/stream/france.3alpes/master.m3u8
+http://callofliberty.fr/stream/france.3/master.m3u8
+
+#EXTINF:-1 tvg-id="France4.fr" tvg-logo="https://i.imgur.com/PuphalU.png" group-title="FRANCE",France 4
+http://callofliberty.fr/stream/france.4/master.m3u8
 
 #EXTINF:-1 tvg-id="France5.fr" tvg-logo="https://i.imgur.com/RIZfLwR.png" group-title="FRANCE",France 5
 https://s13.tntendirect.com/france5/live/playlist.m3u8
@@ -3198,6 +3201,9 @@ https://shls-m6-france-prod-dub.shahid.net/out/v1/c8a9f6e000cd4ebaa4d2fc7d18c159
 
 #EXTINF:-1 tvg-id="NRJ12.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/50/NRJ12_logo.png" group-title="FRANCE",NRJ 12
 http://callofliberty.fr/stream/nrj12/master.m3u8
+
+#EXTINF:-1 tvg-id="ParisPremiere.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d1/Paris_Premi%C3%A8re_2011.svg/1920px-Paris_Premi%C3%A8re_2011.svg.png" group-title="FRANCE",Paris Première
+http://callofliberty.fr/stream/PARISPREMIERE/master.m3u8
 
 #EXTINF:-1 tvg-id="TF1.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dc/TF1_logo_2013.png" group-title="FRANCE",TF1
 http://callofliberty.fr/stream/TF1/master.m3u8
@@ -3446,6 +3452,12 @@ https://no2.webtv1.lol/lb/premium534/index.m3u8|referer=https://streamservicehd.
 #EXTINF:-1 tvg-id="Telecinco.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Telecinco_2012_Large.svg/800px-Telecinco_2012_Large.svg.png" group-title="SPAIN",Telecinco
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 https://no2.webtv1.lol/lb/premium532/index.m3u8|referer=https://streamservicehd.click/
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/eb/RTS_1_logo_2019.svg/1920px-RTS_1_logo_2019.svg.png" group-title="SWITZERLAND",RTS 1
+http://callofliberty.fr/stream/RTS1/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/RTS_2_logo_2019.svg/1920px-RTS_2_logo_2019.svg.png" group-title="SWITZERLAND",RTS 2
+http://callofliberty.fr/stream/RTS2/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/ALTV_Logo.png/1200px-ALTV_Logo.png" group-title="THAILAND",ALTV 4
 https://thaipbs-ujxrch.cdn.byteark.com/live/playlist.m3u8
