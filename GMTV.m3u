@@ -3553,6 +3553,8 @@ https://tv8-tb-live.ercdn.net/tv8bucuk/tv8bucuk_480p.m3u8?e=1664874372&st=ROyU0Y
 ########################################################################################RADIO STATIONS####################################################################################################################################################################
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iUGpY3U.png" group-title="RADIO INDONESIA",Ardan Radio
 http://listento.ardanradio.com:1059/;
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TqLVY6Q.png" group-title="RADIO INDONESIA",B-Radio
+https://onlineradiobox.com/json/id/radiob/play?platform=web
 #EXTINF:-1 tvg-logo="https://i.imgur.com/10AMLB7.png" group-title="RADIO INDONESIA",Bahana FM
 http://stream.bahanafm.co.id:8100/;
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6PxKGf3.png" group-title="RADIO INDONESIA",Bahtera Yudha FM
