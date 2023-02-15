@@ -103,7 +103,7 @@ https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w891045790_b3840
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w1843433135_b384000_sleng.m3u8
 
 #EXTINF:0 tvg-id="KompasTV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/7/7a/KOMPAS_TV_%282017%29.png/1197px-KOMPAS_TV_%282017%29.png" group-title="NATIONAL NEWS",Kompas TV
-https://video.jixie.media/live-test/kompastv.m3u8
+	https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(dc9040ad-a4e1-4d08-883c-a65542b69602)/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/42JzZAx.png" group-title="PARLIAMENTARY",TVR Parlemen
 http://103.18.181.69:1935/golive/livestream/chunklist_w1350607412.m3u8
@@ -1323,7 +1323,7 @@ https://itvoign.multitvsolution.com/hls/newsx_itv_720_900k.m3u8
 https://republicworld.amagi.tv/hls/amagi_hls_data_samsungin-republictv-samsungindia/CDN/playlist.m3u8
 
 #EXTINF:-1 tvg-id="DDIndia.in" tvg-logo="https://i.imgur.com/aME56Hq.png" group-title="INDIAN NEWS",DD India
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/DDIndia/live
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/@DDIndia/live
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nK04jlH.png" group-title="ARABIC NEWS",Al Alam News Network
 https://live2.alalam.ir/live/Alalam/index.m3u8
@@ -1338,7 +1338,7 @@ http://callofliberty.fr/stream/BFMTV/master.m3u8
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x3b68jn?f=.m3u8
 
 #EXTINF:-1 tvg-id="Franceinfo.fr" tvg-logo="https://i.imgur.com/40Zq0TK.png" group-title="FRENCH NEWS",Franceinfo
-https://origin2.live.salto.fr/pool_u81ytesz/ftvi/saltohda/hls_long_enc_ftvi/NA/vyMqwiI/index.m3u8
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/@franceinfo/live
 
 #EXTINF:-1 tvg-id="LCI.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0c/La_Cha%C3%AEne_Info_%28logo%29.svg/1920px-La_Cha%C3%AEne_Info_%28logo%29.svg.png" group-title="FRENCH NEWS",LCI
 https://lci-hls-live-cdn1.tf1.fr/out/v1/ab1865540d984279bc8579683bcfcff0/index.m3u8
@@ -1438,7 +1438,7 @@ http://live4.tdm.com.mo/ch5/_definst_/info_ch5.live/playlist.m3u8
 rtmp://59.124.75.138:1935/sat/tv551
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Logo_24HorasTVN.svg/1920px-Logo_24HorasTVN.svg.png" group-title="LATINO NEWS",24 Horas
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/24horasCl/live
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/@24horasCl/live
 
 #EXTINF:-1 tvg-id="A24.ar" tvg-logo="https://i.imgur.com/XyKKCz3.png" group-title="LATINO NEWS",A24
 #EXTVLCOPT:http-user-agent=Samsung SM-G550T stagefright/Beyonce/12.12.9 (Linux;Android 6.0.12)
@@ -1523,7 +1523,7 @@ http://freelive2.inwstream.com:1935/freelive-edge/tptv/playlist.m3u8
 https://ancglobal-abscbn-ono.amagi.tv/playlist720_p.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HnS25Hi.png" group-title="PINOY NEWS",DZRH TV
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/DZRHNewsTelevision/live
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/@DZRHNewsTelevision/live
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/99/UNTV-Logo-2016.svg/1920px-UNTV-Logo-2016.svg.png" group-title="PINOY NEWS",UNTV
 https://untv.mmdlive.lldns.net/untv/0251dac212a94932ae3563150cbb3788/untvweb.m3u8
@@ -1602,13 +1602,13 @@ https://tezlive-amd.akamaized.net/hls/live/2016145/gnt/gntlive/live_720p/chunks.
 https://itvoign.multitvsolution.com/hls/inkhabar_itv_720_900k.m3u8
 
 #EXTINF:-1 tvg-id="IndiaTV.in" tvg-logo="https://i.imgur.com/BFsM05S.png" group-title="HINDI NEWS",India TV
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/IndiaTV/live
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/@IndiaTV/live
 
 #EXTINF:-1 tvg-id="NDTVIndia.in" tvg-logo="https://i.imgur.com/13hqQkh.png" group-title="HINDI NEWS",NDTV India
 https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/ndtvindiamaster.m3u8
 
 #EXTINF:-1 tvg-id="NewsNation.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/News_nation_logo.jpg" group-title="HINDI NEWS",News Nation
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/NewsNationTV/live
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/@NewsNationTV/live
 
 #EXTINF:-1 tvg-id="News24.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/News24_Logo.jpg" group-title="HINDI NEWS",News 24
 https://vidcdn.vidgyor.com/news24-origin/liveabr/news24-origin/live1/chunks.m3u8
@@ -1655,7 +1655,7 @@ https://newtest.webtv1.lol/lb/premium309/index.m3u8|referer=https://widevine.lic
 https://cnbcarabia.hibridcdn.net/cnbc/cnbc_abr/cnbc/cnbc_480p/chunks.m3u8?
 
 #EXTINF:-1 tvg-id="CNBCAwaaz.in" tvg-logo="https://i.imgur.com/K4v9gj2.png" group-title="BUSINESS NEWS",CNBC Awaaz
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/cnbcawaaz/live
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/@cnbcawaaz/live
 
 #EXTINF:-1 tvg-id="ClassCNBC.it" tvg-logo="https://i.imgur.com/qsmHgJ1.png" group-title="BUSINESS NEWS",Class CNBC
 https://streamcdnb10-859c1818ed614cc5b0047439470927b0.msvdn.net/live/S76890577/tDoFkZD3T1Lw/chunklist_b1728000.m3u8
