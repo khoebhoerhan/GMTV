@@ -1338,7 +1338,7 @@ http://callofliberty.fr/stream/BFMTV/master.m3u8
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x3b68jn?f=.m3u8
 
 #EXTINF:-1 tvg-id="Franceinfo.fr" tvg-logo="https://i.imgur.com/40Zq0TK.png" group-title="FRENCH NEWS",Franceinfo
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/@franceinfo/live
+https://raw.githubusercontent.com/khoebhoerhan/Channels/main/Franceinfo.m3u8
 
 #EXTINF:-1 tvg-id="LCI.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0c/La_Cha%C3%AEne_Info_%28logo%29.svg/1920px-La_Cha%C3%AEne_Info_%28logo%29.svg.png" group-title="FRENCH NEWS",LCI
 https://lci-hls-live-cdn1.tf1.fr/out/v1/ab1865540d984279bc8579683bcfcff0/index.m3u8
@@ -3169,7 +3169,7 @@ http://evpp.mm.uol.com.br:1935/ne10/ne10-tvjornal-caruaru-video-web.sdp/playlist
 http://rtmp.cdn.upx.net.br/723b/myStream.sdp/playlist.m3u8
 
 #EXTINF:-1 tvg-id="6ter.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8a/M6_6ter_2012.png" group-title="FRANCE",6ter
-https://origin2-6play.live.6cloud.fr/pool_u81ytesz/6ter/sixplayhda/hls_short_enc_6ter/NA/aHEUMcx/index.m3u8
+https://raw.githubusercontent.com/khoebhoerhan/Channels/main/6ter.m3u8
 
 #EXTINF:-1 tvg-id="C8.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/47/C8_logo.jpg" group-title="FRANCE",C8
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x5gv5rr?f=.m3u8
@@ -3181,19 +3181,19 @@ http://livetv.ktv.zone/6/play.m3u8
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x5gv5v0?f=.m3u8
 
 #EXTINF:-1 tvg-id="France2.fr" tvg-logo="https://i.imgur.com/nU3uBzG.png" group-title="FRANCE",France 2
-https://origin2.live.salto.fr/pool_u81ytesz/ftv2/saltohdb/hls_long_enc_ftv2/NA/aHEUMcx/index.m3u8
+https://raw.githubusercontent.com/khoebhoerhan/Channels/main/France2.m3u8
 
 #EXTINF:-1 tvg-id="France3.fr" tvg-logo="https://i.imgur.com/MDwoxj5.png" group-title="FRANCE",France 3
-https://origin2.live.salto.fr/pool_u81ytesz/ftv3/saltohdb/hls_long_enc_ftv3/NA/vfcLlen/index.m3u8
+https://raw.githubusercontent.com/khoebhoerhan/Channels/main/France3.m3u8
 
 #EXTINF:-1 tvg-id="France4.fr" tvg-logo="https://i.imgur.com/PuphalU.png" group-title="FRANCE",France 4
-https://origin2.live.salto.fr/pool_u81ytesz/ftv4/saltohda/hls_long_enc_ftv4/NA/vyMqwiI/index.m3u8
+https://raw.githubusercontent.com/khoebhoerhan/Channels/main/France4.m3u8
 
 #EXTINF:-1 tvg-id="France5.fr" tvg-logo="https://i.imgur.com/RIZfLwR.png" group-title="FRANCE",France 5
-https://origin2.live.salto.fr/pool_u81ytesz/ftv5/saltohda/hls_long_enc_ftv5/NA/aHEUMcx/index.m3u8
+https://raw.githubusercontent.com/khoebhoerhan/Channels/main/France5.m3u8
 
 #EXTINF:-1 tvg-id="Gulli.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/4/43/18._Gulli.png/1024px-18._Gulli.png" group-title="FRANCE",Gulli
-https://origin2-6play.live.6cloud.fr/pool_u81ytesz/gulli/sixplaysd/hls_short/index.m3u8
+https://raw.githubusercontent.com/khoebhoerhan/Channels/main/Gulli.m3u8
 
 #EXTINF:-1 tvg-id="M6.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Logo_M6_%282020%2C_fond_clair%29.svg/1024px-Logo_M6_%282020%2C_fond_clair%29.svg.png" group-title="FRANCE",M6
 https://shls-m6-france-prod-dub.shahid.net/out/v1/c8a9f6e000cd4ebaa4d2fc7d18c15988/index.m3u8
@@ -3202,7 +3202,7 @@ https://shls-m6-france-prod-dub.shahid.net/out/v1/c8a9f6e000cd4ebaa4d2fc7d18c159
 http://callofliberty.fr/stream/nrj12/master.m3u8
 
 #EXTINF:-1 tvg-id="ParisPremiere.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d1/Paris_Premi%C3%A8re_2011.svg/1920px-Paris_Premi%C3%A8re_2011.svg.png" group-title="FRANCE",Paris Première
-https://origin2-6play.live.6cloud.fr/pool_u81ytesz/pp/sixplayhda/hls_short_enc_pp/NA/vyMqwiI/index.m3u8
+https://raw.githubusercontent.com/khoebhoerhan/Channels/main/ParisPremiere.m3u8
 
 #EXTINF:-1 tvg-id="TF1.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dc/TF1_logo_2013.png" group-title="FRANCE",TF1
 https://tf1-hls-live-cdn1.tf1.fr/out/v1/c2e382be3aa2486e8753747e7bb6157e/index.m3u8
@@ -3214,7 +3214,7 @@ https://tfx-hls-live-cdn1.tf1.fr/out/v1/818e38d791854222b71a950791fb7002/index.m
 https://tmc-hls-live-cdn1.tf1.fr/out/v1/982927d0b5d24bd58ac42184b10c63d7/index.m3u8
 
 #EXTINF:-1 tvg-id="W9.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/W9_2018.svg/1920px-W9_2018.svg.png" group-title="FRANCE",W9
-https://origin2-6play.live.6cloud.fr/pool_u81ytesz/w9/sixplayhda/hls_short_enc_w9/NA/aHEUMcx/index.m3u8
+https://raw.githubusercontent.com/khoebhoerhan/Channels/main/W9.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/RTL_DE_Logo_2021_blau_petrol_lila.png" group-title="GERMANY",RTL Deutschland
 http://80.24.75.92:5555/udp/239.110.17.1:1234
