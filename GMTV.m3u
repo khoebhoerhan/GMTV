@@ -116,6 +116,9 @@ https://edge.medcom.id/live-edge/smil:mgradio.smil/chunklist_w1042457750_b192000
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MjhkOWZkZjYtOGViOC0zNTkzLWFhOWEtNGFhMzJkMDk3NGE2
 https://anevi-live-channel-cdn.mncnow.id/live/eds/TVOne-2/sa_dash_vmx/TVOne-2.mpd
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4eGZB6u.png" group-title="NATIONAL NEWS",Jawa Pos TV
+https://jawapostv.siar.us/jawapostv/live/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/42JzZAx.png" group-title="PARLIAMENTARY",TVR Parlemen-Badan Anggaran
 http://103.18.181.69:1935/golive/livestreambanggar/playlist.m3u8
 
@@ -236,9 +239,6 @@ https://anevi-live-channel-cdn.mncnow.id/live/eds/JakTV/sa_dash_vmx/JakTV.mpd
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/T3As0Kq.png" group-title="LOKAL",Jambi TV
 http://wowza58.indostreamserver.com:1935/jambitv/live/chunklist_w1308495282.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4eGZB6u.png" group-title="LOKAL",Jawa Pos TV
-https://v2.siar.us/jawapostv/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ljPmr26.png" group-title="LOKAL",Jaya TV
 https://h1.intechmedia.net/intech/ch52.m3u8
@@ -2069,43 +2069,43 @@ https://skylivetab-i.akamaihd.net/hls/live/569779/tablive/sky2.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vPoYbHR.png" group-title="AUSTRALIAN SPORTS",Sky Thoroughbred Central
 https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/stcsd.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/b7TO49Q.png" group-title="NZ SPORTS",Sky Sport 1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NfpTyKG.png" group-title="NZ SPORTS",Sky Sport 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://newtest.webtv1.lol/lb/premium588/index.m3u8|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/b7TO49Q.png" group-title="NZ SPORTS",Sky Sport 2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wOs4RTH.png" group-title="NZ SPORTS",Sky Sport 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://newtest.webtv1.lol/lb/premium589/index.m3u8|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/b7TO49Q.png" group-title="NZ SPORTS",Sky Sport 3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bkzjXe8.png" group-title="NZ SPORTS",Sky Sport 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://newtest.webtv1.lol/lb/premium590/index.m3u8|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/b7TO49Q.png" group-title="NZ SPORTS",Sky Sport 4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/V3MjRxa.png" group-title="NZ SPORTS",Sky Sport 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://newtest.webtv1.lol/lb/premium591/index.m3u8|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/b7TO49Q.png" group-title="NZ SPORTS",Sky Sport 5
+#EXTINF:-1 tvg-logo="https://i.imgur.com/si9S7E5.png" group-title="NZ SPORTS",Sky Sport 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://newtest.webtv1.lol/lb/premium592/index.m3u8|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/b7TO49Q.png" group-title="NZ SPORTS",Sky Sport 6
+#EXTINF:-1 tvg-logo="https://i.imgur.com/93uYG7d.png" group-title="NZ SPORTS",Sky Sport 6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://newtest.webtv1.lol/lb/premium593/index.m3u8|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/b7TO49Q.png" group-title="NZ SPORTS",Sky Sport 7
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Oviebmr.png" group-title="NZ SPORTS",Sky Sport 7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://newtest.webtv1.lol/lb/premium594/index.m3u8|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/b7TO49Q.png" group-title="NZ SPORTS",Sky Sport 8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Gwm03KQ.png" group-title="NZ SPORTS",Sky Sport 8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://newtest.webtv1.lol/lb/premium595/index.m3u8|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/b7TO49Q.png" group-title="NZ SPORTS",Sky Sport 9
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6fMfKwx.png" group-title="NZ SPORTS",Sky Sport 9
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://newtest.webtv1.lol/lb/premium596/index.m3u8|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/b7TO49Q.png" group-title="NZ SPORTS",Sky Sport Select
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Mtf5gTt.png" group-title="NZ SPORTS",Sky Sport Select
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://newtest.webtv1.lol/lb/premium587/index.m3u8|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 
