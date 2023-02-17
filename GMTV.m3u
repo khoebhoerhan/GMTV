@@ -2492,6 +2492,27 @@ https://cdn-01.toffeelive.com/origin-09/live-origin/smil:sony_ten3_hd.smil/manif
 #KODIPROP:inputstream.adaptive.license_key=ce17264b317db108f19cdc11aa1a9e66:a21188aee8fc5c56d016fcffcc6b2295
 https://cdn-01.toffeelive.com/origin-08/live-origin/smil:sony_six_hd.smil/manifest.mpd
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sgxlMEP.png" group-title="INDIAN SPORTS",Sports 18 1
+http://watchindia.net:8880/live/80249/77103/2405.ts
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/l7gSBMN.png" group-title="INDIAN SPORTS",Star Sports 1
+http://163.53.75.198:23480/hls/modn/list/8008/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PmPAqgB.png" group-title="INDIAN SPORTS",Star Sports 1 Hindi
+http://starshare.live:8080/live/775577/775577/211.ts
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Bdjk5RJ.png" group-title="INDIAN SPORTS",Star Sports 2
+http://163.53.75.198:23480/hls/modn/list/8003/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yN2YamE.png" group-title="INDIAN SPORTS",Star Sports 3
+http://163.53.75.198:23480/hls/modn/list/8004/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OtV45QZ.png" group-title="INDIAN SPORTS",Star Sports Select 1
+http://163.53.75.198:23480/hls/modn/list/8002/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1uc09Pq.png" group-title="INDIAN SPORTS",Star Sports Select 2
+http://163.53.75.198:23480/hls/modn/list/8016/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e9/A_Spor_logosu.png" group-title="TURKISH SPORTS",A Spor
 https://trkvz-live.daioncdn.net/aspor/aspor_1080p.m3u8
 
@@ -2754,6 +2775,21 @@ https://newtest.webtv1.lol/lb/premium418/index.m3u8|referer=https://widevine.lic
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Xn5UCd8.png" group-title="AFRICAN SPORTS",Supersport Variety 4 Africa
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 https://newtest.webtv1.lol/lb/premium419/index.m3u8|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Bj0MyZQ.png" group-title="KOREAN SPORTS",SPOTV
+https://cdn-us-154.cloudrsst.com/live/spotv_540/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WbPfNOb.png" group-title="KOREAN SPORTS",SPOTV 2
+https://cdn-us-154.cloudrsst.com/live/spotv_2_540/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NEzDFXe.png" group-title="KOREAN SPORTS",SPOTV On
+https://cdn-us-154.cloudrsst.com/live/spotv_on_540/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wNZv9Jq.png" group-title="KOREAN SPORTS",SPOTV Prime
+https://cdn-us-154.cloudrsst.com/live/spotv_prime_540/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wcralHG.png" group-title="KOREAN SPORTS",tvN Sports
+https://cdn-us-154.cloudrsst.com/live/olivetv_540/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9cDvxwA.png" group-title="ARABIC SPORTS",SSC 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -3650,8 +3686,6 @@ https://svara-stream.radioddns.net:8443/lampung_heartline_mp3?ver=6045
 https://svara-stream.radioddns.net:8443/samarinda_heartline?ver=900346
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pKyRqks.png" group-title="RADIO INDONESIA",Hits UNIKOM Radio
 http://hits.unikom.ac.id:9996/;
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VDOHWd0.png" group-title="RADIO INDONESIA",Hitz FM
-https://s2.radio.co/s6929cb202/listen
 #EXTINF:-1 tvg-logo="https://i.imgur.com/G9FubDl.png" group-title="RADIO INDONESIA",Indika FM
 https://s2.radio.co/sf58a82d7d/listen
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KRAaxKW.png" group-title="RADIO INDONESIA",iRadio Bandung
