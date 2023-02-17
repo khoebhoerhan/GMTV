@@ -2421,10 +2421,10 @@ https://newtest.webtv1.lol/lb/premium74/index.m3u8|referer=https://widevine.lice
 https://newtest.webtv1.lol/lb/premium454/index.m3u8|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/itYiAnd.png" group-title="PORTUGUESE SPORTS",Sport TV 4
-http://udashboard.vip:8080/Akeriptv76/BknNtsYXxV/74423.ts
+http://212.8.243.99:2095/live/dtv_742401/FLdlHf3b/42045.ts
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LblSggR.png" group-title="PORTUGUESE SPORTS",Sport TV 5
-http://udashboard.vip:8080/Akeriptv76/BknNtsYXxV/74424.ts
+http://212.8.243.99:2095/live/dtv_742401/FLdlHf3b/42046.ts
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RbFoVdH.png" group-title="PORTUGUESE SPORTS",Sport TV 6
 http://superbits.tv:2095/live/jYNTPHGx/ayUbbFPX/249069.ts
@@ -3473,9 +3473,7 @@ https://streaming-live-app.rtp.pt/liverepeater/smil:rtp2HD.smil/rtp_playlist.m3u
 https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dHSH6qh.png" group-title="PORTUGAL",TVI
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://video-auth7.iol.pt/live_edge/tvi_abr/edge_servers/tvi-480p/chunks.m3u8?
+http://212.8.243.99:2095/live/dtv_742401/FLdlHf3b/42033.ts
 
 #EXTINF:-1 tvg-id="Antena3.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Antena_3_%282017%29.svg/1024px-Antena_3_%282017%29.svg.png" group-title="SPAIN",Antena 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
