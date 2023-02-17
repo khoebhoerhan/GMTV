@@ -2796,6 +2796,18 @@ https://cdn-us-154.cloudrsst.com/live/olivetv_540/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_key=74ec471a250d423e9de47243fe4e7378:a2e328ed74149502cdeaad656f6af378
 https://ssc-1-ak.akamaized.net/out/v1/0da39f594cc34c4a9b03f0d696a86276/index.mpd
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9cDvxwA.png" group-title="ARABIC SPORTS",SSC 2
+http://yusf.ddns.net:5080/WebRTCApp/streams/SSC2.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9cDvxwA.png" group-title="ARABIC SPORTS",SSC 3
+http://yusf.ddns.net:5080/WebRTCApp/streams/SSC3.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9cDvxwA.png" group-title="ARABIC SPORTS",SSC 4
+http://yusf.ddns.net:5080/WebRTCApp/streams/SSC4.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9cDvxwA.png" group-title="ARABIC SPORTS",SSC 5
+http://yusf.ddns.net:5080/WebRTCApp/streams/SSC5.m3u8
+
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b2/AbuDhabiSports2020.jpg" group-title="ARABIC SPORTS",Abu Dhabi Sports 1
 https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/playlist.m3u8
 
