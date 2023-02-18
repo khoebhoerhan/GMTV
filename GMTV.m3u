@@ -619,7 +619,7 @@ http://ert-live-bcbs15228.siliconweb.com/media/ert_world/ert_worldmedium.m3u8
 https://anevi-live-channel-cdn.mncnow.id/live/eds/AustraliaPlus/sa_dash_vmx/AustraliaPlus.mpd
 
 #EXTINF:-1 tvg-id="TheFilipinoChannelAsia.us" tvg-logo="https://i.imgur.com/SsTaXe8.png" group-title="WORLD ENTERTAINMENT",TFC Asia-Pacific
-https://tfcguam2-abscbn-ono.amagi.tv/index_5.m3u8
+https://tfcguam-abscbn-ono.amagi.tv/index_6.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/EURO_LOGO_FINALE.png/1920px-EURO_LOGO_FINALE.png" group-title="EUROPEAN ENTERTAINMENT",Eurochannel
 http://84.22.33.214/EuroChannel/index.m3u8
@@ -771,6 +771,9 @@ https://anevi-live-channel-cdn.mncnow.id/live/eds/GalaxyPremium-HD/sa_dash_vmx/G
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MjhkOWZkZjYtOGViOC0zNTkzLWFhOWEtNGFhMzJkMDk3NGE2
 https://anevi-live-channel-cdn.mncnow.id/live/eds/Thrill/sa_dash_vmx/Thrill.mpd
 
+#EXTINF:-1 tvg-id="CinemaOneGlobal.ph" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6d/Cinema_One_2013_logo.svg/1200px-Cinema_One_2013_logo.svg.png" group-title="ASIAN MOVIES",Cinema One
+https://cinemaone-abscbn-ono.amagi.tv/index_3.m3u8
+
 #EXTINF:0 tvg-id="CelestialMoviesIndonesia.id" tvg-logo="https://i.imgur.com/XMAtMiv.png" group-title="CHINESE MOVIES",Celestial Movies Indonesia
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MjhkOWZkZjYtOGViOC0zNTkzLWFhOWEtNGFhMzJkMDk3NGE2
@@ -895,6 +898,9 @@ https://video-auth2.iol.pt/live_tvi_direct/live_tvi_direct/edge_servers/tvireali
 
 #EXTINF:-1 tvg-id="KBSDrama.kr" tvg-logo="https://i.imgur.com/n3iQfof.png" group-title="ASIAN SERIES",KBS Drama
 http://ye23.vip/z7z8/2021/kbs2020.php?id=5
+
+#EXTINF:-1 tvg-id="MBCDrama.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/MBC_Dramanet_logo.svg/2560px-MBC_Dramanet_logo.svg.png" group-title="ASIAN SERIES", MBC Drama
+https://m3u-editor.com/serve/tchtviptvplaylist/767388505
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gAZfzvh.png" group-title="ASIAN SERIES",Drama Sangat
 https://live-sg1.global.ssl.fastly.net/live-hls/tonton5_720p/index.m3u8
@@ -1269,7 +1275,7 @@ https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
 https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Pf8hnQK.png" group-title="CANADIAN NEWS",Ici RDI
-https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master_2500.m3u8
+https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8jIPUgH.png" group-title="PARLIAMENTARY",CPAC
 https://d7z3qjdsxbwoq.cloudfront.net/groupa/live/f9809cea-1e07-47cd-a94d-2ddd3e1351db/live.isml/.m3u8
@@ -1673,7 +1679,7 @@ https://d8gy12azhr71i.cloudfront.net/out/v1/45be109c5b4f44319e882da947377364/ind
 http://online.video.rbc.ru/online/rbctv_480p/index.m3u8
 
 #EXTINF:-1 tvg-id="SBSBiz.kr" tvg-logo="https://i.imgur.com/vaixQ9J.png" group-title="BUSINESS NEWS",SBS Biz
-http://ye23.win/iptv/sbs5.1.php?id=S06
+https://m3u-editor.com/serve/tchtviptvplaylist/767388514
 
 #EXTINF:-1 tvg-id="BFMBusiness.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/6/62/Logo_Business_2020.png" group-title="BUSINESS NEWS",BFM Business
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_BUSINESS/index.m3u8?start=LIVE&end=END
@@ -2791,6 +2797,9 @@ https://cdn-us-154.cloudrsst.com/live/spotv_prime_540/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wcralHG.png" group-title="KOREAN SPORTS",tvN Sports
 https://cdn-us-154.cloudrsst.com/live/olivetv_540/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/R5gsdt5.png" group-title="KOREAN SPORTS",SBS Sports
+https://m3u-editor.com/serve/tchtviptvplaylist/767388511
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9cDvxwA.png" group-title="ARABIC SPORTS",SSC 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=74ec471a250d423e9de47243fe4e7378:a2e328ed74149502cdeaad656f6af378
@@ -3142,6 +3151,9 @@ https://newtest.webtv1.lol/lb/premium133/index.m3u8|referer=https://widevine.lic
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 https://newtest.webtv1.lol/lb/premium343/index.m3u8|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 
+#EXTINF:0 tvg-id="CBFT.ca" tvg-logo="https://i.imgur.com/FPoF51E.png" group-title="CANADA",Ici Radio-Canada Télé
+https://rcavlive.akamaized.net/hls/live/696615/xcancbft/master.m3u8
+
 #EXTINF:-1 tvg-id="BBCOneHD.uk" tvg-logo="https://i.imgur.com/oGzLsiq.png" group-title="UK",BBC One HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 https://newtest.webtv1.lol/lb/premium356/index.m3u8|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
@@ -3433,6 +3445,12 @@ https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_211_53993BC5.m3u8
 #EXTINF:0 tvg-id="MBCTV.kr" tvg-logo="https://i.imgur.com/r9gNY5R.png" group-title="KOREA",MBC
 http://123.254.72.24:1935/tvlive/livestream2/playlist.m3u8
 
+#EXTINF:0 tvg-id="MBCevery1.kr" tvg-logo="https://i.imgur.com/t2xdbsN.png" group-title="KOREA",MBC every1
+https://m3u-editor.com/serve/tchtviptvplaylist/767388506
+
+#EXTINF:0 tvg-id="MBCOn.kr" tvg-logo="https://i.imgur.com/o6MuXyQ.png" group-title="KOREA",MBC On
+https://m3u-editor.com/serve/tchtviptvplaylist/767388508
+
 #EXTINF:0 tvg-id="KBS1TV.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/KBS_1_logo.svg/1920px-KBS_1_logo.svg.png" group-title="KOREA",KBS 1TV
 http://mytv.dothome.co.kr/ch/public/1.php
 
@@ -3447,6 +3465,12 @@ http://ye23.vip/z7z8/2021/kbs2020.php?id=8
 
 #EXTINF:0 tvg-id="SBSTV.kr" tvg-logo="https://i.imgur.com/BzqSUVF.png" group-title="KOREA",SBS
 http://59.23.231.102:1935/live/UBCstream/playlist.m3u8
+
+#EXTINF:0 tvg-id="SBSfunE.kr" tvg-logo="https://i.imgur.com/rDh3aqC.png" group-title="KOREA",SBS funE
+https://m3u-editor.com/serve/tchtviptvplaylist/767388512
+
+#EXTINF:-1 tvg-id="Mnet.kr" tvg-logo="https://i.imgur.com/ho02Nl2.png" group-title="KOREA",MNet
+https://m3u-editor.com/serve/tchtviptvplaylist/767388510
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/9b/TDM_Ou_Mun.png" group-title="MACAU",TDM 澳視澳門
 http://live4.tdm.com.mo/ch1/_definst_/ch1.live/playlist.m3u8
