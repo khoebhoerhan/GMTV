@@ -3467,6 +3467,9 @@ http://59.23.231.102:1935/live/UBCstream/playlist.m3u8
 #EXTINF:0 tvg-id="SBSfunE.kr" tvg-logo="https://i.imgur.com/rDh3aqC.png" group-title="KOREA",SBS funE
 https://m3u-editor.com/serve/tchtviptvplaylist/767388512
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/SBS_Plus_logo_2018.svg/800px-SBS_Plus_logo_2018.svg.png" group-title="KOREA",SBS Plus
+https://m3u-editor.com/serve/tchtviptvplaylist/767388511
+
 #EXTINF:-1 tvg-id="Mnet.kr" tvg-logo="https://i.imgur.com/ho02Nl2.png" group-title="KOREA",MNet
 https://m3u-editor.com/serve/tchtviptvplaylist/767388510
 
