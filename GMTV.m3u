@@ -1527,7 +1527,7 @@ http://freelive2.inwstream.com:1935/freelive-edge/tptv/playlist.m3u8
 https://ancglobal-abscbn-ono.amagi.tv/playlist720_p.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HnS25Hi.png" group-title="PINOY NEWS",DZRH TV
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/@DZRHNewsTelevision/live
+https://ythls.onrender.com/channel/UCcTiBX8js_djhSSlmJRI99A.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/99/UNTV-Logo-2016.svg/1920px-UNTV-Logo-2016.svg.png" group-title="PINOY NEWS",UNTV
 https://untv.mmdlive.lldns.net/untv/0251dac212a94932ae3563150cbb3788/untvweb.m3u8
@@ -2957,7 +2957,7 @@ https://bravo.kugo.id/gbitv/rtmp.stream/chunklist.m3u8
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/pijartv
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c1/TV_MARIA_logo.png" group-title="RELIGION",TV Maria
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/TVMariaLIVE/live
+https://ythls.onrender.com/channel/UCDXPB23ws_T0rVvrXVCYqyA.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Vatican_Media_reduced.svg/1200px-Vatican_Media_reduced.svg.png" group-title="RELIGION",Vatican Media Live
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/VaticanNews/live
@@ -3066,6 +3066,11 @@ https://aqfadtv.xyz/live/unifitv/sensasi/index.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/degup/
 https://aqfadtv.xyz/live/unifitv/degup/index.mpd
+
+#EXTINF:-1 tvg-id="TVS.my" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/92/TVS_Sarawak.jpg" group-title="MALAYSIA",TVS
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=dd600869fd5f4bfee286825f6d778b10:eb5b83acbbd79af479a00db92935a34b
+https://v-t-e-r.github.io/Umbrella/Playlist/Ch/TVSwak.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rdLxnli.png" group-title="VISUAL RADIO",Buletin FM
 https://raw.githubusercontent.com/AqFad2811/RadioYTLive/main/BuletinFM.m3u8
@@ -3512,6 +3517,9 @@ http://80.24.75.92:5555/udp/239.111.1.2:1234
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f5/SBS9_New_Logo_2018.png" group-title="NETHERLANDS",SBS 9
 http://80.24.75.92:5555/udp/239.111.3.1:1234
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/People%27s_Televsion_Network_Incorporated_%28PTV%29.svg/1200px-People%27s_Televsion_Network_Incorporated_%28PTV%29.svg.png" group-title="PHILIPPINES",PTV
+https://ythls.onrender.com/channel/UCJCUbMaY593_4SN1QPG7NFQ.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Polsat_2021_gradient.svg/1200px-Polsat_2021_gradient.svg.png" group-title="POLAND",Polsat
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
