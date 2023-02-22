@@ -856,27 +856,6 @@ https://stream01.willfonk.com/live_playlist.m3u8?cid=BS191&r=HD&ccode=JP&m=d0:20
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9XiSzoQ.png" group-title="JAPANESE MOVIES",Wowow Plus
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS192&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aot5IEe.png" group-title="PORTUGUESE MOVIES",TVCine Action
-http://194.76.186.98:2021/play/a00m
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KpdWkEd.png" group-title="PORTUGUESE MOVIES",TVCine Emotion
-http://194.76.186.98:2021/play/a00k
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/kB4VsvT.png" group-title="PORTUGUESE MOVIES",TVCine Edition
-http://194.76.186.98:2021/play/a00l
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/JrGNbqH.png" group-title="PORTUGUESE MOVIES",TVCine Top
-http://194.76.186.98:2021/play/a00j
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EZQZ2Dl.png" group-title="PORTUGUESE SERIES",AXN Portugal
-http://45.92.69.72:8000/play/a0go
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ShvOQxY.png" group-title="PORTUGUESE SERIES",AXN White
-http://45.92.69.72:8000/play/a0h5
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1ZR70ff.png" group-title="PORTUGUESE SERIES",Fox Comedy
-http://45.92.69.72:8001/play/a032
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/Logosicradical.png" group-title="PORTUGUESE SERIES",SIC Radical
 http://45.92.69.72:8001/play/a043
 
@@ -3248,7 +3227,7 @@ hhttp://www.portalcultura.com.br/playerhtml/funtelpa/tv_funtelpa/playlist.m3u8
 https://stmv1.transmissaodigital.com/ronald6259/ronald6259/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RCvAvtf.png" group-title="BRASIL",TV Globo Rio de Janeiro
-http://45.58.126.146:14011/globo.ts
+http://168.205.87.198:8555/live/antony/1234/70.m3u8
 
 #EXTINF:-1 tvg-id="TVGazeta.br" tvg-logo="https://i.imgur.com/iBTAMWE.png" group-title="BRASIL",TV Gazeta 
 https://video02.logicahost.com.br/tvc21/tvc21/playlist.m3u8
