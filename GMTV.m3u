@@ -278,6 +278,9 @@ https://v3.siar.us/paltv/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jyVR4yQ.png" group-title="LOKAL",PJTV
 http://122.248.43.138:1935/ch30/myStream/chunklist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/leO6MG8.png" group-title="LOKAL",PKTV
+https://ams.juraganstreaming.com:5443/LiveApp/streams/pktv.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xxCOG3o.png" group-title="LOKAL",Pon TV
 https://v3.siar.us/pontianaktelevisi/live/playlist.m3u8
 
@@ -317,9 +320,6 @@ http://122.248.43.138:1935/ch4/myStream/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MXDdIb6.png" group-title="LOKAL",SMTV
 http://122.248.43.138:1935/ch25/myStream/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/lFmmEjR.png" group-title="LOKAL",Sriwijaya TV
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/sriwijayatvonline
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/L8miEQe.png" group-title="VISUAL RADIO",Suara Surabaya
 https://ssfm.siar.us/ssfm/live/playlist.m3u8
 
@@ -340,9 +340,6 @@ http://103.30.1.14:8080/hls/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wHo2EvN.png" group-title="LOKAL",TVTPI
 http://103.30.246.47:1935/tvtpi/live/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/JwasnDm.png" group-title="VISUAL RADIO",M Radio Surabaya
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/mspaceapp
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/48/RRI_NET.png" group-title="VISUAL RADIO",RRI Net
 https://cdnrrinet.rri.co.id/rrinet/live/playlist.m3u8
