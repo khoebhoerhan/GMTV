@@ -3318,15 +3318,6 @@ https://skai-live-back.siliconweb.com/media/cambria4/index_bitrate2000K.m3u8
 #EXTINF:-1 tvg-id="AndTV.in" tvg-logo="https://i.imgur.com/HxXyffb.png" group-title="INDIA",& tv
 http://208.86.19.13:81/7033.stream/index.m3u8
 
-#EXTINF:-1 tvg-id="Colors.in" tvg-logo="https://i.imgur.com/Eg91jHK.png" group-title="INDIA",Colors
-http://221.120.204.4/colours-hd-LOCKLE/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/uPEMaT2.png" group-title="INDIA",e24
-http://longstream-04.ajaah.com/PlayBoxTV/E24/playlist.m3u8
-
-#EXTINF:-1 tvg-id="SonyEntertainmentTelevision.in" tvg-logo="https://i.imgur.com/kUqT5yb.png" group-title="INDIA",Sony TV
-http://221.120.204.4:80/SONY-HD-LOCKLE/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 tvg-id="SonySABIndia.in" tvg-logo="https://i.imgur.com/b5HgTUE.png" group-title="INDIA",Sony Sab
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=ce17264b317db108f19cdc11aa1a9e66:a21188aee8fc5c56d016fcffcc6b2295
@@ -3337,18 +3328,6 @@ http://208.86.19.13:81/7211.stream/index.m3u8
 
 #EXTINF:-1 tvg-id="StarPlus.in" tvg-logo="https://i.imgur.com/FFcPLin.png" group-title="INDIA",Star Plus
 https://tsneh.vercel.app/hghhhhbkkh
-
-#EXTINF:-1 tvg-id="ZeeAnmol.in" tvg-logo="https://i.imgur.com/So1TvRL.png" group-title="INDIA",Zee Anmol
-http://208.115.215.42:80/ZEE_Anm0l_HD/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="ZeeTV.in" tvg-logo="https://i.imgur.com/DcG1oo6.png" group-title="INDIA",Zee TV India
-http://221.120.204.4/zee-tv-LOCKLE/playlist.m3u8
-
-#EXTINF:-1 tvg-id="ZingAsia.in" tvg-logo="https://i.imgur.com/i0ppMFC.png" group-title="INDIA",Zing Asia
-https://iamsom5.vercel.app/api/autoq.php?c=Zing
-
-#EXTINF:-1 tvg-id="Zoom.in" tvg-logo="https://i.imgur.com/XCqP0Dm.png" group-title="INDIA",Zoom
-http://144.217.70.181:9587/hin2/ZOOM/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/TG4_logo.svg/1200px-TG4_logo.svg.png" group-title="IRELAND",TG4
 https://dx4452e0qv6r9.cloudfront.net/tg4_vod_national_3000_.m3u8
