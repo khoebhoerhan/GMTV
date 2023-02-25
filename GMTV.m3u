@@ -3244,7 +3244,8 @@ hhttp://www.portalcultura.com.br/playerhtml/funtelpa/tv_funtelpa/playlist.m3u8
 https://stmv1.transmissaodigital.com/ronald6259/ronald6259/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RCvAvtf.png" group-title="BRASIL",TV Globo Rio de Janeiro
-http://168.205.87.198:8555/live/antony/1234/70.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+https://newtest.webtv1.lol/lb/premium761/index.m3u8|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 
 #EXTINF:-1 tvg-id="TVGazeta.br" tvg-logo="https://i.imgur.com/iBTAMWE.png" group-title="BRASIL",TV Gazeta 
 https://video02.logicahost.com.br/tvc21/tvc21/playlist.m3u8
