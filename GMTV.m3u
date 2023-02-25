@@ -1391,9 +1391,6 @@ https://raw.githubusercontent.com/etag2000/IPTV/YTlive/ctsnews.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/6/67/CTV_News_logo.png" group-title="MANDARIN NEWS",CTV News
 https://raw.githubusercontent.com/etag2000/IPTV/YTlive/ctvnews.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/e/e2/FTV_News_Logo.png" group-title="MANDARIN NEWS",FTV News
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/FTVLIVE/live
-
 #EXTINF:-1 tvg-id="PhoenixInfoNewsChannel.hk" tvg-logo="https://i.imgur.com/eSNdW3n.png" group-title="MANDARIN NEWS",Phoenix InfoNews Channel
 https://playtv-live.ifeng.com/live/06OLEEWQKN4_tv1.m3u8
 
@@ -1402,12 +1399,6 @@ https://playtv-live.ifeng.com/live/06OLEGEGM4G_tv1.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/9d/TDM_Informa%C3%A7%C3%A3o.jpg" group-title="MANDARIN NEWS",TDM 澳門資訊頻道
 http://live4.tdm.com.mo/ch5/_definst_/info_ch5.live/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/1/1c/Tvbsnews.png" group-title="MANDARIN NEWS",TVBS News
-rtmp://59.124.75.138:1935/sat/tv551
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Logo_24HorasTVN.svg/1920px-Logo_24HorasTVN.svg.png" group-title="LATINO NEWS",24 Horas
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/@24horasCl/live
 
 #EXTINF:-1 tvg-id="A24.ar" tvg-logo="https://i.imgur.com/XyKKCz3.png" group-title="LATINO NEWS",A24
 #EXTVLCOPT:http-user-agent=Samsung SM-G550T stagefright/Beyonce/12.12.9 (Linux;Android 6.0.12)
@@ -1433,9 +1424,6 @@ https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
 
 #EXTINF:-1 tvg-id="YTN.kr" tvg-logo="https://i.imgur.com/kI7pHMn.jpg" group-title="KOREAN NEWS",YTN
 https://hls.youtb.workers.dev/channel/UChlgI3UHCOnwUGzWzbJ3H5w.m3u8
-
-#EXTINF:-1 tvg-id="YonhapNewsTV.kr" tvg-logo="https://i.imgur.com/SvbO21Y.png" group-title="KOREAN NEWS",연합뉴스TV
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCTHCOPwqNfZ0uiKOvFyhGwg/live
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QeV1sma.png" group-title="EUROPEAN NEWS",TV 2 Nyhetskanalen
 https://ws15-hls-live.akamaized.net/out/u/1153546.m3u8
