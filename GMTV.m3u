@@ -951,77 +951,85 @@ http://rr.dens.tv/h/h98/index.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/2606/
 https://stream.zeehanzgadget.com/ceria
 
-#EXTINF:-1 tvg-id="TVEdukasi.id" tvg-logo="https://upload.wikimedia.org/wikipedia/id/f/f2/Logo_tvedukasi_baru.png" group-title="EDUCATION",TV Edukasi
+#EXTINF:-1 tvg-id="TVEdukasi.id" tvg-logo="https://upload.wikimedia.org/wikipedia/id/f/f2/Logo_tvedukasi_baru.png" group-title="SCIENCE & DOCUMENTARY",TV Edukasi
 http://118.98.229.118:1935/live/tve.stream/chunklist_w36933799.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/x1sG33k.png" group-title="EDUCATION",Indonesiana TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/x1sG33k.png" group-title="SCIENCE & DOCUMENTARY",Indonesiana TV
 https://kbtv.akamaized.net/hls/live/2031188/kanalbuya/1.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/P52iWC8.png" group-title="EDUCATION",Ruang Trampil
+#EXTINF:-1 tvg-logo="https://i.imgur.com/P52iWC8.png" group-title="SCIENCE & DOCUMENTARY",Ruang Trampil
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(2b945e2e-4297-4be9-9a45-aa023c890e13)/manifest.mpd
 
-#EXTINF:0 tvg-id="Besmart.id" tvg-logo="https://i.imgur.com/CLNn6mh.png" group-title="EDUCATION",BeSmart
+#EXTINF:0 tvg-id="Besmart.id" tvg-logo="https://i.imgur.com/CLNn6mh.png" group-title="SCIENCE & DOCUMENTARY",BeSmart
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MjhkOWZkZjYtOGViOC0zNTkzLWFhOWEtNGFhMzJkMDk3NGE2
 https://nxanv-live-cdn.mncnow.id/live/eds/BeSmart/sa_dash_vmx/BeSmart.mpd
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TEGWbVl.png" group-title="EDUCATION",Biznet Adventure
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TEGWbVl.png" group-title="SCIENCE & DOCUMENTARY",Biznet Adventure
 http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.m3u8
 
-#EXTINF:0 tvg-logo="https://i.imgur.com/f0ZYQbB.png" group-title="EDUCATION",Discovery Channel Southeast Asia
+#EXTINF:0 tvg-logo="https://i.imgur.com/f0ZYQbB.png" group-title="SCIENCE & DOCUMENTARY",Discovery Channel Southeast Asia
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MjhkOWZkZjYtOGViOC0zNTkzLWFhOWEtNGFhMzJkMDk3NGE2
 https://nxanv-live-cdn.mncnow.id/live/eds/Discovery/sa_dash_vmx/Discovery.mpd
 
-#EXTINF:0 tvg-id="HistoryAsia.us" tvg-logo="https://i.imgur.com/wtqtwPg.png" group-title="EDUCATION",History Asia
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jAeSKOP.png" group-title="SCIENCE & DOCUMENTARY",Discovery Asia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+https://smart-tv.livedoomovie.com/02_DiscoveryHDWorld/chunklist.m3u8|Referer=https://www.movie87hd.com/?r=ajax
+
+#EXTINF:0 tvg-id="HistoryAsia.us" tvg-logo="https://i.imgur.com/wtqtwPg.png" group-title="SCIENCE & DOCUMENTARY",History Asia
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MjhkOWZkZjYtOGViOC0zNTkzLWFhOWEtNGFhMzJkMDk3NGE2
 https://nxanv-live-cdn.mncnow.id/live/eds/History/sa_dash_vmx/History.mpd
 
-#EXTINF:0 tvg-id="NationalGeographicIndonesia.id" tvg-logo="https://i.imgur.com/O13uMvJ.png" group-title="EDUCATION",National Geographic
+#EXTINF:-1 tvg-id="History2Asia.us" tvg-logo="https://i.imgur.com/9EFDndr.png" group-title="SCIENCE & DOCUMENTARY",History 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+https://smart-tv.livedoomovie.com/02_H2HD_720p/chunklist.m3u8|Referer=https://www.movie87hd.com/?r=ajax
+
+#EXTINF:0 tvg-id="NationalGeographicIndonesia.id" tvg-logo="https://i.imgur.com/O13uMvJ.png" group-title="SCIENCE & DOCUMENTARY",National Geographic
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MjhkOWZkZjYtOGViOC0zNTkzLWFhOWEtNGFhMzJkMDk3NGE2
 https://nxanv-live-cdn.mncnow.id/live/eds/NatGeoChannel/sa_dash_vmx/NatGeoChannel.mpd
 
-#EXTINF:0 tvg-id="NationalGeographicWildIndonesia.id" tvg-logo="https://i.imgur.com/AMyifk1.png" group-title="EDUCATION",National Geographic Wild
+#EXTINF:0 tvg-id="NationalGeographicWildIndonesia.id" tvg-logo="https://i.imgur.com/AMyifk1.png" group-title="SCIENCE & DOCUMENTARY",National Geographic Wild
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MjhkOWZkZjYtOGViOC0zNTkzLWFhOWEtNGFhMzJkMDk3NGE2
 https://nxanv-live-cdn.mncnow.id/live/eds/NatGeoWild/sa_dash_vmx/NatGeoWild.mpd
 
-#EXTINF:0 tvg-id="AnimalPlanetIndonesia.id" tvg-logo="https://i.imgur.com/x1hHQwk.png" group-title="EDUCATION",Animal Planet
+#EXTINF:0 tvg-id="AnimalPlanetIndonesia.id" tvg-logo="https://i.imgur.com/x1hHQwk.png" group-title="SCIENCE & DOCUMENTARY",Animal Planet
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MjhkOWZkZjYtOGViOC0zNTkzLWFhOWEtNGFhMzJkMDk3NGE2
 https://nxanv-live-cdn.mncnow.id/live/eds/AnimalPlanet/sa_dash_vmx/AnimalPlanet.mpd
 
-#EXTINF:0 tvg-id="BBCEarthAsia.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png" group-title="EDUCATION",BBC Earth Asia
+#EXTINF:0 tvg-id="BBCEarthAsia.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png" group-title="SCIENCE & DOCUMENTARY",BBC Earth Asia
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MjhkOWZkZjYtOGViOC0zNTkzLWFhOWEtNGFhMzJkMDk3NGE2
 https://nxanv-live-cdn.mncnow.id/live/eds/BBCEarth-HD/sa_dash_vmx/BBCEarth-HD.mpd
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DFbrYzh.png" group-title="EDUCATION",TechStorm
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DFbrYzh.png" group-title="SCIENCE & DOCUMENTARY",TechStorm
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(abe4ead2-1a88-4330-9f41-382fcf94bba2)/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mThnlFK.png" group-title="EDUCATION",Smithsonian Channel
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mThnlFK.png" group-title="SCIENCE & DOCUMENTARY",Smithsonian Channel
 https://smithsonianaus-samsungau.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5QGgJe8.png" group-title="EDUCATION",Love Nature 4K
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5QGgJe8.png" group-title="SCIENCE & DOCUMENTARY",Love Nature 4K
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XD8Vr0d.jpg" group-title="EDUCATION",NASA TV Public
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XD8Vr0d.jpg" group-title="SCIENCE & DOCUMENTARY",NASA TV Public
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XD8Vr0d.jpg" group-title="EDUCATION",NASA TV Media
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XD8Vr0d.jpg" group-title="SCIENCE & DOCUMENTARY",NASA TV Media
 https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
 
-#EXTINF:-1 tvg-id="LinguaChannel.id" tvg-logo="https://i.imgur.com/VaoRtdn.png" group-title="EDUCATION",Lingua Channel
+#EXTINF:-1 tvg-id="LinguaChannel.id" tvg-logo="https://i.imgur.com/VaoRtdn.png" group-title="SCIENCE & DOCUMENTARY",Lingua Channel
 http://iptvid.my.id/hmm/lingua.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ae/RTD-TV-logo.png" group-title="EDUCATION",RT Documentary
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ae/RTD-TV-logo.png" group-title="SCIENCE & DOCUMENTARY",RT Documentary
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://rt-rtd.rttv.com/live/rtdoc/playlist.m3u8
 
-#EXTINF:0 tvg-id="CGTNDocumentary.cn" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/CGTN_Documentary_logo.png" group-title="EDUCATION",CGTN Documentary
+#EXTINF:0 tvg-id="CGTNDocumentary.cn" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/CGTN_Documentary_logo.png" group-title="SCIENCE & DOCUMENTARY",CGTN Documentary
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MjhkOWZkZjYtOGViOC0zNTkzLWFhOWEtNGFhMzJkMDk3NGE2
 https://nxanv-live-cdn.mncnow.id/live/eds/CGTN_Doc/sa_dash_vmx/CGTN_Doc.mpd
@@ -1822,17 +1830,17 @@ https://newtest.webtv1.lol/lb/premium67/index.m3u8|referer=https://widevine.lice
 #EXTINF:-1 tvg-id="beINSportsHaber.tr" tvg-logo="https://i.imgur.com/fBWCN2V.png" group-title="TURKISH SPORTS",beIN Sports Haber
 https://59c7ea6bec1c6.streamlock.net/filbox/beinsporthaber.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="beINSports.qa" tvg-logo="https://i.imgur.com/39bwyGI.png" group-title="MALAY SPORTS",beIN Sports Malaysia & Singapore
+#EXTINF:-1 tvg-id="beINSports1Malaysia.my" tvg-logo="https://i.imgur.com/39bwyGI.png" group-title="MALAY SPORTS",beIN Sports Malaysia & Singapore
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
 https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-039/stream.mpd
 
-#EXTINF:-1 tvg-id="beINSports2.qa" tvg-logo="https://i.imgur.com/NDp6TlM.png" group-title="MALAY SPORTS",beIN Sports 2 Malaysia & Singapore
+#EXTINF:-1 tvg-id="beINSports2Malaysia.my" tvg-logo="https://i.imgur.com/NDp6TlM.png" group-title="MALAY SPORTS",beIN Sports 2 Malaysia & Singapore
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
 https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-040/stream.mpd
 
-#EXTINF:-1 tvg-id="beINSports3.qa" tvg-logo="https://i.imgur.com/j8VC6nB.png" group-title="MALAY SPORTS",beIN Sports 3 Malaysia & Singapore
+#EXTINF:-1 tvg-id="beINSports3Malaysia.my" tvg-logo="https://i.imgur.com/j8VC6nB.png" group-title="MALAY SPORTS",beIN Sports 3 Malaysia & Singapore
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
 https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-041/stream.mpd
@@ -1966,6 +1974,10 @@ https://newtest.webtv1.lol/lb/premium375/index.m3u8|referer=https://widevine.lic
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://newtest.webtv1.lol/lb/premium39/index.m3u8|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jxLMBZt.png" group-title="AMERICAN SPORTS",FS2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://newtest.webtv1.lol/lb/eplayerfs2/playlist.m3u8|Referer=https://eplayer.click/&User-agent=Mozilla/5.0
+
 #EXTINF:-1 tvg-id="GolfChannel.us" tvg-logo="https://i.imgur.com/0FJ92Bp.png" group-title="AMERICAN SPORTS",Golf Channel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://newtest.webtv1.lol/lb/premium318/index.m3u8|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
@@ -1995,6 +2007,26 @@ https://newtest.webtv1.lol/lb/premium66/index.m3u8|referer=https://widevine.lice
 #EXTINF:-1 tvg-logo="https://i.imgur.com/b7TO49Q.png" group-title="AUSTRALIAN SPORTS",Fox Sports 501
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://newtest.webtv1.lol/lb/premium369/index.m3u8|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BLWrz42.png" group-title="AUSTRALIAN SPORTS",Fox Sports 502
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://newtest.webtv1.lol/lb/eplayerfox502/playlist.m3u8|referer=https://eplayer.click/&User-agent=Mozilla/5.0
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qR5u3Jg.png" group-title="AUSTRALIAN SPORTS",Fox Sports 503
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://newtest.webtv1.lol/lb/eplayerfox503/playlist.m3u8|referer=https://eplayer.click/&User-agent=Mozilla/5.0
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4sHtDw1.png" group-title="AUSTRALIAN SPORTS",Fox Sports 504
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://newtest.webtv1.lol/lb/eplayerfox504/playlist.m3u8|referer=https://eplayer.click/&User-agent=Mozilla/5.0
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qR5u3Jg.png" group-title="AUSTRALIAN SPORTS",Fox Sports 505
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://newtest.webtv1.lol/lb/eplayerfox505/playlist.m3u8|referer=https://eplayer.click/&User-agent=Mozilla/5.0
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qR5u3Jg.png" group-title="AUSTRALIAN SPORTS",Fox Sports 506
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://newtest.webtv1.lol/lb/eplayerfox506/playlist.m3u8|referer=https://eplayer.click/&User-agent=Mozilla/5.0
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zeywLXs.png" group-title="AUSTRALIAN SPORTS",Fox Sports News
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
