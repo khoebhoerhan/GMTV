@@ -587,6 +587,34 @@ https://nxanv-live-cdn.mncnow.id/live/eds/XingKongTV/sa_dash_vmx/XingKongTV.mpd
 #EXTINF:-1 tvg-id="TVEInternacional.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Logo_TVE-Internacional.svg/1024px-Logo_TVE-Internacional.svg.png" group-title="EUROPEAN ENTERTAINMENT",TVE Internacional
 http://rr.dens.tv/h/h158/index2.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/E%21_Logo_2012.svg/320px-E%21_Logo_2012.svg.png" group-title="AMERICAN ENTERTAINMENT",E! East
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+https://newtest.webtv1.lol/lb/premium315/index.m3u8|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+
+#EXTINF:-1 tvg-id="OprahWinfreyNetworkEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/OWN_2011_logo.svg/1920px-OWN_2011_logo.svg.png" group-title="AMERICAN ENTERTAINMENT",Oprah Winfrey Network East
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+https://newtest.webtv1.lol/lb/premium331/index.m3u8|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+
+#EXTINF:-1 tvg-id="TBSEast.us" tvg-logo="https://i.imgur.com/upM99h1.png" group-title="AMERICAN ENTERTAINMENT",TBS East
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+https://newtest.webtv1.lol/lb/premium336/index.m3u8|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+
+#EXTINF:-1 tvg-id="TNTEast.us" tvg-logo="https://i.imgur.com/umJbqNY.png" group-title="AMERICAN ENTERTAINMENT",TNT East
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+https://newtest.webtv1.lol/lb/premium338/index.m3u8|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/2019_Disney_Channel_logo.svg/1920px-2019_Disney_Channel_logo.svg.png" group-title="AMERICAN ENTERTAINMENT",Disney Channel East
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+https://newtest.webtv1.lol/lb/premium312/index.m3u8|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+
+#EXTINF:-1 tvg-id="USANetworkEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/1920px-USA_Network_logo_%282016%29.svg.png" group-title="AMERICAN ENTERTAINMENT",USA Network East
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+https://newtest.webtv1.lol/lb/premium343/index.m3u8|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/71d2wEk.png" group-title="AMERICAN ENTERTAINMENT",Paramount Network
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+https://newtest.webtv1.lol/lb/premium334/index.m3u8|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RdIJVDs.png" group-title="ARABIC ENTERTAINMENT",Abu Dhabi TV
 https://admdn2.cdn.mangomolo.com/adtv/smil:adtv.stream.smil/chunklist.m3u8
 
@@ -832,6 +860,54 @@ http://208.86.19.13:81/735.stream/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/34JhaxQ.jpg" group-title="GENERAL MOVIES",MyCinema Europe
 http://rr.dens.tv/h/h18/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AD8r7dt.png" group-title="BRITISH MOVIES",Film4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+https://newtest.webtv1.lol/lb/premium688/index.m3u8|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/j7IZ3V4.png" group-title="BRITISH MOVIES",Sky Cinema Premiere
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+https://newtest.webtv1.lol/lb/premium671/index.m3u8|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JVSB82J.png" group-title="BRITISH MOVIES",Sky Cinema Select
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+https://newtest.webtv1.lol/lb/premium672/index.m3u8|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8VQcZbN.png" group-title="BRITISH MOVIES",Sky Cinema Hits
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+https://newtest.webtv1.lol/lb/premium673/index.m3u8|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MAL6AfI.png" group-title="BRITISH MOVIES",Sky Cinema Greats
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+https://newtest.webtv1.lol/lb/premium674/index.m3u8|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9ZqKNj4.png" group-title="BRITISH MOVIES",Sky Cinema Animation
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+https://newtest.webtv1.lol/lb/premium675/index.m3u8|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zsJvGwG.png" group-title="BRITISH MOVIES",Sky Cinema Family
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+https://newtest.webtv1.lol/lb/premium676/index.m3u8|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UM58YA5.png" group-title="BRITISH MOVIES",Sky Cinema Action
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+https://newtest.webtv1.lol/lb/premium677/index.m3u8|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aHKEIuP.png" group-title="BRITISH MOVIES",Sky Cinema Comedy
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+https://newtest.webtv1.lol/lb/premium678/index.m3u8|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mXw0vCI.png" group-title="BRITISH MOVIES",Sky Cinema Thriller
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+https://newtest.webtv1.lol/lb/premium679/index.m3u8|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Bm19MDI.png" group-title="BRITISH MOVIES",Sky Cinema Drama
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+https://newtest.webtv1.lol/lb/premium680/index.m3u8|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RJ2AcaL.png" group-title="BRITISH MOVIES",Sky Cinema Sci-fi Horror
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+https://newtest.webtv1.lol/lb/premium681/index.m3u8|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+
 #EXTINF:-1 tvg-id="SundanceTVEast.us" tvg-logo="https://i.imgur.com/7UNqd5c.png" group-title="GENERAL MOVIES",Sundance TV East
 https://bcovlive-a.akamaihd.net/d2fcbeaead4b425fa13d4fec961fc47a/us-east-1/6240731308001/playlist.m3u8
 
@@ -852,6 +928,42 @@ https://stream01.willfonk.com/live_playlist.m3u8?cid=BS191&r=HD&ccode=JP&m=d0:20
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9XiSzoQ.png" group-title="JAPANESE MOVIES",Wowow Plus
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS192&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dIoU3FG.png" group-title="AMERICAN SERIES",A&E
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+https://newtest.webtv1.lol/lb/premium302/index.m3u8|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/icFwjZ3.jpg" group-title="AMERICAN SERIES",AMC East
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+https://newtest.webtv1.lol/lb/premium303/index.m3u8|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8dgknme.png" group-title="AMERICAN SERIES",FX East
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+https://newtest.webtv1.lol/lb/premium317/index.m3u8|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+
+#EXTINF:-1 tvg-id="ShowtimeEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/1920px-Showtime.svg.png" group-title="AMERICAN SERIES",Showtime East
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+https://newtest.webtv1.lol/lb/premium333/index.m3u8|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LHXa485.png" group-title="AMERICAN SERIES",Syfy East
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+https://newtest.webtv1.lol/lb/premium373/index.m3u8|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+
+#EXTINF:-1 tvg-id="SkyAtlantic.uk" tvg-logo="https://i.imgur.com/3vrlhfv.png" group-title="BRITISH SERIES",Sky Atlantic
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+https://newtest.webtv1.lol/lb/premium362/index.m3u8|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+
+#EXTINF:-1 tvg-id="SkyComedy.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f0/Sky_Comedy_logo_2020.svg/1920px-Sky_Comedy_logo_2020.svg.png" group-title="BRITISH SERIES",Sky Comedy
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+https://newtest.webtv1.lol/lb/premium684/index.m3u8|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+
+#EXTINF:-1 tvg-id="SkyCrime.uk" tvg-logo="https://i.imgur.com/GAREWdq.png" group-title="BRITISH SERIES",Sky Crime
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+https://newtest.webtv1.lol/lb/premium685/index.m3u8|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+
+#EXTINF:-1 tvg-id="SkyWitness.uk" tvg-logo="https://i.imgur.com/g3xyKHO.png" group-title="BRITISH SERIES",Sky Witness
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+https://newtest.webtv1.lol/lb/premium361/index.m3u8|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/Logosicradical.png" group-title="PORTUGUESE SERIES",SIC Radical
 http://45.92.69.72:8001/play/a043
@@ -2608,6 +2720,78 @@ https://newtest.webtv1.lol/lb/premium433/index.m3u8|referer=https://widevine.lic
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://newtest.webtv1.lol/lb/premium434/index.m3u8|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dL13zdR.png" group-title="GREEK SPORTS",Cosmote Sport 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://newtest.webtv1.lol/lb/premium622/index.m3u8|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wxw1tnY.png" group-title="GREEK SPORTS",Cosmote Sport 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://newtest.webtv1.lol/lb/premium623/index.m3u8|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DtFquTE.png" group-title="GREEK SPORTS",Cosmote Sport 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://newtest.webtv1.lol/lb/premium624/index.m3u8|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WgiAHlR.png" group-title="GREEK SPORTS",Cosmote Sport 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://newtest.webtv1.lol/lb/premium625/index.m3u8|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MvMyeXL.png" group-title="GREEK SPORTS",Cosmote Sport 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://newtest.webtv1.lol/lb/premium626/index.m3u8|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/51n031I.png" group-title="GREEK SPORTS",Cosmote Sport 6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://newtest.webtv1.lol/lb/premium627/index.m3u8|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vISXQsN.png" group-title="GREEK SPORTS",Cosmote Sport 7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://newtest.webtv1.lol/lb/premium628/index.m3u8|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4olci94.png" group-title="GREEK SPORTS",Cosmote Sport 8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://newtest.webtv1.lol/lb/premium629/index.m3u8|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ONZebAL.png" group-title="GREEK SPORTS",Cosmote Sport 9
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://newtest.webtv1.lol/lb/premium630/index.m3u8|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iybzi50.png" group-title="GREEK SPORTS",Nova Sport 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://newtest.webtv1.lol/lb/premium631/index.m3u8|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pdyxjyt.png" group-title="GREEK SPORTS",Nova Sport 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://newtest.webtv1.lol/lb/premium632/index.m3u8|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qtHuvgA.png" group-title="GREEK SPORTS",Nova Sport 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://newtest.webtv1.lol/lb/premium633/index.m3u8|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nC1q3L4.png" group-title="GREEK SPORTS",Nova Sport 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://newtest.webtv1.lol/lb/premium634/index.m3u8|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pMSy5EX.png" group-title="GREEK SPORTS",Nova Sport 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://newtest.webtv1.lol/lb/premium635/index.m3u8|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zqUrpT3.png" group-title="GREEK SPORTS",Nova Sport 6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://newtest.webtv1.lol/lb/premium636/index.m3u8|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6npytN2.png" group-title="GREEK SPORTS",Nova Sport Start
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://newtest.webtv1.lol/lb/premium637/index.m3u8|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0DJ0RrT.png" group-title="GREEK SPORTS",Nova Sport Prime
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://newtest.webtv1.lol/lb/premium638/index.m3u8|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/p3HYRCQ.png" group-title="GREEK SPORTS",Nova Sport News
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://newtest.webtv1.lol/lb/premium639/index.m3u8|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ow1Xki6.png" group-title="BULGARIAN SPORTS",Diema Sport
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://newtest.webtv1.lol/lb/premium465/index.m3u8|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
@@ -3160,10 +3344,6 @@ https://v-ny.mybtv.net/live/554/1280x720.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KJR6lt0.png" group-title="USA",CBS East
 https://v-ny.mybtv.net/live/545/1280x720.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/E%21_Logo_2012.svg/320px-E%21_Logo_2012.svg.png" group-title="USA",E! East
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-https://newtest.webtv1.lol/lb/premium315/index.m3u8|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Q6AoC5h.png" group-title="USA",Fox East
 https://v-ny.mybtv.net/live/550/1280x720.m3u8
 
@@ -3172,14 +3352,6 @@ https://v-ny.mybtv.net/live/548/1280x720.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/33/PBS_logo.svg/1920px-PBS_logo.svg.png" group-title="USA",PBS East
 https://v-ny.mybtv.net/live/575/1280x720.m3u8
-
-#EXTINF:-1 tvg-id="TBSEast.us" tvg-logo="https://i.imgur.com/upM99h1.png" group-title="USA",TBS East
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-https://newtest.webtv1.lol/lb/premium336/index.m3u8|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
-
-#EXTINF:-1 tvg-id="TNTEast.us" tvg-logo="https://i.imgur.com/umJbqNY.png" group-title="USA",TNT East
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-https://newtest.webtv1.lol/lb/premium338/index.m3u8|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ydm3Ss2.png" group-title="USA",Telemundo Este
 https://v-ny.mybtv.net/live/659/1280x720.m3u8
@@ -3194,10 +3366,6 @@ https://v-ny.mybtv.net/live/643/1280x720.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 https://newtest.webtv1.lol/lb/premium133/index.m3u8|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 
-#EXTINF:-1 tvg-id="USANetworkEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/1920px-USA_Network_logo_%282016%29.svg.png" group-title="USA",USA Network East
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-https://newtest.webtv1.lol/lb/premium343/index.m3u8|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
-
 #EXTINF:0 tvg-id="CBFT.ca" tvg-logo="https://i.imgur.com/FPoF51E.png" group-title="CANADA",Ici Radio-Canada Télé
 https://rcavlive.akamaized.net/hls/live/696615/xcancbft/master.m3u8
 
@@ -3208,6 +3376,10 @@ https://newtest.webtv1.lol/lb/premium356/index.m3u8|referer=https://widevine.lic
 #EXTINF:-1 tvg-id="BBCTwoHD.uk" tvg-logo="https://i.imgur.com/iMfng6J.png" group-title="UK",BBC Two HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 https://newtest.webtv1.lol/lb/premium357/index.m3u8|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gcpSDKf.png" group-title="UK",BBC Three
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+https://newtest.webtv1.lol/lb/premium358/index.m3u8|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nywptTp.png" group-title="UK",BBC Four
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
@@ -3244,6 +3416,10 @@ https://newtest.webtv1.lol/lb/premium353/index.m3u8|referer=https://widevine.lic
 #EXTINF:-1 tvg-id="S4C.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/S4C_logo_2014.svg/1024px-S4C_logo_2014.svg.png" group-title="UK",S4C
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 https://newtest.webtv1.lol/lb/premium670/index.m3u8|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+
+#EXTINF:-1 tvg-id="SkyShowcase.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Sky_Showcase_2021.svg/1920px-Sky_Showcase_2021.svg.png" group-title="UK",Sky Showcase
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+https://newtest.webtv1.lol/lb/premium682/index.m3u8|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RKkYHR9.png" group-title="ARGENTINA",América TV
 https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
@@ -3307,6 +3483,34 @@ http://evpp.mm.uol.com.br:1935/ne10/ne10-tvjornal-caruaru-video-web.sdp/playlist
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/TV_Brasil_logo_2019.svg/1920px-TV_Brasil_logo_2019.svg.png" group-title="BRASIL",TV Brasil
 http://rtmp.cdn.upx.net.br/723b/myStream.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/44/DR1_logo_2020.svg/800px-DR1_logo_2020.svg.png" group-title="DENMARK",DR 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+https://newtest.webtv1.lol/lb/premium801/index.m3u8|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/07/DR2_logo_2020.svg/800px-DR2_logo_2020.svg.png" group-title="DENMARK",DR 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+https://newtest.webtv1.lol/lb/premium802/index.m3u8|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TV_2_logo_2013.svg/1920px-TV_2_logo_2013.svg.png" group-title="DENMARK",TV 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+https://newtest.webtv1.lol/lb/premium221/index.m3u8|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Kanal_4_logo_Danmark.png/800px-Kanal_4_logo_Danmark.png" group-title="DENMARK",Kanal 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+https://newtest.webtv1.lol/lb/premium803/index.m3u8|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Kanal_5_logo_Danmark.png/800px-Kanal_5_logo_Danmark.png" group-title="DENMARK",Kanal 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+https://newtest.webtv1.lol/lb/premium804/index.m3u8|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/64/6%27eren_2015.png" group-title="DENMARK",6'eren
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+https://newtest.webtv1.lol/lb/premium800/index.m3u8|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/Canal_9_Denmark_2015.png" group-title="DENMARK",Canal 9
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+https://newtest.webtv1.lol/lb/premium805/index.m3u8|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 
 #EXTINF:-1 tvg-id="6ter.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8a/M6_6ter_2012.png" group-title="FRANCE",6ter
 https://raw.githubusercontent.com/khoebhoerhan/Channels/main/6ter.m3u8
