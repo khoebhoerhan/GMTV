@@ -2325,13 +2325,6 @@ https://newtest.webtv1.lol/lb/premium441/index.m3u8|referer=https://widevine.lic
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://newtest.webtv1.lol/lb/premium442/index.m3u8|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9BrV9u6.png" group-title="ROMANIAN SPORTS",Prima Sport 1
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=oCg7JaBzTHKVsnW7Qq9fWg:71qFVyEgFS4GTPuGJ617_g
-https://m7rovideolive.solocoo.tv/blueskylivedash/bluelookplus/Manifest.mpd
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VckHDjz.png" group-title="GERMAN SPORTS",DAZN 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
