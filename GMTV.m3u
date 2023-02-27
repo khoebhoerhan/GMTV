@@ -974,13 +974,13 @@ https://newtest.webtv1.lol/lb/premium685/index.m3u8|referer=https://widevine.lic
 https://newtest.webtv1.lol/lb/premium361/index.m3u8|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/Logosicradical.png" group-title="PORTUGUESE SERIES",SIC Radical
-http://45.92.69.72:8001/play/a043
+http://dominoiptv.com:2082/cipo2673/6nKa4hs9fFS2U8/130934
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZwRFjOY.png" group-title="PORTUGUESE SERIES",SIC Mulher
 http://45.92.69.72:8001/play/a040
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QQafZlX.png" group-title="PORTUGUESE SERIES",SIC Caras
-http://45.92.69.72:8001/play/a042
+http://dominoiptv.com:2082/cipo2673/6nKa4hs9fFS2U8/130936
 
 #EXTINF:-1 tvg-id="TVIFiccao.pt" tvg-logo="https://i.imgur.com/D2PFTzV.png" group-title="PORTUGUESE SERIES",TVI Ficção
 #KODIPROP:inputstream=inputstream.adaptive
@@ -988,9 +988,8 @@ http://45.92.69.72:8001/play/a042
 https://video-auth2.iol.pt/live_tvi_ficcao/live_tvi_ficcao/edge_servers/tvificcao-720p/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PFJ5gVQ.png" group-title="PORTUGUESE SERIES",TVI Reality
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://video-auth2.iol.pt/live_tvi_direct/live_tvi_direct/edge_servers/tvireality-480p/chunks.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+https://newtest.webtv1.lol/lb/premium724/index.m3u8|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 
 #EXTINF:-1 tvg-id="KBSDrama.kr" tvg-logo="https://i.imgur.com/n3iQfof.png" group-title="ASIAN SERIES",KBS Drama
 http://ye23.vip/z7z8/2021/kbs2020.php?id=5
@@ -1168,7 +1167,7 @@ https://live.duhnet.tv/S2/HLS_LIVE/cnnturknp/playlist.m3u8
 #EXTINF:-1 tvg-id="CNNPortugal.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/CNN_Portugal.svg/800px-CNN_Portugal.svg.png" group-title="PORTUGUESE NEWS",CNN Portugal
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-http://45.92.69.72:8001/play/a02l
+http://dominoiptv.com:2082/cipo2673/6nKa4hs9fFS2U8/130923
 
 #EXTINF:-1 tvg-id="CNNBrasil.br" tvg-logo="https://i.imgur.com/zcaYBfX.png" group-title="BRASILIAN NEWS",CNN Brasil
 http://206.1.95.2:8004/play/a01e
@@ -1568,10 +1567,10 @@ http://hbbtvlive3.v3.tvp.pl/hbbtvlive/livestream.php?app_id=kanal2
 http://hbbtvlive3.v3.tvp.pl/hbbtvlive/livestream.php?app_id=senat
 
 #EXTINF:-1 tvg-id="SICNoticias.pt" tvg-logo="https://i.imgur.com/TpBpUU4.png" tvg-id="SICNoticias.pt" group-title="PORTUGUESE NEWS",SIC Notícias
-http://udashboard.vip:8080/Akeriptv76/BknNtsYXxV/74379.ts
+http://dominoiptv.com:2082/cipo2673/6nKa4hs9fFS2U8/130922
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Rkw85FP.jpg" group-title="PORTUGUESE NEWS",CM TV
-http://udashboard.vip:8080/Akeriptv76/BknNtsYXxV/74381.ts
+http://212.8.243.99:2095/live/dtv_742401/FLdlHf3b/42036.ts
 
 #EXTINF:-1 tvg-id="RTP3.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Rtp3.png/1920px-Rtp3.png" group-title="PORTUGUESE NEWS",RTP 3
 #KODIPROP:inputstream=inputstream.adaptive
