@@ -1605,7 +1605,7 @@ https://ythls.onrender.com/channel/UCcTiBX8js_djhSSlmJRI99A.m3u8
 https://untv.mmdlive.lldns.net/untv/0251dac212a94932ae3563150cbb3788/untvweb.m3u8
 
 #EXTINF:-1 tvg-id="GloboNews.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/Logotipo_da_GloboNews.png" group-title="BRASILIAN NEWS",Globo News
-http://206.1.95.2:8004/play/a026
+http://51.83.238.223:16825
 
 #EXTINF:-1 tvg-id="RecordNews.br" tvg-logo="https://i.imgur.com/qiXPVsD.png" group-title="BRASILIAN NEWS",Record News
 https://5cf4a2c2512a2.streamlock.net/8016/8016/playlist.m3u8
@@ -2559,7 +2559,7 @@ https://newtest.webtv1.lol/lb/premium458/index.m3u8|referer=https://widevine.lic
 https://newtest.webtv1.lol/lb/premium459/index.m3u8|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YweD3ZH.png" group-title="PORTUGUESE SPORTS",Eleven Sports 6
-http://62.28.71.186:45678/http/192.168.150.137:7137/eleven6
+http://213.13.16.138/shls/LIVE%24Eleven_Sports_6_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pcAhRs8.png" group-title="PORTUGUESE SPORTS",Sport TV 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
@@ -2586,7 +2586,7 @@ https://newtest.webtv1.lol/lb/premium290/index.m3u8|referer=https://widevine.lic
 https://newtest.webtv1.lol/lb/premium291/index.m3u8|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Km9HrEA.png" group-title="PORTUGUESE SPORTS",Sport TV +
-http://62.28.71.186:45678/http/192.168.150.137:7151/sporttvmais
+http://212.8.243.99:2095/live/dtv_742401/FLdlHf3b/42039.ts
 
 #EXTINF:-1 tvg-id="AstroArena.my" tvg-logo="https://i.imgur.com/7bPCw4Q.png" group-title="MALAY SPORTS",Astro Arena
 http://server.sibfungold.info:8080/live/eurotv-iptveu/bxdTtmPF1C/54189.ts
