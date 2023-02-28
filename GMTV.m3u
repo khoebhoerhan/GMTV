@@ -2591,6 +2591,9 @@ http://212.8.243.99:2095/live/dtv_742401/FLdlHf3b/42039.ts
 #EXTINF:-1 tvg-id="AstroArena.my" tvg-logo="https://i.imgur.com/7bPCw4Q.png" group-title="MALAY SPORTS",Astro Arena
 http://server.sibfungold.info:8080/live/eurotv-iptveu/bxdTtmPF1C/54189.ts
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iWnhEFL.png" group-title="MALAY SPORTS",Astro Arena Bola
+http://starshare.live:8080/live/120220920/120220920/143007.ts
+
 #EXTINF:-1 tvg-id="AstroCricket.my" tvg-logo="https://i.imgur.com/DhbmBsD.png" group-title="MALAY SPORTS",Astro Cricket
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://newtest.webtv1.lol/lb/premium370/index.m3u8|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
