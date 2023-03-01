@@ -783,7 +783,7 @@ https://nxanv-live-cdn.mncnow.id/live/eds/HitsMovies/sa_dash_vmx/HitsMovies.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
 https://nxanv-live-cdn.mncnow.id/live/eds/CinemaWorld/sa_dash_vmx/CinemaWorld.mpd
 
-#EXTINF:-1 tvg-id="SonyPix.in" tvg-logo="https://i.imgur.com/CJ2KTIp.png" group-title="GENERAL MOVIES",Sony Pix
+#EXTINF:-1 tvg-id="SonyPix.in" tvg-logo="https://i.imgur.com/CJ2KTIp.png" group-title="GENERAL MOVIES",Sony Pix HD
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=ce17264b317db108f19cdc11aa1a9e66:a21188aee8fc5c56d016fcffcc6b2295
@@ -822,10 +822,10 @@ https://nxanv-live-cdn.mncnow.id/live/eds/CelestialClassic/sa_dash_vmx/Celestial
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
 https://nxanv-live-cdn.mncnow.id/live/eds/ZeeBIOSKOP/sa_dash_vmx/ZeeBIOSKOP.mpd
 
-#EXTINF:-1 tvg-id="Andpictures.in" tvg-logo="https://i.imgur.com/HuJrZgT.png" group-title="HINDI MOVIES",& pictures
+#EXTINF:-1 tvg-id="Andpictures.in" tvg-logo="https://i.imgur.com/HuJrZgT.png" group-title="HINDI MOVIES",and pictures HD
 http://208.86.19.13:81/7055.stream/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9NoTykg.png" group-title="HINDI MOVIES",& xplor
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9NoTykg.png" group-title="HINDI MOVIES",and xplorHD
 http://208.86.19.13:81/730.stream/index.m3u8
 
 #EXTINF:-1 tvg-id="ZeeAction.in" tvg-logo="https://i.imgur.com/OmibwXx.png" group-title="HINDI MOVIES",Zee Action
@@ -833,9 +833,6 @@ http://208.86.19.13:81/7288.stream/index.m3u8
 
 #EXTINF:-1 tvg-id="ZeeAnmolCinema.in" tvg-logo="https://i.imgur.com/NXCjJ9n.png" group-title="HINDI MOVIES",Zee Anmol Cinema
 http://208.86.19.13:81/722.stream/index.m3u8
-
-#EXTINF:-1 tvg-id="ZeeBollywood.in" tvg-logo="https://i.imgur.com/1KY7rjF.png" group-title="HINDI MOVIES",Zee Bollywood
-http://208.115.215.42:80/ZEE_Bollywood_HD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/If0036I.png" group-title="GENERAL MOVIES",MyCinema
 http://rr.dens.tv/h/h90/index.m3u8
@@ -858,14 +855,11 @@ https://aqfadtv.xyz/live/unifitv/duniasinema/index.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/r2mKJH2.png" group-title="ASIAN MOVIES",MyCinema Asia
 http://rr.dens.tv/h/h193/index.m3u8
 
-#EXTINF:-1 tvg-id="SonyMax.in" tvg-logo="https://i.imgur.com/5PVeSEX.png" group-title="HINDI MOVIES",Sony Max India
+#EXTINF:-1 tvg-id="SonyMax.in" tvg-logo="https://i.imgur.com/5PVeSEX.png" group-title="HINDI MOVIES",Sony Max HD
 http://208.86.19.13:81/7066.stream/index.m3u8
 
 #EXTINF:-1 tvg-id="SonyMax2.in" tvg-logo="https://i.imgur.com/Edg7kI6.png" group-title="HINDI MOVIES",Sony Max 2
 http://208.86.19.13:81/7300.stream/index.m3u8
-
-#EXTINF:-1 tvg-id="ZeeCinemaAsia.in" tvg-logo="https://i.imgur.com/NywlkDO.png" group-title="HINDI MOVIES",Zee Cinema Asia
-https://dai.google.com/ssai/event/rH_ZU7LMTy6I5kwhB17Wjg/master.m3u8
 
 #EXTINF:-1 tvg-id="ColorsCineplex.in" tvg-logo="https://i.imgur.com/IM8X6Ui.png" group-title="HINDI MOVIES",Colors Cineplex
 http://208.86.19.13:81/735.stream/index.m3u8
@@ -3628,18 +3622,18 @@ https://newtest.webtv1.lol/lb/premium729/index.m3u8|referer=https://widevine.lic
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 https://newtest.webtv1.lol/lb/premium727/index.m3u8|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 
-#EXTINF:-1 tvg-id="AndTV.in" tvg-logo="https://i.imgur.com/HxXyffb.png" group-title="INDIA",& tv
+#EXTINF:-1 tvg-id="AndTV.in" tvg-logo="https://i.imgur.com/HxXyffb.png" group-title="INDIA",and tv HD
 http://208.86.19.13:81/7033.stream/index.m3u8
 
-#EXTINF:-1 tvg-id="SonySABIndia.in" tvg-logo="https://i.imgur.com/b5HgTUE.png" group-title="INDIA",Sony Sab
+#EXTINF:-1 tvg-id="SonySABIndia.in" tvg-logo="https://i.imgur.com/b5HgTUE.png" group-title="INDIA",Sony Sab HD
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=ce17264b317db108f19cdc11aa1a9e66:a21188aee8fc5c56d016fcffcc6b2295
 https://cdn-01.toffeelive.com/origin-08/live-origin/smil:sony_sab_hd.smil/manifest.mpd
 
-#EXTINF:-1 tvg-id="StarBharat.in" tvg-logo="https://i.imgur.com/dZoXn5V.png" group-title="INDIA",Star Bharat
+#EXTINF:-1 tvg-id="StarBharat.in" tvg-logo="https://i.imgur.com/dZoXn5V.png" group-title="INDIA",Star Bharat HD
 http://208.86.19.13:81/7211.stream/index.m3u8
 
-#EXTINF:-1 tvg-id="StarPlus.in" tvg-logo="https://i.imgur.com/FFcPLin.png" group-title="INDIA",Star Plus
+#EXTINF:-1 tvg-id="StarPlus.in" tvg-logo="https://i.imgur.com/FFcPLin.png" group-title="INDIA",Star Plus HD
 https://tsneh.vercel.app/hghhhhbkkh
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/TG4_logo.svg/1200px-TG4_logo.svg.png" group-title="IRELAND",TG4
