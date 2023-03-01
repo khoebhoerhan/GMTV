@@ -1240,7 +1240,7 @@ https://rt-arb.rttv.com/live/rtarab/playlist.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://euronews.alteox.app/hls/en_stream.m3u8
 
-#EXTINF:-1 tvg-id="EuronewsGerman.fr" tvg-logo="https://i.imgur.com/7ENpOTr.png" group-title="GERMAN NEWS",Euronews Deutsch
+#EXTINF:-1 tvg-id="EuronewsGerman.fr" tvg-logo="https://i.imgur.com/7ENpOTr.png" group-title="GERMAN NEWS",Euronews
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://euronews.alteox.app/hls/de_stream.m3u8
@@ -1250,7 +1250,7 @@ https://euronews.alteox.app/hls/de_stream.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://euronews.alteox.app/hls/es_stream.m3u8
 
-#EXTINF:-1 tvg-id="EuronewsFrench.fr" tvg-logo="https://i.imgur.com/7ENpOTr.png" group-title="FRENCH NEWS",Euronews Français
+#EXTINF:-1 tvg-id="EuronewsFrench.fr" tvg-logo="https://i.imgur.com/7ENpOTr.png" group-title="FRENCH NEWS",Euronews
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://euronews.alteox.app/hls/fr_stream.m3u8
