@@ -1666,6 +1666,9 @@ https://aajtaklive-amd.akamaized.net/hls/live/2014416/aajtak/aajtaklive/live_720
 #EXTINF:-1 tvg-id="ABPNewsIndia.in" tvg-logo="https://i.imgur.com/3MeMPyJ.png" group-title="HINDI NEWS",ABP News
 https://abplivetv.akamaized.net/hls/live/2043010/hindi/master_720p.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lH1nayp.png" group-title="HINDI NEWS",Bharat Express TV
+https://stream1.livebox.co.in/VCAREhls/live.m3u8
+
 #EXTINF:-1 tvg-id="DDNews.in" tvg-logo="https://i.imgur.com/XY90ZZQ.png" group-title="HINDI NEWS",DD News
 #EXTVLCOPT:http-referrer=https://webcast.gov.in/
 https://playhls.media.nic.in/hls/live/ddnews/ddnews.m3u8
