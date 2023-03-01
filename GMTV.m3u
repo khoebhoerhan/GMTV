@@ -1797,7 +1797,7 @@ https://nxanv-live-cdn.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV2-HD.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3openq8.png" group-title="NATIONAL SPORTS",TVRI Sport
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRI4)/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DWog3fR.png" group-title="NATIONAL SPORTS",Usee Sports 1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DWog3fR.png" group-title="NATIONAL SPORTS",Usee Sports
 https://beetv.my.id/x/usee-useesport-masihsama.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jJY4VIw.png" group-title="NATIONAL SPORTS",Usee Sports 2
@@ -1806,7 +1806,7 @@ https://beetv.my.id/x/usee-useesports2-masihsama.m3u8
 #EXTINF:-1 tvg-id="BarcaTV.es" tvg-logo="https://i.imgur.com/Y4dOfan.png" group-title="CLUBS OF SPORTS",Barça TV
 http://93.152.174.144:4000/play/barcatv/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/RCyM7W9.png" group-title="CLUBS OF SPORTS",Benfica TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RCyM7W9.png" group-title="CLUBS OF SPORTS",Benfica TV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 https://newtest.webtv1.lol/lb/premium380/index.m3u8|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 
@@ -1847,7 +1847,7 @@ https://rmtv-canela.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KFwSXaG.png" group-title="CLUBS OF SPORTS",Real Madrid TV Español
 https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/r2XCRmO.png" group-title="CLUBS OF SPORTS",Sporting TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/r2XCRmO.png" group-title="CLUBS OF SPORTS",Sporting TV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 https://newtest.webtv1.lol/lb/premium716/index.m3u8|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 
