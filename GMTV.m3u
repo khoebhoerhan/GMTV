@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml, https://raw.githubusercontent.com/weareblahs/epg/master/rtmklik.xml, https://raw.githubusercontent.com/AqFad2811/epg/main/singapore.xml, https://raw.githubusercontent.com/AqFad2811/epg/main/astro.xml, https://raw.githubusercontent.com/LITUATUI/M3UPT/main/epg/epg-vodafone.xml, https://raw.githubusercontent.com/bebawy6/EPG/master/ukEPG.xml, https://raw.githubusercontent.com/bebawy6/EPG/master/arEPG.xml" refresh="3600"
+#EXTM3U url-tvg="https://stavol.masuk.web.id/epg.xml, https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml, https://raw.githubusercontent.com/weareblahs/epg/master/rtmklik.xml, https://raw.githubusercontent.com/AqFad2811/epg/main/singapore.xml, https://raw.githubusercontent.com/AqFad2811/epg/main/astro.xml, https://raw.githubusercontent.com/LITUATUI/M3UPT/main/epg/epg-vodafone.xml, https://raw.githubusercontent.com/bebawy6/EPG/master/ukEPG.xml, https://raw.githubusercontent.com/bebawy6/EPG/master/arEPG.xml" refresh="3600"
 
 ######################################################################TV CHANNELS#############################################################################################################################################
 #EXTINF:-1 tvg-id="RCTI.id" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/dd/RCTI_logo_2015.svg/1280px-RCTI_logo_2015.svg.png" group-title="NASIONAL",RCTI
@@ -1747,10 +1747,10 @@ https://m3u-editor.com/serve/tchtviptvplaylist/767388514
 #EXTINF:-1 tvg-id="BFMBusiness.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/6/62/Logo_Business_2020.png" group-title="BUSINESS NEWS",BFM Business
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_BUSINESS/index.m3u8?start=LIVE&end=END
 
-#EXTINF:-1 tvg-id="beINSports1Indonesia.id" tvg-logo="https://i.imgur.com/MRULdc8.png" group-title="NATIONAL SPORTS",beIN Sports 1 Indonesia
+#EXTINF:-1 tvg-id="beINSports1Indonesia.id" tvg-logo="https://i.imgur.com/MRULdc8.png" group-title="NATIONAL SPORTS",beIN Sports 1 ID
 https://beetv.my.id/x/usee-bein1-masihsama.m3u8
 
-#EXTINF:-1 tvg-id="beINSports3Indonesia.id" tvg-logo="https://i.imgur.com/j8VC6nB.png" group-title="NATIONAL SPORTS",beIN Sports 3 Indonesia
+#EXTINF:-1 tvg-id="beINSports3Indonesia.id" tvg-logo="https://i.imgur.com/j8VC6nB.png" group-title="NATIONAL SPORTS",beIN Sports 3 ID
 https://beetv.my.id/x/usee-bein2-masihsama.m3u8
 
 #EXTINF:-1 tvg-id="ChampionsTV1.id" tvg-logo="https://i.imgur.com/ffWoTF9.png" group-title="NATIONAL SPORTS",Champions TV 1
