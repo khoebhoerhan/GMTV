@@ -2068,7 +2068,7 @@ https://newtest.webtv1.lol/lb/premium36/index.m3u8|referer=https://widevine.lice
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://newtest.webtv1.lol/lb/premium65/index.m3u8|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 
-#EXTINF:-1 tvg-id="SkySportsF1.uk" tvg-logo="https://i.imgur.com/2kPW5qw.png" group-title="BRITISH SPORTS",Sky Sports F1 HD
+#EXTINF:-1 tvg-id="SkySportsF1.uk" tvg-logo="https://i.imgur.com/2kPW5qw.png" group-title="BRITISH SPORTS",Sky Sports F1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://newtest.webtv1.lol/lb/premium60/index.m3u8|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 
@@ -2420,21 +2420,6 @@ https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-029/stream.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
 https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-030/stream.mpd
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Sky_Sport_24_-_Logo_2020.svg/1920px-Sky_Sport_24_-_Logo_2020.svg.png" group-title="ITALIAN SPORTS",Sky Sport 24
-http://clientsportals.com:2095/d4Je5xwD/yadTXB63/51097
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Sky_Sport_Tennis.svg/1920px-Sky_Sport_Tennis.svg.png" group-title="ITALIAN SPORTS",Sky Sport Tennis
-http://clientsportals.com:2095/d4Je5xwD/yadTXB63/51114
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Sky_Sport_F1_-_Logo_2020.svg/1920px-Sky_Sport_F1_-_Logo_2020.svg.png" group-title="ITALIAN SPORTS",Sky Sport F1
-http://clientsportals.com:2095/d4Je5xwD/yadTXB63/51116
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Sky_Sport_MotoGP_-_Logo_2020.svg/1920px-Sky_Sport_MotoGP_-_Logo_2020.svg.png" group-title="ITALIAN SPORTS",Sky Sport MotoGP
-http://clientsportals.com:2095/d4Je5xwD/yadTXB63/51122
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Sky_Sport_NBA_-_Logo_2020.svg/1920px-Sky_Sport_NBA_-_Logo_2020.svg.png" group-title="ITALIAN SPORTS",Sky Sport NBA
-http://clientsportals.com:2095/d4Je5xwD/yadTXB63/51124
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Sky_Sport_Arena_-_Logo_2020.svg/1920px-Sky_Sport_Arena_-_Logo_2020.svg.png" group-title="ITALIAN SPORTS",Sky Sport Arena
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
