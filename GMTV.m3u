@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://stavol.masuk.web.id/epg.xml, https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml, https://raw.githubusercontent.com/weareblahs/epg/master/rtmklik.xml, https://raw.githubusercontent.com/AqFad2811/epg/main/singapore.xml, https://raw.githubusercontent.com/AqFad2811/epg/main/astro.xml, https://raw.githubusercontent.com/LITUATUI/M3UPT/main/epg/epg-vodafone.xml, https://raw.githubusercontent.com/bebawy6/EPG/master/ukEPG.xml, https://raw.githubusercontent.com/bebawy6/EPG/master/arEPG.xml" refresh="3600"
+#EXTM3U url-tvg="https://stavol.masuk.web.id/epg.xml, https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml, https://raw.githubusercontent.com/weareblahs/epg/master/rtmklik.xml, https://raw.githubusercontent.com/AqFad2811/epg/main/singapore.xml, https://raw.githubusercontent.com/AqFad2811/epg/main/astro.xml, https://raw.githubusercontent.com/LITUATUI/M3UPT/main/epg/epg-vodafone.xml, https://raw.githubusercontent.com/bebawy6/EPG/master/ukEPG.xml, https://raw.githubusercontent.com/bebawy6/EPG/master/arEPG.xml, https://raw.githubusercontent.com/luizoliveira1970/epg/main/epg_ripper_BR1.xml, https://raw.githubusercontent.com/pendy99/iptv-epg/main/epg_AU.xml, https://raw.githubusercontent.com/pendy99/iptv-epg/main/epg_FR.xml, https://raw.githubusercontent.com/pendy99/iptv-epg/main/epg_DE.xml, https://raw.githubusercontent.com/pendy99/iptv-epg/main/epg_PH.xml, https://raw.githubusercontent.com/pendy99/iptv-epg/main/epg_IN.xml, https://raw.githubusercontent.com/pendy99/iptv-epg/main/epg_KR.xml" refresh="3600"
 
 ######################################################################TV CHANNELS#############################################################################################################################################
 #EXTINF:-1 tvg-id="RCTI.id" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/dd/RCTI_logo_2015.svg/1280px-RCTI_logo_2015.svg.png" group-title="NASIONAL",RCTI
@@ -1061,7 +1061,7 @@ https://nxanv-live-cdn.mncnow.id/live/eds/Cbeebies/sa_dash_vmx/Cbeebies.mpd
 #EXTINF:-1 tvg-id="DaVinciAsia.de" tvg-logo="https://i.imgur.com/aZPNp3S.png" group-title="KIDS",Da Vinci Asia
 https://cdn09jtedge.indihometv.com/atemedvr/1675207144/0/DAVINCI_AT/DAVINCI_AT.mpd
 
-#EXTINF:-1 tvg-id="DreamWorksChannelAsia.us" tvg-logo="https://i.imgur.com/mSMH7Pu.png" group-title="KIDS",Dreamworks TV Asia
+#EXTINF:-1 tvg-id="DreamWorksChannelAsia.us" tvg-logo="https://i.imgur.com/mSMH7Pu.png" group-title="KIDS",Dreamworks HD
 https://cdn09jtedge.indihometv.com/dvr/139/dreamworks/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yka2qgC.png" group-title="KIDS",Moonbug Kids
@@ -1177,7 +1177,7 @@ https://live.duhnet.tv/S2/HLS_LIVE/cnnturknp/playlist.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 http://dominoiptv.com:2082/cipo2673/6nKa4hs9fFS2U8/130923
 
-#EXTINF:-1 tvg-id="CNNBrasil.br" tvg-logo="https://i.imgur.com/zcaYBfX.png" group-title="BRASILIAN NEWS",CNN Brasil
+#EXTINF:-1 tvg-id="CNNBrasil.br" tvg-logo="https://i.imgur.com/zcaYBfX.png" group-title="BRASILIAN NEWS",CNN Brasil HD
 http://206.1.95.2:8004/play/a01e
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jCXODcU.png" group-title="SPANISH NEWS",CNN en Español
@@ -1292,7 +1292,7 @@ https://ythls.onrender.com/channel/UCdTyuXgmJkG_O8_75eqej-w.m3u8
 #EXTINF:-1 tvg-id="France24Espanol.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/65/FRANCE_24_logo.svg/800px-FRANCE_24_logo.svg.png" group-title="SPANISH NEWS",France 24 Español
 https://ythls.onrender.com/channel/UCUdOoVWuWmgo1wByzcsyKDQ.m3u8
  
-#EXTINF:-1 tvg-id="France24French.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/65/FRANCE_24_logo.svg/800px-FRANCE_24_logo.svg.png" group-title="FRENCH NEWS",France 24 Français
+#EXTINF:-1 tvg-id="France24French.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/65/FRANCE_24_logo.svg/800px-FRANCE_24_logo.svg.png" group-title="FRENCH NEWS",France 24
 https://ythls.onrender.com/channel/UCCCPCZNChQdGa9EkATeye4g.m3u8
 
 #EXTINF:-1 tvg-id="DWEnglish.de" tvg-logo="https://i.imgur.com/0x1fWbw.png" group-title="WORLD NEWS",DW English
@@ -1603,7 +1603,7 @@ https://live.topnews.co.th/hls/topnews.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KIK1p0o.png" group-title="THAI NEWS",TPTV
 http://freelive2.inwstream.com:1935/freelive-edge/tptv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ANC.ph" tvg-logo="https://i.imgur.com/9odNJCy.png" group-title="PINOY NEWS",ANC
+#EXTINF:-1 tvg-id="ANC.ph" tvg-logo="https://i.imgur.com/9odNJCy.png" group-title="PINOY NEWS",ANC HD
 https://ancglobal-abscbn-ono.amagi.tv/playlist720_p.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HnS25Hi.png" group-title="PINOY NEWS",DZRH TV
@@ -1612,13 +1612,13 @@ https://ythls.onrender.com/channel/UCcTiBX8js_djhSSlmJRI99A.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/99/UNTV-Logo-2016.svg/1920px-UNTV-Logo-2016.svg.png" group-title="PINOY NEWS",UNTV
 https://untv.mmdlive.lldns.net/untv/0251dac212a94932ae3563150cbb3788/untvweb.m3u8
 
-#EXTINF:-1 tvg-id="GloboNews.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/Logotipo_da_GloboNews.png" group-title="BRASILIAN NEWS",Globo News
+#EXTINF:-1 tvg-id="GloboNews.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/Logotipo_da_GloboNews.png" group-title="BRASILIAN NEWS",Globo News HD
 http://51.83.238.223:16825
 
 #EXTINF:-1 tvg-id="RecordNews.br" tvg-logo="https://i.imgur.com/qiXPVsD.png" group-title="BRASILIAN NEWS",Record News
 https://5cf4a2c2512a2.streamlock.net/8016/8016/playlist.m3u8
 
-#EXTINF:-1 tvg-id="BandNews.br" tvg-logo="https://i.imgur.com/BWkhQDM.png" group-title="BRASILIAN NEWS",Band News
+#EXTINF:-1 tvg-id="BandNews.br" tvg-logo="https://i.imgur.com/BWkhQDM.png" group-title="BRASILIAN NEWS",Band News HD
 http://206.1.95.2:8004/play/a020
 
 #EXTINF:-1 tvg-id="JovemPanNews.br" tvg-logo="https://i.imgur.com/QWazNSS.png" group-title="BRASILIAN NEWS",Jovem Pan News
@@ -1896,43 +1896,43 @@ https://newtest.webtv1.lol/lb/premium96/index.m3u8|referer=https://widevine.lice
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://newtest.webtv1.lol/lb/premium97/index.m3u8|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 
-#EXTINF:-1 tvg-id="beINSports1HDFrance.fr" tvg-logo="https://i.imgur.com/MRULdc8.png" group-title="FRENCH SPORTS",beIN Sports 1 HD France
+#EXTINF:-1 tvg-id="beINSports1HDFrance.fr" tvg-logo="https://i.imgur.com/MRULdc8.png" group-title="FRENCH SPORTS",beIN Sports 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://newtest.webtv1.lol/lb/premium116/index.m3u8|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 
-#EXTINF:-1 tvg-id="beINSports2HDFrance.fr" tvg-logo="https://i.imgur.com/NDp6TlM.png" group-title="FRENCH SPORTS",beIN Sports 2 HD France
+#EXTINF:-1 tvg-id="beINSports2HDFrance.fr" tvg-logo="https://i.imgur.com/NDp6TlM.png" group-title="FRENCH SPORTS",beIN Sports 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://newtest.webtv1.lol/lb/premium117/index.m3u8|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 
-#EXTINF:-1 tvg-id="beINSports3France.fr" tvg-logo="https://i.imgur.com/j8VC6nB.png" group-title="FRENCH SPORTS",beIN Sports 3 France
+#EXTINF:-1 tvg-id="beINSports3France.fr" tvg-logo="https://i.imgur.com/j8VC6nB.png" group-title="FRENCH SPORTS",beIN Sports 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://newtest.webtv1.lol/lb/premium118/index.m3u8|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6XLKURs.png" group-title="FRENCH SPORTS",beIN Sports Max 4 France
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6XLKURs.png" group-title="FRENCH SPORTS",beIN Sports Max 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://newtest.webtv1.lol/lb/premium494/index.m3u8|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0ta1WMP.png" group-title="FRENCH SPORTS",beIN Sports Max 5 France
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0ta1WMP.png" group-title="FRENCH SPORTS",beIN Sports Max 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://newtest.webtv1.lol/lb/premium495/index.m3u8|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/e0xWsEy.png" group-title="FRENCH SPORTS",beIN Sports Max 6 France
+#EXTINF:-1 tvg-logo="https://i.imgur.com/e0xWsEy.png" group-title="FRENCH SPORTS",beIN Sports Max 6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://newtest.webtv1.lol/lb/premium496/index.m3u8|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/kU5HOck.png" group-title="FRENCH SPORTS",beIN Sports Max 7 France
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kU5HOck.png" group-title="FRENCH SPORTS",beIN Sports Max 7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://newtest.webtv1.lol/lb/premium497/index.m3u8|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FyxhM8a.png" group-title="FRENCH SPORTS",beIN Sports Max 8 France
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FyxhM8a.png" group-title="FRENCH SPORTS",beIN Sports Max 8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://newtest.webtv1.lol/lb/premium498/index.m3u8|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CRwd2lv.png" group-title="FRENCH SPORTS",beIN Sports Max 9 France
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CRwd2lv.png" group-title="FRENCH SPORTS",beIN Sports Max 9
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://newtest.webtv1.lol/lb/premium499/index.m3u8|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0Qhy6mA.png" group-title="FRENCH SPORTS",beIN Sports Max 10 France
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0Qhy6mA.png" group-title="FRENCH SPORTS",beIN Sports Max 10
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://newtest.webtv1.lol/lb/premium500/index.m3u8|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 
@@ -2317,15 +2317,15 @@ https://newtest.webtv1.lol/lb/premium129/index.m3u8|referer=https://widevine.lic
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://newtest.webtv1.lol/lb/premium128/index.m3u8|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/IOgM8IM.png" group-title="FRENCH SPORTS",Canal + Foot
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IOgM8IM.png" group-title="FRENCH SPORTS",Canal+ Foot
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://newtest.webtv1.lol/lb/premium463/index.m3u8|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 
-#EXTINF:-1 tvg-id="CanalPlusSportFrance.fr" tvg-logo="https://i.imgur.com/p0k54D9.png" group-title="FRENCH SPORTS",Canal + Sport France
+#EXTINF:-1 tvg-id="CanalPlusSportFrance.fr" tvg-logo="https://i.imgur.com/p0k54D9.png" group-title="FRENCH SPORTS",Canal+ Sport
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://newtest.webtv1.lol/lb/premium122/index.m3u8|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZPVidfU.png" group-title="FRENCH SPORTS",Canal + Sport 360
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZPVidfU.png" group-title="FRENCH SPORTS",Canal+ Sport 360
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://newtest.webtv1.lol/lb/premium464/index.m3u8|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 
@@ -2972,38 +2972,38 @@ http://206.1.95.2:8004/play/a01p
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://newtest.webtv1.lol/lb/premium89/index.m3u8|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1920px-ESPN_wordmark.svg.png" group-title="BRASILIAN SPORTS",ESPN Brasil
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1920px-ESPN_wordmark.svg.png" group-title="BRASILIAN SPORTS",ESPN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://newtest.webtv1.lol/lb/premium81/index.m3u8|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/1280px-ESPN2_logo.svg.png" group-title="BRASILIAN SPORTS",ESPN 2 Brasil
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/1280px-ESPN2_logo.svg.png" group-title="BRASILIAN SPORTS",ESPN 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://newtest.webtv1.lol/lb/premium82/index.m3u8|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Crvxgth.png" group-title="BRASILIAN SPORTS",ESPN 3 Brasil
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Crvxgth.png" group-title="BRASILIAN SPORTS",ESPN 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://newtest.webtv1.lol/lb/premium83/index.m3u8|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/89RCPvg.png" group-title="BRASILIAN SPORTS",ESPN 4 Brasil
+#EXTINF:-1 tvg-logo="https://i.imgur.com/89RCPvg.png" group-title="BRASILIAN SPORTS",ESPN 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://newtest.webtv1.lol/lb/premium85/index.m3u8|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DpnatBM.png" group-title="BRASILIAN SPORTS",Fox Sports 2 Brasil
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DpnatBM.png" group-title="BRASILIAN SPORTS",Fox Sports 2 HD
 http://170.82.200.38:8080/fox_sports_2/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/a2/Logo_Premiere_FC_2018.png" group-title="BRASILIAN SPORTS",Premiere Clubes
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/a2/Logo_Premiere_FC_2018.png" group-title="BRASILIAN SPORTS",Premiere HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://newtest.webtv1.lol/lb/premium88/index.m3u8|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/iweh0Li.png" group-title="BRASILIAN SPORTS",SporTV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iweh0Li.png" group-title="BRASILIAN SPORTS",SporTV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://newtest.webtv1.lol/lb/premium78/index.m3u8|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/AAdoNsr.png" group-title="BRASILIAN SPORTS",SporTV 2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AAdoNsr.png" group-title="BRASILIAN SPORTS",SporTV 2 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://newtest.webtv1.lol/lb/premium79/index.m3u8|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/RcpUcYG.png" group-title="BRASILIAN SPORTS",SporTV 3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RcpUcYG.png" group-title="BRASILIAN SPORTS",SporTV 3 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://newtest.webtv1.lol/lb/premium80/index.m3u8|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 
@@ -3507,7 +3507,7 @@ https://c.mjh.nz/101002210221
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cavkp7M.png" group-title="AUSTRALIA",ABC TV Plus
 https://c.mjh.nz/abc2
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Rede_Bandeirantes_logo_2018.svg/1920px-Rede_Bandeirantes_logo_2018.svg.png" group-title="BRASIL",Band São Paulo
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Rede_Bandeirantes_logo_2018.svg/1920px-Rede_Bandeirantes_logo_2018.svg.png" group-title="BRASIL",Band
 http://168.205.87.198:8555/live/4666/123456/19.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Cultura_logo_2013.svg/1024px-Cultura_logo_2013.svg.png" group-title="BRASIL",Cultura
@@ -3516,14 +3516,14 @@ hhttp://www.portalcultura.com.br/playerhtml/funtelpa/tv_funtelpa/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/d9/Logo-futura-horizontal.png" group-title="BRASIL",Futura
 https://stmv1.transmissaodigital.com/ronald6259/ronald6259/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/RCvAvtf.png" group-title="BRASIL",TV Globo Rio de Janeiro
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RCvAvtf.png" group-title="BRASIL",Globo
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 https://newtest.webtv1.lol/lb/premium761/index.m3u8|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 
 #EXTINF:-1 tvg-id="TVGazeta.br" tvg-logo="https://i.imgur.com/iBTAMWE.png" group-title="BRASIL",TV Gazeta 
 https://video02.logicahost.com.br/tvc21/tvc21/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/14/Logo_of_Rede_Record.png" group-title="BRASIL",Record São Paulo
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/14/Logo_of_Rede_Record.png" group-title="BRASIL",Record HD
 https://59f2354c05961.streamlock.net:1443/portaldatropical/_definst_/portaldatropical/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/3/39/Logotipo_da_Rede_Brasil_de_Televis%C3%A3o.png" group-title="BRASIL",Rede Brasil
@@ -3616,15 +3616,15 @@ https://tmc-hls-live-cdn1.tf1.fr/out/v1/982927d0b5d24bd58ac42184b10c63d7/index.m
 #EXTINF:-1 tvg-id="W9.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/W9_2018.svg/1920px-W9_2018.svg.png" group-title="FRANCE",W9
 https://raw.githubusercontent.com/khoebhoerhan/Channels/main/W9.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/ProSieben_Logo_2015.svg/800px-ProSieben_Logo_2015.svg.png" group-title="GERMANY",ProSieben Deutschland
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/ProSieben_Logo_2015.svg/800px-ProSieben_Logo_2015.svg.png" group-title="GERMANY",ProSieben HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 https://newtest.webtv1.lol/lb/premium730/index.m3u8|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a3/SAT.1_logo_2016.png" group-title="GERMANY",Sat. 1 Deutschland
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a3/SAT.1_logo_2016.png" group-title="GERMANY",Sat. 1 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 https://newtest.webtv1.lol/lb/premium729/index.m3u8|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/ZDF_logo.svg/1920px-ZDF_logo.svg.png" group-title="GERMANY",ZDF
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/ZDF_logo.svg/1920px-ZDF_logo.svg.png" group-title="GERMANY",ZDF HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 https://newtest.webtv1.lol/lb/premium727/index.m3u8|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 
