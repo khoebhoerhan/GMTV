@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/id/indihometv.com.xml, https://iptv-org.github.io/epg/guides/id/mncvision.id.xml, https://iptv-org.github.io/epg/guides/id/transvision.co.id.xml, https://iptv-org.github.io/epg/guides/id/vidio.com.xml, https://iptv-org.github.io/epg/guides/ms/astro.com.my.xml, https://raw.githubusercontent.com/weareblahs/epg/master/rtmklik.xml, https://iptv-org.github.io/epg/guides/en/unifi.com.my.xml, https://iptv-org.github.io/epg/guides/sr/tvarenasport.com.xml, https://iptv-org.github.io/epg/guides/en/tvpassport.com.xml, https://iptv-org.github.io/epg/guides/pt/mi.tv.xml, https://iptv-org.github.io/epg/guides/en/plex.tv.xml, https://iptv-org.github.io/epg/guides/pt/meo.pt.xml, https://iptv-org.github.io/epg/guides/en/bt.com.xml, https://iptv-org.github.io/epg/guides/en/sky.com.xml, https://iptv-org.github.io/epg/guides/en/ontvtonight.com.xml, https://iptv-org.github.io/epg/guides/en/i.mjh.nz.xml, https://iptv-org.github.io/epg/guides/en/directv.com.xml, https://iptv-org.github.io/epg/guides/it/superguidatv.it.xml, https://iptv-org.github.io/epg/guides/en/tvguide.com.xml, https://iptv-org.github.io/epg/guides/ko/wavve.com.xml, https://iptv-org.github.io/epg/guides/sv/allente.se.xml, https://iptv-org.github.io/epg/guides/en/rev.bs.xml, https://iptv-org.github.io/epg/guides/en/startimestv.com.xml, https://iptv-org.github.io/epg/guides/ja/tvguide.myjcom.jp.xml, https://iptv-org.github.io/epg/guides/ru/tv.yandex.ru.xml, https://iptv-org.github.io/epg/guides/zh/tv.cctv.com.xml, https://iptv-org.github.io/epg/guides/en/virginmedia.com.xml, https://iptv-org.github.io/epg/guides/en/nowplayer.now.com.xml, https://iptv-org.github.io/epg/guides/cs/m.tv.sms.cz.xml, https://iptv-org.github.io/epg/guides/ar/beinsports.com.xml, https://iptv-org.github.io/epg/guides/en/beinsports.com.xml, https://iptv-org.github.io/epg/guides/en/starhubtvplus.com.xml, https://iptv-org.github.io/epg/guides/tr/digiturk.com.tr.xml, https://iptv-org.github.io/epg/guides/fr/beinsports.com.xml, https://iptv-org.github.io/epg/guides/th/tv.trueid.net.xml, https://iptv-org.github.io/epg/guides/fr/canalplus.com.xml, https://iptv-org.github.io/epg/guides/es/movistarplus.es.xml, https://iptv-org.github.io/epg/guides/nl/tvgids.nl.xml, https://iptv-org.github.io/epg/guides/pt/meo.pt.xml, https://iptv-org.github.io/epg/guides/en/dstv.com.xml, https://iptv-org.github.io/epg/guides/ro/programetv.ro.xml, https://iptv-org.github.io/epg/guides/fr/programme-tv.net.xml, https://iptv-org.github.io/epg/guides/bg/tv.dir.bg.xml, https://iptv-org.github.io/epg/guides/hr/tvprofil.com.xml, https://iptv-org.github.io/epg/guides/en/dishtv.in.xml, https://iptv-org.github.io/epg/guides/es/movistarplus.es.xml, https://iptv-org.github.io/epg/guides/de/sky.de.xml" refresh="3600"
+#EXTM3U url-tvg="https://raw.githubusercontent.com/weareblahs/epg/master/rtmklik.xml, https://raw.githubusercontent.com/AqFad2811/epg/main/singapore.xml, https://raw.githubusercontent.com/AqFad2811/epg/main/astro.xml" refresh="3600"
 
 ######################################################################TV CHANNELS#############################################################################################################################################
 #EXTINF:-1 tvg-id="RCTI.id" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/dd/RCTI_logo_2015.svg/1280px-RCTI_logo_2015.svg.png" group-title="NASIONAL",RCTI
@@ -840,7 +840,7 @@ http://208.115.215.42:80/ZEE_Bollywood_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/If0036I.png" group-title="GENERAL MOVIES",MyCinema
 http://rr.dens.tv/h/h90/index.m3u8
 
-#EXTINF:-1 tvg-id="Boo.my" tvg-logo="https://i.imgur.com/fD8G2Ug.png" group-title="ASIAN MOVIES",Boo
+#EXTINF:-1 tvg-id="Boo.my" tvg-logo="https://i.imgur.com/fD8G2Ug.png" group-title="ASIAN MOVIES",Boo HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/2407
 https://stream.zeehanzgadget.com/boo
@@ -1068,7 +1068,7 @@ https://dl.dropboxusercontent.com/s/1cmzhsbzszfq6sn/indikids.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HLr5Qi4.png" group-title="KIDS",My Kidz
 http://rr.dens.tv/h/h98/index.m3u8
 
-#EXTINF:-1 tvg-id="AstroCeria.my" tvg-logo="https://i.imgur.com/8s1jRRh.png" group-title="KIDS",Astro Ceria
+#EXTINF:-1 tvg-id="AstroCeria.my" tvg-logo="https://i.imgur.com/8s1jRRh.png" group-title="KIDS",Astro Ceria HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/2606/
 https://stream.zeehanzgadget.com/ceria
@@ -1483,7 +1483,7 @@ https://tv-trthaber.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-id="TVNet.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/34/Tvnet_Logo.jpg" group-title="TURKISH NEWS",TV Net
 https://tv.ensonhaber.com/tv/tr/tvnet/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/34/Astro_Awani_501.png" tvg-id="AstroAwani.my" group-title="MALAY NEWS",Astro Awani
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/34/Astro_Awani_501.png" tvg-id="AstroAwani.my" group-title="MALAY NEWS",Astro Awani HD
 https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index_3.m3u8
 
 #EXTINF:-1 tvg-id="RTMK04" tvg-logo="https://i.imgur.com/68Qfyma.png" tvg-url="https://raw.githubusercontent.com/samleong123/rtm-live/main/rtmklik.xml" group-title="MALAY NEWS",Berita RTM
@@ -2591,33 +2591,33 @@ https://newtest.webtv1.lol/lb/premium291/index.m3u8|referer=https://widevine.lic
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Km9HrEA.png" group-title="PORTUGUESE SPORTS",Sport TV +
 http://212.8.243.99:2095/live/dtv_742401/FLdlHf3b/42039.ts
 
-#EXTINF:-1 tvg-id="AstroArena.my" tvg-logo="https://i.imgur.com/7bPCw4Q.png" group-title="MALAY SPORTS",Astro Arena
+#EXTINF:-1 tvg-id="AstroArena.my" tvg-logo="https://i.imgur.com/7bPCw4Q.png" group-title="MALAY SPORTS",Astro Arena HD
 http://server.sibfungold.info:8080/live/eurotv-iptveu/bxdTtmPF1C/54189.ts
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iWnhEFL.png" group-title="MALAY SPORTS",Astro Arena Bola
 http://starshare.live:8080/live/120220920/120220920/143007.ts
 
-#EXTINF:-1 tvg-id="AstroCricket.my" tvg-logo="https://i.imgur.com/DhbmBsD.png" group-title="MALAY SPORTS",Astro Cricket
+#EXTINF:-1 tvg-id="AstroCricket.my" tvg-logo="https://i.imgur.com/DhbmBsD.png" group-title="MALAY SPORTS",Astro Cricket HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://newtest.webtv1.lol/lb/premium370/index.m3u8|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 
-#EXTINF:-1 tvg-id="AstroSuperSport.my" tvg-logo="https://i.imgur.com/X2WVnWr.png" group-title="MALAY SPORTS",Astro Supersport
+#EXTINF:-1 tvg-id="AstroSuperSport.my" tvg-logo="https://i.imgur.com/X2WVnWr.png" group-title="MALAY SPORTS",Astro Supersport HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://newtest.webtv1.lol/lb/premium123/index.m3u8|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 
-#EXTINF:-1 tvg-id="AstroSuperSport2.my" tvg-logo="https://i.imgur.com/AZQ0xgp.png" group-title="MALAY SPORTS",Astro Supersport 2
+#EXTINF:-1 tvg-id="AstroSuperSport2.my" tvg-logo="https://i.imgur.com/AZQ0xgp.png" group-title="MALAY SPORTS",Astro Supersport 2 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://newtest.webtv1.lol/lb/premium124/index.m3u8|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 
-#EXTINF:-1 tvg-id="AstroSuperSport3.my" tvg-logo="https://i.imgur.com/cMYSM6e.png" group-title="MALAY SPORTS",Astro Supersport 3
+#EXTINF:-1 tvg-id="AstroSuperSport3.my" tvg-logo="https://i.imgur.com/cMYSM6e.png" group-title="MALAY SPORTS",Astro Supersport 3 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://newtest.webtv1.lol/lb/premium125/index.m3u8|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 
-#EXTINF:-1 tvg-id="AstroSuperSport4.my" tvg-logo="https://i.imgur.com/PlwrDwx.png" group-title="MALAY SPORTS",Astro Supersport 4
+#EXTINF:-1 tvg-id="AstroSuperSport4.my" tvg-logo="https://i.imgur.com/PlwrDwx.png" group-title="MALAY SPORTS",Astro Supersport 4 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://newtest.webtv1.lol/lb/premium126/index.m3u8|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 
-#EXTINF:-1 tvg-id="AstroSuperSport5.my" tvg-logo="https://i.imgur.com/FieopQP.png" group-title="MALAY SPORTS",Astro Supersport 5
+#EXTINF:-1 tvg-id="AstroSuperSport5.my" tvg-logo="https://i.imgur.com/FieopQP.png" group-title="MALAY SPORTS",Astro Supersport 5 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://newtest.webtv1.lol/lb/premium43/index.m3u8|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 
@@ -3297,21 +3297,21 @@ https://ott.tv5monde.com/Content/HLS/Live/channel(style1)/variant.m3u8
 #EXTINF:-1 tvg-id="8TV.my" tvg-logo="https://i.imgur.com/gV4R9q4.png" group-title="MALAYSIA",8TV
 https://live-sg1.global.ssl.fastly.net/live-hls/tonton3_720p/index.m3u8 
 
-#EXTINF:-1 tvg-id="AstroRia.my" tvg-logo="https://i.imgur.com/RrIVJJY.png" group-title="MALAYSIA",Astro Ria
+#EXTINF:-1 tvg-id="AstroRia.my" tvg-logo="https://i.imgur.com/RrIVJJY.png" group-title="MALAYSIA",Astro Ria HD
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/1004/
 https://stream.zeehanzgadget.com/ria
 
-#EXTINF:-1 tvg-id="AstroPrima.my" tvg-logo="https://i.imgur.com/FZoK4df.png" group-title="MALAYSIA",Astro Prima
+#EXTINF:-1 tvg-id="AstroPrima.my" tvg-logo="https://i.imgur.com/FZoK4df.png" group-title="MALAYSIA",Astro Prima HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/1000/
 https://stream.zeehanzgadget.com/prima
 
-#EXTINF:-1 tvg-id="AstroWarna.my" tvg-logo="https://i.imgur.com/JCn7Yd0.png" group-title="MALAYSIA",Astro Warna
+#EXTINF:-1 tvg-id="AstroWarna.my" tvg-logo="https://i.imgur.com/JCn7Yd0.png" group-title="MALAYSIA",Astro Warna HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=40bb94cdb1c90f6cc15073d9a500c810:264de3f18e64770e92a2d29f2b177701
 https://stream.zeehanzgadget.com/warna
 
-#EXTINF:-1 tvg-id="ntv7.my" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/Logo_of_newNTV7.png" group-title="MALAYSIA",ntv 7
+#EXTINF:-1 tvg-id="ntv7.my" tvg-logo="https://i.imgur.com/eaFI4ZC.png" group-title="MALAYSIA",DidikTV KPM
 https://live-sg1.global.ssl.fastly.net/live-hls/tonton2_720p/index.m3u8
 
 #EXTINF:-1 tvg-id="RTMTVOkey.my" tvg-logo="https://i.imgur.com/pIQxNaY.png" group-title="MALAYSIA",TV Okey
@@ -3329,7 +3329,7 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/playlist.m3u8?id=1
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/playlist.m3u8?id=2
 
-#EXTINF:-1 tvg-id="TV3.my" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f5/TV3_%28Malaysia%29.svg/1920px-TV3_%28Malaysia%29.svg.png" group-title="MALAYSIA",TV 3
+#EXTINF:-1 tvg-id="TV3.my" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f5/TV3_%28Malaysia%29.svg/1920px-TV3_%28Malaysia%29.svg.png" group-title="MALAYSIA",TV3
 https://live-sg1.global.ssl.fastly.net/live-hls/tonton1_720p/index.m3u8 
 
 #EXTINF:-1 tvg-id="TV9.my" tvg-logo="https://i.imgur.com/smKCnNj.png" group-title="MALAYSIA",TV 9
