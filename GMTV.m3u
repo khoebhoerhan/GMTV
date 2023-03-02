@@ -2194,6 +2194,10 @@ https://newtest.webtv1.lol/lb/eplayerfox505/playlist.m3u8|referer=https://eplaye
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://newtest.webtv1.lol/lb/eplayerfox506/playlist.m3u8|referer=https://eplayer.click/&User-agent=Mozilla/5.0
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qR5u3Jg.png" group-title="AUSTRALIAN SPORTS",Fox Sports 507
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://newtest.webtv1.lol/lb/premium825/index.m3u8|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zeywLXs.png" group-title="AUSTRALIAN SPORTS",Fox Sports News
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
 
