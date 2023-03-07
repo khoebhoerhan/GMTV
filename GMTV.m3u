@@ -2716,6 +2716,18 @@ https://newtest.webtv1.lol/lb/premium379/index.m3u8|referer=https://widevine.lic
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://newtest.webtv1.lol/lb/premium386/index.m3u8|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Crvxgth.png" group-title="DUTCH SPORTS",ESPN 3 Nederland
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ZZ38nxVrTZmi1s9nd79o_g:Kvoqg1lA6le3KlCpYvGf2w
+https://cdsvideolive3.solocoo.tv/blueskycdslive7dash/blueespn3/Manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/89RCPvg.png" group-title="DUTCH SPORTS",ESPN 4 Nederland
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9fGugMk7QM6Bg-IfqXR7PA:eDarO4OGhyji7qRNcIp1oQ
+https://cdsvideolive3.solocoo.tv/blueskycdslive7dash/blueespn4/Manifest.mpd
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/seLhlYr.png" group-title="DUTCH SPORTS",Ziggo Sport Docu
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://newtest.webtv1.lol/lb/premium383/index.m3u8|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
@@ -2974,6 +2986,24 @@ https://d17lgdx4t7a4od.cloudfront.net/out/v1/bca3f8d654aa4cb293e4e9801468a5a3/in
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/w8sjQN2.png" group-title="MEXICAN SPORTS",Fox Sports 3 México
 https://d14a5mi0m64mw7.cloudfront.net/out/v1/8a240d2e8a64453da6288810ede90a60/index.mpd
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1920px-ESPN_wordmark.svg.png" group-title="MEXICAN SPORTS",ESPN México
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=OLY_mqp7fHqCLI4UyKchLg:1rH0WlnS2sGnMMf1bHSXGg
+https://live1-ott.izzigo.tv/out/u/dash/ESPN-HD/dash/default.mpd
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/1280px-ESPN2_logo.svg.png" group-title="MEXICAN SPORTS",ESPN 2 México
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a49114957d155cacb2e027af14450b94:0fed6599a8740879a29f1a49ec6d482a
+https://live1-ott.izzigo.tv/out/u/dash/ESPN-2-HD/default.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Crvxgth.png" group-title="MEXICAN SPORTS",ESPN 3 México
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=Hk//rgdjAT1ItGqLBj0Rpg:bz6FZCEiJZsJb8uld/Uymg
+https://live1-ott.izzigo.tv/out/u/dash/ESPN-3-HD/dash/default.mpd
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/1920px-TUDN_Logo.svg.png" group-title="MEXICAN SPORTS",TUDN México
 http://190.61.102.67:31589/play/a08j/index.m3u8
