@@ -1026,7 +1026,14 @@ http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/playlist.m3u8?bizke
 https://seulangatv.com/YANG-NYURI-ANAK-DAJJAL/vidioHLS/8237.m3u8
 
 #EXTINF:-1 tvg-id="Horee.id" tvg-logo="https://i.imgur.com/GCeS1xO.png" group-title="KIDS",Horee!
-http://tv.zonanime.my.id/vidio/horee.m3u8
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mooncang.my.id/api/vidio/drm.php?id=6397
+https://mooncang.my.id/api/vidio/ch.mpd?id=6397&code=horee
+
+#EXTINF:-1 tvg-id="HipHiphoree.id" tvg-logo="https://i.imgur.com/TMAQTQC.png" group-title="KIDS",Hip Hip Horee!
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mooncang.my.id/api/vidio/drm.php?id=7052
+https://mooncang.my.id/api/vidio/ch.mpd?id=7052&code=hip-hip-horee
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/V2n8iDR.png" group-title="KIDS",Spacetoon
 https://bravo.kugo.id/spacetoon/udp.stream/playlist.m3u8
@@ -1069,6 +1076,11 @@ https://cdn09jtedge.indihometv.com/dvr/139/dreamworks/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yka2qgC.png" group-title="KIDS",Moonbug Kids
 http://starshare.live:8080/live/120220920/120220920/137522.ts
+
+#EXTINF:-1 tvg-id="ZooMooAsia.nz" tvg-logo="https://i.imgur.com/OqXi7AW.png" group-title="KIDS",Zoo Moo Asia
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mooncang.my.id/api/vidio/drm.php?id=6533
+https://mooncang.my.id/api/vidio/ch.mpd?id=6533&code=zoomoo
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SU2QKXj.png" group-title="KIDS",IndiKids
 https://dl.dropboxusercontent.com/s/1cmzhsbzszfq6sn/indikids.m3u8
