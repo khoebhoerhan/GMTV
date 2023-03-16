@@ -2252,7 +2252,8 @@ https://webudit.onlinewebtv.lol/lb/premium399/index.m3u8?|referer=https://widevi
 https://webudit.onlinewebtv.lol/lb/premium405/index.m3u8?|referer=https://widevine.licenses4.me/
 
 #EXTINF:-1 tvg-id="NBATV.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/800px-NBA_TV.svg.png" group-title="AMERICAN SPORTS",NBA TV
-https://bit.ly/nbatvusa?/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.onlinewebtv.lol/lb/premium404/index.m3u8?|referer=https://widevine.licenses4.me/
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LH4EVbg.png" group-title="AMERICAN SPORTS",NHL Network
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
@@ -2266,8 +2267,7 @@ https://dai.google.com/linear/hls/event/Dlqr46ybTSGWGTfRWcxS0g/master.m3u8
 https://webudit.onlinewebtv.lol/lb/premium376/index.m3u8?|referer=https://widevine.licenses4.me/
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/1920px-TUDN_Logo.svg.png" group-title="AMERICAN SPORTS",TUDN USA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://webudit.onlinewebtv.lol/lb/premium66/index.m3u8?|referer=https://widevine.licenses4.me/
+ccccc
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/b7TO49Q.png" group-title="AUSTRALIAN SPORTS",Fox Sports 501
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
