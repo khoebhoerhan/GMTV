@@ -173,7 +173,7 @@ http://103.18.181.69:1935/golive/livestream11/playlist.m3u8
 https://nxanv-live-cdn.mncnow.id/live/eds/BaliTV/sa_dash_vmx/BaliTV.mpd
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vvyB9QG.png" group-title="LOKAL",Balikpapan TV
-http://122.248.43.138:1935/ch10/myStream/chunklist.m3u8
+http://122.248.43.138:1935/ch10/myStream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/Logo_bdg_tv_2016.png" group-title="LOKAL",Bandung TV
 http://202.150.153.254:65500/bandungtvWEBSITE.m3u8
@@ -185,7 +185,7 @@ https://v2.siar.us/banjartv/livestream/playlist.m3u8
 https://v2.siar.us/barayatv/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Lhupa1J.png" group-title="LOKAL",Batam TV
-http://122.248.43.138:1935/ch5/myStream/chunklist.m3u8
+http://122.248.43.138:1935/ch5/myStream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/4/4f/Batu_TV.png" group-title="LOKAL",Batu TV
 http://117.103.69.219:8080/live/streaming/index.m3u8
@@ -203,7 +203,7 @@ https://h1.intechmedia.net/intech/ch58.m3u8
 http://bmstv.onlivestreaming.net/bmstv/livestream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xH5sP7j.png" group-title="LOKAL",Citra TV
-http://122.248.43.138:1935/ch28/myStream/chunklist.m3u8
+http://122.248.43.138:1935/ch28/myStream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/3/3f/CTV_Banten.png/1200px-CTV_Banten.png" group-title="LOKAL",CTV Banten
 https://bravo.kugo.id/ctv/rtmp.stream/playlist.m3u8
@@ -218,7 +218,7 @@ https://o1.siar.us/dutatv/live/playlist.m3u8
 http://rrelshinta.dens.tv/s/s10/index2.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5zdZADe.png" group-title="LOKAL",Fajar TV
-http://122.248.43.138:1935/ch27/myStream/chunklist.m3u8
+http://122.248.43.138:1935/ch27/myStream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/e8bZxZq.png" group-title="LOKAL",Ficom Channel
 https://v3.siar.us/ficomchannel/live/playlist.m3u8
@@ -238,13 +238,13 @@ https://v3.siar.us/humabetangtv/live/playlist.m3u8
 https://nxanv-live-cdn.mncnow.id/live/eds/JakTV/sa_dash_vmx/JakTV.mpd
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/T3As0Kq.png" group-title="LOKAL",Jambi TV
-http://wowza58.indostreamserver.com:1935/jambitv/live/chunklist_w1308495282.m3u8
+http://122.248.43.138:1935/ch23/myStream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ljPmr26.png" group-title="LOKAL",Jaya TV
 https://h1.intechmedia.net/intech/ch52.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QlYYQ9q.png" group-title="LOKAL",Jek TV
-http://122.248.43.138:1935/ch14/myStream/chunklist.m3u8
+http://122.248.43.138:1935/ch14/myStream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rMdwtbu.png" group-title="LOKAL",JITV
 https://mam.jogjaprov.go.id:1937/tv/jitv/chunklist_w163357330.m3u8
@@ -264,7 +264,7 @@ https://ams.desastreaming.com:5443/LiveApp/streams/jurnaltv.m3u8
 https://wms.klikhost.net/kaltaratv/kaltaratv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HcH1xKE.png" group-title="LOKAL",Kawanua TV
-http://122.248.43.138:1935/ch18/myStream/chunklist.m3u8
+http://122.248.43.138:1935/ch18/myStream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/X5YoCdN.png" group-title="LOKAL",Lombok TV
 https://bravo.kugo.id/lomboktv/rtmp.stream/chunklist.m3u8
@@ -276,7 +276,7 @@ https://cdn.gunadarma.ac.id/streams/mgstv/ingestmgstv.m3u8
 https://v3.siar.us/paltv/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jyVR4yQ.png" group-title="LOKAL",PJTV
-http://122.248.43.138:1935/ch30/myStream/chunklist.m3u8
+http://122.248.43.138:1935/ch30/myStream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/leO6MG8.png" group-title="LOKAL",PKTV
 https://ams.juraganstreaming.com:5443/LiveApp/streams/pktv.m3u8
@@ -284,8 +284,8 @@ https://ams.juraganstreaming.com:5443/LiveApp/streams/pktv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xxCOG3o.png" group-title="LOKAL",Pon TV
 https://v3.siar.us/pontianaktelevisi/live/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VNhmBj6.png" group-title="LOKAL",Radar TV Lampung
-http://122.248.43.138:1935/ch17/myStream/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1azIvKT.png" group-title="LOKAL",Radar TV Lampung
+http://122.248.43.138:1935/ch17/myStream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Logo_Radar_Tasikmalaya_TV.png" group-title="LOKAL",Radar TV Tasikmalaya
 https://v2.siar.us/radartasikmalaya/live/playlist.m3u8
@@ -297,7 +297,7 @@ https://h1.intechmedia.net/intech/ch59.m3u8
 https://v10.siar.us/rctv/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/p7deZhe.png" group-title="LOKAL",Riau TV
-http://122.248.43.138:1935/ch11/myStream/chunklist.m3u8
+http://122.248.43.138:1935/ch11/myStream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/Logo-saktitv.png" group-title="LOKAL",Sakti TV
 https://v2.siar.us/saktitv/livestream/playlist.m3u8#t=0.1
@@ -311,14 +311,11 @@ https://cdn.gunadarma.ac.id/streams/sangajitv/ingestsangajitv.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/3/3c/Cakra-semarang-tv.png" group-title="LOKAL",Semarang TV
 http://116.254.112.74:80/hls/cakralive.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9AFLelt.png" group-title="LOKAL",Silampari TV
-https://v9.siar.us/siltv/live/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/6/61/SIMPANG5tv.png" group-title="LOKAL",Simpang5 TV
-http://122.248.43.138:1935/ch4/myStream/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XDKEcVM.png" group-title="LOKAL",Simpang5 TV
+http://122.248.43.138:1935/ch4/myStream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MXDdIb6.png" group-title="LOKAL",SMTV
-http://122.248.43.138:1935/ch25/myStream/chunklist.m3u8
+http://122.248.43.138:1935/ch25/myStream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/L8miEQe.png" group-title="VISUAL RADIO",Suara Surabaya
 https://ssfm.siar.us/ssfm/live/playlist.m3u8
