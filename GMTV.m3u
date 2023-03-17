@@ -560,7 +560,7 @@ http://rr1.dens.tv/h/h15/index.m3u8
 https://nxanv-live-cdn.mncnow.id/live/eds/FMN/sa_dash_vmx/FMN.mpd
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/71d2wEk.png" group-title="GENERAL ENTERTAINMENT",Paramount Network
-http://iptvid.my.id/hmm/paramount.m3u8
+http://adamtvonline.com:8080/111111111111/222222222222/104712
 
 #EXTINF:-1 tvg-id="TV5MondeAsie.fr" tvg-logo="https://i.imgur.com/1cVjCTw.png" group-title="FRENCH ENTERTAINMENT",TV5Monde
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1881,10 +1881,10 @@ https://nxanv-live-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRI4)/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DWog3fR.png" group-title="NATIONAL SPORTS",Usee Sports
-https://beetv.my.id/x/usee-useesport-masihsama.m3u8
+https://bit.ly/useeSports-1-shareext-ts
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jJY4VIw.png" group-title="NATIONAL SPORTS",Usee Sports 2
-https://beetv.my.id/x/usee-useesports2-masihsama.m3u8
+https://bit.ly/useesports-2-shareext-ts
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CfJuv5d.png" group-title="NATIONAL SPORTS",Golf+ Channel
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -2683,10 +2683,13 @@ https://webudit.onlinewebtv.lol/lb/premium291/index.m3u8?|referer=https://widevi
 http://212.8.243.99:2095/live/dtv_742401/FLdlHf3b/42039.ts
 
 #EXTINF:-1 tvg-id="AstroArena.my" tvg-logo="https://i.imgur.com/7bPCw4Q.png" group-title="MALAY SPORTS",Astro Arena
-http://37.49.230.48:8080/9f922928/873ef670ee/157485
+https://bit.ly/arena-shareext-ts
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iWnhEFL.png" group-title="MALAY SPORTS",Astro Arena Bola
-http://starshare.live:8080/live/120220920/120220920/143007.ts
+https://bit.ly/arenabola-1-shareext-ts
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iWnhEFL.png" group-title="MALAY SPORTS",Astro Arena Bola 2
+https://bit.ly/arenabola-2-shareext-ts
 
 #EXTINF:-1 tvg-id="AstroCricket.my" tvg-logo="https://i.imgur.com/DhbmBsD.png" group-title="MALAY SPORTS",Astro Cricket
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
