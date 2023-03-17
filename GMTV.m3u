@@ -3361,19 +3361,19 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/Vatic
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/0/0d/Logo_tv2000_2015.svg/260px-Logo_tv2000_2015.svg.png" group-title="RELIGION",TV2000
 http://cld01ibi16.wz.tv2000.it/tv2000_alfa.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CGzC3fK.png" group-title="FASHION",Fashion TV L'Original
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CGzC3fK.png" group-title="FASHION",Fashion TV LOriginal
 https://fash2043.cloudycdn.services/slive/ftv_ftv_asia_ada_xiv_42149_default_137_hls.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CGzC3fK.png" group-title="FASHION",Fashion TV Asia
 https://fash1043.cloudycdn.services/slive/ftv_pg13_adaptive.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/lMSp60D.png" group-title="FASHION",Fashion TV Midnite Secret
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lMSp60D.png" group-title="FASHION",Fashion TV Midnight
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist_b2800000_t64NzIwcA==.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7ZQRdle.png" group-title="FASHION",A3 Bikini Network
 https://vcnbikininetwork.teleosmedia.com/stream/bikininetwork/a3bikini/seglist_720p.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/I0xoFhv.png" group-title="LIFESTYLE",Lifestyle & Fashion
+#EXTINF:-1 tvg-logo="https://i.imgur.com/I0xoFhv.png" group-title="LIFESTYLE",Lifestyle and Fashion
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
 https://nxanv-live-cdn.mncnow.id/live/eds/LifeStyleFashion/sa_dash_vmx/LifeStyleFashion.mpd
