@@ -3414,13 +3414,14 @@ https://ott.tv5monde.com/Content/HLS/Live/channel(style1)/variant.m3u8
 https://live-sg1.global.ssl.fastly.net/live-hls/tonton3_720p/index.m3u8 
 
 #EXTINF:-1 tvg-id="AstroRia.my" tvg-logo="https://i.imgur.com/RrIVJJY.png" group-title="MALAYSIA",Astro Ria
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/1004/
-https://stream.zeehanzgadget.com/ria
+http://adamtvonline.com:8080/111111111111/222222222222/104726
 
 #EXTINF:-1 tvg-id="AstroPrima.my" tvg-logo="https://i.imgur.com/FZoK4df.png" group-title="MALAYSIA",Astro Prima
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/1000/
-https://stream.zeehanzgadget.com/prima
+http://37.49.230.48:8080/9f922928/873ef670ee/157467
 
 #EXTINF:-1 tvg-id="AstroWarna.my" tvg-logo="https://i.imgur.com/JCn7Yd0.png" group-title="MALAYSIA",Astro Warna
 #KODIPROP:inputstream.adaptive.license_type=clearkey
