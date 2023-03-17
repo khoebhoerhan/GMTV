@@ -179,19 +179,16 @@ http://122.248.43.138:1935/ch10/myStream/playlist.m3u8
 http://202.150.153.254:65500/bandungtvWEBSITE.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/u1nCcBb.png" group-title="LOKAL",Banjar TV
-https://v2.siar.us/banjartv/livestream/playlist.m3u8
+https://v2.siar.us/banjartv/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MQWDIh0.png" group-title="LOKAL",Banten TV
-https://v2.siar.us/barayatv/live/playlist.m3u8
+https://5bf7b725107e5.streamlock.net/bantentv/bantentv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Lhupa1J.png" group-title="LOKAL",Batam TV
 http://122.248.43.138:1935/ch5/myStream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/4/4f/Batu_TV.png" group-title="LOKAL",Batu TV
 http://117.103.69.219:8080/live/streaming/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Gl7f39B.png" group-title="LOKAL",Bayu TV
-http://wms.klikhost.com/bayutv/live/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a9/Logo_BBS_TV_2018.png" group-title="LOKAL",BBS TV
 http://103.119.54.246:8080/hls/bbstv.m3u8
@@ -209,7 +206,7 @@ http://122.248.43.138:1935/ch28/myStream/playlist.m3u8
 https://bravo.kugo.id/ctv/rtmp.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/U5jiuuM.png" group-title="LOKAL",Dayak TV
-https://v4.siar.us/dayaktv/livestream/playlist.m3u8
+https://v5.siar.us/dayaktv/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qio9YhR.png" group-title="LOKAL",Duta TV
 https://o1.siar.us/dutatv/live/playlist.m3u8
@@ -300,7 +297,7 @@ https://v10.siar.us/rctv/live/playlist.m3u8
 http://122.248.43.138:1935/ch11/myStream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/Logo-saktitv.png" group-title="LOKAL",Sakti TV
-https://v2.siar.us/saktitv/livestream/playlist.m3u8#t=0.1
+https://v2.siar.us/saktitv/live/playlist.m3u8#t=0.1
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YUIIiAC.png" group-title="LOKAL",Sampit TV
 https://alfa.kugo.id/sampittv/rtmp.stream/chunklist.m3u8
