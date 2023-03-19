@@ -869,7 +869,7 @@ https://stream.zeehanzgadget.com/citra
 #EXTINF:-1 tvg-id="Boo.my" tvg-logo="https://i.imgur.com/fD8G2Ug.png" group-title="ASIAN MOVIES",Boo
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/2407
-https://stream.zeehanzgadget.com/boo
+https://bit.ly/BOO-shareext-ts
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YrsNEN9.png" group-title="ASIAN MOVIES",Dunia Sinema
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1794,14 +1794,10 @@ https://beetv.my.id/x/usee-bein1-masihsama.m3u8
 https://beetv.my.id/x/usee-bein2-masihsama.m3u8
 
 #EXTINF:-1 tvg-id="ChampionsTV1.id" tvg-logo="https://i.imgur.com/ffWoTF9.png" group-title="NATIONAL SPORTS",Champions TV 1
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mooncang.my.id/api/vidio/drm.php?id=6685
-https://mooncang.my.id/api/vidio/ch.mpd?id=6685&code=champions-tv-1
+https://mooncang.my.id/api/vidio/ch.m3u8?id=6685&code=champions-tv-1
 
 #EXTINF:-1 tvg-id="ChampionsTV2.id" tvg-logo="https://i.imgur.com/r2aPCX8.png" group-title="NATIONAL SPORTS",Champions TV 2
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mooncang.my.id/api/vidio/drm.php?id=6686
-https://mooncang.my.id/api/vidio/ch.mpd?id=6686&code=champions-tv-2
+https://mooncang.my.id/api/vidio/ch.m3u8?id=6686&code=champions-tv-2
 
 #EXTINF:-1 tvg-id="ChampionsTV3.id" tvg-logo="https://i.imgur.com/26Jar5R.png" group-title="NATIONAL SPORTS",Champions TV 3
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
