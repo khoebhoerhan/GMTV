@@ -551,7 +551,7 @@ http://rr1.dens.tv/h/h15/index.m3u8
 https://nxanv-live-cdn.mncnow.id/live/eds/FMN/sa_dash_vmx/FMN.mpd
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/71d2wEk.png" group-title="GENERAL ENTERTAINMENT",Paramount Network
-http://iptvid.my.id/hmm/Isekai/Nouka/paramount.m3u8
+http://adamtvonline.com:8080/111111111111/222222222222/104712
 
 #EXTINF:-1 tvg-id="TV5MondeAsie.fr" tvg-logo="https://i.imgur.com/1cVjCTw.png" group-title="FRENCH ENTERTAINMENT",TV5Monde
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1404,6 +1404,9 @@ http://nbcnews2.akamaized.net/hls/live/723426-b/NBCNewsPlaymaker24x7Linear99a3a8
 #EXTINF:-1 tvg-id="NewsmaxTV.us" tvg-logo="https://i.imgur.com/4nMN9xm.png" group-title="AMERICAN NEWS",Newsmax TV
 https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
 
+#EXTINF:-1 tvg-id="OneAmericaNewsNetwork.us" tvg-logo="https://i.imgur.com/TX6qhxL.png" group-title="AMERICAN NEWS",OAN
+https://cdn.klowdtv.net/803B48A/oan_aws_ms/OAN.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7MdW05T.png" group-title="AMERICAN NEWS",NewsNation - Eastern Feed
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://webudit.onlinewebtv.lol/lb/premium292/index.m3u8?|referer=https://widevine.licenses4.me/
@@ -2193,11 +2196,11 @@ https://webudit.onlinewebtv.lol/lb/premium554/index.m3u8|referer=https://widevin
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://webudit.onlinewebtv.lol/lb/premium308/index.m3u8?|referer=https://widevine.licenses4.me/
 
-#EXTINF:-1 tvg-id="ESPN.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1920px-ESPN_wordmark.svg.png" group-title="AMERICAN SPORTS",ESPN US
+#EXTINF:-1 tvg-id="ESPN.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1920px-ESPN_wordmark.svg.png" group-title="AMERICAN SPORTS",ESPN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://webudit.onlinewebtv.lol/lb/premium44/index.m3u8?|referer=https://widevine.licenses4.me/
 
-#EXTINF:-1 tvg-id="ESPN2.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/1280px-ESPN2_logo.svg.png" group-title="AMERICAN SPORTS",ESPN 2 US
+#EXTINF:-1 tvg-id="ESPN2.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/1280px-ESPN2_logo.svg.png" group-title="AMERICAN SPORTS",ESPN2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://webudit.onlinewebtv.lol/lb/premium45/index.m3u8?|referer=https://widevine.licenses4.me/
 
@@ -2205,15 +2208,15 @@ https://webudit.onlinewebtv.lol/lb/premium45/index.m3u8?|referer=https://widevin
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://webudit.onlinewebtv.lol/lb/premium375/index.m3u8?|referer=https://widevine.licenses4.me/
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/ESPNews.svg/1920px-ESPNews.svg.png" group-title="AMERICAN SPORTS",ESPNews
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/ESPNews.svg/1920px-ESPNews.svg.png" group-title="AMERICAN SPORTS",ESPN News
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://webudit.onlinewebtv.lol/lb/premium288/index.m3u8?|referer=https://widevine.licenses4.me/
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qimdreM.png" group-title="AMERICAN SPORTS",FS1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qimdreM.png" group-title="AMERICAN SPORTS",Fox Sports 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://webudit.onlinewebtv.lol/lb/premium39/index.m3u8?|referer=https://widevine.licenses4.me/
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/jxLMBZt.png" group-title="AMERICAN SPORTS",FS2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jxLMBZt.png" group-title="AMERICAN SPORTS",Fox Sports 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://webudit.onlinewebtv.lol/lb/premium758/index.m3u8?|referer=https://widevine.licenses4.me/
 
@@ -2225,7 +2228,7 @@ https://webudit.onlinewebtv.lol/lb/premium643/index.m3u8?|referer=https://widevi
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://webudit.onlinewebtv.lol/lb/premium756/index.m3u8?|referer=https://widevine.licenses4.me/
 
-#EXTINF:-1 tvg-id="GolfChannel.us" tvg-logo="https://i.imgur.com/0FJ92Bp.png" group-title="AMERICAN SPORTS",Golf Channel
+#EXTINF:-1 tvg-id="GolfChannel.us" tvg-logo="https://i.imgur.com/0FJ92Bp.png" group-title="AMERICAN SPORTS",Golf Channel USA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://webudit.onlinewebtv.lol/lb/premium318/index.m3u8?|referer=https://widevine.licenses4.me/
 
@@ -2245,7 +2248,7 @@ https://webudit.onlinewebtv.lol/lb/premium404/index.m3u8?|referer=https://widevi
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://webudit.onlinewebtv.lol/lb/premium663/index.m3u8?|referer=https://widevine.licenses4.me/
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/JApkfiF.png" group-title="AMERICAN SPORTS",Tennis Channel
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JApkfiF.png" group-title="AMERICAN SPORTS",The Tennis Channel
 https://dai.google.com/linear/hls/event/Dlqr46ybTSGWGTfRWcxS0g/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lcpZ5CC.png" group-title="AMERICAN SPORTS",WWE Network
@@ -4594,11 +4597,13 @@ https://streaming-live.rtp.pt/liveradio/rdpint80a/playlist.m3u8
 https://media1.mcr.iol.pt/livefm/comercial/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rpTiRqh.png" group-title="PORTUGUESE RADIO",Cidade FM
 https://media1.mcr.iol.pt/livefm/cidade/livefm/cidade_128k/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HNj5eFy.png" group-title="SINGAPOREAN RADIO",987
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/987FM.svg/1920px-987FM.svg.png" group-title="SINGAPOREAN RADIO",987
 https://playerservices.streamtheworld.com/api/livestream-redirect/987FMAAC.aac
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Class_95_%28radio_station%29.svg/1920px-Class_95_%28radio_station%29.svg.png" group-title="SINGAPOREAN RADIO",Class 95
+https://playerservices.streamtheworld.com/api/livestream-redirect/CLASS95AAC.aac?dist=onlineradiobox
 #EXTINF:-1 tvg-logo="https://i.imgur.com/T2wEgwg.png" group-title="SINGAPOREAN RADIO",CNA 938
 https://playerservices.streamtheworld.com/api/livestream-redirect/938NOWAAC.aac
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SBHvmDv.png" group-title="SINGAPOREAN RADIO",Money FM
 https://playerservices.streamtheworld.com/api/livestream-redirect/MONEY_893AAC.aac
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sCWH9BS.png" group-title="SINGAPOREAN RADIO",Ria 89.7
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Ria_89.7FM.svg/1920px-Ria_89.7FM.svg.png" group-title="SINGAPOREAN RADIO",Ria 89.7
 https://playerservices.streamtheworld.com/api/livestream-redirect/RIA897FMAAC.aac
