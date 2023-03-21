@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml, https://stavol.masuk.web.id/epg.xml, https://raw.githubusercontent.com/khoebhoerhan/GMTV-EPG/main/ardanepg.xml, https://raw.githubusercontent.com/khoebhoerhan/GMTV-EPG/main/mariepg.xml, https://raw.githubusercontent.com/khoebhoerhan/GMTV-EPG/main/masimaepg.xml, https://raw.githubusercontent.com/khoebhoerhan/GMTV-EPG/main/traxepg.xml,  https://raw.githubusercontent.com/AqFad2811/epg/main/rtmklik.xml, https://raw.githubusercontent.com/AqFad2811/epg/main/astro.xml, https://raw.githubusercontent.com/AqFad2811/epg/main/singapore.xml, https://raw.githubusercontent.com/LITUATUI/M3UPT/main/epg/epg-vodafone-pt.xml, https://raw.githubusercontent.com/Newbiect/epg/master/guide.xml, https://raw.githubusercontent.com/pendy99/iptv-epg/main/epg_GB.xml, https://raw.githubusercontent.com/bebawy6/EPG/master/arEPG.xml, https://raw.githubusercontent.com/luizoliveira1970/epg/main/epg_ripper_BR1.xml, https://raw.githubusercontent.com/joao1967/epg/main/guide.xml, https://raw.githubusercontent.com/pendy99/iptv-epg/main/epg_AU.xml, https://raw.githubusercontent.com/pendy99/iptv-epg/main/epg_FR.xml, https://raw.githubusercontent.com/pendy99/iptv-epg/main/epg_DE.xml, https://raw.githubusercontent.com/pendy99/iptv-epg/main/epg_IN.xml, https://raw.githubusercontent.com/pendy99/iptv-epg/main/epg_KR.xml, https://raw.githubusercontent.com/cloventt/epgxml/main/cloventt.jp.epg.xml, https://raw.githubusercontent.com/eldepor/epg/main/sky.de.xml, https://raw.githubusercontent.com/azimabid00/epg/main/unifi_epg.xml,  https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/SkySportNow/epg.xml, https://raw.githubusercontent.com/pendy99/iptv-epg/main/epg_PH.xml, https://raw.githubusercontent.com/bebawy6/EPG/master/usEPG.xml, https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/DStv/za.xml, https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/PlutoTV/us.xml, https://raw.githubusercontent.com/eldepor/epg/main/programetv.ro.xml, https://raw.githubusercontent.com/eldepor/epg/main/programtv.onet.pl.xml, https://raw.githubusercontent.com/eldepor/epg/main/ziggogo.tv.xml" refresh="3600"
+#EXTM3U url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml, https://stavol.masuk.web.id/epg.xml, https://raw.githubusercontent.com/khoebhoerhan/GMTV-EPG/main/ardanepg.xml, https://raw.githubusercontent.com/khoebhoerhan/GMTV-EPG/main/mariepg.xml, https://raw.githubusercontent.com/khoebhoerhan/GMTV-EPG/main/masimaepg.xml, https://raw.githubusercontent.com/khoebhoerhan/GMTV-EPG/main/traxepg.xml,  https://raw.githubusercontent.com/AqFad2811/epg/main/rtmklik.xml, https://raw.githubusercontent.com/AqFad2811/epg/main/astro.xml, https://raw.githubusercontent.com/AqFad2811/epg/main/singapore.xml, https://raw.githubusercontent.com/LITUATUI/M3UPT/main/epg/epg-vodafone-pt.xml, https://raw.githubusercontent.com/Newbiect/epg/master/guide.xml, https://raw.githubusercontent.com/pendy99/iptv-epg/main/epg_GB.xml, https://raw.githubusercontent.com/bebawy6/EPG/master/arEPG.xml, https://raw.githubusercontent.com/luizoliveira1970/epg/main/epg_ripper_BR1.xml, https://raw.githubusercontent.com/joao1967/epg/main/guide.xml, https://raw.githubusercontent.com/pendy99/iptv-epg/main/epg_AU.xml, https://raw.githubusercontent.com/pendy99/iptv-epg/main/epg_FR.xml, https://raw.githubusercontent.com/pendy99/iptv-epg/main/epg_DE.xml, https://raw.githubusercontent.com/pendy99/iptv-epg/main/epg_IN.xml, https://raw.githubusercontent.com/pendy99/iptv-epg/main/epg_KR.xml, https://raw.githubusercontent.com/cloventt/epgxml/main/cloventt.jp.epg.xml, https://raw.githubusercontent.com/Nomenteros/Nomentero_Epg/master/Nomenteroguide.xml, https://raw.githubusercontent.com/eldepor/epg/main/sky.de.xml, https://raw.githubusercontent.com/azimabid00/epg/main/unifi_epg.xml,  https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/SkySportNow/epg.xml, https://raw.githubusercontent.com/pendy99/iptv-epg/main/epg_PH.xml, https://raw.githubusercontent.com/bebawy6/EPG/master/usEPG.xml, https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/DStv/za.xml, https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/PlutoTV/us.xml, https://raw.githubusercontent.com/eldepor/epg/main/programetv.ro.xml, https://raw.githubusercontent.com/eldepor/epg/main/programtv.onet.pl.xml, https://raw.githubusercontent.com/eldepor/epg/main/ziggogo.tv.xml" refresh="3600"
 
 ######################################################################TV CHANNELS#############################################################################################################################################
 #EXTINF:-1 tvg-id="RCTI.id" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/dd/RCTI_logo_2015.svg/1280px-RCTI_logo_2015.svg.png" group-title="NASIONAL",RCTI
@@ -2536,27 +2536,27 @@ https://supertennix-l3-live1.secure.footprint.net/restreamer/supertennix_client/
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
 https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-024/stream.mpd
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/LpTYN4s.png" group-title="SPANISH SPORTS",#Vamos por Movistar+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LpTYN4s.png" group-title="SPANISH SPORTS",M+ #Vamos
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://webudit.onlinewebtv.lol/lb/premium521/index.m3u8?|referer=https://widevine.licenses4.me/
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CSBS4Ff.png" group-title="SPANISH SPORTS",DAZN 1 Spain
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CSBS4Ff.png" group-title="SPANISH SPORTS",DAZN 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
 https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-037/stream.mpd
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/m5c18XU.png" group-title="SPANISH SPORTS",DAZN 2 Spain
+#EXTINF:-1 tvg-logo="https://i.imgur.com/m5c18XU.png" group-title="SPANISH SPORTS",DAZN 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
 https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-038/stream.mpd
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YiFmUxC.png" group-title="SPANISH SPORTS",DAZN 3 Spain
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YiFmUxC.png" group-title="SPANISH SPORTS",DAZN 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://webudit.onlinewebtv.lol/lb/premium447/index.m3u8?|referer=https://widevine.licenses4.me/
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aiZCV4i.png" group-title="SPANISH SPORTS",DAZN 4 Spain
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aiZCV4i.png" group-title="SPANISH SPORTS",DAZN 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://webudit.onlinewebtv.lol/lb/premium448/index.m3u8?|referer=https://widevine.licenses4.me/
 
@@ -2571,7 +2571,7 @@ https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-016/stream.mpd
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
 https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-043/stream.mpd
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FauheHD.png" group-title="SPANISH SPORTS",LaLiga SmartBank TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FauheHD.png" group-title="SPANISH SPORTS",LaLiga SmartBank
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://webudit.onlinewebtv.lol/lb/premium539/index.m3u8?|referer=https://widevine.licenses4.me/
 
@@ -2583,35 +2583,35 @@ https://webudit.onlinewebtv.lol/lb/premium524/index.m3u8?|referer=https://widevi
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://webudit.onlinewebtv.lol/lb/premium525/index.m3u8?|referer=https://widevine.licenses4.me/
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/U10gOuT.png" group-title="SPANISH SPORTS",Gol Play
+#EXTINF:-1 tvg-logo="https://i.imgur.com/U10gOuT.png" group-title="SPANISH SPORTS",Gol
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://webudit.onlinewebtv.lol/lb/premium530/index.m3u8?|referer=https://widevine.licenses4.me/
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/662jKmg.png" group-title="SPANISH SPORTS",Movistar Deportes
+#EXTINF:-1 tvg-logo="https://i.imgur.com/662jKmg.png" group-title="SPANISH SPORTS",M+ Deportes
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://webudit.onlinewebtv.lol/lb/premium436/index.m3u8?|referer=https://widevine.licenses4.me/
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/662jKmg.png" group-title="SPANISH SPORTS",Movistar Deportes 2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/662jKmg.png" group-title="SPANISH SPORTS",M+ Deportes 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://webudit.onlinewebtv.lol/lb/premium438/index.m3u8?|referer=https://widevine.licenses4.me/
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/662jKmg.png" group-title="SPANISH SPORTS",Movistar Deportes 3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/662jKmg.png" group-title="SPANISH SPORTS",M+ Deportes 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://webudit.onlinewebtv.lol/lb/premium526/index.m3u8?|referer=https://widevine.licenses4.me/
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/662jKmg.png" group-title="SPANISH SPORTS",Movistar Deportes 4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/662jKmg.png" group-title="SPANISH SPORTS",M+ Deportes 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://webudit.onlinewebtv.lol/lb/premium527/index.m3u8?|referer=https://widevine.licenses4.me/
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YGbrxqd.png" group-title="SPANISH SPORTS",Movistar Golf
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YGbrxqd.png" group-title="SPANISH SPORTS",M+ Golf
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://webudit.onlinewebtv.lol/lb/premium528/index.m3u8?|referer=https://widevine.licenses4.me/
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MF6Iur5.png" group-title="SPANISH SPORTS",Movistar LaLiga
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MF6Iur5.png" group-title="SPANISH SPORTS",M+ LaLiga
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://webudit.onlinewebtv.lol/lb/premium84/index.m3u8?|referer=https://widevine.licenses4.me/
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mR6VAFb.png" group-title="SPANISH SPORTS",Movistar Liga de Campeones
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mR6VAFb.png" group-title="SPANISH SPORTS",M+ Liga de Campeones
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://webudit.onlinewebtv.lol/lb/premium435/index.m3u8?|referer=https://widevine.licenses4.me/
 
@@ -3904,7 +3904,7 @@ https://rundle.deta.dev/hls/LIVE$AntenaStars/6.m3u8/Level(19012010)?end=END&star
 #EXTINF:-1 tvg-id="HappyChannel.ro" tvg-logo="https://i.imgur.com/kpFaiku.png" group-title="ROMANIA",Happy Channel
 https://rundle.deta.dev/hls/LIVE$HappyChannel/6.m3u8/Level(19012010)?end=END&start=LIVE
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/uvV41an.png" group-title="SPAIN",#0 por Movistar+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uvV41an.png" group-title="SPAIN",M+ #0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://webudit.onlinewebtv.lol/lb/premium437/index.m3u8?|referer=https://widevine.licenses4.me/
 
