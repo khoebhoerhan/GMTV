@@ -1280,7 +1280,7 @@ https://d1mpprlbe8tn2j.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2573
 
-#EXTINF:-1 tvg-id="EuronewsSpanish.fr" tvg-logo="https://i.imgur.com/7ENpOTr.png" group-title="SPANISH NEWS",Euronews Español
+#EXTINF:-1 tvg-id="EuronewsSpanish.fr" tvg-logo="https://i.imgur.com/7ENpOTr.png" group-title="SPANISH NEWS",Euronews
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2577
@@ -1492,7 +1492,7 @@ http://livetv.ktv.zone/15/play.m3u8
 #EXTINF:-1 tvg-id="tagesschau24.de" tvg-logo="https://i.imgur.com/eqE5cJ6.png" group-title="GERMAN NEWS",tagesschau 24
 https://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/master.m3u8
 
-#EXTINF:-1 tvg-id="Canal24Horas.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/1024px-Logo_TVE-24h.svg.png" group-title="SPANISH NEWS",Canal 24 Horas
+#EXTINF:-1 tvg-id="Canal24Horas.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/1024px-Logo_TVE-24h.svg.png" group-title="SPANISH NEWS",24 Horas
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://rtvelivestream-clnx.rtve.es/rtvesec/24h/24h_main_720.m3u8
