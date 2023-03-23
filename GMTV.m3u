@@ -636,6 +636,31 @@ https://webudit.onlinewebtv.lol/lb/premium743/index.m3u8?|referer=https://widevi
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://webudit.onlinewebtv.lol/lb/premium334/index.m3u8?|referer=https://widevine.licenses4.me/
 
+#EXTINF:-1 tvg-id="E4UK.uk" tvg-logo="https://i.imgur.com/yny6n9T.png" group-title="BRITISH ENTERTAINMENT",E4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.onlinewebtv.lol/lb/premium363/index.m3u8?|referer=https://widevine.licenses4.me/
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/z1keE0h.png" group-title="BRITISH ENTERTAINMENT",E4 Extra
+http://91.224.190.66:4250/bysid/8360
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8fXx5ps.png" group-title="BRITISH ENTERTAINMENT",4seven
+http://91.224.190.66:4262/bysid/22528
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d4/5Action_logo.svg/1920px-5Action_logo.svg.png" group-title="BRITISH ENTERTAINMENT",5Action
+http://91.224.190.66:4261/bysid/16112
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SfDM3GM.png" group-title="BRITISH ENTERTAINMENT",5Select
+http://91.224.190.66:4258/bysid/20256
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/5Star_logo_2019.svg/1920px-5Star_logo_2019.svg.png" group-title="BRITISH ENTERTAINMENT",5Star
+http://91.224.190.66:4271/bysid/2104
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/ITVBe_logo_%282022%29.svg/1920px-ITVBe_logo_%282022%29.svg.png" group-title="BRITISH ENTERTAINMENT",ITVBe
+http://91.224.190.66:4261/bysid/15856
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KY0U0kp.png" group-title="BRITISH ENTERTAINMENT",Challenge
+http://91.224.190.66:4262/bysid/22226
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RdIJVDs.png" group-title="ARABIC ENTERTAINMENT",Abu Dhabi TV
 https://admdn2.cdn.mangomolo.com/adtv/smil:adtv.stream.smil/chunklist.m3u8
 
@@ -742,7 +767,7 @@ https://webudit.onlinewebtv.lol/lb/premium344/index.m3u8?|referer=https://widevi
 https://webudit.onlinewebtv.lol/lb/premium371/index.m3u8?|referer=https://widevine.licenses4.me/
 
 #EXTINF:-1 tvg-id="MyxUSA.us" tvg-logo="https://i.imgur.com/qyxbTj5.png" group-title="WORLD MUSIC",Myx USA
-https://abscbn-ono.akamaized.net/midroll/amagi_hls_data_abscbnAAA-abscbn-myxnola/CDN/playlist.m3u8
+https://myxnola-abscbn-ono.amagi.tv/index_2.m3u8
 
 #EXTINF:-1 tvg-id="TraceTVUrban.pt" tvg-logo="https://i.imgur.com/RFWvy8c.png" group-title="WORLD MUSIC",Trace Urban
 https://lightning-traceurban-samsungau.amagi.tv/playlist1080p.m3u8
@@ -888,6 +913,15 @@ http://rr.dens.tv/h/h18/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AD8r7dt.png" group-title="BRITISH MOVIES",Film4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://webudit.onlinewebtv.lol/lb/premium688/index.m3u8?|referer=https://widevine.licenses4.me/
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7mbHHaV.png" group-title="BRITISH MOVIES",Great! Movies
+http://91.224.190.66:4263/bysid/27872
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hQiv7FF.png" group-title="BRITISH MOVIES",Great! Action
+http://91.224.190.66:4272/bysid/53310
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4ryU8fZ.png" group-title="BRITISH MOVIES",Great! Romance
+http://91.224.190.66:4264/bysid/34048
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/j7IZ3V4.png" group-title="BRITISH MOVIES",Sky Cinema Premiere
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
@@ -1223,6 +1257,9 @@ https://nxanv-live-cdn.mncnow.id/live/eds/BBCWorldNews/sa_dash_vmx/BBCWorldNews.
 #EXTINF:-1 tvg-id="BBCNews.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/BBC_News_2022_%28Alt%2C_boxed%29.svg/800px-BBC_News_2022_%28Alt%2C_boxed%29.svg.png" group-title="BRITISH NEWS",BBC News
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://webudit.onlinewebtv.lol/lb/premium349/index.m3u8?|referer=https://widevine.licenses4.me/
+
+#EXTINF:-1 tvg-id="BBCParliament.uk" tvg-logo="https://i.imgur.com/Gcy1ag2.png" group-title="PARLIAMENTARY",BBC Parliament
+http://91.224.190.66:4259/bysid/4736
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b8/Logo_BBC_Arabic.png" group-title="ARABIC NEWS",BBC Arabic
 https://vs-cmaf-pushb-ww-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2_akamai_dash_live_http.mpd
@@ -3542,7 +3579,7 @@ https://webudit.onlinewebtv.lol/lb/premium357/index.m3u8?|referer=https://widevi
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://webudit.onlinewebtv.lol/lb/premium358/index.m3u8?|referer=https://widevine.licenses4.me/
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/nywptTp.png" group-title="UK",BBC Four
+#EXTINF:-1 tvg-id="BBCFour.uk" tvg-logo="https://i.imgur.com/nywptTp.png" group-title="UK",BBC Four
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://webudit.onlinewebtv.lol/lb/premium359/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 
@@ -3553,10 +3590,6 @@ https://webudit.onlinewebtv.lol/lb/premium354/index.m3u8?|referer=https://widevi
 #EXTINF:-1 tvg-id="Channel5.uk" tvg-logo="https://i.imgur.com/itZR2eq.png" group-title="UK",Channel 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://webudit.onlinewebtv.lol/lb/premium355/index.m3u8?|referer=https://widevine.licenses4.me/
-
-#EXTINF:-1 tvg-id="E4UK.uk" tvg-logo="https://i.imgur.com/yny6n9T.png" group-title="UK",E4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://webudit.onlinewebtv.lol/lb/premium363/index.m3u8?|referer=https://widevine.licenses4.me/
 
 #EXTINF:-1 tvg-id="ITV.uk" tvg-logo="https://i.imgur.com/zDy4GA4.png" group-title="UK",ITV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
@@ -3581,6 +3614,12 @@ https://webudit.onlinewebtv.lol/lb/premium670/index.m3u8?|referer=https://widevi
 #EXTINF:-1 tvg-id="SkyShowcase.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Sky_Showcase_2021.svg/1920px-Sky_Showcase_2021.svg.png" group-title="UK",Sky Showcase
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://webudit.onlinewebtv.lol/lb/premium682/index.m3u8?|referer=https://widevine.licenses4.me/
+
+#EXTINF:-1 tvg-id="BBCAlba.uk" tvg-logo="https://i.imgur.com/Nvme1rf.png" group-title="SCOTLAND",BBC Alba
+http://91.224.190.66:4286/bysid/6416
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kr2UTHB.png" group-title="SCOTLAND",BBC Scotland
+http://91.224.190.66:4286/bysid/6415
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RKkYHR9.png" group-title="ARGENTINA",América TV
 #EXTVLCOPT:http-user-agent=Samsung SM-G550T stagefright/Beyonce/12.12.9 (Linux;Android 6.0.12)
