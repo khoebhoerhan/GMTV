@@ -2796,10 +2796,10 @@ http://163.53.75.198:23480/hls/modn/list/8003/playlist.m3u8
 http://163.53.75.198:23480/hls/modn/list/8004/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OtV45QZ.png" group-title="INDIAN SPORTS",Star Sports Select 1
-http://163.53.75.198:23480/hls/modn/list/8002/playlist.m3u8
+http://175.107.244.52:4455/play/a00t/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1uc09Pq.png" group-title="INDIAN SPORTS",Star Sports Select 2
-http://163.53.75.198:23480/hls/modn/list/8016/playlist.m3u8
+http://175.107.244.52:4455/play/a00u/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1920px-ESPN_wordmark.svg.png" group-title="DUTCH SPORTS",ESPN Nederland
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
