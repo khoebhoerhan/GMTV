@@ -1051,7 +1051,7 @@ https://m3u-editor.com/serve/tchtviptvplaylist/767388505
 https://live-sg1.global.ssl.fastly.net/live-hls/tonton5_720p/index.m3u8
 
 #EXTINF:-1 tvg-id="TF1SeriesFilms.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/69/TF1_S%C3%A9ries_Films.svg/1920px-TF1_S%C3%A9ries_Films.svg.png" group-title="WORLD SERIES",TF1 Series Films
-https://tsf-hls-live-cdn1.tf1.fr/out/v1/0326aeefae1a405c9a9732d6f80a66df/index.m3u8
+http://livetv.ktv.zone/22/play.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OyeG1RW.png" group-title="WORLD SERIES",Abu Dhabi Drama
 https://admdn5.cdn.mangomolo.com/drama/smil:drama.stream.smil/playlist.m3u8
@@ -1515,7 +1515,7 @@ http://livetv.ktv.zone/18/play.m3u8
 https://raw.githubusercontent.com/khoebhoerhan/Channels/main/Franceinfo.m3u8
 
 #EXTINF:-1 tvg-id="LCI.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0c/La_Cha%C3%AEne_Info_%28logo%29.svg/1920px-La_Cha%C3%AEne_Info_%28logo%29.svg.png" group-title="FRENCH NEWS",LCI
-https://lci-hls-live-cdn1.tf1.fr/out/v1/ab1865540d984279bc8579683bcfcff0/index.m3u8
+http://livetv.ktv.zone/28/play.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/v7Zj0iJ.png" group-title="FRENCH NEWS",TV5Monde Info
 https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8
@@ -3744,13 +3744,13 @@ http://livetv.ktv.zone/14/play.m3u8
 https://raw.githubusercontent.com/khoebhoerhan/Channels/main/ParisPremiere.m3u8
 
 #EXTINF:-1 tvg-id="TF1.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dc/TF1_logo_2013.png" group-title="FRANCE",TF1
-https://tf1-hls-live-cdn1.tf1.fr/out/v1/c2e382be3aa2486e8753747e7bb6157e/index.m3u8
+http://livetv.ktv.zone/3/play.m3u8
 
 #EXTINF:-1 tvg-id="TFX.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TFX_logo.svg/1920px-TFX_logo.svg.png" group-title="FRANCE",TFX
-https://tfx-hls-live-cdn1.tf1.fr/out/v1/818e38d791854222b71a950791fb7002/index.m3u8
+http://livetv.ktv.zone/13/play.m3u8
 
 #EXTINF:-1 tvg-id="TMC.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/54/TMC_logo.svg/1920px-TMC_logo.svg.png" group-title="FRANCE",TMC
-https://tmc-hls-live-cdn1.tf1.fr/out/v1/982927d0b5d24bd58ac42184b10c63d7/index.m3u8
+http://livetv.ktv.zone/12/play.m3u8
 
 #EXTINF:-1 tvg-id="W9.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/W9_2018.svg/1920px-W9_2018.svg.png" group-title="FRANCE",W9
 https://raw.githubusercontent.com/khoebhoerhan/Channels/main/W9.m3u8
