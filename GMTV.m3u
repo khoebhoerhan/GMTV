@@ -3642,6 +3642,18 @@ http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/playlist.m3u8?PlaylistM3
 #EXTINF:-1 tvg-logo="https://i.imgur.com/srtddlN.png" group-title="ARGENTINA",TV Publica
 https://delivery.cdn.rcs.net.ar/mnp/tvp/output.mpd
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/4/46/Rtl-club-2023.svg/langfr-1920px-Rtl-club-2023.svg.png" group-title="BELGIUM",RTL Club
+https://origin2-rtlbe.live.6cloud.fr/pool_z6h2o6qd/clubrtl/rtlbehde/hls_short_enc_clubrtl/NA/vcMgoH5/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/6/60/Rtl-plug-2023.svg/langfr-1280px-Rtl-plug-2023.svg.png" group-title="BELGIUM",RTL Plug
+https://origin2-rtlbe.live.6cloud.fr/pool_z6h2o6qd/plugrtl/rtlbehde/hls_short_enc_plugrtl/NA/vwY8N2N/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/d/d1/Rtl-tvi-2023.svg/langfr-1920px-Rtl-tvi-2023.svg.png" group-title="BELGIUM",RTL TVI
+https://origin2-rtlbe.live.6cloud.fr/pool_z6h2o6qd/rtltvi/rtlbehde/hls_short_enc_rtltvi/NA/vwY8N2N/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/VTM_2020.svg/1920px-VTM_2020.svg.png" group-title="BELGIUM",VTM
+https://dpp-live-events.medialaancdn.be/events/hls/aes/webstream1.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Rede_Bandeirantes_logo_2018.svg/1920px-Rede_Bandeirantes_logo_2018.svg.png" group-title="BRASIL",Band
 http://168.205.87.198:8555/live/4666/123456/19.m3u8
 
@@ -3754,6 +3766,12 @@ https://raw.githubusercontent.com/khoebhoerhan/Channels/main/W9.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/ProSieben_Logo_2015.svg/800px-ProSieben_Logo_2015.svg.png" group-title="GERMANY",ProSieben HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://webudit.onlinewebtv.lol/lb/premium730/index.m3u8?|referer=https://widevine.licenses4.me/
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/RTL_Logo_2021.svg/1920px-RTL_Logo_2021.svg.png" group-title="GERMANY",RTL HD
+http://livetv.ktv.zone/152/play.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/RTLZWEI_Logo_2019.svg/1024px-RTLZWEI_Logo_2019.svg.png" group-title="GERMANY",RTL II HD
+http://livetv.ktv.zone/67/play.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a3/SAT.1_logo_2016.png" group-title="GERMANY",Sat.1 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
