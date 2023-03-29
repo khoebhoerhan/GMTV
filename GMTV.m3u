@@ -199,11 +199,8 @@ https://h1.intechmedia.net/intech/ch58.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NXQvFTv.png" group-title="LOKAL",BMS TV
 http://bmstv.onlivestreaming.net/bmstv/livestream/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/xH5sP7j.png" group-title="LOKAL",Citra TV
-http://122.248.43.138:1935/ch28/myStream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/3/3f/CTV_Banten.png/1200px-CTV_Banten.png" group-title="LOKAL",CTV Banten
-https://bravo.kugo.id/ctv/rtmp.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/73fLt02.png" group-title="LOKAL",Celebes TV
+https://ams.juraganstreaming.com:5443/LiveApp/streams/celebesmedia.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/U5jiuuM.png" group-title="LOKAL",Dayak TV
 https://v5.siar.us/dayaktv/live/playlist.m3u8
@@ -231,7 +228,7 @@ https://v3.siar.us/humabetangtv/live/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
 https://nxanv-live-cdn.mncnow.id/live/eds/JakTV/sa_dash_vmx/JakTV.mpd
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/T3As0Kq.png" group-title="LOKAL",Jambi TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2X7kTIa.png" group-title="LOKAL",Jambi TV
 http://122.248.43.138:1935/ch23/myStream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ljPmr26.png" group-title="LOKAL",Jaya TV
