@@ -1576,12 +1576,6 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:rakyat/playlist.m3u8?id=7
 #EXTINF:-1 tvg-id="TeleRadyoGlobal.ph" tvg-logo="https://i.imgur.com/CId9ifi.png" group-title="VISUAL RADIO",TeleRadyo Global
 https://teleradyo-abscbn-ono.amagi.tv/playlist720_p.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/j2pKcAe.png" group-title="MANDARIN NEWS",CTS News
-https://raw.githubusercontent.com/etag2000/IPTV/YTlive/ctsnews.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/6/67/CTV_News_logo.png" group-title="MANDARIN NEWS",CTV News
-https://raw.githubusercontent.com/etag2000/IPTV/YTlive/ctvnews.m3u8
-
 #EXTINF:-1 tvg-id="PhoenixInfoNewsChannel.hk" tvg-logo="https://i.imgur.com/eSNdW3n.png" group-title="MANDARIN NEWS",Phoenix InfoNews Channel
 https://playtv-live.ifeng.com/live/06OLEEWQKN4_tv1.m3u8
 
@@ -1606,9 +1600,6 @@ https://d1nmqgphjn0y4.cloudfront.net/live/ip/live.isml/live-audio_1=128000-video
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CxJN3qj.png" group-title="LATINO NEWS",Foro
 https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index_6.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dOTAsGd.png" group-title="LATINO NEWS",RTU
-https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/TeleSUR.jpg" group-title="LATINO NEWS",teleSUR
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
@@ -1825,10 +1816,14 @@ https://beetv.my.id/x/usee-bein1-masihsama.m3u8
 https://beetv.my.id/x/usee-bein2-masihsama.m3u8
 
 #EXTINF:-1 tvg-id="ChampionsTV1.id" tvg-logo="https://i.imgur.com/ffWoTF9.png" group-title="NATIONAL SPORTS",Champions TV 1
-https://beetv.my.id/x/vidio-championstv1-masihsama.m3u8
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mooncang.my.id/api/vidio/drm.php?id=6685
+https://mooncang.my.id/api/vidio/ch.mpd?id=6685&code=champions-tv-1
 
 #EXTINF:-1 tvg-id="ChampionsTV2.id" tvg-logo="https://i.imgur.com/r2aPCX8.png" group-title="NATIONAL SPORTS",Champions TV 2
-https://beetv.my.id/x/vidio-championstv2-masihsama.m3u8
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mooncang.my.id/api/vidio/drm.php?id=6686
+https://mooncang.my.id/api/vidio/ch.mpd?id=6686&code=champions-tv-2
 
 #EXTINF:-1 tvg-id="ChampionsTV3.id" tvg-logo="https://i.imgur.com/26Jar5R.png" group-title="NATIONAL SPORTS",Champions TV 3
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -4106,7 +4101,7 @@ https://tv-trt1.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Uu1Iwqc.png" group-title="TÜRKIYE",TRT 2
 http://167.114.115.233:8080/trt2fhd/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6t0F8zO.jpg" group-title="TÜRKIYE",TV 4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4lLEFFX.png" group-title="TÜRKIYE",TV 4
 https://turkmedya-live.ercdn.net/tv4/tv4_720p.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/35/Tv8_new_logo.png" group-title="TÜRKIYE",TV 8
