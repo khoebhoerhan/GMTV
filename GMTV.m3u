@@ -1246,7 +1246,7 @@ https://streaming.cnnphilippines.com/live/myStream/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JECWgUK.png" group-title="EUROPEAN NEWS",N1 CNN
 https://best-str.umn.cdn.united.cloud/stream?stream=sp1400&sp=n1info&channel=n1hrv&u=n1info&p=n1Sh4redSecre7iNf0
 
-#EXTINF:-1 tvg-id="BBCWorldNewsAsiaPacific.uk" tvg-logo="https://i.imgur.com/zNyu51V.png" group-title="WORLD NEWS",BBC World News
+#EXTINF:-1 tvg-id="BBCWorldNewsAsiaPacific.uk" tvg-logo="https://i.imgur.com/zNyu51V.png" group-title="WORLD NEWS",BBC News HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
 https://nxanv-live-cdn.mncnow.id/live/eds/BBCWorldNews/sa_dash_vmx/BBCWorldNews.mpd
