@@ -1691,17 +1691,20 @@ http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.shockya.com/news/wp-content/uploads/rossiya_24.png" group-title="RUSSIAN NEWS",Россия-24
 http://cdnmg.secure.live.rtr-vesti.ru/live/smil:r24.smil/chunklist_b1200000.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/TVR_Info_2022_logo_flat.png" group-title="ROMANIAN NEWS",TVR Info
+https://mn-nl.mncdn.com/tvrinfo/tvrinfo_mjuypp/index.m3u8
+
 #EXTINF:-1 tvg-id="B1.ro" tvg-logo="https://i.imgur.com/h1qtVjc.png" group-title="ROMANIAN NEWS",B1
 http://stream.adunity.com/b1/b1.m3u8
 
 #EXTINF:-1 tvg-id="Digi24.ro" tvg-logo="https://i.imgur.com/7zHItHh.png" group-title="ROMANIAN NEWS",Digi 24
 https://edge-ar.rcs-rds.ro/digi24ar/hq.m3u8
 
-#EXTINF:-1 tvg-id="ProfitTV.ro" tvg-logo="https://i.imgur.com/XnBu0LI.png" group-title="ROMANIAN NEWS",Profit News
-http://stream1.profit.ro:1935/profit/livestream/chunklist.m3u8
-
 #EXTINF:-1 tvg-id="RealitateaPlus.ro" tvg-logo="https://i.imgur.com/mD1Ings.png" group-title="ROMANIAN NEWS",Realitatea Plus
 https://livestream.realitatea.net/radio/radio/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/K7d2g97.png" group-title="ROMANIAN NEWS",Aleph News
+https://streamb.m.ro/Aleph/ngrp:Alephnew2.stream_all/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OUIwpjI.png" group-title="ALBANIAN NEWS",ABC
 https://tv2.abcnews.al/live/abcnews/playlist.m3u8
@@ -1799,6 +1802,12 @@ https://yahoo-samsung.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ZeeBusiness.in" tvg-logo="https://i.imgur.com/i1qQWS1.png" group-title="BUSINESS NEWS",Zee Business
 https://d8gy12azhr71i.cloudfront.net/out/v1/45be109c5b4f44319e882da947377364/index_5.m3u8
+
+#EXTINF:-1 tvg-id="ProfitTV.ro" tvg-logo="https://i.imgur.com/XnBu0LI.png" group-title="BUSINESS NEWS",Profit News
+http://stream1.profit.ro:1935/profit/livestream/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HfmIfBT.png" group-title="BUSINESS NEWS",Aleph Business
+https://stream-aleph.m.ro/Aleph/ngrp:Alephbiz9X16.stream_all/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OmXBZG5.png" group-title="BUSINESS NEWS",РБК
 http://online.video.rbc.ru/online/rbctv_480p/index.m3u8
@@ -3963,17 +3972,11 @@ https://stream1.kanald.ro/iphone/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/q77TwiP.png" group-title="ROMANIA",Prima TV
 https://stream1.1616.ro:1945/prima/livestream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Antena1.ro" tvg-logo="https://i.imgur.com/EPmwuuv.png" group-title="ROMANIA",Antena 1
-https://rundle.deta.dev/hls/LIVE$Antena1/6.m3u8/Level(19012010)?end=END&start=LIVE
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/TVR_1_2022_logo.png" group-title="ROMANIA",TVR 1
+https://mn-nl.mncdn.com/tvr1_hd_live/smil:tvr1_hd_live.smil/index.m3u8
 
-#EXTINF:-1 tvg-id="AntenaStars.ro" tvg-logo="https://i.imgur.com/lSSyfcO.png" group-title="ROMANIA",Antena Stars
-https://rundle.deta.dev/hls/LIVE$AntenaStars/6.m3u8/Level(19012010)?end=END&start=LIVE
-
-#EXTINF:-1 tvg-id="HappyChannel.ro" tvg-logo="https://i.imgur.com/kpFaiku.png" group-title="ROMANIA",Happy Channel
-https://rundle.deta.dev/hls/LIVE$HappyChannel/6.m3u8/Level(19012010)?end=END&start=LIVE
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/myDcDzY.png" group-title="RUSSIA",Мир
-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4c/TVR_2_2022_logo.png" group-title="ROMANIA",TVR 2
+https://mn-nl.mncdn.com/tvr2_test/smil:tvr2_test.smil/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/NTV_logo_2003.svg/800px-NTV_logo_2003.svg.png" group-title="RUSSIA",НТВ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
