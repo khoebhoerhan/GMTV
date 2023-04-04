@@ -707,10 +707,13 @@ https://derste247liveint.akamaized.net/hls/live/662735/daserste_int/master.m3u8
 #EXTINF:-1 tvg-id="RaiItalia.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Rai_Italia_-_Logo_2017.svg/1920px-Rai_Italia_-_Logo_2017.svg.png" group-title="EUROPEAN ENTERTAINMENT",Rai Italia
 http://rr3.dens.tv/s/s63/index2.m3u8
 
-#EXTINF:-1 tvg-id="RTPInternacional.pt" tvg-logo="https://i.imgur.com/H4NjQUJ.png" group-title="EUROPEAN ENTERTAINMENT",RTPI
+#EXTINF:-1 tvg-id="RTPInternacional.pt" tvg-logo="https://i.imgur.com/H4NjQUJ.png" group-title="PORTUGUESE ENTERTAINMENT",RTPI
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8|user-agent="RTP-Play"
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qXH4wXe.png" group-title="PORTUGUESE ENTERTAINMENT",TVI Internacional
+https://video-auth7.iol.pt/edge_servers/tviinternacional-720p/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TVRInternational.ro" tvg-logo="https://upload.wikimedia.org/wikipedia/ro/thumb/d/d9/TVRiLogo.svg/1920px-TVRiLogo.svg.png" group-title="EUROPEAN ENTERTAINMENT",TVR International
 https://mn-nl.mncdn.com/tvri_test/smil:tvri_test.smil/chunklist_b1120000.m3u8 
