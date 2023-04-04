@@ -1274,7 +1274,7 @@ https://live-hls-web-aja.getaj.net/AJA/01.m3u8
 https://live-hls-web-ajb.getaj.net/AJB/01.m3u8
 
 #EXTINF:-1 tvg-id="SkyNews.uk" tvg-logo="https://i.imgur.com/YxxHcfZ.png" group-title="WORLD NEWS",Sky News HD
-https://siloh.pluto.tv/lilo/production/SkyNews/master.m3u8
+http://91.224.190.66:4284/bysid/6404
 
 #EXTINF:-1 tvg-id="SkyNewsArabia.ae" tvg-logo="https://i.imgur.com/okkmsZK.png" group-title="ARABIC NEWS",Sky News Arabia
 https://stream.skynewsarabia.com/hls/sna_720.m3u8
@@ -1336,6 +1336,9 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=2576
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ovw6IZk.jpg" group-title="ALBANIAN NEWS",Euronews Albania
 https://ythls.onrender.com/channel/UChR-A__NS_C5kHDWj3PeAhw.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WtRcl67.png" group-title="ROMANIAN NEWS",Euronews Romania
+https://ythls.onrender.com/channel/UCbATDExtWstHnwWELZnXNZA.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tXzX8Rs.png" group-title="EUROPEAN NEWS",Euronews Serbia
 https://d1ei8ofhgfmkac.cloudfront.net/app-19518-1306/ngrp:QoZfNjsg_all/chunklist_w1797442721_b6256000.m3u8
@@ -1532,7 +1535,10 @@ https://rtvelivestream-clnx.rtve.es/rtvesec/24h/24h_main_720.m3u8
 https://turkmedya-live.ercdn.net/tv24/tv24_720p.m3u8
 
 #EXTINF:-1 tvg-id="AHaber.tr" tvg-logo="https://i.imgur.com/k7oie6a.png" group-title="TURKISH NEWS",A Haber
-https://59c7ea6bec1c6.streamlock.net/filbox/ahaber.stream/playlist.m3u8
+https://ythls.onrender.com/channel/UCKQhfw-lzz0uKnE1fY1PsAA.m3u8
+
+#EXTINF:-1 tvg-id="ANews.tr" tvg-logo="https://i.imgur.com/jLdk6qL.png" group-title="WORLD NEWS",A News
+https://ythls.onrender.com/channel/UC-LRBEUet4xX2fRB3JitFxg.m3u8
 
 #EXTINF:-1 tvg-id="HaberGlobal.tr" tvg-logo="https://i.imgur.com/20kWdRa.png" group-title="TURKISH NEWS",Haber Global
 https://live.cache-stream.workers.dev/stream/UCtc-a9ZUIg0_5HpsPxEO7Qg/live.m3u8
