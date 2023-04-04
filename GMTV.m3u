@@ -571,6 +571,9 @@ https://nxanv-live-cdn.mncnow.id/live/eds/NHKWorldPremium/sa_dash_vmx/NHKWorldPr
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/2400
 https://stream.zeehanzgadget.com/aec
 
+#EXTINF:-1 tvg-id="AstroShuangXing.my" tvg-logo="https://i.imgur.com/YSXeJOd.png" group-title="CHINESE ENTERTAINMENT",Astro Shuang Xing
+http://shareext@185.243.7.13/play/live.php?mac=00:1A:79:45:5E:9A&stream=571191&extension=ts&play_token=1kEm8DbZmS
+
 #EXTINF:-1 tvg-id="CCTV4Asia.cn" tvg-logo="https://i.imgur.com/BQoyBoS.png" group-title="CHINESE ENTERTAINMENT",CCTV4
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTHTTP:{"dt-custom-data": "eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
@@ -1118,9 +1121,7 @@ https://dl.dropboxusercontent.com/s/1cmzhsbzszfq6sn/indikids.m3u8
 http://rr.dens.tv/h/h98/index.m3u8
 
 #EXTINF:-1 tvg-id="AstroCeria.my" tvg-logo="https://i.imgur.com/8s1jRRh.png" group-title="KIDS",Astro Ceria
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/2606/
-https://stream.zeehanzgadget.com/ceria
+http://shareext@185.243.7.13/play/live.php?mac=00:1A:79:45:5E:9A&stream=571241&extension=ts&play_token=1kEm8DbZmS
 
 #EXTINF:-1 tvg-id="TVEdukasi.id" tvg-logo="https://upload.wikimedia.org/wikipedia/id/f/f2/Logo_tvedukasi_baru.png" group-title="SCIENCE & DOCUMENTARY",TV Edukasi
 http://118.98.229.118:1935/live/tve.stream/chunklist_w36933799.m3u8
@@ -3443,19 +3444,13 @@ https://ott.tv5monde.com/Content/HLS/Live/channel(style1)/variant.m3u8
 https://live-sg1.global.ssl.fastly.net/live-hls/tonton3_720p/index.m3u8 
 
 #EXTINF:-1 tvg-id="AstroRia.my" tvg-logo="https://i.imgur.com/RrIVJJY.png" group-title="MALAYSIA",Astro Ria
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/1004/
-http://adamtvonline.com:8080/111111111111/222222222222/104726
+http://shareext@185.243.7.13/play/live.php?mac=00:1A:79:45:5E:9A&stream=571236&extension=ts&play_token=1kEm8DbZmS
 
 #EXTINF:-1 tvg-id="AstroPrima.my" tvg-logo="https://i.imgur.com/FZoK4df.png" group-title="MALAYSIA",Astro Prima
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/1000/
-http://37.49.230.48:8080/9f922928/873ef670ee/157467
+http://shareext@185.243.7.13/play/live.php?mac=00:1A:79:45:5E:9A&stream=571237&extension=ts&play_token=1kEm8DbZmS
 
-#EXTINF:-1 tvg-id="AstroWarna.my" tvg-logo="https://i.imgur.com/JCn7Yd0.png" group-title="MALAYSIA",Astro Warna
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=40bb94cdb1c90f6cc15073d9a500c810:264de3f18e64770e92a2d29f2b177701
-https://stream.zeehanzgadget.com/warna
+#EXTINF:-1 tvg-id="AstroWarna.my" tvg-logo="https://i.imgur.com/pyl1pIF.png" group-title="MALAYSIA",Astro Warna
+http://shareext@185.243.7.13/play/live.php?mac=00:1A:79:45:5E:9A&stream=571231&extension=ts&play_token=1kEm8DbZmS
 
 #EXTINF:-1 tvg-id="ntv7.my" tvg-logo="https://i.imgur.com/eaFI4ZC.png" group-title="MALAYSIA",DidikTV KPM
 https://live-sg1.global.ssl.fastly.net/live-hls/tonton2_720p/index.m3u8
