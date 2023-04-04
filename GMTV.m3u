@@ -1231,9 +1231,7 @@ https://tve-live-lln.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_
 https://live.duhnet.tv/S2/HLS_LIVE/cnnturknp/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CNNPortugal.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/CNN_Portugal.svg/800px-CNN_Portugal.svg.png" group-title="PORTUGUESE NEWS",CNN Portugal HD
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/66378
+https://video-auth7.iol.pt/edge_servers/cnn-720p/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CNNBrasil.br" tvg-logo="https://i.imgur.com/zcaYBfX.png" group-title="BRASILIAN NEWS",CNN Brasil HD
 http://200.4.96.59:8041/play/a02d/index.m3u8
@@ -1253,7 +1251,7 @@ https://best-str.umn.cdn.united.cloud/stream?stream=sp1400&sp=n1info&channel=n1h
 https://nxanv-live-cdn.mncnow.id/live/eds/BBCWorldNews/sa_dash_vmx/BBCWorldNews.mpd
 
 #EXTINF:-1 tvg-id="BBCNews.uk" tvg-logo="https://i.imgur.com/zNyu51V.png" group-title="BRITISH NEWS",BBC News HD
-http://91.224.190.66:4251/bysid/8921
+https://vs-hls-push-ww-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
 
 #EXTINF:-1 tvg-id="BBCParliament.uk" tvg-logo="https://i.imgur.com/Gcy1ag2.png" group-title="PARLIAMENTARY",BBC Parliament
 http://91.224.190.66:4259/bysid/4736
@@ -1274,7 +1272,7 @@ https://live-hls-web-aja.getaj.net/AJA/01.m3u8
 https://live-hls-web-ajb.getaj.net/AJB/01.m3u8
 
 #EXTINF:-1 tvg-id="SkyNews.uk" tvg-logo="https://i.imgur.com/YxxHcfZ.png" group-title="WORLD NEWS",Sky News HD
-http://91.224.190.66:4284/bysid/6404
+https://i.mjh.nz/PlutoTV/55b285cd2665de274553d66f-alt.m3u8
 
 #EXTINF:-1 tvg-id="SkyNewsArabia.ae" tvg-logo="https://i.imgur.com/okkmsZK.png" group-title="ARABIC NEWS",Sky News Arabia
 https://stream.skynewsarabia.com/hls/sna_720.m3u8
@@ -1525,6 +1523,9 @@ http://livetv.ktv.zone/15/play.m3u8
 
 #EXTINF:-1 tvg-id="tagesschau24.de" tvg-logo="https://i.imgur.com/eqE5cJ6.png" group-title="GERMAN NEWS",tagesschau 24
 https://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Rai_News_24_logo_%282022%29.svg/1920px-Rai_News_24_logo_%282022%29.svg.png" group-title="ITALIAN NEWS",Rai News 24
+https://8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/rainews1/hls/playlist_mo.m3u8
 
 #EXTINF:-1 tvg-id="Canal24Horas.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/1024px-Logo_TVE-24h.svg.png" group-title="SPANISH NEWS",24 Horas
 #KODIPROP:inputstream=inputstream.adaptive
@@ -3963,8 +3964,7 @@ https://streaming-live-app.rtp.pt/liverepeater/smil:rtp2HD.smil/rtp_playlist.m3u
 https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dHSH6qh.png" group-title="PORTUGAL",TVI HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://webudit.onlinewebtv.lol/lb/premium723/index.m3u8?|referer=https://widevine.licenses4.me/
+https://video-auth7.iol.pt/edge_servers/tvi-720p/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/i7fz8xt.png" group-title="ROMANIA",Kanal D Romania
 https://stream1.kanald.ro/iphone/live.m3u8
