@@ -1482,9 +1482,6 @@ https://d2xqcdx4c8vu9s.cloudfront.net/out/v1/15b8393e9a9240b8bedd4c79ccefb301/in
 #EXTINF:-1 tvg-id="IndiaToday.in" tvg-logo="https://i.imgur.com/r38Camc.png" group-title="INDIAN NEWS",India Today
 https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/live_720p/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Atn4Ppt.png" group-title="INDIAN NEWS",India Ahead
-https://d3a9l0u5hgmgjl.cloudfront.net/01.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/73I3iFQ.png" group-title="INDIAN NEWS",Mirror Now
 https://dai.google.com/linear/hls/event/DXkHhH2QSnma-HnE3QJqlA/master.m3u8
 
@@ -1492,7 +1489,7 @@ https://dai.google.com/linear/hls/event/DXkHhH2QSnma-HnE3QJqlA/master.m3u8
 https://itvoign.multitvsolution.com/hls/newsx_itv_720_900k.m3u8
 
 #EXTINF:-1 tvg-id="RepublicTV.in" tvg-logo="https://i.imgur.com/SOAzyhe.png" group-title="INDIAN NEWS",Republic TV
-https://republicworld.amagi.tv/hls/amagi_hls_data_samsungin-republictv-samsungindia/CDN/playlist.m3u8
+https://ythls.onrender.com/channel/UCwqusr8YDwM-3mEYTDeJHzw.m3u8
 
 #EXTINF:-1 tvg-id="DDIndia.in" tvg-logo="https://i.imgur.com/aME56Hq.png" group-title="INDIAN NEWS",DD India
 https://ythls.onrender.com/channel/UCGDQNvybfDDeGTf4GtigXaw.m3u8
@@ -1704,9 +1701,6 @@ http://cdnmg.secure.live.rtr-vesti.ru/live/smil:r24.smil/chunklist_b1200000.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/TVR_Info_2022_logo_flat.png" group-title="ROMANIAN NEWS",TVR Info
 https://mn-nl.mncdn.com/tvrinfo/tvrinfo_mjuypp/index.m3u8
 
-#EXTINF:-1 tvg-id="B1.ro" tvg-logo="https://i.imgur.com/h1qtVjc.png" group-title="ROMANIAN NEWS",B1
-http://stream.adunity.com/b1/b1.m3u8
-
 #EXTINF:-1 tvg-id="Digi24.ro" tvg-logo="https://i.imgur.com/7zHItHh.png" group-title="ROMANIAN NEWS",Digi 24
 https://edge-ar.rcs-rds.ro/digi24ar/hq.m3u8
 
@@ -1763,7 +1757,7 @@ https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/ndtvindiam
 https://vidcdn.vidgyor.com/news24-origin/liveabr/news24-origin/live_720p/chunks.m3u8
 
 #EXTINF:-1 tvg-id="RepublicBharat.in" tvg-logo="https://i.imgur.com/0fFuH3n.png" group-title="HINDI NEWS",Republic Bharat
-https://republicworld.amagi.tv/hls/amagi_hls_data_samsungin-republicbharat-samsungindia/CDN/playlist.m3u8
+https://ythls.onrender.com/channel/UC7wXt18f2iA3EDXeqAVuKng.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1KlkS2V.png" group-title="HINDI NEWS",Times Now Navbharat
 https://dai.google.com/linear/hls/event/nRWQsGoJSzmcErJFgAy67g/master.m3u8
@@ -1802,6 +1796,9 @@ https://webudit.onlinewebtv.lol/lb/premium309/index.m3u8?|referer=https://widevi
 
 #EXTINF:-1 tvg-id="CNBCArabiya.ae" tvg-logo="https://i.imgur.com/4XhULAV.png" group-title="BUSINESS NEWS",CNBC Arabiya
 https://cnbcarabia.hibridcdn.net/cnbc/cnbc_abr/cnbc/cnbc_480p/chunks.m3u8?
+
+#EXTINF:-1 tvg-id="CNBCAwaaz.in" tvg-logo="https://i.imgur.com/An8Vbd9.png" group-title="BUSINESS NEWS",CNBC Awaaz
+https://ythls.onrender.com/channel/UCQIycDaLsBpMKjOCeaKUYVg.m3u8
 
 #EXTINF:-1 tvg-id="ClassCNBC.it" tvg-logo="https://i.imgur.com/qsmHgJ1.png" group-title="BUSINESS NEWS",Class CNBC
 https://streamcdnb10-859c1818ed614cc5b0047439470927b0.msvdn.net/live/S76890577/tDoFkZD3T1Lw/chunklist_b1728000.m3u8
