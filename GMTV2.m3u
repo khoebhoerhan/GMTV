@@ -715,8 +715,8 @@ https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8|user-age
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qXH4wXe.png" group-title="PORTUGUESE ENTERTAINMENT",TVI Internacional
 https://video-auth7.iol.pt/edge_servers/tviinternacional-720p/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TVRInternational.ro" tvg-logo="https://upload.wikimedia.org/wikipedia/ro/thumb/d/d9/TVRiLogo.svg/1920px-TVRiLogo.svg.png" group-title="EUROPEAN ENTERTAINMENT",TVR International
-https://mn-nl.mncdn.com/tvri_test/smil:tvri_test.smil/chunklist_b1120000.m3u8 
+#EXTINF:-1 tvg-id="TVRInternational.ro" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/28/TVR_i_2022_logo.png" group-title="EUROPEAN ENTERTAINMENT",TVR International
+https://mn-nl.mncdn.com/tvri_test/smil:tvri_test.smil/index.m3u8
 
 #EXTINF:-1 tvg-id="MusicTV.id" tvg-logo="https://i.imgur.com/K49jYHw.png" group-title="NATIONAL MUSIC",Music TV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1486,7 +1486,7 @@ https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/
 https://dai.google.com/linear/hls/event/DXkHhH2QSnma-HnE3QJqlA/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/83CZGrB.png" group-title="INDIAN NEWS",NewsX
-https://itvoign.multitvsolution.com/hls/newsx_itv_720_900k.m3u8
+https://ythls.onrender.com/channel/UCytSP0M0Jdnw6qIy3Y-nTig.m3u8
 
 #EXTINF:-1 tvg-id="RepublicTV.in" tvg-logo="https://i.imgur.com/SOAzyhe.png" group-title="INDIAN NEWS",Republic TV
 https://ythls.onrender.com/channel/UCwqusr8YDwM-3mEYTDeJHzw.m3u8
@@ -1698,9 +1698,6 @@ http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.shockya.com/news/wp-content/uploads/rossiya_24.png" group-title="RUSSIAN NEWS",Россия-24
 http://cdnmg.secure.live.rtr-vesti.ru/live/smil:r24.smil/chunklist_b1200000.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/TVR_Info_2022_logo_flat.png" group-title="ROMANIAN NEWS",TVR Info
-https://mn-nl.mncdn.com/tvrinfo/tvrinfo_mjuypp/index.m3u8
-
 #EXTINF:-1 tvg-id="Digi24.ro" tvg-logo="https://i.imgur.com/7zHItHh.png" group-title="ROMANIAN NEWS",Digi 24
 https://edge-ar.rcs-rds.ro/digi24ar/hq.m3u8
 
@@ -1745,10 +1742,10 @@ https://playhls.media.nic.in/hls/live/ddnews/ddnews.m3u8
 https://tezlive-amd.akamaized.net/hls/live/2016145/gnt/gntlive/live_720p/chunks.m3u8
 
 #EXTINF:-1 tvg-id="IndiaNews.in" tvg-logo="https://i.imgur.com/mgkIqLN.png" group-title="HINDI NEWS",India News
-https://itvoign.multitvsolution.com/hls/inkhabar_itv_720_900k.m3u8
+https://livetv.newsx.com/itv/itvnetwork5/playlist.m3u8
 
 #EXTINF:-1 tvg-id="IndiaTV.in" tvg-logo="https://i.imgur.com/BFsM05S.png" group-title="HINDI NEWS",India TV
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/@IndiaTV/live
+https://ythls.onrender.com/channel/UCttspZesZIDEwwpVIgoZtWQ.m3u8
 
 #EXTINF:-1 tvg-id="NDTVIndia.in" tvg-logo="https://i.imgur.com/13hqQkh.png" group-title="HINDI NEWS",NDTV India
 https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/ndtvindiamaster.m3u8
@@ -3970,12 +3967,6 @@ https://stream1.kanald.ro/iphone/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/q77TwiP.png" group-title="ROMANIA",Prima TV
 https://stream1.1616.ro:1945/prima/livestream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/TVR_1_2022_logo.png" group-title="ROMANIA",TVR 1
-https://mn-nl.mncdn.com/tvr1_hd_live/smil:tvr1_hd_live.smil/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4c/TVR_2_2022_logo.png" group-title="ROMANIA",TVR 2
-https://mn-nl.mncdn.com/tvr2_test/smil:tvr2_test.smil/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/NTV_logo_2003.svg/800px-NTV_logo_2003.svg.png" group-title="RUSSIA",НТВ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
