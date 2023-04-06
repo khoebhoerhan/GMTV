@@ -29,7 +29,7 @@ http://mpwtv.my.id/vidioye/204-sctv.m3u8
 http://mpwtv.my.id/vidioye/205-indosiar.m3u8
 
 #EXTINF:-1 tvg-id="Moji.id" tvg-logo="https://i.imgur.com/D70rSkE.png" group-title="NASIONAL",Moji
-https://dl.dropboxusercontent.com/s/qcoxpjuwsaccqc1/moji.m3u8
+https://beetv.my.id/x/usee-ochannel-masihsama.m3u8
 
 #EXTINF:-1 tvg-id="BeritaSatu.id" tvg-logo="https://i.imgur.com/08XEDhX.png" group-title="NASIONAL",BTV
 https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
@@ -728,9 +728,6 @@ https://nxanv-live-cdn.mncnow.id/live/eds/MusicChannel/sa_dash_vmx/MusicChannel.
 #KODIPROP:inputstream.adaptive.license_key=https://lic.drmtoday.com/license-proxy-widevine/cenc/?specConform=true
 https://cdnjkt2.transvision.co.id:1001/live/master/2/4028c685730a4243017317dee5df1572/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XD4fyZS.png" group-title="NATIONAL MUSIC",Prambors
-http://iptvid.my.id/hmm/pramborstv.m3u8 
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PPJLB5Z.png" group-title="NATIONAL MUSIC",i-Konser
 https://cdn09jtedge.indihometv.com/atemedvr/1675207144/0/IKONSER_AT/IKONSER_AT.mpd
 
@@ -901,6 +898,9 @@ https://stream.zeehanzgadget.com/citra
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/2407
 https://bit.ly/BOO-shareext-ts
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EzA4Q4M.png" group-title="ASIAN MOVIES",CCTV6
+https://node1.olelive.com:6443/live/CCTV6HD/hls.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YrsNEN9.png" group-title="ASIAN MOVIES",Dunia Sinema
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1597,6 +1597,9 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:rakyat/playlist.m3u8?id=7
 #EXTINF:-1 tvg-id="TeleRadyoGlobal.ph" tvg-logo="https://i.imgur.com/CId9ifi.png" group-title="VISUAL RADIO",TeleRadyo Global
 https://teleradyo-abscbn-ono.amagi.tv/playlist720_p.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VqJ26rz.png" group-title="MANDARIN NEWS",CCTV13
+https://node1.olelive.com:6443/live/CCTV13HD/hls.m3u8
+
 #EXTINF:-1 tvg-id="PhoenixInfoNewsChannel.hk" tvg-logo="https://i.imgur.com/eSNdW3n.png" group-title="MANDARIN NEWS",Phoenix InfoNews Channel
 https://playtv-live.ifeng.com/live/06OLEEWQKN4_tv1.m3u8
 
@@ -1611,7 +1614,7 @@ http://live4.tdm.com.mo/ch5/_definst_/info_ch5.live/playlist.m3u8
 https://g2.mc-slo.transport.edge-access.net:443/a15/ngrp:a24-100056_all/a24-100056_720p.m3u8
 
 #EXTINF:-1 tvg-id="ADN40.mx" tvg-logo="https://i.imgur.com/8cdAvQF.png" group-title="LATINO NEWS",ADN40
-http://pubads.g.doubleclick.net/ssai/event/XZLLJIhJRNqz33DGp6NdkA/master.m3u8
+https://dai.google.com/linear/hls/event/XZLLJIhJRNqz33DGp6NdkA/master.m3u8
 
 #EXTINF:-1 tvg-id="Canal26.ar" tvg-logo="https://i.imgur.com/wrh58Qz.png" group-title="LATINO NEWS",Canal 26
 http://live-edge01.telecentro.net.ar/live/smil:c26.smil/playlist.m3u8
@@ -1626,7 +1629,10 @@ https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index_6.m3u8
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
 
 #EXTINF:-1 tvg-id="YTN.kr" tvg-logo="https://i.imgur.com/kI7pHMn.jpg" group-title="KOREAN NEWS",YTN
-https://hls.youtb.workers.dev/channel/UChlgI3UHCOnwUGzWzbJ3H5w.m3u8
+https://ythls.onrender.com/channel/UChlgI3UHCOnwUGzWzbJ3H5w.m3u8
+
+#EXTINF:-1 tvg-id="YonhapNewsTV.kr" tvg-logo="https://i.imgur.com/NR6OVOb.jpeg" group-title="KOREAN NEWS",연합뉴스TV
+https://ythls.onrender.com/channel/UCTHCOPwqNfZ0uiKOvFyhGwg.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QeV1sma.png" group-title="EUROPEAN NEWS",TV 2 Nyhetskanalen
 https://ws15-hls-live.akamaized.net/out/u/1153546.m3u8
@@ -1993,7 +1999,22 @@ https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://webudit.onlinewebtv.lol/lb/premium716/index.m3u8?|referer=https://widevine.licenses4.me/
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/TDMSport.png" group-title="WORLD SPORTS",TDM 澳門體育頻道
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8Jkk60D.png" group-title="CHINESE SPORTS",CCTV5
+https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/o6fA9uK.png" group-title="CHINESE SPORTS",CCTV5+
+https://node1.olelive.com:6443/live/CCTV5PHD/hls.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oQYgkxV.png" group-title="CHINESE SPORTS",CCTV16
+https://epg.pw/stream/8985aed79c7bd61d72044e09bfebb2b5c0fb4abee95afb17f57736c28dba4fb9.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kTXQVRD.png" group-title="CHINESE SPORTS",Eleven Sports 1
+http://61.221.81.93:8078/hls/25/80/esport.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MomX4fY.png" group-title="CHINESE SPORTS",Eleven Sports 2
+http://61.221.81.93:8078/hls/26/80/esport2.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/TDMSport.png" group-title="CHINESE SPORTS",TDM 澳門體育頻道
 http://live4.tdm.com.mo/ch4/_definst_/sport_ch4.live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iZ1rMGW.png" group-title="WORLD SPORTS",Motorvision TV
@@ -3707,6 +3728,12 @@ http://evpp.mm.uol.com.br:1935/ne10/ne10-tvjornal-caruaru-video-web.sdp/playlist
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/TV_Brasil_logo_2019.svg/1920px-TV_Brasil_logo_2019.svg.png" group-title="BRASIL",TV Brasil
 http://rtmp.cdn.upx.net.br/723b/myStream.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LD7uHJA.png" group-title="CHINA",CCTV1
+https://node1.olelive.com:6443/live/CCTV1HD/hls.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/X8EwXvh.png" group-title="CHINA",CCTV3
+https://node1.olelive.com:6443/live/CCTV3HD/hls.m3u8
 
 #EXTINF:-1 tvg-id="RTLCroatia.hr" tvg-logo="https://i.imgur.com/zAjr6pO.png" group-title="CROATIA",RTL
 https://d1cs5tlhj75jxe.cloudfront.net/rtl/playlist.m3u8
