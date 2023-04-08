@@ -1151,7 +1151,7 @@ https://cdn09jtedge.indihometv.com/atemedvr/1675207144/0/DAVINCI_AT/DAVINCI_AT.m
 #EXTINF:-1 tvg-id="Dreamworks.id" tvg-logo="https://i.imgur.com/mSMH7Pu.png" group-title="KIDS",Dreamworks
 https://cdn09jtedge.indihometv.com/dvr/139/dreamworks/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/yka2qgC.png" group-title="KIDS",Moonbug Kids
+#EXTINF:-1 tvg-id="MoonbugKids" tvg-logo="https://i.imgur.com/yka2qgC.png" group-title="KIDS",Moonbug Kids
 http://starshare.live:8080/live/120220920/120220920/137522.ts
 
 #EXTINF:-1 tvg-id="Zoomoo.id" tvg-logo="https://i.imgur.com/OqXi7AW.png" group-title="KIDS",Zoo Moo
@@ -1159,12 +1159,12 @@ http://starshare.live:8080/live/120220920/120220920/137522.ts
 #KODIPROP:inputstream.adaptive.license_key=https://mooncang.my.id/api/vidio/drm.php?id=6533
 https://mooncang.my.id/api/vidio/ch.mpd?id=6533&code=zoomoo
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/SU2QKXj.png" group-title="KIDS",IndiKids
+#EXTINF:-1 tvg-id="IndiKids.id" tvg-logo="https://i.imgur.com/SU2QKXj.png" group-title="KIDS",IndiKids
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://maxstream.my.id/license-proxy-widevine/cenc/?specConform=true
 https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(c99739b1-0748-4a2a-b586-2501837adf20)/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HLr5Qi4.png" group-title="KIDS",My Kids
+#EXTINF:-1 tvg-id="MyKidz.id" tvg-logo="https://i.imgur.com/HLr5Qi4.png" group-title="KIDS",MyKidz
 http://rr.dens.tv/h/h98/index.m3u8
 
 #EXTINF:-1 tvg-id="AstroCeria" tvg-logo="https://i.imgur.com/8s1jRRh.png" group-title="KIDS",Astro Ceria
@@ -1173,7 +1173,7 @@ http://shareext@185.243.7.13/play/live.php?mac=00:1A:79:45:5E:9A&stream=571241&e
 #EXTINF:-1 tvg-id="TVEdukasi.id" tvg-logo="https://upload.wikimedia.org/wikipedia/id/f/f2/Logo_tvedukasi_baru.png" group-title="SCIENCE & DOCUMENTARY",TV Edukasi
 http://118.98.229.118:1935/live/tve.stream/chunklist_w36933799.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/x1sG33k.png" group-title="SCIENCE & DOCUMENTARY",Indonesiana TV
+#EXTINF:-1 tvg-id="IndonesianaTV.id" tvg-logo="https://i.imgur.com/x1sG33k.png" group-title="SCIENCE & DOCUMENTARY",Indonesiana TV
 https://kbtv.akamaized.net/hls/live/2031188/kanalbuya/1.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/P52iWC8.png" group-title="SCIENCE & DOCUMENTARY",Ruang Trampil
@@ -1240,7 +1240,7 @@ https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XD8Vr0d.jpg" group-title="SCIENCE & DOCUMENTARY",NASA TV Media
 https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
 
-#EXTINF:-1 tvg-id="LinguaChannel.id" tvg-logo="https://i.imgur.com/VaoRtdn.png" group-title="SCIENCE & DOCUMENTARY",Lingua Channel
+#EXTINF:-1 tvg-id="Lingua.id" tvg-logo="https://i.imgur.com/VaoRtdn.png" group-title="SCIENCE & DOCUMENTARY",Lingua Channel
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTHTTP:{"dt-custom-data": "eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -1882,10 +1882,10 @@ https://m3u-editor.com/serve/tchtviptvplaylist/767388514
 #EXTINF:-1 tvg-id="52093" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/6/62/Logo_Business_2020.png" group-title="BUSINESS NEWS",BFM Business
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_BUSINESS/index.m3u8?start=LIVE&end=END
 
-#EXTINF:-1 tvg-id="beINSports1.id" tvg-logo="https://i.imgur.com/MRULdc8.png" group-title="NATIONAL SPORTS",beIN Sports 1 ID
+#EXTINF:-1 tvg-id="beINSports1.id" tvg-logo="https://i.imgur.com/MRULdc8.png" group-title="NATIONAL SPORTS",beIN Sports 1
 https://beetv.my.id/x/usee-bein1-masihsama.m3u8
 
-#EXTINF:-1 tvg-id="beINSports3.id" tvg-logo="https://i.imgur.com/j8VC6nB.png" group-title="NATIONAL SPORTS",beIN Sports 3 ID
+#EXTINF:-1 tvg-id="beINSports3.id" tvg-logo="https://i.imgur.com/j8VC6nB.png" group-title="NATIONAL SPORTS",beIN Sports 3
 https://beetv.my.id/x/usee-bein2-masihsama.m3u8
 
 #EXTINF:-1 tvg-id="FightSports" tvg-logo="https://i.imgur.com/4UMZF6H.png" group-title="NATIONAL SPORTS",Fight Sports
@@ -2150,17 +2150,17 @@ https://webudit.onlinewebtv.lol/lb/premium67/index.m3u8?|referer=https://widevin
 #EXTINF:-1 tvg-id="beINSportsHaber.tr" tvg-logo="https://i.imgur.com/fBWCN2V.png" group-title="TURKISH SPORTS",beIN Sports Haber
 https://59c7ea6bec1c6.streamlock.net/filbox/beinsporthaber.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="beINSports" tvg-logo="https://i.imgur.com/39bwyGI.png" group-title="MALAY SPORTS",beIN Sports HD
+#EXTINF:-1 tvg-id="beINSports" tvg-logo="https://i.imgur.com/39bwyGI.png" group-title="MALAY SPORTS",beIN Sports
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
 https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-039/stream.mpd
 
-#EXTINF:-1 tvg-id="beINSports2" tvg-logo="https://i.imgur.com/NDp6TlM.png" group-title="MALAY SPORTS",beIN Sports 2 HD
+#EXTINF:-1 tvg-id="beINSports2" tvg-logo="https://i.imgur.com/NDp6TlM.png" group-title="MALAY SPORTS",beIN Sports 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
 https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-040/stream.mpd
 
-#EXTINF:-1 tvg-id="beINSports3" tvg-logo="https://i.imgur.com/j8VC6nB.png" group-title="MALAY SPORTS",beIN Sports 3 HD
+#EXTINF:-1 tvg-id="beINSports3" tvg-logo="https://i.imgur.com/j8VC6nB.png" group-title="MALAY SPORTS",beIN Sports 3
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
 https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-041/stream.mpd
@@ -2377,43 +2377,43 @@ https://skylivetab-i.akamaihd.net/hls/live/569779/tablive/sky2.m3u8
 #EXTINF:-1 tvg-id="15548" tvg-logo="https://i.imgur.com/vPoYbHR.png" group-title="AUSTRALIAN SPORTS",Sky Thoroughbred Central
 https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/stcsd.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NfpTyKG.png" group-title="NZ SPORTS",Sky Sport 1
+#EXTINF:-1 tvg-id="341" tvg-logo="https://i.imgur.com/NfpTyKG.png" group-title="NZ SPORTS",Sky Sport 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://webudit.onlinewebtv.lol/lb/premium588/index.m3u8?|referer=https://widevine.licenses4.me/
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wOs4RTH.png" group-title="NZ SPORTS",Sky Sport 2
+#EXTINF:-1 tvg-id="358" tvg-logo="https://i.imgur.com/wOs4RTH.png" group-title="NZ SPORTS",Sky Sport 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://webudit.onlinewebtv.lol/lb/premium589/index.m3u8?|referer=https://widevine.licenses4.me/
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bkzjXe8.png" group-title="NZ SPORTS",Sky Sport 3
+#EXTINF:-1 tvg-id="354" tvg-logo="https://i.imgur.com/bkzjXe8.png" group-title="NZ SPORTS",Sky Sport 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://webudit.onlinewebtv.lol/lb/premium590/index.m3u8?|referer=https://widevine.licenses4.me/
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/V3MjRxa.png" group-title="NZ SPORTS",Sky Sport 4
+#EXTINF:-1 tvg-id="345" tvg-logo="https://i.imgur.com/V3MjRxa.png" group-title="NZ SPORTS",Sky Sport 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://webudit.onlinewebtv.lol/lb/premium591/index.m3u8?|referer=https://widevine.licenses4.me/
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/si9S7E5.png" group-title="NZ SPORTS",Sky Sport 5
+#EXTINF:-1 tvg-id="342" tvg-logo="https://i.imgur.com/si9S7E5.png" group-title="NZ SPORTS",Sky Sport 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://webudit.onlinewebtv.lol/lb/premium592/index.m3u8?|referer=https://widevine.licenses4.me/
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/93uYG7d.png" group-title="NZ SPORTS",Sky Sport 6
+#EXTINF:-1 tvg-id="359" tvg-logo="https://i.imgur.com/93uYG7d.png" group-title="NZ SPORTS",Sky Sport 6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://webudit.onlinewebtv.lol/lb/premium593/index.m3u8?|referer=https://widevine.licenses4.me/
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Oviebmr.png" group-title="NZ SPORTS",Sky Sport 7
+#EXTINF:-1 tvg-id="357" tvg-logo="https://i.imgur.com/Oviebmr.png" group-title="NZ SPORTS",Sky Sport 7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://webudit.onlinewebtv.lol/lb/premium594/index.m3u8?|referer=https://widevine.licenses4.me/
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mwle6ed.png" group-title="NZ SPORTS",Sky Sport Premier League
+#EXTINF:-1 tvg-id="355" tvg-logo="https://i.imgur.com/mwle6ed.png" group-title="NZ SPORTS",Sky Sport Premier League
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://webudit.onlinewebtv.lol/lb/premium595/index.m3u8?|referer=https://widevine.licenses4.me/
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6fMfKwx.png" group-title="NZ SPORTS",Sky Sport 9
+#EXTINF:-1 tvg-id="356" tvg-logo="https://i.imgur.com/6fMfKwx.png" group-title="NZ SPORTS",Sky Sport 9
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://webudit.onlinewebtv.lol/lb/premium596/index.m3u8?|referer=https://widevine.licenses4.me/
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Mtf5gTt.png" group-title="NZ SPORTS",Sky Sport Select
+#EXTINF:-1 tvg-id="353" tvg-logo="https://i.imgur.com/Mtf5gTt.png" group-title="NZ SPORTS",Sky Sport Select
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://webudit.onlinewebtv.lol/lb/premium587/index.m3u8?|referer=https://widevine.licenses4.me/
 
@@ -3504,12 +3504,12 @@ https://live-sg1.global.ssl.fastly.net/live-hls/tonton2_720p/index.m3u8
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
 https://d25tgymtnqzu8s.cloudfront.net/smil:okey/playlist.m3u8?id=3
 
-#EXTINF:-1 tvg-id="TV1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f4/Logo_of_TV1_%28Malaysia%29.svg/1920px-Logo_of_TV1_%28Malaysia%29.svg.png" group-title="MALAYSIA",TV1
+#EXTINF:-1 tvg-id="TV1.my" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f4/Logo_of_TV1_%28Malaysia%29.svg/1920px-Logo_of_TV1_%28Malaysia%29.svg.png" group-title="MALAYSIA",TV1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/playlist.m3u8?id=1
 
-#EXTINF:-1 tvg-id="TV2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/71/TV2_%28Malaysia%29_logo.svg/1920px-TV2_%28Malaysia%29_logo.svg.png" group-title="MALAYSIA",TV2
+#EXTINF:-1 tvg-id="TV2.my" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/71/TV2_%28Malaysia%29_logo.svg/1920px-TV2_%28Malaysia%29_logo.svg.png" group-title="MALAYSIA",TV2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/playlist.m3u8?id=2
@@ -3517,7 +3517,7 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/playlist.m3u8?id=2
 #EXTINF:-1 tvg-id="TV3.my" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f5/TV3_%28Malaysia%29.svg/1920px-TV3_%28Malaysia%29.svg.png" group-title="MALAYSIA",TV3
 https://live-sg1.global.ssl.fastly.net/live-hls/tonton1_720p/index.m3u8 
 
-#EXTINF:-1 tvg-id="TV9" tvg-logo="https://i.imgur.com/smKCnNj.png" group-title="MALAYSIA",TV9
+#EXTINF:-1 tvg-id="TV9.my" tvg-logo="https://i.imgur.com/smKCnNj.png" group-title="MALAYSIA",TV9
 https://live-sg1.global.ssl.fastly.net/live-hls/tonton4_720p/index.m3u8 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QlN6FuI.png" group-title="MALAYSIA",Inspirasi
