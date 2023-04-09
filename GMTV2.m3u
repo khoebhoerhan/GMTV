@@ -600,7 +600,7 @@ http://171.110.62.170:8181/tsfile/live/1004_1.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NGYwYjY2NTYtMDNkOS0zMDYyLTkzOTUtN2ZmYTlhZmM3NDQ1
 https://hw8871-live-cdn.mncnow.id/live/eds/XingKongTV/sa_dash_vmx/XingKongTV.mpd
 
-#EXTINF:-1 tvg-id="TVEInternacional.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Logo_TVE-Internacional.svg/1024px-Logo_TVE-Internacional.svg.png" group-title="EUROPEAN ENTERTAINMENT",TVE Internacional
+#EXTINF:-1 tvg-id="52339" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Logo_TVE-Internacional.svg/1024px-Logo_TVE-Internacional.svg.png" group-title="EUROPEAN ENTERTAINMENT",TVE Internacional
 http://rr.dens.tv/h/h158/index2.m3u8
 
 #EXTINF:-1 tvg-id="Comedy Central US" tvg-logo="https://i.imgur.com/CmdxyXk.png" group-title="AMERICAN ENTERTAINMENT",Comedy Central
@@ -611,7 +611,7 @@ https://webudit.onlinewebtv.lol/lb/premium310/index.m3u8?|referer=https://widevi
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://webudit.onlinewebtv.lol/lb/premium315/index.m3u8?|referer=https://widevine.licenses4.me/
 
-#EXTINF:-1 tvg-id="HBO - Eastern Feed" tvg-logo="https://i.imgur.com/9v0WUqt.png" group-title="AMERICAN ENTERTAINMENT",HBO USA
+#EXTINF:-1 tvg-id="HBO - Eastern Feed" tvg-logo="https://i.imgur.com/9v0WUqt.png" group-title="AMERICAN ENTERTAINMENT",HBO
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://webudit.onlinewebtv.lol/lb/premium321/index.m3u8?|referer=https://widevine.licenses4.me/
 
@@ -708,10 +708,10 @@ http://84.22.33.214/EuroChannel/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ujQVb6l.png" group-title="EUROPEAN ENTERTAINMENT",Das Erste International
 https://derste247liveint.akamaized.net/hls/live/662735/daserste_int/master.m3u8
 
-#EXTINF:-1 tvg-id="RaiItalia.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Rai_Italia_-_Logo_2017.svg/1920px-Rai_Italia_-_Logo_2017.svg.png" group-title="EUROPEAN ENTERTAINMENT",Rai Italia
+#EXTINF:-1 tvg-id="RAI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Rai_Italia_-_Logo_2017.svg/1920px-Rai_Italia_-_Logo_2017.svg.png" group-title="EUROPEAN ENTERTAINMENT",Rai Italia
 http://rr3.dens.tv/s/s63/index2.m3u8
 
-#EXTINF:-1 tvg-id="RTP" tvg-logo="https://i.imgur.com/H4NjQUJ.png" group-title="PORTUGUESE ENTERTAINMENT",RTP Internacional
+#EXTINF:-1 tvg-id="52191" tvg-logo="https://i.imgur.com/H4NjQUJ.png" group-title="PORTUGUESE ENTERTAINMENT",RTP Internacional
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8|user-agent="RTP-Play"
@@ -1492,7 +1492,7 @@ https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Pf8hnQK.png" group-title="CANADIAN NEWS",Ici RDI
 https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8jIPUgH.png" group-title="PARLIAMENTARY",CPAC
+#EXTINF:-1 tvg-id="50051" tvg-logo="https://i.imgur.com/8jIPUgH.png" group-title="PARLIAMENTARY",CPAC
 https://d7z3qjdsxbwoq.cloudfront.net/groupa/live/f9809cea-1e07-47cd-a94d-2ddd3e1351db/live.isml/.m3u8
 
 #EXTINF:-1 tvg-id="12718" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/35/GB_News_Logo.svg/1920px-GB_News_Logo.svg.png" group-title="BRITISH NEWS",GB News
@@ -1522,7 +1522,7 @@ https://live1.presstv.ir/live/hispan.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/TeleSUR.jpg" group-title="WORLD NEWS",teleSUR English
 https://cdnenmain.telesur.ultrabase.net/mblivev3/hd/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/jHJR3LN.png" group-title="WORLD NEWS",Africanews
+#EXTINF:-1 tvg-id="EN1" tvg-logo="https://i.imgur.com/jHJR3LN.png" group-title="WORLD NEWS",Africanews
 https://rakuten-africanews-1-eu.rakuten.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 "62285" tvg-logo="https://i.imgur.com/jcEb3WH.png" group-title="WORLD NEWS",WION
@@ -1850,6 +1850,9 @@ https://webudit.onlinewebtv.lol/lb/premium309/index.m3u8?|referer=https://widevi
 
 #EXTINF:-1 tvg-id="News | Ar: CNBC Arabiya" tvg-logo="https://i.imgur.com/4XhULAV.png" group-title="BUSINESS NEWS",CNBC Arabiya
 https://cnbcarabia.hibridcdn.net/cnbc/cnbc_abr/cnbc/cnbc_480p/chunks.m3u8?
+
+#EXTINF:-1 tvg-id="CN8" tvg-logo="https://i.imgur.com/DP68t5B.png" group-title="BUSINESS NEWS",CNBC Africa
+https://5be2f59e715dd.streamlock.net/CNBC/smil:CNBCSandton.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="62288" tvg-logo="https://i.imgur.com/An8Vbd9.png" group-title="BUSINESS NEWS",CNBC Awaaz
 https://ythls.onrender.com/channel/UCQIycDaLsBpMKjOCeaKUYVg.m3u8
@@ -3468,6 +3471,9 @@ http://livestream.biznetvideo.net/biznet_lifestyle/smil:lifestyle.smil/playlist.
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NGYwYjY2NTYtMDNkOS0zMDYyLTkzOTUtN2ZmYTlhZmM3NDQ1
 https://hw8871-live-cdn.mncnow.id/live/eds/AFN-HD/sa_dash_vmx/AFN-HD.mpd
 
+#EXTINF:-1 tvg-id="FoodNetwork" tvg-logo="https://i.imgur.com/CKECCRs.png" group-title="LIFESTYLE",Food Network
+http://kuchini.site:8080/mosesmn/4e40546ad6/196454
+
 #EXTINF:-1 tvg-id="HGTV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/HGTV_2010.svg/1920px-HGTV_2010.svg.png" group-title="LIFESTYLE",HGTV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NGYwYjY2NTYtMDNkOS0zMDYyLTkzOTUtN2ZmYTlhZmM3NDQ1
@@ -3691,14 +3697,8 @@ http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/playlist.m3u8?PlaylistM3
 #EXTINF:-1 tvg-logo="https://i.imgur.com/srtddlN.png" group-title="ARGENTINA",TV Publica
 https://delivery.cdn.rcs.net.ar/mnp/tvp/output.mpd
 
-#EXTINF:-1 tvg-id="52293" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/4/46/Rtl-club-2023.svg/langfr-1920px-Rtl-club-2023.svg.png" group-title="BELGIUM",RTL Club
-https://origin2-rtlbe.live.6cloud.fr/pool_z6h2o6qd/clubrtl/rtlbehde/hls_short_enc_clubrtl/NA/vcMgoH5/index.m3u8
-
-#EXTINF:-1 tvg-id="52372" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/6/60/Rtl-plug-2023.svg/langfr-1280px-Rtl-plug-2023.svg.png" group-title="BELGIUM",RTL Plug
-https://origin2-rtlbe.live.6cloud.fr/pool_z6h2o6qd/plugrtl/rtlbehde/hls_short_enc_plugrtl/NA/vwY8N2N/index.m3u8
-
 #EXTINF:-1 tvg-id="52150" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/d/d1/Rtl-tvi-2023.svg/langfr-1920px-Rtl-tvi-2023.svg.png" group-title="BELGIUM",RTL TVI
-https://origin2-rtlbe.live.6cloud.fr/pool_z6h2o6qd/rtltvi/rtlbehde/hls_short_enc_rtltvi/NA/vwY8N2N/index.m3u8
+https://tvi-live-hls.akamaized.net/hls/live/2038650/TVI-Live-HLS/master.m3u8
 
 #EXTINF:-1 tvg-id="52132" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/VTM_2020.svg/1920px-VTM_2020.svg.png" group-title="BELGIUM",VTM
 https://dpp-live-events.medialaancdn.be/events/hls/aes/webstream1.m3u8
@@ -3986,11 +3986,14 @@ http://live4.tdm.com.mo/ch2/_definst_/ch2.live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TDM_Entertainment.png/1920px-TDM_Entertainment.png" group-title="MACAU",TDM 澳門綜藝
 http://live4.tdm.com.mo/ch6/_definst_/hd_ch6.live/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Y04umNY.png" group-title="MEXICO",Las Estrellas
+https://linear-416.frequency.stream/416/hls/master/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/c8Rk43x.png" group-title="NETHERLANDS",RTL 7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://webudit.onlinewebtv.lol/lb/premium390/index.m3u8?|referer=https://widevine.licenses4.me/
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/People%27s_Televsion_Network_Incorporated_%28PTV%29.svg/1200px-People%27s_Televsion_Network_Incorporated_%28PTV%29.svg.png" group-title="PHILIPPINES",PTV
+#EXTINF:-1 tvg-id="61419" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/People%27s_Televsion_Network_Incorporated_%28PTV%29.svg/1200px-People%27s_Televsion_Network_Incorporated_%28PTV%29.svg.png" group-title="PHILIPPINES",PTV
 https://ythls.onrender.com/channel/UCJCUbMaY593_4SN1QPG7NFQ.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Canal%2B_Premium.svg/1920px-Canal%2B_Premium.svg.png" group-title="POLAND",Canal+ Premium
