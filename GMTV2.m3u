@@ -691,9 +691,6 @@ https://shls-mbc4-prod-dub.shahid.net/out/v1/c08681f81775496ab4afa2bac7ae7638/in
 #EXTINF:-1 tvg-logo="https://i.imgur.com/E4l3jm1.png" group-title="EUROPEAN ENTERTAINMENT",ERT World
 http://ert-live-bcbs15228.siliconweb.com/media/ert_world/ert_worldmedium.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/28/TVR_i_2022_logo.png" group-title="ROMANIAN ENTERTAINMENT",TVR International
-https://mn-nl.mncdn.com/tvri_test/smil:tvri_test.smil/index.m3u8
-
 #EXTINF:-1 tvg-id="ABCAustralia.id" tvg-logo="https://i.imgur.com/IEncbNb.png" group-title="WORLD ENTERTAINMENT",ABC Australia
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NGYwYjY2NTYtMDNkOS0zMDYyLTkzOTUtN2ZmYTlhZmM3NDQ1
@@ -702,7 +699,7 @@ https://hw8871-live-cdn.mncnow.id/live/eds/AustraliaPlus/sa_dash_vmx/AustraliaPl
 #EXTINF:-1 tvg-id="TFC" tvg-logo="https://i.imgur.com/SsTaXe8.png" group-title="WORLD ENTERTAINMENT",TFC
 https://tfcguam-abscbn-ono.amagi.tv/index_6.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/EURO_LOGO_FINALE.png/1920px-EURO_LOGO_FINALE.png" group-title="EUROPEAN ENTERTAINMENT",Eurochannel
+#EXTINF:-1 tvg-id="eurochannelpt.tv.vodafone.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/EURO_LOGO_FINALE.png/1920px-EURO_LOGO_FINALE.png" group-title="EUROPEAN ENTERTAINMENT",Eurochannel
 http://84.22.33.214/EuroChannel/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ujQVb6l.png" group-title="EUROPEAN ENTERTAINMENT",Das Erste International
