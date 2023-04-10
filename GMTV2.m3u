@@ -3690,9 +3690,6 @@ http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/playlist.m3u8?PlaylistM3
 #EXTINF:-1 tvg-logo="https://i.imgur.com/srtddlN.png" group-title="ARGENTINA",TV Publica
 https://delivery.cdn.rcs.net.ar/mnp/tvp/output.mpd
 
-#EXTINF:-1 tvg-id="52150" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/d/d1/Rtl-tvi-2023.svg/langfr-1920px-Rtl-tvi-2023.svg.png" group-title="BELGIUM",RTL TVI
-https://tvi-live-hls.akamaized.net/hls/live/2038650/TVI-Live-HLS/master.m3u8
-
 #EXTINF:-1 tvg-id="52132" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/VTM_2020.svg/1920px-VTM_2020.svg.png" group-title="BELGIUM",VTM
 https://dpp-live-events.medialaancdn.be/events/hls/aes/webstream1.m3u8
 
