@@ -1282,7 +1282,7 @@ https://live.duhnet.tv/S2/HLS_LIVE/cnnturknp/playlist.m3u8
 https://video-auth7.iol.pt/edge_servers/cnn-720p/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CNN.Brasil.HD.br" tvg-logo="https://i.imgur.com/zcaYBfX.png" group-title="BRASILIAN NEWS",CNN Brasil
-http://200.4.96.59:8041/play/a02d/index.m3u8
+http://45.58.126.146:14234/cnn.ts
 
 #EXTINF:-1 tvg-id="CNN Español" tvg-logo="https://i.imgur.com/jCXODcU.png" group-title="SPANISH NEWS",CNN en Español
 http://206.1.95.2:8004/play/a02f
