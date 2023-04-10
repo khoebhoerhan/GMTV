@@ -96,10 +96,10 @@ https://edge.medcom.id/live-edge/smil:mgnch.smil/chunklist_w192763708_b3884000_s
 #EXTINF:-1 tvg-id="TVRIWorld.id" tvg-logo="https://i.imgur.com/uNgeTUX.png" group-title="NATIONAL NEWS",TVRI World
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRI3)/index.m3u8
 
-#EXTINF:-1 tvg-id="CNNIndonesia" tvg-logo="https://i.imgur.com/aBk06sY.png" group-title="NATIONAL NEWS",CNN Indonesia HD
+#EXTINF:-1 tvg-id="CNNIndonesia" tvg-logo="https://i.imgur.com/aBk06sY.png" group-title="NATIONAL NEWS",CNN Indonesia
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w891045790_b384000_sleng.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qdJUDL8.png" group-title="NATIONAL NEWS",CNBC Indonesia
+#EXTINF:-1 tvg-id="CNBCIndonesia.id" tvg-logo="https://i.imgur.com/qdJUDL8.png" group-title="NATIONAL NEWS",CNBC Indonesia
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w1843433135_b384000_sleng.m3u8
 
 #EXTINF:-1 tvg-id="KompasTV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/7/7a/KOMPAS_TV_%282017%29.png/1197px-KOMPAS_TV_%282017%29.png" group-title="NATIONAL NEWS",Kompas TV
@@ -167,7 +167,7 @@ http://103.18.181.69:1935/golive/livestream10/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/42JzZAx.png" group-title="PARLIAMENTARY",TVR Parlemen-Komisi XI
 http://103.18.181.69:1935/golive/livestream11/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/b/b9/BaliTV_2014.png" group-title="LOKAL",Bali TV
+#EXTINF:-1 tvg-id="Bali.id" tvg-logo="https://upload.wikimedia.org/wikipedia/id/b/b9/BaliTV_2014.png" group-title="LOKAL",Bali TV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NGYwYjY2NTYtMDNkOS0zMDYyLTkzOTUtN2ZmYTlhZmM3NDQ1
 https://hw8871-live-cdn.mncnow.id/live/eds/BaliTV/sa_dash_vmx/BaliTV.mpd
@@ -175,7 +175,7 @@ https://hw8871-live-cdn.mncnow.id/live/eds/BaliTV/sa_dash_vmx/BaliTV.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vvyB9QG.png" group-title="LOKAL",Balikpapan TV
 http://122.248.43.138:1935/ch10/myStream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/Logo_bdg_tv_2016.png" group-title="LOKAL",Bandung TV
+#EXTINF:-1 tvg-id="BandungTV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/Logo_bdg_tv_2016.png" group-title="LOKAL",Bandung TV
 http://202.150.153.254:65500/bandungtvWEBSITE.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/u1nCcBb.png" group-title="LOKAL",Banjar TV
@@ -243,7 +243,7 @@ https://mam.jogjaprov.go.id:1937/tv/jitv/chunklist_w163357330.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/5/58/Jogjatv3d.png/1200px-Jogjatv3d.png" group-title="LOKAL",Jogja TV
 https://stream.jogjatv.co.id/jtvlive/stream/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/s0ODUf3.png" group-title="LOKAL",JTV
+#EXTINF:-1 tvg-id="JTV.id" tvg-logo="https://i.imgur.com/s0ODUf3.png" group-title="LOKAL",JTV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NGYwYjY2NTYtMDNkOS0zMDYyLTkzOTUtN2ZmYTlhZmM3NDQ1
 https://hw8871-live-cdn.mncnow.id/live/eds/JTV/sa_dash_vmx/JTV.mpd
@@ -329,7 +329,7 @@ http://103.30.1.14:8080/hls/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wHo2EvN.png" group-title="LOKAL",TVTPI
 http://103.30.246.47:1935/tvtpi/live/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/48/RRI_NET.png" group-title="VISUAL RADIO",RRI Net
+#EXTINF:-1 tvg-id="RRINET.id" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/48/RRI_NET.png" group-title="VISUAL RADIO",RRI Net
 https://cdnrrinet.rri.co.id/rrinet/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/s3HCVrO.png" group-title="KOMUNITAS",Garuda TV
@@ -820,7 +820,7 @@ https://hw8871-live-cdn.mncnow.id/live/eds/tvNMovies/sa_dash_vmx/tvNMovies.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NGYwYjY2NTYtMDNkOS0zMDYyLTkzOTUtN2ZmYTlhZmM3NDQ1
 https://hw8871-live-cdn.mncnow.id/live/eds/IndonesiaMovieChannels-HD/sa_dash_vmx/IndonesiaMovieChannels-HD.mpd
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/khhBdiS.png" group-title="NATIONAL MOVIES",Flik
+#EXTINF:-1 tvg-id="Flik.id" tvg-logo="https://i.imgur.com/khhBdiS.png" group-title="NATIONAL MOVIES",Flik
 http://103.226.232.170:9002/play/a00j/index.m3u8
 
 #EXTINF:-1 tvg-id="HitsMovies.sg" tvg-logo="https://i.imgur.com/Q9PQKk6.png" group-title="GENERAL MOVIES",Hits Movies
@@ -2030,7 +2030,7 @@ http://live4.tdm.com.mo/ch4/_definst_/sport_ch4.live/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
 https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-035/stream.mpd
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/iZ1rMGW.png" group-title="WORLD SPORTS",Motorvision TV
+#EXTINF:-1 tvg-id="MotorvisionTV.id" tvg-logo="https://i.imgur.com/iZ1rMGW.png" group-title="WORLD SPORTS",Motorvision TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=535
 
@@ -3107,7 +3107,7 @@ https://webudit.onlinewebtv.lol/lb/premium388/index.m3u8?|referer=https://widevi
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://webudit.onlinewebtv.lol/lb/premium642/index.m3u8?|referer=https://widevine.licenses4.me/
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/I7Lhgej.png" group-title="LATINO SPORTS",TyC Sports
+#EXTINF:-1 tvg-id="AR - TyC Sports" tvg-logo="https://i.imgur.com/I7Lhgej.png" group-title="LATINO SPORTS",TyC Sports
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://webudit.onlinewebtv.lol/lb/premium161/index.m3u8?|referer=https://widevine.licenses4.me/
 
@@ -3537,13 +3537,13 @@ https://aqfadtv.xyz/live/unifitv/degup/index.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rdLxnli.png" group-title="VISUAL RADIO",Buletin FM
 https://raw.githubusercontent.com/AqFad2811/RadioYTLive/main/BuletinFM.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wk5GZkZ.png" group-title="VISUAL RADIO",ERA FM
+#EXTINF:-1 tvg-id="ERAFM.my" tvg-logo="https://i.imgur.com/wk5GZkZ.png" group-title="VISUAL RADIO",ERA FM
 https://raw.githubusercontent.com/AqFad2811/RadioYTLive/main/ERA.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mMpqEvV.png" group-title="VISUAL RADIO",Fly FM
 https://raw.githubusercontent.com/AqFad2811/RadioYTLive/main/FlyFM.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bGvJ6py.png" group-title="VISUAL RADIO",Hitz FM
+#EXTINF:-1 tvg-id="HITZFM.my" tvg-logo="https://i.imgur.com/bGvJ6py.png" group-title="VISUAL RADIO",Hitz FM
 https://raw.githubusercontent.com/AqFad2811/RadioYTLive/main/Hitz.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/w9WCFqr.png" group-title="VISUAL RADIO",Hot FM
@@ -3580,7 +3580,7 @@ https://webudit.onlinewebtv.lol/lb/premium51/index.m3u8?|referer=https://widevin
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://webudit.onlinewebtv.lol/lb/premium52/index.m3u8?|referer=https://widevine.licenses4.me/
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Q6AoC5h.png" group-title="USA",Fox
+#EXTINF:-1 tvg-id="FOX.us" tvg-logo="https://i.imgur.com/Q6AoC5h.png" group-title="USA",Fox
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://webudit.onlinewebtv.lol/lb/premium54/index.m3u8?|referer=https://widevine.licenses4.me/
 
@@ -4483,7 +4483,7 @@ https://s2.radio.co/sa85100da7/listen
 https://playerservices.streamtheworld.com/api/livestream-redirect/BFMAAC.aac?dist=onlineradiobox
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rdLxnli.png" group-title="MALAY RADIO",Buletin FM
 https://mediaprima.rastream.com/mediaprima-koolfm
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wk5GZkZ.png" group-title="MALAY RADIO",ERA FM
+#EXTINF:-1 tvg-id="ERAFM.my" tvg-logo="https://i.imgur.com/wk5GZkZ.png" group-title="MALAY RADIO",ERA
 https://astro2.rastream.com/era
 #EXTINF:-1 tvg-logo="https://i.imgur.com/T3h0Zfq.png" group-title="MALAY RADIO",ERA Sabah
 http://astro2.rastream.com/amp-era-kk
@@ -4491,7 +4491,7 @@ http://astro2.rastream.com/amp-era-kk
 http://astro2.rastream.com/amp-era-kch
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mMpqEvV.png" group-title="MALAY RADIO",Fly FM
 https://mediaprima.rastream.com/mediaprima-flyfm
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bGvJ6py.png" group-title="MALAY RADIO",Hitz FM
+#EXTINF:-1 tvg-id="HITZFM.my" tvg-logo="https://i.imgur.com/bGvJ6py.png" group-title="MALAY RADIO",Hitz FM
 https://astro1.rastream.com/hitz?type=mp3
 #EXTINF:-1 tvg-logo="https://i.imgur.com/t9ARMsG.png" group-title="MALAY RADIO",Hitz Sabah
 https://astro1.rastream.com/amp-hitz-kk?type=mp3
@@ -4499,11 +4499,11 @@ https://astro1.rastream.com/amp-hitz-kk?type=mp3
 https://astro1.rastream.com/amp-hitz-kch?type=mp3
 #EXTINF:-1 tvg-logo="https://i.imgur.com/w9WCFqr.png" group-title="MALAY RADIO",Hot FM
 https://mediaprima.rastream.com/mediaprima-hotfm.android
-#EXTINF:-1 tvg-logo="https://i.imgur.com/xafUMn7.png" group-title="MALAY RADIO",Nasional FM
+#EXTINF:-1 tvg-id="NASFM.my" tvg-logo="https://i.imgur.com/xafUMn7.png" group-title="MALAY RADIO",Nasional FM
 https://nasionalfmmobile.secureswiftcontent.com/memorystreams/HLS/rtm-ch017/rtm-ch017-96000.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/p88EiHn.png" group-title="MALAY RADIO",Suria
 https://playerservices.streamtheworld.com/api/livestream-redirect/SURIA_FMAAC.aac
-#EXTINF:-1 tvg-logo="https://i.imgur.com/xsq1BVy.png" group-title="MALAY RADIO",TraXX FM
+#EXTINF:-1 tvg-id="TRAXXFM.my" tvg-logo="https://i.imgur.com/xsq1BVy.png" group-title="MALAY RADIO",TraXX FM
 https://traxxfmmobile.secureswiftcontent.com/memorystreams/HLS/rtm-ch019/rtm-ch019-96000.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VZRDlpY.png" group-title="RRI RADIO",Channel 5 RRI Surabaya
 http://streaming.rri.co.id:8941/web-chlima.mp3
