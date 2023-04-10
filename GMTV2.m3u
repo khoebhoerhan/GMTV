@@ -568,7 +568,7 @@ https://shls-m6-int-prod-dub.shahid.net/out/v1/a315ab77ee7343a7a17dbe7e32eee3ba/
 #EXTINF:-1 tvg-id="Arirang.id" tvg-logo="https://i.imgur.com/Yk19rUf.png" group-title="KOREAN ENTERTAINMENT",Arirang
 https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
 
-#EXTINF:-1 tvg-id="NHKWorldPremium.id" tvg-logo="https://nhkworldpremium.com/img/provider/logo.png" group-title="JAPANESE ENTERTAINMENT",NHK World Premium
+#EXTINF:-1 tvg-id="NHKWorldPremium" tvg-logo="https://nhkworldpremium.com/img/provider/logo.png" group-title="JAPANESE ENTERTAINMENT",NHK World Premium
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NGYwYjY2NTYtMDNkOS0zMDYyLTkzOTUtN2ZmYTlhZmM3NDQ1
 https://hw8871-live-cdn.mncnow.id/live/eds/NHKWorldPremium/sa_dash_vmx/NHKWorldPremium.mpd
