@@ -1,0 +1,13 @@
+#EXTINF:-1 group-title="3. SPORTS" tvg-logo="https://assets.laliga.com/assets/2021/07/26/xlarge/3fc92cb198e605c114ef33b27651d0ec.png",La Liga TV
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"VD3dJBcJiC2MuxYsLBG5ZA","kid":"0uFfw52QUqC/Xt8XSYeF6g"},{"kty":"oct","k":"BriRsZUyEcgoa7MSrQXp5Q","kid":"4siMHOx4VHWrawWhxNFaeA"},{"kty":"oct","k":"DQvy4ud5n/Jsi7grG+Z8ig","kid":"RDVDIBD0XdmWfc483hhmSw"}]}
+https://tvup-live.secure.footprint.net/laligatv/laligatv.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+
+#EXTINF:-1 group-title="3. SPORTS" tvg-logo="https://assets.laliga.com/assets/2021/07/26/xlarge/3fc92cb198e605c114ef33b27651d0ec.png",La Liga 1 TV
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"NPpZfURE3/D/Abp5NXYO4Q","kid":"7gMwIxvxXsSmUuXL+M+Psw"},{"kty":"oct","k":"GDl9zvli5osJ50WX16kpQA","kid":"w6NwcQK4VJa/8//iuNzsEg"},{"kty":"oct","k":"IGmiGuaZyiDb7KcoVlQGxw","kid":"y4nASIaPU3ardcuKNAa+Nw"}],"type":"temporary"}
+https://tvup-live.secure.footprint.net/laliga1/laliga1.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
