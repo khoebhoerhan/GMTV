@@ -1345,9 +1345,7 @@ https://247wlive.foxweather.com/stream/index.m3u8
 https://webudit.salamus1.lol/lb/premium394/index.m3u8?|referer=https://widevine.licenses4.me/
 
 #EXTINF:-1 tvg-id="CNN.id" tvg-logo="https://i.imgur.com/TMMvL8x.png" group-title="WORLD NEWS",CNN International
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
-https://nxanv-live-cdn.mncnow.id/live/eds/CNNInternational/sa_dash_vmx/CNNInternational.mpd
+https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CNN" tvg-logo="https://i.imgur.com/3Y7JO5d.png" group-title="AMERICAN NEWS",CNN USA
 https://tve-live-lln.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
