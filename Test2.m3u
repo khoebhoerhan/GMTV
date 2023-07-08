@@ -23,6 +23,11 @@ https://webudit.cdnhks.lol/lb/premium125/index.m3u8
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 https://webudit.cdnhks.lol/lb/premium126/index.m3u8
 
+#EXTINF:-1 tvg-id="815.astro" tvg-logo="https://i.imgur.com/xt5Ke81.png" group-title="MALAY SPORTS",Astro Supersport 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+https://webudit.cdnhks.lol/lb/premium43/index.m3u8
+
 #EXTINF:-1 tvg-id="SSC 1 4K" tvg-logo="https://i.imgur.com/rL02U5e.png" group-title="ARABIC SPORTS",SSC 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
@@ -63,7 +68,8 @@ https://webudit.cdnhks.lol/lb/premium620/index.m3u8
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 https://webudit.cdnhks.lol/lb/premium621/index.m3u8
 
-#EXTINF:-1 tvg-id="815.astro" tvg-logo="https://i.imgur.com/xt5Ke81.png" group-title="MALAY SPORTS",Astro Supersport 5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
-https://webudit.cdnhks.lol/lb/premium43/index.m3u8
+#EXTINF:-1 tvg-id="Indosiar.id" tvg-logo="https://i.imgur.com/wcSlRKw.png" group-title="NASIONAL",Indosiar
+http://edge.linknetott.swiftserve.com/channelgroup3/cg331production/ch8/index.m3u8
+
+#EXTINF:-1 tvg-id="MOJI" tvg-logo="https://i.imgur.com/dn8AJvK.png" group-title="NASIONAL",Moji
+http://103.152.118.53:80/streams/moji_2/index.m3u8
