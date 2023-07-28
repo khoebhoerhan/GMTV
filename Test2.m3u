@@ -114,6 +114,31 @@ https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-058/stream.mpd
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
 https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-059/stream.mpd
 
+#EXTINF:-1 tvg-id="eleven1.tv.vodafone.pt" tvg-logo="https://i.imgur.com/VreCNiH.png" group-title="PORTUGUESE SPORTS",Eleven 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+https://webudit.cdnhks.lol/lb/premium455/index.m3u8?
+
+#EXTINF:-1 tvg-id="eleven2.tv.vodafone.pt" tvg-logo="https://i.imgur.com/IaXbOr6.png" group-title="PORTUGUESE SPORTS",Eleven 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+https://webudit.cdnhks.lol/lb/premium456/index.m3u8
+
+#EXTINF:-1 tvg-id="eleven3.tv.vodafone.pt" tvg-logo="https://i.imgur.com/7qA5m7Z.png" group-title="PORTUGUESE SPORTS",Eleven 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+https://webudit.cdnhks.lol/lb/premium457/index.m3u8
+
+#EXTINF:-1 tvg-id="eleven4.tv.vodafone.pt" tvg-logo="https://i.imgur.com/wDOUOIo.png" group-title="PORTUGUESE SPORTS",Eleven 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+https://webudit.cdnhks.lol/lb/premium458/index.m3u8
+
+#EXTINF:-1 tvg-id="eleven5.tv.vodafone.pt" tvg-logo="https://i.imgur.com/lqVCsB1.png" group-title="PORTUGUESE SPORTS",Eleven 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+https://webudit.cdnhks.lol/lb/premium459/index.m3u8
+
 #EXTINF:-1 tvg-id="Indosiar.id" tvg-logo="https://i.imgur.com/wcSlRKw.png" group-title="NASIONAL",Indosiar
 http://edge.linknetott.swiftserve.com/channelgroup3/cg331production/ch8/index.m3u8
 
