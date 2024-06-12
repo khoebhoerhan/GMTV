@@ -62,3 +62,17 @@ https://snowden-l2gf.onrender.com/https://linear202-de-dash1-prd-ak.cdn12.skycdp
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=000bae90050eb69303c736aa44feec31:5cb4e747538e2e234b51b4ef9ab248a4
 https://snowden-l2gf.onrender.com/https://linear201-de-dash1-prd-ak.cdn12.skycdp.com/031121-50/index_stereo.mpd
+
+#EXTINF:-1 tvg-logo="" group-title="TEST",Globo RJ
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=fe1d448746445b0dad008ffc96659be1:2ea732e3e3c1e4c944973ce9ea924292
+https://0006-bbc.dtvott.com/dash_live_0094/manifest.mpd?da=1&country=BR&accountType=DTH
+
+#EXTINF:-1 tvg-logo="" group-title="TEST",Globo DF
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=db1f45f2c7eb3229a72fccd82b60a6f7:4e2070595da16f87e6e6459a26be34d6
+https://poc-sky0120.glbcdn.net/Content/Channel/live_0120/DASH/manifest.mpd?da=1&country=BR&accountType=DTH&deviceType=web
