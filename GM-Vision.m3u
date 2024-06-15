@@ -755,7 +755,8 @@ https://cempedak-live-cdn.mncnow.id/live/eds/HitsMovies/sa_dash_vmx/HitsMovies.m
 https://cempedak-live-cdn.mncnow.id/live/eds/CinemaWorld/sa_dash_vmx/CinemaWorld.mpd
  
 #EXTINF:-1 tvg-id="SONY PIX HD" tvg-logo="https://iili.io/Jmo9uJp.png" group-title="GENERAL MOVIES",Sony Pix
-https://dai.google.com/linear/hls/event/x7rXWd2ERZ2tvyQWPmO1HA/master.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://toxicify.pro/sliv/stream.php?id=sony-pix-hd&e=.m3u8
  
 #EXTINF:-1 tvgv-id="GALAXY.id" tvg-logo="https://iili.io/Jmo9aXn.png" group-title="GENERAL MOVIES",Galaxy
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alphastro supersporta
@@ -821,10 +822,12 @@ https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeeaction/default/index.m3u8
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeeanmolcinema/default/index.m3u8
  
 #EXTINF:-1 tvg-id="SONY MAX" tvg-logo="https://iili.io/JmoHMGa.png" group-title="HINDI MOVIES",Sony Max
-https://dai.google.com/linear/hls/event/UcjHNJmCQ1WRlGKlZm73QA/master.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://toxicify.pro/sliv/stream.php?id=sony-max-hd&e=.m3u8
  
 #EXTINF:-1 tvg-id="SONY MAX 2" tvg-logo="https://iili.io/JmoHGCg.png" group-title="HINDI MOVIES",Sony Max 2
-https://dai.google.com/linear/hls/event/MdQ5Zy-PSraOccXu8jflCg/master.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://toxicify.pro/sliv/stream.php?id=sony-max-2&e=.m3u8
  
 #EXTINF:-1 tvg-id="Be Mad" tvg-logo="https://iili.io/JmofPft.png" group-title="SPANISH MOVIES",Be Mad
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -936,7 +939,10 @@ https://raw.githubusercontent.com/mimipipi22/lalajo/main/mykidz.m3u8
 https://cempedak-live-cdn.mncnow.id/live/eds/My-Kids/sa_dash_vmx/My-Kids.mpd
  
 #EXTINF:-1 tvg-id="555.unifi" tvg-logo="https://iili.io/JmoBXF1.png" group-title="KIDS",Cartoonito
-https://raw.githubusercontent.com/mimipipi22/lalajo/main/cartoonito.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=955574ee2b674f0fbbad818fb384c233:51d2893619bdd062fb4c0cdaafefbf27
+https://atemeshield1-voe.sysln.id/live/eds/CartoonitoHD/mpd/CartoonitoHD.mpd
  
 #EXTINF:-1 tvg-id="615.astro" tvg-logo="https://iili.io/JmoBj8g.png" group-title="KIDS",Cartoon Network
 https://cdn08jtedge.indihometv.com/dassdvr/194/cartoonnetwork/manifest.mpd
@@ -2607,7 +2613,7 @@ https://ott.cyberhost.ro/sdash/LIVE$LookSport2HD/index.mpd/Manifest?start=LIVE&e
 https://m7rovideolive.solocoo.tv/blueskylivedash/blueprox/Manifest.mpd
  
 #EXTINF:-1 tvg-id="Bandsports.HD.br" tvg-logo="https://iili.io/Jmou322.png" group-title="BRASILIAN SPORTS",Band Sports
-http://185.150.190.225:16484
+https://cdn2.connectbr.com.br/Band-Sports/index.m3u8
  
 #EXTINF:-1 tvg-id="ESPN.br" tvg-logo="https://iili.io/JmoIfF2.png" group-title="BRASILIAN SPORTS",ESPN Brasil
 https://brflu.walk-tv.com/5912/tracks-v1a1/mono.m3u8
@@ -2711,7 +2717,7 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 #EXTINF:-1 tvg-id="Golf Channel USA" tvg-logo="https://iili.io/JmozPja.png" group-title="AMERICAN SPORTS",Golf Channel USA
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d5c9203447ab38c5bf5b407cdd9de5e8:501464dfa2ac437098c35e1c4f16bb6b
-https://cfrt.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(golf)/master.mpd
+https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL1-CTR-4s/Live/channel(golf)/master.mpd
  
 #EXTINF:-1 tvg-id="MLB Network" tvg-logo="https://iili.io/Jmoz6Tg.png" group-title="AMERICAN SPORTS",MLB Network
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
@@ -2745,19 +2751,28 @@ rtmp://220.130.201.73/sat/tv731
 rtmp://220.130.201.73/sat/tv741
  
 #EXTINF:-1 tvg-id="V sport 1 HD (N) (T)" tvg-logo="https://iili.io/JmoRSm7.png" group-title="NORDIC SPORTS",V Sport 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4d808f2b9a74536cadbd95be141888ed:9dd89f67b8885dc65721a8b1fbeae700
-https://live-aws-scalstrm-cdn.rikstv.no/live/rikstv/644bb6e91dbc891fd422efc9/manifest.mpd
+https://cors.iptvsystem.my.id/https://live-aws-scalstrm-cdn.rikstv.no/live/rikstv/644bb6e91dbc891fd422efc9/manifest.mpd
  
 #EXTINF:-1 tvg-id="V sport 2 HD (N) (T)" tvg-logo="https://iili.io/JmoRv72.png" group-title="NORDIC SPORTS",V Sport 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0d3ff38c34985fdd81a37567646322b9:6b4504297769acefae2e50920b7c8a77
-https://live-aws-scalstrm-cdn.rikstv.no/live/rikstv/644bb6e91dbc891fd422efef/manifest.mpd
+https://cors.iptvsystem.my.id/https://live-aws-scalstrm-cdn.rikstv.no/live/rikstv/644bb6e91dbc891fd422efef/manifest.mpd
  
 #EXTINF:-1 tvg-id="V sport 3 HD (N) (T)" tvg-logo="https://iili.io/JmoRkdl.png" group-title="NORDIC SPORTS",V Sport 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=fdcb8ee4623458e5832a92801fc723b1:634a67c44b7b7030872043df95c1a55e
-https://live-aws-scalstrm-cdn.rikstv.no/live/rikstv/644bb6ea1dbc891fd422f01e/manifest.mpd
+https://cors.iptvsystem.my.id/https://live-aws-scalstrm-cdn.rikstv.no/live/rikstv/644bb6ea1dbc891fd422f01e/manifest.mpd
  
 #EXTINF:-1 tvg-id="BeIN Alkass 1 HD" tvg-logo="https://iili.io/JhkLg0Q.png" group-title="ARABIC SPORTS",Alkass One
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
@@ -2974,7 +2989,10 @@ https://mn-nl.mncdn.com/blutv_eurosport2/eurosport2_hd.smil/index.m3u8
 https://trtspordvr.blutv.com/blutv_trtspor_dvr/live.m3u8
  
 #EXTINF:-1 tvg-id="820.astro" tvg-logo="https://iili.io/JmozxBR.png" group-title="ASIAN SPORTS",Eurosport Asia
-https://raw.githubusercontent.com/mimipipi22/lalajo/main/eurosport.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=47c03f29f04747d2a298c0ad63f3b2c1:8b48b2cb2743b91d5f20cf2622067f3a
+https://atemecdnbalancer-voe.sysln.id/live/eds/EUROSPORTHD/mpd/EUROSPORTHD.mpd
  
 #EXTINF:-1 tvg-id="823.astro" tvg-logo="https://iili.io/Jmozu2I.png" group-title="ASIAN SPORTS",Premier Sports Asia
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/premiersport.m3u8
@@ -3410,10 +3428,12 @@ https://tvvvideolive3.solocoo.tv/blueskytvvlive7dash/bluertlclubhd/Manifest.mpd
 https://dpp-live-events.medialaancdn.be/events/hls/aes/webstream1.m3u8
  
 #EXTINF:-1 tvg-id="SET HD" tvg-logo="https://iili.io/Jmo4MKX.png" group-title="INDIA",SET
-https://dai.google.com/linear/hls/event/dBdwOiGaQvy0TA1zOsjV6w/master.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://toxicify.pro/sliv/stream.php?id=sony-hd&e=.m3u8
  
 #EXTINF:-1 tvg-id="SONY SAB HD" tvg-logo="https://iili.io/Jmo4EPt.png" group-title="INDIA",Sony Sab
-https://dai.google.com/linear/hls/event/CrTivkDESWqwvUj3zFEYEA/master.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://toxicify.pro/sliv/stream.php?id=sony-sab-hd&e=.m3u8
  
 #EXTINF:-1 tvg-id="Zee TV HD" tvg-logo="https://iili.io/Jmo41VI.png" group-title="INDIA",Zee TV
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeetv/default/index.m3u8
