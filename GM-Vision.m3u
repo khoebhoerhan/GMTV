@@ -1826,55 +1826,6 @@ https://linear033-ie-dash1-prd-ak.cdn.skycdp.com/016a/Content/DASH_003_720_120/L
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
 https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-045/stream.mpd
  
-#EXTINF:-1 tvg-id="TSN1 HD" tvg-logo="https://iili.io/Jhkb4NS.png" group-title="CANADIAN SPORTS",TSN 1
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=dea83ced0141424e983e1afe463b4b0d:c00dd5dd17b0799aa4013f365a1393ce
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://live-ctv.video.9c9media.com/f/TSN/TSN1/manifest.mpd
- 
-#EXTINF:-1 tvg-id="TSN2 HD" tvg-logo="https://iili.io/JhkbsVe.png" group-title="CANADIAN SPORTS",TSN 2
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=ddc52c88e2c24d38a5bc8dda8a2acb61:ad5ea485464a13eec7dda3249c556446
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://live-ctv.video.9c9media.com/f/TSN/TSN2/manifest.mpd
- 
-#EXTINF:-1 tvg-id="TSN3 HD" tvg-logo="https://iili.io/Jhkbix9.png" group-title="CANADIAN SPORTS",TSN 3
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=c0f378ad54e14a9c85a3d8c986d2a51f:5e1d040743ff78715e464ffb905e68a9
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://live-ctv.video.9c9media.com/f/TSN/TSN3/manifest.mpd
- 
-#EXTINF:-1 tvg-id="TSN4 HD" tvg-logo="https://iili.io/Jhkb6D7.png" group-title="CANADIAN SPORTS",TSN 4
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=f0a2efd11e0643c3a45d6f67d02f1a97:85bf4469003bd28f01ea4fefedd5a431
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://live-ctv.video.9c9media.com/f/TSN/TSN4/manifest.mpd
- 
-#EXTINF:-1 tvg-id="TSN5 HD" tvg-logo="https://iili.io/JhkbLiu.png" group-title="CANADIAN SPORTS",TSN 5
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=cb57741a1cee422690c6294a06eb1320:7a0cfd493df6ef7cc0d0bb3ad95cec8c
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://live-ctv.video.9c9media.com/f/TSN/TSN5/manifest.mpd
-
-#EXTINF:-1 tvg-id="Sportsnet One HD.ca" tvg-logo="https://iili.io/d9lhuUP.png" group-title="CANADIAN SPORTS",Sportsnet One
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f9dd2ed9609f49309ddf07892d25b081:c1254109aaff73701fbea97dc1899b8e
-https://live-streaming-rsm.akamaized.net/sn1hd/sn1hd_cenc.isml/.mpd
-
-#EXTINF:-1 tvg-logo="https://iili.io/d9lhT0B.png" group-title="CANADIAN SPORTS",Sportsnet World
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=44f6a1e5467d4df7a9da2d1b96ee62ca:157d3d7156dd1b288d661d453dbfc682
-https://live-streaming-rsm.azureedge.net/snwlh/snwlh_cenc.isml/.mpd
- 
 #EXTINF:-1 tvg-id="ELEVEN SPORTS 1.pt" tvg-logo="https://iili.io/JXBspKQ.png" group-title="PORTUGUESE SPORTS",Eleven 1 Portugal
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -2218,6 +2169,70 @@ http://linear304-it-dash1-prd-akg0.cdn13.skycdp.com/32559/FHD/skysporttennis/mas
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=00362452ed102000ccea64c311921dc2:02f27bd6caab7633d3083b94d3958b1c
 https://linear301-it-dash1-prd.selector.skycdn.it/016a/31023/FHD/skysportuno/master_stereo.mpd
+
+#EXTINF:-1 tvg-logo="https://iili.io/dH9SdOX.png" group-title="ITALIAN SPORTS",Sky Sport 251
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=00368000eaecbeeafd84c05b3b8243af:8f84185910e18ae0ca8a45004625a000
+https://linear304-it-dash1-prd-akg0.cdn13.skycdp.com/31917/FHD/skysport251/master.mpd
+
+#EXTINF:-1 tvg-logo="https://iili.io/dH9SJRt.png" group-title="ITALIAN SPORTS",Sky Sport 252
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0036c4797608fc64296d437bc6f8b790:1689af84b23f514005f9bb854da7667f
+https://linear304-it-dash1-prd-akg0.cdn13.skycdp.com/32951/FHD/skysport252/master.mpd
+
+#EXTINF:-1 tvg-logo="https://iili.io/dH9SHJI.png" group-title="ITALIAN SPORTS",Sky Sport 253
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=00365b169a077daac5081277c3fd0c28:f68ab32a552e13509a8ee1c4d96204bc
+https://linear304-it-dash1-prd-akg0.cdn13.skycdp.com/32233/FHD/skysport253/master.mpd
+
+#EXTINF:-1 tvg-logo="https://iili.io/dH98yUN.png" group-title="ITALIAN SPORTS",Sky Sport 254
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=00369c14c20b78aadb1ec0e3c0e74979:e768767e2c7238d8069887bb36aed7fa
+https://linear304-it-dash1-prd-akg0.cdn13.skycdp.com/31234/FHD/skysport254/master.mpd
+
+#EXTINF:-1 tvg-logo="https://iili.io/dH9S2bn.png" group-title="ITALIAN SPORTS",Sky Sport 255
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0036b781a22ebb0c20c16ac27d5d1448:f309b94acfda720bf1ed5741489f8967
+https://linear304-it-dash1-prd-akg0.cdn13.skycdp.com/32910/FHD/skysport255/master.mpd
+
+#EXTINF:-1 tvg-logo="https://iili.io/dH9SFxs.png" group-title="ITALIAN SPORTS",Sky Sport 256
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=00366f263859fc1cc82d2c4da6a66ef6:754ae922d113c54349002cd9a88694a4
+https://linear304-it-dash1-prd-akg0.cdn13.skycdp.com/31912/FHD/skysport256/master.mpd
+
+#EXTINF:-1 tvg-logo="https://iili.io/dH9SKWG.png" group-title="ITALIAN SPORTS",Sky Sport 257
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0036faeace9872d3ceeb8b1b63f0baa3:dbd41ee944243307d39b7b27f16615a8
+https://linear304-it-dash1-prd-akg0.cdn13.skycdp.com/31775/FHD/skysport257/master.mpd
+
+
+#EXTINF:-1 tvg-logo="https://iili.io/dH9Sfsf.png" group-title="ITALIAN SPORTS",Sky Sport 258
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0036fd8ccfddba47c8b40aeff63a797c:dfd5c9d0f4ac6f3a1bd89803399e7026
+https://linear304-it-dash1-prd-akg0.cdn13.skycdp.com/32772/skysport258/master.mpd
+
+#EXTINF:-1 tvg-logo="https://iili.io/dH9SBf4.png" group-title="ITALIAN SPORTS",Sky Sport 259
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0036644f7699f43e401f88d920dc385c:e5b0cebdc3edd7996d283041535fce9c
+https://linear311-it-dash1-prd.selector.skycdn.it/31613/skysport259/master.mpd
  
 #EXTINF:-1 tvg-id="SuperTennis HD.it" tvg-logo="https://iili.io/Jmo85fs.png" group-title="ITALIAN SPORTS",Super Tennis
 https://live-embed.supertennix.hiway.media/restreamer/supertennix_client/gpu-a-c0-16/restreamer/rtmp/hls/h24_supertennix/manifest.m3u8
@@ -2300,56 +2315,6 @@ https://ott.zapitv.com/live/eds_c2/eurosport_2_hd/dash_live_enc/eurosport_2_hd.m
 #KODIPROP:inputstream.adaptive.license_key=1937b8f0dc833e0a8f457240972e440d:8cbb79a6410cc0d0d80d148f282afd95
 https://ott.zapitv.com/live/eds_c2/teledeporte_hd/dash_live_enc/teledeporte_hd.mpd
  
-#EXTINF:-1 tvg-id="beIN SPORTS 1.fr" tvg-logo="https://iili.io/JhkLZXa.png" group-title="FRENCH SPORTS",beIN Sports 1 France
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"LGPDhBuQwsvxFZadz3ERxQ","k":"tx3xGfme5xJ+d6U5jSWAHg"},{"kty":"oct","kid":"8e9ytdWdsgMkNR57W9BNgA","k":"gEY5W13F1WWxaRuoe8SXuQ"},{"kty":"oct","kid":"AxzO7igq5WxWuYReDwM+0A","k":"im9fSEhkxYE2mYwDEyD09g"},{"kty":"oct","kid":"xtJWXPWGhrVJSEucDWPTuA","k":"f048YK7p2qX2K4K98YEL0w"},{"kty":"oct","kid":"I9ioEUXoLWH18zkkEigFOQ","k":"Wb/7P1V/7GUD/m92poiBog"}]}
-https://api-proxad.dc2.oqee.net/playlist/v1/live/966/1/live.mpd
- 
-#EXTINF:-1 tvg-id="beIN SPORTS 2.fr" tvg-logo="https://iili.io/JhkQ9dN.png" group-title="FRENCH SPORTS",beIN Sports 2 France
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"Ssudj4RaMVolmhKGe2eS5A","k":"nJgaml/4+5gUnWAhuWI6sw"},{"kty":"oct","kid":"LrsNNZsjhyVs0gxUevMq9w","k":"+udRObNMfJuPnNQHHYDBng"},{"kty":"oct","kid":"bfof/0SBOSIGmniwlD7LaQ","k":"CKf8e0d4lgszyA4m00E9mw"},{"kty":"oct","kid":"vm0egZi/k1JwslM9Vr0c/Q","k":"uIP7+bZSuYxTDGS8mofBUg"},{"kty":"oct","kid":"Y8BEn3INpLfVF59DcHbq3w","k":"5hFONrHRo5ADHlgtCz86Nw"}]}
-https://api-proxad.dc2.oqee.net/playlist/v1/live/970/1/live.mpd
- 
-#EXTINF:-1 tvg-id="beIN SPORTS 3.fr" tvg-logo="https://iili.io/JhkQCrl.png" group-title="FRENCH SPORTS",beIN Sports 3 France
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"RTG5PkirnqApehdsUVz/FA","k":"RzwijxpXn85ucQ4ksi5GHw"},{"kty":"oct","kid":"N6KHTpHu3LqVXO6t5VlOpg","k":"Kn/usPRxe92BL6qdqogBLQ"},{"kty":"oct","kid":"krqSlZmIs9zGg8hs5UDjog","k":"pLqHlWcUanlM4qKLkCFwqA"},{"kty":"oct","kid":"sNpgK32OTeaae8OySz1wvA","k":"twT3SwOwvmqRa2cKXaXu+Q"},{"kty":"oct","kid":"qs4I+CsohuJ34Ss1ZcfHRQ","k":"5KwVUJUn1fOxGxfQM1T/sA"}]}
-https://api-proxad.dc2.oqee.net/playlist/v1/live/971/1/live.mpd
- 
-#EXTINF:-1 tvg-id="beIN SPORTS MAX 4.fr" tvg-logo="https://iili.io/JmoxkJt.png" group-title="FRENCH SPORTS",beIN Sports Max 4 France
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"m8E22NbIYLYuCtrAA+TT2Q","k":"rlyanlBKT+JzdgyA5/4erg"},{"kty":"oct","kid":"Aq2Nj/2AtQVneW5pS3opJw","k":"B86CeVN+0m/oMbU0OqVZaQ"},{"kty":"oct","kid":"0RQPC4dyMpf8Gjgg2YlTfw","k":"N8eLX7vZcha0gT4TWrLB6g"},{"kty":"oct","kid":"ttC2IXxwsPcFACoHB3GwhA","k":"dGwC0eaIT+LkQRYkugVVKA"}]}
-https://api-proxad.dc2.oqee.net/playlist/v1/live/972/1/live.mpd
- 
-#EXTINF:-1 tvg-id="beIN SPORTS MAX 5.fr" tvg-logo="https://iili.io/Jmoxv5X.png" group-title="FRENCH SPORTS",beIN Sports Max 5 France
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"sEeP0mQk6I+h5keO411/CA","k":"9QRCQtjSJMrkCH/Y72VAIw"},{"kty":"oct","kid":"InUSnyhWdxReNOuL4kmuSg","k":"dQVcYFHWUMUpYnseYm9TCg"},{"kty":"oct","kid":"LrcsuNUlcZzdo+H1zEOzQg","k":"4Hl+IoZXVIcgUgFd2ikF9w"},{"kty":"oct","kid":"CtLb067+IHA08kBQ68mM0Q","k":"CxIf52nQsbRaOmu4xA40BQ"}]}
-https://api-proxad.dc2.oqee.net/playlist/v1/live/973/1/live.mpd
- 
-#EXTINF:-1 tvg-id="beIN SPORTS MAX 6.fr" tvg-logo="https://iili.io/Jmox8en.png" group-title="FRENCH SPORTS",beIN Sports Max 6 France
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"yYYxNFFJQ2w3eMrqtX2XxQ","k":"YSVZDrmgy4yaF90mgAACkg"},{"kty":"oct","kid":"n4mcpBLhgHdviFwMIUsCoA","k":"PzV909+vkmI5A8qRuIsF9A"},{"kty":"oct","kid":"A+5m6Sb2o0oYFfEXvBJ5nA","k":"HciVpD4gfwK9L85i3l+9Og"},{"kty":"oct","kid":"JXGAsG/5y826q8GuN2UPng","k":"oAdo0BvILC3X4hHFmt3Jpg"}]}
-https://api-proxad.dc2.oqee.net/playlist/v1/live/974/1/live.mpd
- 
-#EXTINF:-1 tvg-id="beIN SPORTS MAX 7.fr" tvg-logo="https://iili.io/JmoxOgI.png" group-title="FRENCH SPORTS",beIN Sports Max 7 France
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"P6u/hBdnpkWtLYXB4JnpTQ","k":"veY1qjAoqrONaAZy+IoMfA"},{"kty":"oct","kid":"xMZPFBSVjN4H/kDNhfIjjA","k":"ziiHuEO3WQpe4IOk2PZnwg"},{"kty":"oct","kid":"beH6tI2CWzmmN0bYnpCoSA","k":"JDWhEQ6JK32pTnmnvUm0nA"},{"kty":"oct","kid":"M3NIiSyqu7FHY1SMyxpqxw","k":"dEXBfW2jOmTqgjikM/nL4w"}]}
-https://api-proxad.dc2.oqee.net/playlist/v1/live/975/1/live.mpd
- 
-#EXTINF:-1 tvg-id="beIN SPORTS MAX 8.fr" tvg-logo="https://iili.io/JmoxN0N.png" group-title="FRENCH SPORTS",beIN Sports Max 8 France
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"nyyYAGozu8g/fAPvNTBAOw","k":"VGsdNLG+ERxRPTj+yuqZ5A"},{"kty":"oct","kid":"60lJeWg5sIkYvE68Jazrpg","k":"m1On/Af6kFGqz4vGk7GHsA"},{"kty":"oct","kid":"0FJZFObD5r5v6F3NuKO+Lw","k":"2hyWuQPAwlLxsdgvJRfAfg"},{"kty":"oct","kid":"Swndelr/YBIS89SYMJ5GfA","k":"ftV9Nqhbuoi3N2k6s2gzDg"}]}
-https://api-proxad.dc2.oqee.net/playlist/v1/live/976/1/live.mpd
- 
-#EXTINF:-1 tvg-id="beIN SPORTS MAX 9.fr" tvg-logo="https://iili.io/JmoxhsR.png" group-title="FRENCH SPORTS",beIN Sports Max 9 France
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"RSbM19SZsLJAEc5a3OGGVg","k":"PS7YDPH1qaS5p2IbnmxOKg"},{"kty":"oct","kid":"4gBtijMCXNeUOl8CABeB7A","k":"Ncey7Cfys3SScHqLTNNxVA"},{"kty":"oct","kid":"GjGJTwxBoP4MUIeE0NFWmw","k":"EhFkMR97MIo35VBLcXrj1Q"},{"kty":"oct","kid":"qNXw4AIU43d9dbibBdr2TQ","k":"8DceiPbCv3hE1p2bngpSrw"}]}
-https://api-proxad.dc2.oqee.net/playlist/v1/live/977/1/live.mpd
- 
-#EXTINF:-1 tvg-id="beIN SPORTS MAX 10.fr" tvg-logo="https://iili.io/Jmoxwfp.png" group-title="FRENCH SPORTS",beIN Sports Max 10 France
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"yh0KU6YG+P/rAo9rJHe6ow","k":"OIphdZ3jYt/K3vchuTbWmg"},{"kty":"oct","kid":"Fdq88eq8hxeEL+tl9xUhBw","k":"c4D2F5XK6+wmsHE7zipOPQ"},{"kty":"oct","kid":"+cKiW7q8jTgE30ZBgGnvBw","k":"J8pFeiu5dRpcHrFYR0NGoA"},{"kty":"oct","kid":"xBuLKVwIMH3cHjoi6pEncg","k":"2SX+aD7ZHlg3qqTlFHrYhQ"}]}
-https://api-proxad.dc2.oqee.net/playlist/v1/live/978/1/live.mpd
- 
 #EXTINF:-1 tvg-id="SONY SPORTS TEN 1 HD" tvg-logo="https://iili.io/JbnBO3N.png" group-title="INDIAN SPORTS",Sony Ten 1
 https://colorsscreen.com/sliv/stream.php?id=sony-ten-1-hd&=.m3u8|Referer=https://colorsscreen.com/sliv/
  
@@ -2419,9 +2384,6 @@ https://mpd-v1.bigcric.site/api/246.mpd
 #KODIPROP:inputstream.adaptive.stream_headers=X-Forwarded-For=14.140.131.82
 https://mpd-v1.bigcric.site/api/463.mpd
  
-#EXTINF:-1 tvg-id="ts812" tvg-logo="https://iili.io/JmozxBR.png" group-title="INDIAN SPORTS",Eurosport India
-https://raw.githubusercontent.com/dbmtech/iptv/main/bin/EUROSPORTS%20HD.m3u8
- 
 #EXTINF:-1 tvg-id="DAZN Eleven Sports 1.be" tvg-logo="https://iili.io/JXBspKQ.png" group-title="BELGIAN SPORTS",Eleven 1 Dutch
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -2482,6 +2444,56 @@ https://dcj-ac-live.cdn.indazn.com/dash/dazn-linear-052/stream.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=cfb5e2b73bef4f3c878f25ab86a7451f:0d6712bf2a84edcc93d001a9613f6fec
 https://dcj-ac-live.cdn.indazn.com/dash/dazn-linear-053/stream.mpd
+
+#EXTINF:-1 tvg-id="beIN SPORTS 1.fr" tvg-logo="https://iili.io/JhkLZXa.png" group-title="FRENCH SPORTS",beIN Sports 1 France
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"LGPDhBuQwsvxFZadz3ERxQ","k":"tx3xGfme5xJ+d6U5jSWAHg"},{"kty":"oct","kid":"8e9ytdWdsgMkNR57W9BNgA","k":"gEY5W13F1WWxaRuoe8SXuQ"},{"kty":"oct","kid":"AxzO7igq5WxWuYReDwM+0A","k":"im9fSEhkxYE2mYwDEyD09g"},{"kty":"oct","kid":"xtJWXPWGhrVJSEucDWPTuA","k":"f048YK7p2qX2K4K98YEL0w"},{"kty":"oct","kid":"I9ioEUXoLWH18zkkEigFOQ","k":"Wb/7P1V/7GUD/m92poiBog"}]}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/966/1/live.mpd
+ 
+#EXTINF:-1 tvg-id="beIN SPORTS 2.fr" tvg-logo="https://iili.io/JhkQ9dN.png" group-title="FRENCH SPORTS",beIN Sports 2 France
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"Ssudj4RaMVolmhKGe2eS5A","k":"nJgaml/4+5gUnWAhuWI6sw"},{"kty":"oct","kid":"LrsNNZsjhyVs0gxUevMq9w","k":"+udRObNMfJuPnNQHHYDBng"},{"kty":"oct","kid":"bfof/0SBOSIGmniwlD7LaQ","k":"CKf8e0d4lgszyA4m00E9mw"},{"kty":"oct","kid":"vm0egZi/k1JwslM9Vr0c/Q","k":"uIP7+bZSuYxTDGS8mofBUg"},{"kty":"oct","kid":"Y8BEn3INpLfVF59DcHbq3w","k":"5hFONrHRo5ADHlgtCz86Nw"}]}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/970/1/live.mpd
+ 
+#EXTINF:-1 tvg-id="beIN SPORTS 3.fr" tvg-logo="https://iili.io/JhkQCrl.png" group-title="FRENCH SPORTS",beIN Sports 3 France
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"RTG5PkirnqApehdsUVz/FA","k":"RzwijxpXn85ucQ4ksi5GHw"},{"kty":"oct","kid":"N6KHTpHu3LqVXO6t5VlOpg","k":"Kn/usPRxe92BL6qdqogBLQ"},{"kty":"oct","kid":"krqSlZmIs9zGg8hs5UDjog","k":"pLqHlWcUanlM4qKLkCFwqA"},{"kty":"oct","kid":"sNpgK32OTeaae8OySz1wvA","k":"twT3SwOwvmqRa2cKXaXu+Q"},{"kty":"oct","kid":"qs4I+CsohuJ34Ss1ZcfHRQ","k":"5KwVUJUn1fOxGxfQM1T/sA"}]}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/971/1/live.mpd
+ 
+#EXTINF:-1 tvg-id="beIN SPORTS MAX 4.fr" tvg-logo="https://iili.io/JmoxkJt.png" group-title="FRENCH SPORTS",beIN Sports Max 4 France
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"m8E22NbIYLYuCtrAA+TT2Q","k":"rlyanlBKT+JzdgyA5/4erg"},{"kty":"oct","kid":"Aq2Nj/2AtQVneW5pS3opJw","k":"B86CeVN+0m/oMbU0OqVZaQ"},{"kty":"oct","kid":"0RQPC4dyMpf8Gjgg2YlTfw","k":"N8eLX7vZcha0gT4TWrLB6g"},{"kty":"oct","kid":"ttC2IXxwsPcFACoHB3GwhA","k":"dGwC0eaIT+LkQRYkugVVKA"}]}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/972/1/live.mpd
+ 
+#EXTINF:-1 tvg-id="beIN SPORTS MAX 5.fr" tvg-logo="https://iili.io/Jmoxv5X.png" group-title="FRENCH SPORTS",beIN Sports Max 5 France
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"sEeP0mQk6I+h5keO411/CA","k":"9QRCQtjSJMrkCH/Y72VAIw"},{"kty":"oct","kid":"InUSnyhWdxReNOuL4kmuSg","k":"dQVcYFHWUMUpYnseYm9TCg"},{"kty":"oct","kid":"LrcsuNUlcZzdo+H1zEOzQg","k":"4Hl+IoZXVIcgUgFd2ikF9w"},{"kty":"oct","kid":"CtLb067+IHA08kBQ68mM0Q","k":"CxIf52nQsbRaOmu4xA40BQ"}]}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/973/1/live.mpd
+ 
+#EXTINF:-1 tvg-id="beIN SPORTS MAX 6.fr" tvg-logo="https://iili.io/Jmox8en.png" group-title="FRENCH SPORTS",beIN Sports Max 6 France
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"yYYxNFFJQ2w3eMrqtX2XxQ","k":"YSVZDrmgy4yaF90mgAACkg"},{"kty":"oct","kid":"n4mcpBLhgHdviFwMIUsCoA","k":"PzV909+vkmI5A8qRuIsF9A"},{"kty":"oct","kid":"A+5m6Sb2o0oYFfEXvBJ5nA","k":"HciVpD4gfwK9L85i3l+9Og"},{"kty":"oct","kid":"JXGAsG/5y826q8GuN2UPng","k":"oAdo0BvILC3X4hHFmt3Jpg"}]}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/974/1/live.mpd
+ 
+#EXTINF:-1 tvg-id="beIN SPORTS MAX 7.fr" tvg-logo="https://iili.io/JmoxOgI.png" group-title="FRENCH SPORTS",beIN Sports Max 7 France
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"P6u/hBdnpkWtLYXB4JnpTQ","k":"veY1qjAoqrONaAZy+IoMfA"},{"kty":"oct","kid":"xMZPFBSVjN4H/kDNhfIjjA","k":"ziiHuEO3WQpe4IOk2PZnwg"},{"kty":"oct","kid":"beH6tI2CWzmmN0bYnpCoSA","k":"JDWhEQ6JK32pTnmnvUm0nA"},{"kty":"oct","kid":"M3NIiSyqu7FHY1SMyxpqxw","k":"dEXBfW2jOmTqgjikM/nL4w"}]}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/975/1/live.mpd
+ 
+#EXTINF:-1 tvg-id="beIN SPORTS MAX 8.fr" tvg-logo="https://iili.io/JmoxN0N.png" group-title="FRENCH SPORTS",beIN Sports Max 8 France
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"nyyYAGozu8g/fAPvNTBAOw","k":"VGsdNLG+ERxRPTj+yuqZ5A"},{"kty":"oct","kid":"60lJeWg5sIkYvE68Jazrpg","k":"m1On/Af6kFGqz4vGk7GHsA"},{"kty":"oct","kid":"0FJZFObD5r5v6F3NuKO+Lw","k":"2hyWuQPAwlLxsdgvJRfAfg"},{"kty":"oct","kid":"Swndelr/YBIS89SYMJ5GfA","k":"ftV9Nqhbuoi3N2k6s2gzDg"}]}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/976/1/live.mpd
+ 
+#EXTINF:-1 tvg-id="beIN SPORTS MAX 9.fr" tvg-logo="https://iili.io/JmoxhsR.png" group-title="FRENCH SPORTS",beIN Sports Max 9 France
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"RSbM19SZsLJAEc5a3OGGVg","k":"PS7YDPH1qaS5p2IbnmxOKg"},{"kty":"oct","kid":"4gBtijMCXNeUOl8CABeB7A","k":"Ncey7Cfys3SScHqLTNNxVA"},{"kty":"oct","kid":"GjGJTwxBoP4MUIeE0NFWmw","k":"EhFkMR97MIo35VBLcXrj1Q"},{"kty":"oct","kid":"qNXw4AIU43d9dbibBdr2TQ","k":"8DceiPbCv3hE1p2bngpSrw"}]}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/977/1/live.mpd
+ 
+#EXTINF:-1 tvg-id="beIN SPORTS MAX 10.fr" tvg-logo="https://iili.io/Jmoxwfp.png" group-title="FRENCH SPORTS",beIN Sports Max 10 France
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"yh0KU6YG+P/rAo9rJHe6ow","k":"OIphdZ3jYt/K3vchuTbWmg"},{"kty":"oct","kid":"Fdq88eq8hxeEL+tl9xUhBw","k":"c4D2F5XK6+wmsHE7zipOPQ"},{"kty":"oct","kid":"+cKiW7q8jTgE30ZBgGnvBw","k":"J8pFeiu5dRpcHrFYR0NGoA"},{"kty":"oct","kid":"xBuLKVwIMH3cHjoi6pEncg","k":"2SX+aD7ZHlg3qqTlFHrYhQ"}]}
+https://api-proxad.dc2.oqee.net/playlist/v1/live/978/1/live.mpd
  
 #EXTINF:-1 tvg-id="ESPN 1.nl" tvg-logo="https://iili.io/JmoIfF2.png" group-title="DUTCH SPORTS",ESPN Nederland
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -2808,6 +2820,55 @@ https://live-streaming-rsm.azureedge.net/wwehd/wwehd_cenc.isml/.mpd
  
 #EXTINF:-1 tvg-logo="https://iili.io/JmoI3G4.png" group-title="AMERICAN SPORTS",CBS Sports Golazo Network
 https://dai.google.com/linear/hls/event/GxrCGmwST0ixsrc_QgB6qw/master.m3u8
+
+#EXTINF:-1 tvg-id="TSN1 HD" tvg-logo="https://iili.io/Jhkb4NS.png" group-title="CANADIAN SPORTS",TSN 1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=dea83ced0141424e983e1afe463b4b0d:c00dd5dd17b0799aa4013f365a1393ce
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://live-ctv.video.9c9media.com/f/TSN/TSN1/manifest.mpd
+ 
+#EXTINF:-1 tvg-id="TSN2 HD" tvg-logo="https://iili.io/JhkbsVe.png" group-title="CANADIAN SPORTS",TSN 2
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=ddc52c88e2c24d38a5bc8dda8a2acb61:ad5ea485464a13eec7dda3249c556446
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://live-ctv.video.9c9media.com/f/TSN/TSN2/manifest.mpd
+ 
+#EXTINF:-1 tvg-id="TSN3 HD" tvg-logo="https://iili.io/Jhkbix9.png" group-title="CANADIAN SPORTS",TSN 3
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=c0f378ad54e14a9c85a3d8c986d2a51f:5e1d040743ff78715e464ffb905e68a9
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://live-ctv.video.9c9media.com/f/TSN/TSN3/manifest.mpd
+ 
+#EXTINF:-1 tvg-id="TSN4 HD" tvg-logo="https://iili.io/Jhkb6D7.png" group-title="CANADIAN SPORTS",TSN 4
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=f0a2efd11e0643c3a45d6f67d02f1a97:85bf4469003bd28f01ea4fefedd5a431
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://live-ctv.video.9c9media.com/f/TSN/TSN4/manifest.mpd
+ 
+#EXTINF:-1 tvg-id="TSN5 HD" tvg-logo="https://iili.io/JhkbLiu.png" group-title="CANADIAN SPORTS",TSN 5
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=cb57741a1cee422690c6294a06eb1320:7a0cfd493df6ef7cc0d0bb3ad95cec8c
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://live-ctv.video.9c9media.com/f/TSN/TSN5/manifest.mpd
+
+#EXTINF:-1 tvg-id="Sportsnet One HD.ca" tvg-logo="https://iili.io/d9lhuUP.png" group-title="CANADIAN SPORTS",Sportsnet One
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f9dd2ed9609f49309ddf07892d25b081:c1254109aaff73701fbea97dc1899b8e
+https://live-streaming-rsm.akamaized.net/sn1hd/sn1hd_cenc.isml/.mpd
+
+#EXTINF:-1 tvg-logo="https://iili.io/d9lhT0B.png" group-title="CANADIAN SPORTS",Sportsnet World
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=44f6a1e5467d4df7a9da2d1b96ee62ca:157d3d7156dd1b288d661d453dbfc682
+https://live-streaming-rsm.azureedge.net/snwlh/snwlh_cenc.isml/.mpd
  
 #EXTINF:-1 tvg-id="DAZN 1.tw" tvg-logo="https://iili.io/JhkZfu1.png" group-title="TAIWANESE SPORTS",DAZN 1 Taiwan
 rtmp://220.130.201.73/sat/tv731
