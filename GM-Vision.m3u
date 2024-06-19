@@ -407,7 +407,7 @@ https://cempedak-live-cdn.mncnow.id/live/eds/OKTV/sa_dash_vmx/OKTV.mpd
  
 #EXTINF:-1 tvg-id="UseePrime" tvg-logo="https://iili.io/JZIno1s.png" group-title="NATIONAL ENTERTAINMENT",AllPlay Ent
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
-https://cdn08jtedge.indihometv.com/dassdvr/133/useeprime/manifest.mpd
+https://streaming.indihometv.com/atm/DASH/useeprime/manifest.mpd
  
 #EXTINF:-1 tvg-id="Seru!" tvg-logo="https://iili.io/JZInnBn.png" group-title="NATIONAL ENTERTAINMENT",Seru Channel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
@@ -3244,6 +3244,11 @@ https://cdn08jtedge.indihometv.com/dassdvr/134/eatgo/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=61666330303030303030303030303030:e6f0c3fa2a6adb104a0163a5ef0bdd79
 https://cdn08jtedge.indihometv.com/dassdvr/133/afc/manifest.mpd
+
+#EXTINF:-1 tvg-id="708.astro" tvg-logo="https://iili.io/dH2ZfRe.png" group-title="LIFESTYLE",Food Network
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d4b9d55410d24905920e57664a047116:d821110f280f4545ae0227d5784af199
+https://ubn-streamer1.cdn.3bbtv.com:8443/3bb/live/205/205.mpd
  
 #EXTINF:-1 tvg-id="715.astro" tvg-logo="https://iili.io/Jmo0xC7.png" group-title="LIFESTYLE",HGTV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -3866,7 +3871,7 @@ https://ciner-live.daioncdn.net/showtv/showtv_1080p.m3u8
 https://dogus-live.daioncdn.net/startv/startv_720p.m3u8
  
 #EXTINF:-1 tvg-id="TRT 1 HD" tvg-logo="https://iili.io/JmoZ8Is.png" group-title="TÜRKIYE",TRT 1
-https://tv-trt1.medya.trt.com.tr/master_720.m3u8
+https://d1u68oyra9spme.cloudfront.net/master.m3u8
  
 #EXTINF:-1 tvg-id="TRT 2 HD" tvg-logo="https://iili.io/JmoZShG.png" group-title="TÜRKIYE",TRT 2
 http://167.114.115.233:8080/trt2fhd/index.m3u8
