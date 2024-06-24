@@ -21,16 +21,13 @@ https://cempedak-live-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
 https://cempedak-live-cdn.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
  
 #EXTINF:-1 tvg-id="SCTV" tvg-logo="https://iili.io/JMp3iiX.png" group-title="NASIONAL",SCTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
-https://cuass-060172da4dc0.herokuapp.com/pid/index.m3u8?id=204&type=hls
+https://raw.githubusercontent.com/ghozitv/Playlist/main/SCTV%20Lokal
  
 #EXTINF:-1 tvg-id="Indosiar" tvg-logo="https://iili.io/JMp3wV1.png" group-title="NASIONAL",Indosiar
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
-https://cuass-060172da4dc0.herokuapp.com/pid/index.m3u8?id=205&type=hls
+https://raw.githubusercontent.com/ghozitv/Playlist/main/Indosiar%20lokal
  
 #EXTINF:-1 tvg-id="Moji" tvg-logo="https://iili.io/JMp3vUJ.png" group-title="NASIONAL",Moji
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
-https://cuass-060172da4dc0.herokuapp.com/pid/index.m3u8?id=206&type=hls
+https://raw.githubusercontent.com/ghozitv/Playlist/main/MOJI%202
  
 #EXTINF:-1 tvg-id="TRANS TV" tvg-logo="https://iili.io/JMp3ZUG.png" group-title="NASIONAL",Trans TV
 https://video.detik.com/transtv/smil:transtv.smil/chunklist_w962267898_b744100_sleng.m3u8
