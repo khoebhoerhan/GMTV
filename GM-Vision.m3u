@@ -3476,28 +3476,28 @@ https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Stream/Live/France_4
 https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Stream/Live/France_5.m3u8
  
 #EXTINF:-1 tvg-id="C8.fr" tvg-logo="https://iili.io/Jmog2xS.png" group-title="FRANCE",C8
-http://livetv.ktv.zone/10/play.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/c8.m3u8
  
 #EXTINF:-1 tvg-id="CSTAR.fr" tvg-logo="https://iili.io/JmogBUb.png" group-title="FRANCE",CStar
-http://livetv.ktv.zone/19/play.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/cstar.m3u8
  
 #EXTINF:-1 tvg-id="M6.fr" tvg-logo="https://iili.io/JmogYga.png" group-title="FRANCE",M6
-http://62.129.183.89:9981/stream/channelid/140591709
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/m6plus/m6.m3u8
  
 #EXTINF:-1 tvg-id="NRJ 12.fr" tvg-logo="https://iili.io/Jmog0eR.png" group-title="FRANCE",NRJ 12
-http://livetv.ktv.zone/14/play.m3u8
+https://nrj12.nrjaudio.fm/hls/live/2038374/nrj_12/master.m3u8
  
 #EXTINF:-1 tvg-id="6ter.fr" tvg-logo="https://iili.io/Jmogffe.png" group-title="FRANCE",6ter
-http://livetv.ktv.zone/24/play.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/m6plus/6ter.m3u8
  
 #EXTINF:-1 tvg-id="TFX.fr" tvg-logo="https://iili.io/JmogMXI.png" group-title="FRANCE",TFX
-http://62.129.183.89:9981/stream/channelid/57664586
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/tfx.m3u8
  
 #EXTINF:-1 tvg-id="TMC.fr" tvg-logo="https://iili.io/JmogFs9.png" group-title="FRANCE",TMC
-http://62.129.183.89:9981/stream/channelid/1120316469
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/tmc.m3u8
  
 #EXTINF:-1 tvg-id="W9.fr" tvg-logo="https://iili.io/Jmog3W7.png" group-title="FRANCE",W9
-http://livetv.ktv.zone/11/play.m3u8
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/m6plus/w9.m3u8
  
 #EXTINF:-1 tvg-id="DasErste.de" tvg-logo="https://iili.io/Jmorz2s.png" group-title="GERMANY",Das Erste
 #KODIPROP:inputstream.adaptive.license_type=clearkey
