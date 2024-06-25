@@ -3097,7 +3097,10 @@ https://mn-nl.mncdn.com/blutv_eurosport1/eurosport1_hd.smil/index.m3u8
 https://mn-nl.mncdn.com/blutv_eurosport2/eurosport2_hd.smil/index.m3u8
  
 #EXTINF:-1 tvg-id="TRT SPOR HD" tvg-logo="https://iili.io/JmoRoUQ.png" group-title="TURKISH SPORTS",TRT Spor
-https://trtspordvr.blutv.com/blutv_trtspor_dvr/live.m3u8
+http://hw1.jemtv.com/app/trtspor/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TRT SPOR YILDIZ" tvg-logo="https://iili.io/d3K5EQa.png" group-title="TURKISH SPORTS",TRT Spor Yildiz
+http://stream.tvcdn.net/spor/trt-spor-yildiz.m3u8
  
 #EXTINF:-1 tvg-id="820.astro" tvg-logo="https://iili.io/JmozxBR.png" group-title="ASIAN SPORTS",Eurosport Asia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
