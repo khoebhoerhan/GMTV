@@ -21,13 +21,15 @@ https://cempedak-live-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
 https://cempedak-live-cdn.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
  
 #EXTINF:-1 tvg-id="SCTV" tvg-logo="https://iili.io/JMp3iiX.png" group-title="NASIONAL",SCTV
-https://raw.githubusercontent.com/ghozitv/Playlist/main/SCTV%20Lokal
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+https://streaming.indihometv.com/atm/DASH/sctv/manifest.mpd
  
 #EXTINF:-1 tvg-id="Indosiar" tvg-logo="https://iili.io/JMp3wV1.png" group-title="NASIONAL",Indosiar
-https://raw.githubusercontent.com/ghozitv/Playlist/main/Indosiar%20lokal
+https://s.id/indosiar_play_shareext-xs
  
 #EXTINF:-1 tvg-id="Moji" tvg-logo="https://iili.io/JMp3vUJ.png" group-title="NASIONAL",Moji
-https://raw.githubusercontent.com/ghozitv/Playlist/main/MOJI%202
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+https://cdn08jtedge.indihometv.com/dassdvr/134/ochannel/manifest.mpd
  
 #EXTINF:-1 tvg-id="TRANS TV" tvg-logo="https://iili.io/JMp3ZUG.png" group-title="NASIONAL",Trans TV
 https://video.detik.com/transtv/smil:transtv.smil/chunklist_w962267898_b744100_sleng.m3u8
