@@ -1359,7 +1359,7 @@ https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Stream/Live/francein
 #EXTINF:-1 tvg-id="LCI - La ChaÃ®ne Info.fr" tvg-logo="https://iili.io/JhvHw6F.png" group-title="FRENCH NEWS",LCI
 https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Stream/Live/LCI.m3u8
  
-#EXTINF:-1 tvg-id="RTFrance.fr" tvg-logo="https://iili.io/JhvHEyx.png" group-title="FRENCH NEWS",RT France
+#EXTINF:-1 tvg-id="RTFrance.fr" tvg-logo="https://iili.io/JhksYZb.png" group-title="FRENCH NEWS",RT
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://rt-fra.rttv.com/live/rtfrance/playlist.m3u8
@@ -3686,10 +3686,10 @@ https://nlziet-live.akamaized.net/L7/7be0c2b0/358f270a.isml/.mpd
 https://nlziet-live.akamaized.net/L27/3d5aac95/1698e278.isml/.mpd
  
 #EXTINF:-1 tvg-logo="https://iili.io/Jy6pQQn.png" group-title="PHILIPPINES",GMA
-https://ssh101-fl.bozztv.com/ssh101/gmaa/index.m3u8
+https://host.enicsnet.com/hls/gmanixigncode/index.m3u8
  
 #EXTINF:-1 tvg-logo="https://iili.io/d9AMggR.png" group-title="PHILIPPINES",GTV
-https://ssh101-fl.bozztv.com/ssh101/phcxigncodetv/index.m3u8
+https://host.enicsnet.com/hls/gtvnixigncode/index.m3u8
  
 #EXTINF:-1 tvg-logo="https://iili.io/JmUFYsR.png" group-title="PHILIPPINES",TV5
 https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/tv5_qp.m3u8
