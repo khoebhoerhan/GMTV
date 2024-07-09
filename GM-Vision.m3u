@@ -2720,10 +2720,7 @@ https://cors-proxy.elfsight.com/https://linear.stvacdn.spectrum.com/LIVE/1166/da
 http://38.96.178.201:80/live/ESPNews/index.m3u8
  
 #EXTINF:-1 tvg-id="Fox Sports 1 HDTV" tvg-logo="https://iili.io/JmoIn99.png" group-title="AMERICAN SPORTS",FS1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4aa03f4ba0b54774accf43d15af7be70:843a421b633ae576f7ad62872d0d71b1
-https://cors-proxy.elfsight.com/https://linear.stvacdn.spectrum.com/LIVE/1166/dash/cenc/SPEEDHD/manifest.mpd
+http://103.101.162.86/fs1?token=live
  
 #EXTINF:-1 tvg-id="Fox Sports 2" tvg-logo="https://iili.io/Jmozgv1.png" group-title="AMERICAN SPORTS",FS2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
@@ -3307,7 +3304,7 @@ http://143.244.60.30/ABC_EAST/index.m3u8
 http://38.96.178.201:80/live/CBS/index.m3u8
  
 #EXTINF:-1 tvg-id="FoxEast.us" tvg-logo="https://iili.io/JmoUJMF.png" group-title="USA",Fox East
-http://38.96.178.201:80/live/FOXHD/index.m3u8
+http://103.101.162.86/fox?token=live
  
 #EXTINF:-1 tvg-id="NBC 4(WNBC) New York, NY" tvg-logo="https://iili.io/JmoU3Fa.png" group-title="USA",NBC East
 http://38.96.178.201/live/NBCHD/index.m3u8
