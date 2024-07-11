@@ -1296,8 +1296,8 @@ https://cdnapisec.kaltura.com/p/4526593/sp/4526593/playManifest/entryId/1_j8ztwi
 https://streaming-live.rtp.pt/livetvhlsDVR/rtpnHDdvr.smil/playlist.m3u8
  
 #EXTINF:-1 tvg-id="euronw.tv.vodafone.pt" tvg-logo="https://iili.io/JhksR99.png" group-title="PORTUGUESE NEWS",Euronews Português
-https://rakuten-euronews-8-pt.samsung.wurl.com/manifest/playlist.m3u8
- 
+https://rakuten-euronews-8-pt.lg.wurl.tv/playlist.m3u8
+
 #EXTINF:-1 tvg-id="CNN Español" tvg-logo="https://iili.io/Jmf9Yve.png" group-title="SPANISH NEWS",CNN en Español
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=0b20ed9da0e5457c9dfd3ae0b6092491:98997a7020c18cb28174a2490147830a
@@ -1309,7 +1309,7 @@ https://edge-vod03-hr.cvattv.com.ar/live/c6eds/CNN_en_Espanol/SA_Live_dash_enc/C
 https://rtvelivestream-clnx.rtve.es/rtvesec/24h/24h_main_720.m3u8
  
 #EXTINF:-1 tvg-id="Euronews" tvg-logo="https://iili.io/JhksR99.png" group-title="SPANISH NEWS",Euronews en Español
-https://rakuten-euronews-4-es.samsung.wurl.tv/playlist.m3u8
+https://rakuten-euronews-12-es.lg.wurl.tv/playlist.m3u8
  
 #EXTINF:-1 tvg-id="France24Espanol.fr" tvg-logo="https://iili.io/Jhks5ue.png" group-title="SPANISH NEWS",France 24 Español
 https://ythls.armelin.one/channel/UCUdOoVWuWmgo1wByzcsyKDQ.m3u8
@@ -1334,7 +1334,7 @@ https://live1.presstv.ir/live/hispan.m3u8
 https://ythls.armelin.one/channel/UCCCPCZNChQdGa9EkATeye4g.m3u8
  
 #EXTINF:-1 tvg-id="EuronewsFrench.fr" tvg-logo="https://iili.io/JhksR99.png" group-title="FRENCH NEWS",Euronews Français
-https://rakuten-euronews-2-fr.samsung.wurl.tv/playlist.m3u8
+https://rakuten-euronews-2-fr.lg.wurl.tv/playlist.m3u8
  
 #EXTINF:-1 tvg-id="BFMTV.fr" tvg-logo="https://iili.io/JhvH1vj.png" group-title="FRENCH NEWS",BFMTV
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TV/index.m3u8?end=END&start=LIVE
@@ -1385,13 +1385,13 @@ https://dwamdstream105.akamaized.net/hls/live/2015531/dwstream105/stream05/strea
 https://tagesschau.akamaized.net/hls/live/2020115/tagesschau/tagesschau_1/master.m3u8
  
 #EXTINF:-1 tvg-id="EuronewsGerman.fr" tvg-logo="https://iili.io/JhksR99.png" group-title="GERMAN NEWS",Euronews Deutsch
-https://rakuten-euronews-5-de.samsung.wurl.tv/manifest/playlist.m3u8
+https://rakuten-euronews-13-de.lg.wurl.tv/playlist.m3u8
  
 #EXTINF:-1 tvg-id=" Russia Today.de" tvg-logo="https://iili.io/JyrZw4S.png" group-title="GERMAN NEWS",RT DE
 https://rt-ger.rttv.com/live/rtdeutsch/playlist.m3u8
  
 #EXTINF:-1 tvg-id="Euronews.it" tvg-logo="https://iili.io/JhksR99.png" group-title="ITALIAN NEWS",Euronews Italiano
-https://rakuten-euronews-3-it.samsung.wurl.tv/manifest/playlist.m3u8
+https://rakuten-euronews-11-it.lg.wurl.tv/playlist.m3u8
  
 #EXTINF:-1 tvg-id="Rai News 24.it" tvg-logo="https://iili.io/JbnqIWv.png" group-title="ITALIAN NEWS",Rai News 24
 https://8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/rainews1/hls/playlist_mo.m3u8
