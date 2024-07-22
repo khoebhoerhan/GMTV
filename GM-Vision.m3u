@@ -777,8 +777,7 @@ https://cempedak-live-cdn.mncnow.id/live/eds/HitsMovies/sa_dash_vmx/HitsMovies.m
 https://cempedak-live-cdn.mncnow.id/live/eds/CinemaWorld/sa_dash_vmx/CinemaWorld.mpd
  
 #EXTINF:-1 tvg-id="SONY PIX HD" tvg-logo="https://iili.io/Jmo9uJp.png" group-title="GENERAL MOVIES",Sony Pix
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://toxicify.pro/sliv/stream.php?id=sony-pix-hd&e=.m3u8
+https://raw.githubusercontent.com/tivigratis/tv/main/SonyPix.m3u8
  
 #EXTINF:-1 tvgv-id="GALAXY.id" tvg-logo="https://iili.io/Jmo9aXn.png" group-title="GENERAL MOVIES",Galaxy
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alphastro supersporta
@@ -863,12 +862,10 @@ https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeeaction/default/index.m3u8
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeeanmolcinema/default/index.m3u8
  
 #EXTINF:-1 tvg-id="SONY MAX" tvg-logo="https://iili.io/JmoHMGa.png" group-title="HINDI MOVIES",Sony Max
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://toxicify.pro/sliv/stream.php?id=sony-max-hd&e=.m3u8
+https://raw.githubusercontent.com/tivigratis/tv/main/SonyMax.m3u8
  
 #EXTINF:-1 tvg-id="SONY MAX 2" tvg-logo="https://iili.io/JmoHGCg.png" group-title="HINDI MOVIES",Sony Max 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://toxicify.pro/sliv/stream.php?id=sony-max-2&e=.m3u8
+https://raw.githubusercontent.com/tivigratis/tv/main/SonyMAX2.m3u8
  
 #EXTINF:-1 tvg-id="Be Mad" tvg-logo="https://iili.io/JmofPft.png" group-title="SPANISH MOVIES",Be Mad
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -2103,85 +2100,85 @@ https://linear301-it-dash1-prd.selector.skycdn.it/016a/31035/FHD/skysport24/mast
 #EXTINF:-1 tvg-id="Sky Sport Arena.it" tvg-logo="https://iili.io/JhkZW9S.png" group-title="ITALIAN SPORTS",Sky Sport Arena
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=00364ee1c777f44a74e4df12f3095503:77dee68a39366663755beb8fa62dcc1e
-http://linear304-it-dash1-prd-akg0.cdn13.skycdp.com/31024/FHD/skysportarena/master.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=00368f2bf10736c9c2c02ab0fa694d00:92eec9d841ac0c1ff16b90a0db82c792
+https://linear304-it-dash1-prd-akg0.cdn13.skycdp.com/31024/FHD/skysportarena/master.mpd
  
 #EXTINF:-1 tvg-id="Sky Sport Calcio.it" tvg-logo="https://iili.io/JhkZMS2.png" group-title="ITALIAN SPORTS",Sky Sport Calcio
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"C8ZT2DCDfc6xO9FxafD44g", "kid":"ADbl0OiN+wh/F5HaYVDO2Q" } ], "type":"temporary" }
-https://linear302-it-dash1-prd-ll.cdn13.skycdp.com/016a/31209/FHD/skysportseriea/master.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=00369a2c69176d5a2deff777247b6637:e122d4bad34c1e430ee349f5aac0060b
+https://linear301-it-dash1-prd-akp1.cdn13.skycdp.com/016a/31209/FHD/skysportseriea/master.mpd
  
 #EXTINF:-1 tvg-id="Sky Sport F1.it" tvg-logo="https://iili.io/JhkZXA7.png" group-title="ITALIAN SPORTS",Sky Sport F1
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=0036aca3ce896fe790ef07e89b74cae4:58145ec5b35e7f62555c2ed5f3ef2342
-http://linear304-it-dash1-prd-akg0.cdn13.skycdp.com/31478/FHD/skysportf1/master.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0036a96b6bbbf1828488f90e6b2ca1f4:d24e6ae926e88f8303b6926271ff8155
+https://linear304-it-dash1-prd-akg0.cdn13.skycdp.com/31478/FHD/skysportf1/master.mpd
  
 #EXTINF:-1 tvg-id="Sky Sport Golf.it" tvg-logo="https://iili.io/JhkZjte.png" group-title="ITALIAN SPORTS",Sky Sport Golf
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=0036a02f08506f8428164d78e3ebb6de:8708612971e3cfa8e03698996b1a3b7f
-http://linear304-it-dash1-prd-akg0.cdn13.skycdp.com/32768/FHD/skysportgolf/master.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=00360b7729f74bf56a0a4eb0eda15ec5:f8a5f4723c71ac84c2f1ff6f55939a63
+https://linear304-it-dash1-prd-akg0.cdn13.skycdp.com/32768/FHD/skysportgolf/master.mpd
  
 #EXTINF:-1 tvg-id="Sky Sport Max.it" tvg-logo="https://iili.io/JhkZNou.png" group-title="ITALIAN SPORTS", Sky Sport Max
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=0036a901e6f0381cfd1b6fcf10cc6038:4fbb022704c9abcbb709484a5667fd79
-https://linear305-it-dash1-prd-ll.cdn13.skycdp.com/016a/31248/FHD/skysportmax/master.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0036f13bca1c5603b9f3bb28ec28fa80:f01403bcb5a02c61153d297fb0c4395f
+https://linear304-it-dash1-prd-akg0.cdn13.skycdp.com/31248/FHD/skysportmax/master.mpd
  
 #EXTINF:-1 tvg-id="Sky Sport MotoGP.it" tvg-logo="https://iili.io/JhkZOMb.png" group-title="ITALIAN SPORTS",Sky Sport MotoGP
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"COGun6DuTZ7CsZTEkIYTrg", "kid":"ADbqLpCNTMIO8IWV2p/5kQ" } ], "type":"temporary" }
-https://linear306-it-dash1-prd-ll.cdn13.skycdp.com/016a/31483/FHD/skysportmotogp/master.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=00362e9181eaa0c5f91761ade3515eb8:52cf3c27885d58ad76aaf36d4217a984
+https://linear306-it-dash1-prd-akg0.cdn13.skycdp.com/016a/31483/FHD/skysportmotogp/master.mpd
  
 #EXTINF:-1 tvg-id="Sky Sport NBA.it" tvg-logo="https://iili.io/JhkZePj.png" group-title="ITALIAN SPORTS",Sky Sport NBA
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=0036c4e453ae2a044f4c861ed73b560a:ea5626c0aa092c382ca58151b5f4b208
-https://linear301-it-dash1-prd.selector.skycdn.it/016a/31764/FHD/skysportnba/master_stereo.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=00364eac2ffee337640e39682439b540:0960172d9000c470ade0658bd36c1d53
+https://linear301-it-dash1-prd-akg0.cdn13.skycdp.com/016a/31764/FHD/skysportnba/master.mpd
  
 #EXTINF:-1 tvg-id="Sky Sport Tennis.it" tvg-logo="https://iili.io/JhkZvKx.png" group-title="ITALIAN SPORTS",Sky Sport Tennis
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=00360f4f90045f029a53a022738c2422:fa39fd500dc4e291801a710499634330
-http://linear304-it-dash1-prd-akg0.cdn13.skycdp.com/32559/FHD/skysporttennis/master.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0036fb7c564c4eb99e310f5fa82ab2f2:647f07b6858a669456e73ca103b4c2c0
+https://linear304-it-dash1-prd-akg0.cdn13.skycdp.com/32559/FHD/skysporttennis/master.mpd
  
 #EXTINF:-1 tvg-id="Sky Sport Uno.it" tvg-logo="https://iili.io/JhkZGcl.png" group-title="ITALIAN SPORTS",Sky Sport Uno
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=00362452ed102000ccea64c311921dc2:02f27bd6caab7633d3083b94d3958b1c
-https://linear301-it-dash1-prd.selector.skycdn.it/016a/31023/FHD/skysportuno/master_stereo.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0036dc70e4d659fe5ae57b52793a1ff3:55517f806b6be917c2bf0e9cf9acc44f
+https://linear301-it-dash1-prd-akg0.cdn13.skycdp.com/016a/31023/FHD/skysportuno/master.mpd
 
 #EXTINF:-1 tvg-logo="https://iili.io/dH9SdOX.png" group-title="ITALIAN SPORTS",Sky Sport 251
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=00368000eaecbeeafd84c05b3b8243af:8f84185910e18ae0ca8a45004625a000
+#KODIPROP:inputstream.adaptive.license_key=0036422cf4293ae7cf1e7f7062cc29e8:37a223fcc17c087043bc837432fd25d8
 https://linear304-it-dash1-prd-akg0.cdn13.skycdp.com/31917/FHD/skysport251/master.mpd
 
 #EXTINF:-1 tvg-logo="https://iili.io/dH9SJRt.png" group-title="ITALIAN SPORTS",Sky Sport 252
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0036c4797608fc64296d437bc6f8b790:1689af84b23f514005f9bb854da7667f
+#KODIPROP:inputstream.adaptive.license_key=003643bc9d61268c987504fa93b397f6:b8d5767c73ff8bba68d955035b56f4c1
 https://linear304-it-dash1-prd-akg0.cdn13.skycdp.com/32951/FHD/skysport252/master.mpd
 
 #EXTINF:-1 tvg-logo="https://iili.io/dH9SHJI.png" group-title="ITALIAN SPORTS",Sky Sport 253
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=00365b169a077daac5081277c3fd0c28:f68ab32a552e13509a8ee1c4d96204bc
+#KODIPROP:inputstream.adaptive.license_key=0036077996d02761a9d4c29ddfac7466:e83d078779ae5b53e2eb999513d55682
 https://linear304-it-dash1-prd-akg0.cdn13.skycdp.com/32233/FHD/skysport253/master.mpd
 
 #EXTINF:-1 tvg-logo="https://iili.io/dH98yUN.png" group-title="ITALIAN SPORTS",Sky Sport 254
@@ -2309,19 +2306,19 @@ https://ott.zapitv.com/live/eds_c2/eurosport_2_hd/dash_live_enc/eurosport_2_hd.m
 https://ott.zapitv.com/live/eds_c2/teledeporte_hd/dash_live_enc/teledeporte_hd.mpd
  
 #EXTINF:-1 tvg-id="SONY SPORTS TEN 1 HD" tvg-logo="https://iili.io/JbnBO3N.png" group-title="INDIAN SPORTS",Sony Ten 1
-https://colorsscreen.com/sliv/stream.php?id=sony-ten-1-hd&=.m3u8|Referer=https://colorsscreen.com/sliv/
+https://raw.githubusercontent.com/tivigratis/tv/main/SonyTEN1.m3u8
  
 #EXTINF:-1 tvg-id="SONY SPORTS TEN 2 HD" tvg-logo="https://iili.io/JbnBjGR.png" group-title="INDIAN SPORTS",Sony Ten 2
-https://colorsscreen.com/sliv/stream.php?id=sony-ten-2-hd&=.m3u8|Referer=https://colorsscreen.com/sliv/
+https://raw.githubusercontent.com/tivigratis/tv/main/SonyTEN2.m3u8
  
 #EXTINF:-1 tvg-id="SONY SPORTS TEN 3 HD" tvg-logo="https://iili.io/JbnBhCv.png" group-title="INDIAN SPORTS",Sony Ten 3
-https://colorsscreen.com/sliv/stream.php?id=sony-ten-3-hd&=.m3u8|Referer=https://colorsscreen.com/sliv/
+https://raw.githubusercontent.com/tivigratis/tv/main/SonyTEN3.m3u8
  
 #EXTINF:-1 tvg-id="62289" tvg-logo="https://iili.io/JbnBeaI.png" group-title="INDIAN SPORTS",Sony Ten 4
-https://colorsscreen.com/sliv/stream.php?id=sony-ten-4-hd&=.m3u8|Referer=https://colorsscreen.com/sliv/
+https://raw.githubusercontent.com/tivigratis/tv/main/SonyTEN4.m3u8
  
 #EXTINF:-1 tvg-id="SONY SPORTS TEN 5 HD" tvg-logo="https://iili.io/JbnBSun.png" group-title="INDIAN SPORTS",Sony Ten 5
-https://colorsscreen.com/sliv/stream.php?id=sony-ten-5-hd&=.m3u8|Referer=https://colorsscreen.com/sliv/
+https://raw.githubusercontent.com/tivigratis/tv/main/SonyTEN5.m3u8
  
 #EXTINF:-1 tvg-id="Sports 18 - 1 HD" tvg-logo="https://iili.io/JbnBkvt.png" group-title="INDIAN SPORTS",Sports18 1
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
@@ -2696,7 +2693,10 @@ https://brflu.walk-tv.com/5931/tracks-v1a1/mono.m3u8
 https://brflu.walk-tv.com/5930/tracks-v1a1/mono.m3u8
  
 #EXTINF:-1 tvg-id="Premierefchd.br" tvg-logo="https://iili.io/JmouF7S.png" group-title="BRASILIAN SPORTS",Premiere Clubes
-http://208.115.225.174:14460/Premiere
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d98239180d8380b3a1bb28d875b1ddf2:cf836ced579257d1c76ae8809818e6c4
+https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/4zkafrcxji/out/v1/810ebca1aff0443da717da4acdeda158/cenc.mpd
  
 #EXTINF:-1 tvg-id="ESPN.us" tvg-logo="https://iili.io/JmoIfF2.png" group-title="AMERICAN SPORTS",ESPN
 http://143.244.60.30/ESPN/index.m3u8
@@ -3505,12 +3505,10 @@ https://tvvvideolive3.solocoo.tv/blueskytvvlive7dash/bluertlclubhd/Manifest.mpd
 https://dpp-live-events.medialaancdn.be/events/hls/aes/webstream1.m3u8
  
 #EXTINF:-1 tvg-id="SET HD" tvg-logo="https://iili.io/Jmo4MKX.png" group-title="INDIA",SET
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://toxicify.pro/sliv/stream.php?id=sony-hd&e=.m3u8
+https://raw.githubusercontent.com/tivigratis/tv/main/SonyEntertainment.m3u8
  
 #EXTINF:-1 tvg-id="SONY SAB HD" tvg-logo="https://iili.io/Jmo4EPt.png" group-title="INDIA",Sony Sab
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://toxicify.pro/sliv/stream.php?id=sony-sab-hd&e=.m3u8
+https://raw.githubusercontent.com/tivigratis/tv/main/SonySAB.m3u8
  
 #EXTINF:-1 tvg-id="Zee TV HD" tvg-logo="https://iili.io/Jmo41VI.png" group-title="INDIA",Zee TV
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeetv/default/index.m3u8
@@ -3670,8 +3668,15 @@ https://nlziet-live.akamaized.net/L7/7be0c2b0/358f270a.isml/.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8adf9e686f6b4c35a65c273c6ba5f50b:1db98fc062825c57a3369aa5fb762786
 https://nlziet-live.akamaized.net/L27/3d5aac95/1698e278.isml/.mpd
+
+#EXTINF:-1 tvg-id="SBS9.nl" tvg-logo="https://iili.io/doBG8rl.png" group-title="NETHERLANDS",Viaplay TV
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=056186c61345413abb45748810ae178e:b7a9b5ec9d080c888b92dd688c6c8644
+https://nlziet-live.akamaized.net/L14/b6727fe5/82d7dd4a.isml/.mpd
  
-#EXTINF:-1 tvg-logo="https://iili.io/Jy6pQQn.png" group-title="PHILIPPINES",GMA
+#EXTINF:-1 tvg-logo="https://iili.io/doB6999.png" group-title="PHILIPPINES",GMA
 https://host.enicsnet.com/hls/gmanixigncode/index.m3u8
  
 #EXTINF:-1 tvg-logo="https://iili.io/d9AMggR.png" group-title="PHILIPPINES",GTV
