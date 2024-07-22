@@ -560,6 +560,9 @@ http://170.254.18.106/TNT/index.m3u8
  
 #EXTINF:-1 tvg-id="TBSEast.us" tvg-logo="https://iili.io/Jmo37iF.png" group-title="AMERICAN ENTERTAINMENT",TBS
 http://38.96.178.201:80/live/TBS/index.m3u8
+
+#EXTINF:-1 tvg-id="ComedyCentralEast.us" tvg-logo="https://iili.io/doKLV87.png" group-title="AMERICAN ENTERTAINMENT",Comedy Central
+http://fl3.moveonjoy.com/Comedy_Central/index.m3u8
  
 #EXTINF:-1 tvg-id="335.astro" tvg-logo="https://iili.io/Jmo3WxI.png" group-title="CHINESE ENTERTAINMENT",CCTV4
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/cctv4.m3u8
@@ -1203,6 +1206,9 @@ http://fl3.moveonjoy.com/CNBC/index.m3u8
  
 #EXTINF:-1 tvg-id="MSNBC.us" tvg-logo="https://iili.io/JmKvove.png" group-title="AMERICAN NEWS",MSNBC
 http://41.205.93.154:80/MSNBC/index.m3u8
+
+#EXTINF:-1 tvg-id="NewsNationEast.us" tvg-logo="https://iili.io/doKrWyG.png" group-title="AMERICAN NEWS",NewsNation
+http://fl2.moveonjoy.com/NEWS_NATION/index.m3u8
  
 #EXTINF:-1 tvg-id="5df97894467dfa00091c873c" tvg-logo="https://iili.io/JmKvTjj.png" group-title="AMERICAN NEWS",NBC News Now
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV39.m3u8
@@ -1221,6 +1227,9 @@ https://cdn.klowdtv.net/803B48A/oan_aws_ms/OAN.m3u8
  
 #EXTINF:-1 tvg-id="5f161c0a8ba90f0007d5bd0b" tvg-logo="https://iili.io/JmKv2jf.png" group-title="AMERICAN NEWS",Yahoo! Finance
 https://yahoo-samsung.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CSPAN.us" tvg-logo="https://iili.io/dofHtXS.png" group-title="PARLIAMENTARY",C-SPAN
+http://fl2.moveonjoy.com/C-SPAN/index.m3u8
  
 #EXTINF:-1 tvg-id="BBCNewsHD.uk" tvg-logo="https://iili.io/Jhksqjs.png" group-title="BRITISH NEWS",BBC News UK
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/mobile_wifi_main_sd_abr_v2.m3u8
@@ -2693,11 +2702,7 @@ http://208.115.225.174:14460/Premiere
 http://143.244.60.30/ESPN/index.m3u8
  
 #EXTINF:-1 tvg-id="ESPN2.us" tvg-logo="https://iili.io/JmoI2nf.png" group-title="AMERICAN SPORTS",ESPN 2
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=883d6c6242a046bfbb3eb738eec1fe63:d0d1926c697baba0dfda82ac456faa9e
-https://cors-proxy.elfsight.com/https://linear-novi.stvacdn.spectrum.com/LIVE/1203/dash/cenc/ESPN2HD_24522/manifest.mpd
+http://fl2.moveonjoy.com/ESPN_2/index.m3u8
  
 #EXTINF:-1 tvg-id="ESPN Deportes" tvg-logo="https://iili.io/JmoIF6l.png" group-title="AMERICAN SPORTS",ESPN Deportes
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -2707,16 +2712,13 @@ https://cors-proxy.elfsight.com/https://linear-novi.stvacdn.spectrum.com/LIVE/12
 https://cors-proxy.elfsight.com/https://linear.stvacdn.spectrum.com/LIVE/1166/dash/cenc/ESPNDHD_13667/manifest.mpd
  
 #EXTINF:-1 tvg-id="ESPN News" tvg-logo="https://iili.io/JmoIqaS.png" group-title="AMERICAN SPORTS",ESPN News
-http://38.96.178.201:80/live/ESPNews/index.m3u8
+http://fl2.moveonjoy.com/ESPN_NEWS/index.m3u8
  
 #EXTINF:-1 tvg-id="Fox Sports 1 HDTV" tvg-logo="https://iili.io/JmoIn99.png" group-title="AMERICAN SPORTS",FS1
-http://103.101.162.86/fs1?token=live
+http://fl2.moveonjoy.com/FOX_Sports_1/index.m3u8
  
 #EXTINF:-1 tvg-id="Fox Sports 2" tvg-logo="https://iili.io/Jmozgv1.png" group-title="AMERICAN SPORTS",FS2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=426b95e246774cb798a8c845fe6333d6:91e511fd8c290134b28c36ee1c386ea9
-https://cors-proxy.elfsight.com/https://linear.stvacdn.spectrum.com/LIVE/1108/dash/cenc/FS2HD_00564/manifest.mpd
+http://fl2.moveonjoy.com/FOX_Sports_2/index.m3u8
  
 #EXTINF:-1 tvg-id="Fox Deportes" tvg-logo="https://iili.io/JmoIB87.png" group-title="AMERICAN SPORTS",Fox Deportes
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -2726,24 +2728,13 @@ https://cors-proxy.elfsight.com/https://linear.stvacdn.spectrum.com/LIVE/1108/da
 https://cors-proxy.elfsight.com/https://linear.stvacdn.spectrum.com/LIVE/1106/dash/cenc/FXDEPHD/manifest.mpd
  
 #EXTINF:-1 tvg-id="FOX Soccer Plus" tvg-logo="https://iili.io/JmoIoue.png" group-title="AMERICAN SPORTS",Fox Soccer Plus
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=260465aba18e40329932d47e9c7aa20b:2b79020e3f3ddc94ba84943ba72d898c
-https://cors-proxy.elfsight.com/https://linear.stvacdn.spectrum.com/LIVE/1143/dash/cenc/FSCPLHD/manifest.mpd
+http://fl2.moveonjoy.com/FOX_SOCCER_PLUS/index.m3u8
  
 #EXTINF:-1 tvg-id="CBS Sports Network USA" tvg-logo="https://iili.io/JmoIJZG.png" group-title="AMERICAN SPORTS",CBS Sports Network
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=c311b264f25748039736aa0dc64008d6:86055797afa5cb24feb2bc764b7a1813
-https://cors-proxy.elfsight.com/https://cip4-2048b75120.linear-novi.stvacdn.spectrum.com/LIVE/1105/dash/cenc/CBSSNHD_00500/manifest.mpd
+http://fl2.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
  
 #EXTINF:-1 tvg-id="beIN Sport USA" tvg-logo="https://iili.io/JhkQl2V.png" group-title="AMERICAN SPORTS",beIN Sports
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f81af7922a8d461aa81da4b225f8f883:d0f27c123c5f1331429d08638fa3727e
-https://cors-proxy.elfsight.com/https://linear-novi.stvacdn.spectrum.com/LIVE/1144/dash/cenc/BEIN1HD_04735/manifest.mpd
+http://fl2.moveonjoy.com/BEIN_SPORTS/index.m3u8
  
 #EXTINF:-1 tvg-id="beIN Sport en Español" tvg-logo="https://iili.io/Jmozmvt.png" group-title="AMERICAN SPORTS",beIN Sports en Español
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -3302,7 +3293,7 @@ http://143.244.60.30/ABC_EAST/index.m3u8
 http://38.96.178.201:80/live/CBS/index.m3u8
  
 #EXTINF:-1 tvg-id="FoxEast.us" tvg-logo="https://iili.io/JmoUJMF.png" group-title="USA",Fox East
-http://103.101.162.86/fox?token=live
+http://fl1.moveonjoy.com/FOX_EAST/index.m3u8
  
 #EXTINF:-1 tvg-id="NBC 4(WNBC) New York, NY" tvg-logo="https://iili.io/JmoU3Fa.png" group-title="USA",NBC East
 http://38.96.178.201/live/NBCHD/index.m3u8
