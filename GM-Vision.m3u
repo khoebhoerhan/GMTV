@@ -122,10 +122,8 @@ http://103.18.181.69:1935/golive/livestream/chunklist_w1350607412.m3u8
 https://jawapostv.siar.us/jawapostv/live/playlist.m3u8
  
 #EXTINF:-1 tvg-id="SEA Today.id" tvg-logo="https://iili.io/JV3xLAl.png" group-title="NATIONAL NEWS",SEA Today
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alphastro supersporta
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTVLCOPT:http-referrer=https://visionplus.id
-https://cempedak-live-cdn.mncnow.id/live/eds/SEA-Channel/sa_dash_vmx/SEA-Channel.mpd
+#EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
+https://flv.intechmedia.net/live/ch64.m3u8
  
 #EXTINF:-1 tvg-id="TVRIWorld.id" tvg-logo="https://iili.io/JV3xmPe.png" group-title="NATIONAL NEWS",TVRI World
 https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8
@@ -1009,7 +1007,10 @@ https://cempedak-live-cdn.mncnow.id/live/eds/Cbeebies/sa_dash_vmx/Cbeebies.mpd
 https://cempedak-live-cdn.mncnow.id/live/eds/Dreamwork-HD/sa_dash_vmx/Dreamwork-HD.mpd
  
 #EXTINF:-1 tvg-id="Da Vinci Learning" tvg-logo="https://iili.io/JmoBOAJ.png" group-title="KIDS",Da Vinci Asia
-https://raw.githubusercontent.com/mimipipi22/lalajo/main/davinci.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+https://cdn08jtedge.indihometv.com/dassdvr/134/davinci/manifest.mpd
  
 #EXTINF:-1 tvg-id="Zoomoo.id" tvg-logo="https://iili.io/JmoBV6P.png" group-title="KIDS",ZooMoo
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alphastro supersporta
@@ -2424,21 +2425,21 @@ https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-050/stream.mpd
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/6.9.0 (Linux;Android 10) ExoPlayerLib/2.11.4
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=cfb5e2b73bef4f3c878f25ab86a7451f:0d6712bf2a84edcc93d001a9613f6fec
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
 https://dcj-ac-live.cdn.indazn.com/dash/dazn-linear-051/stream.mpd
  
 #EXTINF:-1 tvg-id="Play Sports HD2.be" tvg-logo="https://iili.io/JhkbvKG.png" group-title="BELGIAN SPORTS",Play Sports 2
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/6.9.0 (Linux;Android 10) ExoPlayerLib/2.11.4
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=cfb5e2b73bef4f3c878f25ab86a7451f:0d6712bf2a84edcc93d001a9613f6fec
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
 https://dcj-ac-live.cdn.indazn.com/dash/dazn-linear-052/stream.mpd
  
 #EXTINF:-1 tvg-id="Play Sports HD3.be" tvg-logo="https://iili.io/JhkbePs.png" group-title="BELGIAN SPORTS",Play Sports 3
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/6.9.0 (Linux;Android 10) ExoPlayerLib/2.11.4
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=cfb5e2b73bef4f3c878f25ab86a7451f:0d6712bf2a84edcc93d001a9613f6fec
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
 https://dcj-ac-live.cdn.indazn.com/dash/dazn-linear-053/stream.mpd
 
 #EXTINF:-1 tvg-id="beIN SPORTS 1.fr" tvg-logo="https://iili.io/JhkLZXa.png" group-title="FRENCH SPORTS",beIN Sports 1 France
@@ -2703,6 +2704,9 @@ https://brflu.walk-tv.com/5930/tracks-v1a1/mono.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d98239180d8380b3a1bb28d875b1ddf2:cf836ced579257d1c76ae8809818e6c4
 https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/4zkafrcxji/out/v1/810ebca1aff0443da717da4acdeda158/cenc.mpd
+
+#EXTINF:-1 tvg-id="Combate.br" tvg-logo="https://iili.io/doGmFMx.png" group-title="BRASILIAN SPORTS",Combate
+http://148.113.160.49:14124/
  
 #EXTINF:-1 tvg-id="ESPN.us" tvg-logo="https://iili.io/JmoIfF2.png" group-title="AMERICAN SPORTS",ESPN
 http://143.244.60.30/ESPN/index.m3u8
