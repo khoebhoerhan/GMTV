@@ -2178,27 +2178,6 @@ https://tvvvideolive3.solocoo.tv/blueskytvvlive7dash/blueelevenproleague3nl/Mani
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
 https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-050/stream.mpd
  
-#EXTINF:-1 tvg-id="Play Sports HD1.be" tvg-logo="https://iili.io/Jhkb8lf.png" group-title="BELGIAN SPORTS",Play Sports 1
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/6.9.0 (Linux;Android 10) ExoPlayerLib/2.11.4
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
-https://dcj-ac-live.cdn.indazn.com/dash/dazn-linear-051/stream.mpd
- 
-#EXTINF:-1 tvg-id="Play Sports HD2.be" tvg-logo="https://iili.io/JhkbvKG.png" group-title="BELGIAN SPORTS",Play Sports 2
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/6.9.0 (Linux;Android 10) ExoPlayerLib/2.11.4
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
-https://dcj-ac-live.cdn.indazn.com/dash/dazn-linear-052/stream.mpd
- 
-#EXTINF:-1 tvg-id="Play Sports HD3.be" tvg-logo="https://iili.io/JhkbePs.png" group-title="BELGIAN SPORTS",Play Sports 3
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/6.9.0 (Linux;Android 10) ExoPlayerLib/2.11.4
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
-https://dcj-ac-live.cdn.indazn.com/dash/dazn-linear-053/stream.mpd
-
 #EXTINF:-1 tvg-id="Arena PREMIUM 1.rs" tvg-logo="https://iili.io/Jmo50Cu.png" group-title="SERBIAN SPORTS",Arena Premium 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
