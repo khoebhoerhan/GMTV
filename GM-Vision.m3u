@@ -3112,17 +3112,17 @@ https://host.enicsnet.com/hls/gtvnixigncode/index.m3u8
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-kapcha-dash-abscbnono/index.mpd
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-kapcha-hls-abscbnono/playlist.m3u8
   
-#EXTINF:-1 tvg-id="SIC HD" tvg-logo="https://iili.io/JmosndF.png" group-title="PORTUGAL",SIC
+#EXTINF:-1 tvg-id="SIC HD.pt" tvg-logo="https://iili.io/JmosndF.png" group-title="PORTUGAL",SIC
 https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index.m3u8
  
-#EXTINF:-1 tvg-id="TVI HD" tvg-logo="https://iili.io/JmosBg1.png" group-title="PORTUGAL",TVI
+#EXTINF:-1 tvg-id="TVI HD.pt" tvg-logo="https://iili.io/JmosBg1.png" group-title="PORTUGAL",TVI
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tvipt/sh/tvi.m3u8
  
-#EXTINF:-1 tvg-id="RTP 1 HD" tvg-logo="https://iili.io/JmosfqB.png" group-title="PORTUGAL",RTP 1
+#EXTINF:-1 tvg-id="RTP 1 HD.pt" tvg-logo="https://iili.io/JmosfqB.png" group-title="PORTUGAL",RTP 1
 #EXTVLCOPT:http-user-agent=Firefox
 https://streaming-live.rtp.pt/liverepeater/smil:rtp1HD.smil/playlist.m3u8
  
-#EXTINF:-1 tvg-id="RTP 2 HD" tvg-logo="https://iili.io/Jmosq0P.png" group-title="PORTUGAL",RTP 2
+#EXTINF:-1 tvg-id="RTP 2 HD.pt" tvg-logo="https://iili.io/Jmosq0P.png" group-title="PORTUGAL",RTP 2
 #EXTVLCOPT:http-user-agent=Firefox
 https://streaming-live.rtp.pt/liverepeater/smil:rtp2HD.smil/playlist.m3u8
 
