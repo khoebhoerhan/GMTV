@@ -1766,6 +1766,24 @@ https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-058/stream.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
 https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-059/stream.mpd
+
+#EXTINF:-1 tvg-id="beIN SPORTS 1.th" tvg-logo="https://iili.io/JhkLZXa.png" group-title="THAI SPORTS",beIN Sports 1 Thailand
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2e71dc0a56c04f39a9a8c69a56991d9d:a0357a35a2ec4efdae031bbbfb04c967
+https://ubn-streamer1.cdn.3bbtv.com:8443/3bb/tstv/901/901.mpd
+ 
+#EXTINF:-1 tvg-id="beIN SPORTS 2.th" tvg-logo="https://iili.io/JhkQ9dN.png" group-title="THAI SPORTS",beIN Sports 2 Thailand
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6595045909ce4e9c81039e53772ed389:caa83afedd5d4b18b663baf79610571b
+https://ubn-streamer1.cdn.3bbtv.com:8443/3bb/tstv/902/902.mpd
+ 
+#EXTINF:-1 tvg-id="beIN SPORTS 3.th" tvg-logo="https://iili.io/JhkQCrl.png" group-title="THAI SPORTS",beIN Sports 3 Thailand
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4f449df4299d47bcb8e71c1fc39a66b4:642f8ba90a654adc96928a4c5348eb7d
+https://ubn-streamer1.cdn.3bbtv.com:8443/3bb/tstv/903/903.mpd
  
 #EXTINF:-1 tvg-logo="https://iili.io/Jmootov.png" group-title="THAI SPORTS",Golf Channel Thailand
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36 Edg/93.0.961.47
