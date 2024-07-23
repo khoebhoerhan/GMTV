@@ -3293,16 +3293,16 @@ https://tglmp03.akamaized.net/out/v1/1057d89ee3d94148b430b5866e3a540a/manifest.m
 https://tglmp04.akamaized.net/out/v1/b200e885125f4787bd2329952ff28fa1/manifest.mpd
  
 #EXTINF:-1 tvg-id="ABC (WABC) New York, NY" tvg-logo="https://iili.io/JmoUd6g.png" group-title="USA",ABC East
-http://143.244.60.30/ABC_EAST/index.m3u8
+http://fl1.moveonjoy.com/ABC_EAST/index.m3u8
  
 #EXTINF:-1 tvg-id="CBSEast.us" tvg-logo="https://iili.io/JmoUFcJ.png" group-title="USA",CBS East
-http://38.96.178.201:80/live/CBS/index.m3u8
+http://fl2.moveonjoy.com/CBSEAST/index.m3u8
  
 #EXTINF:-1 tvg-id="FoxEast.us" tvg-logo="https://iili.io/JmoUJMF.png" group-title="USA",Fox East
 http://fl1.moveonjoy.com/FOX_EAST/index.m3u8
  
 #EXTINF:-1 tvg-id="NBC 4(WNBC) New York, NY" tvg-logo="https://iili.io/JmoU3Fa.png" group-title="USA",NBC East
-http://38.96.178.201/live/NBCHD/index.m3u8
+http://fl1.moveonjoy.com/NBC_EAST/index.m3u8
  
 #EXTINF:-1 tvg-id="Telemundo Miami" tvg-logo="https://iili.io/d9H1TQV.png" group-title="USA",Telemundo
 #KODIPROP:inputstream.adaptive.license_type=clearkey
