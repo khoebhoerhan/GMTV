@@ -529,12 +529,6 @@ https://cdnjt24.useetv.com/drm/live/smil:aniplus.smil/manifest.mpd
 #EXTVLCOPT:http-referrer=https://visionplus.id
 https://cempedak-live-cdn.mncnow.id/live/eds/NHKWorldPremium/sa_dash_vmx/NHKWorldPremium.mpd
  
-#EXTINF:-1 tvg-id="TV5MONDE HD" tvg-logo="https://iili.io/Jmo33tS.png" group-title="FRENCH ENTERTAINMENT",TV5Monde
-https://ott.tv5monde.com/Content/HLS/Live/channel(seasie)/variant.m3u8
- 
-#EXTINF:-1 tvg-logo="https://iili.io/Jmo3Ko7.png" group-title="FRENCH ENTERTAINMENT",M6 International
-https://shls-m6-int-prod-dub.shahid.net/out/v1/a315ab77ee7343a7a17dbe7e32eee3ba/index.m3u8?aws.manifestfilter=video_height:144-576;video_codec:H264
-
 #EXTINF:-1 tvg-id="E4.uk" tvg-logo="https://iili.io/d9mg8Is.png" group-title="BRITISH ENTERTAINMENT",E4
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0000000000000000000000000065340a:88a5d26b2dc54896693dea815df7c592
@@ -587,9 +581,14 @@ https://cempedak-live-cdn.mncnow.id/live/eds/XingKongTV/sa_dash_vmx/XingKongTV.m
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://visionplus.id
 https://cempedak-live-cdn.mncnow.id/live/eds/AustraliaPlus/sa_dash_vmx/AustraliaPlus.mpd
+
+#EXTINF:-1 tvg-logo="https://iili.io/doG0LSj.png" group-title="WORLD ENTERTAINMENT",TFC
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9568cc84e1d944f38eac304517eab6fd:f12142af8f39b3bab79d3679d3665ebe
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-tfcasia-dash-abscbnono/index.mpd
  
-#EXTINF:-1 tvg-id="RAI" tvg-logo="https://iili.io/Jmo3ys1.png" group-title="EUROPEAN ENTERTAINMENT",Rai Italia
-https://raw.githubusercontent.com/mimipipi22/lalajo/main/rai.m3u8
+#EXTINF:-1 tvg-id="TV5MONDE HD" tvg-logo="https://iili.io/Jmo33tS.png" group-title="EUROPEAN ENTERTAINMENT",TV5Monde
+https://ott.tv5monde.com/Content/HLS/Live/channel(seasie)/variant.m3u8
  
 #EXTINF:-1 tvg-id="52191" tvg-logo="https://iili.io/Jmo3pWP.png" group-title="EUROPEAN ENTERTAINMENT",RTP Internacional
 #KODIPROP:inputstream=inputstream.adaptive
@@ -1160,7 +1159,7 @@ https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
 https://live.cgtn.com/1000/prog_index.m3u8
  
 #EXTINF:-1 tvg-id="TRTWorld.tr" tvg-logo="https://iili.io/Jhks06Q.png" group-title="WORLD NEWS",TRT World
-https://tv-trtworld.live.trt.com.tr/master_1080.m3u8
+https://tv-trtworld.medya.trt.com.tr/master.m3u8
  
 #EXTINF:-1 tvg-id="643.unifi" tvg-logo="https://iili.io/Jhks7wu.png" group-title="WORLD NEWS",NHK World Japan
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_1M.m3u8
@@ -3688,6 +3687,11 @@ https://host.enicsnet.com/hls/gmanixigncode/index.m3u8
  
 #EXTINF:-1 tvg-logo="https://iili.io/d9AMggR.png" group-title="PHILIPPINES",GTV
 https://host.enicsnet.com/hls/gtvnixigncode/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://iili.io/doGYNpI.png" group-title="PHILIPPINES",Kapamilya Channel
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=bd17afb5dc9648a39be79ee3634dd4b8:3ecf305d54a7729299b93a3d69c02ea5
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-kapcha-dash-abscbnono/index.mpd
  
 #EXTINF:-1 tvg-logo="https://iili.io/JmUFYsR.png" group-title="PHILIPPINES",TV5
 https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/tv5_qp.m3u8
