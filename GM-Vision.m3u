@@ -1617,7 +1617,6 @@ https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
 https://live-01-01-tn.vodgc.net/TN24/index.m3u8
  
 #EXTINF:-1 tvg-id="Nation TV.th" tvg-logo="https://iili.io/JmKuhrX.png" group-title="THAI NEWS",Nation TV
-#EXTINF:-1 tvg-id="Nation TV.th" tvg-logo="https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/22.png" group-title="3BBGIGATV", Nation TV
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
