@@ -3242,12 +3242,12 @@ https://ott.zapitv.com/live/eds_c2/cuatro/dash_live_enc/cuatro.mpd
 #KODIPROP:inputstream.adaptive.license_key=6e1dbacf4b932a11cd6cecb741def23d:0375536d6e512003972d1d6ea1f4d7c0
 https://ott.zapitv.com/live/eds_c2/telecinco/dash_live_enc/telecinco.mpd
  
-#EXTINF:-1 tvg-id="LA 1" tvg-logo="https://iili.io/JmosN29.png" group-title="SPAIN",La 1
+#EXTINF:-1 tvg-id="LA1" tvg-logo="https://iili.io/JmosN29.png" group-title="SPAIN",La 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a3abc44525eef3b0a7af9138a9dbe34a:7740f8ae4223ce5ba293028f7f78f1c1
 https://ott.zapitv.com/live/eds_c2/la1_4k/dash_live_enc/la1_4k.mpd
  
-#EXTINF:-1 tvg-id="LA 2" tvg-logo="https://iili.io/JmosO7e.png" group-title="SPAIN",La 2
+#EXTINF:-1 tvg-id="LA2" tvg-logo="https://iili.io/JmosO7e.png" group-title="SPAIN",La 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ecd7ee75e0e88f267ace6bd7d9d70d83:eb196d2b2dc28418f465532c5d1182c0
 https://ott.zapitv.com/live/eds_c2/la_2/dash_live_enc/la_2.mpd
