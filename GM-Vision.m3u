@@ -2799,10 +2799,10 @@ https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(knbc)/mas
 #KODIPROP:inputstream.adaptive.license_key=e1f756cffcc838e28a3da6541c00ee8b:1444b1c17a5c1f78435de12dcff47c8e
 https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL1-CTR-4s/Live/channel(WNJU)/master.mpd
  
-#EXTINF:-1 tvg-id="Univision 41" tvg-logo="https://iili.io/JysWTYB.png" group-title="USA",Univisión
+#EXTINF:-1 tvg-id="Univision Network HDTV" tvg-logo="https://iili.io/JysWTYB.png" group-title="USA",Univisión
 http://23.237.66.106:25461/now_160322/now2.php?id=UNIVISIONMIAMI&calidad=hd&.m3u8
  
-#EXTINF:-1 tvg-id="UniMás" tvg-logo="https://iili.io/JysWukP.png" group-title="USA",Unimás
+#EXTINF:-1 tvg-id="UniMÃ¡s (East)" tvg-logo="https://iili.io/JysWukP.png" group-title="USA",Unimás
 http://23.237.66.106:25461/now_160322/now2.php?id=UNIMASMIAMI&calidad=hd&.m3u8
  
 #EXTINF:-1 tvg-id="BBCOne.uk" tvg-logo="https://iili.io/d9BEhyQ.png" group-title="UK",BBC One
