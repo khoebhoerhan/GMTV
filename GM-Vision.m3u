@@ -505,11 +505,6 @@ https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/ch
 #EXTINF:-1 tvg-id="396.astro" tvg-logo="https://iili.io/Jmo2MGe.png" group-title="KOREAN ENTERTAINMENT",K-Plus
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/kplus.m3u8
  
-#EXTINF:-1 tvg-id="471.unifi" tvg-logo="https://iili.io/Jmo2DMX.png" group-title="JAPANESE ENTERTAINMENT",Gem
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/mewatch/gem
-https://aqfadtv.xyz/live/mewatch/gem/index.mpd
- 
 #EXTINF:-1 tvg-id="472.unifi" tvg-logo="https://iili.io/Jmo2ycG.png" group-title="JAPANESE ENTERTAINMENT",Animax
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alphastro supersporta
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
