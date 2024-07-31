@@ -1182,6 +1182,12 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
  
 #EXTINF:-1 tvg-id="CN8" tvg-logo="https://iili.io/JmKwNi7.png" group-title="AFRICAN NEWS",CNBC Africa
 https://5be2f59e715dd.streamlock.net/CNBC/smil:CNBCSandton.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="HD2" tvg-logo="https://iili.io/dukKzas.png" group-title="AFRICAN NEWS",eNCA
+http://185.59.221.131:8081/live/enca/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SAN" tvg-logo="https://iili.io/dukKI8G.png" group-title="AFRICAN NEWS",SABC News
+https://sabconetanw.cdn.mangomolo.com/news/smil:news.stream.smil/index.m3u8
  
 #EXTINF:-1 tvg-id="PressTV.ir" tvg-logo="https://iili.io/Jhkscnj.png" group-title="WORLD NEWS",Press TV
 https://live.presstv.ir/hls/presstv.m3u8
