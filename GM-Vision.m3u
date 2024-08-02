@@ -161,10 +161,7 @@ https://nin.siar.us/tatv/live.sdp/playlist.m3u8
  
 #EXTINF:-1 tvg-logo="https://iili.io/JbtnuBn.png" group-title="LOKAL",Sangaji TV
 https://cdn.gunadarma.ac.id/streams/sangajitv/ingestsangajitv.m3u8
- 
-#EXTINF:-1 tvg-logo="https://iili.io/Jbto2u2.png" group-title="LOKAL",JITV
-https://mam.jogjaprov.go.id:1937/tv/jitv/chunklist_w163357330.m3u8
- 
+  
 #EXTINF:-1 tvg-logo="https://iili.io/Jbto3jS.png" group-title="LOKAL",Jogja TV
 https://stream.jogjatv.co.id/jtvlive/stream/index.m3u8
  
@@ -176,6 +173,9 @@ http://103.30.1.14:8080/hls/live.m3u8
  
 #EXTINF:-1 tvg-logo="https://iili.io/Jbtncp2.png" group-title="LOKAL",Surabaya TV
 https://e.siar.us/live/surabayatv.m3u8
+
+#EXTINF:-1 tvg-logo="https://iili.io/dR393Cl.png" group-title="LOKAL",PJTV
+https://63b2dc7196c38.streamlock.net:1937/ch30/myStream/playlist.m3u8
  
 #EXTINF:-1 tvg-logo="https://iili.io/Jm9IUfR.png" group-title="LOKAL",AFB TV
 #EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
@@ -233,6 +233,9 @@ https://b.webcache.maxindo.net.id/dhamma/dhamma.m3u8
  
 #EXTINF:-1 tvg-logo="https://iili.io/Jbtnipp.png" group-title="LOKAL",Dhoho TV
 https://dhohotv.siar.us/dhohotv/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://iili.io/Jbto2u2.png" group-title="LOKAL",JITV
+https://mam.jogjaprov.go.id:1937/tv/jitv/chunklist_w163357330.m3u8
  
 #EXTINF:-1 tvg-logo="https://iili.io/Jbtox8x.png" group-title="LOKAL",Kilisuci TV
 https://5bf7b725107e5.streamlock.net:443/kstv/kstv/playlist.m3u8
@@ -246,7 +249,7 @@ https://ams.juraganstreaming.com:5443/LiveApp/streams/jambitv.m3u8
 #EXTINF:-1 tvg-logo="https://iili.io/JbtoHv4.png" group-title="LOKAL",Jek TV
 https://63b2dc7196c38.streamlock.net:1937/ch14/myStream/playlist.m3u8
  
-#EXTINF:-1 tvg-logo="https://iili.io/Jbtofn9.png" group-title="LOKAL",Kawanua TV
+#EXTINF:-1 tvg-logo="https://iili.io/dR30Mxe.png" group-title="LOKAL",Kawanua TV
 http://63b2dc7196c38.streamlock.net:1935/ch18/myStream/playlist.m3u8
  
 #EXTINF:-1 tvg-logo="https://iili.io/JbtoqGe.png" group-title="LOKAL",MGS TV
@@ -2882,7 +2885,7 @@ https://wp1-obc0910-live-ch-prod.prod.cdn.dmdsdp.com/dash/SV00306/manifest.mpd
 #EXTINF:-1 tvg-id="ABCTVSydney.au" tvg-logo="https://iili.io/Jmort8G.png" group-title="AUSTRALIA",ABC TV
 https://c.mjh.nz/abc-qld.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
  
-#EXTINF:-1 tvg-id="ABCTVPlusSydney.au" tvg-logo="https://iili.io/Jmors6X.png" group-title="AUSTRALIA",ABC TV Plus
+#EXTINF:-1 tvg-id="ABCTVPlusSydney.au" tvg-logo="https://iili.io/dR3wpuj.png" group-title="AUSTRALIA",ABC Family
 https://c.mjh.nz/abc-tv-plus.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
  
 #EXTINF:-1 tvg-id="SBSSydney.au" tvg-logo="https://iili.io/JmorQFn.png" group-title="AUSTRALIA",SBS
