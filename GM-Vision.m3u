@@ -541,10 +541,12 @@ https://olsp.live.dash.c4assets.com/dash_iso_sp_tl/live/channel(m4)/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=0000000000000000000000000034730a:19bfb83e0e0f40f6eef4eccedbfa7bb8
 https://olsp.live.dash.c4assets.com/dash_iso_sp_tl/live/channel(4s)/manifest.mpd
 
-#EXTINF:-1 tvg-id="USANetworkEast.us" tvg-logo="https://iili.io/Jmo3RoP.png" group-title="AMERICAN ENTERTAINMENT",USA Network
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=882c9f5613b43b47adc70aa968a308ce:de534ef8914bfe62ba3cdd6bdb9e1c04
-https://cfrt.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-east)/master.mpd
+#EXTINF:-1 tvg-id="USANetworkWest.us" tvg-logo="https://iili.io/Jmo3RoP.png" group-title="AMERICAN ENTERTAINMENT",USA Network
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=252a671825ba31ec8433f978c32ccf6d:ee560759ecc8d2274df2e63fcef56915
+https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-west)/master.mpd?deviceId=YzM0NDA0MTItMGYyMC0zNGQ0LTliMjMtNDY4MjE1ZjA5NmZj
 
 #EXTINF:-1 tvg-id="UNIVERSO (East)" tvg-logo="https://iili.io/dxjZc79.png" group-title="AMERICAN ENTERTAINMENT",Universo
 #KODIPROP:inputstreamaddon=inputstream.adaptive
