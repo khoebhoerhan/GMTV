@@ -547,9 +547,11 @@ https://olsp.live.dash.c4assets.com/dash_iso_sp_tl/live/channel(4s)/manifest.mpd
 https://cfrt.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-east)/master.mpd
 
 #EXTINF:-1 tvg-id="UNIVERSO (East)" tvg-logo="https://iili.io/dxjZc79.png" group-title="AMERICAN ENTERTAINMENT",Universo
-#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=232d71bb013d39ffb92ee8c576fb7e8e:087408a48be8d57046c3868b37ea90ba
-https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(universo-east)/master.mpd
+https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL1-CTR-4s/Live/channel(universo-east)/master.mpd
  
 #EXTINF:-1 tvg-id="TNTEast.us" tvg-logo="https://iili.io/Jmo35V1.png" group-title="AMERICAN ENTERTAINMENT",TNT
 http://fl2.moveonjoy.com/TNT/index.m3u8
