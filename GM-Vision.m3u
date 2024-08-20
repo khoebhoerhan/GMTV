@@ -1319,7 +1319,7 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:negara/manifest.mpd?id=8
 https://d25tgymtnqzu8s.cloudfront.net/smil:rakyat/manifest.mpd?id=7
  
 #EXTINF:-1 tvg-id="CNN Portugal HD.pt" tvg-logo="https://iili.io/Jhky4Np.png" group-title="PORTUGUESE NEWS",CNN Portugal
-https://sktv-forwarders.7m.pl/get.php?x=CNN_Portugal
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tvipt/sh/cnnpt.m3u8
  
 #EXTINF:-1 tvg-id="SICNoticias.pt" tvg-logo="https://iili.io/JhkyrRR.png" group-title="PORTUGUESE NEWS",SIC Notícias
 https://cdnapisec.kaltura.com/p/4526593/sp/4526593/playManifest/entryId/1_j8ztwihx/deliveryProfileId/672/protocol/https/format/applehttp/a.m3u8
