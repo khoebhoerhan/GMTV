@@ -1688,6 +1688,41 @@ https://cempedak-cdn-fly.mncnow.id/live/eds/BEIN04/sa_dash_vmx/BEIN04.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=57d2ac9210cfbca3596cc679a01c8b29:d5e35c0f39c76adf24853d7ea18c71e7
 https://cempedak-cdn-fly.mncnow.id/live/eds/BEIN05/sa_dash_vmx/BEIN05.mpd
+
+#EXTINF:-1 tvg-id="Champions TV 1" tvg-logo="https://iili.io/2lP4Kq7.png" group-title="NATIONAL SPORTS",Champions TV 1
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://luck.openwindows038.workers.dev/play?id=6685&type=drm
+https://luck.openwindows038.workers.dev/play.mpd?id=6685&type=dash
+
+#EXTINF:-1 tvg-id="Champions TV 2" tvg-logo="https://iili.io/2lP43sS.png" group-title="NATIONAL SPORTS",Champions TV 2
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://luck.openwindows038.workers.dev/play?id=6686&type=drm
+https://luck.openwindows038.workers.dev/play.mpd?id=6686&type=dash 
+
+#EXTINF:-1 tvg-id="Champions TV 3" tvg-logo="https://iili.io/2lP42X2.png" group-title="NATIONAL SPORTS",Champions TV 3
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://luck.openwindows038.workers.dev/play?id=6786&type=drm 
+https://luck.openwindows038.workers.dev/play.mpd?id=6786&type=dash
+
+#EXTINF:-1 tvg-id="Champions TV 5" tvg-logo="https://iili.io/2lP4dzl.png" group-title="NATIONAL SPORTS",Champions TV 5
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://luck.openwindows038.workers.dev/play?id=9182&type=drm 
+https://luck.openwindows038.workers.dev/play.mpd?id=9182&type=dash
+
+#EXTINF:-1 tvg-id="Champions TV 6" tvg-logo="https://iili.io/2lP4f19.png" group-title="NATIONAL SPORTS",Champions TV 6
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://luck.openwindows038.workers.dev/play?id=9183&type=drm 
+https://luck.openwindows038.workers.dev/play.mpd?id=9183&type=dash
  
 #EXTINF:-1 tvg-id="SPOTV HD - [Channel 427].id" tvg-logo="https://iili.io/JjzVsK7.png" group-title="NATIONAL SPORTS",SPOTV Indonesia
 #KODIPROP:inputstream.adaptive.license_type=clearkey
