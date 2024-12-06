@@ -1544,9 +1544,14 @@ https://d1hp2yai3k4ork.cloudfront.net/index_4.m3u8
 #EXTINF:-1 tvg-id="ANC" tvg-logo="https://iili.io/JmFyHGI.png" group-title="PINOY NEWS",ANC
 https://ancglobal-abscbn-ono.amagi.tv/playlist720_p.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://iili.io/JyPHDEg.png" group-title="PINOY NEWS",One News
+#EXTINF:-1 tvg-id="" tvg-logo="https://iili.io/2EyTX1V.png" group-title="PINOY NEWS",BNC
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d39eb201ae494a0b98583df4d110e8dd:6797066880d344422abd3f5eda41f45f
+https://qp-pldt-live-grp-05-prod.akamaized.net/out/u/bilyonaryoch.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://iili.io/JyPHDEg.png" group-title="PINOY NEWS",One News
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=227ffaf09bec4a889e0e0988704d52a2:b2d0dce5c486891997c1c92ddaca2cd2
 https://qp-pldt-live-grp-04-prod.akamaized.net/out/u/onenews_hd1.mpd
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://iili.io/JyPHtCF.png" group-title="PINOY NEWS",One PH
@@ -3277,7 +3282,7 @@ https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/tv5_hd.mpd
 #EXTINF:-1 tvg-id="Rptv.ph" tvg-logo="https://iili.io/JmUF7Wv.png" group-title="PHILIPPINES",RPTV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1917f4caf2364e6d9b1507326a85ead6:a1340a251a5aa63a9b0ea5d9d7f67595
-https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/cnn_rptv_prod_hd.mpd
+https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cnn_rptv_prod_hd.mpd
   
 #EXTINF:-1 tvg-id="SIC HD.pt" tvg-logo="https://iili.io/JmosndF.png" group-title="PORTUGAL",SIC
 https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index.m3u8
