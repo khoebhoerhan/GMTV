@@ -529,10 +529,10 @@ https://d1abp075u76pbq.cloudfront.net/live/eds/Animax/sa_dash_vmx/Animax.mpd
 https://cdnjt24.useetv.com/drm/live/smil:aniplus.smil/manifest.mpd
  
 #EXTINF:-1 tvg-id="398.astro" tvg-logo="https://iili.io/Jmo2pFs.png" group-title="JAPANESE ENTERTAINMENT",NHK World Premium
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alphastro supersporta
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTVLCOPT:http-referrer=https://visionplus.id
-https://cempedak-live-cdn.mncnow.id/live/eds/NHKWorldPremium/sa_dash_vmx/NHKWorldPremium.mpd
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=a56d6a274eb073cdf94754bd0ffe3335:10ad173ac7249bc42c8390c090ca09e3
+https://d1abp075u76pbq.cloudfront.net/live/eds/NHKWorldPremium/sa_dash_vmx/NHKWorldPremium.mpd
  
 #EXTINF:-1 tvg-id="E4.uk" tvg-logo="https://iili.io/d9mg8Is.png" group-title="BRITISH ENTERTAINMENT",E4
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -572,14 +572,6 @@ http://38.96.178.201:80/live/TBS/index.m3u8
 #EXTINF:-1 tvg-id="ComedyCentralEast.us" tvg-logo="https://iili.io/doKLV87.png" group-title="AMERICAN ENTERTAINMENT",Comedy Central
 http://fl3.moveonjoy.com/Comedy_Central/index.m3u8
 
-#EXTINF:-1 tvg-id="306.astro" tvg-logo="https://iili.io/JmyuSAG.png" group-title="CHINESE ENTERTAINMENT",Astro AEC
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#EXTHTTP:{"Authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6IllUVmtOalpsT1dVdE5HVTVZeTAwTkRnMExUbGxNamN0TVRWak56Qm1aVFJoTjJNMSIsIndtb3BpZCI6MzIsImV4cCI6MTcxOTQxMjUzOSwiaWF0IjoxNzE4ODA4NTM5fQ.1g0tkAX7Lveco97uCst1c0pFnKujtgrsgrSodCrB9dE"}
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://playidtvnew.000webhostapp.com/key/aec.html
-http://124.217.248.213:8080/https://d1yws6emo43ny.cloudfront.net/CH1/masterCH1.mpd
- 
 #EXTINF:-1 tvg-id="335.astro" tvg-logo="https://iili.io/Jmo3WxI.png" group-title="CHINESE ENTERTAINMENT",CCTV4
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/cctv4.m3u8
  
@@ -588,15 +580,12 @@ https://raw.githubusercontent.com/mimipipi22/lalajo/main/tvbxinghe.m3u8
  
 #EXTINF:-1 tvg-id="320.astro" tvg-logo="https://iili.io/Jmo3XVt.png" group-title="CHINESE ENTERTAINMENT",TVBS Asia
 http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
- 
-#EXTINF:-1 tvg-id="306.astro" tvg-logo="https://iili.io/JmyuSAG.png" group-title="CHINESE ENTERTAINMENT",Astro AEC
-https://bit.ly/3KmZcSs
- 
+  
 #EXTINF:-1 tvg-logo="https://iili.io/Jmo3hiX.png" group-title="CHINESE ENTERTAINMENT",Xing Kong TV
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTVLCOPT:http-referrer=https://visionplus.id
-https://cempedak-live-cdn.mncnow.id/live/eds/XingKongTV/sa_dash_vmx/XingKongTV.mpd
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=a8e1f7cdc8ed2515f795b3a8ff2713cb:36b8461eccdafbaa9ab41785123c9d36
+https://d1abp075u76pbq.cloudfront.net/live/eds/XingKongTV/sa_dash_vmx/XingKongTV.mpd
  
 #EXTINF:-1 tvg-id="518.astro" tvg-logo="https://iili.io/JmoKxjV.png" group-title="WORLD ENTERTAINMENT",ABC Australia
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1561,7 +1550,7 @@ https://qp-pldt-live-grp-05-prod.akamaized.net/out/u/bilyonaryoch.mpd
 
 #EXTINF:-1 tvg-id="Onenews Hd.ph" tvg-logo="https://iili.io/JyPHDEg.png" group-title="PINOY NEWS",One News
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=227ffaf09bec4a889e0e0988704d52a2:b2d0dce5c486891997c1c92ddaca2cd2
+#KODIPROP:inputstream.adaptive.license_key=d39eb201ae494a0b98583df4d110e8dd:6797066880d344422abd3f5eda41f45f
 https://qp-pldt-live-grp-04-prod.akamaized.net/out/u/onenews_hd1.mpd
 
 #EXTINF:-1 tvg-id="Oneph.ph" tvg-logo="https://iili.io/JyPHtCF.png" group-title="PINOY NEWS",One PH
