@@ -750,15 +750,6 @@ https://d1abp075u76pbq.cloudfront.net/live/eds/tvNMovies/sa_dash_vmx/tvNMovies.m
 #EXTVLCOPT:http-referrer=https://visionplus.id/
 https://d1abp075u76pbq.cloudfront.net/live/eds/Thrill/sa_dash_vmx/Thrill.mpd
 
-#EXTINF:-1 tvg-id="404.astro" tvg-logo="https://iili.io/dnmGJgp.png" group-title="ASIAN MOVIES",Boo
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://sg-sg-sg.astro.com.my
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=ea4d51ade01bbf3946e0de973051ba10:f3266bec607f25879f48640f30f1c888
-https://linearjitp02-playback.astro.com.my/dash-wv/dashiso/2407/default.mpd
- 
 #EXTINF:-1 tvg-id="Celestial Movies - [Channel 20].id" tvg-logo="https://iili.io/Jmod11a.png" group-title="CHINESE MOVIES",Celestial Movies
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=13aecb26aeee22bc86920045f22d134d:80aa44d998c7c0cc221c96d26730fe9b
@@ -822,10 +813,7 @@ http://210.210.155.35/uq2663/h/h18/index.m3u8?app_type=web&userid=4rr0w&tkn=bl4c
  
 #EXTINF:-1 tvg-id="SBSWorldMovies.au" tvg-logo="https://iili.io/Jmo9WeS.png" group-title="GENERAL MOVIES",SBS World Movies
 https://i.mjh.nz/sbs-world-movies.m3u8|x-forwarded-for=110.33.122.75&user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
- 
-#EXTINF:-1 tvg-id="108.astro" tvg-logo="https://iili.io/Jmpucq7.png" group-title="ASIAN MOVIES",Astro Citra
-https://bit.ly/3wV6KJ2
- 
+  
 #EXTINF:-1 tvg-id="My Cinema Asia.id" tvg-logo="https://iili.io/JmoHycx.png" group-title="ASIAN MOVIES",MyCinema Asia
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
