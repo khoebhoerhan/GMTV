@@ -1543,6 +1543,16 @@ https://d1hp2yai3k4ork.cloudfront.net/index_4.m3u8
  
 #EXTINF:-1 tvg-id="ANC" tvg-logo="https://iili.io/JmFyHGI.png" group-title="PINOY NEWS",ANC
 https://ancglobal-abscbn-ono.amagi.tv/playlist720_p.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://iili.io/JyPHDEg.png" group-title="PINOY NEWS",One News
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d39eb201ae494a0b98583df4d110e8dd:6797066880d344422abd3f5eda41f45f
+https://qp-pldt-live-grp-04-prod.akamaized.net/out/u/onenews_hd1.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://iili.io/JyPHtCF.png" group-title="PINOY NEWS",One PH
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=92834ab4a7e1499b90886c5d49220e46:a7108d9a6cfcc1b7939eb111daf09ab3
+https://qp-pldt-live-grp-04-prod.akamaized.net/out/u/oneph_sd.mpd
  
 #EXTINF:-1 tvg-logo="https://iili.io/JmFyJ4t.png" group-title="PINOY NEWS",UNTV
 https://ythls.armelin.one/channel/UC3XaG-7UVi2vD8ZZEMNnnpw.m3u8
