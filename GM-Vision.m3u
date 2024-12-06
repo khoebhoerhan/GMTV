@@ -1549,12 +1549,12 @@ https://ancglobal-abscbn-ono.amagi.tv/playlist720_p.m3u8
 #KODIPROP:inputstream.adaptive.license_key=227ffaf09bec4a889e0e0988704d52a2:b2d0dce5c486891997c1c92ddaca2cd2
 https://qp-pldt-live-grp-05-prod.akamaized.net/out/u/bilyonaryoch.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://iili.io/JyPHDEg.png" group-title="PINOY NEWS",One News
+#EXTINF:-1 tvg-id="Onenews Hd.ph" tvg-logo="https://iili.io/JyPHDEg.png" group-title="PINOY NEWS",One News
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=227ffaf09bec4a889e0e0988704d52a2:b2d0dce5c486891997c1c92ddaca2cd2
 https://qp-pldt-live-grp-04-prod.akamaized.net/out/u/onenews_hd1.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://iili.io/JyPHtCF.png" group-title="PINOY NEWS",One PH
+#EXTINF:-1 tvg-id="Oneph.ph" tvg-logo="https://iili.io/JyPHtCF.png" group-title="PINOY NEWS",One PH
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=92834ab4a7e1499b90886c5d49220e46:a7108d9a6cfcc1b7939eb111daf09ab3
 https://qp-pldt-live-grp-04-prod.akamaized.net/out/u/oneph_sd.mpd
@@ -3263,7 +3263,7 @@ https://nlziet-live.akamaized.net/L27/3d5aac95/1698e278.isml/.mpd
 #KODIPROP:inputstream.adaptive.license_key=056186c61345413abb45748810ae178e:b7a9b5ec9d080c888b92dd688c6c8644
 https://nlziet-live.akamaized.net/L14/b6727fe5/82d7dd4a.isml/.mpd
 
-#EXTINF:-1 tvg-logo="https://iili.io/2EyRuLJ.png" group-title="PHILIPPINES",A2Z
+#EXTINF:-1 tvg-id="A2Z.ph" tvg-logo="https://iili.io/2EyRuLJ.png" group-title="PHILIPPINES",A2Z
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f703e4c8ec9041eeb5028ab4248fa094:c22f2162e176eee6273a5d0b68d19530
 https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/cg_a2z.mpd
@@ -3279,7 +3279,7 @@ https://host.enicsnet.com/hls/gtvnixigncode/index.m3u8
 #KODIPROP:inputstream.adaptive.license_key=bd17afb5dc9648a39be79ee3634dd4b8:3ecf305d54a7729299b93a3d69c02ea5
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-kapcha-dash-abscbnono/index.mpd
 
-#EXTINF:-1 tvg-logo="https://iili.io/doGYNpI.png" group-title="PHILIPPINES",PTV
+#EXTINF:-1 tvg-id="Nbn4.ph" tvg-logo="https://iili.io/2EyRTXa.png" group-title="PHILIPPINES",PTV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=71a130a851b9484bb47141c8966fb4a3:ad1f003b4f0b31b75ea4593844435600
 https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/cg_ptv4_sd.mpd
