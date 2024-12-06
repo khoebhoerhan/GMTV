@@ -1758,6 +1758,39 @@ https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
 #KODIPROP:inputstream.adaptive.license_key=d2159ffe3be22ed4916a6abe4d58d265:3e4efcec08d5d5c18a403b7048a43638
 #EXTVLCOPT:http-referrer=https://visionplus.id/
 https://d1abp075u76pbq.cloudfront.net/live/eds/FightSports/sa_dash_vmx/FightSports.mpd
+
+#EXTINF:-1 tvg-id="SkySportsArenaHD.uk" tvg-logo="https://iili.io/2G3hPwP.png" group-title="BRITISH SPORTS",Sky Sports +
+https://ie.sonyrepairs.com/sksparena/index.m3u8
+
+#EXTINF:-1 tvg-id="SkySportsNFLHD.uk" tvg-logo="https://iili.io/JV1bsgj.png" group-title="BRITISH SPORTS",Sky Sports Action
+https://ie.sonyrepairs.com/skspnfl/index.m3u8
+
+#EXTINF:-1 tvg-id="SkySportsCricketHD.uk" tvg-logo="https://iili.io/JV1bPqu.png" group-title="BRITISH SPORTS",Sky Sports Cricket
+https://ie.sonyrepairs.com/skspcricket/index.m3u8
+
+#EXTINF:-1 tvg-id="SkySportsF1HD.uk" tvg-logo="https://iili.io/JV1b4se.png" group-title="BRITISH SPORTS",Sky Sports F1
+https://ie.sonyrepairs.com/skspf1/index.m3u8
+
+#EXTINF:-1 tvg-id="SkySportsFootballHD.uk" tvg-logo="https://iili.io/JV1bZ5Q.png" group-title="BRITISH SPORTS",Sky Sports Football
+https://ie.sonyrepairs.com/skspfootball/index.m3u8
+
+#EXTINF:-1 tvg-id="SkySportsGolfHD.uk" tvg-logo="https://iili.io/JV1bQdx.png" group-title="BRITISH SPORTS",Sky Sports Golf
+https://ie.sonyrepairs.com/skspgolf/index.m3u8
+
+#EXTINF:-1 tvg-id="SkySportsMainEventHD.uk" tvg-logo="https://iili.io/JV1bteV.png" group-title="BRITISH SPORTS",Sky Sports Main Event
+https://ie.sonyrepairs.com/skspmainevent/index.m3u8
+
+#EXTINF:-1 tvg-id="SkySportsMix.uk" tvg-logo="https://iili.io/JV1bDmB.png" group-title="BRITISH SPORTS",Sky Sports Mix
+https://ie.sonyrepairs.com/spspmix/index.m3u8
+
+#EXTINF:-1 tvg-id="SkySportsNewsHD.uk" tvg-logo="https://iili.io/JV1bmzP.png" group-title="BRITISH SPORTS",Sky Sport News
+https://ie.sonyrepairs.com/skspnews/index.m3u8
+
+#EXTINF:-1 tvg-id="SkySportsPremierLeagueHD.uk" tvg-logo="https://iili.io/JV1mHqg.png" group-title="BRITISH SPORTS",Sky Sports Premier League
+https://ie.sonyrepairs.com/sksppremierleague/index.m3u8
+
+#EXTINF:-1 tvg-id="SkySportsTennis.uk" tvg-logo="https://iili.io/JV1p7cJ.png" group-title="BRITISH SPORTS",Sky Sports Tennis
+https://ie.sonyrepairs.com/sktennis/index.m3u8
  
 #EXTINF:-1 tvg-id="TNTSports1.uk" tvg-logo="https://iili.io/JV1byLF.png" group-title="BRITISH SPORTS",TNT Sports 1
 #KODIPROP:inputstreamaddon=inputstream.adaptive
