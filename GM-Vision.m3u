@@ -3265,7 +3265,9 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-kapcha-dash-abscbnono
 https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/tv5_hd.mpd
 
 #EXTINF:-1 tvg-id="Rptv.ph" tvg-logo="https://iili.io/JmUF7Wv.png" group-title="PHILIPPINES",RPTV
-https://g1z1.short.gy/RPTV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1917f4caf2364e6d9b1507326a85ead6:a1340a251a5aa63a9b0ea5d9d7f67595
+https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/cnn_rptv_prod_hd.mpd
   
 #EXTINF:-1 tvg-id="SIC HD.pt" tvg-logo="https://iili.io/JmosndF.png" group-title="PORTUGAL",SIC
 https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index.m3u8
