@@ -854,6 +854,16 @@ https://cinemaone-abscbn-ono.amagi.tv/index_3.m3u8
 #EXTINF:-1 tvg-logo="https://iili.io/JmoJ98Q.png" group-title="PINOY MOVIES",Cinemo
 https://cinemo-abscbn-ono.amagi.tv/playlist720_p.m3u8
 
+#EXTINF:-1 tvg-id="Pbo.ph" tvg-logo="https://iili.io/2G9xVP2.png" group-title="PINOY MOVIES",PBO
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=dcbdaaa6662d4188bdf97f9f0ca5e830:31e752b441bd2972f2b98a4b1bc1c7a1
+https://qp-pldt-live-grp-04-prod.akamaized.net/out/u/pbo_sd.mpd
+
+#EXTINF:-1 tvg-id="Viva.ph" tvg-logo="https://iili.io/2G9Tn99.png" group-title="PINOY MOVIES",Viva Cinema
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=07aa813bf2c147748046edd930f7736e:3bd6688b8b44e96201e753224adfc8fb
+https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/viva_sd.mpd
+
 #EXTINF:-1 tvg-id="GREATaction.uk" tvg-logo="https://iili.io/d9p9nMN.png" group-title="BRITISH MOVIES",Great! Action
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -2709,6 +2719,11 @@ https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/pl_nba.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=fc19c98cb9504a0fb78b22fea0a4b814:ea683112a96d4ae6c32d4ea13923e8c7
 https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cg_premiersports_hd1.mpd
+
+#EXTINF:-1 tvg-id="Premier Tennishd.ph" tvg-logo="https://iili.io/2G9qWxV.png" group-title="PINOY SPORTS",Premier Sports 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=59454adb530b4e0784eae62735f9d850:ea683112a96d4ae6c32d4ea13923e8c7
+https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_premiertennishd.mpd
 
 #EXTINF:-1 tvg-logo="https://iili.io/Jmoa1Gn.png" group-title="CLUBS OF SPORTS",Real Madrid TV English
 https://rmtv-canela.amagi.tv/playlist.m3u8
