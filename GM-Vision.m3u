@@ -2297,46 +2297,29 @@ https://live-streaming-rsm.azureedge.net/wwehd/wwehd_cenc.isml/.mpd
 #EXTINF:-1 tvg-logo="https://iili.io/JmoI3G4.png" group-title="AMERICAN SPORTS",CBS Sports Golazo Network
 https://dai.google.com/linear/hls/event/GxrCGmwST0ixsrc_QgB6qw/master.m3u8
 
-#EXTINF:-1 tvg-id="TSN1 HD" tvg-logo="https://iili.io/Jhkb4NS.png" group-title="CANADIAN SPORTS",TSN 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0
+#EXTINF:-1 tvg-logo="https://iili.io/d9lhT0B.png" group-title="CANADIAN SPORTS",Sportsnet 360
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-https://livecdn-iptv001.rumsport.com/stream/770/manifest.mpd
- 
-#EXTINF:-1 tvg-id="TSN2 HD" tvg-logo="https://iili.io/JhkbsVe.png" group-title="CANADIAN SPORTS",TSN 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-https://livecdn-iptv001.rumsport.com/stream/771/manifest.mpd
- 
-#EXTINF:-1 tvg-id="TSN3 HD" tvg-logo="https://iili.io/Jhkbix9.png" group-title="CANADIAN SPORTS",TSN 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-https://livecdn-iptv001.rumsport.com/stream/772/manifest.mpd
- 
-#EXTINF:-1 tvg-id="TSN4 HD" tvg-logo="https://iili.io/Jhkb6D7.png" group-title="CANADIAN SPORTS",TSN 4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-https://livecdn-iptv001.rumsport.com/stream/773/manifest.mpd
- 
-#EXTINF:-1 tvg-id="TSN5 HD" tvg-logo="https://iili.io/JhkbLiu.png" group-title="CANADIAN SPORTS",TSN 5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-https://livecdn-iptv001.rumsport.com/stream/774/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key=27c0df9fa2e9314b8c49f824e1ff9d82:ff57bd34fde4c6022385879fe394dd6d
+https://live-d-02-rogers-uw-prd.akamaized.net/out/v1/r-prd/ch-06-prd-r-v2/dash-ch-06-prd-r-hd/index.mpd
 
 #EXTINF:-1 tvg-id="Sportsnet One HD.ca" tvg-logo="https://iili.io/d9lhuUP.png" group-title="CANADIAN SPORTS",Sportsnet One
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f9dd2ed9609f49309ddf07892d25b081:c1254109aaff73701fbea97dc1899b8e
-https://live-streaming-rsm.akamaized.net/sn1hd/sn1hd_cenc.isml/.mpd
+#KODIPROP:inputstream.adaptive.license_key=dbad1672b1bf3d0abd1c1c2161057f99:e1100c4e24f028d47a36ead37f0fd55f
+https://live-d-02-rogers-uw-prd.akamaized.net/out/v1/r-prd/ch-05-prd-r-v2/dash-ch-05-prd-r-hd/index.mpd
 
 #EXTINF:-1 tvg-logo="https://iili.io/d9lhT0B.png" group-title="CANADIAN SPORTS",Sportsnet World
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=44f6a1e5467d4df7a9da2d1b96ee62ca:157d3d7156dd1b288d661d453dbfc682
-https://live-streaming-rsm.azureedge.net/snwlh/snwlh_cenc.isml/.mpd
- 
-#EXTINF:-1 tvg-id="DAZN 1.tw" tvg-logo="https://iili.io/d06YU1p.png" group-title="TAIWANESE SPORTS",DAZN 1 Taiwan
-rtmp://220.130.201.73/sat/tv731
- 
-#EXTINF:-1 tvg-id="DAZN 2.tw" tvg-logo="https://iili.io/d06YSBR.png" group-title="TAIWANESE SPORTS",DAZN 2 Taiwan
-rtmp://220.130.201.73/sat/tv741
+#KODIPROP:inputstream.adaptive.license_key=bd68789dbfa53dc6a19f331f282d3d6a:6fdfea9d9893d58a207acdcba8f20012
+https://live-d-02-rogers-uw-prd.akamaized.net/out/v1/r-prd/ch-07-prd-r-v2/dash-ch-07-prd-r-hd/index.mpd
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://iili.io/dfPkRKG.png" group-title="CHINESE SPORTS",CCTV-5
 #EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21
