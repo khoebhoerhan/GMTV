@@ -1904,145 +1904,16 @@ https://dcf-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-028/stream.mpd
 https://dcf-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-022/stream.mpd
  
 #EXTINF:-1 tvg-id="Eurosport HD.it" tvg-logo="https://iili.io/JhkZx6v.png" group-title="ITALIAN SPORTS",Eurosport 1 Italia
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/5.9.7 Chrome/56.0.2924.122 Safari/537.36 Sky_STB_BCM7278_2019/1.0.0 (Sky, ES340UK, )
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0036bb3fa7e6f2c334d7cba5c28b6caf:217fa35739cd68e90b2cd23322c01312
-https://linear311-it-dash1-prd.selector.skycdn.it/016a/313073/FHD/eurosport/master.mpd
+#KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
+https://dcf-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-029/stream.mpd
  
 #EXTINF:-1 tvg-id="Eurosport 2 HD.it" tvg-logo="https://iili.io/JhkZIFR.png" group-title="ITALIAN SPORTS",Eurosport 2 Italia
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/5.9.7 Chrome/56.0.2924.122 Safari/537.36 Sky_STB_BCM7278_2019/1.0.0 (Sky, ES340UK, )
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=003670a7034342a4a07c91173818c61c:7b90055c1a1ea34d9090e9ebf6c4db8a
-https://linear312-it-dash1-prd.selector.skycdn.it/016a/31150/FHD/eurosport2/master.mpd
- 
-#EXTINF:-1 tvg-id="Sky Sport Arena.it" tvg-logo="https://iili.io/JhkZW9S.png" group-title="ITALIAN SPORTS",Sky Sport Arena
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=00368f2bf10736c9c2c02ab0fa694d00:92eec9d841ac0c1ff16b90a0db82c792
-https://linear304-it-dash1-prd-akg0.cdn13.skycdp.com/31024/FHD/skysportarena/master.mpd
- 
-#EXTINF:-1 tvg-id="Sky Sport Calcio.it" tvg-logo="https://iili.io/JhkZMS2.png" group-title="ITALIAN SPORTS",Sky Sport Calcio
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=00369a2c69176d5a2deff777247b6637:e122d4bad34c1e430ee349f5aac0060b
-https://linear301-it-dash1-prd-akp1.cdn13.skycdp.com/016a/31209/FHD/skysportseriea/master.mpd
- 
-#EXTINF:-1 tvg-id="Sky Sport F1.it" tvg-logo="https://iili.io/JhkZXA7.png" group-title="ITALIAN SPORTS",Sky Sport F1
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0036a96b6bbbf1828488f90e6b2ca1f4:d24e6ae926e88f8303b6926271ff8155
-https://linear304-it-dash1-prd-akg0.cdn13.skycdp.com/31478/FHD/skysportf1/master.mpd
- 
-#EXTINF:-1 tvg-id="Sky Sport Golf.it" tvg-logo="https://iili.io/JhkZjte.png" group-title="ITALIAN SPORTS",Sky Sport Golf
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=00360b7729f74bf56a0a4eb0eda15ec5:f8a5f4723c71ac84c2f1ff6f55939a63
-https://linear304-it-dash1-prd-akg0.cdn13.skycdp.com/32768/FHD/skysportgolf/master.mpd
- 
-#EXTINF:-1 tvg-id="Sky Sport Max.it" tvg-logo="https://iili.io/JhkZNou.png" group-title="ITALIAN SPORTS", Sky Sport Max
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0036f13bca1c5603b9f3bb28ec28fa80:f01403bcb5a02c61153d297fb0c4395f
-https://linear304-it-dash1-prd-akg0.cdn13.skycdp.com/31248/FHD/skysportmax/master.mpd
- 
-#EXTINF:-1 tvg-id="Sky Sport MotoGP.it" tvg-logo="https://iili.io/JhkZOMb.png" group-title="ITALIAN SPORTS",Sky Sport MotoGP
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=00362e9181eaa0c5f91761ade3515eb8:52cf3c27885d58ad76aaf36d4217a984
-https://linear306-it-dash1-prd-akg0.cdn13.skycdp.com/016a/31483/FHD/skysportmotogp/master.mpd
- 
-#EXTINF:-1 tvg-id="Sky Sport NBA.it" tvg-logo="https://iili.io/JhkZePj.png" group-title="ITALIAN SPORTS",Sky Sport NBA
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=00364eac2ffee337640e39682439b540:0960172d9000c470ade0658bd36c1d53
-https://linear301-it-dash1-prd-akg0.cdn13.skycdp.com/016a/31764/FHD/skysportnba/master.mpd
- 
-#EXTINF:-1 tvg-id="Sky Sport Tennis.it" tvg-logo="https://iili.io/JhkZvKx.png" group-title="ITALIAN SPORTS",Sky Sport Tennis
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0036fb7c564c4eb99e310f5fa82ab2f2:647f07b6858a669456e73ca103b4c2c0
-https://linear304-it-dash1-prd-akg0.cdn13.skycdp.com/32559/FHD/skysporttennis/master.mpd
- 
-#EXTINF:-1 tvg-id="Sky Sport Uno.it" tvg-logo="https://iili.io/JhkZGcl.png" group-title="ITALIAN SPORTS",Sky Sport Uno
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0036dc70e4d659fe5ae57b52793a1ff3:55517f806b6be917c2bf0e9cf9acc44f
-https://linear301-it-dash1-prd-akg0.cdn13.skycdp.com/016a/31023/FHD/skysportuno/master.mpd
-
-#EXTINF:-1 tvg-logo="https://iili.io/dH9SdOX.png" group-title="ITALIAN SPORTS",Sky Sport 251
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0036422cf4293ae7cf1e7f7062cc29e8:37a223fcc17c087043bc837432fd25d8
-https://linear304-it-dash1-prd-akg0.cdn13.skycdp.com/31917/FHD/skysport251/master.mpd
-
-#EXTINF:-1 tvg-logo="https://iili.io/dH9SJRt.png" group-title="ITALIAN SPORTS",Sky Sport 252
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=003643bc9d61268c987504fa93b397f6:b8d5767c73ff8bba68d955035b56f4c1
-https://linear304-it-dash1-prd-akg0.cdn13.skycdp.com/32951/FHD/skysport252/master.mpd
-
-#EXTINF:-1 tvg-logo="https://iili.io/dH9SHJI.png" group-title="ITALIAN SPORTS",Sky Sport 253
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0036077996d02761a9d4c29ddfac7466:e83d078779ae5b53e2eb999513d55682
-https://linear304-it-dash1-prd-akg0.cdn13.skycdp.com/32233/FHD/skysport253/master.mpd
-
-#EXTINF:-1 tvg-logo="https://iili.io/dH98yUN.png" group-title="ITALIAN SPORTS",Sky Sport 254
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=00369c14c20b78aadb1ec0e3c0e74979:e768767e2c7238d8069887bb36aed7fa
-https://linear304-it-dash1-prd-akg0.cdn13.skycdp.com/31234/FHD/skysport254/master.mpd
-
-#EXTINF:-1 tvg-logo="https://iili.io/dH9S2bn.png" group-title="ITALIAN SPORTS",Sky Sport 255
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0036b781a22ebb0c20c16ac27d5d1448:f309b94acfda720bf1ed5741489f8967
-https://linear304-it-dash1-prd-akg0.cdn13.skycdp.com/32910/FHD/skysport255/master.mpd
-
-#EXTINF:-1 tvg-logo="https://iili.io/dH9SFxs.png" group-title="ITALIAN SPORTS",Sky Sport 256
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=00366f263859fc1cc82d2c4da6a66ef6:754ae922d113c54349002cd9a88694a4
-https://linear304-it-dash1-prd-akg0.cdn13.skycdp.com/31912/FHD/skysport256/master.mpd
-
-#EXTINF:-1 tvg-logo="https://iili.io/dH9SKWG.png" group-title="ITALIAN SPORTS",Sky Sport 257
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0036faeace9872d3ceeb8b1b63f0baa3:dbd41ee944243307d39b7b27f16615a8
-https://linear304-it-dash1-prd-akg0.cdn13.skycdp.com/31775/FHD/skysport257/master.mpd
-
-
-#EXTINF:-1 tvg-logo="https://iili.io/dH9Sfsf.png" group-title="ITALIAN SPORTS",Sky Sport 258
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0036fd8ccfddba47c8b40aeff63a797c:dfd5c9d0f4ac6f3a1bd89803399e7026
-https://linear304-it-dash1-prd-akg0.cdn13.skycdp.com/32772/skysport258/master.mpd
-
-#EXTINF:-1 tvg-logo="https://iili.io/dH9SBf4.png" group-title="ITALIAN SPORTS",Sky Sport 259
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0036644f7699f43e401f88d920dc385c:e5b0cebdc3edd7996d283041535fce9c
-https://linear311-it-dash1-prd.selector.skycdn.it/31613/skysport259/master.mpd
+#KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
+https://dcf-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-030/stream.mpd
  
 #EXTINF:-1 tvg-id="SuperTennis HD.it" tvg-logo="https://iili.io/Jmo85fs.png" group-title="ITALIAN SPORTS",Super Tennis
 https://live-embed.supertennix.hiway.media/restreamer/supertennix_client/gpu-a-c0-16/restreamer/rtmp/hls/h24_supertennix/manifest.m3u8
