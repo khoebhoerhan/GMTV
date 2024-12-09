@@ -2233,6 +2233,55 @@ https://live-d-02-rogers-uw-prd.akamaized.net/out/v1/r-prd/ch-05-prd-r-v2/dash-c
 #KODIPROP:inputstream.adaptive.license_key=bd68789dbfa53dc6a19f331f282d3d6a:6fdfea9d9893d58a207acdcba8f20012
 https://live-d-02-rogers-uw-prd.akamaized.net/out/v1/r-prd/ch-07-prd-r-v2/dash-ch-07-prd-r-hd/index.mpd
 
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://iili.io/JmoIfF2.png", group-title="DUTCH SPORTS",ESPN Nederland
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=3e999e38253834baa63881ea451f2839:99b88d9cde1d8986decbc5985da87187
+https://da-d436234520010b88000103020000000000000007.id.cdn.upcbroadband.com/wp/wp1-anp-g05060506-hzn-nl.t1.prd.dyncdn.dmdsdp.com/live/disk1/NL_000107_019441/go-dash-fhd-avc/NL_000107_019441.mpd?p=starballtv
+
+#EXTINF:-1 tvg-id="Ziggo Sport.nl" tvg-logo="https://iili.io/Jhkm2ig.png" group-title="DUTCH SPORTS",Ziggo Sport
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0be3d503dba13fc9a9c8ad4b89f599e6:578c2231c526c5e9eb415411e36871bf
+https://wp7-anp-g05060506-hzn-nl.t1.prd.dyncdn.dmdsdp.com/live/disk1/NL_000014_019661/go-dash-fhd-avc/NL_000014_019661.mpd?p=web
+
+#EXTINF:-1 tvg-id="Ziggo Sport 2.nl" tvg-logo="https://iili.io/Jhkm2ig.png" group-title="DUTCH SPORTS",Ziggo Sport 2
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=16bf72dc22743d929c4318e193408373:eae51a1e3904124963074cbf432c7c8e
+https://wp2-anp-g05060506-hzn-nl.t1.prd.dyncdn.dmdsdp.com/live/disk1/NL_000095_019371/go-dash-fhd-avc/NL_000095_019371.mpd?p=web
+
+#EXTINF:-1 tvg-id="Ziggo Sport 3.nl" tvg-logo="https://iili.io/Jhkm2ig.png" group-title="DUTCH SPORTS",Ziggo Sport 3
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=16bf72dc22743d929c4318e193408373:eae51a1e3904124963074cbf432c7c8e
+https://wp3-anp-g05060506-hzn-nl.t1.prd.dyncdn.dmdsdp.com/live/disk1/NL_000096_019382/go-dash-fhd-avc/NL_000096_019382.mpd?p=web
+
+#EXTINF:-1 tvg-id="Ziggo Sport 4.nl" tvg-logo="https://iili.io/Jhkm2ig.png" group-title="DUTCH SPORTS",Ziggo Sport 4
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=16bf72dc22743d929c4318e193408373:eae51a1e3904124963074cbf432c7c8e
+https://wp4-anp-g05060506-hzn-nl.t1.prd.dyncdn.dmdsdp.com/live/disk1/NL_000097_019370/go-dash-fhd-avc/NL_000097_019370.mpd?p=web
+
+#EXTINF:-1 tvg-id="Ziggo Sport 5.nl" tvg-logo="https://iili.io/Jhkm2ig.png" group-title="DUTCH SPORTS",Ziggo Sport 5
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=16bf72dc22743d929c4318e193408373:eae51a1e3904124963074cbf432c7c8e
+https://wp5-anp-g05060506-hzn-nl.t1.prd.dyncdn.dmdsdp.com/live/disk1/NL_000098_019255/go-dash-fhd-avc/NL_000098_019255.mpd?p=web
+
+#EXTINF:-1 tvg-id="Ziggo Sport 6.nl" tvg-logo="https://iili.io/Jhkm2ig.png" group-title="DUTCH SPORTS",Ziggo Sport 6
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=16bf72dc22743d929c4318e193408373:eae51a1e3904124963074cbf432c7c8e
+https://wp6-anp-g05060506-hzn-nl.t1.prd.dyncdn.dmdsdp.com/live/disk1/NL_000099_019256/go-dash-fhd-avc/NL_000099_019256.mpd?p=web
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://iili.io/dfPkRKG.png" group-title="CHINESE SPORTS",CCTV-5
 #EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21
 https://node3.olelive.com:6443/live/CCTV5HD/hls.m3u8
@@ -2362,6 +2411,49 @@ https://director.streaming.telia.com/tvm-packager-prod/group1/60896c3647a23d7f11
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c02b1c0a644d5aa4b7176ae585c572dc:5a7799ea89ea65e3bac9a10684e616bc
 https://director.streaming.telia.com/tvm-packager-prod/group3/60b76e87baa9d5ddc9262457/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://iili.io/JhkLZXa.png" group-title="ARABIC SPORTS",beIN Sports 1
+http://gcf.nrslist.com:80/TVD4001/index.mpd
+
+#EXTINF:-1 tvg-logo="https://iili.io/JhkQ9dN.png" group-title="ARABIC SPORTS",beIN Sports 2
+http://gcf.nrslist.com:80/TVD4002/index.mpd
+
+#EXTINF:-1 tvg-logo="https://iili.io/JhkQCrl.png" group-title="ARABIC SPORTS",beIN Sports 3
+http://gcf.nrslist.com:80/TVD4003/index.mpd
+
+#EXTINF:-1 tvg-logo="https://iili.io/JhkQo22.png" group-title="ARABIC SPORTS",beIN Sports 4
+http://gcf.nrslist.com:80/TVD4004/index.mpd
+
+#EXTINF:-1 tvg-logo="https://iili.io/JhkQzk7.png" group-title="ARABIC SPORTS",beIN Sports 5
+http://gcf.nrslist.com:80/TVD4005/index.mpd
+
+#EXTINF:-1 tvg-logo="https://iili.io/JhkQIp9.png" group-title="ARABIC SPORTS",beIN Sports 6
+http://gcf.nrslist.com:80/TVD4006/index.mpd
+
+#EXTINF:-1 tvg-logo="https://iili.io/JhkQuIe.png" group-title="ARABIC SPORTS",beIN Sports 7
+http://gcf.nrslist.com:80/TVD4007/index.mpd
+
+#EXTINF:-1 tvg-logo="https://iili.io/JhkQl2V.png" group-title="ARABIC SPORTS",beIN Sports 8
+http://gcf.nrslist.com:80/TVD4062/index.mpd
+
+#EXTINF:-1 tvg-logo="https://iili.io/JhkQl2V.png" group-title="ARABIC SPORTS",beIN Sports 9
+http://gcf.nrslist.com:80/TVD4063/index.mpd
+
+#EXTINF:-1 tvg-id="beINSPORT" tvg-logo="https://iili.io/JhkQAhu.png" group-title="ARABIC SPORTS",beIN Sports AFC
+#EXTVLCOPT:http-user-agent=PDASH/V12.03(2024/05/30 14:00)
+http://gcf.nrslist.com:80/TVD4064/index.mpd
+
+#EXTINF:-1 tvg-id="beINSPORT" tvg-logo="https://iili.io/JhkQAhu.png" group-title="ARABIC SPORTS",beIN Sports AFC 1
+#EXTVLCOPT:http-user-agent=PDASH/V12.03(2024/05/30 14:00)
+http://gcf.nrslist.com:80/TVD4065/index.mpd
+
+#EXTINF:-1 tvg-id="beINSPORT" tvg-logo="https://iili.io/JhkQAhu.png" group-title="ARABIC SPORTS",beIN Sports AFC 2
+#EXTVLCOPT:http-user-agent=PDASH/V12.03(2024/05/30 14:00)
+http://gcf.nrslist.com:80/TVD4066/index.mpd
+
+#EXTINF:-1 tvg-id="beINSPORT" tvg-logo="https://iili.io/JhkQAhu.png" group-title="ARABIC SPORTS",beIN Sports AFC 3
+#EXTVLCOPT:http-user-agent=PDASH/V12.03(2024/05/30 14:00)
+http://gcf.nrslist.com:80/TVD4067/index.mpd
  
 #EXTINF:-1 tvg-id="2023 Alkass 1.ar" tvg-logo="https://iili.io/JhkLg0Q.png" group-title="ARABIC SPORTS",Alkass One
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
@@ -2423,12 +2515,6 @@ https://ssc-extra2-on-prem-ak.akamaized.net/out/v1/a525c44d152f4d238aa21af75945e
 #KODIPROP:inputstream.adaptive.license_key=9b05d5f11a0b422d86354c34782ed2bc:82aef319b4cfc71fd48cdd495ee79786
 https://ssc-extra3-on-prem-cw-ak.akamaized.net/out/v1/9d373d000ab64078b131f9d4c18e3502/index.mpd
  
-#EXTINF:-1 tvg-id="AD Sports 1 HD.ar" tvg-logo="https://iili.io/JhkLkzu.png" group-title="ARABIC SPORTS",Abu Dhabi Sports 1
-https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/playlist.m3u8
- 
-#EXTINF:-1 tvg-id="AD Sports 2 HD.ar" tvg-logo="https://iili.io/JhkLkzu.png" group-title="ARABIC SPORTS",Abu Dhabi Sports 2
-https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/playlist.m3u8
-
 #EXTINF:-1 tvg-id="AD Sports 1 HD.ar" tvg-logo="https://iili.io/JhkLkzu.png" group-title="ARABIC SPORTS",Abu Dhabi Sports Premium 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=eb5a3a48f3e191a00e3ac1e2d470c491:2c8b7198563527e524d66628c092ef1f
@@ -2438,6 +2524,13 @@ https://uselector.cdn.intigral-ott.net/ADSP1/ADSP1.isml/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=efca93272b9d34f5cf9d8598f43be5ea:55e5fe489e9c18f6c979c3126d4bcfed
 https://uselector.cdn.intigral-ott.net/ADSP2/ADSP2.isml/manifest.mpd
+
+#EXTINF:-1 tvg-id="AD Sports 2 HD.ar" tvg-logo="https://iili.io/JhkLkzu.png" group-title="ARABIC SPORTS",Starzplay Sports
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=42d7a462640c6748371d39f23e4a18c3:f4bef9f080f4a3a52dd55d5c3b8b81e2
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+https://uselector.cdn.intigral-ott.net/SPZ/SPZ.isml/manifest.mpd
  
 #EXTINF:-1 tvg-id="Yas TV HD.ar" tvg-logo="https://iili.io/JhkLObe.png" group-title="ARABIC SPORTS",Yas
 https://admdn1.cdn.mangomolo.com/yastv/smil:yastv.stream.smil/playlist.m3u8
