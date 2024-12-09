@@ -788,7 +788,7 @@ https://d1abp075u76pbq.cloudfront.net/live/eds/CelestialMovie/sa_dash_vmx/Celest
 #EXTVLCOPT:http-referrer=https://visionplus.id/
 https://d1abp075u76pbq.cloudfront.net/live/eds/CelestialClassic/sa_dash_vmx/CelestialClassic.mpd
  
-#EXTINF:-1 tvg-id="Zee Bioskop - [Channel 23].id" tvg-logo="https://iili.io/JmoHYvV.png" group-title="HINDI MOVIES",Zee Bioskop
+#EXTINF:-1 tvg-id="Zee Bioskop - [Channel 23].id" tvg-logo="https://iili.io/JmoHYvV.png" group-title="ASIAN MOVIES",Zee Bioskop
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9e7df70530006bef067327cefde82c0e:b92b6a2aba522bd9bb2d07cf241e7398
 #EXTVLCOPT:http-referrer=https://visionplus.id/
@@ -834,9 +834,6 @@ https://d1abp075u76pbq.cloudfront.net/live/eds/MyCinema/sa_dash_vmx/MyCinema.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 http://210.210.155.35/uq2663/h/h18/index.m3u8?app_type=web&userid=4rr0w&tkn=bl4ck&chname=My_Cinema_Europe_HD
  
-#EXTINF:-1 tvg-id="SBSWorldMovies.au" tvg-logo="https://iili.io/Jmo9WeS.png" group-title="GENERAL MOVIES",SBS World Movies
-https://i.mjh.nz/sbs-world-movies.m3u8|x-forwarded-for=110.33.122.75&user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
-
 #EXTINF:-1 tvg-id="Film4.uk" tvg-logo="https://iili.io/d9p9oPI.png" group-title="GENERAL MOVIES",Film4
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0000000000000000000000000066340a:627bcdc9e9556a74b05c5d311d8d2a61
@@ -868,18 +865,6 @@ https://qp-pldt-live-grp-04-prod.akamaized.net/out/u/pbo_sd.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=07aa813bf2c147748046edd930f7736e:3bd6688b8b44e96201e753224adfc8fb
 https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/viva_sd.mpd
- 
-#EXTINF:-1 tvg-id="Zee Cinema.in" tvg-logo="https://iili.io/JmoHayB.png" group-title="HINDI MOVIES",Zee Cinema
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeecinemahd/default/index.m3u8
- 
-#EXTINF:-1 tvg-id="andpictures HD.in" tvg-logo="https://iili.io/JmoH7YQ.png" group-title="HINDI MOVIES",&pictures
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Andpictureshd/default/index.m3u8
- 
-#EXTINF:-1 tvg-id="Zee Action.in" tvg-logo="https://iili.io/JmoH1ZF.png" group-title="HINDI MOVIES",Zee Action
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeeaction/default/index.m3u8
- 
-#EXTINF:-1 tvg-id="Zee Anmol Cinema.in" tvg-logo="https://iili.io/JmoHlTP.png" group-title="HINDI MOVIES",Zee Anmol Cinema
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeeanmolcinema/default/index.m3u8
  
 #EXTINF:-1 tvg-id="Be Mad" tvg-logo="https://iili.io/JmofPft.png" group-title="SPANISH MOVIES",Be Mad
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1267,9 +1252,6 @@ https://abc-news-dmd-streams-1.akamaized.net/out/v1/abc83881886746b0802dc3e7ca2b
  
 #EXTINF:-1 tvg-id="sky.85" tvg-logo="https://iili.io/JmKLFrG.png" group-title="AUSTRALIAN NEWS",Sky News Now
 https://amg00663-skynews-skynewsau-samsungau-r7n40.amagi.tv/playlist1080p.m3u8
- 
-#EXTINF:-1 tvg-id="SBSWorldWatch.au" tvg-logo="https://iili.io/JmKLJLX.png" group-title="AUSTRALIAN NEWS",SBS World Watch
-https://i.mjh.nz/sbs-world-watch.m3u8|x-forwarded-for=110.33.122.75&user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
  
 #EXTINF:-1 tvg-id="Al Jazeera HD.ar" tvg-logo="https://iili.io/JmKt8CP.png" group-title="ARABIC NEWS",Al Jazeera Channel
 https://live-hls-web-aja.getaj.net/AJA/01.m3u8
@@ -2927,18 +2909,6 @@ https://tvvvideolive3.solocoo.tv/blueskytvvlive7dash/bluertlclubhd/Manifest.mpd
 #EXTINF:-1 tvg-id="VTM.be" tvg-logo="https://iili.io/JmorNG1.png" group-title="BELGIUM",VTM
 https://dpp-live-events.medialaancdn.be/events/hls/aes/webstream1.m3u8
   
-#EXTINF:-1 tvg-id="Zee TV HD.in" tvg-logo="https://iili.io/Jmo41VI.png" group-title="INDIA",Zee TV
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeetv/default/index.m3u8
- 
-#EXTINF:-1 tvg-id="andtv HD.in" tvg-logo="https://iili.io/Jmo4hHG.png" group-title="INDIA",&tv
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Andtvhd/default/index.m3u8
- 
-#EXTINF:-1 tvg-id="E24.in" tvg-logo="https://iili.io/Jmo4Vln.png" group-title="INDIA",E24
-http://144.217.70.181:9587/hin2/E24/index.m3u8?token=test
- 
-#EXTINF:-1 tvg-id="Zoom.in" tvg-logo="https://iili.io/Jmo4WSs.png" group-title="INDIA",Zoom
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/zoom/master.m3u8
- 
 #EXTINF:-1 tvg-id="Rai 1 HD.it" tvg-logo="https://iili.io/Jmo4QWB.png" group-title="ITALY",Rai 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
