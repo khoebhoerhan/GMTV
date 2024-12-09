@@ -230,17 +230,11 @@ http://63b2dc7196c38.streamlock.net:1935/ch5/myStream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://iili.io/JbtnSCF.png" group-title="LOKAL",BMS TV
 https://5bf7b725107e5.streamlock.net/bmstv/bmstv/playlist.m3u8
  
-#EXTINF:-1 tvg-logo="https://iili.io/Jbtn6Yv.png" group-title="LOKAL",Dayak TV
-https://v5.siar.us/dayaktv/live/playlist.m3u8
- 
 #EXTINF:-1 tvg-logo="https://iili.io/JbtnPvR.png" group-title="LOKAL",Dhamma TV
 https://b.webcache.maxindo.net.id/dhamma/dhamma.m3u8
  
 #EXTINF:-1 tvg-logo="https://iili.io/Jbtnipp.png" group-title="LOKAL",Dhoho TV
 https://dhohotv.siar.us/dhohotv/live/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://iili.io/2l6yLEG.png" group-title="LOKAL",Gamalama TV
-https://ythls.armelin.one/channel/UCTqF-B3epH3NEGqu8J0nVYQ.m3u8
 
 #EXTINF:-1 tvg-logo="https://iili.io/Jbto2u2.png" group-title="LOKAL",JITV
 https://mam.jogjaprov.go.id:1937/tv/jitv/chunklist_w163357330.m3u8
@@ -1236,10 +1230,13 @@ http://41.205.93.154/FOXBUSINESS/index.m3u8
 https://liveprodusphoenixeast.global.ssl.fastly.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-02-81ykIWnsMsg_live.m3u8
  
 #EXTINF:-1 tvg-id="CNBC USA HD (1216).us" tvg-logo="https://iili.io/JhksIF2.png" group-title="AMERICAN NEWS",CNBC US
-http://fl3.moveonjoy.com/CNBC/index.m3u8
+https://tx1.nexgen.bz/CNBC/index.m3u8
  
 #EXTINF:-1 tvg-id="MSNBC USA HD (1215).us" tvg-logo="https://iili.io/JmKvove.png" group-title="AMERICAN NEWS",MSNBC
 http://41.205.93.154:80/MSNBC/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://iili.io/Jhv9BJj.png" group-title="AMERICAN NEWS",Newsmax
+https://nmx1ota.akamaized.net/hls/live/2107010/Live_1/index.m3u8
 
 #EXTINF:-1 tvg-id="NewsNation HD - Eastern Feed (1180).us" tvg-logo="https://iili.io/doKrWyG.png" group-title="AMERICAN NEWS",NewsNation
 http://fl2.moveonjoy.com/NEWS_NATION/index.m3u8
@@ -2296,9 +2293,7 @@ https://i.mjh.nz/PlutoTV/62b97ef310e33f0007eea65f-alt.m3u8
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bein-sports-xtra-en-espanol/playlist.m3u8
  
 #EXTINF:-1 tvg-id="The Golf Channel HDTV.us" tvg-logo="https://iili.io/JmozPja.png" group-title="AMERICAN SPORTS",Golf Channel USA
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d5c9203447ab38c5bf5b407cdd9de5e8:501464dfa2ac437098c35e1c4f16bb6b
-https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL1-CTR-4s/Live/channel(golf)/master.mpd
+https://tx1.nexgen.bz/GOLF/index.m3u8
  
 #EXTINF:-1 tvg-id="MLB Network HDTV.us" tvg-logo="https://iili.io/Jmoz6Tg.png" group-title="AMERICAN SPORTS",MLB Network
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
@@ -2837,6 +2832,9 @@ http://fl1.moveonjoy.com/ABC_EAST/index.m3u8
  
 #EXTINF:-1 tvg-id="CBS (KPIX) San Francisco, CA HD (1005).us" tvg-logo="https://iili.io/JmoUFcJ.png" group-title="USA",CBS East
 http://fl2.moveonjoy.com/CBSEAST/index.m3u8
+
+#EXTINF:-1 tvg-id="The CW.us" tvg-logo="https://iili.io/2MTrtKg.png" group-title="USA",CW East
+https://tx2.nexgen.bz/WPIX/index.m3u8
  
 #EXTINF:-1 tvg-id="FOX (WMSN) Madison, WI (47).us" tvg-logo="https://iili.io/JmoUJMF.png" group-title="USA",Fox East
 http://fl1.moveonjoy.com/FOX_EAST/index.m3u8
