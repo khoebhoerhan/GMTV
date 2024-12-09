@@ -805,10 +805,7 @@ https://d1abp075u76pbq.cloudfront.net/live/eds/HitsMovies/sa_dash_vmx/HitsMovies
 #KODIPROP:inputstream.adaptive.license_key=958df746f24f371dffc95e7cd714fbd7:fbd6e4540b9a917a27da8be01542f53f
 #EXTVLCOPT:http-referrer=https://visionplus.id/
 https://d1abp075u76pbq.cloudfront.net/live/eds/CinemaWorld/sa_dash_vmx/CinemaWorld.mpd
- 
-#EXTINF:-1 tvg-id="SONY PIX HD" tvg-logo="https://iili.io/Jmo9uJp.png" group-title="GENERAL MOVIES",Sony Pix
-https://raw.githubusercontent.com/tivigratis/tv/main/SonyPix.m3u8
- 
+  
 #EXTINF:-1 tvgv-id="Galaxy - [Channel 13].id" tvg-logo="https://iili.io/Jmo9aXn.png" group-title="GENERAL MOVIES",Galaxy
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e5c40292f8d01b1d5f0c6b3904d73104:bcb2ac12e11c69594ba217bfe8714efe
@@ -883,12 +880,6 @@ https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeeaction/default/index.m3u8
  
 #EXTINF:-1 tvg-id="Zee Anmol Cinema.in" tvg-logo="https://iili.io/JmoHlTP.png" group-title="HINDI MOVIES",Zee Anmol Cinema
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeeanmolcinema/default/index.m3u8
- 
-#EXTINF:-1 tvg-id="SONY MAX" tvg-logo="https://iili.io/JmoHMGa.png" group-title="HINDI MOVIES",Sony Max
-https://raw.githubusercontent.com/tivigratis/tv/main/SonyMax.m3u8
- 
-#EXTINF:-1 tvg-id="SONY MAX 2.in" tvg-logo="https://iili.io/JmoHGCg.png" group-title="HINDI MOVIES",Sony Max 2
-https://raw.githubusercontent.com/tivigratis/tv/main/SonyMAX2.m3u8
  
 #EXTINF:-1 tvg-id="Be Mad" tvg-logo="https://iili.io/JmofPft.png" group-title="SPANISH MOVIES",Be Mad
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -2009,21 +2000,6 @@ https://ott.zapitv.com/live/eds_c2/eurosport_2_hd/dash_live_enc/eurosport_2_hd.m
 #KODIPROP:inputstream.adaptive.license_key=1937b8f0dc833e0a8f457240972e440d:8cbb79a6410cc0d0d80d148f282afd95
 https://ott.zapitv.com/live/eds_c2/teledeporte_hd/dash_live_enc/teledeporte_hd.mpd
  
-#EXTINF:-1 tvg-id="SONY SPORTS TEN 1 HD.in" tvg-logo="https://iili.io/JbnBO3N.png" group-title="INDIAN SPORTS",Sony Ten 1
-https://raw.githubusercontent.com/tivigratis/tv/main/SonyTEN1.m3u8
- 
-#EXTINF:-1 tvg-id="SONY SPORTS TEN 2 HD.in" tvg-logo="https://iili.io/JbnBjGR.png" group-title="INDIAN SPORTS",Sony Ten 2
-https://raw.githubusercontent.com/tivigratis/tv/main/SonyTEN2.m3u8
- 
-#EXTINF:-1 tvg-id="SONY SPORTS TEN 3 HD.in" tvg-logo="https://iili.io/JbnBhCv.png" group-title="INDIAN SPORTS",Sony Ten 3
-https://raw.githubusercontent.com/tivigratis/tv/main/SonyTEN3.m3u8
- 
-#EXTINF:-1 tvg-id="62289" tvg-logo="https://iili.io/JbnBeaI.png" group-title="INDIAN SPORTS",Sony Ten 4
-https://raw.githubusercontent.com/tivigratis/tv/main/SonyTEN4.m3u8
- 
-#EXTINF:-1 tvg-id="SONY SPORTS TEN 5 HD.in" tvg-logo="https://iili.io/JbnBSun.png" group-title="INDIAN SPORTS",Sony Ten 5
-https://raw.githubusercontent.com/tivigratis/tv/main/SonyTEN5.m3u8
-
 #EXTINF:-1 tvg-id="Eleven Sports 1 HD.pl" tvg-logo="https://iili.io/2lsmrep.png" group-title="POLISH SPORTS",Eleven Sports 1
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -2172,72 +2148,6 @@ https://dcf-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-052/stream.mpd
 #KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
 https://dcf-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-053/stream.mpd
 
-#EXTINF:-1 tvg-id="Arena PREMIUM 1.rs" tvg-logo="https://iili.io/Jmo50Cu.png" group-title="SERBIAN SPORTS",Arena Premium 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
-https://webtvstream.bhtelecom.ba/hls6/as_premium1.mpd
- 
-#EXTINF:-1 tvg-id="Arena PREMIUM 2.rs" tvg-logo="https://iili.io/Jmo5VYQ.png" group-title="SERBIAN SPORTS",Arena Premium 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
-https://webtvstream.bhtelecom.ba/hls6/as_premium2.mpd
- 
-#EXTINF:-1 tvg-id="Arena PREMIUM 3.rs" tvg-logo="https://iili.io/Jmo5E4j.png" group-title="SERBIAN SPORTS",Arena Premium 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
-https://webtvstream.bhtelecom.ba/hls6/as_premium3.mpd
- 
-#EXTINF:-1 tvg-id="Arena Fight.rs" tvg-logo="https://iili.io/Jmo5M3x.png" group-title="SERBIAN SPORTS",Arena Fight
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
-https://webtvstream.bhtelecom.ba/hls6/arena_fight.mpd
- 
-#EXTINF:-1 tvg-id="Arena Sport 1x2.rs" tvg-logo="https://iili.io/Jmo5XyB.png" group-title="SERBIAN SPORTS",Arena Sport 1x2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
-https://webtvstream.bhtelecom.ba/hls6/arena_1x2.mpd
- 
-#EXTINF:-1 tvg-id="Arena Sport 1.rs" tvg-logo="https://iili.io/Jmo5WvV.png" group-title="SERBIAN SPORTS",Arena Sport 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
-https://webtvstream.bhtelecom.ba/hls6/arena1.mpd
- 
-#EXTINF:-1 tvg-id="Arena Sport 2.rs" tvg-logo="https://iili.io/Jmo5jTP.png" group-title="SERBIAN SPORTS",Arena Sport 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
-https://webtvstream.bhtelecom.ba/hls6/arena2.mpd
- 
-#EXTINF:-1 tvg-id="Arena Sport 3.rs" tvg-logo="https://iili.io/Jmo5wj1.png" group-title="SERBIAN SPORTS",Arena Sport 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
-https://webtvstream.bhtelecom.ba/hls6/arena3.mpd
- 
-#EXTINF:-1 tvg-id="Arena Sport 4.rs" tvg-logo="https://iili.io/Jmo5eCg.png" group-title="SERBIAN SPORTS",Arena Sport 4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
-https://webtvstream.bhtelecom.ba/hls6/arena4.mpd
- 
-#EXTINF:-1 tvg-id="Arena Sport 5.rs" tvg-logo="https://iili.io/Jmo5kGa.png" group-title="SERBIAN SPORTS",Arena Sport 5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
-https://webtvstream.bhtelecom.ba/hls6/arena5.mpd
- 
-#EXTINF:-1 tvg-id="Arena Sport 6.rs" tvg-logo="https://iili.io/Jmo51Eb.png" group-title="SERBIAN SPORTS",Arena Sport 6
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
-https://webtvstream.bhtelecom.ba/hls6/arena6.mpd
- 
 #EXTINF:-1 tvg-id="Bandsports.HD.br" tvg-logo="https://iili.io/Jmou322.png" group-title="BRASILIAN SPORTS",Band Sports
 https://d1r94zrwa3gnlo.cloudfront.net/livestore103/stream/hls/290/290.m3u8
  
@@ -2560,26 +2470,6 @@ http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunkl
  
 #EXTINF:-1 tvg-id="Dubai Sports 3.ar" tvg-logo="https://iili.io/JhkQ1kP.png" group-title="ARABIC SPORTS",Dubai Sports 3
 http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist_b1600000.m3u8
- 
-#EXTINF:-1 tvg-id="Eurosport 1 HD" tvg-logo="https://iili.io/JhkZx6v.png" group-title="TURKISH SPORTS",Eurosport 1 Türkiye
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36
-#EXTVLCOPT:http-referrer=https://www.blutv.com/
-#EXTVLCOPT:http-origin=https://www.blutv.com
-#EXTVLCOPT:mn-nl.mncdn.com
-https://mn-nl.mncdn.com/blutv_eurosport1/eurosport1_hd.smil/index.m3u8
- 
-#EXTINF:-1 tvg-id="Eurosport 2 HD" tvg-logo="https://iili.io/JhkZIFR.png" group-title="TURKISH SPORTS",Eurosport 2 Türkiye
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36
-#EXTVLCOPT:http-referrer=https://www.blutv.com/
-#EXTVLCOPT:http-origin=https://www.blutv.com
-#EXTVLCOPT:mn-nl.mncdn.com
-https://mn-nl.mncdn.com/blutv_eurosport2/eurosport2_hd.smil/index.m3u8
- 
-#EXTINF:-1 tvg-id="TRT SPOR HD" tvg-logo="https://iili.io/JmoRoUQ.png" group-title="TURKISH SPORTS",TRT Spor
-http://hw1.jemtv.com/app/trtspor/playlist.m3u8
-
-#EXTINF:-1 tvg-id="TRT SPOR YILDIZ" tvg-logo="https://iili.io/d3K5EQa.png" group-title="TURKISH SPORTS",TRT Spor Yildiz
-http://stream.tvcdn.net/spor/trt-spor-yildiz.m3u8
  
 #EXTINF:-1 tvg-id="825.astro" tvg-logo="https://iili.io/JmozxBR.png" group-title="WORLD SPORTS",Eurosport Asia
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
@@ -3036,13 +2926,7 @@ https://tvvvideolive3.solocoo.tv/blueskytvvlive7dash/bluertlclubhd/Manifest.mpd
  
 #EXTINF:-1 tvg-id="VTM.be" tvg-logo="https://iili.io/JmorNG1.png" group-title="BELGIUM",VTM
 https://dpp-live-events.medialaancdn.be/events/hls/aes/webstream1.m3u8
- 
-#EXTINF:-1 tvg-id="SET HD.in" tvg-logo="https://iili.io/Jmo4MKX.png" group-title="INDIA",SET
-https://raw.githubusercontent.com/tivigratis/tv/main/SonyEntertainment.m3u8
- 
-#EXTINF:-1 tvg-id="SONY SAB HD.in" tvg-logo="https://iili.io/Jmo4EPt.png" group-title="INDIA",Sony Sab
-https://raw.githubusercontent.com/tivigratis/tv/main/SonySAB.m3u8
- 
+  
 #EXTINF:-1 tvg-id="Zee TV HD.in" tvg-logo="https://iili.io/Jmo41VI.png" group-title="INDIA",Zee TV
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeetv/default/index.m3u8
  
