@@ -2580,6 +2580,13 @@ https://ssfm.siar.us/ssfm/live/playlist.m3u8
  
 #EXTINF:-1 tvg-id="DZMM Teleradyo HD.ua" tvg-logo="https://iili.io/Jmo8rqg.png" group-title="VISUAL RADIO",Teleradyo Serbisyo
 https://teleradyo-abscbn-ono.amagi.tv/playlist720_p.m3u8
+
+#EXTINF:-1 tvg-id="Truefmtv.ph" tvg-logo="https://iili.io/2MVX5sR.png" group-title="VISUAL RADIO", True TV
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=0559c95496d44fadb94105b9176c3579:40d8bb2a46ffd03540e0c6210ece57ce
+https://qp-pldt-live-grp-08-prod.akamaized.net/out/u/truefm_tv.mpd
  
 #EXTINF:-1 tvg-id="RRI NET.id" tvg-logo="https://iili.io/Jmo8ULF.png" group-title="VISUAL RADIO",RRI Net
 https://rrinet.rri.co.id/hls/live.m3u8
@@ -2801,78 +2808,18 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/tmc.m3
  
 #EXTINF:-1 tvg-id="W9.fr" tvg-logo="https://iili.io/Jmog3W7.png" group-title="FRANCE",W9
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/m6plus/w9.m3u8
- 
-#EXTINF:-1 tvg-id="Das Erste.de" tvg-logo="https://iili.io/Jmorz2s.png" group-title="GERMANY",Das Erste
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=667f821486adfa6df62b53e41fe60c65:be65cc2c378180153cbac97bc6ab8625
-https://p7s1-live-001-prod.akamaized.net/28df258a/t_009/daserste-de-hd/cenc-default.mpd
- 
-#EXTINF:-1 tvg-id="RTL.de" tvg-logo="https://iili.io/JmornEX.png" group-title="GERMANY",RTL
+  
+#EXTINF:-1 tvg-id="RTL.de" tvg-logo="https://iili.io/JmornEX.png" group-title="EUROPE",RTL
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=57e48b99f3f6d4f13f5c5afdcca084ca:29379a5e2d3405fad2f5d9cbe92586c3
 https://pnowlive-a.akamaized.net/live/rtlhd/dash/rtlhd.mpd
- 
-#EXTINF:-1 tvg-id="RTL Zwei.de" tvg-logo="https://iili.io/Jmoro4n.png" group-title="GERMANY",RTL II
-http://livetv.ktv.zone/67/play.m3u8
- 
-#EXTINF:-1 tvg-id="ProSieben MAXX.de" tvg-logo="https://iili.io/d93OE2s.png" group-title="GERMANY",Prosieben Maxx
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f373c6d4b40f79a4036331c5990cf57f:519c560107c16eef0706835744c2971c
-https://ac-001.live.p7s1video.net/52bec925/t_001/prosiebenmaxx-de-sd/cenc-default.mpd
- 
-#EXTINF:-1 tvg-id="ZDF.de" tvg-logo="https://iili.io/d9HrzUg.png" group-title="GERMANY",ZDF
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7757d3fa8cdab673a2dd9f3ed7b41360:96e498b70eeecfc0164ed4e0a78e36f3
-https://p7s1-live-001-prod.akamaized.net/45371d5a/t_009/zdf-de-hd/cenc-default.mpd
-
-#EXTINF:-1 tvg-id="La Une HD.be" tvg-logo="https://iili.io/d9luQIe.png" group-title="BELGIUM",La Une
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1a8315e4b64c4e638dc24d93134b9b2d:2821b54058fb3adc9c6252c631aef9e5
-https://daiconnect.com/live/dash/rtbf/laune-premium-drm-2/.mpd
-
-#EXTINF:-1 tvg-id="Tipik.be" tvg-logo="https://iili.io/d9lusp9.png" group-title="BELGIUM",Tipik
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=2f794d3c19854f4fa6f0183b993b86fa:37077d010758ce2cb85ca46720884b01
-https://daiconnect.com/live/dash/rtbf/tipik-premium-drm-2/.mpd
- 
-#EXTINF:-1 tvg-id="RTL tvi.be" tvg-logo="https://iili.io/JmorwCP.png" group-title="BELGIUM",RTL TVI
-https://github.com/inspirationlinks/m3u/raw/live/Streams/RTLTvi.m3u8
- 
-#EXTINF:-1 tvg-id="RTL club.be" tvg-logo="https://iili.io/d93h7fa.png" group-title="BELGIUM",RTL Club
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0993fbc9c0f242e8bab9483484ff974e:08d3d32f7efefb22a7a865f81b5c8276
-https://tvvvideolive3.solocoo.tv/blueskytvvlive7dash/bluertlclubhd/Manifest.mpd
- 
-#EXTINF:-1 tvg-id="VTM.be" tvg-logo="https://iili.io/JmorNG1.png" group-title="BELGIUM",VTM
-https://dpp-live-events.medialaancdn.be/events/hls/aes/webstream1.m3u8
   
-#EXTINF:-1 tvg-id="Rai 1 HD.it" tvg-logo="https://iili.io/Jmo4QWB.png" group-title="ITALY",Rai 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d79467df269743b3aca99a9171c54878:a7d3bc19bd09db6b581833e4a6176c8f
-https://da-d436236920010b8800010303000000000000000b.id.cdn.upcbroadband.com/wp/wp1-obc1112-live-ch-prod.prod.cdn.dmdsdp.com/dash/SV09101/manifest.mpd
- 
-#EXTINF:-1 tvg-id="Rai 2 HD.it" tvg-logo="https://iili.io/Jmo4ZiP.png" group-title="ITALY",Rai 2
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8398533768ae49be862f458edc78f828:609273c26c31a4090310e3945c0db5df
-https://wp1-obc1112-live-ch-prod.prod.cdn.dmdsdp.com/dash/SV09103/manifest.mpd
- 
+#EXTINF:-1 tvg-id="VTM.be" tvg-logo="https://iili.io/JmorNG1.png" group-title="EUROPE",VTM
+https://dpp-live-events.medialaancdn.be/events/hls/aes/webstream1.m3u8
+   
 #EXTINF:-1 tvg-id="Rai 3 HD.it" tvg-logo="https://iili.io/Jmo4Df1.png" group-title="ITALY",Rai 3
 http://wzstreaming.rai.it/TVlive/liveStream/playlist.m3u8
- 
-#EXTINF:-1 tvg-id="Rai 4.it" tvg-logo="https://iili.io/Jmo4mUg.png" group-title="ITALY",Rai 4
-http://37.18.239.36:8888/RAI_4/index.m3u8
- 
-#EXTINF:-1 tvg-id="Rai 5.it" tvg-logo="https://iili.io/Jmo4yJa.png" group-title="ITALY",Rai 5
-http://144.217.72.24/rai5/mono.m3u8
- 
+  
 #EXTINF:-1 tvg-id="Canale 5 HD.it" tvg-logo="https://iili.io/d93woZP.png" group-title="ITALY",Canale 5
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -2952,55 +2899,6 @@ http://onair.cdn.tvchosun.com/origin1/_definst_/tvchosun_s1/playlist.m3u8
 #EXTVLCOPT:http-referrer=http://broadcast.tvchosun.com/onair/on2.cstv
 http://onair2.cdn.tvchosun.com/origin2/_definst_/tvchosun_s3/playlist.m3u8
  
-#EXTINF:-1 tvg-id="NPO 1.nl" tvg-logo="https://iili.io/d93gCAu.png" group-title="NETHERLANDS",NPO 1
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7545f9301bf94e7a9132dccf32920e51:94fc134c1b1cb1ea9075781417eca48b
-https://nlziet-live.akamaized.net/L6/76fd047c/c427bd9d.isml/.mpd
- 
-#EXTINF:-1 tvg-id="NPO 1 Extra.nl" tvg-logo="https://iili.io/d93gnwb.png" group-title="NETHERLANDS",NPO 1 Extra
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e7795fb0c1304bc89d8a72a44303108a:67f2e3baeb3cce9ddf420e978e7a4177
-https://nlziet-live.akamaized.net/L3/50a64f9f/24ccd962.isml/.mpd
- 
-#EXTINF:-1 tvg-id="NPO 2.nl" tvg-logo="https://iili.io/d93gfS9.png" group-title="NETHERLANDS",NPO 2
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=cd2e51e9dadd4e38b2b8df5680f7aa43:ce1083c14ed247bbc693bbe6bf0fd36b
-https://nlziet-live.akamaized.net/L27/576200ff/17f23d2b.isml/.mpd
- 
-#EXTINF:-1 tvg-id="NPO 2 Extra.nl" tvg-logo="https://iili.io/d93gB9e.png" group-title="NETHERLANDS",NPO 2 Extra
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7315cdc56dc64379b276b1a005efe367:1513555cb0d563715a5a2137a24d7b79
-https://nlziet-live.akamaized.net/L3/b3e82241/0c9c5b24.isml/.mpd
- 
-#EXTINF:-1 tvg-id="NPO 3.nl" tvg-logo="https://iili.io/d93gotj.png" group-title="NETHERLANDS",NPO 3
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=fe20b1562fc045caa0e341cfad93e153:cea73dbdf65c288dbff24ad6af8d535e
-https://nlziet-live.akamaized.net/L7/7be0c2b0/358f270a.isml/.mpd
- 
-#EXTINF:-1 tvg-id="RTL4.nl" tvg-logo="https://iili.io/d93UnBp.png" group-title="NETHERLANDS",RTL 4
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8adf9e686f6b4c35a65c273c6ba5f50b:1db98fc062825c57a3369aa5fb762786
-https://nlziet-live.akamaized.net/L27/3d5aac95/1698e278.isml/.mpd
-
-#EXTINF:-1 tvg-id="SBS9.nl" tvg-logo="https://iili.io/doBG8rl.png" group-title="NETHERLANDS",Viaplay TV
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=056186c61345413abb45748810ae178e:b7a9b5ec9d080c888b92dd688c6c8644
-https://nlziet-live.akamaized.net/L14/b6727fe5/82d7dd4a.isml/.mpd
-
 #EXTINF:-1 tvg-id="A2Z.ph" tvg-logo="https://iili.io/2EyRuLJ.png" group-title="PHILIPPINES",A2Z
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f703e4c8ec9041eeb5028ab4248fa094:c22f2162e176eee6273a5d0b68d19530
@@ -3606,12 +3504,16 @@ https://streamingv2.shoutcast.com/dzrhmanila?type=.mp3
 https://stream.zeno.fm/fw1368t3vc9uv
 #EXTINF:-1 tvg-logo="https://iili.io/JmSTn2f.png" group-title="PINOY RADIO",Monster RX 93.1
 https://ph-icecast-win.eradioportal.com:8443/monsterrx
+#EXTINF:-1 tvg-logo="https://iili.io/2MWHCJ4.png" group-title="PINOY RADIO",True FM 105.9
+https://qp-pldt-live-grp-05-prod.akamaized.net/out/u/radyo5_qp_1.m3u8
 #EXTINF:-1 tvg-logo="https://iili.io/JmSTfBn.png" group-title="PINOY RADIO",Energy 106.7
 http://ph-icecast.eradioportal.com:8000/energyfm_manila
 #EXTINF:-1 tvg-logo="https://iili.io/JmSTBrG.png" group-title="PINOY RADIO",Home Radio
 https://hrmanila.radioca.st/stream
 #EXTINF:-1 tvg-logo="https://iili.io/JmSTq1s.png" group-title="PINOY RADIO",Love Radio
 https://s3.radio.co/sd43d6cc6d/listen
+#EXTINF:-1 tvg-logo="https://iili.io/2MVLtKN.png" group-title="PINOY RADIO",All Radio
+http://103.36.17.18:8000/stream
 #EXTINF:-1 tvg-logo="https://iili.io/JmSTo74.png" group-title="PINOY RADIO",MOR Entertainment
 https://playerservices.streamtheworld.com/api/livestream-redirect/MORFM_S01AAC_48.aac
 #EXTINF:-1 tvg-logo="https://iili.io/JmSTzp2.png" group-title="PINOY RADIO",Myx Radio
