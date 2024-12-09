@@ -3498,13 +3498,15 @@ http://stream.gmanews.tv/ioslive/livestream/playlist.m3u8
 https://23683.live.streamtheworld.com/DZMMAAC.aac?dist=tunein
 #EXTINF:-1 tvg-logo="https://iili.io/JmST2II.png" group-title="PINOY RADIO",Wish 107.5
 https://untv.mmdlive.lldns.net/untv/f55dcf9ae0f542d6a7614893d0c2dd83/manifest.m3u8
+#EXTINF:-1 tvg-logo="https://iili.io/2MWU52s.png" group-title="PINOY RADIO",FM 92.3
+http://us1.amfmph.com:8872/stream
 #EXTINF:-1 tvg-logo="https://iili.io/JmST3Xt.png" group-title="PINOY RADIO",DZRH News
 https://streamingv2.shoutcast.com/dzrhmanila?type=.mp3
 #EXTINF:-1 tvg-logo="https://iili.io/JmSTxkl.png" group-title="PINOY RADIO",Magic 89.9
 https://stream.zeno.fm/fw1368t3vc9uv
 #EXTINF:-1 tvg-logo="https://iili.io/JmSTn2f.png" group-title="PINOY RADIO",Monster RX 93.1
 https://ph-icecast-win.eradioportal.com:8443/monsterrx
-#EXTINF:-1 tvg-logo="https://iili.io/2MWHCJ4.png" group-title="PINOY RADIO",True FM 105.9
+#EXTINF:-1 tvg-id="Truefmtv.ph" tvg-logo="https://iili.io/2MWHCJ4.png" group-title="PINOY RADIO",True FM 105.9
 https://qp-pldt-live-grp-05-prod.akamaized.net/out/u/radyo5_qp_1.m3u8
 #EXTINF:-1 tvg-logo="https://iili.io/JmSTfBn.png" group-title="PINOY RADIO",Energy 106.7
 http://ph-icecast.eradioportal.com:8000/energyfm_manila
