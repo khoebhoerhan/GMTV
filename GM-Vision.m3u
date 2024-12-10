@@ -1163,7 +1163,7 @@ https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
 #EXTINF:-1 tvg-id="EN1" tvg-logo="https://iili.io/JmKwef9.png" group-title="AFRICAN NEWS",Africanews English
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/africanews/afrnabren_eng.m3u8
  
-#EXTINF:-1 tvg-id="CN8" tvg-logo="https://iili.io/JmKwNi7.png" group-title="AFRICAN NEWS",CNBC Africa
+#EXTINF:-1 tvg-id="CN8" tvg-logo="https://iili.io/2MUDZbe.png" group-title="AFRICAN NEWS",CNBC Africa
 https://5be2f59e715dd.streamlock.net/CNBC/smil:CNBCSandton.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="HD2" tvg-logo="https://iili.io/dukKzas.png" group-title="AFRICAN NEWS",eNCA
@@ -1258,6 +1258,9 @@ https://live.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8
  
 #EXTINF:-1 tvg-id="Sky News Arabia HD.ua" tvg-logo="https://iili.io/2M8dyrv.png" group-title="ARABIC NEWS",Sky News Arabia
 https://stream.skynewsarabia.com/hls/sna_720.m3u8
+
+#EXTINF:-1 tvg-id="CNBC Arabiya HD.ua" tvg-logo="https://iili.io/2MUbUp1.png" group-title="ARABIC NEWS",CNBC Arabia
+https://cnbc-live.akamaized.net/cnbc/master_1080p.m3u8
  
 #EXTINF:-1 tvg-id="TRT ARABI" tvg-logo="https://iili.io/JmKtkZB.png" group-title="ARABIC NEWS",TRT Arabi
 https://tv-trtarabi.medya.trt.com.tr/master.m3u8
