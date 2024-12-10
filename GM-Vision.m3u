@@ -2132,22 +2132,22 @@ https://dcf-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-053/stream.mpd
 https://d1r94zrwa3gnlo.cloudfront.net/livestore103/stream/hls/290/290.m3u8
  
 #EXTINF:-1 tvg-id="ESPN.br" tvg-logo="https://iili.io/JmoIfF2.png" group-title="BRASILIAN SPORTS",ESPN Brasil
-https://cdn-3.nxplay.com.br/ESPN/index.m3u8
+https://super-cdn.link/espn/index.m3u8
  
 #EXTINF:-1 tvg-id="ESPN.2.br" tvg-logo="https://iili.io/JmoI2nf.png" group-title="BRASILIAN SPORTS",ESPN 2 Brasil
-https://cdn-3.nxplay.com.br/ESPN_2/index.m3u8
+https://super-cdn.link/espn2/index.m3u8
  
 #EXTINF:-1 tvg-id="ESPN.3.br" tvg-logo="https://iili.io/Jmoudrl.png" group-title="BRASILIAN SPORTS",ESPN 3 Brasil
-https://cdn-3.nxplay.com.br/ESPN_3/index.m3u8
+https://super-cdn.link/espn3/index.m3u8
  
 #EXTINF:-1 tvg-id="ESPN.4.br" tvg-logo="https://iili.io/JmouJ14.png" group-title="BRASILIAN SPORTS",ESPN 4 Brasil
-https://cdn-3.nxplay.com.br/ESPN_4/index.m3u8
+https://super-cdn.link/espn4/index.m3u8
 
 #EXTINF:-1 tvg-id="Fox.Sports.2.HD.br" tvg-logo="https://iili.io/d9HjpYN.png" group-title="BRASILIAN SPORTS",ESPN 5 Brasil
 https://super-cdn.link/espn5/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN.Extra.br" tvg-logo="https://iili.io/d9HjyvI.png" group-title="BRASILIAN SPORTS",ESPN 6 Brasil
-https://cdn-3.nxplay.com.br/ESPN_EXTRA/index.m3u8
+https://super-cdn.link/espn6/index.m3u8
   
 #EXTINF:-1 tvg-id="Premierefchd.br" tvg-logo="https://iili.io/JmouF7S.png" group-title="BRASILIAN SPORTS",Premiere Clubes
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
