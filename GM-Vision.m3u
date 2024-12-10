@@ -1064,8 +1064,8 @@ https://d1abp075u76pbq.cloudfront.net/live/eds/Globaltrekker/sa_dash_vmx/Globalt
 #EXTINF:-1 tvg-id="502.unifi" tvg-logo="https://iili.io/JmoCsg1.png" group-title="SCIENCE & DOCUMENTARY",Love Nature
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c3066eaa0984588f78d12dcdb75ef88b:4e98eb4927941bff51ea526d223fa16d
-#EXTVLCOPT:http-referrer=https://visionplus.id/
-https://d1abp075u76pbq.cloudfront.net/live/eds/NatGeoWild/sa_dash_vmx/NatGeoWild.mpd
+#EXTVLCOPT:http-referrer=https://visionplus.id
+https://cempedak-cdn-fly.mncnow.id/live/eds/lovenature/sa_dash_vmx/lovenature.mpd
  
 #EXTINF:-1 tvg-id="Tech Storm.id" tvg-logo="https://iili.io/JmoCN07.png" group-title="SCIENCE & DOCUMENTARY",Tech Storm
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1086,24 +1086,18 @@ https://cdn08jtedge.indihometv.com/dassdvr/194/curiosity/manifest.mpd
 https://cdn08jtedge.indihometv.com/dassdvr/133/lingua/manifest.mpd
  
 #EXTINF:-1 tvg-id="Outdoor Channel.id" tvg-logo="https://iili.io/JmoCZ5g.png" group-title="SCIENCE & DOCUMENTARY",Outdoor Channel
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alphastro supersporta
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTVLCOPT:http-referrer=https://visionplus.id
-https://cempedak-live-cdn.mncnow.id/live/eds/NatGeoChannel/sa_dash_vmx/NatGeoChannel.mpd
- 
-#EXTINF:-1 tvg-id="NASA Public Educational Channel" tvg-logo="https://iili.io/JmoCQdF.png" group-title="SCIENCE & DOCUMENTARY",NASA TV Public
-https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
- 
-#EXTINF:-1 tvg-logo="https://iili.io/JmoCQdF.png" group-title="SCIENCE & DOCUMENTARY",NASA TV Media
-https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
- 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=05457a5e16a76fe666a22cc7ae2c6548:626e37901bfb985e994d714e9f9de1b5
+#EXTVLCOPT:http-referrer=https://visionplus.id/
+https://d1abp075u76pbq.cloudfront.net/live/eds/outdoorchannel/sa_dash_vmx/outdoorchannel.mpd
+  
 #EXTINF:-1 tvg-id="RTDoc.ru" tvg-logo="https://iili.io/JmoCtea.png" group-title="SCIENCE & DOCUMENTARY",RT Documentary
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://rt-rtd.rttv.com/live/rtdoc/playlist.m3u8
  
 #EXTINF:-1 tvg-id="CGTN Documentary - [Channel 205].id" tvg-logo="https://iili.io/JmoChs2.png" group-title="SCIENCE & DOCUMENTARY",CGTN Documentary
-https://livedoc.cgtn.com/1000d/prog_index.m3u8
+https://english-livebkws.cgtn.com/live/doccgtn_0.m3u8
  
 #EXTINF:-1 tvg-logo="https://iili.io/JmooMMl.png" group-title="SCIENCE & DOCUMENTARY",Fox Weather
 https://247wlive.foxweather.com/stream/index.m3u8
@@ -1155,7 +1149,7 @@ https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream05/strea
 https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
  
 #EXTINF:-1 tvg-id="610.unifi" tvg-logo="https://iili.io/JhksoG4.png" group-title="WORLD NEWS",CGTN
-https://live.cgtn.com/1000/prog_index.m3u8
+https://english-livebkws.cgtn.com/live/encgtn_0.m3u8
  
 #EXTINF:-1 tvg-id="TRTWorld.tr" tvg-logo="https://iili.io/Jhks06Q.png" group-title="WORLD NEWS",TRT World
 https://tv-trtworld.medya.trt.com.tr/master.m3u8
@@ -1255,8 +1249,14 @@ https://live-hls-web-aja.getaj.net/AJA/01.m3u8
  
 #EXTINF:-1 tvg-id="Al Arabiya HD.ua" tvg-logo="https://iili.io/JmKtSG1.png" group-title="ARABIC NEWS",Al Arabiya
 https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Al Arabiya Business.ua" tvg-logo="https://iili.io/2M897g2.png" group-title="ARABIC NEWS",Al Arabiya Business
+https://live.alarabiya.net/alarabiapublish/aswaaq.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Al Hadath HD.ua" tvg-logo="https://iili.io/2M8950l.png" group-title="ARABIC NEWS",Al Hadath
+https://live.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8
  
-#EXTINF:-1 tvg-id="Sky News Arabia HD.ua" tvg-logo="https://iili.io/JmKtOTQ.png" group-title="ARABIC NEWS",Sky News Arabia
+#EXTINF:-1 tvg-id="Sky News Arabia HD.ua" tvg-logo="https://iili.io/2M8dyrv.png" group-title="ARABIC NEWS",Sky News Arabia
 https://stream.skynewsarabia.com/hls/sna_720.m3u8
  
 #EXTINF:-1 tvg-id="TRT ARABI" tvg-logo="https://iili.io/JmKtkZB.png" group-title="ARABIC NEWS",TRT Arabi
@@ -1274,7 +1274,7 @@ https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/stream05/strea
 https://rt-arb.rttv.com/live/rtarab/playlist.m3u8
  
 #EXTINF:-1 tvg-id="CGTN Arabic.ar" tvg-logo="https://iili.io/JmKtejV.png" group-title="ARABIC NEWS",CGTN Arabic
-https://livear.cgtn.com/1000a/prog_index.m3u8
+https://arabic-livews.cgtn.com/hls/LSveq57bErWLinBnxosqjisZ220802LSTefTAS9zc9mpU08y3np9TH220802cd/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://iili.io/duwUZl4.png" group-title="ARABIC NEWS",Al Alam News Network
 https://live2.alalam.ir/alalam.m3u8
@@ -1340,7 +1340,7 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream05/strea
 https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
  
 #EXTINF:-1 tvg-id="CGTN Español" tvg-logo="https://iili.io/Jmf97a9.png" group-title="SPANISH NEWS",CGTN Español
-https://livees.cgtn.com/1000e/prog_index.m3u8
+https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
  
 #EXTINF:-1 tvg-id="HispanTV.ir" tvg-logo="https://iili.io/Jmf9A4S.png" group-title="SPANISH NEWS",Hispan TV
 https://live1.presstv.ir/live/hispan.m3u8
@@ -1372,7 +1372,7 @@ https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/main/Stream/Live/LCI.m3u8
 https://rt-fra.rttv.com/live/rtfrance/playlist.m3u8
  
 #EXTINF:-1 tvg-id="CGTNFrancais.cn" tvg-logo="https://iili.io/JhvHWZB.png" group-title="FRENCH NEWS",CGTN Français
-https://livefr.cgtn.com/1000f/prog_index.m3u8
+https://francais-livews.cgtn.com/hls/LSvev95OuFZtKLc6CeKEFYXj220802LSTeV6PO0Ut9r71Uq3k5goCA220802cd/playlist.m3u8
  
 #EXTINF:-1 tvg-id="PressTVFrench.ir" tvg-logo="https://iili.io/Jhkscnj.png" group-title="FRENCH NEWS",Press TV Français
 https://live1.presstv.ir/live/presstvfr/index.m3u8
