@@ -2708,16 +2708,16 @@ http://23.237.66.106:25461/now_160322/now2.php?id=UNIVISIONMIAMI&calidad=hd&.m3u
 http://23.237.66.106:25461/now_160322/now2.php?id=UNIMASMIAMI&calidad=hd&.m3u8
  
 #EXTINF:-1 tvg-id="BBC One London.uk" tvg-logo="https://iili.io/d9BEhyQ.png" group-title="UK",BBC One
-https://ie.sonyrepairs.com/bbcone/index.m3u8
+https://tvheadend.tannerserver.homedns.org/stream/channel/d403f70cfd2a3b4c8469a270ab129af1?profile=webtv-vp8-vorbis-webm
  
 #EXTINF:-1 tvg-id="BBC Two HD.uk" tvg-logo="https://iili.io/d9BEwuV.png" group-title="UK",BBC Two
-https://ie.sonyrepairs.com/bbctwo/index.m3u8
+https://tvheadend.tannerserver.homedns.org/stream/channel/70cd6366a5afe8f2353c1aec7185ad49?profile=webtv-vp8-vorbis-webm
 
 #EXTINF:-1 tvg-id="BBC Three HD.uk" tvg-logo="https://iili.io/d9lwQUB.png" group-title="UK",BBC Three
-https://ie.sonyrepairs.com/bbctree/index.m3u8
+https://tvheadend.tannerserver.homedns.org/stream/channel/3cf1e9c94ae3600c588a04a90587c8e0?profile=webtv-vp8-vorbis-webm
 
 #EXTINF:-1 tvg-id="BBCFour.uk" tvg-logo="https://iili.io/d9lwtHP.png" group-title="UK",BBC Four
-https://ie.sonyrepairs.com/bbcfour/index.m3u8
+https://tvheadend.tannerserver.homedns.org/stream/channel/480725923e254746411ade54fa9e530f?profile=webtv-vp8-vorbis-webm
  
 #EXTINF:-1 tvg-id="Channel 4 HD.uk" tvg-logo="https://iili.io/d9HZINn.png" group-title="UK",Channel 4
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -2745,12 +2745,6 @@ https://c.mjh.nz/abc-qld.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B
 #EXTINF:-1 tvg-id="ABC Entertains.au" tvg-logo="https://iili.io/dR3wpuj.png" group-title="AUSTRALIA",ABC Family
 https://c.mjh.nz/abc-tv-plus.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
  
-#EXTINF:-1 tvg-id="SBS HD.au" tvg-logo="https://iili.io/JmorQFn.png" group-title="AUSTRALIA",SBS
-https://i.mjh.nz/sbs.m3u8|x-forwarded-for=110.33.122.75&user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
- 
-#EXTINF:-1 tvg-id="Viceland HD.au" tvg-logo="https://iili.io/JmorZas.png" group-title="AUSTRALIA",SBS Viceland
-https://i.mjh.nz/sbs-viceland.m3u8|x-forwarded-for=110.33.122.75&user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
-
 #EXTINF:-1 tvg-id="RTÃ‰ One.ie" tvg-logo="https://iili.io/dEfJACb.png" group-title="IRELAND",RTÈ One
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=575e49ee6270de247bb5f814a98a6b2b:ac3d5c349891dba83977f967402e117c
