@@ -1437,6 +1437,9 @@ https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/ind
  
 #EXTINF:-1 tvg-id="CNN News18..in" tvg-logo="https://iili.io/Jbn2ZyG.png" group-title="INDIAN NEWS",CNN-News18
 https://n18syndication.akamaized.net/bpk-tv/CNN_News18_NW18_MOB/output01/index.m3u8
+
+#EXTINF:-1 tvg-id="CNBC TV18.in" tvg-logo="https://iili.io/Jbn2Duf.png" group-title="INDIAN NEWS",CNBC TV18
+https://jmp2.uk/sam-INBD1300008ZY.m3u8
   
 #EXTINF:-1 tvg-id="NDTV 24x7.in" tvg-logo="https://iili.io/Jbn39GS.png" group-title="INDIAN NEWS",NDTV 24x7
 https://dai.google.com/linear/hls/event/FbL8YN7tSnqysJ6wVjKW7A/master.m3u8
@@ -1492,7 +1495,7 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 #EXTINF:-1 tvg-id="NDTV India.in" tvg-logo="https://iili.io/JbnKEps.png" group-title="HINDI NEWS",NDTV India
 https://dai.google.com/linear/hls/event/cXpfjAMTR4OKnp9WJxHc9g/master.m3u8
  
-#EXTINF:-1 tvg-id="ABP News" tvg-logo="https://iili.io/JbnKMTG.png" group-title="HINDI NEWS",ABP News
+#EXTINF:-1 tvg-id="ABP News.in" tvg-logo="https://iili.io/JbnKMTG.png" group-title="HINDI NEWS",ABP News
 https://abplivetv.akamaized.net/hls/live/2043010/hindi/master.m3u8
  
 #EXTINF:-1 tvg-id="Bharat 24.in" tvg-logo="https://iili.io/JbnKVjf.png" group-title="HINDI NEWS",Bharat 24
