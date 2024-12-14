@@ -563,12 +563,12 @@ https://akadashlive-paramount.akamaized.net/out/v1/074b4a2bf3564611b4a6908d78b8e
 #KODIPROP:inputstream.adaptive.license_key={"0314fccf0c2941c69a2b12f9ad8c4710":"f67abdaaf8b967ece70035ed64b07194","2cede23e0a9ad10be42c074329402963":"f67abdaaf8b967ece70035ed64b07194"}
 https://akadashlive-5select.akamaized.net/out/v1/f23dc3e45f1b4824a36cb33c1aafaa8a/index.mpd
 
-#EXTINF:-1 tvg-id="USA Network HD - Pacific (1125).us" tvg-logo="https://iili.io/Jmo3RoP.png" group-title="AMERICAN ENTERTAINMENT",USA Network
+#EXTINF:-1 tvg-id="USA Network HDTV (East).us" tvg-logo="https://iili.io/Jmo3RoP.png" group-title="AMERICAN ENTERTAINMENT",USA Network
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=252a671825ba31ec8433f978c32ccf6d:ee560759ecc8d2274df2e63fcef56915
-https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-west)/master.mpd?deviceId=YzM0NDA0MTItMGYyMC0zNGQ0LTliMjMtNDY4MjE1ZjA5NmZj
+#KODIPROP:inputstream.adaptive.license_key=91bf2d81b9e13701ac667915641121b8:d0cc2082132b430ad5a8bc4f31c9b772
+https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-east)/master.mpd
 
 #EXTINF:-1 tvg-id="UNIVERSO (East).us" tvg-logo="https://iili.io/dxjZc79.png" group-title="AMERICAN ENTERTAINMENT",Universo
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -2745,19 +2745,27 @@ https://tvheadend.tannerserver.homedns.org/stream/channel/480725923e254746411ade
 https://olsp.live.dash.c4assets.com/dash_iso_sp_tl/live/channel(c4)/manifest.mpd
 
 #EXTINF:-1 tvg-id="Channel 5 HD.uk" tvg-logo="https://iili.io/2GF0CkF.png" group-title="UK",Channel 5
-https://ie.sonyrepairs.com/channel5/index.m3u8
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://cachehsi1a.netplus.ch/live/eds/channel5/browser-dash/channel5.mpd
  
 #EXTINF:-1 tvg-id="ITV1 London HD.uk" tvg-logo="https://iili.io/JmorSyv.png" group-title="UK",ITV1
 https://ie.sonyrepairs.com/itvlondon/index.m3u8
 
 #EXTINF:-1 tvg-id="ITV2 HD.uk" tvg-logo="https://iili.io/d9lNDrl.png" group-title="UK",ITV2
-https://ie.sonyrepairs.com/itv2/index.m3u8
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://cachehsi1a.netplus.ch/live/eds/itv2/browser-dash/itv2.mpd
 
 #EXTINF:-1 tvg-id="ITV3 HD.uk" tvg-logo="https://iili.io/d9lNt14.png" group-title="UK",ITV3
-https://ie.sonyrepairs.com/itv3/index.m3u8
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://cachehsi1a.netplus.ch/live/eds/itv3/browser-dash/itv3.mpd
 
 #EXTINF:-1 tvg-id="ITV4 HD.uk" tvg-logo="https://iili.io/d9lNZBf.png" group-title="UK",ITV4
-https://ie.sonyrepairs.com/itv4/index.m3u8
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://cachehsi1a.netplus.ch/live/eds/itv4/browser-dash/itv4.mpd
  
 #EXTINF:-1 tvg-id="ABC TV HD.au" tvg-logo="https://iili.io/Jmort8G.png" group-title="AUSTRALIA",ABC TV
 https://c.mjh.nz/abc-qld.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
