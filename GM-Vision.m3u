@@ -2135,7 +2135,8 @@ https://dcf-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-052/stream.mpd
 https://dcf-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-053/stream.mpd
 
 #EXTINF:-1 tvg-id="Bandsports.HD.br" tvg-logo="https://iili.io/Jmou322.png" group-title="BRASILIAN SPORTS",Band Sports
-https://d1r94zrwa3gnlo.cloudfront.net/livestore103/stream/hls/290/290.m3u8
+#EXTVLCOPT:http-referrer=https://embedcanaistv.com
+https://embedcanaistv.club/bandsports/tracks-v1a1/mono.m3u8
  
 #EXTINF:-1 tvg-id="ESPN.br" tvg-logo="https://iili.io/JmoIfF2.png" group-title="BRASILIAN SPORTS",ESPN Brasil
 https://super-cdn.link/espn/index.m3u8
@@ -2805,14 +2806,15 @@ https://live-virginmedia.simplestreamcdn.com/s3/rewrite/virgin_four/index.m3u8
 https://stmv1.paineltv.net/valeradiowebtv/valeradiowebtv/chunklist_w1825787253.m3u8
  
 #EXTINF:-1 tvg-id="Globorj.br" tvg-logo="https://iili.io/JmoURSf.png" group-title="BRASIL",Globo
-https://cdn-3.nxplay.com.br/GLOBO_SP_TK/index.m3u8
+https://abc.embedmax.site/globoRJ/video.m3u8
  
 #EXTINF:-1 tvg-id="Record.HD.br" tvg-logo="https://iili.io/JmoUAcG.png" group-title="BRASIL",Record
-https://cdn-1.nxplay.com.br/RECORD_PAULISTA_PFZ_NXPLAY_01/tracks-v1a1/mono.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+https://cdn.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/playlist.m3u8
  
 #EXTINF:-1 tvg-id="RedeTV!.HD.br" tvg-logo="https://iili.io/JmoUuFs.png" group-title="BRASIL",Rede TV!
-https://59f1cbe63db89.streamlock.net:1443/redetvro/redetvro/playlist.m3u8
- 
+https://bit.ly/48lKogj?profile=6048fc47a44e540007745d2b.m3u8
+
 #EXTINF:-1 tvg-id="SBT.br" tvg-logo="https://iili.io/JmoU794.png" group-title="BRASIL",SBT
 https://stmv1.transmissaodigital.com/cidadeverdenovo/cidadeverdenovo/chunklist_w632325341.m3u8
  
