@@ -1595,7 +1595,10 @@ https://tvp22.sky4k.top/index2.php
 https://tvp22.sky4k.top/index1.php
  
 #EXTINF:-1 tvg-id="TVBS News.hk" tvg-logo="https://iili.io/JmKqf0x.png" group-title="MANDARIN NEWS",TVBS News
-http://38.64.72.148:80/hls/modn/list/4006/playlist.m3u8
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b4439ed36468445ea780f1eba44e1d05:e40e4ecb1caadc90c92ce975264c99d8
+https://atemecdnbalancer-voe.sysln.id/live/eds/TVBSNews/mpd/TVBSNews.mpd
  
 #EXTINF:-1 tvg-logo="https://iili.io/JmKq2Wu.png" group-title="MANDARIN NEWS",FTV News
 http://38.64.72.148:80/hls/modn/list/4012/playlist.m3u8
