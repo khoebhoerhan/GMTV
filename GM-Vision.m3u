@@ -2505,9 +2505,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/EUROSPORTHD/mpd/EUROSPORTHD.mpd
 https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd?id=4
 
 #EXTINF:-1 tvg-id="832.astro" tvg-logo="https://iili.io/2kRg7hF.png" group-title="MALAY SPORTS",Astro Cricket
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36
-#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
-https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd?id=4
+https://criccoder.pages.dev/astro.m3u8
  
 #EXTINF:-1 tvg-id="Onesports.ph" tvg-logo="https://iili.io/JyikDNV.png" group-title="PINOY SPORTS",One Sports
 #KODIPROP:inputstream.adaptive.license_type=clearkey
