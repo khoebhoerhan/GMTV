@@ -2499,7 +2499,12 @@ https://uselector.cdn.intigral-ott.net/SPZ/SPZ.isml/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=47c03f29f04747d2a298c0ad63f3b2c1:8b48b2cb2743b91d5f20cf2622067f3a
 https://atemecdnbalancer-voe.sysln.id/live/eds/EUROSPORTHD/mpd/EUROSPORTHD.mpd
  
-#EXTINF:-1 tvg-id="Sukan RTM" tvg-logo="https://iili.io/JmoaBTB.png" group-title="WORLD SPORTS",Sukan RTM
+#EXTINF:-1 tvg-id="Sukan RTM" tvg-logo="https://iili.io/JmoaBTB.png" group-title="MALAY SPORTS",Sukan RTM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36
+#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
+https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd?id=4
+
+#EXTINF:-1 tvg-id="832.astro" tvg-logo="https://iili.io/2kRg7hF.png" group-title="MALAY SPORTS",Astro Cricket
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
 https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd?id=4
@@ -2588,7 +2593,7 @@ https://nodep002.service.openstream.es/SVoriginOperatorEdge3/smil:52_HD.smil/ind
 #EXTINF:-1 tvg-id="NBA.id" tvg-logo="https://iili.io/JmozryF.png" group-title="WORLD SPORTS",NBA TV International
 https://streaming.indihometv.com/joss/133/nba/playlist.m3u8
  
-#EXTINF:-1 tvg-id="815.astro" tvg-logo="https://iili.io/Jmozz1p.png" group-title="WORLD SPORTS",W-Sport
+#EXTINF:-1 tvg-id="826.astro" tvg-logo="https://iili.io/Jmozz1p.png" group-title="WORLD SPORTS",W-Sport
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://op-group1-swiftservehd-1.dens.tv/h/h26/S4/mnf.m3u8
