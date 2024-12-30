@@ -158,3 +158,9 @@ https://d1abp075u76pbq.cloudfront.net/live/eds/Lifetime/sa_dash_vmx/Lifetime.mpd
 #KODIPROP:inputstream.adaptive.license_key=5b9753643572b0c6c467793b50900029:ebeda1cf36dae2b0bdedf1065129ea93
 #EXTVLCOPT:http-referrer=https://visionplus.id/
 https://d1abp075u76pbq.cloudfront.net/live/eds/MTV/sa_dash_vmx/MTV.mpd
+
+#EXTINF:-1 tvg-id="Fox News HD (1210).us" tvg-logo="https://iili.io/JmKvC37.png" group-title="TEST CHANNELS",Fox News
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a547a31e9c19c36f94d120a83f61f92d:7e86ccfba721e3297b73fc9e2b07628d
+#EXTVLCOPT:http-referrer=https://visionplus.id/
+https://d1abp075u76pbq.cloudfront.net/live/eds/FoxNews/sa_dash_vmx/FoxNews.mpd
