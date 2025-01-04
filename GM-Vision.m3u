@@ -600,7 +600,7 @@ https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL1-CTR-4s/Live/channel(
 http://fl2.moveonjoy.com/TNT/index.m3u8
  
 #EXTINF:-1 tvg-id="TBS - East HD (1112).us" tvg-logo="https://iili.io/Jmo37iF.png" group-title="AMERICAN ENTERTAINMENT",TBS
-http://38.96.178.201:80/live/TBS/index.m3u8
+http://fl1.moveonjoy.com/TBS/index.m3u8
 
 #EXTINF:-1 tvg-id="Comedy Central HDTV (East).us" tvg-logo="https://iili.io/doKLV87.png" group-title="AMERICAN ENTERTAINMENT",Comedy Central
 http://fl3.moveonjoy.com/Comedy_Central/index.m3u8
@@ -1580,9 +1580,9 @@ https://d1hp2yai3k4ork.cloudfront.net/index_4.m3u8
 https://ancglobal-abscbn-ono.amagi.tv/playlist720_p.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://iili.io/2EyTX1V.png" group-title="PINOY NEWS",BNC
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=227ffaf09bec4a889e0e0988704d52a2:b2d0dce5c486891997c1c92ddaca2cd2
-https://qp-pldt-live-grp-05-prod.akamaized.net/out/u/bilyonaryoch.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+http://143.44.136.113:6910/001/2/ch00000090990000001124/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
 #EXTINF:-1 tvg-id="Onenews Hd.ph" tvg-logo="https://iili.io/JyPHDEg.png" group-title="PINOY NEWS",One News
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1595,7 +1595,9 @@ https://qp-pldt-live-grp-04-prod.akamaized.net/out/u/onenews_hd1.mpd
 https://qp-pldt-live-grp-04-prod.akamaized.net/out/u/oneph_sd.mpd
  
 #EXTINF:-1 tvg-logo="https://iili.io/JmFyJ4t.png" group-title="PINOY NEWS",UNTV
-https://ythls.armelin.one/channel/UC3XaG-7UVi2vD8ZZEMNnnpw.m3u8
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+http://143.44.136.111:6910/001/2/ch00000090990000001091/manifest.mpd?virtualDomain=001.live_hls.zte.com
   
 #EXTINF:-1 tvg-logo="https://iili.io/JmK3ucB.png" group-title="CANADIAN NEWS",Global News
 https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/.m3u8
@@ -3053,10 +3055,14 @@ http://onair2.cdn.tvchosun.com/origin2/_definst_/tvchosun_s3/playlist.m3u8
 https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/cg_a2z.mpd
  
 #EXTINF:-1 tvg-logo="https://iili.io/doB6999.png" group-title="PHILIPPINES",GMA
-https://ott.studentsdemo.com/stream/phcathenatv/gma/master.m3u8?u=phc&p=1ed3395bba4d481a74e631943df9643663da8f300a8edececcb8b7da46349f01
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+http://143.44.136.110:6910/001/2/ch00000090990000001093/manifest.mpd?virtualDomain=001.live_hls.zte.com
  
 #EXTINF:-1 tvg-logo="https://iili.io/d9AMggR.png" group-title="PHILIPPINES",GTV
-https://ott.studentsdemo.com/stream/phcathenatv/gtv/master.m3u8?u=phc&p=1ed3395bba4d481a74e631943df9643663da8f300a8edececcb8b7da46349f01
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+http://143.44.136.110:6910/001/2/ch00000090990000001143/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
 #EXTINF:-1 tvg-id="Ibc13.ph" tvg-logo="https://iili.io/2EyXabj.png" group-title="PHILIPPINES",IBC
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -3064,11 +3070,9 @@ https://ott.studentsdemo.com/stream/phcathenatv/gtv/master.m3u8?u=phc&p=1ed3395b
 https://qp-pldt-live-grp-07-prod.akamaized.net/out/u/ibc13_sd.mpd
 
 #EXTINF:-1 tvg-logo="https://iili.io/doGYNpI.png" group-title="PHILIPPINES",Kapamilya Channel
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=bd17afb5dc9648a39be79ee3634dd4b8:3ecf305d54a7729299b93a3d69c02ea5
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-kapcha-dash-abscbnono/index.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+http://143.44.136.110:6910/001/2/ch00000090990000001286/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
 #EXTINF:-1 tvg-id="Nbn4.ph" tvg-logo="https://iili.io/2EyRTXa.png" group-title="PHILIPPINES",PTV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
