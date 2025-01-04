@@ -921,15 +921,21 @@ https://cache3.zapitv.com/live/eds_c2/bom/dash_live_enc/bom.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8a8727d4973b18f61b29ac751b8a7522:10a11fe6ef837a5851cc6eeea7c08dc2
 https://cache3.zapitv.com/live/eds_c2/somos/dash_live_enc/somos.mpd
+
+#EXTINF:-1 tvg-id="KBS Drama" tvg-logo="https://iili.io/JmnpjvS.png" group-title="KOREAN SERIES",KBS Drama
+http://ye23.vip/z7z8/2021/kbs2020.php?id=5
+
+#EXTINF:-1 tvg-id="MBC Drama" tvg-logo="https://iili.io/2UfscFf.png" group-title="KOREAN SERIES",MBC Drama
+http://warlock0.synology.me:9999/klive/api/url.m3u8?m=url&s=wavve&i=M02&q=SD&apikey=5MY50EII66
+
+#EXTINF:-1 tvg-id="tvN Drama" tvg-logo="https://iili.io/2Ufsla4.png" group-title="KOREAN SERIES",tvN Drama
+http://warlock0.synology.me:9999/klive/api/url.m3u8?m=web_play&s=tving&i=C01143&q=SD&apikey=5MY50EII66
  
 #EXTINF:-1 tvg-id="Citra Drama.id" tvg-logo="https://iili.io/Jmnpwy7.png" group-title="WORLD SERIES",Citra Drama
 https://cdn08jtedge.indihometv.com/dassdvr/130/cdrama/manifest.mpd
  
 #EXTINF:-1 tvg-id="AMCEast.us" tvg-logo="https://iili.io/Jmnpha2.png" group-title="WORLD SERIES",AMC
 http://170.254.18.106/AMC/index.m3u8
- 
-#EXTINF:-1 tvg-id="KBS 드라마" tvg-logo="https://iili.io/JmnpjvS.png" group-title="WORLD SERIES",KBS Drama
-http://ye23.vip/z7z8/2021/kbs2020.php?id=5
  
 #EXTINF:-1 tvg-id="FMN - [Channel 150].id" tvg-logo="https://iili.io/JmnpX3l.png" group-title="WORLD SERIES",FMN
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -2539,6 +2545,11 @@ https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cg_onesportsplus_hd1.mpd
 #KODIPROP:inputstream.adaptive.license_key=6aab8f40536f4ea98e7c97b8f3aa7d4e:139aa5a55ade471faaddacc4f4de8807
 https://qp-pldt-live-grp-09-prod.akamaized.net/out/u/cg_mptv.mpd
 
+#EXTINF:-1 tvg-logo="https://iili.io/2UfpyF9.png" group-title="PINOY SPORTS",Solar Sports
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+http://143.44.136.110:6910/001/2/ch00000090990000001081/manifest.mpd?virtualDomain=001.live_hls.zte.com
+
 #EXTINF:-1 tvg-id="Tap Sports.ph" tvg-logo="https://iili.io/2EyULfs.png" group-title="PINOY SPORTS",TAP Sports
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=eabd2d95c89e42f2b0b0b40ce4179ea0:0e7e35a07e2c12822316c0dc4873903f
@@ -2558,6 +2569,11 @@ https://qp-pldt-live-grp-01-prod.akamaized.net/out/u/cg_pbarush_hd1.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f36eed9e95f140fabbc88a08abbeafff:0125600d0eb13359c28bdab4a2ebe75a
 https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/pl_nba.mpd
+
+#EXTINF:-1 tvg-logo="https://iili.io/2UfbOcg.png" group-title="PINOY SPORTS",Premier Football
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+http://143.44.136.110:6910/001/2/ch00000090990000001127/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
 #EXTINF:-1 tvg-id="Premiersports Hd.ph" tvg-logo="https://iili.io/2EyUQ0G.png" group-title="PINOY SPORTS",Premier Sports
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -3037,10 +3053,19 @@ http://1.222.207.80:1935/live/cjbtv/playlist.m3u8
  
 #EXTINF:-1 tvg-id="MBC" tvg-logo="https://iili.io/Jmoi3Ft.png" group-title="KOREA",MBC
 http://211.33.246.4:32954/cj_live/myStream.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="JTBC" tvg-logo="https://iili.io/2UfPhb9.png" group-title="KOREA",JTBC
+http://warlock0.synology.me:9999/klive/api/url.m3u8?m=url&s=tving&i=C01582&q=SD&apikey=5MY50EII66
  
 #EXTINF:-1 tvg-id="Mnet" tvg-logo="https://iili.io/JmoiFcX.png" group-title="KOREA",MNet
-https://m3u-editor.com/serve/tchtviptvplaylist/767388510
- 
+http://warlock0.synology.me:9999/klive/api/url.m3u8?m=web_play&s=tving&i=C00579&q=FHD&apikey=5MY50EII66
+
+#EXTINF:-1 tvg-id="tvN" tvg-logo="https://iili.io/JmoiFcX.png" group-title="KOREA",tvN
+http://warlock0.synology.me:9999/klive/api/url.m3u8?m=web_play&s=tving&i=C00551&q=SD&apikey=5MY50EII66
+
+#EXTINF:-1 tvg-id="tvN SHOW" tvg-logo="https://iili.io/JmoiFcX.png" group-title="KOREA",tvN Show
+http://warlock0.synology.me:9999/klive/api/url.m3u8?m=web_play&s=tving&i=C51258&q=SD&apikey=5MY50EII66
+
 #EXTINF:-1 tvg-id="TV조선" tvg-logo="https://iili.io/JmoiHnp.png" group-title="KOREA",TV Chosun
 #EXTVLCOPT:http-referrer=http://broadcast.tvchosun.com/onair/on.cstv
 http://onair.cdn.tvchosun.com/origin1/_definst_/tvchosun_s1/playlist.m3u8
