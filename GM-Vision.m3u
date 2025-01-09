@@ -1458,6 +1458,10 @@ https://dwamdstream106.akamaized.net/hls/live/2017965/dwstream106/stream05/strea
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://dwamdstream105.akamaized.net/hls/live/2015531/dwstream105/stream05/streamPlaylist.m3u8
+
+#EXTINF:-1 tvg-id="n-tv.de" tvg-logo="https://iili.io/2rovZI2.png" group-title="GERMANY",ntv
+#EXTVLCOPT:http-referrer=https://2ix2.com/n-tv-live/
+https://s6.hopslan.com/ntvx1/index.m3u8
  
 #EXTINF:-1 tvg-id="tagesschau24.de" tvg-logo="https://iili.io/JyrZjG2.png" group-title="GERMAN NEWS",tagesschau 24
 https://tagesschau.akamaized.net/hls/live/2020115/tagesschau/tagesschau_1/master.m3u8
@@ -2978,9 +2982,25 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/tmc.m3
 #EXTINF:-1 tvg-id="W9.fr" tvg-logo="https://iili.io/Jmog3W7.png" group-title="FRANCE",W9
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/m6plus/w9.m3u8
 
+#EXTINF:-1 tvg-id="Das Erste.de" tvg-logo="https://iili.io/2rn9sbS.png" group-title="GERMANY",Das Erste
+#EXTVLCOPT:http-referrer=https://2ix2.com/ard-de/
+https://s6.hopslan.com/ard1/index.m3u8
+
+#EXTINF:-1 tvg-id="ZDF.de" tvg-logo="https://iili.io/2rn9sbS.png" group-title="GERMANY",ZDF
+#EXTVLCOPT:http-referrer=https://2ix2.com/zdf-de/
+https://s6.hopslan.com/zdf1111/index.m3u8
+
 #EXTINF:-1 tvg-id="ProSieben.de" tvg-logo="https://iili.io/2rn9sbS.png" group-title="GERMANY",ProSieben
 #EXTVLCOPT:http-referrer=https://2ix2.com/pro7/
 https://s6.hopslan.com/pro7x1/index.m3u8
+
+#EXTINF:-1 tvg-id="ProSieben MAXX.de" tvg-logo="https://iili.io/d93OE2s.png" group-title="GERMANY",ProSieben Maxx
+#EXTVLCOPT:http-referrer=https://2ix2.com/prosieben-maxx-tv/
+https://s6.hopslan.com/pro7maxx1/index.m3u8
+
+#EXTINF:-1 tvg-id="SAT.1.de" tvg-logo="https://iili.io/2roVAvt.png" group-title="GERMANY",Sat1
+#EXTVLCOPT:http-referrer=https://2ix2.com/sat-1/
+https://s6.hopslan.com/sat1x111/index.m3u8
   
 #EXTINF:-1 tvg-id="RTL.de" tvg-logo="https://iili.io/JmornEX.png" group-title="GERMANY",RTL
 #KODIPROP:inputstream.adaptive.license_type=clearkey
