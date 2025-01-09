@@ -1459,7 +1459,7 @@ https://dwamdstream106.akamaized.net/hls/live/2017965/dwstream106/stream05/strea
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://dwamdstream105.akamaized.net/hls/live/2015531/dwstream105/stream05/streamPlaylist.m3u8
 
-#EXTINF:-1 tvg-id="n-tv.de" tvg-logo="https://iili.io/2rovZI2.png" group-title="GERMANY",ntv
+#EXTINF:-1 tvg-id="n-tv.de" tvg-logo="https://iili.io/2rovZI2.png" group-title="GERMAN NEWS",ntv
 #EXTVLCOPT:http-referrer=https://2ix2.com/n-tv-live/
 https://s6.hopslan.com/ntvx1/index.m3u8
  
@@ -2853,7 +2853,7 @@ https://tvheadend.tannerserver.homedns.org/stream/channel/70cd6366a5afe8f2353c1a
 #EXTINF:-1 tvg-id="BBC Three HD.uk" tvg-logo="https://iili.io/d9lwQUB.png" group-title="UK",BBC Three
 https://tvheadend.tannerserver.homedns.org/stream/channel/3cf1e9c94ae3600c588a04a90587c8e0?profile=webtv-vp8-vorbis-webm
 
-#EXTINF:-1 tvg-id="BBCFour.uk" tvg-logo="https://iili.io/d9lwtHP.png" group-title="UK",BBC Four
+#EXTINF:-1 tvg-id="BBC Four HD.uk" tvg-logo="https://iili.io/d9lwtHP.png" group-title="UK",BBC Four
 https://tvheadend.tannerserver.homedns.org/stream/channel/480725923e254746411ade54fa9e530f?profile=webtv-vp8-vorbis-webm
  
 #EXTINF:-1 tvg-id="Channel 4 HD.uk" tvg-logo="https://iili.io/d9HZINn.png" group-title="UK",Channel 4
@@ -2982,11 +2982,11 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/tmc.m3
 #EXTINF:-1 tvg-id="W9.fr" tvg-logo="https://iili.io/Jmog3W7.png" group-title="FRANCE",W9
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/m6plus/w9.m3u8
 
-#EXTINF:-1 tvg-id="Das Erste.de" tvg-logo="https://iili.io/2rn9sbS.png" group-title="GERMANY",Das Erste
+#EXTINF:-1 tvg-id="Das Erste.de" tvg-logo="https://iili.io/Jmorz2s.png" group-title="GERMANY",Das Erste
 #EXTVLCOPT:http-referrer=https://2ix2.com/ard-de/
 https://s6.hopslan.com/ard1/index.m3u8
 
-#EXTINF:-1 tvg-id="ZDF.de" tvg-logo="https://iili.io/2rn9sbS.png" group-title="GERMANY",ZDF
+#EXTINF:-1 tvg-id="ZDF.de" tvg-logo="https://iili.io/d9HrzUg.png" group-title="GERMANY",ZDF
 #EXTVLCOPT:http-referrer=https://2ix2.com/zdf-de/
 https://s6.hopslan.com/zdf1111/index.m3u8
 
@@ -3011,7 +3011,7 @@ https://pnowlive-a.akamaized.net/live/rtlhd/dash/rtlhd.mpd
 #EXTVLCOPT:http-referrer=https://www.2ix2.com/rtl2-live/
 https://s6.hopslan.com/rtl2x1/index.m3u8
   
-#EXTINF:-1 tvg-id="VTM.be" tvg-logo="https://iili.io/2M8GuQS.png" group-title="EUROPE",VTM
+#EXTINF:-1 tvg-id="VTM.be" tvg-logo="https://iili.io/2M8GuQS.png" group-title="BELGIUM",VTM
 https://dpp-live-events.medialaancdn.be/events/hls/aes/webstream1.m3u8
    
 #EXTINF:-1 tvg-id="Rai 3 HD.it" tvg-logo="https://iili.io/Jmo4Df1.png" group-title="ITALY",Rai 3
