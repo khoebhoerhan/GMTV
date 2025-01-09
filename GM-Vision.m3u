@@ -1196,7 +1196,7 @@ https://d1abp075u76pbq.cloudfront.net/live/eds/CNBC/sa_dash_vmx/CNBC.mpd
 #KODIPROP:inputstream.adaptive.license_key=aed600d8f9c74267b03e7050bd442ffa:26065a2053d49dc3f07fd5d302eb4678
 https://atemecdnbalancer-voe.sysln.id/live/eds/BloombergHD/mpd/BloombergHD.mpd
  
-#EXTINF:-1 tvg-id="euronews.hk" tvg-logo="https://iili.io/JhksR99.png" group-title="WORLD NEWS",Euronews English
+#EXTINF:-1 tvg-id="Euronews.uk" tvg-logo="https://iili.io/JhksR99.png" group-title="WORLD NEWS",Euronews English
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/euronews/euronews-en.m3u8
  
 #EXTINF:-1 tvg-id="515.astro" tvg-logo="https://iili.io/Jhksx6l.png" group-title="WORLD NEWS",CNA
@@ -2848,13 +2848,15 @@ http://23.237.66.106:25461/now_160322/now2.php?id=UNIMASMIAMI&calidad=hd&.m3u8
 https://november.queazified.co.uk/ee971134-115e-4418-8d1d-69dff7d4c6eb.m3u8
  
 #EXTINF:-1 tvg-id="BBC Two HD.uk" tvg-logo="https://iili.io/d9BEwuV.png" group-title="UK",BBC Two
-https://tvheadend.tannerserver.homedns.org/stream/channel/70cd6366a5afe8f2353c1aec7185ad49?profile=webtv-vp8-vorbis-webm
+https://d20opqftbkv2z0.cloudfront.net/live13/bbctwo/bitrate1-clear.isml/live.m3u8
 
 #EXTINF:-1 tvg-id="BBC Three HD.uk" tvg-logo="https://iili.io/d9lwQUB.png" group-title="UK",BBC Three
-https://tvheadend.tannerserver.homedns.org/stream/channel/3cf1e9c94ae3600c588a04a90587c8e0?profile=webtv-vp8-vorbis-webm
+#EXTVLCOPT:http-referrer=https://www.livehdtv.com/bbc-three/
+https://livetvde.net/bbcthree/index.m3u8
 
 #EXTINF:-1 tvg-id="BBC Four HD.uk" tvg-logo="https://iili.io/d9lwtHP.png" group-title="UK",BBC Four
-https://tvheadend.tannerserver.homedns.org/stream/channel/480725923e254746411ade54fa9e530f?profile=webtv-vp8-vorbis-webm
+#EXTVLCOPT:http-referrer=https://www.livehdtv.com/bbc-four/
+https://livetvde.net/bbcfour/index.m3u8
  
 #EXTINF:-1 tvg-id="Channel 4 HD.uk" tvg-logo="https://iili.io/d9HZINn.png" group-title="UK",Channel 4
 #KODIPROP:inputstream.adaptive.license_type=clearkey
