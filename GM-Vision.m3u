@@ -1683,7 +1683,8 @@ http://mytv.dothome.co.kr/ch/catv/1.php
 https://dai.google.com/linear/hls/event/XZLLJIhJRNqz33DGp6NdkA/master.m3u8
  
 #EXTINF:-1 tvg-id="Foro TV" tvg-logo="https://iili.io/JmK0y6x.png" group-title="LATINO NEWS",Foro
-https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index_6.m3u8
+#EXTVLCOPT:http-referrer=https://www.nmas.com.mx/foro-tv/
+https://channel02-notusa.akamaized.net/hls/live/2023914/event01/index.m3u8
  
 #EXTINF:-1 tvg-logo="https://iili.io/JmK1H3Q.png" group-title="LATINO NEWS",Milenio Televisión
 #EXTVLCOPT:network-caching=1000
