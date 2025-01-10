@@ -59,13 +59,10 @@ https://flv.intechmedia.net/live/ch107.m3u8
 https://d1abp075u76pbq.cloudfront.net/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd
  
 #EXTINF:-1 tvg-id="RTV.id" tvg-logo="https://iili.io/JMp3PVt.png" group-title="NASIONAL",RTV
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://cdnjkt4.transvision.co.id:1000/live/master/5/4028c68572841ba301729ce4a1343c17/manifest.mpd 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=30384ee5424eab4afdff34d7a59e0ef9:5f3d2f2c194266ae9a28210f8976cbe0
+#EXTVLCOPT:http-referrer=https://visionplus.id/
+https://d1abp075u76pbq.cloudfront.net/live/eds/RTV/sa_dash_vmx/RTV.mpd
 
 #EXTINF:-1 tvg-id="BTV.id" tvg-logo="https://iili.io/28yoB87.png" group-title="NASIONAL",BTV
 https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
@@ -1208,7 +1205,7 @@ https://live.france24.com/hls/live/2037218/F24_EN_HI_HLS/master_5000.m3u8
 #EXTINF:-1 tvg-id="521.astro" tvg-logo="https://iili.io/Jhksu87.png" group-title="WORLD NEWS",DW English
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream05/streamPlaylist.m3u8
  
-#EXTINF:-1 tvg-id="RT.hk" tvg-logo="https://iili.io/JhksYZb.png" group-title="WORLD NEWS",RT
+#EXTINF:-1 tvg-id="Russia Today.de" tvg-logo="https://iili.io/JhksYZb.png" group-title="WORLD NEWS",RT
 https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
  
 #EXTINF:-1 tvg-id="610.unifi" tvg-logo="https://iili.io/JhksoG4.png" group-title="WORLD NEWS",CGTN
