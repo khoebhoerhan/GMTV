@@ -147,3 +147,7 @@ https://livetvde.net/france4/index.m3u8
 #EXTINF:-1 tvg-id="France 5.fr" tvg-logo="https://iili.io/Jmog5qF.png" group-title="TEST CHANNELS",France 5
 #EXTVLCOPT:http-referrer=https://www.livehdtv.com/ch184/
 https://livetvde.net/france5/index.m3u8
+
+#EXTINF:-1 tvg-id="One America News Network HD (1208).us" tvg-logo="https://iili.io/JmKvRCQ.png" group-title="TEST CHANNELS",OAN
+#EXTVLCOPT:http-referrer=https://usnewson.com/watch/oann-live-stream/
+https://s17.usnlive.com/stream/oann.m3u8
