@@ -1269,7 +1269,7 @@ https://nmx1ota.akamaized.net/hls/live/2107010/Live_1/index.m3u8
 http://fl2.moveonjoy.com/NEWS_NATION/index.m3u8
  
 #EXTINF:-1 tvg-id="5df97894467dfa00091c873c" tvg-logo="https://iili.io/JmKvTjj.png" group-title="AMERICAN NEWS",NBC News Now
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV39.m3u8
+https://d4whmvwm0rdvi.cloudfront.net/10007/99991247/hls/master.m3u8?ads.xumo_channelId=99991247
  
 #EXTINF:-1 tvg-id="HLN HD (1203).us" tvg-logo="https://iili.io/JmKvfG2.png" group-title="AMERICAN NEWS",HLN
 https://turnerlive.warnermediacdn.com/hls/live/586496/cnngo/hln/VIDEO_0_3564000.m3u8
@@ -1606,7 +1606,10 @@ https://qp-pldt-live-grp-04-prod.akamaized.net/out/u/oneph_sd.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://143.44.136.111:6910/001/2/ch00000090990000001091/manifest.mpd?virtualDomain=001.live_hls.zte.com
-  
+
+#EXTINF:-1 tvg-id="CBC News Network HD.ca" tvg-logo="https://iili.io/2rMsIDP.png" group-title="CANADIAN NEWS",CBC News Network
+https://dbrb49pjoymg4.cloudfront.net/10001/99991276/hls/master.m3u8?ads.xumo_channelId=99991276
+
 #EXTINF:-1 tvg-logo="https://iili.io/JmK3ucB.png" group-title="CANADIAN NEWS",Global News
 https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/.m3u8
  
