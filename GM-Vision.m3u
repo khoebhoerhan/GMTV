@@ -2646,10 +2646,8 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
 #EXTVLCOPT:http-referrer=https://visionplus.id/
 https://d1abp075u76pbq.cloudfront.net/live/eds/Life/sa_dash_vmx/Life.mpd
  
-#EXTINF:-1 tvg-id="UChannel" tvg-logo="https://iili.io/JmocfFs.png" group-title="RELIGION",U Channel
-#EXTVLCOPT:http-referrer=https://www.dens.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://op-group2-swiftservehd-1.dens.tv/s/s41/index.m3u8
+#EXTINF:-1 tvg-id="UChannel.id" tvg-logo="https://iili.io/JmocfFs.png" group-title="RELIGION",U Channel
+https://ams.juraganstreaming.com:5443/LiveApp/streams/uchannel1.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://iili.io/2OgNBoP.png" group-title="RELIGION",GMS Channel
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
@@ -2690,6 +2688,12 @@ https://catholictvhd-lh.akamaized.net/hls/live/2043390/CTVLiveHD/master_5.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4e59e1e60b92407c972178c7959ec340:cdfcef62ac2b749f3e0d95c135647bac
 https://atemecdnbalancer-voe.sysln.id/live/eds/Kairos/mpd/Kairos.mpd
+
+#EXTINF:-1 tvg-logo="https://iili.io/2r7M4ef.png" group-title="RELIGION",Praise
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e19e27b1ce9b41e7a7638043c6a9dce6:689d87f13d5c1112ab76030ad3c6b995
+https://atemeshield1-voe.sysln.id/live/eds/PraiseHD/mpd/PraiseHD.mpd
  
 #EXTINF:-1 tvg-id="FashionTVLOriginal.fr" tvg-logo="https://iili.io/JmocAPe.png" group-title="FASHION",Fashion TV L'Original
 https://fashiontv-fashiontv-loriginal-fr.samsung.wurl.com/manifest/playlist.m3u8
