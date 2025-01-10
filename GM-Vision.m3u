@@ -624,12 +624,9 @@ http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
 https://d1abp075u76pbq.cloudfront.net/live/eds/AustraliaPlus/sa_dash_vmx/AustraliaPlus.mpd
 
 #EXTINF:-1 tvg-logo="https://iili.io/doG0LSj.png" group-title="WORLD ENTERTAINMENT",TFC
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.iwanttfc.com/
-#EXTVLCOPT:http-origin=https://www.iwanttfc.com
-#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=9568cc84e1d944f38eac304517eab6fd:f12142af8f39b3bab79d3679d3665ebe
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-tfcasia-dash-abscbnono/index.mpd
+https://d1facupi3cod3q.cloudfront.net/out/v1/e3633f8591e248b0af1af15a474bfa4a/index.mpd
  
 #EXTINF:-1 tvg-id="TV5MONDE HD" tvg-logo="https://iili.io/Jmo33tS.png" group-title="EUROPEAN ENTERTAINMENT",TV5Monde
 https://ott.tv5monde.com/Content/HLS/Live/channel(seasie)/variant.m3u8
@@ -1979,6 +1976,13 @@ https://dcf-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-028/stream.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
 https://dcf-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-022/stream.mpd
+
+#EXTINF:-1 tvg-id="DAZN 1.it" tvg-logo="https://iili.io/d06YU1p.png" group-title="ITALIAN SPORTS",DAZN 1 Italia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/5.9.7 Chrome/56.0.2924.122 Safari/537.36 Sky_STB_BCM7278_2019/1.0.0 (Sky, EM150UK, )
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6164a0abaa7c53c6875fa1e7fe0bb463:271510d3e1259571dcc568a232e397eb
+https://dcf-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-206/stream.mpd
  
 #EXTINF:-1 tvg-id="Eurosport HD.it" tvg-logo="https://iili.io/JhkZx6v.png" group-title="ITALIAN SPORTS",Eurosport 1 Italia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
@@ -1993,6 +1997,11 @@ https://dcf-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-029/stream.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
 https://dcf-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-030/stream.mpd
+
+#EXTINF:-1 tvg-id="RAI Sport.it" tvg-logo="https://iili.io/2rWV8ml.png" group-title="ITALIAN SPORTS",Rai Sport
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=87a5beac54c74bf4a95a142b90fb817f:4618d1d8d1903223990635f181afd202
+https://viamotionhsi.netplus.ch/live/eds/raisport1/browser-dash/raisport1.mpd
  
 #EXTINF:-1 tvg-id="SuperTennis HD.it" tvg-logo="https://iili.io/Jmo85fs.png" group-title="ITALIAN SPORTS",Super Tennis
 https://live-embed.supertennix.hiway.media/restreamer/supertennix_client/gpu-a-c0-16/restreamer/rtmp/hls/h24_supertennix/manifest.m3u8
@@ -2394,37 +2403,37 @@ https://live.ll.ww.aiv-cdn.net/OTTB/iad-nitro/live/clients/dash/enc/wybgz0orr8/o
 #KODIPROP:inputstream.adaptive.license_key=9f327d24c66fbd84e15ab5c9ead7c7a4:83837185529c0c4048f81386c2d36426
 https://live.ll.ww.aiv-cdn.net/OTTB/iad-nitro/live/clients/dash/enc/fdx74zqzhu/out/v1/7d7a8c6981a842b98a683e9fbfe51d17/cenc.mpd
 
-#EXTINF:-1 tvg-id="ESPN 1.ar" tvg-logo="https://iili.io/JmoIfF2.png" group-title="LATINO SPORT",ESPN Latin America
+#EXTINF:-1 tvg-id="ESPN 1.ar" tvg-logo="https://iili.io/JmoIfF2.png" group-title="LATINO SPORTS",ESPN Latin America
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=cb004fb100bd92f23793562891e3236b:b3e4e74ae2080b137e68bbd0ef8a7e05
 https://vcdn.mn10.entel.bo/Content/DASH/Live/Channel(8757cb0a-3584-40cd-901e-8937c7deba83)/master.mpd
 
-#EXTINF:-1 tvg-id="ESPN 2.ar" tvg-logo="https://iili.io/JmoI2nf.png" group-title="LATINO SPORT",ESPN 2 Latin America
+#EXTINF:-1 tvg-id="ESPN 2.ar" tvg-logo="https://iili.io/JmoI2nf.png" group-title="LATINO SPORTS",ESPN 2 Latin America
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=a81ee4a694fecd6aa8a682e5024b313c:6d15568e1dab59e7202ae12e71505185
 https://vcdn.mn10.entel.bo/Content/DASH/Live/Channel(62567d5c-295c-4ffd-ac7e-c9749e874884)/master.mpd
 
-#EXTINF:-1 tvg-id="ESPN 3.ar" tvg-logo="https://iili.io/Jmoudrl.png" group-title="LATINO SPORT",ESPN 3 Latin America
+#EXTINF:-1 tvg-id="ESPN 3.ar" tvg-logo="https://iili.io/Jmoudrl.png" group-title="LATINO SPORTS",ESPN 3 Latin America
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=8a60d7889ff126ee1895335e92254f8e:de1b0ce19fa804a1c473eb8ef2d5cf6d
 https://vcdn.mn10.entel.bo/Content/DASH/Live/Channel(a38d1401-ee01-4802-812a-7cb460c9832c)/master.mpd
 
-#EXTINF:-1 tvg-id="ESPN 4.cl" tvg-logo="https://iili.io/JmouJ14.png" group-title="LATINO SPORT",ESPN 4 Latin America
+#EXTINF:-1 tvg-id="ESPN 4.cl" tvg-logo="https://iili.io/JmouJ14.png" group-title="LATINO SPORTS",ESPN 4 Latin America
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=54a2c11085c315ed6ff85c340a86095d:5f0d10cf4a5c7e22e286b7e8cb4e79f4
 https://vcdn.mn10.entel.bo/Content/DASH/Live/Channel(9500bf02-0001-4199-a150-58dc5d692cca)/master.mpd
 
-#EXTINF:-1 tvg-id="ESPN 5.cl" tvg-logo="https://iili.io/d9HjpYN.png" group-title="LATINO SPORT",ESPN 5 Latin America
+#EXTINF:-1 tvg-id="ESPN 5.cl" tvg-logo="https://iili.io/d9HjpYN.png" group-title="LATINO SPORTS",ESPN 5 Latin America
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=4e126297fc7af35c736bdffe98eecaaa:fdb0091cf67d9c596dbfb07cf6f4c8f5
 https://vcdn.mn10.entel.bo/Content/DASH/Live/Channel(80c74968-a2ef-4005-8661-045fe97408a8)/master.mpd
 
-#EXTINF:-1 tvg-id="ESPN 6.cl" tvg-logo="https://iili.io/d9HjyvI.png" group-title="LATINO SPORT",ESPN 6 Latin America
+#EXTINF:-1 tvg-id="ESPN 6.cl" tvg-logo="https://iili.io/d9HjyvI.png" group-title="LATINO SPORTS",ESPN 6 Latin America
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=f5836382452cdca1e1c8bf8b9a713534:7d261930c3309ed2b06d2abb34a64410
 https://vcdn.mn10.entel.bo/Content/DASH/Live/Channel(b30aa51e-97fa-4354-bb38-871fb360e984)/master.mpd
 
-#EXTINF:-1 tvg-id="ESPN 7.cl" tvg-logo="https://iili.io/d9Hjm2p.png" group-title="LATINO SPORT",ESPN 7 Latin America
+#EXTINF:-1 tvg-id="ESPN 7.cl" tvg-logo="https://iili.io/d9Hjm2p.png" group-title="LATINO SPORTS",ESPN 7 Latin America
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=98ea1e32227adcd3618baac2bbf36814:72a03a09d33e412f14a9bfa4ef24b542
 https://vcdn.mn10.entel.bo/Content/DASH/Live/Channel(5ab5db84-2235-4c10-9066-be9bc2ee087a)/master.mpd
@@ -3108,16 +3117,31 @@ https://s6.hopslan.com/rtl2x1/index.m3u8
   
 #EXTINF:-1 tvg-id="VTM.be" tvg-logo="https://iili.io/2M8GuQS.png" group-title="BELGIUM",VTM
 https://dpp-live-events.medialaancdn.be/events/hls/aes/webstream1.m3u8
-   
+
+#EXTINF:-1 tvg-id="Rai 1 HD.it" tvg-logo="https://iili.io/Jmo4QWB.png" group-title="ITALY",Rai 1
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=d79467df269743b3aca99a9171c54878:a7d3bc19bd09db6b581833e4a6176c8f
+https://viamotionhsi.netplus.ch/live/eds/rai1/browser-dash/rai1.mpd
+ 
+#EXTINF:-1 tvg-id="Rai 2 HD.it" tvg-logo="https://iili.io/Jmo4ZiP.png" group-title="ITALY",Rai 2
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=8398533768ae49be862f458edc78f828:609273c26c31a4090310e3945c0db5df
+https://viamotionhsi.netplus.ch/live/eds/rai2/browser-dash/rai2.mpd
+
 #EXTINF:-1 tvg-id="Rai 3 HD.it" tvg-logo="https://iili.io/Jmo4Df1.png" group-title="ITALY",Rai 3
 http://wzstreaming.rai.it/TVlive/liveStream/playlist.m3u8
-  
+
 #EXTINF:-1 tvg-id="Canale 5 HD.it" tvg-logo="https://iili.io/d93woZP.png" group-title="ITALY",Canale 5
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=00f9f3c0783536b8ce4a30a01a52e082:e926f7d45af4f7d154c990eae6a2d937
 https://live03p-seg.msf.cdn.mediaset.net/live/ch-c5/c5-dash-widevine.isml/manifest.mpd
+
+#EXTINF:-1 tvg-id="Rete 4 HD.it" tvg-logo="https://iili.io/2rXHQsf.png" group-title="ITALY",Rete 4
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=
+https://viamotionhsi.netplus.ch/live/eds/rete4/browser-dash/rete4.mpd
  
 #EXTINF:-1 tvg-id="Italia 1 HD.it" tvg-logo="https://iili.io/d93wOtS.png" group-title="ITALY",Italia 1
 #KODIPROP:inputstreamaddon=inputstream.adaptive
