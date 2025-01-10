@@ -2789,9 +2789,7 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/manifest.mpd?id=1
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd?id=2
  
 #EXTINF:-1 tvg-id="103.astro" tvg-logo="https://iili.io/JmoSRTB.png" group-title="MALAYSIA",TV3
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"J6L3HYe/XrEFrwlvtmBdlw", "kid":"Ov4w7k6iSmf+Wi7wboPbCw" } ], "type":"temporary" }
-https://unifi-live03.secureswiftcontent.com/UnifiHD/live03.mpd
+https://mifntechnology.github.io/siaranMy/channels/Tv3/index.m3u8
  
 #EXTINF:-1 tvg-id="149.astro" tvg-logo="https://iili.io/JmoS7Q1.png" group-title="MALAYSIA",TV9
 #KODIPROP:inputstream.adaptive.license_type=clearkey
