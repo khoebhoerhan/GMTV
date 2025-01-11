@@ -632,6 +632,20 @@ https://d1facupi3cod3q.cloudfront.net/out/v1/e3633f8591e248b0af1af15a474bfa4a/in
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=c95ed4c44b0b4f7fa1c6ebbbbaab21a1:47635b8e885e19f2ccbdff078c207058
 https://amg01006-abs-cbn-abscbn-gma-x7-dash-abscbnono-dzsx9.amagi.tv/index.mpd
+
+#EXTINF:-1 tvg-id="Buko.ph" tvg-logo="https://iili.io/2rUvzVR.png" group-title="PINOY ENTERTAINMENT",Buko
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=d273c085f2ab4a248e7bfc375229007d:7932354c3a84f7fc1b80efa6bcea0615
+https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/cg_buko_sd.mpd
+
+#EXTINF:-1 tvg-id="Sari Sari.ph" tvg-logo="https://iili.io/2rUvxov.png" group-title="PINOY ENTERTAINMENT",Sari Sari
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=0a7ab3612f434335aa6e895016d8cd2d:b21654621230ae21714a5cab52daeb9d
+https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/cg_sari_sari_sd.mpd
  
 #EXTINF:-1 tvg-id="TV5MONDE HD" tvg-logo="https://iili.io/Jmo33tS.png" group-title="EUROPEAN ENTERTAINMENT",TV5Monde
 https://ott.tv5monde.com/Content/HLS/Live/channel(seasie)/variant.m3u8
@@ -710,8 +724,13 @@ https://ott.zapitv.com/live/eds_c2/mtv_hits/dash_live_enc/mtv_hits.mpd
 #EXTINF:-1 tvg-id="4Music.uk" tvg-logo="https://iili.io/Jmofaf9.png" group-title="EUROPEAN MUSIC",4Music
 https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,boxhits-alldev.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/boxhits/
  
-#EXTINF:-1 tvg-id="61394" tvg-logo="https://iili.io/JZIQuUJ.png" group-title="WORLD MUSIC",Myx USA
+#EXTINF:-1 tvg-id="61394" tvg-logo="https://iili.io/JZIQuUJ.png" group-title="WORLD MUSIC",Myx Global
 https://myxnola-abscbn-ono.amagi.tv/index_2.m3u8
+
+#EXTINF:-1 tvg-id="MYX.ph" tvg-logo="https://iili.io/JZIQuUJ.png" group-title="WORLD MUSIC",Myx Philippines
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+http://143.44.136.111:6910/001/2/ch00000090990000001252/manifest.mpd?virtualDomain=001.live_hls.zte.com
  
 #EXTINF:-1 tvg-id="TraceUrban.fr" tvg-logo="https://iili.io/JZIQYDN.png" group-title="WORLD MUSIC",Trace Urban
 https://lightning-traceurban-samsungau.amagi.tv/playlist1080p.m3u8
@@ -890,11 +909,21 @@ https://op-group1-swiftservesd-1.dens.tv/h/h193/index.m3u8?app_type=web&userid=j
 #EXTVLCOPT:http-referrer=https://visionplus.id/
 https://d1abp075u76pbq.cloudfront.net/live/eds/MyCinema-Asia/sa_dash_vmx/MyCinema-Asia.mpd
  
-#EXTINF:-1 tvg-id="Cinema One Global" tvg-logo="https://iili.io/JmoHb6b.png" group-title="PINOY MOVIES",Cinema One
+#EXTINF:-1 tvg-id="Cinema One Global" tvg-logo="https://iili.io/JmoHb6b.png" group-title="PINOY MOVIES",Cinema One Global
 https://cinemaone-abscbn-ono.amagi.tv/index_3.m3u8
  
-#EXTINF:-1 tvg-logo="https://iili.io/JmoJ98Q.png" group-title="PINOY MOVIES",Cinemo
+#EXTINF:-1 tvg-id="Cinema One.ph" tvg-logo="https://iili.io/JmoHb6b.png" group-title="PINOY MOVIES",Cinema One Philippines
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+http://143.44.136.110:6910/001/2/ch00000090990000001283/manifest.mpd?virtualDomain=001.live_hls.zte.com
+
+#EXTINF:-1 tvg-logo="https://iili.io/JmoJ98Q.png" group-title="PINOY MOVIES",Cinemo Global
 https://cinemo-abscbn-ono.amagi.tv/playlist720_p.m3u8
+
+#EXTINF:-1 tvg-logo="https://iili.io/JmoJ98Q.png" group-title="PINOY MOVIES",Cinemo Philippines
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+http://143.44.136.110:6910/001/2/ch00000090990000001254/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
 #EXTINF:-1 tvg-id="Pbo.ph" tvg-logo="https://iili.io/2G9xVP2.png" group-title="PINOY MOVIES",PBO
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1586,8 +1615,13 @@ https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Newsnation/default/newsnation-audio_
 #EXTINF:-1 tvg-id="Zee Hindustan.in" tvg-logo="https://iili.io/JbnKa4I.png" group-title="HINDI NEWS",Zee Hindustan
 https://d1hp2yai3k4ork.cloudfront.net/index_4.m3u8
  
-#EXTINF:-1 tvg-id="ABS CBN News channel HD.ua" tvg-logo="https://iili.io/JmFyHGI.png" group-title="PINOY NEWS",ANC
+#EXTINF:-1 tvg-id="ABS CBN News channel HD.ua" tvg-logo="https://iili.io/JmFyHGI.png" group-title="PINOY NEWS",ANC Global
 https://ancglobal-abscbn-ono.amagi.tv/playlist720_p.m3u8
+
+#EXTINF:-1 tvg-id="ANC.ph" tvg-logo="https://iili.io/JmFyHGI.png" group-title="PINOY NEWS",ANC Philippines
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+http://143.44.136.110:6910/001/2/ch00000090990000001274/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
 #EXTINF:-1 tvg-id="Bilyonaryoch.ph" tvg-logo="https://iili.io/2EyTX1V.png" group-title="PINOY NEWS",BNC
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -2833,6 +2867,11 @@ https://d1abp075u76pbq.cloudfront.net/live/eds/OKTVnow/sa_dash_vmx/OKTVnow.mpd
 #KODIPROP:inputstream.adaptive.license_key=367f9bf4d0684f109d74a9eeb68d32be:59983c58c1b0daa1dcc370f697ccaead
 https://atemecdnbalancer-voe.sysln.id/live/eds/AFNHD/mpd/AFNHD.mpd
 
+#EXTINF:-1 tvg-id="717.astro" tvg-logo="https://iili.io/2rUAhlt.png" group-title="LIFESTYLE",BBC Lifestyle
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=34880f56627c11ee8c990242ac120002:c23677c829bb244b79a3dc09ffd88ca0
+https://qp-pldt-live-grp-09-prod.akamaized.net/out/u/cg_bbclifestyle.mpd
+
 #EXTINF:-1 tvg-id="708.astro" tvg-logo="https://iili.io/dH2ZfRe.png" group-title="LIFESTYLE",Food Network
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -2850,6 +2889,18 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/HGTVHD/mpd/HGTVHD.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=abac9e0bf2b448f8871145829c68a7fd:eebd1a86367df6c2c4aad70b7a6165a9
 https://atemecdnbalancer-voe.sysln.id/live/eds/TLCHD/mpd/TLCHD.mpd
+
+#EXTINF:-1 tvg-id="Travel Channel.ph" tvg-logo="https://iili.io/2rUanZG.png" group-title="LIFESTYLE",Trvl Channel
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=f3047fc13d454dacb6db4207ee79d3d3:bdbd38748f51fc26932e96c9a2020839
+https://qp-pldt-live-grp-08-prod.akamaized.net/out/u/travel_channel_sd.mpd
+
+#EXTINF:-1 tvg-id="Metro Channel.ph" tvg-logo="https://iili.io/2rU0JGj.png" group-title="LIFESTYLE",Metro Channel
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+http://143.44.136.110:6910/001/2/ch00000090990000001267/manifest.mpd?virtualDomain=001.live_hls.zte.com
  
 #EXTINF:-1 tvg-id="TV5MONDEStyle.id" tvg-logo="https://iili.io/Jmo0I4e.png" group-title="LIFESTYLE",TV5Monde Style
 https://ott.tv5monde.com/Content/HLS/Live/channel(style1)/variant.m3u8
@@ -3231,6 +3282,11 @@ http://onair2.cdn.tvchosun.com/origin2/_definst_/tvchosun_s3/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_key=f703e4c8ec9041eeb5028ab4248fa094:c22f2162e176eee6273a5d0b68d19530
 https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/cg_a2z.mpd
 
+#EXTINF:-1 tvg-logo="https://iili.io/2rUMHOB.png" group-title="PHILIPPINES",Aliw Channel
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+http://143.44.136.110:6910/001/2/ch00000090990000001109/manifest.mpd?virtualDomain=001.live_hls.zte.com
+
 #EXTINF:-1 tvg-logo="https://iili.io/2rSstON.png" group-title="PHILIPPINES",All TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f703e4c8ec9041eeb5028ab4248fa094:c22f2162e176eee6273a5d0b68d19530
@@ -3246,17 +3302,27 @@ http://143.44.136.110:6910/001/2/ch00000090990000001093/manifest.mpd?virtualDoma
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://143.44.136.110:6910/001/2/ch00000090990000001143/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
-#EXTINF:-1 tvg-id="Ibc13.ph" tvg-logo="https://iili.io/2EyXabj.png" group-title="PHILIPPINES",IBC
+#EXTINF:-1 tvg-id="IBC TV 13.ph" tvg-logo="https://iili.io/2EyXabj.png" group-title="PHILIPPINES",IBC
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=04e292bc99bd4ccba89e778651914254:ff0a62bdf8920ce453fe680330b563a5
 https://qp-pldt-live-grp-07-prod.akamaized.net/out/u/ibc13_sd.mpd
+
+#EXTINF:-18 tvg-id="Jeepney TV.ph" tvg-logo="https://i.imgur.com/3yzbJE5.png" group-title="PHILIPPINES",Jeepney TV
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+http://143.44.136.113:6910/001/2/ch00000090990000001250/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
 #EXTINF:-1 tvg-id="Kapamilya Channel.ph" tvg-logo="https://iili.io/doGYNpI.png" group-title="PHILIPPINES",Kapamilya Channel
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://143.44.136.110:6910/001/2/ch00000090990000001286/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
-#EXTINF:-1 tvg-id="Nbn4.ph" tvg-logo="https://iili.io/2EyRTXa.png" group-title="PHILIPPINES",PTV
+#EXTINF:-1 tvg-id="Net 25.ph" tvg-logo="https://iili.io/2rUIs5J.png"  group-title="PHILIPPINES",Net25
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+http://143.44.136.111:6910/001/2/ch00000090990000001090/manifest.mpd?virtualDomain=001.live_hls.zte.com
+
+#EXTINF:-1 tvg-id="PTV.ph" tvg-logo="https://iili.io/2EyRTXa.png" group-title="PHILIPPINES",PTV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=71a130a851b9484bb47141c8966fb4a3:ad1f003b4f0b31b75ea4593844435600
 https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/cg_ptv4_sd.mpd
