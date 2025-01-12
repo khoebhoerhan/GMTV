@@ -151,3 +151,11 @@ https://livetvde.net/france5/index.m3u8
 #EXTINF:-1 tvg-id="One America News Network HD (1208).us" tvg-logo="https://iili.io/JmKvRCQ.png" group-title="TEST CHANNELS",OAN
 #EXTVLCOPT:http-referrer=https://usnewson.com/watch/oann-live-stream/
 https://s17.usnlive.com/stream/oann.m3u8
+
+#EXTINF:-1 tvg-id="CNBC USA HD (1216).us" tvg-logo="https://iili.io/JhksIF2.png" group-title="TEST CHANNELS",CNBC US
+#EXTVLCOPT:http-referrer=https://www.newslive.com/business/cnbc-live-free.html
+https://livenewsplayer.com:1936/cnbcsd/cnbcsd//playlist.m3u8
+ 
+#EXTINF:-1 tvg-id="MSNBC USA HD (1215).us" tvg-logo="https://iili.io/JmKvove.png" group-title="TEST CHANNELS",MSNBC
+#EXTVLCOPT:http-referrer=https://www.newslive.com/american/msnbc-news-live.html
+ttps://livenewsplayer.com:1936/msnbcsd/msnbcsd//playlist.m3u8
