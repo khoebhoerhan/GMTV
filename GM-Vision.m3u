@@ -65,7 +65,9 @@ https://d1abp075u76pbq.cloudfront.net/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd
 https://d1abp075u76pbq.cloudfront.net/live/eds/RTV/sa_dash_vmx/RTV.mpd
 
 #EXTINF:-1 tvg-id="BTV.id" tvg-logo="https://iili.io/28yoB87.png" group-title="NASIONAL",BTV
-https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.indihometv.com
+https://streaming.indihometv.com/atm/DASH/beritasatu/manifest.mpd
  
 #EXTINF:-1 tvg-id="TVRI.id" tvg-logo="https://iili.io/JMp3DJf.png" group-title="NASIONAL",TVRI
 https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8
@@ -121,7 +123,7 @@ https://d1abp075u76pbq.cloudfront.net/live/eds/MNCnews-HDD/sa_dash_vmx/MNCnews-H
 https://d1abp075u76pbq.cloudfront.net/live/eds/IDX/sa_dash_vmx/IDX.mpd
  
 #EXTINF:-1 tvg-id="IDTV.id" tvg-logo="https://iili.io/28yoeNn.png" group-title="NATIONAL NEWS",Beritasatu
-https://b1world.beritasatumedia.com/Beritasatu/B1World_1280x720.m3u8
+https://cdn08jtedge.indihometv.com/dassdvr/134/idtv/manifest.mpd
  
 #EXTINF:-1 tvg-logo="https://iili.io/JmFZtFs.png" group-title="PARLIAMENTARY",TVR Parlemen
 http://103.18.181.69:1935/golive/livestream/chunklist_w1350607412.m3u8
@@ -690,11 +692,6 @@ https://d1abp075u76pbq.cloudfront.net/live/eds/MusicChannel/sa_dash_vmx/MusicCha
 #KODIPROP:inputstream.adaptive.license_key=https://drmid.layarkacatv.me/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://cdnjkt4.transvision.co.id:1000/live/master/2/4028c685730a4243017317dee5df1572/manifest.mpd
- 
-#EXTINF:-1 tvg-id="I-Konser.id" tvg-logo="https://iili.io/JmnyaKx.png" group-title="NATIONAL MUSIC",i-Konser
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-https://cdn08jtedge.indihometv.com/dassdvr/130/ikonser/manifest.mpd
  
 #EXTINF:-1 tvg-id="718.astro" tvg-logo="https://iili.io/JZIQRHv.png" group-title="WORLD MUSIC",MTV Live
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
