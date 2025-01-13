@@ -1006,7 +1006,7 @@ https://tvup-live.secure2.footprint.net/nova6/nova6.mpd
 #KODIPROP:inputstream.adaptive.license_key=f1ee8e0222e67dcefdcb7ed95a6911f1:a4b37cde4618859146b0278f628997ee
 https://ott.zapitv.com/live/eds_c2/divinity/dash_live_enc/divinity.mpd
  
-#EXTINF:-1 tvg-id="TVI FicÃ§Ã£o HD.pt" tvg-logo="https://iili.io/d14As0G.png" group-title="PORTUGUESE SERIES",V+ TVI
+#EXTINF:-1 tvg-id="V+TVI.pt" tvg-logo="https://iili.io/d14As0G.png" group-title="PORTUGUESE SERIES",V+ TVI
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://bit.ly/3gejKxf?720p/playlist.m3u8
@@ -1398,8 +1398,16 @@ https://cdnapisec.kaltura.com/p/4526593/sp/4526593/playManifest/entryId/1_j8ztwi
 #EXTINF:-1 tvg-id="RTP 3 HD.pt" tvg-logo="https://iili.io/JhkygHv.png" group-title="PORTUGUESE NEWS",RTP 3
 #EXTVLCOPT:http-user-agent=Firefox
 https://streaming-live.rtp.pt/livetvhlsDVR/rtpnHDdvr.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CMTV HD.pt" tvg-logo="https://iili.io/24MulKG.png" group-title="PORTUGUESE NEWS",CMTV
+#EXTVLCOPT:http-user-agent=Firefox
+https://moonlight.wideiptv.top/CMTVPT/index.fmp4.m3u8?token=c162e13543650d6f4b24c8a5f9e9449e90a55989-55073220bb65abb8a0ae7830eeb7088d-1736739858-1736729058
+
+#EXTINF:-1 tvg-id="NewsNOW.pt" tvg-logo="https://iili.io/24MuaPs.png" group-title="PORTUGUESE NEWS",News Now
+#EXTVLCOPT:http-user-agent=Firefox
+https://moonlight.wideiptv.top/NewsNowPT/index.fmp4.m3u8?token=ff7bbe4d95f27b8b34a474ac118374364749e62a-b6c3aa37cf2f262e3fd7b91c70de38bd-1736739858-1736729058
  
-#EXTINF:-1 tvg-id="euronw.tv.vodafone.pt" tvg-logo="https://iili.io/JhksR99.png" group-title="PORTUGUESE NEWS",Euronews Português
+#EXTINF:-1 tvg-id="Euronews.pt" tvg-logo="https://iili.io/JhksR99.png" group-title="PORTUGUESE NEWS",Euronews Português
 https://0ff3c09c7580460e8e018cdcaacbadee.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-pt_EuroNewsLive/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CNN Español" tvg-logo="https://iili.io/Jmf9Yve.png" group-title="SPANISH NEWS",CNN en Español
@@ -1715,9 +1723,8 @@ http://mytv.dothome.co.kr/ch/catv/1.php
 #EXTINF:-1 tvg-id="ADN 40.mx" tvg-logo="https://iili.io/JmK0Ly7.png" group-title="LATINO NEWS",ADN40
 https://dai.google.com/linear/hls/event/XZLLJIhJRNqz33DGp6NdkA/master.m3u8
  
-#EXTINF:-1 tvg-id="FORO TV.mx" tvg-logo="https://iili.io/JmK0y6x.png" group-title="LATINO NEWS",Foro
-#EXTVLCOPT:http-referrer=https://www.nmas.com.mx/foro-tv/
-https://channel02-notusa.akamaized.net/hls/live/2023914/event01/index.m3u8
+#EXTINF:-1 tvg-id="FORO TV.mx" tvg-logo="https://iili.io/JmK0y6x.png" group-title="LATINO NEWS",N+ Foro
+https://cdn1.sba.cdn.moderntv.eu:7908/sba/stream/FOROTV/20-hls/live-media.m3u8
  
 #EXTINF:-1 tvg-id="MILENIO.mx" tvg-logo="https://iili.io/JmK1H3Q.png" group-title="LATINO NEWS",Milenio Televisión
 #EXTVLCOPT:network-caching=1000
@@ -1975,6 +1982,18 @@ https://dcf-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-058/stream.mpd
 #KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
 https://dcf-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-059/stream.mpd
 
+#EXTINF:-1 tvg-id="SPORT TV+ HD.pt" tvg-logo="https://iili.io/24Maxln.png" group-title="PORTUGUESE SPORTS",Sport TV +
+#EXTVLCOPT:http-user-agent=Firefox
+https://love2live.wideiptv.top/SPTPlus/index.fmp4.m3u8?token=1729236e52360c65c9c1ceb6db5ddaa5e6f11c11-606c82cd0b3f11def5b390fd1b55a88e-1736739859-1736729059
+
+#EXTINF:-1 tvg-id="A Bola.pt" tvg-logo="https://iili.io/24MazSs.png" group-title="PORTUGUESE SPORTS",A Bola
+#EXTVLCOPT:http-user-agent=Firefox
+https://love2live.wideiptv.top/ABOLA/index.fmp4.m3u8?token=a5549d7956604e6b70e6f4307f03c3e33275d666-760cb50a1aadf99656563304b304bf7a-1736739859-1736729059
+
+#EXTINF:-1 tvg-id="Canal 11 HD.pt" tvg-logo="https://iili.io/24MaoKX.png" group-title="PORTUGUESE SPORTS",Canal 11
+#EXTVLCOPT:http-user-agent=Firefox
+https://love2live.wideiptv.top/Canal11/index.fmp4.m3u8?token=22c95aef11996482a3a6598bea315f743edb85fd-ca5e6ae4a39211827794f784d08c5eec-1736739859-1736729059
+
 #EXTINF:-1 tvg-id="DAZN 1 HD.de" tvg-logo="https://iili.io/d06YU1p.png" group-title="GERMAN SPORTS",DAZN 1 Deutschland
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/5.9.7 Chrome/56.0.2924.122 Safari/537.36 Sky_STB_BCM7278_2019/1.0.0 (Sky, EM150UK, )
@@ -2183,6 +2202,16 @@ https://c0.b4c8d3e9f1a2b7c5d8.cfd/yayinss.m3u8
 #EXTVLCOPT:http-referrer=https://trgoals957.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://c0.b4c8d3e9f1a2b7c5d8.cfd/yayinss2.m3u8
+
+#EXTINF:-1 tvg-id="EUROSPORT 1 HD.tr" tvg-logo="https://iili.io/JhkZx6v.png" group-title="TURKISH SPORTS",Eurosport 1 Türkiye
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://trgoals1105.xyz/
+https://h0.b4c8d3e9f1a2b7c5d13.cfd/yayineu1.m3u8
+ 
+#EXTINF:-1 tvg-id="EUROSPORT 2 HD.tr" tvg-logo="https://iili.io/JhkZIFR.png" group-title="TURKISH SPORTS",Eurosport 2 Türkiye
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://trgoals1105.xyz/
+https://h0.b4c8d3e9f1a2b7c5d13.cfd/yayineu2.m3u8
 
 #EXTINF:-1 tvg-logo="https://iili.io/2rbGGGs.png" group-title="TURKISH SPORTS",Spor Smart
 #EXTVLCOPT:http-referrer=https://trgoals957.xyz
