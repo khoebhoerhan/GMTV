@@ -1392,7 +1392,7 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:rakyat/manifest.mpd?id=7
 #EXTINF:-1 tvg-id="CNN Portugal HD.pt" tvg-logo="https://iili.io/Jhky4Np.png" group-title="PORTUGUESE NEWS",CNN Portugal
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tvipt/sh/cnnpt.m3u8
  
-#EXTINF:-1 tvg-id="SICNoticias.pt" tvg-logo="https://iili.io/JhkyrRR.png" group-title="PORTUGUESE NEWS",SIC Notícias
+#EXTINF:-1 tvg-id="SIC Notícias HD.pt" tvg-logo="https://iili.io/JhkyrRR.png" group-title="PORTUGUESE NEWS",SIC Notícias
 https://cdnapisec.kaltura.com/p/4526593/sp/4526593/playManifest/entryId/1_j8ztwihx/deliveryProfileId/672/protocol/https/format/applehttp/a.m3u8
  
 #EXTINF:-1 tvg-id="RTP 3 HD.pt" tvg-logo="https://iili.io/JhkygHv.png" group-title="PORTUGUESE NEWS",RTP 3
@@ -2158,27 +2158,27 @@ https://r.dcs.redcdn.pl/livedash/o2/tvnplayerncp/live/eleven_sports_4_hd/live.is
 #EXTINF:-1 tvg-logo="https://iili.io/JhkLZXa.png" group-title="TURKISH SPORTS",beIN Sports 1 Türkiye
 #EXTVLCOPT:http-referrer=https://trgoals957.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://c0.b4c8d3e9f1a2b7c5d8.cfd/yayinzirve.m3u8
+https://i0.b4c8d3e9f1a2b7c5d14.cfd/yayinzirve.m3u8
 
 #EXTINF:-1 tvg-logo="https://iili.io/JhkQ9dN.png" group-title="TURKISH SPORTS",beIN Sports 2 Türkiye
 #EXTVLCOPT:http-referrer=https://trgoals957.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://c0.b4c8d3e9f1a2b7c5d8.cfd/yayinb2.m3u8
+https://i0.b4c8d3e9f1a2b7c5d14.cfd/yayinb2.m3u8
 
 #EXTINF:-1 tvg-logo="https://iili.io/JhkQCrl.png" group-title="TURKISH SPORTS",beIN Sports 3 Türkiye
 #EXTVLCOPT:http-referrer=https://trgoals957.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://c0.b4c8d3e9f1a2b7c5d8.cfd/yayinb3.m3u8
+https://i0.b4c8d3e9f1a2b7c5d14.cfd/yayinb3.m3u8
 
 #EXTINF:-1 tvg-logo="https://iili.io/JhkQo22.png" group-title="TURKISH SPORTS",beIN Sports 4 Türkiye
 #EXTVLCOPT:http-referrer=https://trgoals957.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://c0.b4c8d3e9f1a2b7c5d8.cfd/yayinb4.m3u8
+https://i0.b4c8d3e9f1a2b7c5d14.cfd/yayinb4.m3u8
 
 #EXTINF:-1 tvg-logo="https://iili.io/JhkQzk7.png" group-title="TURKISH SPORTS",beIN Sports 5 Türkiye
 #EXTVLCOPT:http-referrer=https://trgoals957.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://c0.b4c8d3e9f1a2b7c5d8.cfd/yayinb5.m3u8
+https://i0.b4c8d3e9f1a2b7c5d14.cfd/yayinb5.m3u8
 
 #EXTINF:-1 tvg-id="beIN SPORTS HABER HD.tr" tvg-logo="https://iili.io/2rmHqU7.png" group-title="TURKISH SPORTS",beIN Sports Haber
 http://stream.tvcdn.net/spor/bein-sports-haber.m3u8
@@ -2186,62 +2186,62 @@ http://stream.tvcdn.net/spor/bein-sports-haber.m3u8
 #EXTINF:-1 tvg-logo="https://iili.io/2rDeQ8g.png" group-title="TURKISH SPORTS",beIN Sports Max 1 Türkiye
 #EXTVLCOPT:http-referrer=https://trgoals957.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://c0.b4c8d3e9f1a2b7c5d8.cfd/yayinbm1.m3u8
+https://i0.b4c8d3e9f1a2b7c5d14.cfd/yayinbm1.m3u8
 
 #EXTINF:-1 tvg-logo="https://iili.io/2rDet9a.png" group-title="TURKISH SPORTS",beIN Sports Max 2 Türkiye
 #EXTVLCOPT:http-referrer=https://trgoals957.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://c0.b4c8d3e9f1a2b7c5d8.cfd/yayinbm2.m3u8
+https://i0.b4c8d3e9f1a2b7c5d14.cfd/yayinbm2.m3u8
 
 #EXTINF:-1 tvg-id="S SPORT.tr" tvg-logo="https://iili.io/2rb7NSt.png" group-title="TURKISH SPORTS",S Sport
 #EXTVLCOPT:http-referrer=https://trgoals957.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://c0.b4c8d3e9f1a2b7c5d8.cfd/yayinss.m3u8
+https://i0.b4c8d3e9f1a2b7c5d14.cfd/yayinss.m3u8
 
 #EXTINF:-1 tvg-id="S SPORT 2.tr" tvg-logo="https://iili.io/2rb7kRn.png" group-title="TURKISH SPORTS",S Sport 2
 #EXTVLCOPT:http-referrer=https://trgoals957.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://c0.b4c8d3e9f1a2b7c5d8.cfd/yayinss2.m3u8
+https://i0.b4c8d3e9f1a2b7c5d14.cfd/yayinss2.m3u8
 
 #EXTINF:-1 tvg-id="EUROSPORT 1 HD.tr" tvg-logo="https://iili.io/JhkZx6v.png" group-title="TURKISH SPORTS",Eurosport 1 Türkiye
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referrer=https://trgoals1105.xyz/
-https://h0.b4c8d3e9f1a2b7c5d13.cfd/yayineu1.m3u8
+https://i0.b4c8d3e9f1a2b7c5d14.cfd/yayineu1.m3u8
  
 #EXTINF:-1 tvg-id="EUROSPORT 2 HD.tr" tvg-logo="https://iili.io/JhkZIFR.png" group-title="TURKISH SPORTS",Eurosport 2 Türkiye
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referrer=https://trgoals1105.xyz/
-https://h0.b4c8d3e9f1a2b7c5d13.cfd/yayineu2.m3u8
+https://i0.b4c8d3e9f1a2b7c5d14.cfd/yayineu2.m3u8
 
 #EXTINF:-1 tvg-logo="https://iili.io/2rbGGGs.png" group-title="TURKISH SPORTS",Spor Smart
 #EXTVLCOPT:http-referrer=https://trgoals957.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://c0.b4c8d3e9f1a2b7c5d8.cfd/yayinsmarts.m3u8
+https://i0.b4c8d3e9f1a2b7c5d14.cfd/yayinsmarts.m3u8
 
 #EXTINF:-1 tvg-logo="https://iili.io/2rbGGGs.png" group-title="TURKISH SPORTS",Spor Smart 2
 #EXTVLCOPT:http-referrer=https://trgoals957.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://c0.b4c8d3e9f1a2b7c5d8.cfd/yayinsms2.m3u8
+https://i0.b4c8d3e9f1a2b7c5d14.cfd/yayinsms2.m3u8
 
 #EXTINF:-1 tvg-logo="https://iili.io/2rb7vNs.png" group-title="TURKISH SPORTS",Tivibu Spor 1
 #EXTVLCOPT:http-referrer=https://trgoals957.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://c0.b4c8d3e9f1a2b7c5d8.cfd/yayint1.m3u8
+https://i0.b4c8d3e9f1a2b7c5d14.cfd/yayint1.m3u8
 
 #EXTINF:-1 tvg-logo="https://iili.io/2rb7vNs.png" group-title="TURKISH SPORTS",Tivibu Spor 2
 #EXTVLCOPT:http-referrer=https://trgoals957.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://c0.b4c8d3e9f1a2b7c5d8.cfd/yayint2.m3u8
+https://i0.b4c8d3e9f1a2b7c5d14.cfd/yayint2.m3u8
 
 #EXTINF:-1 tvg-logo="https://iili.io/2rb7vNs.png" group-title="TURKISH SPORTS",Tivibu Spor 3
 #EXTVLCOPT:http-referrer=https://trgoals957.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://c0.b4c8d3e9f1a2b7c5d8.cfd/yayint3.m3u8
+https://i0.b4c8d3e9f1a2b7c5d14.cfd/yayint3.m3u8
 
 #EXTINF:-1 tvg-logo="https://iili.io/2rb7vNs.png" group-title="TURKISH SPORTS",Tivibu Spor 4
 #EXTVLCOPT:http-referrer=https://trgoals957.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://c0.b4c8d3e9f1a2b7c5d8.cfd/yayint4.m3u8
+https://i0.b4c8d3e9f1a2b7c5d14.cfd/yayint4.m3u8
 
 #EXTINF:-1 tvg-id="TRT SPOR.tr" tvg-logo="https://iili.io/d3K51hg.png" group-title="TURKISH SPORTS",TRT Spor
 http://stream.tvcdn.net/spor/trt-spor.m3u8
