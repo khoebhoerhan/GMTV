@@ -65,9 +65,7 @@ https://d1abp075u76pbq.cloudfront.net/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd
 https://d1abp075u76pbq.cloudfront.net/live/eds/RTV/sa_dash_vmx/RTV.mpd
 
 #EXTINF:-1 tvg-id="BTV.id" tvg-logo="https://iili.io/28yoB87.png" group-title="NASIONAL",BTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.indihometv.com
-https://streaming.indihometv.com/atm/DASH/beritasatu/manifest.mpd
+https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
  
 #EXTINF:-1 tvg-id="TVRI.id" tvg-logo="https://iili.io/JMp3DJf.png" group-title="NASIONAL",TVRI
 https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8
@@ -123,7 +121,7 @@ https://d1abp075u76pbq.cloudfront.net/live/eds/MNCnews-HDD/sa_dash_vmx/MNCnews-H
 https://d1abp075u76pbq.cloudfront.net/live/eds/IDX/sa_dash_vmx/IDX.mpd
  
 #EXTINF:-1 tvg-id="IDTV.id" tvg-logo="https://iili.io/28yoeNn.png" group-title="NATIONAL NEWS",Beritasatu
-https://cdn08jtedge.indihometv.com/dassdvr/134/idtv/manifest.mpd
+https://b1world.beritasatumedia.com/Beritasatu/B1World_1280x720.m3u8
  
 #EXTINF:-1 tvg-logo="https://iili.io/JmFZtFs.png" group-title="PARLIAMENTARY",TVR Parlemen
 http://103.18.181.69:1935/golive/livestream/chunklist_w1350607412.m3u8
@@ -1399,14 +1397,6 @@ https://cdnapisec.kaltura.com/p/4526593/sp/4526593/playManifest/entryId/1_j8ztwi
 #EXTVLCOPT:http-user-agent=Firefox
 https://streaming-live.rtp.pt/livetvhlsDVR/rtpnHDdvr.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="CMTV HD.pt" tvg-logo="https://iili.io/24MulKG.png" group-title="PORTUGUESE NEWS",CMTV
-#EXTVLCOPT:http-user-agent=Firefox
-https://moonlight.wideiptv.top/CMTVPT/index.fmp4.m3u8?token=bdf7437decacf890c43b373d45aa37fc154e4852-937db717fda34e63034ead15e3f253ac-1736777008-1736766208
-
-#EXTINF:-1 tvg-id="NewsNOW.pt" tvg-logo="https://iili.io/24MuaPs.png" group-title="PORTUGUESE NEWS",News Now
-#EXTVLCOPT:http-user-agent=Firefox
-https://moonlight.wideiptv.top/NewsNowPT/index.fmp4.m3u8?token=f4b1b69582fa7b6aa3303eb4155f131486b0f228-f5654209dec4b56698cdd913ef3853d3-1736777008-1736766208
- 
 #EXTINF:-1 tvg-id="Euronews.pt" tvg-logo="https://iili.io/JhksR99.png" group-title="PORTUGUESE NEWS",Euronews Português
 https://0ff3c09c7580460e8e018cdcaacbadee.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-pt_EuroNewsLive/playlist.m3u8
 
@@ -1981,18 +1971,6 @@ https://dcf-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-058/stream.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
 https://dcf-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-059/stream.mpd
-
-#EXTINF:-1 tvg-id="SPORT TV+ HD.pt" tvg-logo="https://iili.io/24Maxln.png" group-title="PORTUGUESE SPORTS",Sport TV +
-#EXTVLCOPT:http-user-agent=Firefox
-https://love2live.wideiptv.top/SPTPlus/index.fmp4.m3u8?token=a05881fac9fdeaf8db655824541ad6f81f85dcc2-e1fde59277698de4d739491ed4e02229-1736777009-1736766209
-
-#EXTINF:-1 tvg-id="A Bola.pt" tvg-logo="https://iili.io/24MazSs.png" group-title="PORTUGUESE SPORTS",A Bola
-#EXTVLCOPT:http-user-agent=Firefox
-https://love2live.wideiptv.top/ABOLA/index.fmp4.m3u8?token=db29ab735af4bf844e6d3c49ee2c7b40ae9fa2db-a870b061ad73a99bdbc2bd8a47739d02-1736777009-1736766209
-
-#EXTINF:-1 tvg-id="Canal 11 HD.pt" tvg-logo="https://iili.io/24MaoKX.png" group-title="PORTUGUESE SPORTS",Canal 11
-#EXTVLCOPT:http-user-agent=Firefox
-https://love2live.wideiptv.top/Canal11/index.fmp4.m3u8?token=3d54daee702a98b4a2eab5754b6b1b52baeda28c-d4b6c79c456d1a13c87016564d1bd104-1736777009-1736766209
 
 #EXTINF:-1 tvg-id="DAZN 1 HD.de" tvg-logo="https://iili.io/d06YU1p.png" group-title="GERMAN SPORTS",DAZN 1 Deutschland
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
@@ -3020,6 +2998,11 @@ https://teleradyo-abscbn-ono.amagi.tv/playlist720_p.m3u8
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=0559c95496d44fadb94105b9176c3579:40d8bb2a46ffd03540e0c6210ece57ce
 https://qp-pldt-live-grp-08-prod.akamaized.net/out/u/truefm_tv.mpd
+
+#EXTINF:-1 tvg-logo="https://iili.io/262kNIe.png" group-title="VISUAL RADIO", DZRH TV
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+http://143.44.136.110:6910/001/2/ch00000090990000001174/manifest.mpd?virtualDomain=001.live_hls.zte.com
  
 #EXTINF:-1 tvg-id="RRI NET.id" tvg-logo="https://iili.io/Jmo8ULF.png" group-title="VISUAL RADIO",RRI Net
 https://rrinet.rri.co.id/hls/live.m3u8
