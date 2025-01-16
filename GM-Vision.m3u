@@ -581,10 +581,9 @@ https://akadashlive-5select.akamaized.net/out/v1/f23dc3e45f1b4824a36cb33c1aafaa8
 
 #EXTINF:-1 tvg-id="USA Network HDTV (East).us" tvg-logo="https://iili.io/Jmo3RoP.png" group-title="AMERICAN ENTERTAINMENT",USA Network
 #KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=91bf2d81b9e13701ac667915641121b8:d0cc2082132b430ad5a8bc4f31c9b772
-https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-east)/master.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=78ab64fa90f137a697743b5dc27b2f96:de4d31c7fc6005ede28abab2a0720a9f
+https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL1-CTR-4s/Live/channel(usa-east)/master.mpd
 
 #EXTINF:-1 tvg-id="UNIVERSO (East).us" tvg-logo="https://iili.io/dxjZc79.png" group-title="AMERICAN ENTERTAINMENT",Universo
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -1260,12 +1259,6 @@ https://sabconetanw.cdn.mangomolo.com/news/smil:news.stream.smil/index.m3u8
  
 #EXTINF:-1 tvg-id="PressTV.ir" tvg-logo="https://iili.io/Jhkscnj.png" group-title="WORLD NEWS",Press TV
 https://live.presstv.ir/hls/presstv.m3u8
- 
-#EXTINF:-1 tvg-logo="https://iili.io/JmK1KwF.png" group-title="WORLD NEWS",teleSUR English
-https://cdnenmain.telesur.ultrabase.net/mblivev3/hd/playlist.m3u8
- 
-#EXTINF:-1 tvg-id="A NEWS HD.tr" tvg-logo="https://iili.io/Jhksnnf.png" group-title="WORLD NEWS",A News
-https://ythls.armelin.one/channel/UC-LRBEUet4xX2fRB3JitFxg.m3u8
  
 #EXTINF:-1 tvg-id="CNN HD (1202).us" tvg-logo="https://iili.io/JmKv9vn.png" group-title="AMERICAN NEWS",CNN USA
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
