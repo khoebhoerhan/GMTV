@@ -281,6 +281,10 @@ https://v10.siar.us/rctv/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://iili.io/Jbtn72f.png" group-title="LOKAL",Riau TV
 https://63b2dc7196c38.streamlock.net:1937/riautv/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://iili.io/2P4u9V4.png" group-title="LOKAL",Ruai TV
+#EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
+https://flv.intechmedia.net/live/ch24.m3u8
  
 #EXTINF:-1 tvg-logo="https://iili.io/JbtnxII.png" group-title="LOKAL",Sampit TV
 #EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
@@ -418,6 +422,10 @@ https://d1abp075u76pbq.cloudfront.net/live/eds/LifeStyleFashion/sa_dash_vmx/Life
 #EXTINF:-1 tvg-id="AllPlay Ent.id" tvg-logo="https://iili.io/JZIno1s.png" group-title="NATIONAL ENTERTAINMENT",AllPlay Ent
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
 https://streaming.indihometv.com/atm/DASH/useeprime/manifest.mpd
+
+#EXTINF:-1 tvg-id="Maxstream.id" tvg-logo="https://iili.io/2P45iIn.png" group-title="NATIONAL ENTERTAINMENT", Maxstream
+#EXTVLCOPT:http-referrer=https://www.cubmu.com/ (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
+https://cdn08jtedge.indihometv.com/dassdvr/194/maxstream/manifest.mpd
  
 #EXTINF:-1 tvg-id="Seru!.id" tvg-logo="https://iili.io/JZInnBn.png" group-title="NATIONAL ENTERTAINMENT",Seru Channel
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
