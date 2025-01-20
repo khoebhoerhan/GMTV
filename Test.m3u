@@ -1,8 +1,11 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="511.astro" tvg-logo="https://iili.io/JhksTaS.png" group-title="TEST CHANNELS",CNN International
+#EXTINF:-1 tvg-id="511.astro" tvg-logo="https://iili.io/JhksTaS.png" group-title="TEST CHANNELS",CNN International (IHTV)
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"69646b755f3130303030303030303030":"e4a2359b05563399f1d9adfce641724a"}
 https://cdn08jtedge.indihometv.com/dassdvr/133/cnninternational_dash/manifest.mpd
+
+#EXTINF:-1 tvg-id="511.astro" tvg-logo="https://iili.io/JhksTaS.png" group-title="TEST CHANNELS",CNN International (Max)
+https://turnerlive.warnermediacdn.com/hls/live/586497/cnngo/cnni/VIDEO_0_3564000.m3u8
 
 #EXTINF:-1 tvg-id="715.astro" tvg-logo="https://iili.io/Jmo0xC7.png" group-title="TEST CHANNELS",HGTV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
