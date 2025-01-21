@@ -1348,7 +1348,7 @@ https://live.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8
 https://stream.skynewsarabia.com/hls/sna_720.m3u8
 
 #EXTINF:-1 tvg-id="CNBC Arabiya HD.ua" tvg-logo="https://iili.io/2MUbUp1.png" group-title="ARABIC NEWS",CNBC Arabia
-https://cnbc-live.akamaized.net/cnbc/master_1080p.m3u8
+https://cnbc-live.akamaized.net/cnbc/master.m3u8
  
 #EXTINF:-1 tvg-id="TRT ARABI" tvg-logo="https://iili.io/JmKtkZB.png" group-title="ARABIC NEWS",TRT Arabi
 https://tv-trtarabi.medya.trt.com.tr/master.m3u8
@@ -1585,7 +1585,7 @@ https://pl-indiatvnews.akamaized.net/out/v1/db79179b608641ceaa5a4d0dd0dca8da/ind
 https://dai.google.com/linear/hls/event/cXpfjAMTR4OKnp9WJxHc9g/master.m3u8
  
 #EXTINF:-1 tvg-id="ABP News.in" tvg-logo="https://iili.io/JbnKMTG.png" group-title="HINDI NEWS",ABP News
-https://abplivetv.akamaized.net/hls/live/2043010/hindi/master.m3u8
+https://abplivetv.pc.cdn.bitgravity.com/httppush/abp_livetv/abp_abpnews/master.m3u8
  
 #EXTINF:-1 tvg-id="Bharat 24.in" tvg-logo="https://iili.io/JbnKVjf.png" group-title="HINDI NEWS",Bharat 24
 https://legitpro.co.in/bharat24live/bharat24live/index.m3u8
@@ -1600,7 +1600,7 @@ https://ythls.armelin.one/channel/UCKwucPzHZ7zCUIf7If-Wo1g.m3u8
 https://tezlive-amd.akamaized.net/hls/live/2016145/gnt/gntlive/live_720p/chunks.m3u8
  
 #EXTINF:-1 tvg-id="India News.in" tvg-logo="https://iili.io/JbnKSTb.png" group-title="HINDI NEWS",India News
-https://livetv.newsx.com/itv/itvnetwork5/playlist.m3u8
+https://indianews.ottlive.co.in/indianewsnational/indianewsnational/index.m3u8
  
 #EXTINF:-1 tvg-id="News 24.in" tvg-logo="https://iili.io/JbnKAhv.png" group-title="HINDI NEWS",News 24
 https://vidcdn.vidgyor.com/news24-origin/liveabr/news24-origin/live_720p/chunks.m3u8
@@ -1608,7 +1608,7 @@ https://vidcdn.vidgyor.com/news24-origin/liveabr/news24-origin/live_720p/chunks.
 #EXTINF:-1 tvg-id="News Nation.in" tvg-logo="https://iili.io/JbnKzkg.png" group-title="HINDI NEWS",News Nation
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Newsnation/default/newsnation-audio_208482_und=208000-video=877600.m3u8
  
-#EXTINF:-1 tvg-id="Zee Hindustan.in" tvg-logo="https://iili.io/JbnKa4I.png" group-title="HINDI NEWS",Zee Hindustan
+#EXTINF:-1 tvg-id="Zee Hindustan.in" tvg-logo="https://iili.io/2iEQ1Xj.png" group-title="HINDI NEWS",Zee Bharat
 https://d1hp2yai3k4ork.cloudfront.net/index_4.m3u8
  
 #EXTINF:-1 tvg-id="ABS CBN News channel HD.ua" tvg-logo="https://iili.io/JmFyHGI.png" group-title="PINOY NEWS",ANC Global
@@ -1646,8 +1646,7 @@ https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f
 https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8
  
 #EXTINF:-1 tvg-id="CNN TÜRK HD.tr" tvg-logo="https://iili.io/JmKHVTJ.png" group-title="TURKISH NEWS",CNN Türk
-#EXTVLCOPT:http-referrer=https://www.cnnturk.com/canli-yayin/
-https://live.duhnet.tv//S2/HLS_LIVE/cnnturknp/playlist.m3u8
+http://tgn.bozztv.com/dvrfl05/gin-cnnturk/index.m3u8
  
 #EXTINF:-1 tvg-id="BLOOMBERG HT HD.tr" tvg-logo="https://iili.io/JmKHjBp.png" group-title="TURKISH NEWS",Bloomberg HT
 https://ensonhaber-live.ercdn.net/bloomberght/bloomberght.m3u8
@@ -1731,11 +1730,10 @@ https://g2.mc-slo.transport.edge-access.net:443/a15/ngrp:a24-100056_all/a24-1000
 http://appdootv2.dootvde.com:1935/live/50015_nation.stream.smil/playlist.m3u8
  
 #EXTINF:-1 tvg-id="TNN.th" tvg-logo="https://iili.io/JmKuX1t.png" group-title="THAI NEWS",TNN 16
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 Edg/124.0.0.0
-https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chtnn/index.m3u8
+https://lb-mvtv-live.v2h-cdn.com/redirect/tnn24/tnn24.stream?type=m3u8
  
 #EXTINF:-1 tvg-id="TOP News.th" tvg-logo="https://iili.io/JmmvTUF.png" group-title="THAI NEWS",Top News
-https://live.topnews.co.th/hls/topnews.m3u8
+https://live.topnews.co.th/hls/mobile_v1.m3u8
  
 #EXTINF:-1 tvg-id="Parliament.th" tvg-logo="https://iili.io/JmFZsnt.png" group-title="PARLIAMENTARY",TPTV
 https://tv-live.tpchannel.org/live/tv_1080p.m3u8?vhost=tv-live.tpchannel.org
@@ -2507,42 +2505,42 @@ https://wp3-anp-g05060506-hzn-nl.t1.prd.dyncdn.dmdsdp.com/live/disk1/NL_000109_0
 #KODIPROP:inputstream.adaptive.license_key=3e999e38253834baa63881ea451f2839:99b88d9cde1d8986decbc5985da87187
 https://wp4-anp-g05060506-hzn-nl.t1.prd.dyncdn.dmdsdp.com/live/disk1/NL_000110_019562/go-dash-hdready-avc/NL_000110_019562.mpd?p=starballtv
 
-#EXTINF:-1 tvg-id="Ziggo Sport.nl" tvg-logo="https://iili.io/Jhkm2ig.png" group-title="DUTCH SPORTS",Ziggo Sport
+#EXTINF:-1 tvg-id="Ziggo Sport.nl" tvg-logo="https://iili.io/2iEsujf.png" group-title="DUTCH SPORTS",Ziggo Sport
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0be3d503dba13fc9a9c8ad4b89f599e6:578c2231c526c5e9eb415411e36871bf
 https://wp7-anp-g05060506-hzn-nl.t1.prd.dyncdn.dmdsdp.com/live/disk1/NL_000014_019661/go-dash-fhd-avc/NL_000014_019661.mpd?p=web
 
-#EXTINF:-1 tvg-id="Ziggo Sport 2.nl" tvg-logo="https://iili.io/Jhkm2ig.png" group-title="DUTCH SPORTS",Ziggo Sport 2
+#EXTINF:-1 tvg-id="Ziggo Sport 2.nl" tvg-logo="https://iili.io/2iEszps.png" group-title="DUTCH SPORTS",Ziggo Sport 2
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=16bf72dc22743d929c4318e193408373:eae51a1e3904124963074cbf432c7c8e
 https://wp2-anp-g05060506-hzn-nl.t1.prd.dyncdn.dmdsdp.com/live/disk1/NL_000095_019371/go-dash-fhd-avc/NL_000095_019371.mpd?p=web
 
-#EXTINF:-1 tvg-id="Ziggo Sport 3.nl" tvg-logo="https://iili.io/Jhkm2ig.png" group-title="DUTCH SPORTS",Ziggo Sport 3
+#EXTINF:-1 tvg-id="Ziggo Sport 3.nl" tvg-logo="https://iili.io/2iEsoYX.png" group-title="DUTCH SPORTS",Ziggo Sport 3
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=16bf72dc22743d929c4318e193408373:eae51a1e3904124963074cbf432c7c8e
 https://wp3-anp-g05060506-hzn-nl.t1.prd.dyncdn.dmdsdp.com/live/disk1/NL_000096_019382/go-dash-fhd-avc/NL_000096_019382.mpd?p=web
 
-#EXTINF:-1 tvg-id="Ziggo Sport 4.nl" tvg-logo="https://iili.io/Jhkm2ig.png" group-title="DUTCH SPORTS",Ziggo Sport 4
+#EXTINF:-1 tvg-id="Ziggo Sport 4.nl" tvg-logo="https://iili.io/2iEsn2t.png" group-title="DUTCH SPORTS",Ziggo Sport 4
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=16bf72dc22743d929c4318e193408373:eae51a1e3904124963074cbf432c7c8e
 https://wp4-anp-g05060506-hzn-nl.t1.prd.dyncdn.dmdsdp.com/live/disk1/NL_000097_019370/go-dash-fhd-avc/NL_000097_019370.mpd?p=web
 
-#EXTINF:-1 tvg-id="Ziggo Sport 5.nl" tvg-logo="https://iili.io/Jhkm2ig.png" group-title="DUTCH SPORTS",Ziggo Sport 5
+#EXTINF:-1 tvg-id="Ziggo Sport 5.nl" tvg-logo="https://iili.io/2iEsB4I.png" group-title="DUTCH SPORTS",Ziggo Sport 5
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=16bf72dc22743d929c4318e193408373:eae51a1e3904124963074cbf432c7c8e
 https://wp5-anp-g05060506-hzn-nl.t1.prd.dyncdn.dmdsdp.com/live/disk1/NL_000098_019255/go-dash-fhd-avc/NL_000098_019255.mpd?p=web
 
-#EXTINF:-1 tvg-id="Ziggo Sport 6.nl" tvg-logo="https://iili.io/Jhkm2ig.png" group-title="DUTCH SPORTS",Ziggo Sport 6
+#EXTINF:-1 tvg-id="Ziggo Sport 6.nl" tvg-logo="https://iili.io/2iEsTTG.png" group-title="DUTCH SPORTS",Ziggo Sport 6
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -3422,8 +3420,7 @@ http://appdootv2.dootvde.com:1935/live/50028_ch8.stream.smil/playlist.m3u8
 https://bcovlive-a.akamaihd.net/fb7ac9cc4e1140238e3077ffd29337fe/ap-southeast-1/6415628290001/playlist.m3u8
  
 #EXTINF:-1 tvg-id="JKN 18.th" tvg-logo="https://iili.io/JmoQBAg.png" group-title="THAILAND",JKN 18
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 Edg/124.0.0.0
-https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/newtv3/index.m3u8
+https://edge2a.v2h-cdn.com/jkn18/jkn18.stream/playlist.m3u8
  
 #EXTINF:-1 tvg-id="MONO29 Plus.th" tvg-logo="https://iili.io/JmoQzVR.png" group-title="THAILAND",Mono 29
 #EXTVLCOPT:http-referrer=https://www.monomax.me/
