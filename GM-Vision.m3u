@@ -45,8 +45,10 @@ https://video.detik.com/transtv/smil:transtv.smil/chunklist_w962267898_b744100_s
 https://video.detik.com/trans7/smil:trans7.smil/chunklist_w1791373024_b744100_sleng.m3u8
  
 #EXTINF:-1 tvg-id="ANTV.id" tvg-logo="https://iili.io/JMp31cb.png" group-title="NASIONAL",ANTV
-#EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
-https://flv.intechmedia.net/live/ch108.m3u8
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b4899559135b490d98a892c1d6a45e20:6b5feff6a7242dc4b4345bedb84c2181
+https://atemecdnbalancer-voe.sysln.id/live/eds/ANTV/mpd/ANTV.mpd
  
 #EXTINF:-1 tvg-logo="https://iili.io/JMp3pb2.png" group-title="NASIONAL",VTV
 #EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
@@ -99,8 +101,10 @@ https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w1843433135_b
 https://atemeshield1-voe.sysln.id/live/eds/KOMPASTVHD/mpd/KOMPASTVHD.mpd
  
 #EXTINF:-1 tvg-id="TVOne.id" tvg-logo="https://iili.io/JV3xDo7.png" group-title="NATIONAL NEWS",tvOne
-#EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
-https://flv.intechmedia.net/live/ch109.m3u8
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b6486d00c9d842d88ba1660deec8becc:67ed72016590f2138d9fc10b807708b2
+https://atemeshield1-voe.sysln.id/live/eds/TvOne/mpd/TvOne.mpd
  
 #EXTINF:-1 tvg-id="iNews HD - [Channel 433].id" tvg-logo="https://iili.io/JV3x4Fs.png" group-title="NATIONAL NEWS",iNews
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -182,7 +186,7 @@ https://stream.jogjatv.co.id/jtvlive/stream/index.m3u8
 http://116.254.112.74:80/hls/cakralive.m3u8
  
 #EXTINF:-1 tvg-logo="https://iili.io/JbtnEQ9.png" group-title="LOKAL",TVKU
-http://103.30.1.14:8080/hls/live.m3u8
+https://tvku.tv/hlsstream/hls/live.m3u8
  
 #EXTINF:-1 tvg-logo="https://iili.io/Jbtncp2.png" group-title="LOKAL",Surabaya TV
 https://e.siar.us/live/surabayatv.m3u8
@@ -3582,6 +3586,8 @@ https://stream-047.zeno.fm/047dgsp3v68uv
 https://stream.radiojar.com/5k7t0rq3bnzuv
 #EXTINF:-1 tvg-logo="https://iili.io/Jmx9ht1.png" group-title="RADIO INDONESIA",C Radio
 https://stream.cradio.co.id/cradio.aac
+#EXTINF:-1 tvg-logo="https://iili.io/2iiXdFe.png" group-title="RADIO INDONESIA",CDBS Radio Action
+https://a1.siar.us/listen/radiocdbs/stream
 #EXTINF:-1 tvg-logo="https://iili.io/2MVfgmx.png" group-title="RADIO INDONESIA",V Radio
 http://202.147.199.100:8000/;stream.nsv
 #EXTINF:-1 tvg-logo="https://iili.io/Jmx9woF.png" group-title="RADIO INDONESIA",Cosmo Radio
@@ -3670,6 +3676,8 @@ https://streamingv2.shoutcast.com/kalimaya-bhaskara-malang
 https://wz.mari.co.id:1936/web_kisfm/kisfm/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://iili.io/JmomEap.png" group-title="RADIO INDONESIA",Kiss FM Medan
 http://live.kissfm-medan.com:8080/kissfm.mp3
+#EXTINF:-1 tvg-logo="https://iili.io/2ii40cx.png" group-title="RADIO INDONESIA",Kuta Radio
+https://a7.siar.us/listen/radiokutafm/stream
 #EXTINF:-1 tvg-logo="https://iili.io/JmomXwX.png" group-title="RADIO INDONESIA",M FM Malang
 http://202.164.223.22:8222/;
 #EXTINF:-1 tvg-logo="https://iili.io/Jmomhtn.png" group-title="RADIO INDONESIA",M Radio Surabaya
@@ -3726,8 +3734,6 @@ https://c4.siar.us:8950/stream
 http://stream.radbdg.net:8000/globalradiobandung.mp3
 #EXTINF:-1 tvg-logo="https://iili.io/2MMST0J.png" group-title="RADIO INDONESIA",Global Radio Jakarta
 http://202.147.199.98:80/;
-#EXTINF:-1 tvg-logo="https://iili.io/JmopRUl.png" group-title="RADIO INDONESIA",OZ Radio Bali
-https://void.idserverhost.com:8008/10/
 #EXTINF:-1 tvg-logo="https://iili.io/JmopAl4.png" group-title="RADIO INDONESIA",OZ Radio Jakarta
 https://streaming.ozradiojakarta.com:8443/ozjakarta
 #EXTINF:-1 tvg-logo="https://iili.io/Jmop7J2.png" group-title="RADIO INDONESIA",Paramuda FM
