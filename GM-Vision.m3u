@@ -1551,6 +1551,9 @@ https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/
  
 #EXTINF:-1 tvg-id="TIMES NOW.in" tvg-logo="https://iili.io/Jbn2bj4.png" group-title="INDIAN NEWS",Times Now
 https://d3pvf6sv7wsu07.cloudfront.net/master.m3u8
+
+#EXTINF:-1 tvg-id="Mirror Now.in" tvg-logo="https://iili.io/Jbn3H67.png" group-title="INDIAN NEWS",Mirror Now
+http://45.148.145.57/IN_MirrorNow/index.m3u8
  
 #EXTINF:-1 tvg-id="NewsX.in" tvg-logo="https://iili.io/Jbn338u.png" group-title="INDIAN NEWS",NewsX
 https://indianews.ottlive.co.in/newsx/newsx/tracks-v1/index.fmp4.m3u8
@@ -1600,8 +1603,8 @@ https://legitpro.co.in/bharat24live/bharat24live/index.m3u8
 #EXTINF:-1 tvg-id="Bharat Express.in" tvg-logo="https://iili.io/JbnKhCl.png" group-title="HINDI NEWS",Bharat Express TV
 https://stream1.livebox.co.in/VCAREhls/live.m3u8
  
-#EXTINF:-1 tvg-id="DD News.in" tvg-logo="https://iili.io/JbnKjG2.png" group-title="HINDI NEWS",DD News
-https://ythls.armelin.one/channel/UCKwucPzHZ7zCUIf7If-Wo1g.m3u8
+#EXTINF:-1 tvg-id="DD News.in" tvg-logo="https://iili.io/2iyPYMJ.png" group-title="HINDI NEWS",DD News
+http://45.148.145.57/IND_DN/index.m3u8
  
 #EXTINF:-1 tvg-id="Good News Today.in" tvg-logo="https://iili.io/JbnKea9.png" group-title="HINDI NEWS",Good News Today
 https://tezlive-amd.akamaized.net/hls/live/2016145/gnt/gntlive/live_720p/chunks.m3u8
@@ -4028,16 +4031,6 @@ https://stream.streamaudio.de:8000/teststream3
 https://stream-node1.rri.co.id/streaming/41/8941/chlima.mp3
 #EXTINF:-1 tvg-logo="https://iili.io/JmS5JFn.png" group-title="RRI RADIO",RRI Voice of Indonesia
 http://streaming.rri.co.id:9125/voi.mp3
-#EXTINF:-1 tvg-id="X1069" tvg-logo="https://iili.io/JmSE7GR.png" group-title="PORTUGUESE RADIO",Antena 1
-https://streaming-live.rtp.pt/liveradio/antena180a/playlist.m3u8
-#EXTINF:-1 tvg-id="X1075" tvg-logo="https://iili.io/JmSElaI.png" group-title="PORTUGUESE RADIO",Antena 2
-https://streaming-live.rtp.pt/liveradio/antena280a/playlist.m3u8
-#EXTINF:-1 tvg-id="X107D" tvg-logo="https://iili.io/JmSEc3N.png" group-title="PORTUGUESE RADIO",Antena 3
-https://streaming-live.rtp.pt/liveradio/antena380a/playlist.m3u8
-#EXTINF:-1 tvg-id="X10D5" tvg-logo="https://iili.io/JmSE0vt.png" group-title="PORTUGUESE RADIO",Rádio Comercial
-https://media1.mcr.iol.pt/livefm/comercial/playlist.m3u8
-#EXTINF:-1 tvg-id="X10CD" tvg-logo="https://iili.io/JmSEY4p.png" group-title="PORTUGUESE RADIO",Cidade FM
-https://media1.mcr.iol.pt/livefm/cidade/livefm/cidade_128k/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://iili.io/JmSE4Mx.png" group-title="SINGAPOREAN RADIO",987
 https://playerservices.streamtheworld.com/api/livestream-redirect/987FMAAC.aac
 #EXTINF:-1 tvg-logo="https://iili.io/JmSErnj.png" group-title="SINGAPOREAN RADIO",Class 95
@@ -4048,116 +4041,40 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/938NOWAAC.aac
 https://playerservices.streamtheworld.com/api/livestream-redirect/MONEY_893AAC.aac
 #EXTINF:-1 tvg-logo="https://iili.io/JmSEUZb.png" group-title="SINGAPOREAN RADIO",Ria 89.7
 https://playerservices.streamtheworld.com/api/livestream-redirect/RIA897FMAAC.aac
-#EXTINF:-1 tvg-id="BBC R1.uk" tvg-logo="https://i.imgur.com/RTuZpmP.png" group-title="BRITISH RADIO",BBC Radio 1
+#EXTINF:-1 tvg-id="BBC R1.uk" tvg-logo="https://iili.io/2iysX4f.png" group-title="BRITISH RADIO",BBC Radio 1
 https://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/dash/nonuk/dash_low/aks/bbc_radio_one.mpd
-#EXTINF:-1 tvg-id="BBC R1X.uk" tvg-logo="https://i.imgur.com/FbXlRxz.png" group-title="BRITISH RADIO",BBC Radio 1Xtra
+#EXTINF:-1 tvg-id="BBC R1X.uk" tvg-logo="https://iili.io/2iysWEG.png" group-title="BRITISH RADIO",BBC Radio 1Xtra
 https://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/dash/nonuk/dash_low/aks/bbc_1xtra.mpd
-#EXTINF:-1 tvg-id="BBC R2.uk" tvg-logo="https://i.imgur.com/a8YNVBU.png" group-title="BRITISH RADIO",BBC Radio 2
+#EXTINF:-1 tvg-id="BBC R2.uk" tvg-logo="https://iili.io/2iysOpS.png" group-title="BRITISH RADIO",BBC Radio 2
 https://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/dash/nonuk/dash_low/aks/bbc_radio_two.mpd
-#EXTINF:-1 tvg-id="BBC R3.uk" tvg-logo="https://i.imgur.com/4QVjPJQ.png" group-title="BRITISH RADIO",BBC Radio 3
+#EXTINF:-1 tvg-id="BBC R3.uk" tvg-logo="https://iili.io/2iysNv2.png" group-title="BRITISH RADIO",BBC Radio 3
 https://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/dash/nonuk/dash_low/aks/bbc_radio_three.mpd
-#EXTINF:-1 tvg-id="BBC R4 .uk" tvg-logo="https://i.imgur.com/LiEQ2DS.png" group-title="BRITISH RADIO",BBC Radio 4
+#EXTINF:-1 tvg-id="BBC R4 .uk" tvg-logo="https://iili.io/2iysvj9.png" group-title="BRITISH RADIO",BBC Radio 4
 https://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/dash/nonuk/dash_low/aks/bbc_radio_fourfm.mpd
-#EXTINF:-1 tvg-id="BBC R4 Extra.uk" tvg-logo="https://i.imgur.com/aCe4X5n.png" group-title="BRITISH RADIO",BBC Radio 4 Extra
+#EXTINF:-1 tvg-id="BBC R4 Extra.uk" tvg-logo="https://iili.io/2iyskT7.png" group-title="BRITISH RADIO",BBC Radio 4 Extra
 https://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/dash/nonuk/dash_low/aks/bbc_radio_four_extra.mpd
-#EXTINF:-1 tvg-id="BBC R5L.uk" tvg-logo="https://i.imgur.com/XLIjZae.png" group-title="BRITISH RADIO",BBC Radio 5 Live
+#EXTINF:-1 tvg-id="BBC R5L.uk" tvg-logo="https://iili.io/2iys8Qe.png" group-title="BRITISH RADIO",BBC Radio 5 Live
 https://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/dash/nonuk/dash_low/cfs/bbc_radio_five_live.mpd
-#EXTINF:-1 tvg-id="BBC R5SX.uk" tvg-logo="https://i.imgur.com/Whc0BSN.png" group-title="BRITISH RADIO",BBC Radio 5 Sports Extra
+#EXTINF:-1 tvg-id="BBC R5SX.uk" tvg-logo="https://iili.io/2iysUCu.png" group-title="BRITISH RADIO",BBC Radio 5 Sports Extra
 https://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/dash/uk/dash_full/aks/bbc_radio_five_live_sports_extra.mpd
-#EXTINF:-1 tvg-id="BBC R6 Music.uk" tvg-logo="https://i.imgur.com/yMV2Fz6.png" group-title="BRITISH RADIO",BBC Radio 6 Music
+#EXTINF:-1 tvg-id="BBC R6 Music.uk" tvg-logo="https://iili.io/2iysgEb.png" group-title="BRITISH RADIO",BBC Radio 6 Music
 https://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/dash/nonuk/dash_low/aks/bbc_6music.mpd
-#EXTINF:-1 tvg-id="Capital.uk" tvg-logo="https://i.imgur.com/fzrOsOf.png" group-title="BRITISH RADIO",Capital
+#EXTINF:-1 tvg-id="Capital.uk" tvg-logo="https://iili.io/2iysr4j.png" group-title="BRITISH RADIO",Capital
 https://media-ssl.musicradio.com/Capital
-#EXTINF:-1 tvg-id="GB News HD.uk" tvg-logo="https://i.imgur.com/l1LVVWa.png" group-title="BRITISH RADIO",GB News Radio
+#EXTINF:-1 tvg-id="GB News HD.uk" tvg-logo="https://iili.io/2iys63x.png" group-title="BRITISH RADIO",GB News Radio
 https://listen-gbnews.sharp-stream.com/gbnews.mp3
-#EXTINF:-1 tvg-id="Heart.uk" tvg-logo="https://i.imgur.com/iYXLTFH.png" group-title="BRITISH RADIO",Heart
+#EXTINF:-1 tvg-id="Heart.uk" tvg-logo="https://iili.io/2iysPYQ.png" group-title="BRITISH RADIO",Heart
 https://media-ssl.musicradio.com/HeartUK
-#EXTINF:-1 tvg-id="LBC.uk" tvg-logo="https://i.imgur.com/7FGlpuw.png" group-title="BRITISH RADIO",LBC
+#EXTINF:-1 tvg-id="LBC.uk" tvg-logo="https://iili.io/2iysQTP.png" group-title="BRITISH RADIO",LBC
 https://media-ssl.musicradio.com/LBCLondon
-#EXTINF:-1 tvg-id="LBC News.uk" tvg-logo="https://i.imgur.com/jLjh2m4.png" group-title="BRITISH RADIO",LBC News
+#EXTINF:-1 tvg-id="LBC News.uk" tvg-logo="https://iili.io/2iyssyB.png" group-title="BRITISH RADIO",LBC News
 https://media-ssl.musicradio.com/LBCNewsUK
-#EXTINF:-1 tvg-id="X1075" tvg-logo="https://i.imgur.com/1jeMLqo.png" group-title="BRITISH RADIO",Talk Radio
+#EXTINF:-1 tvg-id="X1075" tvg-logo="https://iili.io/2iysZj1.png" group-title="BRITISH RADIO",Talk Radio
 https://radio.talkradio.co.uk/stream
-#EXTINF:-1 tvg-id="talkSPORT.uk" tvg-logo="https://i.imgur.com/NyMAyLK.png" group-title="BRITISH RADIO",talkSPORT
+#EXTINF:-1 tvg-id="talkSPORT.uk" tvg-logo="https://iili.io/2iyswYl.png" group-title="BRITISH RADIO",talkSPORT
 https://radio.talksport.com/stream
-#EXTINF:-1 tvg-id="X1075" tvg-logo="https://i.imgur.com/qpeV38x.png" group-title="BRITISH RADIO",talkSPORT 2
+#EXTINF:-1 tvg-id="X1075" tvg-logo="https://iili.io/2iysj24.png" group-title="BRITISH RADIO",talkSPORT 2
 https://radio.talksport.com/stream2
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vbijA8C.png" group-title="AUSTRALIAN RADIO",2GB
-https://playerservices.streamtheworld.com/api/livestream-redirect/2GBAAC.aac
-#EXTINF:-1 tvg-logo="https://i.imgur.com/437LRgA.png" group-title="AUSTRALIAN RADIO",3AW
-https://playerservices.streamtheworld.com/api/livestream-redirect/3AWAAC.aac
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WHTaliK.png" group-title="AUSTRALIAN RADIO",4BC
-https://playerservices.streamtheworld.com/api/livestream-redirect/4BCAAC.aac
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1JFWBDL.png" group-title="AUSTRALIAN RADIO",6PR
-https://playerservices.streamtheworld.com/api/livestream-redirect/6PRAAC.aac
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tsLDl3K.png" group-title="AUSTRALIAN RADIO",ABC AFL Extra
-https://mediaserviceslive.akamaized.net/hls/live/2038313/itineranttwo/masterhq.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FGO0QQR.png" group-title="AUSTRALIAN RADIO",ABC Cricket
-https://mediaserviceslive.akamaized.net/hls/live/2038314/itinerantone/masterhq.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/UYYhL0b.png" group-title="AUSTRALIAN RADIO",ABC NewsRadio
-https://mediaserviceslive.akamaized.net/hls/live/2038311/newsradio/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MmCguZM.png" group-title="AUSTRALIAN RADIO",ABC Radio Adelaide
-https://mediaserviceslive.akamaized.net/hls/live/2038298/localadelaide/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/by5UXS7.png" group-title="AUSTRALIAN RADIO",ABC Radio Brisbane
-https://mediaserviceslive.akamaized.net/hls/live/2038304/localbrisbane/masterhq.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/kUV7ga2.png" group-title="AUSTRALIAN RADIO",ABC Radio Canberra
-https://mediaserviceslive.akamaized.net/hls/live/2038303/localcanberra/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eWqlTxt.png" group-title="AUSTRALIAN RADIO",ABC Radio Darwin
-https://mediaserviceslive.akamaized.net/hls/live/2038307/localdarwin/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7zIQgtO.png" group-title="AUSTRALIAN RADIO",ABC Radio Hobart
-https://mediaserviceslive.akamaized.net/hls/live/2038268/localhobart/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dXmMkIU.png" group-title="AUSTRALIAN RADIO",ABC Radio Melbourne
-https://mediaserviceslive.akamaized.net/hls/live/2038300/localmelbourne/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/yD87crg.png" group-title="AUSTRALIAN RADIO",ABC Radio National
-https://mediaserviceslive.akamaized.net/hls/live/2038318/rnnsw/masterhq.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rAsCH26.png" group-title="AUSTRALIAN RADIO",ABC Radio Perth
-https://mediaserviceslive.akamaized.net/hls/live/2038301/localperth/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wpW64lt.png" group-title="AUSTRALIAN RADIO",ABC Radio Sydney
-https://mediaserviceslive.akamaized.net/hls/live/2038302/localsydney/masterhq.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4YUOBdK.png" group-title="AUSTRALIAN RADIO",ABC Sport
-https://mediaserviceslive.akamaized.net/hls/live/2038320/grandstand/masterhq.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ed3h3Be.png" group-title="AUSTRALIAN RADIO",ABC Sport Extra
-https://mediaserviceslive.akamaized.net/hls/live/2038312/itinerantthree/masterhq.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/T2LWmns.png" group-title="AUSTRALIAN RADIO",Double J
-https://mediaserviceslive.akamaized.net/hls/live/2038315/doublejnsw/masterhq.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HhEX3vJ.png" group-title="AUSTRALIAN RADIO",SBS PopAsia
-https://sbs-ice.streamguys1.com/sbs-popasia
-#EXTINF:-1 tvg-logo="https://i.imgur.com/B8ICcW5.png" group-title="AUSTRALIAN RADIO",SBS Radio 1
-https://sbs-ice.streamguys1.com/sbs1
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1adSbrN.png" group-title="AUSTRALIAN RADIO",SBS Radio 2
-https://sbs-ice.streamguys1.com/sbs2
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Yg6CPzl.png" group-title="SPANISH RADIO",Cadena 100
-https://cadena100-cope-rrcast.flumotion.com/cope/cadena100.mp3
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CcDOVk3.png" group-title="SPANISH RADIO",Cadena COPE
-https://flucast-rb04-02.flumotion.com/cope/madrid.mp3
-#EXTINF:-1 tvg-logo="https://i.imgur.com/cFnLKcB.png" group-title="SPANISH RADIO",Cadena Dial
-https://playerservices.streamtheworld.com/api/livestream-redirect/CADENADIALAAC.aac
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YgQ15s8.png" group-title="SPANISH RADIO",Cadena SER
-https://playerservices.streamtheworld.com/api/livestream-redirect/CADENASERAAC.aac
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TW3skU3.png" group-title="SPANISH RADIO",esRadio
-https://libertaddigital-radio-live1.flumotion.com/libertaddigital/ld-live1-low.mp3
-#EXTINF:-1 tvg-logo="https://i.imgur.com/60oyzcw.png" group-title="SPANISH RADIO",Europa FM
-http://stm1.emiteonline.com:8001/europafmhuelva
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wKxilHw.png" group-title="SPANISH RADIO",Hit FM
-https://adhandler.kissfmradio.cires21.com/get_link?url=https://bbhitfm.kissfmradio.cires21.com/bbhitfm.mp3
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mp6LH2o.png" group-title="SPANISH RADIO",Los 40
-https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40AAC.aac
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FPoFHNs.png" group-title="SPANISH RADIO",MegaStar FM
-https://megastar-cope-rrcast.flumotion.com/cope/megastar.mp3
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1FtNcX2.png" group-title="SPANISH RADIO",Onda Cero
-https://livefastly-webs.ondacero.es/alcala-pull/audio/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0BIMRqv.png" group-title="SPANISH RADIO",Radio Inter
-https://live.radiointer.es/stream
-#EXTINF:-1 tvg-logo="https://i.imgur.com/raLSvyR.png" group-title="SPANISH RADIO",Radio Intereconomia
-https://streaming.intereconomia.com/
-#EXTINF:-1 tvg-logo="https://i.imgur.com/oOrfe09.png" group-title="SPANISH RADIO",Radio Marca
-https://playerservices.streamtheworld.com/api/livestream-redirect/RADIOMARCA_NACIONAL.mp3
-#EXTINF:-1 tvg-logo="https://i.imgur.com/M19wSuC.png" group-title="SPANISH RADIO",Radio Nacional de España
-https://rtvelivestream.akamaized.net/rtvesec/rne/rne_r1_main.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/glBWPdH.png" group-title="SPANISH RADIO",RNE Radio 3
-https://ztnr.rtve.es/ztnr/2795617.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ac0X8oK.png" group-title="SPANISH RADIO",RNE Radio 5
-https://rtvelivestream.akamaized.net/rtvesec/rne/rne_r5_madrid_main.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LajHAFE.png" group-title="WORLD RADIO",RDP Internacional
 https://streaming-live.rtp.pt/liveradio/rdpint80a/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4pNyPrV.png" group-title="WORLD RADIO",ABC Radio Australia
