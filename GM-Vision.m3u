@@ -1528,7 +1528,7 @@ https://bit.ly/465XM7r?/playlist_1920x1080.m3u8
 #EXTINF:-1 tvg-id="Record.News.br" tvg-logo="https://iili.io/Jhv9P7j.png" group-title="BRASILIAN NEWS",Record News
 https://rnw-rn.otteravision.com/rnw/rn/rnw_rn.m3u8
  
-#EXTINF:-1 tvg-id="Band.News.HD.br" tvg-logo="https://iili.io/dfwgpOx.png" group-title="BRASILIAN NEWS",Band News TV
+#EXTINF:-1 tvg-id="Bandnews.br" tvg-logo="https://iili.io/dfwgpOx.png" group-title="BRASILIAN NEWS",Band News TV
 https://super-cdn.link/bandnews/index.m3u8
  
 #EXTINF:-1 tvg-id="Jovem.Pan.News.br" tvg-logo="https://iili.io/Jhv9ZhB.png" group-title="BRASILIAN NEWS",Jovem Pan News
@@ -2313,10 +2313,10 @@ https://super-cdn.link/espn3/index.m3u8
 #EXTINF:-1 tvg-id="ESPN.4.br" tvg-logo="https://iili.io/JmouJ14.png" group-title="BRASILIAN SPORTS",ESPN 4 Brasil
 https://super-cdn.link/espn4/index.m3u8
 
-#EXTINF:-1 tvg-id="Fox.Sports.2.HD.br" tvg-logo="https://iili.io/d9HjpYN.png" group-title="BRASILIAN SPORTS",ESPN 5 Brasil
+#EXTINF:-1 tvg-id="ESPN.5.br" tvg-logo="https://iili.io/d9HjpYN.png" group-title="BRASILIAN SPORTS",ESPN 5 Brasil
 https://super-cdn.link/espn5/index.m3u8
 
-#EXTINF:-1 tvg-id="ESPN.Extra.br" tvg-logo="https://iili.io/d9HjyvI.png" group-title="BRASILIAN SPORTS",ESPN 6 Brasil
+#EXTINF:-1 tvg-id="ESPN.6.br" tvg-logo="https://iili.io/d9HjyvI.png" group-title="BRASILIAN SPORTS",ESPN 6 Brasil
 https://super-cdn.link/espn6/index.m3u8
   
 #EXTINF:-1 tvg-id="Premierefchd.br" tvg-logo="https://iili.io/JmouF7S.png" group-title="BRASILIAN SPORTS",Premiere Clubes
@@ -3115,7 +3115,7 @@ https://stmv1.paineltv.net/valeradiowebtv/valeradiowebtv/chunklist_w1825787253.m
 #EXTINF:-1 tvg-id="Globorj.br" tvg-logo="https://iili.io/JmoURSf.png" group-title="BRASIL",Globo
 https://cdn-3.nxplay.com.br/GLOBO_SP_TK/tracks-v2a1/mono.m3u8
  
-#EXTINF:-1 tvg-id="Record.HD.br" tvg-logo="https://iili.io/JmoUAcG.png" group-title="BRASIL",Record
+#EXTINF:-1 tvg-id="RECORD.HD.br" tvg-logo="https://iili.io/JmoUAcG.png" group-title="BRASIL",Record
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
 https://cdn.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/playlist.m3u8
  
@@ -3125,10 +3125,10 @@ https://bit.ly/48lKogj?profile=6048fc47a44e540007745d2b.m3u8
 #EXTINF:-1 tvg-id="SBT.br" tvg-logo="https://iili.io/JmoU794.png" group-title="BRASIL",SBT
 https://stmv1.transmissaodigital.com/cidadeverdenovo/cidadeverdenovo/chunklist_w632325341.m3u8
  
-#EXTINF:-1 tvg-id="Tvcultura.br" tvg-logo="https://iili.io/JmoUaN2.png" group-title="BRASIL",Cultura
+#EXTINF:-1 tvg-id="CULTURA.HD.br" tvg-logo="https://iili.io/JmoUaN2.png" group-title="BRASIL",Cultura
 https://d28367vmhj4ljz.cloudfront.net/out/v1/60afbd200f12447ea25ddfb39baf8d09/index.mpd
  
-#EXTINF:-1 tvg-id="Futura.br" tvg-logo="https://iili.io/JmoU1V9.png" group-title="BRASIL",Futura
+#EXTINF:-1 tvg-id="FUTURA.HD.br" tvg-logo="https://iili.io/JmoU1V9.png" group-title="BRASIL",Futura
 https://stmv1.transmissaodigital.com/ronald6259/ronald6259/playlist.m3u8
  
 #EXTINF:-1 tvg-id="Gazeta.HD.br" tvg-logo="https://iili.io/JmoU0o7.png" group-title="BRASIL",Gazeta
