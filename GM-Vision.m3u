@@ -3095,16 +3095,24 @@ https://live.rte.ie/live/a/channel2/channel2.isml/channel2.mpd
 https://dx4452e0qv6r9.cloudfront.net/tg4_vod_national.m3u8
 
 #EXTINF:-1 tvg-id="Virgin Media One.ie" tvg-logo="https://iili.io/2GlTsaI.png" group-title="IRELAND",Virgin Media One
-https://live-virginmedia.simplestreamcdn.com/s3/rewrite/virgin_one/index.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8a4852ca631e42e553cf53ad6150f7b0:f1e3f39d41614993ac5c5353f6e58d1c
+https://d1skybhgk06ry3.cloudfront.net/out/v1/b851a79cb9984d8eb85a3060d381641e/index/index.m3u8
 
 #EXTINF:-1 tvg-id="Virgin Media Two.ie" tvg-logo="https://iili.io/2GlTi3N.png" group-title="IRELAND",Virgin Media Two
-https://live-virginmedia.simplestreamcdn.com/s3/rewrite/virgin_two/index.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6c4ef154df2f1c07704f4ffae4005be6:294e0a27e76c43aeb16c2b71fc201cfb
+https://d3r8pf1u64jsoc.cloudfront.net/out/v1/efe2396f3d2d49559edb992c14909e42/index/index.m3u8
 
 #EXTINF:-1 tvg-id="Virgin Media Three.ie" tvg-logo="https://iili.io/2GlT64p.png" group-title="IRELAND",Virgin Media Three
-https://live-virginmedia.simplestreamcdn.com/s3/rewrite/virgin_three/index.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b10708238b2fe95e0080fe17c28d88fb:1afd6317f3b44772aa2463e1ea1f7d42
+https://d3n2r2x6pixas4.cloudfront.net/out/v1/a089af0e820545d1bfb93405b94c9db1/index/index.m3u8
 
 #EXTINF:-1 tvg-id="Virgin Media Four.ie" tvg-logo="https://iili.io/2GlTLvt.png" group-title="IRELAND",Virgin Media Four
-https://live-virginmedia.simplestreamcdn.com/s3/rewrite/virgin_four/index.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=bdcf25ad46d7907c35832964b836a4bd:9edd4350307b4405b132ff97816d81e9
+https://d1o5wc5bjvzqoa.cloudfront.net/out/v1/cf89f1bca848473685ac2dfbe8fd927b/index/index.m3u8
 
 #EXTINF:-1 tvg-id="Band.br" tvg-logo="https://iili.io/JmoUctS.png" group-title="BRASIL",Band
 https://stmv1.paineltv.net/valeradiowebtv/valeradiowebtv/chunklist_w1825787253.m3u8
