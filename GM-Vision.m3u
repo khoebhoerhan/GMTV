@@ -546,7 +546,7 @@ http://op-group1-swiftservehd-1.dens.tv/h/h219/index.m3u8?c
 #EXTVLCOPT:http-referrer=https://visionplus.id/
 https://d1abp075u76pbq.cloudfront.net/live/eds/Animax/sa_dash_vmx/Animax.mpd
  
-#EXTINF:-1 tvg-id="Aniplus.id" tvg-logo="https://iili.io/Jmo2bPn.png" group-title="JAPANESE ENTERTAINMENT",Aniplus
+#EXTINF:-1 tvg-id="Aniplus.id" tvg-logo="https://iili.io/3JRuDCJ.png" group-title="JAPANESE ENTERTAINMENT",Aniplus
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"uuHkfbVitmiVvrj8zfKtig", "kid":"8sMT/OVTROWlI4l0HR9T+A" } ], "type":"temporary" }
@@ -3543,7 +3543,7 @@ https://wz.mari.co.id:1936/web_mostfm/mostfm/playlist.m3u8
 https://playerservices.streamtheworld.com/api/livestream-redirect/PRAMBORS_FMAAC.aac?dist=onlineradiobox
 #EXTINF:-1 tvg-logo="https://iili.io/Jmx9vcv.png" group-title="RADIO INDONESIA",Delta FM
 https://stream.cloudmu.id/listen/delta_fm/stream?icy=http
-#EXTINF:-1 tvg-logo="https://iili.io/JmomnGj.png" group-title="RADIO INDONESIA",iRadio Jakarta
+#EXTINF:-1 tvg-logo="https://iili.io/3JRYfNS.png" group-title="RADIO INDONESIA",iSwara Jakarta
 https://stream.radiojar.com/4ywdgup3bnzuv
 #EXTINF:-1 tvg-logo="https://iili.io/JmomRu1.png" group-title="RADIO INDONESIA",Jak FM
 https://wz.mari.co.id:1936/web_jakfm/jakfm/playlist.m3u8
@@ -3559,9 +3559,9 @@ https://svara-stream.radioddns.net:8443/bandung_voksradio
 https://cast2.my-control-panel.com/proxy/radios13/stream
 #EXTINF:-1 tvg-logo="https://iili.io/Jmopuff.png" group-title="RADIO INDONESIA",OZ Radio Bandung
 http://45.64.97.211:1031/;stream.nsv
-#EXTINF:-1 tvg-logo="https://iili.io/Jmomz3Q.png" group-title="RADIO INDONESIA",iRadio Bandung
+#EXTINF:-1 tvg-logo="https://iili.io/3JRYCx9.png" group-title="RADIO INDONESIA",iSwara Bandung
 http://stream.radiojar.com/u6ppe6hswk8uv
-#EXTINF:-1 tvg-logo="https://iili.io/JmomIaV.png" group-title="RADIO INDONESIA",iRadio Makassar
+#EXTINF:-1 tvg-logo="https://iili.io/3JRYzKb.png" group-title="RADIO INDONESIA",iSwara Makassar
 http://stream.radiojar.com/seqmzfeu5k8uv
 #EXTINF:-1 tvg-logo="https://iili.io/Jmx94tt.png" group-title="RADIO INDONESIA",EBS FM
 http://streaming.suzanafm.com:8100/;stream.nsv
@@ -3626,7 +3626,7 @@ https://stream-ssl.arenastreaming.com:8025/semarang
 #EXTINF:-1 tvg-logo="https://iili.io/JmxHHx9.png" group-title="RADIO INDONESIA",Favorit FM
 http://s4.vinhostmedia.com:8000/favoritfm
 #EXTINF:-1 tvg-logo="https://iili.io/JmxHJVe.png" group-title="RADIO INDONESIA",FBI Radio Bali
-http://server.fbifm.com:9180/fbibaliradio
+http://server.fbifm.com:9180/fbibaliSwara
 #EXTINF:-1 tvg-logo="https://iili.io/JmxH3Kb.png" group-title="RADIO INDONESIA",Female Radio
 https://stream.cloudmu.id/listen/female/stream
 #EXTINF:-1 tvg-logo="https://iili.io/JmxHFlj.png" group-title="RADIO INDONESIA",Gajahmada FM
@@ -3647,7 +3647,7 @@ http://stream.radiojar.com/fnex9bkswk8uv
 http://stream.radiojar.com/9k28wsbu5k8uv
 #EXTINF:-1 tvg-logo="https://iili.io/2VYHqQe.png" group-title="RADIO INDONESIA",The Rockin' Life Jakarta
 https://stream.radiojar.com/7csmg90fuqruv
-#EXTINF:-1 tvg-logo="https://iili.io/JmxHRUv.png" group-title="RADIO INDONESIA",Hard Rock FM Surabaya
+#EXTINF:-1 tvg-logo="https://iili.io/3JRY5OB.png" group-title="RADIO INDONESIA",iSwara Surabaya
 http://stream.radiojar.com/yg8ne2v80k8uv
 #EXTINF:-1 tvg-logo="https://iili.io/JmxH7JR.png" group-title="RADIO INDONESIA",Heartline Bali
 https://svara-stream.radioddns.net:8443/bali_heartlineradio_stereo
@@ -3663,11 +3663,11 @@ https://wz.mari.co.id:1936/web_hotfm/hotfm/playlist.m3u8
 https://server.radioimeldafm.co.id:8030/imeldafm
 #EXTINF:-1 tvg-logo="https://iili.io/JmxHMfs.png" group-title="RADIO INDONESIA",IMI Radio
 https://live1.indostreamserver.com/8008/stream
-#EXTINF:-1 tvg-logo="https://iili.io/Jmomo6x.png" group-title="RADIO INDONESIA",iRadio Banjarmasin
+#EXTINF:-1 tvg-logo="https://iili.io/3JRYqD7.png" group-title="RADIO INDONESIA",iSwara Banjarmasin
 http://stream.radiojar.com/qfqd2aw80k8uv
-#EXTINF:-1 tvg-logo="https://iili.io/JmomT8B.png" group-title="RADIO INDONESIA",iRadio Medan
+#EXTINF:-1 tvg-logo="https://iili.io/3JRYIlj.png" group-title="RADIO INDONESIA",iSwara Medan
 http://stream.radiojar.com/hkuevehswk8uv
-#EXTINF:-1 tvg-logo="https://iili.io/JmomCCb.png" group-title="RADIO INDONESIA",iRadio Jogja
+#EXTINF:-1 tvg-logo="https://iili.io/3JRYKR2.png" group-title="RADIO INDONESIA",iSwara Jogja
 http://stream.radiojar.com/hnf2cbv80k8uv
 #EXTINF:-1 tvg-logo="https://iili.io/JmomuyP.png" group-title="RADIO INDONESIA",Istara FM
 http://live.serverstreaming.net:8100/istarafm
@@ -3853,9 +3853,9 @@ http://taradio.onlivestreaming.net:10350/stream
 http://sgp2.onlivestreaming.net:9730/stream
 #EXTINF:-1 tvg-logo="https://iili.io/JmoyQyB.png" group-title="RADIO INDONESIA",Thomson News
 http://i.klikhost.com:8240/
-#EXTINF:-1 tvg-logo="https://iili.io/JmoytTP.png" group-title="RADIO INDONESIA",Trax FM Palembang
+#EXTINF:-1 tvg-logo="https://iili.io/3JRYTUx.png" group-title="RADIO INDONESIA",iSwara Palembang
 http://stream.radiojar.com/qv4muvhswk8uv
-#EXTINF:-1 tvg-logo="https://iili.io/JmoybZF.png" group-title="RADIO INDONESIA",Trax FM Semarang
+#EXTINF:-1 tvg-logo="https://iili.io/3JRYAHQ.png" group-title="RADIO INDONESIA",iSwara Semarang
 http://stream.radiojar.com/fr9zqhv80k8uv
 #EXTINF:-1 tvg-logo="https://iili.io/JmoypCg.png" group-title="RADIO INDONESIA",Trax Jakarta
 https://stream.radiojar.com/rrqf78p3bnzuv
