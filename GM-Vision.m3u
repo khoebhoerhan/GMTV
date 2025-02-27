@@ -1192,8 +1192,11 @@ https://rt-rtd.rttv.com/live/rtdoc/playlist.m3u8
 #EXTINF:-1 tvg-id="CGTN Documentary - [Channel 205].id" tvg-logo="https://iili.io/JmoChs2.png" group-title="SCIENCE & DOCUMENTARY",CGTN Documentary
 https://english-livebkws.cgtn.com/live/doccgtn_0.m3u8
  
-#EXTINF:-1 tvg-logo="https://iili.io/JmooMMl.png" group-title="SCIENCE & DOCUMENTARY",Fox Weather
+#EXTINF:-1 tvg-logo="https://iili.io/JmooMMl.png" group-title="WEATHER",Fox Weather
 https://247wlive.foxweather.com/stream/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://iili.io/2rc9eNS.png" group-title="WEATHER",The Weather Channel
+https://tvpass.org/live/TheWeatherChannel/hd
  
 #EXTINF:-1 tvg-id="511.astro" tvg-logo="https://iili.io/JhksTaS.png" group-title="WORLD NEWS",CNN International
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
@@ -1309,8 +1312,7 @@ https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/m
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
  
 #EXTINF:-1 tvg-id="One America News Network HD (1208).us" tvg-logo="https://iili.io/JmKvRCQ.png" group-title="AMERICAN NEWS",OAN
-#EXTVLCOPT:http-referrer=https://usnewson.com/watch/oann-live-stream/
-https://s17.usnlive.com/stream/oann.m3u8
+https://a-cdn.klowdtv.com/live1/oan_720p/playlist.m3u8
  
 #EXTINF:-1 tvg-id="5f161c0a8ba90f0007d5bd0b" tvg-logo="https://iili.io/JmKv2jf.png" group-title="AMERICAN NEWS",Yahoo! Finance
 https://yahoo-samsung.amagi.tv/playlist.m3u8
